@@ -1,0 +1,773 @@
+@chapter 21 | Mineral Resources II: Coal, Petroleum and Natural Gas
+
+@intro
+**Coal** is India's chief source of commercial energy and still generates about **70%** of its electricity. Nearly all of it lies in **Gondwana** basins along the **Damodar, Son, Mahanadi and Godavari** valleys; the young **Tertiary** coals of the north-east and the **lignite** of Neyveli and Gujarat are minor. India produced over **one billion tonnes** of coal in 2024-25, second only to China. **Petroleum** comes from Tertiary sedimentary basins: **Mumbai High** offshore, **Gujarat** and **Rajasthan** onshore, and **Assam**, where India's oil story began. This chapter covers coal reserves and production, coalfields, lignite, oilfields, refineries, natural gas and pipelines. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 21.1 | Coal: Reserves and Production
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P. U.D.A./L.D.A. (Pre) 2006
+Which one of the following rock systems in India is the main source of coal deposits?
+(a) Dharwar system
+(b) Gondwana system
+(c) Cuddapah system
+(d) Vindhyan system
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 2017; U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which one rock systems provides over 90% of the coal of India?
+@ans Gondwana system
+@end
+
+About **99.5%** of India's coal resources are in **Lower Gondwana** rocks (about 250 million years old). The rest are **Tertiary** coals (about 50 million years) of Assam, Meghalaya and Arunachal Pradesh, which are high in sulphur.
+
+@pyq U.P. B.E.O. (Pre) 2019
+Given below are two statements, one labelled as Assertion (A) and the other as Reason (R)?
+Assertion (A) : According to Geological Survey of India the total reserve of all grade coal in India is 293.50 billion tonnes.
+Reason (R) : More than half of total proved reserve of coal of the country is found in two State - Jharkhand and Odisha.
+Choose the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (b)
+@note UPPSC's key is (b). The source book argues for (d): India's total coal resources were already well above 293.5 billion tonnes (about 319 billion tonnes as on 1 April 2018, and about 361 billion tonnes in 2022), while **Jharkhand and Odisha** do hold more than half the proved reserves.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following statements with reference to coal :
+1. India is one of the world's leading producer of coal.
+2. India has vast coal reserves in states like Jharkhand and Chhattisgarh.
+Select the correct answer from the code given below:
+Code :
+(a) Only 2
+(b) Both 1 and 2
+(c) Neither 1 nor 2
+(d) Only 1
+@ans (b)
+@end
+
+@table
+State | Coal resources, 2022 (billion tonnes) | Main fields
+Odisha | 88.1 | Talcher, Ib Valley
+Jharkhand | 86.7 | Jharia, Bokaro, Karanpura, Raniganj (part), Rajmahal
+Chhattisgarh | 74.2 | Korba, Mand-Raigarh, Hasdeo-Arand, Bisrampur
+West Bengal | 33.9 | Raniganj
+Madhya Pradesh | 30.9 | Singrauli, Sohagpur, Umaria, Pench-Kanhan
+Telangana | 23 (approx.) | Singareni (Godavari valley)
+Maharashtra | 13 (approx.) | Wardha valley, Kamptee
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following is the correct sequence of States of India in descending order in terms of reserves of coal?
+(a) Odisha, Chhattisgarh, Jharkhand, Madhya Pradesh
+(b) Chhattisgarh, Odisha, Madhya Pradesh, Jharkhand
+(c) Jharkhand, Odisha, Chhattisgarh, Madhya Pradesh
+(d) Madhya Pradesh, Chhattisgarh, Jharkhand, Odisha
+@ans (*)
+@note (c) was correct in 2014. **Odisha** has since moved ahead of Jharkhand in total resources (2022: Odisha, Jharkhand, Chhattisgarh, West Bengal, Madhya Pradesh), so none of the codes is now exact.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The correct sequence in descending order of the following state in terms of the proved coal reserves, as per the report of the Ministry of Coal as on 1-4-2014 is:
+(a) Chhattisgarh, Jharkhand, Odisha, Maharashtra
+(b) Odisha, Jharkhand, Chhattisgarh, Maharashtra
+(c) Jharkhand, Chhattisgarh, Maharashtra, Odisha
+(d) Jharkhand, Odisha, Chhattisgarh, Maharashtra
+@ans (a)
+@note the key's order (Chhattisgarh, Jharkhand, Odisha, Maharashtra) matches **production** in 2014-15. For **proved reserves** as on 1 April 2014 the order was Jharkhand, Odisha, Chhattisgarh, Maharashtra, i.e. (d). Learn both orders.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Two leading Coal producing states in India are –
+(a) Chhattisgarh and Odisha
+(b) Jharkhand and Chhattisgarh
+(c) Jharkhand and Madhya Pradesh
+(d) Chhattisgarh and Andhra Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Arrange the following states in descending order of coal production and choose the correct answer using code given below:
+(i) Chhattisgarh
+(ii) Jharkhand
+(iii) Madhya Pradesh
+(iv) Odisha
+Code :
+(a) (iv) (i) (ii) (iii)
+(b) (ii) (iv) (iii) (i)
+(c) (ii) (i) (iv) (iii)
+(d) (iii) (ii) (iv) (i)
+@ans (*)
+@note (c) Jharkhand, Chhattisgarh, Odisha, Madhya Pradesh was right in 2008. In 2021-22 the order was **Odisha, Chhattisgarh, Madhya Pradesh, Jharkhand**, which no code gives exactly.
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2014
+Which state is the largest producer of coal in India?
+@ans Odisha
+@end
+
+@one U.P.P.C.S. (Pre) 2009; U.P. Lower Sub. (Pre) 2002
+Which one of the state the largest Coal producing state of India?
+@ans Odisha
+@end
+
+@one U.P.P.C.S. (Mains) 2009
+Three leading producers of Coal in descending order are
+@ans Odisha, Chhattisgarh and Madhya Pradesh
+@end
+
+@trap
+Coal rankings depend on what is measured. **Resources**: Odisha just ahead of Jharkhand. **Production**: Odisha, then Chhattisgarh. **Best coking coal**: Jharkhand (Jharia). **Coalfield with the largest reserves**: Raniganj. Read whether the stem says reserves, proved reserves or production.
+@end
+
+@section 21.2 | Coalfields and their States
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Developed of Chota Nagpur industrial region is linked with the discovery of :
+(a) Bauxite
+(b) Coal
+(c) Iron ore
+(d) Manganese
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+The contribution of Chota Nagpur in production of coal, is approx :
+(a) 20%
+(b) 40%
+(c) 60%
+(d) 80%
+@ans (c)
+@end
+
+The **Damodar valley** coalfields (Jharia, Raniganj, Bokaro, Giridih, Karanpura) drew the iron and steel industry to Jamshedpur, Bokaro, Durgapur and Burnpur. The wider Chotanagpur region (Jharkhand, Odisha, Chhattisgarh, West Bengal) still gives about **three-fifths** of India's coal.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+Match List-I with List-II and select the correct answer from the codes given below the list :
+@match
+List- I (Coal producing Areas) | List- II (Coalfields)
+A. Damodar Valley | 1. Talcher
+B. Son Valley | 2. Barakar
+C. Godavari Valley | 3. Umaria
+D. Mahanadi Valley | 4. Singareni
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 3 2 1 4
+(c) 1 3 4 2
+(d) 4 1 2 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Match List- I with List- II and select the correct answer using the code given below the lists :
+@match
+List- I (Coal Fields) | List- II (Located)
+A. Talcher | 1. Damodar Valley
+B. Karnapura | 2. Son Valley
+C. Singroli | 3. Godavari Valley
+D. Singreni | 4. Mahanadi Valley
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 3 2 1 4
+(c) 2 4 3 1
+(d) 1 3 2 4
+@ans (a)
+@end
+
+UP link: the **Singrauli** coalfield of the Son valley lies mostly in Madhya Pradesh, with a part in **Sonbhadra (UP)**. It feeds the "energy capital" of super thermal stations: Singrauli, Rihand, Vindhyachal, Anpara and Obra.
+
+@pyq U.P.P.S.C. (GIC) 2010
+Talcher is a famous coal region, located in :
+(a) Andhra Pradesh
+(b) Chhattisgarh
+(c) Jharkhand
+(d) Odisha
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following pairs (State – Coalfield) is not correctly matched?
+(a) Odisha - Talcher
+(b) Madhya Pradesh - Singareni
+(c) Chhattisgarh - Korba
+(d) Maharashtra - Wardha Valley
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is / are correctly matched?
+(Coal Producing Area) – (State)
+1. Maolong – Arunachal Pradesh
+2. Raniganj – West Bengal
+3. Ramgarh – Jharkhand
+4. Talcher – Odisha
+Select the correct answer from the code given below :
+Code :
+(a) Only 1 and 2
+(b) Only 2, 3 and 4
+(c) Only 1, 2 and 3
+(d) Only 1
+@ans (b)
+@end
+
+**Maolong** is a coal area of the East Khasi Hills in **Meghalaya**. Meghalaya's small Tertiary coal pits (rat-hole mining) were banned by the National Green Tribunal in 2014.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Coal Resources) | List-II (States)
+A. Hutar | 1. Madhya Pradesh
+B. Ib River | 2. Chhattisgarh
+C. Tatapani-Ramkola | 3. Odisha
+D. Umaria | 4. Jharkhand
+@endmatch
+Codes : A B C D
+(a) 3 2 4 1
+(b) 2 1 3 4
+(c) 4 3 2 1
+(d) 4 2 3 1
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Match List-I with List-II and choose the correct answer using codes given below :
+@match
+List- I (Coalfields) | List- II (States)
+A. Karanpura | 1. Chhattisgarh
+B. Singareni | 2. Tamil Nadu
+C. Neyveli | 3. Jharkhand
+D. Korba | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 4 1 3 2
+(b) 1 2 4 3
+(c) 3 4 2 1
+(d) 2 3 1 4
+@ans (*)
+@note (c) was correct in 2010. **Singareni** has been in **Telangana** since 2014; Neyveli is a lignite field.
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Coalfields) | List-II (States)
+A. Rajmahal | 1. West Bengal
+B. Sohagpur | 2. Chhattisgarh
+C. Bisrampur | 3. Madhya Pradesh
+D. Raniganj | 4. Jharkhand
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 1 4 3 2
+(d) 3 2 4 1
+@ans (b)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Match List-I with List-II and select the correct answer from the code given below the lists:
+@match
+List-I (Coal field) | List-II (Location)
+A. Makum | 1. Assam
+B. Namchik | 2. Arunachal Pradesh
+C. Girdih | 3. Jharkhand
+D. Sohagpur | 4. Madhya Pradesh
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 2 4 3
+(c) 1 4 3 2
+(d) 2 1 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+In which one of the following states are Namchik-Namphuk coal fields located ?
+(a) Arunachal Pradesh
+(b) Meghalaya
+(c) Mizoram
+(d) Manipur
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from the code given below:
+@match
+List-I (Coal field) | List-II (State of India)
+A. Jhilmili | 1. Odisha
+B. Karanpura | 2. Madhya Pradesh
+C. Rampur Himgir | 3. Chhattisgarh
+D. Sohagpur | 4. Jharkhand
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 1 2 4 3
+(c) 2 1 3 4
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer in the code given below:
+@match
+List-I (Coal fields) | List-II (Indian States)
+A. Ranjit Valley | 1. Jharkhand
+B. Tandoor | 2. Sikkim
+C. Warora | 3. Telangana
+D. Lalmatia | 4. Maharashtra
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 1 2
+(c) 2 3 4 1
+(d) 2 4 3 1
+@ans (*)
+@note the pairing Ranjit (Rangit) Valley-Sikkim, Tandoor-Telangana, Warora-Maharashtra, Lalmatia-Jharkhand gives code (c). The key is marked (*) only because the Sikkim field is officially named **Rangit** Valley. Lalmatia is part of the Rajmahal coalfield.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P. Lower Sub. (Pre) 2004
+Bisrampur is famous for the mining of –
+(a) Copper ore
+(b) Iron ore
+(c) Coal
+(d) Manganese
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+In which of the following coal region the coal reserve is maximum?
+(a) Jharia
+(b) Raniganj
+(c) Korba
+(d) Singrauli
+@ans (b)
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2014
+Jharia coalfield is located in which of the following states?
+@ans Jharkhand
+@end
+
+**Raniganj** (West Bengal and Jharkhand) has the largest coal reserves of any single field. **Jharia** (Dhanbad) is the main source of **coking coal** for steel, and has had underground fires burning for over a century.
+
+@table
+Coalfield | State | Valley or region
+Raniganj | West Bengal (and Jharkhand) | Damodar
+Jharia, Bokaro, Giridih, Karanpura, Ramgarh | Jharkhand | Damodar
+Rajmahal (Lalmatia), Hutar, Daltonganj | Jharkhand | Rajmahal hills, North Koel
+Talcher, Ib River, Rampur-Himgir | Odisha | Mahanadi, Brahmani
+Korba, Mand-Raigarh, Hasdeo-Arand, Bisrampur, Jhilmili, Tatapani-Ramkola | Chhattisgarh | Mahanadi, Son
+Singrauli, Sohagpur, Umaria, Pench-Kanhan | Madhya Pradesh | Son, Satpura
+Singareni, Tandur | Telangana | Godavari
+Wardha valley, Kamptee, Warora | Maharashtra | Wardha
+Makum (Margherita) | Assam | Tertiary coal
+Namchik-Namphuk | Arunachal Pradesh | Tertiary coal
+Rangit Valley | Sikkim | Gondwana
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the important events of coal mining in India and arrange these in correct chronological order starting from the earliest to the last activity :
+I. First production of coal in Raniganj
+II. Establishment of Coal India Ltd. (CIL)
+III. Nationalisation of coal mines
+IV. Establishment of National Coal Development Corporation (NCDC)
+Select the correct answer using the code given below :
+Code :
+(a) I, II, III, IV
+(b) III, I, II, IV
+(c) I, IV, III, II
+(d) I, III, II, IV
+@ans (c)
+@end
+
+Commercial mining began at **Raniganj in 1774** (Sumner and Heatly of the East India Company). The **NCDC** was formed in **1956**, coking-coal mines were nationalised in **1971-72** and the rest by the Coal Mines (Nationalisation) Act of **1973**, and **Coal India Ltd** was set up in **November 1975**. Commercial coal mining by private firms was opened in **2020**.
+
+@section 21.3 | Lignite and the Use of Coal
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+Assertion (A): Lignite is an inferior variety of coal containing 35-40 percent of Carbon.
+Reason (R) : Jharkhand is the largest producer of lignite in India.
+In the context of the above statements which of the following is true:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2013
+Largest deposit of lignite coal is found in India at
+@ans Tamil Nadu
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which one of the the following is largest lignite coal field in India?
+(a) Singrauli
+(b) Makum
+(c) Karanpura
+(d) Neyveli
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains), 2017
+Which State has the 'NOT' largest reserves of Lignite Coal
+(a) Gujarat
+(b) Kerala
+(c) Jharkhand
+(d) Tamil Nadu
+@ans (c)
+@end
+
+@table
+Coal grade | Carbon content (approx.) | Note
+Anthracite | 80-95% | Best; small amounts in Jammu and Kashmir
+Bituminous | 60-80% | Most Gondwana coal; coking varieties used for steel
+Lignite (brown coal) | 40-55% | Neyveli (Tamil Nadu), Gujarat, Rajasthan
+Peat | Below 50% | First stage of coal formation
+@end
+
+**Tamil Nadu** (Neyveli, Cuddalore) has about four-fifths of India's lignite and is the largest producer, followed by **Gujarat** (Kutch, Bharuch) and **Rajasthan** (Barsingsar, Bikaner). **NLC India** runs the Neyveli mines and power stations. Jharkhand has no lignite.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Maximum Coal is used in –
+(a) Energy Production
+(b) Iron and steel industry
+(c) Railway
+(d) Steamships
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+Assertion (A) : The inter-state movement of coal form a major component of inter-state traffic handled by railways.
+Reason (R) : Bengal-Jharkhand coalfields are major source of coal supply to the northwestern states.
+Select the correct answer from the code given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+About **three-quarters** of the coal used in India goes to **power stations**. Coal is also the largest single item of railway freight, about half of the tonnage, which is why the **Eastern Dedicated Freight Corridor** (Ludhiana to Sonnagar) was built along the coal route to the north-west.
+
+@section 21.4 | Petroleum: Oilfields
+
+@pyq U.U.D.A./L.D.A. (Pre) 2013
+Where was the first oil well drilled in India?
+(a) Digboi
+(b) Makum
+(c) Naharkatiya
+(d) Lakwa
+@ans (b)
+@note the first well was drilled near **Makum** (Upper Assam) in **1867**. UPPSC's revised key changed the answer to (a) Digboi, where oil was struck commercially in **1889** and Asia's oldest working refinery opened in **1901**. Learn both facts.
+@end
+
+@pyq U.P.P.C.S. (GIC) 2010; U.P.P.C.S. (Mains) 2003, 2004
+The leading producer of petroleum in India is:
+(a) Assam
+(b) Gujarat
+(c) Maharashtra
+(d) Tamil Nadu
+@ans (b)
+@end
+
+**Offshore Mumbai High** produces the largest share of India's crude oil. Among states (onshore), **Rajasthan** (Mangala, Bhagyam and Aishwariya fields of the **Barmer basin**, since 2009) has led for some years, followed by **Gujarat** and **Assam**. When the question was set, Gujarat led among states.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Ankleshwar is famous for –
+(a) Petrol reserves
+(b) Diamond mines
+(c) Atomic power station
+(d) Multipurpose river project
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Navgam oil field is located in –
+(a) Assam
+(b) Gujarat
+(c) Maharashtra
+(d) Andhra Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following facts about Bombay High Oil Field is not correct?
+(a) Bombay High Oil Field lies 60 km off Mumbai coast.
+(b) It was discovered in 1965.
+(c) The first oil well was drilled in 1974.
+(d) It was discovered jointly by Russian and Indian teams.
+@ans (a)
+@end
+
+**Mumbai High** lies about **160 km** off the coast in the Arabian Sea. It was found by Indian and Soviet survey teams in the mid-1960s, oil was struck by ONGC's rig *Sagar Samrat* in **1974**, and production began in **1976**.
+
+@table
+Region | Main oil or gas fields
+Assam | Digboi, Naharkatiya, Moran, Lakwa, Rudrasagar, Amguri
+Gujarat | Ankleshwar (1960), Kalol, Navagam, Mehsana, Lunej, Kosamba
+Rajasthan (Barmer) | Mangala, Bhagyam, Aishwariya
+Offshore Mumbai | Mumbai High, Bassein (gas), Neelam, Panna-Mukta
+Krishna-Godavari basin | KG-D6 (gas), Ravva (oil)
+Cauvery basin | Narimanam, Kovilkalappal
+@end
+
+@section 21.5 | Refineries
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which is the biggest refinery in India?
+(a) Jam Nagar
+(b) Pradweep
+(c) Digboi
+(d) Tatipaka
+@ans (a)
+@end
+
+**Jamnagar** (Reliance Industries, Gujarat) is the world's largest refining complex, with about 68 million tonnes a year of capacity. **Nayara Energy's Vadinar** refinery is nearby. India has 22 refineries and is the world's third largest refiner.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+Where is no oil refinery mentioned below?
+(a) Koyali
+(b) Noonmati
+(c) Hatia
+(d) Barauni
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The Noonmati Oil refinery is located in the State of
+(a) Assam
+(b) Bihar
+(c) Gujarat
+(d) West Bengal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following pairs is correctly matched?
+(a) Haldia - Odisha
+(b) Jamnagar - Maharashtra
+(c) Numaligarh - Gujarat
+(d) Panagudi - Tamil Nadu
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List - I with List - II and choose the correct answer using the code given below the lists.
+@match
+List I (Refinery) | List II (State)
+A. Nayara | 1. Assam
+B. Manali | 2. Gujarat
+C. Numaligarh | 3. Andhra Pradesh
+D. Tatipaka | 4. Tamil Nadu
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 2 4 1 3
+(c) 2 4 3 1
+(d) 4 2 1 3
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (Pre) 2005
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Oil Refinery) | List- II (States)
+A. Haldia | 1. Assam
+B. Jamnagar | 2. Kerala
+C. Kochi | 3. Gujarat
+D. Numaligarh | 4. West Bengal
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Oil refineries) | List- II (States)
+A. Numaligarh | 1. Bihar
+B. Tatipaka | 2. Gujarat
+C. Koyali | 3. Andhra Pradesh
+D. Barauni | 4. Assam
+@endmatch
+Code : A B C D
+(a) 1 4 3 2
+(b) 2 1 4 3
+(c) 3 2 1 4
+(d) 4 3 2 1
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2016
+Tatipaka Oil Refinery is located in the state of
+@ans Andhra Pradesh
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Match item of List-I with those of List-II and select your correct answer from the codes given below the lists:
+@match
+List- I (Oil refineries) | List- II (States)
+A. Noonmati | 1. Gujarat
+B. Koyali | 2. Haryana
+C. Mangalore | 3. Assam
+D. Panipat | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 4 1 3 2
+(c) 2 4 1 3
+(d) 3 1 4 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Match items of List-I with those of List-II and select your correct answer from the codes given below :
+@match
+List- I (Oil refineries) | List- II (States)
+A. Tatipaka | 1. Gujarat
+B. Koyali | 2. Tamil Nadu
+C. Nagapattinam | 3. Andhra Pradesh
+D. Numaligarh | 4. Assam
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 3 1 2 4
+(c) 4 3 1 2
+(d) 1 2 4 3
+@ans (b)
+@end
+
+@one U.P. R.O/A.R.O. (Mains) 2016
+In which State of India 'Koyali' petroleum refinery is located?
+@ans Gujarat
+@end
+
+@table
+Refinery | State | Note
+Digboi | Assam | 1901; oldest working refinery in Asia
+Guwahati (Noonmati), Bongaigaon, Numaligarh | Assam | Numaligarh born of the Assam Accord (1985)
+Barauni | Bihar | Soviet-aided, 1964
+Haldia | West Bengal | IOC
+Paradip | Odisha | IOC, 2016
+Koyali (Gujarat Refinery), Jamnagar, Vadinar | Gujarat | Koyali near Vadodara
+Mathura | Uttar Pradesh | IOC, 1982
+Panipat | Haryana | IOC
+Bina | Madhya Pradesh | BPCL
+Mumbai (two), Ratnagiri (planned) | Maharashtra | HPCL, BPCL
+Mangaluru (MRPL) | Karnataka | ONGC
+Kochi | Kerala | BPCL
+Manali (Chennai), Nagapattinam (Cauvery Basin) | Tamil Nadu | CPCL
+Visakhapatnam, Tatipaka | Andhra Pradesh | HPCL; ONGC mini refinery
+Barmer (Pachpadra) | Rajasthan | HPCL, under construction
+@end
+
+UP link: the **Mathura refinery** (IOC, 1982) is UP's only refinery. Its emissions became a public issue because of the **Taj Mahal**: the Supreme Court's **Taj Trapezium Zone** order (1996) restricted polluting industry around Agra.
+
+@trap
+**Hatia** (Ranchi) is the heavy engineering township, not a refinery. **Haldia** is in West Bengal, not Odisha. **Koyali** is Gujarat's IOC refinery, not a Karnataka or Assam one. **Tatipaka** is a small ONGC refinery in East Godavari, Andhra Pradesh.
+@end
+
+@section 21.6 | Strategic Reserves, Exploration and Natural Gas
+
+@pyq U.P. Lower Sub. (Pre) 2008
+To insulate the country from disruptions in supply of crude oil, India has established "India Strategic Petroleum Reserves Ltd". It will construct underground storages at three places. Identify the place which has not been selected for the purpose.
+(a) Visakhapatnam
+(b) Mangalore
+(c) Padur
+(d) Ankaleshwar
+@ans (d)
+@end
+
+India's first **strategic petroleum reserves** are underground rock caverns at **Visakhapatnam**, **Mangaluru** and **Padur** (near Udupi), together about 5.3 million tonnes, about nine and a half days of imports. Phase II adds **Chandikhol** (Odisha) and a second Padur cavern.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+'Hydrogen Vision- 2025' is related to –
+(a) Warehousing of petroleum products
+(b) Euro-I and Euro-II norms for vehicles
+(c) 'Green House' effect
+(d) None of the above
+@ans (a)
+@note the document meant is the government's **Hydrocarbon Vision 2025** (1999), a long-term plan for the oil and gas sector that included strategic storage of petroleum. Hence the key's link with warehousing.
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The oil exploration in India is undertaken by –
+(a) Hindustan Petroleum
+(b) Indian Oil Corporation
+(c) Oil India Ltd.
+(d) All of the above
+@ans (c)
+@end
+
+**ONGC** (1956) and **Oil India Ltd** (1959, Duliajan, Assam) are the national exploration companies. **IOC, HPCL and BPCL** are mainly refining and marketing companies.
+
+@pyq U.P.P.C.S. (Mains) 2006
+HBJ pipeline transports natural gas from:
+(a) Ankleshwar
+(b) Kalol
+(c) South Basin
+(d) Godavari Basin
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Hajira-Bijapur-Jagdishpur (HBJ) Gas Pipeline has been constructed by which of the following authorities?
+(a) Gas Authority of India Limited
+(b) Oil India Limited
+(c) Indian Oil Company
+(d) Hindustan Petroleum Corporation Limited
+@ans (a)
+@end
+
+UP link: the **Hazira-Vijaipur-Jagdishpur (HVJ/HBJ)** pipeline (GAIL, 1987) carries gas from the **South Bassein** field off Mumbai to **Jagdishpur (Amethi)**, supplying fertiliser plants at Vijaipur (MP), **Aonla, Babrala and Jagdishpur** and power stations at **Auraiya** and Dadri on the way. It has since been extended as part of the national gas grid, including the **Jagdishpur-Haldia-Bokaro-Dhamra (Pradhan Mantri Urja Ganga)** pipeline.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Recently, in which part of India, Reliance Industries Limited has explored a huge amount of natural gas?
+(a) Badmer region
+(b) Bombay high region
+(c) Andaman and Nicobar region
+(d) Coastal Andhra region
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+KG-D6 Basin, which has been in the news since April, 2009 has large reserves of :
+(a) Coal
+(b) Crude Oil
+(c) Gas
+(d) Uranium
+@ans (c)
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Pre) 2013; U.P.P.C.S. (Pre) 2012
+Most of the production of Natural gas in India comes from :
+(a) Andhra Pradesh Coast
+(b) Gujarat Coast
+(c) Bombay High
+(d) Tamil Nadu Coast
+@ans (c)
+@end
+
+Reliance found the **Dhirubhai** gas fields in the **KG-D6** block of the **Krishna-Godavari basin** off Andhra Pradesh in **2002**; production began in **April 2009**. The **Mumbai High and Bassein** offshore fields are still the largest gas source overall, with the KG basin second.
+
+@next
+Expect questions on the **One Nation One Gas Grid**, **city gas distribution**, **compressed biogas (SATAT)** and the plan to raise natural gas from about 6% to 15% of India's energy mix by 2030.
+@end
+
+@heatmap
+
+@pattern
+Coal and oil questions are again place-and-state matching. For coal, fix the **Gondwana valleys** (Damodar: Raniganj, Jharia, Karanpura; Son: Singrauli, Umaria; Mahanadi: Talcher, Korba, Ib; Godavari: Singareni) and the Tertiary fields of the north-east. For oil, fix **Digboi** (Assam, first refinery), **Ankleshwar** (Gujarat), **Mumbai High** (offshore), **KG-D6** (gas) and the refinery-state pairs (Koyali, Tatipaka, Numaligarh, Noonmati). Production rankings have changed (Odisha now leads in coal; Rajasthan among states in crude), so several keys carry notes.
+@end

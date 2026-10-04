@@ -773,7 +773,7 @@ Identify the correct sequence of the following states in terms of fish productio
 @note (c) was correct at the time. In 2022-23 the order was Andhra Pradesh, West Bengal, Karnataka, Odisha, Kerala, **Uttar Pradesh**, Gujarat, Bihar and Tamil Nadu, so Kerala is now ahead of Gujarat.
 @end
 
-UP link: UP is now among the leading **inland fish** producers (about 9 lakh tonnes, sixth in India), based on ponds, reservoirs and the Ganga system. India is the world's **second largest fish producer** and third in aquaculture.
+UP link: UP is now among the leading **inland fish** producers (about 9 lakh tonnes, sixth in India), based on ponds, reservoirs and the Ganga system. India is the world's **second largest fish producer**, and second in aquaculture as well.
 
 @heatmap
 

@@ -1,0 +1,846 @@
+@chapter 20 | Mineral Resources I: Metallic and Non-metallic Minerals
+@unit UNIT IV · MINERALS, ENERGY AND INDUSTRY
+
+@intro
+India's minerals are concentrated in the old rocks of the **Peninsular plateau**, above all in the **Chotanagpur-Odisha-Chhattisgarh** belt, the **Karnataka-Goa** belt and the **Aravalli** of Rajasthan. The **Dharwar** system holds most metallic ores, the **Vindhyan** system limestone and sandstone, and the **Gondwana** system nearly all the coal (Chapter 21). UPPSC asks minerals mainly through **mine-mineral-state matching** and "largest producer" questions, and since 2023 through **critical minerals** such as lithium. This chapter covers rock systems, iron ore, ferro-alloys, non-ferrous metals, mica and building stones, atomic minerals, and mixed matching. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 20.1 | Rock Systems and Mineral Belts
+
+@pyq U.P.P.C.S. (Pre) 1995, 2005; U.P. R.O./A.R.O. (Pre) 2017
+The most mineralized rock system of India is –
+(a) Cuddapah System
+(b) Dharwar System
+(c) Gondwana System
+(d) Vindhayan System
+@ans (b)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019; U.P.P.C.S. (Pre) 1994; U.P.R.O./A.R.O. (Mains) 2014; U.P.P.C.S. (Mains) 2012
+In which rock system, out of the following, is iron-ore found in India ?
+(a) Vindhyan
+(b) Cuddapah
+(c) Dharwar
+(d) Gondwana
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+A huge amount of sources found in the Vindhya rocks are of –
+(a) Limestone
+(b) Basalt
+(c) Lignite
+(d) Iron-ore
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Given below are two statements. One labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : Gondwana System of Rocks provides about 95% of the coal of India.
+Reason (R) : Most of the ferrous and non-ferrous minerals are associated with the Dharwar system of rocks.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are correct, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@table
+Mineral belt | States | Main minerals
+North-eastern Peninsular (Chotanagpur) | Jharkhand, Odisha, West Bengal, Chhattisgarh | Coal, iron ore, manganese, mica, bauxite, copper, uranium
+Central | Chhattisgarh, Madhya Pradesh, Maharashtra | Iron ore (Bailadila), coal, manganese, bauxite, limestone, diamonds
+Southern | Karnataka, Goa, Tamil Nadu | Iron ore, manganese, gold, lignite, bauxite
+North-western (Aravalli) | Rajasthan, Gujarat | Zinc, lead, copper, silver, gypsum, marble, petroleum
+Coastal | Kerala, Tamil Nadu, Odisha | Monazite, ilmenite (beach sands)
+@end
+
+@section 20.2 | Critical Minerals
+
+@pyq U.P.P.C.S. (Pre) 2023
+With respect to mineral resources, which of the following statement/s is/are correct ?
+1. Lithium's inferred resources have been found in Reasi district of Jammu & Kashmir.
+2. India is import dependent for many minerals like Lithium, Nickel and Cobalt.
+Code-
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+In **February 2023** the Geological Survey of India reported about **5.9 million tonnes** of inferred lithium resources at **Salal-Haimana, Reasi**. India imports almost all its lithium, cobalt and nickel. The government has listed **30 critical minerals** (2023) and launched the **National Critical Mineral Mission** (2025); the public company **KABIL** acquires lithium assets abroad (for example in Argentina).
+
+@next
+Expect follow-ups on **rare earths** (India has the world's fifth largest reserves, mostly in coastal monazite) and on the auctions of critical-mineral blocks under the amended **MMDR Act (2023)**.
+@end
+
+@section 20.3 | Iron Ore
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which of the following is an iron- region
+(a) Siwan
+(b) Jharia
+(c) Kudremukh
+(d) Singhbhum
+@ans (*)
+@note both **Kudremukh** (Karnataka, magnetite) and **Singhbhum** (Jharkhand, Noamundi-Gua-Chiria hematite) are iron-ore regions, so the key is marked (*). Jharia is coal and Siwan a district of Bihar.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List - I with List - II and choose the correct answer using the code given below the lists.
+@match
+List-I (Iron-ore Mines) | List-II (States)
+A. Gurumahisani | 1. Jharkhand
+B. Bailadila | 2. Karnataka
+C. Noamundi | 3. Odisha
+D. Kudremukh | 4. Chhattisgarh
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 3 1 2
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Iron Ore zone) | List- II (States)
+A. Badam Pahar | 1. Jharkhand
+B. Dalli-Rajhara | 2. Odisha
+C. Kudremukh | 3. Chhattisgarh
+D. Noamundi | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 1 3 4 1
+(c) 2 3 4 1
+(d) 2 1 4 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not correctly matched ?
+(a) Bailadila-Madhya Pradesh
+(b) Kemanagundi-Karnataka
+(c) Singhbhum-Jharkhand
+(d) Mayurbhanj - Odisha
+@ans (a)
+@end
+
+**Bailadila** (Dantewada) has been in **Chhattisgarh** since November 2000. It is India's largest **mechanised** iron-ore mine, run by **NMDC**; its ore goes by slurry pipeline and rail to Visakhapatnam and abroad.
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which among the following is the largest mechanized mine in India?
+(a) Ratnagiri mine
+(b) Jaipur mine
+(c) Sundergarh mine
+(d) Bailadila mine
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which two of the following states are the leading producers of Iron-Ore in India as per the Annual Report of the Ministry 2020-21?
+1. Odisha
+2. Chhattisgarh
+3. Jharkhand
+4. Karnataka
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) 1 and 4
+(c) 1 and 3
+(d) 2 and 4
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Consider the following statements and select the correct answer from the code given below :
+1. Richest deposits of iron ore are found in Karnataka.
+2. India is the second largest producer of iron ore in the world.
+3. Odisha is the largest producer of iron ore in India.
+Code :
+(a) 1 only
+(b) 2 and 3
+(c) 1 and 3
+(d) All are correct
+@ans (c)
+@end
+
+**Karnataka** has the largest iron-ore resources (hematite plus magnetite, mostly magnetite), but **Odisha** (Keonjhar, Sundargarh, Mayurbhanj) produces the most, over half of India's output, followed by Chhattisgarh. India is the world's **third or fourth** largest producer, behind Australia and Brazil.
+
+@table
+Iron-ore mine | District, state
+Gorumahisani, Badampahar | Mayurbhanj, Odisha
+Barbil-Joda (Keonjhar) | Keonjhar, Odisha
+Noamundi, Gua, Chiria | West Singhbhum, Jharkhand
+Bailadila | Dantewada, Chhattisgarh
+Dalli-Rajhara | Balod, Chhattisgarh (Bhilai steel plant)
+Kudremukh, Kemmangundi | Chikkamagaluru, Karnataka (Kudremukh closed 2006)
+Bellary-Hospet | Ballari, Karnataka
+North Goa, South Goa | Goa (export ore)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+Which of the following is not correctly matched?
+(a) Gold - Kolar
+(b) Coal - Jharia
+(c) Iron - ore - Guntur
+(d) Diamonds - Panna
+@ans (c)
+@end
+
+@section 20.4 | Manganese, Chromite and Nickel
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Pre) 2012
+The leading producer of Manganese in India is –
+(a) Karnataka
+(b) Maharashtra
+(c) Madhya Pradesh
+(d) Odisha
+@ans (b)
+@note the leader has changed often. **Madhya Pradesh** (Balaghat) led for most of the last decade; the Indian Minerals Yearbook 2024 puts **Maharashtra** (Nagpur-Bhandara) first in 2023-24. **Odisha** has the largest reserves.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following Manganese producing area is not located in Karnataka?
+(a) Shimoga
+(b) Bellary
+(c) Srikakulam
+(d) Chikmagalur
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which of the following state has a monopoly in Chromite production?
+(a) Bihar
+(b) Karnataka
+(c) Maharashtra
+(d) Odisha
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which one of the following statements is true?
+(a) Odisha is the largest producer of Chromite in India.
+(b) Karnataka is the largest producer of Silver in India.
+(c) Andhra Pradesh has largest reserve of Bauxite in India
+(d) Odisha has largest reserve of Manganese in India
+@ans (a) & (d)
+@end
+
+**Odisha** produces practically all of India's **chromite** (Sukinda valley, Jajpur) and holds the largest **manganese** and **bauxite** reserves. **Silver** comes almost entirely from **Rajasthan** (Zawar, Rampura Agucha), as a by-product of zinc-lead smelting.
+
+@section 20.5 | Copper, Zinc-Lead, Bauxite and Tin
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following states has the largest reserve of copper?
+(a) Bihar
+(b) Jharkhand
+(c) Karnataka
+(d) Rajasthan
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Match List-I with List-II and select the correct answer using the code given below the lists:
+@match
+List- I (Copper Fields) | List- II (State)
+A. Chandrapur | 1. Maharashtra
+B. Hasan | 2. Andhra Pradesh
+C. Khamman | 3. Rajasthan
+D. Khetri | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 1 4 2 3
+(b) 2 3 4 1
+(c) 4 2 3 1
+(d) 3 1 2 4
+@ans (*)
+@note (a) was correct in 2011. **Khammam** has been in **Telangana** since 2014, so List-II no longer fits exactly.
+@end
+
+**Rajasthan** (Khetri-Singhana, Kho-Dariba) has the largest copper reserves; **Madhya Pradesh** (Malanjkhand, Balaghat) produces the most ore, ahead of Rajasthan and Jharkhand (Mosabani, Rakha, Ghatsila in Singhbhum).
+
+@pyq U.P.P.C.S. (Mains) 2013
+Rajasthan has near monopoly in –
+(a) Copper
+(b) Mica
+(c) Zinc
+(d) Dolomite
+@ans (c)
+@end
+
+UP link: none of the base metals is mined in UP. Rajasthan's **Rampura Agucha** (Bhilwara) is one of the world's largest zinc mines; **Zawar** (Udaipur) is the classic zinc-lead-silver field.
+
+@pyq U.P.P.C.S. (Pre) 1997
+Bauxite is an ore of –
+(a) Lead
+(b) Aluminium
+(c) Zinc
+(d) Copper
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which of the following two states are the leading producer of bauxite in India, as per the annual Report of the Ministry of Mines, 2020-21?
+1. Odisha
+2. Andhra Pradesh
+3. Chhattisgarh
+4. Gujarat
+Select the correct answer using the code given below:
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 1 and 4
+(d) 2 and 4
+@ans (c)
+@end
+
+@one
+India two leading bauxite Producing states are
+@ans Odisha and Gujarat
+@end
+
+**Bauxite** forms where laterite develops on plateau tops. **Odisha** (Panchpatmali in Koraput, Niyamgiri near Lanjigarh) is far ahead, followed by Gujarat (Kutch, Jamnagar), Jharkhand, Chhattisgarh (Mainpat) and Maharashtra. **NALCO** runs the Damanjodi refinery and Angul smelter.
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which of the following states has immense Tin Ore reserves?
+(a) Assam
+(b) Jammu and Kashmir
+(c) Chhattisgarh
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Top producer of Tin in India is –
+(a) Andhra Pradesh
+(b) Chhattisgarh
+(c) Jharkhand
+(d) Odisha
+@ans (b)
+@end
+
+**Chhattisgarh** (Dantewada-Bastar) has about two-thirds of India's tin resources and is its only producer. India still imports most of its tin.
+
+@section 20.6 | Mica, Asbestos, Graphite and Building Stones
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. 2001
+Which of the following Indian states is the biggest producer of Mica?
+(a) Andhra Pradesh
+(b) Bihar
+(c) Jharkhand
+(d) Rajasthan
+@ans (d)
+@note this is the source book's present answer: in 2021-22 **Rajasthan** was the only producing state. Around 2001-04, **Andhra Pradesh** (Nellore) was the leading mica producer.
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Mains) 2003
+Which one of the following states does not produce Mica?
+(a) Jharkhand
+(b) Madhya Pradesh
+(c) Rajasthan
+(d) Andhra Pradesh
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+In which of the following districts in India the largest 'Mica Belt' is found?
+(a) Balaghat and Chhindwada
+(b) Udaipur, Ajmer and Alwar
+(c) Hazaribagh, Gaya and Munger
+(d) Salem and Dharampuri
+@ans (c)
+@end
+
+@pyq U.PU.D.A. /L.D.A. (Pre) 2001
+India is the world's leading producer of :
+(a) Diamonds
+(b) Iron Ore
+(c) Mica
+(d) Tungsten
+@ans (*)
+@note in 2001 India led the world in **sheet mica**, so (c) was the intended answer. Today **China** and Madagascar lead in mica; Russia leads in diamonds, Australia in iron ore and China in tungsten.
+@end
+
+The **Koderma-Hazaribagh-Giridih** belt of Jharkhand, extending into Gaya and Nawada (Bihar), was the world's largest source of sheet mica. **Nellore** (Andhra Pradesh) and **Bhilwara-Ajmer** (Rajasthan) are the other belts. Mica is valued for its insulating quality in electrical goods.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following states is the largest producer of asbestos in India?
+(a) Madhya Pradesh
+(b) Bihar
+(c) Karnataka
+(d) Rajasthan
+@ans (*)
+@note none of the options fits a producer question. **Andhra Pradesh** (Cuddapah) was the only producer in 2013-14, and no state has produced asbestos since 2014-15. **Rajasthan** has the largest resources.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+India has attained self-sufficiency in the production of which mineral?
+(a) Tin
+(b) Silver
+(c) Gold
+(d) Graphite
+@ans (*)
+@note **graphite** was the answer in 1991. India now produces less graphite than it uses (about 1.7 lakh tonnes against 2.2 lakh tonnes in 2023-24) and is self-sufficient mainly in **iron ore**, and nearly so in bauxite, chromite and limestone.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Where is the best quality of marble found ?
+(a) Makrana
+(b) Jabalpur
+(c) Jaisalmer
+(d) Singhbhum
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+What is Marble?
+(a) Sedimentary rock
+(b) Felsite rock
+(c) Metamorphic rock
+(d) Igneous rock
+@ans (c)
+@end
+
+**Marble** is **metamorphosed limestone or dolomite**. **Makrana** (Didwana-Kuchaman district, Rajasthan) gave the white marble of the **Taj Mahal** and the **Victoria Memorial**. The marble rocks at **Bhedaghat** near Jabalpur line the Narmada gorge.
+
+@pyq U.P. Lower Sub. (Spl.) 2010
+Which among the following is connected with Metamorphous rock ?
+(a) Copper
+(b) Garnet
+(c) Manganese
+(d) Pyrite
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Granite slabs and slates are made at –
+(a) Lalitpur
+(b) Jhansi
+(c) Chunar
+(d) Churk
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following metals are found in Sonbhadra district? Select the correct answer by using the codes given below–
+1. Uranium
+2. Andalusite
+3. Pyrite
+4. Dolomite
+Code :
+(a) 1, 2, 3
+(b) 2, 3, 4
+(c) 1, 3, 4
+(d) 1, 2, 3 & 4
+@ans (b)
+@end
+
+@table
+UP district | Minerals
+Sonbhadra | Coal (Singrauli field), limestone (Churk, Dalla, Obra), dolomite, andalusite, pyrite, sillimanite
+Lalitpur | Granite, rock phosphate, diaspore, pyrophyllite
+Jhansi, Mahoba, Hamirpur, Banda | Granite (building stone)
+Mirzapur | Sandstone (Chunar), limestone
+Prayagraj (Shankargarh) | Silica sand (glass making)
+Chitrakoot | Silica sand
+@end
+
+UP link: UP's minerals are in its two Peninsular corners, **Bundelkhand** and the **Vindhyan-Kaimur** south-east. **Lalitpur** is known for granite slabs; **Chunar** (Mirzapur) sandstone was used for the Ashokan pillars. In 2020 a report of a "gold mountain" in Sonbhadra was corrected by the GSI: the find was a small gold-bearing zone, not a large deposit.
+
+@section 20.7 | Atomic Minerals, Gold and Diamonds
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following Mineral occurs in Kerala abundantly?
+(a) Tin
+(b) Manganese
+(c) Mica
+(d) Monazite
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+In India, Monazite is found in –
+(a) Uttar Pradesh
+(b) Himachal Pradesh
+(c) Tamil Nadu
+(d) Kerala
+@ans (c) & (d)
+@end
+
+**Monazite**, the source of **thorium** and rare earths, occurs in the black beach sands of **Kerala** (Chavara, Manavalakurichi), **Tamil Nadu**, **Odisha** (Chatrapur) and **Andhra Pradesh**. India has about a quarter of the world's thorium, the basis of its planned three-stage nuclear programme.
+
+@pyq U.P.P.C.S. (Pre) 2007
+Jaduguda is famous for –
+(a) Iron ore
+(b) Manganese
+(c) Gold
+(d) Uranium
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Uranium Centre) | List- II (State)
+A. Domiasiat | 1. Rajasthan
+B. Lambapur | 2. Karnataka
+C. Rohail | 3. Meghalaya
+D. Gogi | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 2 1 3 4
+(c) 1 3 4 2
+(d) 4 2 3 1
+@ans (*)
+@note (a) was correct in 2008. **Lambapur** (Nalgonda) has been in **Telangana** since 2014.
+@end
+
+@table
+Uranium site | State
+Jaduguda, Bhatin, Narwapahar, Turamdih | East Singhbhum, Jharkhand (UCIL's first mine, 1967)
+Tummalapalle | Kadapa, Andhra Pradesh (among the world's largest low-grade deposits)
+Lambapur-Peddagattu | Nalgonda, Telangana
+Domiasiat (Kylleng-Pyndengsohiong) | West Khasi Hills, Meghalaya
+Gogi | Yadgir, Karnataka
+Rohil | Sikar, Rajasthan
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Where are diamond mines in India?
+(a) Karnataka
+(b) Uttar Pradesh
+(c) Madhya Pradesh
+(d) Tamil Nadu
+@ans (c)
+@end
+
+**Panna** (Majhgawan mine, NMDC) in **Madhya Pradesh** is India's only working diamond mine. The old **Golconda** diamonds (including the Koh-i-Noor) came from the Krishna valley gravels. Gold comes from **Karnataka** (Hutti; the **Kolar** gold fields closed in 2001).
+
+@section 20.8 | Mixed Matching: Mines and Minerals
+
+@pyq U.P. P.C.S. (Mains) 2017
+Match the List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Mineral) | List - II (Country)
+A. Silver | 1. Chile
+B. Mica | 2. Russian Federation
+C. Iron Ore | 3. Mexico
+D. Copper | 4. India
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 2 3 4 1
+(c) 3 2 1 4
+(d) 3 1 4 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Match List-I (Ores) with List-II (State where they are mined) and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Manganese | 1. Madhya Pradesh
+B. Nickel | 2. Odisha
+C. Lead-zinc | 3. Rajasthan
+D. Asbestos | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 4 2 3 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Match List-I with List-II and select the correct answer by using the codes given below the lists:
+@match
+List- I (Mineral) | List- II (Top producing states)
+A. Iron Ore | 1. Odisha
+B. Copper | 2. Karnataka
+C. Gold | 3. Rajasthan
+D. Mica | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 4 2 3 1
+(c) 1 4 2 3
+(d) 3 1 4 2
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2010; U.P.U.D.A./L.D.A. (Pre) 2006
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Mineral Oil | 1. Odisha
+B. Gypsum | 2. Karnataka
+C. Gold | 3. Gujarat
+D. Bauxite | 4. Rajasthan
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 2 1 4 3
+(c) 4 3 1 2
+(d) 3 4 2 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List -I (Centre) | List-II (Mineral)
+A. Makum | 1. Iron Ore
+B. Dallirajhara | 2. Coal
+C. Koraput | 3. Manganese
+D. Chitradurg | 4. Bauxite
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 2 1 4 3
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which of the following is not correctly matched?
+(a) Amguri - Petroleum
+(b) Lanjigarh - Bauxite
+(c) Kamptee - Copper
+(d) Bellary - Iron ore
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Match List-I with List-II and select the correct answer using the codes given below the list:
+@match
+List- I (Region) | List- II (Mineral)
+A. Badam Pahar | 1. Copper
+B. Kodarma | 2. Iron ore
+C. Mosabani | 3. Petroleum
+D. Rava | 4. Mica
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 2 4 3 1
+(c) 1 2 4 3
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is not correctly matched?
+(a) Dalli-Rajhara - Iron Ore
+(b) Rakha - Copper
+(c) Nellore - Manganese
+(d) Amar Kantak - Bauxite
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List- I (Place) | List- II (Minerals)
+A. Ankleshwar | 1. Iron ore
+B. Dalli-Rajhara | 2. Petroleum
+C. Kodarma | 3. Copper
+D. Khetri | 4. Mica
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 2 1 4 3
+(c) 3 1 4 2
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Minerals) | List- II (Areas of Production)
+A. Iron Ore | 1. Khetri
+B. Copper | 2. Keonjhar
+C. Coal | 3. Kodarma
+D. Mica | 4. Korba
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 1 4 3
+(d) 3 2 4 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Match the following and select the correct answer by using code given below :
+@match
+List- I | List- II
+A. Gold | 1. Khetri
+B. Coal | 2. Kolar
+C. Copper | 3. Kudremukh
+D. Iron | 4. Jharia
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Coal | 1. Kudremukh
+B. Copper | 2. Zawar
+C. Iron Ore | 3. Khetri
+D. Silver | 4. Talcher
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 4 3 1 2
+(d) 3 2 4 1
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which one of the following is not correctly matched?
+(a) Iron Ore – Kudremukh
+(b) Manganese – Koraput
+(c) Copper – Khetri
+(d) Coal – Singareni
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Match List-I with List-II and select the correct answer using the codes give below the lists:
+@match
+List- I | List- II
+A. Copper | 1. Kochi
+B. Gas plant | 2. Auraiya
+C. Aluminium | 3. Korba
+D. Petroleum | 4. Khetri
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (a)
+@end
+
+UP link: **Auraiya** has NTPC's gas-based power station, fed by the **HBJ (Hazira-Vijaipur-Jagdishpur) pipeline** (Chapter 21). The same pipeline supplies the fertiliser plants at **Jagdishpur, Aonla (Bareilly) and Babrala (Sambhal)**.
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Match the following :
+@match
+Region | Mineral
+(A) Palamu | i. Copper
+(B) Hazaribagh | ii. Manganese
+(C) Khetri | iii. Mica
+(D) Keonjhar | iv. Bauxite
+@endmatch
+Code : A B C D
+(a) (iv) (iii) (ii) (i)
+(b) (ii) (iv) (i) (iii)
+(c) (iii) (ii) (iv) (i)
+(d) (iii) (iv) (i) (ii)
+@ans (*)
+@note the correct pairing is Palamu-bauxite, Hazaribagh-mica, Khetri-copper and Keonjhar-manganese (iv, iii, i, ii), which is not among the codes.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012; U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Match List-I with List-II and select the correct answer using the code give below the lists:
+@match
+List- I (Mining Areas) | List- II (Minerals)
+A. Gurumahisani | 1. Lead
+B. Talcher | 2. Uranium
+C. Jaduguda | 3. Iron Ore
+D. Zawar | 4. Coal
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 3 2 1 4
+(c) 2 4 3 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following are NOT correctly matched?
+(Mineral) – (Mining City)
+1. Copper – Chitradurga
+2. Iron ore – Ballari
+3. Manganese – Bhilwara
+4. Bauxite – Katni
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1 and 3
+(d) 2 and 4
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Match list - I with list -II and select the correct answer using the code given below :
+@match
+List - I (Minerals) | List - II (Industries in which largely used)
+A. Limestone | 1. Cement
+B. Copper | 2. Electrical goods
+C. Bauxite | 3. Aeroplane Manufacturing
+D. Manganese | 4. Steel
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 1 4
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which state of India is renowned for its deposits of limestone, gypsum, salt and zinc?
+(a) Haryana
+(b) Gujarat
+(c) Punjab
+(d) Rajasthan
+@ans (d)
+@end
+
+@table
+Mineral | Leading producer | Key mines
+Iron ore | Odisha | Keonjhar, Barbil, Bailadila (Chhattisgarh)
+Manganese | Maharashtra / Madhya Pradesh | Nagpur-Bhandara, Balaghat
+Chromite | Odisha (almost all) | Sukinda
+Bauxite | Odisha | Panchpatmali, Koraput
+Copper ore | Madhya Pradesh | Malanjkhand; Khetri (Rajasthan)
+Zinc-lead, silver | Rajasthan | Rampura Agucha, Zawar
+Gold | Karnataka | Hutti; Kolar (closed)
+Mica | Rajasthan (now); Andhra Pradesh, Jharkhand (earlier) | Bhilwara, Nellore, Koderma
+Gypsum | Rajasthan | Bikaner, Nagaur
+Limestone | Rajasthan, Madhya Pradesh | Many
+Diamond | Madhya Pradesh | Panna
+Tin | Chhattisgarh | Dantewada
+Uranium | Jharkhand, Andhra Pradesh | Jaduguda, Tummalapalle
+@end
+
+@trap
+Learn the odd pairs UPPSC uses as distractors: **Guntur** (tobacco, not iron), **Nellore** (mica, not manganese), **Kamptee** (coal, not copper), **Koraput** (bauxite, not manganese), **Bhilwara** (zinc-lead and copper, not manganese) and **Bailadila** (Chhattisgarh, no longer Madhya Pradesh).
+@end
+
+@heatmap
+
+@pattern
+This is the largest single block of questions in the book. About two-thirds are matching items: mine to mineral, mine to state, mineral to leading state. Six place names solve most codes: **Khetri** (copper), **Kodarma** (mica), **Kudremukh** and **Bailadila** (iron), **Zawar** (zinc-lead-silver), **Jaduguda** (uranium). "Largest producer" keys have shifted for mica, manganese, graphite and asbestos, and three pairs moved to Telangana in 2014 (Khammam, Lambapur and Singareni in Chapter 21). The 2023 paper added lithium and critical minerals.
+@end
