@@ -1,0 +1,683 @@
+@chapter 14 | Multipurpose River Valley Projects and Hydropower
+
+@intro
+Nehru called the big dams the **"temples of modern India"**. A multipurpose project stores river water for **irrigation, hydropower, flood control, drinking water, navigation and fisheries** together. The first were the **Damodar Valley Corporation** (1948, modelled on the Tennessee Valley Authority), **Bhakra-Nangal** and **Hirakud**. UPPSC asks this chapter mainly as **dam-river-state** matching, and it has done so in almost every paper since 1990. This chapter covers the northern projects, the Narmada, the Chambal and Damodar, the Peninsular projects, the Indus-system projects, Uttar Pradesh's own projects and the history of hydropower. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 14.1 | Hydropower and the Himalaya
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to hydroelectricity in North India, which of the following statements is/are correct ?
+1. There are huge possibilities of hydroelectricity in the Himalayan region.
+2. Eastern Uttar Pradesh and Bihar cannot utilise this potential because the Himalayas situated to their North lies in boundary of Nepal.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+Perennial, snow-fed rivers falling steeply through narrow gorges give the Himalaya most of India's hydropower potential (about 1.3 lakh MW of the national total of about 1.45 lakh MW). Statement 2 is wrong: eastern UP and Bihar can draw on Nepal's rivers through joint projects (Kosi, Gandak, Mahakali Treaty for **Pancheshwar**), and power is shared through the national grid.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following is the oldest hydropower station in India?
+(a) Mayurakshi
+(b) Machkund
+(c) Pallivasar
+(d) Shivasamudram
+@ans (d)
+@end
+
+@one U.P. Lower Sub. (Pre) 1998
+The oldest hydropower power plant in India is-
+@ans Sidrapong
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2013
+The first hydropower station in India was commissioned at-
+@ans Darjeeling
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+Shiva Samundram Hydropower Project is located in
+@ans Karnataka
+@end
+
+India's first hydroelectric station was set up at **Sidrapong** near **Darjeeling** in **1897** to light the town. **Sivasamudram** on the Kaveri in **Karnataka** followed in **1902**. It was the first large one and supplied the **Kolar gold fields**. Among the options, Sivasamudram is the oldest. **Pallivasal** (Kerala) followed in 1940.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which hydropower plant in Bhutan was inaugurated recently by Indian Prime Minister Narendra Modi?
+(a) Chhukha Power Plant
+(b) Dagachhu Power Plant
+(c) Kurichha Power Plant
+(d) Mangdechhu Power Plant
+@ans (d)
+@end
+
+The **Mangdechhu** project (720 MW), built with Indian help, was inaugurated in **August 2019**. Bhutan exports most of its hydropower to India. The **Punatsangchhu-II** project (1,020 MW) was inaugurated in **November 2025**.
+
+@section 14.2 | Bhakra-Nangal and the Indus System Projects
+
+@pyq U.P.P.C.S. (Pre) 1994
+Bhakra Nangal is a joint project of –
+(a) Haryana, Punjab and Rajasthan
+(b) Haryana, Punjab and Delhi
+(c) Himachal Pradesh, Haryana, Punjab
+(d) Punjab, Delhi, Rajasthan
+@ans (a)
+@end
+
+The **Bhakra dam** (226 m, 1963) on the **Satluj** in Bilaspur, Himachal Pradesh, forms the **Gobind Sagar**. The **Nangal** dam is 13 km downstream in Punjab. Its water and power go mainly to **Punjab, Haryana and Rajasthan**, and the project is run by the **Bhakra Beas Management Board**.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Kol Dam Project has been constructed on which of the following rivers in India?
+(a) Krishna
+(b) Sutlej
+(c) Godavari
+(d) Narmada
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+In which one of the following states is Suil river project located?
+(a) Uttarakhand
+(b) Haryana
+(c) Punjab
+(d) Himachal Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P. Lower Sub. (Pre) 2008
+Baglihar hydropower project, the issue of which was raised by Pakistan before the World Bank, is being constructed by India on –
+(a) Jhelum
+(b) Indus
+(c) Chenab
+(d) Sutlej
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000; U.P.P.C.S. (Mains) 2007; U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Tulbul project is associated with the river -
+(a) Beas
+(b) Ravi
+(c) Jhelum
+(d) Satluj
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pair is / are NOT correctly matched ?
+(Dam) – (River)
+1. Baglihar Dam – Chenab
+2. Pandoh Dam – Ravi
+3. Srisailam Dam – Tungabhadra
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (c)
+@end
+
+@table
+Project | River | Where | Note
+Bhakra, Nangal | Satluj | Himachal, Punjab | Gobind Sagar
+Kol Dam | Satluj | Bilaspur, Himachal | 800 MW
+Nathpa Jhakri | Satluj | Kinnaur-Shimla | 1,500 MW, underground
+Pong (Maharana Pratap Sagar) | Beas | Kangra, Himachal | Feeds the Indira Gandhi Canal
+Pandoh | Beas | Mandi, Himachal | Beas-Satluj link
+Baira Siul | Siul (Ravi tributary) | Chamba, Himachal | 180 MW
+Ranjit Sagar (Thein) | Ravi | Punjab-J&K border | Irrigation and power
+Baglihar | Chenab | Ramban, J&K | Neutral Expert ruling (World Bank), 2007
+Dulhasti, Salal | Chenab | Kishtwar; Reasi, J&K | Run-of-river
+Tulbul (Wular barrage) | Jhelum | Mouth of Wular Lake | Navigation project; disputed by Pakistan
+Kishanganga | Kishanganga (Jhelum) | Bandipora, J&K | 330 MW
+@end
+
+@trap
+**Pandoh** is on the **Beas** (not the Ravi). **Srisailam** is on the **Krishna** (not the Tungabhadra, which joins the Krishna just upstream). **Baglihar** is on the Chenab and **Tulbul** on the Jhelum; both have been raised by Pakistan under the Indus Waters Treaty.
+@end
+
+@section 14.3 | The Narmada Projects
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004; U.P.P.C.S. (Pre) 1999
+The beneficiary states of the Sardar Sarovar Project are–
+(a) Gujarat, Maharashtra. M.P. and Rajasthan
+(b) Andhra Pradesh, M.P., Gujarat and Maharashtra
+(c) Orissa, M.P., Gujarat and Maharashtra
+(d) M.P., Gujarat, Karnataka and Maharashtra
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 1992
+On which river is the Sardar Sarovar Dam being constructed?
+@ans Narmada
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Maximum benefits occupying state by Sardar Sarovar Dam is :
+(a) Gujarat
+(b) Odisha
+(c) Madhya Pradesh
+(d) Rajasthan
+@ans (c)
+@note the key follows the sharing of water and power. The Narmada Water Disputes Tribunal (1979) gave **Madhya Pradesh** about 65% of the river's usable water and **57%** of the dam's power (Maharashtra 27%, Gujarat 16%). By irrigation and drinking water from the dam itself, **Gujarat** gains most.
+@end
+
+The **Sardar Sarovar dam** (163 m above foundation) at Kevadia (Ekta Nagar), Gujarat, was completed in **2017**. Its canal carries water across Gujarat into the dry districts of Rajasthan. The **Narmada Bachao Andolan** led by Medha Patkar opposed it over displacement. The **Statue of Unity** stands just downstream.
+
+@pyq U.P.P.C.S. (Mains) 2003
+In which one of the following water reservoirs, Harsud town of Madhya Pradesh has been submerged ?
+(a) Indira Sagar
+(b) Rani Avanti Bai dam
+(c) Sardar Sarovar
+(d) Mahi Dam
+@ans (a)
+@end
+
+**Indira Sagar** (Khandwa, MP) is the largest reservoir on the Narmada by storage. The old town of **Harsud** was submerged in **2004**. **Rani Avanti Bai Sagar** (Bargi dam) is near Jabalpur.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following pairs is not correctly matched?
+(a) Midnapur Canal : Kangsabati River (Kasai)
+(b) Tawa Project : Krishna River
+(c) Mettur Dam : Cauvery River
+(d) Ukai Project : Tapi River
+@ans (b)
+@end
+
+The **Tawa** project (Narmadapuram, MP) is on the **Tawa**, a tributary of the Narmada.
+
+@section 14.4 | Chambal, Damodar and Mayurakshi
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following are not associated with the Chambal Valley Project ?
+1. Gandhi Sagar
+2. Jawahar Sagar
+3. Gobind Sagar
+4. Govind Ballabh Pant Sagar
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2013
+Govind Ballabh Pant Sagar Reservoir is situated in
+@ans Uttar Pradesh
+@end
+
+The **Chambal Valley Project** of Madhya Pradesh and Rajasthan has three dams and a barrage, upstream to downstream: **Gandhi Sagar** (Mandsaur, MP), **Rana Pratap Sagar** (Rawatbhata, Rajasthan), **Jawahar Sagar** and the **Kota barrage** (Rajasthan). **Gobind Sagar** is the Bhakra reservoir. **Govind Ballabh Pant Sagar** is the **Rihand** reservoir in **Sonbhadra**, UP.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2009; U.P.P.C.S. (Pre) 2007
+The benefits of which one of the following river valley projects are shared by more than one state ?
+(a) Chambal Valley Project
+(b) Mayurakshi Project
+(c) Sharavati Project
+(d) Hirakud Project
+@ans (a) & (b)
+@end
+
+The **Mayurakshi** project's Massanjore (Canada) dam lies in **Jharkhand** (Dumka), while its canals irrigate Birbhum and Murshidabad in **West Bengal**. Chambal is shared by MP and Rajasthan. Hirakud (Odisha) and Sharavati (Karnataka) each serve one state.
+
+@pyq U.P.U.D.A/L.D.A. (Spl.) (Pre) 2010
+Cauvery River Water Dispute(CRWD) is related to which of the following states?
+(a) Tamil Nadu and Karnataka
+(b) Tamil Nadu, Karnataka and Kerala
+(c) Tamil Nadu, Karnataka, Kerala and Gujarat
+(d) Tamil Nadu, Karnataka , Kerala and Puducherry
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Consider the following statement :
+Assertion (A) : River Damodar was Known as "River of Sorrow" in West Bengal prior to the development of the Damodar Valley Corporation.
+Reason (R) : Damodar in its upper reaches flows rapidly and in its lower reaches it runs too sluggishly.
+Select the correct answer using the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+Rain on the Chotanagpur plateau rushed down the steep upper Damodar, but the flat lower valley in West Bengal could not carry it away, so floods spread over Bardhaman and Hooghly. The **DVC** dams at **Tilaiya, Konar, Maithon** and **Panchet** now hold back these floods.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following pairs is not correctly matched?
+(a) Sardar Sarovar Dam - Narmada river
+(b) Tilaiya Dam - Konar river
+(c) Gandhi Sagar Dam - Chambal river
+(d) Nagarjuna Sagar Dam - Krishna river
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List-I with the List-II and select the correct answer from the codes given below:
+@match
+List - I (River Valley Project) | List - II (River)
+A. Tilaiya Dam | 1. Damodar
+B. Panchet Hill Dam | 2. Chambal
+C. Rana Pratap Sagar Dam | 3. Barakar
+D. Matatila Dam | 4. Betwa
+@endmatch
+Code : A B C D
+(a) 3 1 2 4
+(b) 2 3 4 1
+(c) 1 2 3 4
+(d) 4 1 2 3
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Re Exam) (Pre) 2016
+Consider the following statements and select the correct answer from the codes given below.
+1. Rihand Dam is on a tributary of the Sone river.
+2. Hirakund Dam is on Mahanadi river.
+3. Tungabhadra Project is a joint venture of Andhra Pradesh and Karnataka.
+4. Maithan Dam is on Barakar river, a tributary of Damodar river.
+Codes :
+(a) 1, 2 and 3 are correct
+(b) 1, 2 and 4 are correct
+(c) 1, 3 and 4 are correct
+(d) 1, 2, 3 and 4 are correct
+@ans (d)
+@end
+
+@table
+DVC dam | River | State
+Tilaiya | Barakar | Jharkhand (Koderma)
+Maithon | Barakar | Jharkhand-West Bengal border
+Konar | Konar | Jharkhand (Hazaribagh)
+Panchet | Damodar | Jharkhand-West Bengal border
+Durgapur barrage | Damodar | West Bengal
+@end
+
+@trap
+Both **Tilaiya** and **Maithon** are on the **Barakar**; **Panchet** is on the **Damodar** itself; **Konar** is on the Konar. UPPSC has used Tilaiya-Konar as the wrong pair.
+@end
+
+@section 14.5 | Peninsular Projects
+
+@pyq U.P. P.C.S. (Pre) 1993
+Nagarjuna Sagar dam is situated in which state of India?
+(a) Andhra Pradesh
+(b) Madhya Pradesh
+(c) Uttar Pradesh
+(d) Tamil Nadu
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Spl) (Pre) 2008; U.P. Lower Sub. (Spl) (Pre) 2004; U.P.P.C.S. (Pre) 1991; U.P.P.C.S. (Mains) 2011
+Nagarjuna Sagar Project is located on the river
+@ans Krishna
+@end
+
+**Nagarjuna Sagar** (1967) on the **Krishna** is one of the largest masonry dams in the world. Since 2014 it stands on the **Andhra Pradesh-Telangana** border, and the two states share its management.
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which one of the following is not correctly matched?
+(a) Nangal Dam - Satluj River
+(b) Sardar Sarovar Project - Narmada River
+(c) Nagarjuna Sagar - Godavari River
+(d) Hirakud Dam - Mahanadi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which of the following pairs is not correctly matched?
+(a) Dulhasti - Chenab
+(b) Indira Gandhi canal - Sutlej
+(c) Nagarjuna Sagar - Kaveri(Cauvery)
+(d) Ukkai - Tapti
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Match List-I and List-II and select the correct answer from the code given below :
+@match
+List- I (Project) | List -II (Location)
+A. Bhakhra | 1. Krishna
+B. Hirakud | 2. Periyar
+C. Idukki | 3. Mahanadi
+D. Nagarjuna Sagar | 4. Satluj
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 4 1 3 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002
+Match list I with list II and select the correct answer from the codes given below the lists :
+@match
+List- I (Multipurpose Projects) | List- II (Rivers)
+A. Idukki | 1. Betwa
+B. Matatilla | 2. Godavari
+C. Nagarjuna Sagar | 3. Krishna
+D. Pochampad | 4. Periyar
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 2 1 3 4
+(c) 4 1 3 2
+(d) 1 3 4 2
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (River Valley Project) | List-II (River)
+A. Rihand Project | 1. Godavari
+B. Nagarjun Sagar Project | 2. Betwa
+C. Pochampad Project | 3. Rihand
+D. Matatila Project | 4. Krishna
+@endmatch
+Codes : A B C D
+(a) 1 4 3 2
+(b) 3 2 4 1
+(c) 3 1 2 4
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List – I | List – II
+(A) Mettur | (i) Tamil Nadu
+(B) Mayurakshi | (ii) Andhra Pradesh
+(C) Nagarjuna Sagar | (iii) West Bengal
+(D) Hirakud | (iv) Odisha
+@endmatch
+Code : A B C D
+(a) (i) (iii) (ii) (iv)
+(b) (ii) (iv) (iii) (i)
+(c) (iv) (iii) (i) (ii)
+(d) (iii) (i) (iv) (ii)
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+Match the following :
+@match
+List I (Dams) | List II (States)
+A. Farakka | 1. West Bengal
+B. Ghataprabha | 2. Odisha
+C. Hirakud | 3. Gujarat
+D. Kakrapar | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 1 4 2 3
+(b) 2 4 3 1
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+The **Farakka barrage** (1975) on the Ganga in Murshidabad, West Bengal, diverts water into the Hooghly to keep **Kolkata port** navigable. The India-Bangladesh **Ganga Water Treaty (1996)**, which shares the dry-season flow at Farakka, runs for 30 years, to **2026**.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (Dam) | List-II (River)
+A. Doolhasti | 1. Chambal
+B. Gandhisagar | 2. Chenab
+C. Ukkai | 3. Tapi
+D. Tawa | 4. Tawa
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 2 1 4
+(c) 2 3 1 4
+(d) 2 1 3 4
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Match item of List-I with those of List-II and select your correct answer from the codes given below the lists :
+@match
+List-I (Rivers) | List-II (Dams)
+A. Betwa | 1. Hirakud
+B. Mahanadi | 2. Matatila
+C. Chambal | 3. Kakrapar
+D. Tapi | 4. Gandhi Sagar
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 2 1 4 3
+(c) 1 2 3 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I (Reservoir) | List-II (State)
+A. Bhadra | 1. Karnataka
+B. Bhavani Sagar | 2. Madhya Pradesh
+C. Gandhi Sagar | 3. Rajasthan
+D. Rana Pratap Sagar | 4. Tamil Nadu
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 1 2 3 4
+(c) 4 2 1 3
+(d) 1 4 2 3
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Which one of the following is NOT correctly matched ?
+(a) Kalpakkam – Tamil Nadu
+(b) Rana Pratap Sagar – Madhya Pradesh
+(c) Narora – Uttar Pradesh
+(d) Tarapore – Maharashtra
+@ans (b)
+@end
+
+**Rana Pratap Sagar** (Rawatbhata, Chittorgarh) is in **Rajasthan**; the **Rajasthan Atomic Power Station** stands beside it. **Kalpakkam, Narora and Tarapur** are nuclear power stations (Chapter 20).
+
+@pyq U.P.P.C.S. (Mains) 2009; U.P.P.C.S. (Spl) (Mains) 2008
+Which one of the following is not correctly matched ?
+Power Project - State
+(a) Jawahar Sagar - Rajasthan
+(b) Nagarjuna Sagar - Andhra Pradesh
+(c) Sivasamudram - Kerala
+(d) Gandhi Sagar - Madhya Pradesh
+@ans (c)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (Projects) | List-II (Rivers)
+A. Ukai | 1. Godavari
+B. Jayakawadi | 2. Ambi
+C. Khadakwasla | 3. Mutha
+D. Maurakshi | 4. Tapi
+@endmatch
+Codes : A B C D
+(a) 4 1 2 3
+(b) 4 1 3 2
+(c) 1 3 4 2
+(d) 3 4 2 1
+@ans (*)
+@note the lists do not fit. Ukai is on the **Tapi**, Jayakwadi on the **Godavari** and Khadakwasla on the **Mutha** (Pune), but the **Mayurakshi** project is on the Mayurakshi river, which is not in List-II. UPPSC's preliminary key gave (a), which wrongly puts Khadakwasla on the Ambi. Code (b) is the closest match.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which of the following projects is the joint venture of Tamil Nadu, Andhra Pradesh and Karnataka :
+(a) Dakshin Gangotri
+(b) Nagarjuna Sagar
+(c) Silent Valley
+(d) Telugu Ganga
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 1996
+Which city will get water from the Telugu Ganga Project
+@ans Madras (Chennai)
+@end
+
+The **Telugu Ganga** project brings **Krishna** water through Andhra Pradesh to **Chennai**, with water given up by Maharashtra, Karnataka and Andhra Pradesh. Water enters Tamil Nadu at the **Kandaleru-Poondi** canal. **Dakshin Gangotri** was India's first Antarctic base, and **Silent Valley** is a national park.
+
+@pyq U.P.P.C.S. (Mains) 2012
+The most controversial 'Babli Project' is situated in which of the following States ?
+(a) Andhra Pradesh
+(b) Gujarat
+(c) Madhya Pradesh
+(d) Maharashtra
+@ans (d)
+@end
+
+The **Babhli barrage** (Nanded, Maharashtra) on the **Godavari** lies just upstream of the **Sriram Sagar (Pochampad)** reservoir, so Andhra Pradesh (now Telangana) objected. The Supreme Court allowed it in 2013 with conditions on water release.
+
+@pyq U.P.P.C.S. (Mains) 2003
+Teesta Low Dam Project (TLDP)-III is proposed along the Teesta river. The site of the project lies in :
+(a) Assam
+(b) West Bengal
+(c) Nagaland
+(d) Meghalaya
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Kalpong Hydroelectric Power project is located in-
+(a) Andaman and Nicobar Islands
+(b) Arunachal Pradesh
+(c) Meghalaya
+(d) Sikkim
+@ans (a)
+@end
+
+**Kalpong** (near Diglipur, North Andaman) is the only hydroelectric project in the Andaman and Nicobar Islands.
+
+@pyq U.P.P.C.S. (Pre) 2010
+The Kalpasar Project, a fresh water reservoir is located in-
+(a) Gujarat
+(b) Haryana
+(c) Maharashtra
+(d) Rajasthan
+@ans (a)
+@end
+
+**Kalpasar** is a planned dam across the **Gulf of Khambhat** in Gujarat. It would create a huge freshwater lake from the inflow of the Narmada, Mahi, Sabarmati and other rivers, carry a road across the gulf and generate tidal power.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Malampuzha dam is situated on which river?
+(a) Bharatpuzha
+(b) Korapuzha
+(c) Malampuzha
+(d) Pamba
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Cheruthoni Dam is situated on which river?
+(a) Periyar
+(b) Pampar
+(c) Bhavani
+(d) Kabini
+@ans (a)
+@end
+
+The **Idukki** scheme in Kerala has three dams on the **Periyar**: the **Idukki arch dam**, **Cheruthoni** and **Kulamavu**. **Malampuzha** (Palakkad) is on the Malampuzha, a tributary of the **Bharathapuzha**.
+
+@table
+Project | River | State
+Hirakud | Mahanadi | Odisha (Sambalpur)
+Nagarjuna Sagar, Srisailam | Krishna | Andhra Pradesh-Telangana
+Pochampad (Sriram Sagar), Jayakwadi, Babhli | Godavari | Telangana; Maharashtra
+Polavaram | Godavari | Andhra Pradesh (national project)
+Tungabhadra | Tungabhadra | Karnataka-Andhra Pradesh
+Mettur (Stanley Reservoir) | Kaveri | Tamil Nadu
+Krishna Raja Sagar | Kaveri | Karnataka (Mandya)
+Idukki, Cheruthoni, Mullaperiyar | Periyar | Kerala
+Ukai, Kakrapar | Tapi | Gujarat
+Koyna | Koyna (Krishna) | Maharashtra
+Bhadra | Bhadra | Karnataka
+Bhavani Sagar | Bhavani | Tamil Nadu
+Machkund | Machkund | Odisha-Andhra Pradesh
+Mayurakshi (Massanjore) | Mayurakshi | Jharkhand-West Bengal
+@end
+
+@section 14.6 | Projects of Uttar Pradesh and its Neighbourhood
+
+@pyq U.P.P.C.S. (Pre) 2002
+Tehri dam is being constructed in Uttarakhand-
+(a) On Bhagirathi river
+(b) On Ramganga river
+(c) On Alaknanda river
+(d) On Bhilangana rivers
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga project?
+(a) Dam's length - 825.8 metres
+(b) Hydropower - 198 MW generation capacity
+(c) Location - Garhwal (Uttarakhand)
+(d) Irrigated area - 6 lac hectares
+@ans (a)
+@note the Ramganga (Kalagarh) dam is about 128 m high and about 715 m long, so (a) is wrong. The Central Water Commission gives a planned irrigation benefit of about 5.9 lakh hectares, which rounds to (d), though actual irrigation has been far smaller.
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I and List-II and select the correct answer by using the codes given below:
+@match
+List-I (Multipurpose Project) | List-II (Related river)
+A. Rihand project | 1. Ramganga
+B. Rani Laxmibai Dam Project | 2. Bhagirathi
+C. Tehri Dam project | 3. Son
+D. Ramganga Project | 4. Betwa
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 1 2 3 4
+(c) 3 4 2 1
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Singrauli Small Hydro Power Project is located in–
+(a) Madhya Pradesh
+(b) Bihar
+(c) Chhattisgarh
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@table
+UP-related project | River | District or state | Note
+Rihand (Govind Ballabh Pant Sagar) | Rihand (Son tributary) | Sonbhadra | 1962; one of India's largest artificial lakes; feeds Singrauli power stations
+Obra | Rihand | Sonbhadra | Downstream of Rihand
+Rajghat (Rani Laxmibai Sagar) | Betwa | Lalitpur (UP-MP joint) | Irrigation and power
+Matatila | Betwa | Lalitpur-Jhansi (UP-MP) | Older Betwa dam
+Ramganga (Kalagarh) | Ramganga | Pauri Garhwal (Uttarakhand) | Built by UP; irrigates western UP
+Tehri | Bhagirathi | Tehri (Uttarakhand) | Built when the area was in UP; tallest dam in India (260.5 m)
+Ken-Betwa Link | Ken to Betwa | MP and UP | First river-link project (Chapter 6)
+@end
+
+UP link: several dams that serve UP now stand in **Uttarakhand** (Tehri, Ramganga, Kalagarh) or **Madhya Pradesh** (Daudhan on the Ken). Inside UP, the big storage projects are in **Sonbhadra** (Rihand, Obra) and **Bundelkhand** (Rajghat, Matatila, Jamni, Sukma-Dukma).
+
+@next
+Expect questions on **dam safety** (Dam Safety Act, 2021; National Dam Safety Authority), the **Polavaram** national project, and pumped-storage hydropower, now being promoted to store solar power.
+@end
+
+@heatmap
+
+@pattern
+This is one of the most heavily asked chapters in UPPSC: about 45 full questions, mostly dam-river or dam-state matching. Fix a master table of thirty projects and every code becomes easy. The repeated traps are Nagarjuna Sagar (Krishna, never Godavari or Kaveri), Rana Pratap Sagar (Rajasthan), Tilaiya (Barakar), Pandoh (Beas), Srisailam (Krishna) and Sivasamudram (Karnataka). UP adds Rihand (Sonbhadra), Rajghat and Matatila on the Betwa, and Ramganga. Two items carry a note: the Sardar Sarovar "maximum benefit" key and the mismatched 2019 list.
+@end
