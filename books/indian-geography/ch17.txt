@@ -1,0 +1,489 @@
+@chapter 17 | Major Crops II: Cotton, Sugarcane, Oilseeds and Pulses
+
+@intro
+After the cereals, UPPSC turns to the cash and protein crops. **Sugarcane** is the crop of Uttar Pradesh: UP grows about half of India's cane and is called the **"sugar bowl"**, though the industry has been shifting south for better yields and longer crushing. **Cotton** is the crop of the black-soil Deccan. **Oilseeds** (soybean, groundnut, mustard) are led by Rajasthan, Madhya Pradesh, Maharashtra and Gujarat. India is the world's largest producer, consumer and importer of **pulses**, led by Madhya Pradesh. This chapter covers these crops with their states, varieties and growing facts. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 17.1 | Cotton
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which one of the following crops is known as "White Gold" in Maharashtra.
+(a) Wheat
+(b) Maize
+(c) Cotton
+(d) Sugar Cane
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Cotton fibres are obtained from –
+(a) Leaves
+(b) Seed
+(c) Stem
+(d) Root
+@ans (b)
+@end
+
+Cotton fibre (**lint**) is a hair that grows from the **seed coat** inside the boll; jute and flax fibres, by contrast, come from the **stem**. Cotton needs 210 frost-free days, 50-100 cm of rain and the moisture-holding **black soil** of the Deccan. **Gujarat** and **Maharashtra** are the largest producers; **Bt cotton** (since 2002) covers over 90% of the area.
+
+@section 17.2 | Sugarcane and the Sugar Industry
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which Indian state has the largest area under sugarcane cultivation?
+(a) Maharashtra
+(b) Uttar Pradesh
+(c) Andhra Pradesh
+(d) Madhya Pradesh
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2013
+The leading sugarcane producing states in India is
+@ans Uttar Pradesh
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+What is the correct sequence of the states in descending order of production of sugarcane in 2013 ?
+(a) Karnataka, Maharashtra, Haryana, U.P.
+(b) U.P., Maharashtra, Karnataka, Haryana
+(c) Haryana, Karnataka, Maharashtra, U.P.
+(d) U.P., Karnataka, Maharashtra, Haryana
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which state is called the 'Sugar Bowl' of India ?
+(a) Andhra Pradesh
+(b) Bihar
+(c) Punjab
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+UP link: **Uttar Pradesh** has about **2.7 million ha** under cane, close to half of India's area, and leads in cane and sugar output in most years. The main belts are western UP (**Muzaffarnagar, Meerut, Shamli, Saharanpur, Bijnor**), Rohilkhand (**Lakhimpur Kheri, Bareilly, Shahjahanpur**) and the eastern Tarai. **Lakhimpur Kheri** is the largest cane district.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following crops has the largest percentage of irrigated area of its net sown area in India?
+(a) Wheat
+(b) Rice
+(c) Oilseed
+(d) Sugarcane
+@ans (d)
+@end
+
+About **95%** of the sugarcane area is irrigated, against roughly 95% for wheat too, about 65% for rice and under 35% for oilseeds. Sugarcane stays in the field for 10 to 18 months and needs water through the dry season.
+
+@pyq U.P.P.C.S. (Mains) 2013
+The first Sugar Mill in India was set up in 1903 at
+(a) Pratapgarh
+(b) Pratappur
+(c) Mawana
+(d) Balrampur
+@ans (b)
+@end
+
+UP link: India's first modern sugar factory began at **Pratappur** in the Deoria-Kushinagar region of **eastern UP** in **1903**. Mills multiplied after the **Sugar Industry Protection Act of 1932**, mostly in UP and Bihar.
+
+@pyq U.P.P.C.S. (Mains) 2009
+Breeding work on sugarcane is being done at –
+(a) Lucknow
+(b) Shahjahanpur
+(c) Shravasti
+(d) Coimbatore
+@ans (d)
+@end
+
+@one U.P.U.D.A./L.D.A (Spl.) (Mains), 2010
+Sugarcane seeds are produced in
+@ans SBI, Coimbatore
+@end
+
+The **Sugarcane Breeding Institute, Coimbatore** (1912) is the only place in India where cane flowers naturally and sets true seed, so all national breeding (the "Co" varieties, such as Co 0238) is done there. **Lucknow** has the **Indian Institute of Sugarcane Research** (1952), and **Shahjahanpur** has the **UP Council of Sugarcane Research** (1912). Both do agronomy and testing, not seed breeding.
+
+@pyq U.P.U.D.A./L.D.A . (Spl) (Mains) 2010
+What time is taken by Adsali Sugarcane crop to get ripen?
+(a) 6 months
+(b) 12 months
+(c) 18 months
+(d) 24 months
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which of the following statements is/ are correct regarding sugar Industry?
+1. India accounts for more than 15% of the total sugar production of the world.
+2. Sugar Industry is the second largest Agricultural base industry in India.
+3. India is the biggest consumer of sugar.
+4. India is the largest producer of sugar.
+Code :
+(a) 1 and 2
+(b) 3 and 4
+(c) 1, 2 and 3
+(d) 1 and 4
+@ans (c)
+@end
+
+**Brazil** is the largest producer of sugar; **India** is second (about 19% of world output in 2024-25) and the **largest consumer**. Sugar is the second largest agro-based industry after **cotton textiles**.
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which factors have facilitated the locational shift of the sugar industry from North India to South India ?
+1. Per acre higher yield of sugarcane
+2. Higher sucrose content of sugarcane
+3. Longer crushing season
+4. Cheap labour
+Select the correct answer using the code given below–
+(a) 1, and 2
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) 2, 3 and 4
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains), 2017
+Assertion (A) : Sugar Industry is more developed in South India.
+Reason (R) : The per hectare yield of sugarcane and the quantity of sugarcane juice are more in the southern states.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@table
+Factor | North India (UP, Bihar) | South India (Maharashtra, Karnataka, Tamil Nadu)
+Climate | Hot summers, cold winters | Warm all year, maritime
+Cane yield | About 80 tonnes/ha | About 90 to 100+ tonnes/ha
+Sucrose recovery | About 10 to 11% | About 11 to 12%
+Crushing season | About 4 months | 6 to 7 months
+Organisation | Many private and old mills | Strong cooperatives (Maharashtra)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Sakkar Nagar is an important sugar producing centre of
+(a) Haryana
+(b) Andhra Pradesh
+(c) Maharashtra
+(d) Uttar Pradesh
+@ans (*)
+@note **Sakkar Nagar** (Bodhan, Nizamabad district) was in Andhra Pradesh when the question was set, so (b) was the answer then. Since 2014 it is in **Telangana**, which is not an option.
+@end
+
+@trap
+UP leads in cane **area and production**; **Maharashtra** often leads in **sugar** output in good years because of higher recovery; **Brazil**, not India, is the world's largest sugar producer. Cane **breeding** is at Coimbatore, not Lucknow or Shahjahanpur.
+@end
+
+@section 17.3 | Oilseeds: Soybean, Groundnut and Mustard
+
+@pyq U.P.P.C.S. (Pre) 2003, 2015; U.P. U.D.A./L.D.A. (Pre) 2001
+Which of the following states is the leading producer of Soyabean ?
+(a) Maharashtra
+(b) Madhya Pradesh
+(c) Punjab
+(d) Kerala
+@ans (b)
+@note **Madhya Pradesh**, the "soya state", led when these questions were set and up to 2023-24. In 2024-25 **Maharashtra** moved to first place in production, though MP still has the largest area. Read "at present" carefully.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which state of India occupies the largest area under Soyabean cultivation?
+(a) Madhya Pradesh
+(b) Rajasthan
+(c) Uttar Pradesh
+(d) Punjab
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The Largest producer of oilseeds in India is :
+(a) Gujarat
+(b) Madhya Pradesh
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (b)
+@note **Madhya Pradesh** led in 2006. In 2024-25 the order was **Rajasthan** (about 9.2 million tonnes), Madhya Pradesh, Maharashtra and Gujarat, so (c) is the present answer.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which of the following states is the largest producer of groundnut in India ?
+(a) Tamil Nadu
+(b) Madhya Pradesh
+(c) Rajasthan
+(d) Gujarat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+The State of India with low acreage, but very high per hectare yield of groundnut is
+(a) Uttar Pradesh
+(b) West Bengal
+(c) Punjab
+(d) Chhattisgarh
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+'Pegging' is a useful phenomenon in –
+(a) Sugarcane
+(b) Sweet potato
+(c) Groundnut
+(d) Tapioca
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+A large quantity of gypsum is required for –
+(a) Rice cultivation
+(b) Barseem cultivation
+(c) Wheat cultivation
+(d) Groundnut cultivation
+@ans (d)
+@end
+
+After a **groundnut** flower is fertilised, its stalk (the **peg**) grows down and pushes the young pod into the soil, where it ripens. Loose, light soil helps pegging. **Gypsum** (calcium sulphate) applied at flowering supplies the **calcium** the pods need and **sulphur** for oil, so groundnut is the crop that needs it most.
+
+@pyq U.P.P.C.S. (Mains) 2002
+'Kaushal' is an improved variety of –
+(a) Gram
+(b) Cotton
+(c) Groundnut
+(d) Wheat
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+'Varuna' is a variety of –
+(a) Mustard
+(b) Linseed
+(c) Sunflower
+(d) Sesame
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Main) 2013
+'Pusa Bold' is a variety of
+@ans Mustard
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+'Pitambari' is a variety of
+(a) Paddy
+(b) Gram
+(c) Mustard
+(d) Wheat
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following crop has the highest percentage of oil content?
+(a) Groundnut
+(b) Soyabean
+(c) Sunflower
+(d) Sesame
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+'Kusum' is a oil seed crop. Its scientific name is:
+(a) Glycine max
+(b) Ricinus Communis
+(c) Carthamus tinctorius
+(d) Bunchy top
+@ans (c)
+@end
+
+@table
+Oilseed | Oil content (approx.) | Leading state | Note
+Sesame (til) | 46-52% | West Bengal, Gujarat, UP | Highest oil content
+Groundnut | 45-50% | Gujarat | Kharif; pegging; gypsum
+Mustard-rapeseed | 38-42% | Rajasthan | Rabi; Varuna, Pusa Bold, Pitambari
+Sunflower | 35-40% | Karnataka | Rabi and kharif
+Soybean | 18-20% (protein about 40%) | Madhya Pradesh, Maharashtra | Kharif; *Glycine max*
+Safflower (kusum) | 30-35% | Maharashtra, Karnataka | *Carthamus tinctorius*
+Castor | 45-50% | Gujarat | *Ricinus communis*; India is the largest producer
+@end
+
+UP link: UP's main oilseed is **rapeseed-mustard** (Agra, Mathura, Etawah, Firozabad), followed by sesame in Bundelkhand. The **National Mission on Edible Oils - Oilseeds** (2024) aims to cut India's large import of edible oil.
+
+@section 17.4 | Pulses
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following countries is the major producer and consumer of pulses?
+(a) U.S.A.
+(b) China
+(c) England
+(d) India
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P.P.C.S. (Mains) 2013
+Which among the following products is not usually exported from India?
+(a) Wheat
+(b) Rice
+(c) Sugar
+(d) Pulses
+@ans (d)
+@end
+
+India grows about a quarter of the world's pulses but consumes even more, so it **imports** pulses (lentils, peas, tur) from Canada, Australia, Myanmar and Africa. The **Mission for Aatmanirbharta in Pulses** (2025) targets self-sufficiency in tur, urad and masoor.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The largest pulses producing state in India -
+(a) Andhra Pradesh
+(b) Bihar
+(c) Madhya Pradesh
+(d) Rajasthan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Assertion (A) : India has a shortage of pulses, but not of protein.
+Reason (R) : There is a priority in demand of pulses.
+In the reference of the above, which of the following is correct :
+(a) (A) and (R) both are correct, and (R) is the correct explanation of (A).
+(b) (A) and (R) both are correct, but (R) is not the correct explanation of (A)
+(c) (A) is correct, but (R) is wrong
+(d) (A) is wrong , but (R) is correct
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is not a Rabi pulse crop?
+(a) French bean
+(b) Chickpea
+(c) Green gram
+(d) Lentil
+@ans (c)
+@end
+
+@table
+Kharif pulses | Rabi pulses
+Arhar (tur, red gram, pigeon pea) | Gram (chickpea), the largest pulse crop
+Moong (green gram) | Masoor (lentil)
+Urad (black gram) | Pea
+Moth, lobia (cowpea) | Rajma (French bean), khesari (lathyrus)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The type of crop which is able to fix nitrogen from the air is :
+(a) Wheat
+(b) Legumes
+(c) Coffee
+(d) Rubber
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which nutrient is considered essential for growing pulse crop ?
+(a) Chromium
+(b) Cobalt
+(c) Iodine
+(d) Sodium
+@ans (b)
+@end
+
+**Cobalt** is needed by the *Rhizobium* bacteria in legume root nodules: it forms part of vitamin B12, which the bacteria need to fix nitrogen. **Molybdenum** is the other key micronutrient for nodulation.
+
+@pyq U.P.P.C.S. (Mains) 2009
+Pulse crop which does not fix atmospheric nitrogen is
+(a) Gram
+(b) Pea
+(c) Rajma
+(d) Moong
+@ans (*)
+@note the intended answer is (c). **Rajma** (*Phaseolus vulgaris*) forms few effective nodules in Indian soils and needs nitrogen fertiliser, so textbooks describe it as a poor fixer. Strictly, it is a legume and does fix nitrogen with the right *Rhizobium* strain, which is why the key is marked (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Balanced Fertilizers Ratio (NPK) for legume crops is –
+(a) 1 : 2 : 2
+(b) 3 : 2 : 1
+(c) 4 : 2 : 1
+(d) 2 : 2 : 1
+@ans (a)
+@end
+
+Legumes make their own nitrogen, so they need only a small **starter dose of N** and more **phosphorus and potash**: a ratio of about **1:2:2**. Cereals need the general ratio of about 4:2:1.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : Pulses, when included in intercropping with cereals, act as complimentary crops.
+Reason (R) : Pulses with tap root system, do not compete for nutrients and moisture with cereals having fibrous root system.
+Select the correct answer from the code given below :
+Code :
+(a) (A) is true but (R) is false.
+(b) (A) is false but (R) is true.
+(c) Both (A) and (R) are true but (R) is not correct explanation of (A).
+(d) Both (A) and (R) are true and (R) is correct explanation of (A).
+@ans (c)
+@note the key treats the root-depth difference as true but not the main reason. The main reason pulses complement cereals is that they **fix nitrogen**, part of which benefits the cereal. Many would mark (d); learn both reasons.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The place of origin of red gram is –
+(a) America
+(b) India
+(c) South Africa
+(d) Egypt
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Malaviya Chamatkar is a variety of –
+(a) Pea
+(b) Pigeon-Pea (Arhar)
+(c) Moong
+(d) Wheat
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which of the following is correctly matched ?
+(a) Arhar - Bahar
+(b) Barley - PVW 343
+(c) Gram - Aparna
+(d) Paddy - NW 1014
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Mains) 2013
+'Bahar' is a popular variety of
+@ans Arhar
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following is not correctly matched ?
+(a) Arhar - Neelam
+(b) Groundnut - Chandra
+(c) Lentil - Pant L - 406
+(d) Mustard - Varuna
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The leafless variety of pea is –
+(a) Arkel
+(b) Azad Pea-I
+(c) Aparna
+(d) L-116
+@ans (c)
+@end
+
+@table
+Variety | Crop | Remember
+Bahar, Malaviya Chamatkar, UPAS-120, Amar, Narendra Arhar | Arhar | Malaviya = BHU; UPAS = Pantnagar; Narendra = Ayodhya
+Pant G-114, Radhe, K-850 | Gram | Pant = Pantnagar
+Pant L-406 | Lentil | Pantnagar
+Aparna (leafless), Arkel (early), Azad Pea | Pea | Azad = Kanpur (CSAUAT)
+Chandra, Chitra, Kaushal | Groundnut | Kanpur
+Varuna, Pusa Bold, Pitambari (yellow) | Mustard | Varuna is the old standard
+Neelam, Dasheri, Langra | Mango | Not pulses
+@end
+
+UP link: the codes in variety names often point to UP institutions: **Pant** (Pantnagar), **Azad** (Chandra Shekhar Azad University, **Kanpur**), **Narendra** (Kumarganj, **Ayodhya**), **Malaviya** (BHU, **Varanasi**). The **Indian Institute of Pulses Research** is at **Kanpur**.
+
+@heatmap
+
+@pattern
+UPPSC's crop questions are UP-centred: sugarcane (sugar bowl, Pratappur 1903, Coimbatore breeding, the southward shift) is the most asked block, and variety names from UP universities fill many Mains items. For oilseeds and pulses learn one leader per crop: soybean (MP area, Maharashtra output in 2024-25), groundnut (Gujarat), mustard (Rajasthan), oilseeds overall (Rajasthan now, MP earlier), pulses (MP). Five keys carry notes because the leading state changed or the science is debated.
+@end
