@@ -1,0 +1,275 @@
+@chapter 4 | States and Union Territories
+
+@intro
+India has **28 states and 8 Union Territories**. The last changes were the creation of the UTs of **Jammu and Kashmir** and **Ladakh** (31 October 2019) and the merger of **Dadra and Nagar Haveli** with **Daman and Diu** (26 January 2020). UPPSC asks this topic through size ranks, shared borders, capitals, the National Capital Region and a steady supply of Uttar Pradesh facts. This chapter covers state locations, size and population ranks, borders, capitals, the NCR and the Union Territories. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 4.1 | Places, Regions and their States
+
+@pyq U.P. Lower (Pre) 2004
+Which of the following is correctly matched ?
+(a) Aurangabad - Andhra Pradesh
+(b) Palanpur - Gujarat
+(c) Hubli - Maharashtra
+(d) Guntur - Odisha
+@ans (b)
+@end
+
+**Palanpur** is in Banaskantha, north **Gujarat**, at the southern end of the Aravalli. Aurangabad (renamed **Chhatrapati Sambhajinagar** in 2023) is in Maharashtra, **Hubli (Hubballi)** in Karnataka, and **Guntur** in Andhra Pradesh.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which of the following is not correctly matched ?
+(a) Chhattisgarh – Chhattisgarh plain
+(b) Jharkhand – Chota Nagpur plateau
+(c) Maharashtra – Rain Shadow Region
+(d) Andhra Pradesh – Malnad
+@ans (d)
+@end
+
+**Malnad** ("hill country") is the forested Western Ghats belt of **Karnataka** (Shivamogga, Chikkamagaluru, Kodagu). The plains east of it are the **Maidan**. Interior Maharashtra, east of the Sahyadri, is a classic rain-shadow region.
+
+@section 4.2 | Size, Population and Districts
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Among all the States of India, what is the rank of U.P. area-wise?
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (d)
+@end
+
+@one
+About 30 percent of India's area lies in the three states of
+@ans Rajasthan, Madhya Pradesh and Maharashtra
+@end
+
+@table
+Rank | By area (sq km) | By population (Census 2011)
+1 | Rajasthan (3,42,239) | Uttar Pradesh (19.98 crore)
+2 | Madhya Pradesh (3,08,252) | Maharashtra (11.24 crore)
+3 | Maharashtra (3,07,713) | Bihar (10.41 crore)
+4 | Uttar Pradesh (2,40,928) | West Bengal (9.13 crore)
+5 | Gujarat (1,96,024) | Andhra Pradesh (8.46 crore, undivided)
+Smallest | Goa (3,702) | Sikkim (6.1 lakh)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which one of the following States of India ranks second in terms of population and third in terms of size (2011 census) ?
+(a) Uttar Pradesh
+(b) Madhya Pradesh
+(c) Andhra Pradesh
+(d) Maharashtra
+@ans (d)
+@end
+
+UP link: Uttar Pradesh is **fourth by area** (about 7.3% of India) but **first by population** (16.5% of India in 2011). It has the **most districts (75)** and the most Lok Sabha seats (80).
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which state in the country has the largest number of districts ?
+(a) Madhya Pradesh
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which of the following statements are true about the Rajasthan desert? Use the code given below to select the correct answer?
+1. It is the most densely populated desert of the world.
+2. It is about 10,000 years old and is mainly caused by excessive human interference.
+3. Here only 40 to 60 percent of the area is suitable for farming.
+4. The increase in net sown area has adversely affected the coverage of grazing lands.
+Code :
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 2, 3 and 4
+@ans (d)
+@note the key accepts all four statements. The second is the weakest: the Thar's aridity is mainly climatic (dry winds, low rainfall), though over-grazing and clearing have made it spread.
+@end
+
+The **Thar** is the **most densely populated desert** in the world. Canal irrigation from the **Indira Gandhi Canal** has turned grazing land into fields, which has cut the area left for the region's large herds.
+
+@section 4.3 | Shared Borders
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which of the following statements is correct –
+(a) Boundary of Madhya Pradesh touches seven States.
+(b) Bhopal is located to the north of the Tropic of Cancer.
+(c) Jammu & Kashmir does not touch the boundary of Punjab.
+(d) Arunachal Pradesh does not have any National parks.
+@ans (*)
+@note in 1993 the undivided Madhya Pradesh touched seven states (Rajasthan, Uttar Pradesh, Bihar, Odisha, Andhra Pradesh, Maharashtra, Gujarat), so (a) was correct. Since Chhattisgarh was carved out in 2000, Madhya Pradesh touches only five states (Rajasthan, Uttar Pradesh, Chhattisgarh, Maharashtra, Gujarat).
+@end
+
+The other three options are wrong at any date. **Bhopal** (23°16' N) lies just **south** of the Tropic of Cancer. Jammu and Kashmir does touch Punjab (Pathankot). Arunachal Pradesh has **Namdapha** and **Mouling** National Parks.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Chhattisgarh does not have common border with –
+(a) Maharashtra
+(b) Bihar
+(c) Odisha
+(d) Andhra Pradesh
+@ans (b)
+@end
+
+**Chhattisgarh** touches seven states: Madhya Pradesh, Maharashtra, Telangana, Andhra Pradesh, Odisha, Jharkhand and **Uttar Pradesh**. Bihar lies beyond Jharkhand.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Sonbhadra district is touched by –
+(a) Boundaries of two states
+(b) Boundaries of three states
+(c) Boundaries of four states
+(d) Boundaries of five states
+@ans (c)
+@end
+
+UP link: **Sonbhadra**, UP's south-eastern district, touches **four states: Madhya Pradesh, Chhattisgarh, Jharkhand and Bihar**. It is the only district in India that borders four states. It is also UP's energy district (Rihand dam, Singrauli coal belt, Obra and Anpara power stations).
+
+@table
+Uttar Pradesh's neighbours | UP districts on the border (examples)
+Uttarakhand | Saharanpur, Bijnor, Pilibhit
+Himachal Pradesh | Saharanpur (short stretch)
+Haryana | Saharanpur, Shamli, Baghpat, Gautam Buddh Nagar, Mathura
+Delhi (UT) | Ghaziabad, Gautam Buddh Nagar
+Rajasthan | Mathura, Agra
+Madhya Pradesh | Agra, Etawah, Jalaun, Jhansi, Lalitpur, Chitrakoot, Prayagraj, Sonbhadra
+Chhattisgarh | Sonbhadra
+Jharkhand | Sonbhadra
+Bihar | Sonbhadra to Maharajganj
+Nepal (country) | Pilibhit to Maharajganj
+@end
+
+@trap
+UP borders **eight states and one UT (Delhi)**, more than any other state. Do not forget **Himachal Pradesh** (a short stretch in Saharanpur) and **Chhattisgarh** (Sonbhadra). UP does **not** border Punjab or Gujarat.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following groups of states borders the state of Telangana?
+(a) Andhra Pradesh, Karnataka, Maharashtra, Chhattisgarh.
+(b) Karnataka, Maharashtra, M.P., Andhra Pradesh.
+(c) Chhattisgarh, Karnataka, Maharashtra, M.P.
+(d) Chhattisgarh, Karnataka, Maharashtra, M.P.
+@ans (a)
+@end
+
+**Telangana** (formed 2 June 2014) touches **Maharashtra, Chhattisgarh, Andhra Pradesh and Karnataka**. It does not touch Madhya Pradesh, which removes options (b), (c) and (d) at once.
+
+@section 4.4 | Capitals and the National Capital Region
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which of the following is not correctly matched ?
+(a) Tripura – Agartala
+(b) Manipur – Aizawl
+(c) Nagaland – Kohima.
+(d) Arunachal Pradesh – Itanagar
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Match List- I (States) with List- II (Capitals) and select the correct answer from the code given below :
+@match
+List I | List II
+A. Assam | 1. Shillong
+B. Nagaland | 2. Kohima
+C. Arunachal Pradesh | 3. Dispur
+D. Meghalaya | 4. Itanagar
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 3 2 4 1
+(c) 4 1 3 2
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@table
+North-eastern state | Capital
+Assam | Dispur
+Arunachal Pradesh | Itanagar
+Meghalaya | Shillong (Assam's capital until 1972)
+Nagaland | Kohima
+Manipur | Imphal
+Mizoram | Aizawl
+Tripura | Agartala
+Sikkim | Gangtok
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Which of the following towns lie in the National Capital Region?
+1. Ambala
+2. Khurja
+3. Karnal
+4. Rohtak
+Select the correct answer from the code given below:
+Code :
+(a) 1 and 2 only
+(b) 3 and 4 only
+(c) 1, 2 and 3 only
+(d) 2, 3 and 4 only
+@ans (d)
+@end
+
+The **NCR** (NCR Planning Board Act, 1985) covers **Delhi** and parts of three states: **Haryana, Uttar Pradesh and Rajasthan**. Rohtak and Karnal (Haryana) are in it; Ambala is not. **Khurja** is in Bulandshahr, UP.
+
+UP link: the UP sub-region of the NCR has eight districts: **Meerut, Ghaziabad, Gautam Buddh Nagar, Bulandshahr, Baghpat, Hapur, Shamli and Muzaffarnagar**.
+
+@one
+The National Capital Region does not include parts of –
+@ans Punjab
+@end
+
+@one U.P. R.O./A.R.O. (Mains) 2017
+Part of which state of the country is not included in National Capital Region.
+@ans Madhya Pradesh
+@end
+
+@trap
+The NCR states are **Haryana, UP and Rajasthan** (Alwar and Bharatpur). Punjab, Himachal and Madhya Pradesh are the usual wrong options.
+@end
+
+@section 4.5 | Union Territories
+
+@pyq U.P.P.C.S. (Pre) 2014
+The largest Union Territory of India is –
+(a) Daman and Diu
+(b) Puducherry
+(c) Delhi
+(d) Chandigarh
+@ans (c)
+@note among the four options Delhi (1,483 sq km) is the largest. Since 31 October 2019 **Ladakh** is the largest Union Territory, followed by Jammu and Kashmir. Daman and Diu was merged with Dadra and Nagar Haveli on 26 January 2020.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The territory of Puducherry lies divided in the States of :
+(a) Tamil Nadu, Andhra Pradesh and Maharashtra
+(b) Tamil Nadu, Karnataka and Kerala.
+(c) Tamil Nadu, Kerala and Andhra Pradesh
+(d) Tamil Nadu, Karnataka and Goa.
+@ans (c)
+@end
+
+**Puducherry** has four separate districts, all former French settlements: **Puducherry** and **Karaikal** (inside Tamil Nadu), **Mahe** (inside Kerala) and **Yanam** (inside Andhra Pradesh).
+
+@table
+Union Territory (8) | Formed or changed | Note
+Ladakh | 31 October 2019 | Largest UT; Leh and Kargil
+Jammu and Kashmir | 31 October 2019 | UT with a legislature
+Delhi | 1956; NCT 1991 | UT with a legislature
+Puducherry | 1962 (de jure) | UT with a legislature; four enclaves
+Andaman and Nicobar Islands | 1956 | Largest island UT
+Chandigarh | 1966 | Capital of Punjab and Haryana
+Dadra and Nagar Haveli and Daman and Diu | 26 January 2020 | Merger of two UTs
+Lakshadweep | 1956 | Smallest UT
+@end
+
+@next
+Expect questions on the **UT-level changes of 2019-20**: the number of UTs went from 7 to 9 and then to 8. Note also that **Jammu and Kashmir, Delhi and Puducherry** are the three UTs with an elected legislature.
+@end
+
+@heatmap
+
+@pattern
+This chapter is a mix of map work and UP facts. Size rank (UP is fourth), most districts (UP), Sonbhadra's four neighbouring states and the NCR towns all come from UPPSC's own interest in Uttar Pradesh. Several keys have been overtaken by later changes: Madhya Pradesh lost its seven-state border in 2000, Ladakh became the largest UT in 2019, and two UTs merged in 2020. When a question reads "at present", answer with today's map, and keep the old key in mind for repeated questions.
+@end
