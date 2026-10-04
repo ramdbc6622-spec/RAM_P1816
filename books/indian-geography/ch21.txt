@@ -530,7 +530,7 @@ Which is the biggest refinery in India?
 @ans (a)
 @end
 
-**Jamnagar** (Reliance Industries, Gujarat) is the world's largest refining complex, with about 68 million tonnes a year of capacity. **Nayara Energy's Vadinar** refinery is nearby. India has 22 refineries and is the world's third largest refiner.
+**Jamnagar** (Reliance Industries, Gujarat) is the world's largest refining complex, with about 68 million tonnes a year of capacity. **Nayara Energy's Vadinar** refinery is nearby. India has 22 refineries and is among the world's four largest refiners.
 
 @pyq U.P.U.D.A./L.D.A. (Pre) 2010
 Where is no oil refinery mentioned below?

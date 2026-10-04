@@ -1,0 +1,487 @@
+@chapter 22 | Power and Energy Resources
+
+@intro
+India is the world's third largest producer and consumer of electricity. At the end of 2025 its installed capacity was about **514 GW**. **Coal and lignite** remain the largest single source (about 226 GW), but in **June 2025** non-fossil sources (solar, wind, hydro, nuclear, bio-power) crossed **half** of installed capacity, five years ahead of the 2030 target. Solar (about 136 GW) is now second to coal, followed by wind (about 55 GW), large hydro (about 51 GW) and nuclear (about 8.8 GW). This chapter covers thermal power and its stations, nuclear power, hydro and other renewables, tidal and geothermal energy. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 22.1 | The Energy Mix
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008; U.P. Lower Sub. (Pre) 2002
+The largest source of energy in India is :
+(a) Nuclear
+(b) Petroleum
+(c) Coal
+(d) Hydroelectricity
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006, 2011
+The highest share in power generation in India is of :
+(a) Atomic power
+(b) Hydropower
+(c) Thermal power
+(d) All above have equal shares
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010; U.P.R.O./A.R.O. (Mains) 2014
+The correct sequence of energy sources in order of their share in the power sector in India is :
+(a) Thermal > Hydro > Nuclear > Wind
+(b) Thermal > Nuclear > Hydro > Wind
+(c) Hydro > Nuclear > Thermal > Wind
+(d) Nuclear > Hydro > Wind > Thermal
+@ans (*)
+@note (a) was the intended answer for the 2000s. By installed capacity at the end of 2025 the order is **Thermal (about 247 GW) > Wind (about 55 GW) > Hydro (about 51 GW) > Nuclear (about 8.8 GW)**, with solar (about 136 GW) not listed. Wind has overtaken both hydro and nuclear.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Consider the following means of energy production :
+1. Water
+2. Natural gas
+3. Nuclear
+4. Diesel
+Arrange them in descending order according to their percentage (as on 30 September, 2019) of the total installed capacity of power generation in India.
+(a) 1, 3, 4, 2
+(b) 3, 2, 1, 4
+(c) 1, 2, 3, 4
+(d) 2, 1, 4, 3
+@ans (c)
+@end
+
+@table
+Source (end of 2025, approx.) | Installed capacity | Share
+Coal and lignite | 226 GW | 44%
+Gas and diesel | 21 GW | 4%
+Solar | 136 GW | 26%
+Wind | 55 GW | 11%
+Large hydro | 51 GW | 10%
+Bio-power and small hydro | 17 GW | 3%
+Nuclear | 8.8 GW | 2%
+Total | About 514 GW | 100%
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which of the following source of energy is not a commercial source?
+(a) Petroleum
+(b) Atomic Energy
+(c) Natural Gas
+(d) Biogas
+@ans (d)
+@end
+
+**Commercial** energy (coal, oil, gas, electricity from thermal, hydro and nuclear plants) is bought and sold through markets. **Non-commercial** energy (firewood, crop residue, dung cakes, small biogas plants) is gathered and used locally, mostly in villages.
+
+@section 22.2 | Thermal Power Stations
+
+@pyq U.P.P.C.S. (Pre) 2021
+With reference to NTPC unit at Singrauli, which of the following statement/s is / are correct ?
+1. It is situated in Northern part of Chhattisgarh State.
+2. It is NTPC's oldest unit.
+Select the correct answer using the codes given below:
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+UP link: **Singrauli Super Thermal Power Station** (2,000 MW) at **Shaktinagar, Sonbhadra (UP)** was NTPC's **first** project (1977; first unit 1982). The **Singrauli** belt around the Rihand reservoir, shared by UP and MP, holds Singrauli, Rihand and Vindhyachal (NTPC), Anpara and Obra (UP), and Sasan, making it India's "energy capital".
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+With the help of which of the following countries, was the Thermal Power Centre at Obra established?
+(a) America
+(b) Germany
+(c) Japan
+(d) Russia
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Ukkai | 1. Jharkhand
+B. Patratu | 2. Gujarat
+C. Pench | 3. Maharashtra
+D. Dabhol | 4. Madhya Pradesh
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 2 1 4 3
+(c) 3 2 1 4
+(d) 1 3 4 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Uran is a gas-based power project in –
+(a) Gujarat
+(b) Karnataka
+(c) Maharashtra
+(d) Tamil Nadu
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Ramagundam Super Thermal Power Station is located in–
+(a) Andhra Pradesh
+(b) Jharkhand
+(c) Madhya Pradesh
+(d) Karnataka
+@ans (a)
+@note correct when the question was set. **Ramagundam** (Peddapalli district) has been in **Telangana** since 2014.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List -I (Coal Based Power Plant) | List-II (Located in State)
+A. Kahalgaon | 1. Madhya Pradesh
+B. Khargone | 2. Bihar
+C. Korba | 3. Karnataka
+D. Kudgi | 4. Chhattisgarh
+@endmatch
+Code :
+(a) A-1, B-2, C-4, D-3
+(b) A-2, B-1, C-3, D-4
+(c) A-1, B-2, C-3, D-4
+(d) A-2, B-1, C-4, D-3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following pairs is not correctly matched?
+(a) Badarpur - Delhi
+(b) Harduaganj - Uttar Pradesh
+(c) Utaran - Gujarat
+(d) Paras - Andhra Pradesh
+@ans (d)
+@end
+
+**Paras** is a thermal station near Akola in **Maharashtra**. UP link: **Harduaganj** (Aligarh) is one of UP's oldest power stations; others are **Panki** (Kanpur), **Parichha** (Jhansi), **Obra**, **Anpara** (Sonbhadra), **Tanda** (Ambedkar Nagar), **Unchahar** (Rae Bareli), **Dadri** (Gautam Buddh Nagar) and **Ghatampur** (Kanpur).
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Match List-I with List-II and select the correct answer using the code given below the lists:
+@match
+List- I (States) | List- II (Rank in installed thermal power capacity)
+A. Gujarat | 1. First
+B. Maharashtra | 2. Second
+C. Uttar Pradesh | 3. Third
+D. West Bengal | 4. Fourth
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 2 1 4 3
+(c) 3 4 1 2
+(d) 1 2 4 3
+@ans (*)
+@note in 2008 **Maharashtra** was first. In December 2025 **Uttar Pradesh** had the largest installed thermal capacity (about 31.5 GW), followed by Maharashtra (about 26 GW), Chhattisgarh, Gujarat and Madhya Pradesh; West Bengal is not in the top four. No code fits today.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Average All-India Thermal Plant Load Factor (PLF) in recent years has been varying between –
+(a) 60-65 percent
+(b) 65-70 percent
+(c) 70-75 percent
+(d) 80-85 percent
+@ans (b)
+@end
+
+The **plant load factor** is the actual output of a station as a percentage of what it could produce running at full capacity all year. The all-India thermal PLF was about **69.5%** in 2024-25.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2016
+Which of the following is not correctly matched?
+(Station) (Power)
+(a) Patratu - Thermal
+(b) Jhakri - Hydroelectric
+(c) Kalpakkam - Nuclear
+(d) Korba - Wind
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List- I (Power Plants) | List- II (Type of Energy)
+A. Chamera | 1. Atomic Power
+B. Gwal Pahari | 2. Thermal Power
+C. Kudankulam | 3. Hydro Power
+D. Patratu | 4. Solar Power
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 4 3 1
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (d)
+@end
+
+**Chamera** is a hydro project on the Ravi (Chamba, Himachal). **Gwal Pahari** (Gurugram) houses the **National Institute of Solar Energy**. **Kudankulam** (Tamil Nadu) is a Russian-built nuclear station, and **Patratu** (Jharkhand) a thermal station.
+
+@section 22.3 | Nuclear Power
+
+@pyq U.P.P.C.S. (Mains) 2005; U.P. Lower Sub. (Pre) 2002; U.P.P.C.S. (Pre) 2003
+India is self-sufficient in the supply of –
+(a) Uranium
+(b) Thorium
+(c) Iridium
+(d) Plutonium
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Consider the following statements:
+Assertion (A): Nuclear energy is a promising source of futuristic demand for energy supply in India.
+Reason (R) : Nuclear minerals are ubiquitously available in India.
+Select correct answer by using codes given below:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+India has little good-grade **uranium** but about a quarter of the world's **thorium** (in monazite sands). Homi Bhabha's **three-stage programme** uses natural uranium in pressurised heavy water reactors, then plutonium in **fast breeder reactors** (the 500 MW PFBR at Kalpakkam), and finally thorium. Uranium is imported from Kazakhstan, Canada, Russia and others since the 2008 India-US civil nuclear deal.
+
+@pyq
+India's first nuclear reactor was –
+(a) Apsara
+(b) Kamini
+(c) Rohini
+(d) Urvashi
+@ans (a)
+@end
+
+**Apsara** at Trombay went critical in **August 1956**, the first research reactor in Asia. **Kamini** (Kalpakkam, 1996) is the only reactor in the world using uranium-233. The first nuclear **power** station was **Tarapur** (Maharashtra, **1969**), built with US help.
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Nuclear Power Station) | List- II (States)
+A. Kota | 1. U.P.
+B. Tarapur | 2. Gujarat
+C. Kakrapara | 3. Maharashtra
+D. Narora | 4. Rajasthan
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 3 2 1 4
+@ans (b)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2002
+Match List-I (State) A. Gujarat B. Karnataka C. Rajasthan D. Uttar Pradesh with List-II (Atomic Power Station) 1. Narora 2. Kakrapara 3. Rawatbhata 4. Kaiga.
+@ans A-2, B-4, C-3, D-1
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following pairs is correctly matched?
+Nuclear Plant - Year of Commissioning
+(a) Kota - 1989
+(b) Kakrapara - 1984
+(c) Kaiga - 1999
+(d) Kalpakkam - 1995
+@ans (*)
+@note no pair is correct. First commercial operation: **Rawatbhata (Kota) 1973**, **Kalpakkam 1984**, **Kakrapar 1993**, **Kaiga 2000**.
+@end
+
+@table
+Nuclear power station | State | First unit
+Tarapur | Maharashtra | 1969 (US-built BWRs)
+Rawatbhata (Kota) | Rajasthan | 1973 (Canadian design)
+Kalpakkam (Madras APS) | Tamil Nadu | 1984; also the PFBR
+Narora | Uttar Pradesh (Bulandshahr) | 1991
+Kakrapar | Gujarat | 1993; first indigenous 700 MW unit (2021)
+Kaiga | Karnataka | 2000
+Kudankulam | Tamil Nadu | 2013 (Russian VVER)
+Gorakhpur (Haryana) | Haryana (Fatehabad) | Under construction
+@end
+
+UP link: **Narora Atomic Power Station** (2 × 220 MW, Bulandshahr) on the Ganga is UP's only nuclear plant. Its site is in seismic zone IV, so it was the first Indian station built to a strengthened earthquake design.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Kaiga - Karnataka
+(b) Rawat Bhata - Rajasthan
+(c) Muppandal - Tamil Nadu
+(d) Ennore - Meghalaya
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+'Mithi Virdi' Nuclear Power Plant will be set up in collaboration with which of the following countries?
+(a) USA
+(b) Canada
+(c) Russia
+(d) France
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2017
+Which of the following pairs related to States of India and proposed nuclear power plants is not correctly matched?
+(a) Jaitpur - Maharashtra
+(b) Mithi Virdi - Gujarat
+(c) Haripur - Haryana
+(d) Kovvadda- Andhra Pradesh
+@ans (c)
+@end
+
+@table
+Proposed project | State | Partner
+Jaitapur | Maharashtra | France (EDF), the largest planned
+Kovvada | Andhra Pradesh | USA (Westinghouse); moved here from Mithi Virdi (Gujarat) in 2017
+Kudankulam 3-6 | Tamil Nadu | Russia
+Haripur | West Bengal | Russia (dropped after local protests)
+Gorakhpur | Haryana | Indigenous 700 MW PHWRs
+Mahi Banswara | Rajasthan | Indigenous 700 MW PHWRs
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Anushakti Vidyut Nigam Limited is a joint venture of the Nuclear Power Corporation of India and
+(a) NMDC
+(b) NHPC
+(c) BHEL
+(d) NTPC
+@ans (d)
+@end
+
+@next
+India aims at **100 GW of nuclear capacity by 2047**. The **Nuclear Energy Mission (2025)** funds **small modular reactors**, and the **SHANTI Act, 2025** opened civil nuclear power to private companies. Expect statement questions on these and on the PFBR at Kalpakkam.
+@end
+
+@section 22.4 | Hydro, Wind, Solar and Tidal Energy
+
+@pyq U.P.P.C.S. (Pre) 1992
+Where is the hydroelectric station located?
+(a) Koyna
+(b) Neyveli
+(c) Kathgodam
+(d) Trombay
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following pairs are correctly matched.
+1. Idukki : Thermal power station
+2. Sabarigiri : Hydro - electric project
+3. Ghatprabha : Irrigation Project
+4. Ramganga : Multipurpose project
+Code :
+(a) 2, 3 and 4
+(b) 1, 2, 3 and 4
+(c) 3 and 4
+(d) 1 and 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Shivanasamudra and Kalpakkam are respectively important for-
+(a) Hydel Power and Nuclear Energy
+(b) Thermal Power and Nuclear Energy
+(c) Nuclear Energy and Hydel Power
+(d) Solar Power and Nuclear Energy
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which among the following ranks first in wind power generation?
+(a) Gujarat
+(b) Maharashtra
+(c) Karnataka
+(d) Rajasthan
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The biggest wind energy project in Asia with a capacity of 150 megawatts is located in :
+(a) Gujarat
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Karnataka
+@ans (c)
+@end
+
+**Muppandal** (Kanyakumari, Tamil Nadu) was Asia's largest wind farm in the 1990s; the Aralvaimozhi pass funnels the monsoon winds there. **Tamil Nadu** led India in wind capacity for decades; **Gujarat** overtook it in 2023-24 and had about 15 GW at the end of 2025.
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following states of India ranks first in installed capacity and generation of electricity?
+(a) Andhra Pradesh
+(b) Gujarat
+(c) Maharashtra
+(d) Tamil Nadu
+@ans (b)
+@note the key gives Gujarat. In 2006 **Maharashtra** had the largest total installed capacity. Today **Gujarat** has the largest installed capacity including renewables (about 66 GW, end-2025), while **Uttar Pradesh** generates the most electricity from conventional sources.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+Rampura, which became the first village in India to have its solar power plant, is situated in –
+(a) Madhya Pradesh
+(b) Himachal Pradesh
+(c) Andhra Pradesh
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2017
+The first Union Territory of India to run 100 percent on solar energy is :
+(a) Chandigarh
+(b) Diu
+(c) Andaman - Nicobar
+(d) Puducherry
+@ans (b)
+@end
+
+UP link: **Rampura** was hailed (2008) as India's first village with its own solar power plant. Today UP is building **solar parks in Bundelkhand** (Jhansi, Jalaun, Lalitpur), and **Ayodhya** is being developed as a model **solar city**. **Rajasthan** has the largest solar capacity in India (Bhadla, Jodhpur, one of the world's largest solar parks), followed by Gujarat.
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which of the following coasts is the largest tidal energy producing area in India?
+(a) Mannar Coast
+(b) Kerala Coast
+(c) North Circars Coast
+(d) Khambhat Coast
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Most potential area for tidal energy in India is?
+(a) Madras
+(b) Cochin
+(c) Visakhapatnam
+(d) Bhavnagar
+@ans (d)
+@end
+
+India's **tidal** potential lies in the **Gulf of Khambhat** (largest, tidal range up to 11 m; Bhavnagar is on its shore), the **Gulf of Kutch** and the **Sundarbans**. No large tidal plant is working yet; **Kalpasar** (Chapter 14) includes tidal power.
+
+@section 22.5 | Geothermal Energy and Hot Springs
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following is not a correctly matched pair?
+(Hot Spring) – (State)
+(a) Lasundra – Rajasthan
+(b) Avaloli – Maharashtra
+(c) Manikaran – Himachal Pradesh
+(d) Sohna – Haryana
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which of the following is not correctly matched?
+Hot springs - Location
+(a) Manikaran - Himachal Pradesh
+(b) Jwalamukhi - Jammu and Kashmir
+(c) Anhoni - Madhya Pradesh
+(d) Tapta Pani - Odisha
+@ans (b)
+@end
+
+**Jwalamukhi** (Kangra, **Himachal Pradesh**) is famous for its natural gas flame, one of the 51 Shakti Peethas. **Lasundra** is in **Gujarat** (Kheda), **Anhoni** in Chhindwara (MP) and **Taptapani** in Ganjam (Odisha). India's first **geothermal** power project is planned at **Puga** valley in Ladakh. A full table of hot springs is in Chapter 8.
+
+@heatmap
+
+@pattern
+Energy questions have two layers. The older papers ask for **station-state-type** pairs: thermal (Singrauli, Obra, Korba, Ramagundam, Patratu), nuclear (Tarapur, Rawatbhata, Narora, Kakrapar, Kaiga, Kudankulam), wind (Muppandal) and tidal (Khambhat). The newer ones test the **energy mix**, where the data has moved fast: non-fossil capacity passed 50% in 2025, solar is second to coal, and Gujarat leads in wind. UP has a strong presence: Singrauli (NTPC's first plant), Obra (Soviet-aided), Narora (atomic), Rampura (solar village) and UP's top rank in thermal capacity.
+@end

@@ -14,4 +14,4 @@ for k in map(int, sys.argv[2:]):
         print("   " + "\n   ".join(it["stem"]))
         for o, t in sorted(it["opts"].items()):
             print(f"   ({o}) {t}")
-        print("   ~", " ".join(it["expl"])[:700])
+        print("   ~", " ".join(it["expl"])[:int(__import__("os").environ.get("EX","700"))])
