@@ -486,7 +486,7 @@ Which one of the following is NOT correctly matched ?
 @ans (b)
 @end
 
-**Rana Pratap Sagar** (Rawatbhata, Chittorgarh) is in **Rajasthan**; the **Rajasthan Atomic Power Station** stands beside it. **Kalpakkam, Narora and Tarapur** are nuclear power stations (Chapter 20).
+**Rana Pratap Sagar** (Rawatbhata, Chittorgarh) is in **Rajasthan**; the **Rajasthan Atomic Power Station** stands beside it. **Kalpakkam, Narora and Tarapur** are nuclear power stations (Chapter 22).
 
 @pyq U.P.P.C.S. (Mains) 2009; U.P.P.C.S. (Spl) (Mains) 2008
 Which one of the following is not correctly matched ?
