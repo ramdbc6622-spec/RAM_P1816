@@ -71,7 +71,7 @@ Which of the following crops has the largest percentage of irrigated area of its
 @ans (d)
 @end
 
-About **95%** of the sugarcane area is irrigated, against roughly 95% for wheat too, about 65% for rice and under 35% for oilseeds. Sugarcane stays in the field for 10 to 18 months and needs water through the dry season.
+About **96%** of the sugarcane area is irrigated, slightly ahead of wheat (about 95%) and far ahead of rice (about 65%) and oilseeds (under 35%). Sugarcane stays in the field for 10 to 18 months and needs water through the dry season.
 
 @pyq U.P.P.C.S. (Mains) 2013
 The first Sugar Mill in India was set up in 1903 at
