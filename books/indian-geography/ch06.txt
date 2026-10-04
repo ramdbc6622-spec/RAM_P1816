@@ -1,0 +1,496 @@
+@chapter 6 | Drainage I: The Himalayan Rivers
+@unit UNIT II · DRAINAGE, CLIMATE AND NATURAL ENVIRONMENT
+
+@intro
+India's rivers fall into two groups. The **Himalayan rivers** (Indus, Ganga, Brahmaputra and their tributaries) are fed by snow and glaciers as well as rain, so they are **perennial**. They are young, cut deep gorges, carry huge loads of silt and build wide plains and deltas. The **Peninsular rivers** (Chapter 7) are rain-fed, older and follow graded valleys. This chapter covers the nature of Himalayan rivers, the Ganga and its Himalayan headwaters, the Yamuna and the other tributaries, the Brahmaputra and the Indus system. UPPSC asks the Ganga system most often, since nearly all of Uttar Pradesh lies in its basin. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 6.1 | Character of Himalayan Rivers
+
+@pyq U.P.P.C.S. (Mains) 2011
+Consider the following statements and select the correct answer from the code given below:
+Statement (A): All rivers originating from the Himalayas are perennial.
+Reason (R): The Himalayas receive most of their rainfall from the south-west monsoon.
+Code:
+(a) Both (A) and (R) are correct, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+(c) (A) is correct, but (R) is incorrect.
+(d) (A) is incorrect, but (R) is correct.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : The Himalayas form source of several large perennial rivers.
+Reason (R) : The higher ranges of Himalayas are snow covered throughout the year.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+The two Assertion-Reason items look alike but differ in the Reason. Himalayan rivers keep flowing in the dry season because **snow and glaciers melt in summer**. That is the correct explanation (2025). The south-west monsoon (2011) is true but explains only the rainy-season flood, not year-round flow.
+
+@pyq U.P.U.D.A./ L.D.A. (Pre) 2013
+The Ganga river is an example of :
+(a) The Antecedent Drainage
+(b) Consequent Drainage System
+(c) Superimposed Drainage System
+(d) Subsequent Drainage System
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following rivers is an example of the superimposed river?
+(a) Alaknanda
+(b) Kosi
+(c) Chambal
+(d) Godavari
+@ans (c)
+@end
+
+@table
+Type | Meaning | Indian examples
+Antecedent | River older than the mountain; it kept cutting down as the land rose | Indus, Satluj, Brahmaputra (Dihang), Ganga headwaters, Kosi
+Consequent | Follows the original slope of the land | Godavari, Krishna, Kaveri (east-flowing Peninsular rivers)
+Subsequent | Develops later along weak rock bands | Tributaries along strike valleys
+Superimposed | Pattern formed on an upper cover of rock, then let down onto unrelated older rocks below | Chambal, Son, Banas, Subarnarekha
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012; U.P.R.O./A.R.O (Mains) 2014
+Which of the following rivers of India cuts across all the ranges of the Himalayas?
+(a) Ravi
+(b) Satluj
+(c) Beas
+(d) Chenab
+@ans (b)
+@end
+
+@one U.P. P.C.S. (Pre) 2020
+Which one of the Rivers is a Trans-Himalayan river?
+@ans Sutlej
+@end
+
+The **Satluj** rises at **Rakas Tal**, beside Mansarovar in Tibet, north of the Himalaya. It enters India at **Shipki La** and cuts through the Zaskar, Greater, Lesser and Shiwalik ranges in deep gorges. It is therefore both **trans-Himalayan** and **antecedent**. The Indus and Brahmaputra are the other two trans-Himalayan rivers.
+
+@trap
+In Assertion-Reason items, match the Reason to the **dry-season** flow. Snow-melt explains perenniality; monsoon rain does not. Of the Indus tributaries in India, only the **Satluj** rises beyond the Himalaya.
+@end
+
+@section 6.2 | The Ganga and its Himalayan Headwaters
+
+The **Ganga** (2,525 km) rises as the **Bhagirathi** at **Gaumukh**, the snout of the Gangotri glacier, in Uttarkashi. It takes the name Ganga at **Devprayag** and enters the plains at **Haridwar**. **Uttar Pradesh** has the longest stretch of the river (about 1,450 km). It was declared India's **National River** in 2008.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Examine the following statements and select the correct answer by using codes given below:
+1. Devprayag is located at the confluence of the Bhagirathi and Alaknanda rivers.
+2. Rudraprayag is located at the confluence of the Mandakini and Alaknanda rivers.
+3. Alaknanda flows from Badrinath.
+4. Kedarnath is considered the biggest seat established by Adi Shankaracharya.
+Code :
+(a) 1, 2, 3
+(b) 2, 3, 4
+(c) 1, 2, 4
+(d) 1, 2, 3 and 4
+@ans (a)
+@end
+
+Adi Shankaracharya founded four **mathas**: **Jyotirmath** (near Badrinath), **Sringeri**, **Dwarka** and **Puri**. Kedarnath is a Jyotirlinga temple, and Shankaracharya's samadhi is there, but it is not one of the four seats. Statement 4 fails.
+
+@pyq U.P.P.C.S. (Pre) 2023; U.P.P.C.S. (Mains) 2016
+Which one of the following places is the confluence of the river Alakhnanda and the Bhagirathi?
+(a) Dev Prayag
+(b) Vishnu Prayag
+(c) Rudra Prayag
+(d) Karna Prayag
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Place) | List-II (Confluencing Rivers)
+A. Devprayag | 1. Alaknanda and Pindar
+B. Rudraprayag | 2. Alaknanda and Bhagirathi
+C. Karnaprayag | 3. Bhagirathi and Bhilangna
+D. Tehri | 4. Alaknanda and Mandakini
+@endmatch
+Codes : A B C D
+(a) 4 1 2 3
+(b) 2 3 1 4
+(c) 4 1 3 2
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@table
+Panch Prayag (upstream to downstream) | Alaknanda meets
+Vishnuprayag | Dhauliganga
+Nandprayag | Nandakini
+Karnaprayag | Pindar
+Rudraprayag | Mandakini
+Devprayag | Bhagirathi (the river becomes the Ganga)
+@end
+
+The **Tehri dam** stands at the meeting of the **Bhagirathi** and the **Bhilangna**. It is India's tallest dam (260.5 m).
+
+@pyq U.P.U.D.A./ L.D.A. (Pre) 2013
+Which of the following River's bank is the famous temple of Badrinath is located?
+(a) Alaknanda
+(b) Bhagirathi
+(c) Mandakini
+(d) Ganga
+@ans (a)
+@end
+
+**Badrinath** stands on the **Alaknanda** and **Kedarnath** on the **Mandakini**. **Gangotri** is on the Bhagirathi and **Yamunotri** at the source of the Yamuna. These four make the **Char Dham** of Uttarakhand.
+
+@pyq U.P.P.C.S. (Mains) 2016
+River Ganga, after entering Bangladesh is known by which of the following names ?
+(a) Lohit
+(b) Padma
+(c) Kaliganga
+(d) Nabaganga
+@ans (b)
+@end
+
+Below **Farakka** the Ganga splits. The main stream enters Bangladesh as the **Padma**, while the **Bhagirathi-Hooghly** branch flows south past Kolkata. The Padma meets the **Jamuna** (Brahmaputra) at Goalundo and then the **Meghna**, which carries their joint water to the Bay of Bengal.
+
+@pyq U.P.P.C.S. (Pre) 2005
+Assertion (A) : The Ganga is a highly polluted river.
+Reason (R) : The holier the river, the more polluted it is.
+Select the correct answer from the following code:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+The Ganga's pollution comes from **untreated sewage** of towns and **industrial effluent** (tanneries of Kanpur, sugar and distillery waste). Holiness is not a cause. The **Namami Gange** programme (2014) and the **National Mission for Clean Ganga** fund sewage treatment along the river.
+
+UP link: Kanpur's Jajmau tannery cluster and the big riverside cities (Kanpur, Prayagraj, Varanasi) make UP the critical stretch for Ganga cleaning.
+
+@section 6.3 | Tributaries of the Ganga
+
+@table
+Bank | Tributary | Rises in | Joins the Ganga at or near
+Left | Ramganga | Garhwal (Uttarakhand) | Kannauj (UP)
+Left | Gomti | Phulhar Tal, Pilibhit (UP) | Kaithi, Ghazipur (UP)
+Left | Ghaghara (Karnali) | Mapchachungo glacier, Tibet | Near Chhapra (Bihar)
+Left | Gandak | Nepal Himalaya | Sonepur-Hajipur (Bihar)
+Left | Kosi | Tibet and Nepal (Sapta Kosi) | Kursela (Bihar)
+Left | Mahananda | Darjeeling hills | Near the Bangladesh border
+Right | Yamuna | Yamunotri (Bandarpunch) | Prayagraj (Sangam)
+Right | Tons | Kaimur range (MP) | Near Prayagraj
+Right | Son | Amarkantak plateau | Near Patna
+Right | Punpun | Chotanagpur plateau | Near Patna
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Identify the only tributary of River Ganges which rises in the plains.
+(a) Son
+(b) Sharda or Saryu
+(c) Gomti
+(d) Ram Ganga
+@ans (c)
+@end
+
+UP link: the **Gomti** rises at **Phulhar (Gomat) Tal** near Madhotanda in **Pilibhit**. It flows past **Lucknow** and **Jaunpur** and joins the Ganga at **Kaithi**, between Varanasi and Ghazipur. It is the only major Ganga tributary born in the plains and is fed by groundwater and rain.
+
+@pyq U.P.P.C.S. (Pre) 2015
+Assertion (A) : Yamuna becomes a dead river between Delhi and Agra most of the year.
+Reason (R) : Yamuna is a non-perennial river.
+Select the correct answer from the code given below:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+The **Yamuna** (1,376 km) is a glacier-fed, **perennial** river. Below Delhi it is "dead" because almost all its clean water is diverted at **Hathnikund** and **Wazirabad** for irrigation and drinking, while Delhi's drains pour in sewage. The reason given is wrong.
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following rivers is not a tributary of Yamuna?
+(a) Betwa
+(b) Chambal
+(c) Ken
+(d) Ram Ganga
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Consider the following tributaries of River Yamuna and arrange them from West to East :
+1. Betwa
+2. Ken
+3. Sindh
+4. Chambal
+Select the correct answer from the codes given below.
+Codes :
+(a) 4, 3, 1 and 2
+(b) 1, 2, 3 and 4
+(c) 3, 2, 1 and 4
+(d) 2, 3, 1 and 4
+@ans (a)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2014
+Betwa river joins the
+@ans Yamuna
+@end
+
+UP link: the right-bank tributaries of the Yamuna drain **Bundelkhand**. West to east: the **Chambal** joins near **Etawah** (at Pachnada, where the Sindh, Kunwari and Pahuj also meet), the **Betwa** at **Hamirpur** and the **Ken** at **Chilla** in **Banda**. The **Hindon**, a left-bank tributary, flows past Ghaziabad.
+
+@pyq U.P.R.O. / A.R.O. (Mains), 2017
+The catchment area of which of the following river is maximum :
+(a) Mahananda
+(b) Son
+(c) Ramganga
+(d) Gandak
+@ans (b)
+@end
+
+India-WRIS gives these catchments: **Son about 70,000 sq km**, Gandak about 46,000 (in India), Ramganga about 31,000 and Mahananda about 24,000 sq km. The Son drains a large part of the Vindhyan and Baghelkhand plateaus.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following river does not flow through the state of Uttar Pradesh ?
+(a) Son River
+(b) Hindon River
+(c) Gandak River
+(d) Sharda River
+@ans (c)
+@end
+
+The **Gandak** comes down from Nepal at **Valmikinagar** and flows through **Bihar** to the Ganga at Sonepur. It only skirts the UP-Bihar border near Kushinagar. The **Son** crosses **Sonbhadra**, the **Hindon** flows through western UP, and the **Sharda** (Kali) flows through Pilibhit and Lakhimpur Kheri.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following rivers is NOT the part of Indian Ganga river basin?
+(a) Punpun river
+(b) Ajoy river
+(c) Jalangi river
+(d) Jonk river
+@ans (d)
+@end
+
+The **Jonk** is a tributary of the **Mahanadi** in Chhattisgarh and Odisha. The **Punpun** (Bihar), **Ajay** (Jharkhand and West Bengal) and **Jalangi** (a Ganga distributary in West Bengal) all belong to the Ganga basin.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following river is notorious for maximum shifting of its course?
+(a) Ganga
+(b) Kosi
+(c) Damodar
+(d) Gomati
+@ans (b)
+@end
+
+The **Kosi**, the **"Sorrow of Bihar"**, carries a heavy silt load from the Nepal Himalaya. Its channel has moved about 120 km westward in two centuries. The **Kusaha embankment breach of 2008** sent it into an old channel and flooded much of north Bihar.
+
+@pyq U.P.P.C.S. (Pre) 1993
+The Mahatma Gandhi Setu is located in :
+(a) Bihar
+(b) Uttar Pradesh
+(c) Madhya Pradesh
+(d) Andhra Pradesh
+@ans (a)
+@end
+
+**Mahatma Gandhi Setu** (5.575 km, opened 1982) crosses the Ganga between **Patna** and **Hajipur**. It was long the longest river bridge in India. The **Bhupen Hazarika (Dhola-Sadiya) Bridge** on the Lohit (9.15 km, 2017) is now the longest.
+
+@pyq U.P.P.C.S. (Pre) 2019
+'Moribund Delta' is a sub-division of which of the following Deltas?
+(a) Krishna-Godawari Delta
+(b) Mahanadi Delta
+(c) Bengal Delta
+(d) Cauvery Delta
+@ans (c)
+@end
+
+The **Ganga-Brahmaputra (Bengal) delta** is the largest delta in the world. Its western part, served by the Bhagirathi-Hooghly, gets little fresh water now that the main flow has moved east. Rivers there are silting up and dying, so it is called the **moribund delta**. The eastern part, where the Padma and Meghna still build land, is the **active delta**. The **Sundarbans** occupy its seaward edge.
+
+@section 6.4 | Ken-Betwa Link and Rivers of Bundelkhand
+
+@pyq U.P.P.C.S. (Pre) 2006
+A memorandum of understanding for India's first river linking project has been signed between two States linking two rivers. The States and the rivers concerned are :
+@match
+States | Rivers
+(a) Punjab and Rajasthan | Beas and Banas
+(b) Uttar Pradesh and Madhya Pradesh | Ken and Betwa
+(c) Karnataka and Tamil Nadu | Krishna and Cauvery
+(d) Uttar Pradesh and Bihar | Gomti and Sharda
+@endmatch
+@ans (b)
+@end
+
+The **Ken-Betwa Link Project** was agreed by Uttar Pradesh and Madhya Pradesh on **25 August 2005**. It is the first project of the National Perspective Plan for interlinking rivers. Water stored at the **Daudhan dam** on the Ken (Panna, MP) will go by a 221 km canal to the Betwa. The foundation stone was laid on **25 December 2024**. Its main beneficiary area is **Bundelkhand** (Jhansi, Lalitpur, Mahoba, Banda in UP; Panna, Chhatarpur, Tikamgarh in MP).
+
+@pyq U.P.P.C.S. (Pre) 2006
+In the Uttar Pradesh and the Madhya Pradesh States, the joint "Rajghat River Valley Project" is located on
+(a) Ken river
+(b) Son river
+(c) Chambal river
+(d) Betwa river
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2015
+Which one of the dam is built across the Betwa river?
+@ans Rajghat Dam
+@end
+
+UP link: the **Rajghat dam** (Lalitpur) and the **Matatila dam** (Lalitpur-Jhansi) are both on the **Betwa**. The **Rihand dam** (Govind Ballabh Pant Sagar) in Sonbhadra is on the **Rihand**, a tributary of the Son.
+
+@trap
+The Ken-Betwa link takes water **from the Ken to the Betwa**, not the other way. Both rivers are right-bank tributaries of the **Yamuna**, not the Ganga.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (River) | List-II (Tributary)
+A. Ganga | 1. Bhima
+B. Godavari | 2. Ken
+C. Krishna | 3. Manjira
+D. Yamuna | 4. Son
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 2 3 4 1
+(c) 3 4 1 2
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@section 6.5 | The Brahmaputra System
+
+@pyq U.P.P.C.S. (Pre) 1990
+The catchment area of river Brahmaputra is –
+(a) Tibet, Bangladesh, India
+(b) India, China, Bangladesh, Tibet
+(c) India, Pakistan, Bangladesh, Sikkim
+(d) Bangladesh, West Bengal, Bhutan, Nepal.
+@ans (a)
+@note the basin also covers **Bhutan**. Among the four options, (a) is the only one with no wrong entry.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which of the following rivers have almost the same point of the beginning?
+(a) Brahmaputra and Ganga
+(b) Tapi and Beas
+(c) Brahmaputra and Indus
+(d) Indus and Ganga
+@ans (c)
+@end
+
+The **Indus** (from Bokhar Chu near Mansarovar), the **Satluj** (Rakas Tal) and the **Brahmaputra** (Chemayungdung glacier) all rise near **Mount Kailash and Lake Mansarovar**. The Indus flows west and the Brahmaputra east, so the two enclose the whole Himalaya.
+
+@table
+Stage of the Brahmaputra | Name
+Tibet (flows east) | Yarlung Tsangpo
+Great bend round Namcha Barwa, entry into Arunachal Pradesh | Siang / Dihang
+After the Dibang and Lohit join near Sadiya (Assam) | Brahmaputra
+Bangladesh | Jamuna (joins the Padma, then the Meghna)
+@end
+
+The Brahmaputra (about 2,900 km) carries one of the largest silt loads in the world. In Assam it forms **Majuli**, the largest river island. China's large dam project on the Yarlung Tsangpo at Medog (started 2025) is a current concern for India.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) :
+Assertion (A) : Teesta river was earlier a tributary of Ganga now it is a tributary of Brahmaputra.
+Reason (R) : River capturing is a major feature of Himalayan rivers.
+Select the correct answer using the codes given below.
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+The **Teesta** once flowed south into the Ganga system. After the great flood of **1787** it swung south-east and joined the **Brahmaputra**. Young Himalayan rivers on loose alluvium often shift and capture one another's flow, so (R) explains (A).
+
+@pyq U.P.P.C.S. (Mains) 2007
+Sankosh river forms the boundary between –
+(a) Bihar and West Bengal
+(b) Assam and Arunachal Pradesh
+(c) Assam and West Bengal
+(d) Bihar and Jharkhand
+@ans (c)
+@end
+
+The **Sankosh** rises in Bhutan and flows south to the Brahmaputra. In India it marks the boundary between **Assam** (Kokrajhar) and **West Bengal** (Alipurduar).
+
+@section 6.6 | The Indus System
+
+@table
+River | Rises at | Notes
+Indus | Bokhar Chu, near Mansarovar (Tibet) | Enters Ladakh near Demchok; flows past Leh
+Jhelum | Verinag spring (Kashmir) | Flows through Wular Lake and Srinagar; Kishanganga joins it
+Chenab | Chandra and Bhaga meet at Tandi (Lahaul) | Largest Indus tributary by volume
+Ravi | Near Rohtang, Kullu (Himachal) | Flows past Chamba
+Beas | Beas Kund, near Rohtang | Wholly in India; joins the Satluj at Harike
+Satluj | Rakas Tal (Tibet) | Enters at Shipki La; Bhakra dam
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P.P.S.C. (GIC) 2010
+Which one of the following rivers does not originate in India?
+(a) Beas
+(b) Chenab
+(c) Ravi
+(d) Sutlej
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following rivers originates from Mansarovar in Tibet and passes through Shipki La mountain pass?
+(a) Chenab
+(b) Beas
+(c) Ravi
+(d) Satluj
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Main) 2013
+Kishan Ganga is a tributary of –
+(a) Ravi
+(b) Chenab
+(c) Jhelum
+(d) Beas
+@ans (c)
+@end
+
+The **Kishanganga** (called the **Neelum** in Pakistan-occupied Kashmir) joins the **Jhelum** near Muzaffarabad. India's **Kishanganga hydropower project** (330 MW, Bandipora) diverts its water to the Wular Lake.
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+'Doodh-Ganga' river is located in –
+(a) Jammu and Kashmir
+(b) Himachal Pradesh
+(c) Uttarakhand
+(d) West Bengal
+@ans (a) & (c)
+@note rivers named Doodh Ganga flow in **Jammu and Kashmir** (a Jhelum tributary from the Pir Panjal that reaches Srinagar), in **Uttarakhand** and in Maharashtra. The source key accepts both; UPPSC's own answer was (a).
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+On which of the following rivers of India is the world's highest bridge being constructed?
+(a) Chenab
+(b) Sutlej
+(c) Jhelum
+(d) Beas
+@ans (a)
+@end
+
+The **Chenab Rail Bridge** in **Reasi**, Jammu and Kashmir, stands **359 m above the river**, the highest railway bridge in the world. It is part of the **Udhampur-Srinagar-Baramulla Rail Link** and was opened in **June 2025**, along with the **Anji Khad** cable-stayed rail bridge.
+
+@next
+The **Indus Waters Treaty (1960)** gave the eastern rivers (Ravi, Beas, Satluj) to India and the western rivers (Indus, Jhelum, Chenab) mainly to Pakistan. India put the treaty **in abeyance in April 2025**. Expect a statement question on the treaty's river division and the World Bank's role.
+@end
+
+@heatmap
+
+@pattern
+The Ganga system carries this chapter: confluences of the Panch Prayag, the Gomti as the only plains-born tributary, Yamuna tributaries in west-to-east order, and Bundelkhand projects (Ken-Betwa, Rajghat). These are UP-centred questions, set again and again. Recent papers (2019 to 2025) have moved to Assertion-Reason (perennial rivers, Teesta capture) and to basins (moribund delta, Jonk). Learn one table each for Ganga tributaries with their confluence points, the Panch Prayag, and the Indus tributaries with their sources.
+@end

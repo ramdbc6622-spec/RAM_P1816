@@ -1,0 +1,365 @@
+@chapter 8 | Waterfalls, Lakes and Hot Springs
+
+@intro
+Most of India's big waterfalls are on the edges of the Peninsular plateau: where rivers drop off the Western Ghats (Jog, Dudhsagar, Kunchikal), over the Vindhyan and Rewa scarps (Chachai, Keoti), or off the Ranchi and Bastar plateaus (Hundru, Chitrakote). India's lakes are of many kinds: coastal lagoons (Chilika, Pulicat, Vembanad), tectonic and glacial lakes of the Himalaya (Wular, Roopkund), inland salt lakes (Sambhar), a meteorite crater (Lonar) and oxbow lakes of the plains. UPPSC asks this chapter almost entirely by location matching. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 8.1 | Waterfalls and their Rivers
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following is the highest waterfall in India?
+(a) Jog fall
+(b) Kunchikal fall
+(c) Rakim Kund fall
+(d) Kevti fall
+@ans (b)
+@note UPPSC has always treated **Kunchikal** as India's highest. The World Waterfall Database now lists lower heights for it, and many sources give **Nohkalikai** (Meghalaya, about 340 m, a single plunge) as the tallest. Choose Kunchikal when it is offered; if not, Nohkalikai.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is the correct height of Kunchikal Waterfall ?
+(a) 335 metre
+(b) 337 metre
+(c) 399 metre
+(d) 455 metre
+@ans (d)
+@end
+
+**Kunchikal** is a series of cascades on the **Varahi** river in Shivamogga, **Karnataka**. It was listed at **455 m** in total drop when these questions were set. The water is now largely diverted for the Varahi hydroelectric scheme.
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following pairs is not correctly matched ?
+(a) Sivasamudram Waterfall - Cauvery
+(b) Chulia Waterfall - Chambal
+(c) Jog Waterfall - Krishna
+(d) Dhuandhar Waterfall - Narmada
+@ans (c)
+@end
+
+**Jog Falls** (253 m), also called Gersoppa, is on the **Sharavati** in Karnataka. **Sivasamudram** on the Kaveri powered one of Asia's earliest hydroelectric stations (1902). **Chulia** is on the Chambal near Rawatbhata, Rajasthan, and **Dhuandhar** on the Narmada at Bhedaghat near Jabalpur.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following is NOT correctly matched?
+(a) Hundru Waterfall - Subarnarekha River
+(b) Chachai Waterfall - Bihad River
+(c) Dhuandhar Waterfall - Narmada River
+(d) Budha Ghagh Waterfall - Kanchi River
+@ans (d)
+@end
+
+**Budha Ghagh (Lodh) Falls** in Latehar, Jharkhand's highest waterfall, is on the **Burha (Budha)** river. The **Kanchi** river forms the **Dassam Falls** near Ranchi.
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List-I with List-II and select the correct answer by using the code given below:
+@match
+List-I (Waterfall) | List-II (Rivers)
+A. Dudhsagar | 1. Ghatprabha
+B. Duduma | 2. Machhkund
+C. Gokak | 3. Sharavati
+D. Jog | 4. Mandavi
+@endmatch
+Code : A B C D
+(a) 4 2 1 3
+(b) 4 2 3 1
+(c) 2 4 1 3
+(d) 2 3 4 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Match List - I with List- II and select the correct answer from the code given below the lists.
+@match
+List - I (Waterfalls of India) | List - II (Location)
+A. Dudhsagar | 1. Karnataka
+B. Barkana | 2. Odisha
+C. Khandadhar | 3. Himachal Pradesh
+D. Palani | 4. Goa
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 4 1 2 3
+(c) 3 2 4 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following waterfalls of India is located in Goa ?
+(a) Dhuandhar Falls
+(b) Dudhsagar Falls
+(c) Nohkalikai Falls
+(d) Landshing Falls
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following rivers the "Chitrakote" water fall is located?
+(a) Yamuna River
+(b) Mandakini River
+(c) Indravati River
+(d) Narmada River
+@ans (c)
+@end
+
+@one U.P. R.O./A.R.O. (Mains) 2017
+Chitrakote waterfall is situated
+@ans Bastar
+@end
+
+@table
+Waterfall | River | State
+Kunchikal | Varahi | Karnataka
+Jog (Gersoppa) | Sharavati | Karnataka
+Barkana | Sita | Karnataka
+Gokak | Ghataprabha | Karnataka
+Sivasamudram | Kaveri | Karnataka
+Dudhsagar | Mandovi | Goa (Goa-Karnataka border)
+Nohkalikai | Local stream | Meghalaya
+Duduma | Machkund | Odisha-Andhra border
+Khandadhar | Korapani Nala | Odisha (Sundargarh)
+Chitrakote | Indravati | Chhattisgarh (Bastar); "Niagara of India"
+Tirathgarh | Kanger | Chhattisgarh (Bastar)
+Dhuandhar | Narmada | Madhya Pradesh (Bhedaghat)
+Chachai | Bihad | Madhya Pradesh (Rewa)
+Keoti | Mahana | Madhya Pradesh (Rewa)
+Hundru | Subarnarekha | Jharkhand (Ranchi)
+Dassam | Kanchi | Jharkhand (Ranchi)
+Budha Ghagh (Lodh) | Burha | Jharkhand (Latehar)
+Chulia | Chambal | Rajasthan
+Palani | Local stream | Himachal Pradesh (Kullu)
+@end
+
+UP link: UP's waterfalls are on the **Vindhyan and Kaimur scarps** in the south-east: **Rajdari** and **Devdari** (Chandraprabha Wildlife Sanctuary, Chandauli), **Lakhaniya Dari** and **Wyndham Falls** (Mirzapur), and **Mukha Falls** (Sonbhadra).
+
+@trap
+Karnataka holds most of the "highest waterfall" options: Kunchikal, Jog, Barkana. Two names repeat across states: **Dudhsagar** (Goa) and **Palani** waterfall (Himachal), the latter not to be confused with the Palani Hills of Tamil Nadu.
+@end
+
+@section 8.2 | Coastal Lagoons and Lakes of the South
+
+@pyq U.P.P.C.S. (Pre) 1997
+Vembanad Lake is in:
+(a) Andhra Pradesh
+(b) Kerala
+(c) Orissa
+(d) Tamil Nadu
+@ans (b)
+@end
+
+**Vembanad**, the largest lake of **Kerala** and the longest lake in India (about 96 km), spreads over Alappuzha, Kottayam and Ernakulam. The **Nehru Trophy Boat Race** is held on its Punnamada stretch. It is a **Ramsar site** (2002).
+
+@pyq U.P.P.C.S. (Pre) 2021
+Largest saline water lake in India is :
+(a) Chilika
+(b) Sambhar
+(c) Lonary
+(d) Wullar
+@ans (a)
+@note **Chilika** (Odisha, about 1,100 sq km) is the largest brackish-water lagoon. **Sambhar** (Rajasthan) is the largest **inland** salt lake. The key takes "lake" in its widest sense and picks Chilika; if the stem says "inland", answer Sambhar.
+@end
+
+@pyq U.P.Lower Sub. (Pre) 2008; U.P.U.D.A./L.D.A.( Pre) 2016
+At which of the following places is the Chilika Lake located?
+(a) Karnataka coast
+(b) Malabar Coast
+(c) Konkan Coast
+(d) Northern Circars
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following is the largest lagoon lake situated on the east coast of India?
+(a) Pulicat
+(b) Chilika
+(c) Kulleru
+(d) Kilivali
+@ans (b)
+@end
+
+**Chilika** lies south of the Mahanadi delta in **Odisha**, cut off from the sea by a long sand bar. It is the largest wintering ground for migratory birds in India and home to **Irrawaddy dolphins**. With **Keoladeo** it became one of India's first two **Ramsar sites in 1981**.
+
+@one U.P.P.C.S. (Mains) 2008
+Which of the following lake is shared by two Indian States?
+@ans Pulicat
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following is not correctly matched ?
+(a) Vembanad - Kerala
+(b) Loktak - Meghalaya
+(c) Dal - Kashmir
+(d) Pulicat - Andhra Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012; U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Which of the following is correctly matched?
+Lakes - Locations
+(a) Lonar - Madhya Pradesh
+(b) Nakki - Gujarat
+(c) Kolleru - Andhra Pradesh
+(d) Pulicat - Kerala
+@ans (c)
+@end
+
+**Pulicat**, the second largest brackish lagoon, lies on the **Andhra Pradesh-Tamil Nadu** border; the island of **Sriharikota** separates it from the sea. **Kolleru** is a large freshwater lake between the Godavari and Krishna deltas in Andhra Pradesh. **Lonar** (Buldhana, Maharashtra) fills a crater made by a meteorite about 50,000 years ago. **Nakki** is on Mount Abu, Rajasthan.
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Match List-I and List-II and select the correct answer from the codes given below:
+@match
+List-I (Lakes) | List-II (Location)
+A. Ashtamudi | 1. Haryana
+B. Pulicat | 2. Kerala
+C. Roopkund | 3. Tamil Nadu
+D. Surajkund | 4. Uttarakhand
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 2 3 4 1
+(c) 4 2 3 1
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (Lake) | List-II (Location)
+A. Sala Lake | 1. Arunachal Pradesh
+B. Badkhal Lake | 2. Haryana
+C. Loktak Lake | 3. Manipur
+D. Kaliveli Lake | 4. Tamil Nadu
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 1 3 2 4
+(d) 1 4 2 3
+@ans (a)
+@end
+
+@section 8.3 | Himalayan and Other Inland Lakes
+
+@pyq U.P. R.O. / A.R.O. (Pre) 2021
+Which of the following is the largest Fresh Water Lake of India?
+(a) Kolleru
+(b) Wular
+(c) Nalsarovar
+(d) Sambhar
+@ans (b)
+@note **Wular** (Bandipora, Jammu and Kashmir), fed by the Jhelum, is the standard answer and the largest by volume. By surface area at full flood, **Kolleru** can exceed it. Sambhar is salt, and Nalsarovar (Gujarat) is a shallow wetland.
+@end
+
+@pyq U.P.P.C.S.(Pre) (Re-Exam) 2015
+Which of the following lakes of India is located in Jammu and Kashmir?
+(a) Phulhar lake
+(b) Kolleru lake
+(c) Anchar lake
+(d) Hamirsar lake
+@ans (c)
+@end
+
+**Anchar** lake lies on the north-western edge of **Srinagar**, near Dal and Nigeen lakes. **Hamirsar** is the historic tank of **Bhuj** (Gujarat).
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is called the 'Mysterious lake'?
+(a) Jor Pokhri Lake
+(b) Dodital lake
+(c) Roopkund Lake
+(d) Red hills lake
+@ans (c)
+@end
+
+**Roopkund** (about 5,000 m, Chamoli, Uttarakhand) is a small glacial lake on the Nanda Devi Raj Jat route. Hundreds of human skeletons lie around it, which is why it is called the **"Skeleton Lake"** or **"Mysterious Lake"**. DNA studies (2019) show the dead came from different groups and periods.
+
+@pyq U.P.P.C.S. (Mains) 2016
+The snow-covered Ghepan Lake is located in –
+(a) Uttarakhand
+(b) Himachal Pradesh
+(c) Sikkim
+(d) Jammu and Kashmir
+@ans (b)
+@end
+
+**Ghepan Ghat** lake in **Lahaul-Spiti** (Himachal Pradesh) is a growing **glacial lake**, watched for the risk of a **glacial lake outburst flood (GLOF)** like the one from **South Lhonak** lake that hit the Teesta valley in Sikkim in **October 2023**.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following lakes of India is located in Assam?
+(a) Hamirsar Lake
+(b) Kolleru Lake
+(c) Sala Lake
+(d) Chapanala Lake
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+In which state of India, Fulhar Lake is situated ?
+(a) Madhya Pradesh
+(b) Uttarakhand
+(c) Uttar Pradesh
+(d) Jammu and Kashmir
+@ans (c)
+@end
+
+UP link: **Phulhar (Fulhar) Tal**, near Madhotanda in **Pilibhit**, is the source of the **Gomti** (Chapter 6). UP also has ten **Ramsar sites**, including **Nawabganj** (Unnao), **Sandi** (Hardoi), **Samaspur** (Rae Bareli), **Sur Sarovar** (Agra), **Bakhira** (Sant Kabir Nagar) and **Haiderpur** wetland (Muzaffarnagar-Bijnor).
+
+@table
+Lake | State or UT | Type or note
+Wular | Jammu and Kashmir | Largest freshwater lake; Jhelum
+Dal, Anchar, Nigeen | Jammu and Kashmir (Srinagar) | Valley lakes
+Pangong Tso, Tso Moriri | Ladakh | High-altitude salt lakes
+Roopkund | Uttarakhand | Glacial; skeletons
+Nainital, Bhimtal | Uttarakhand | Kumaon lakes
+Ghepan Ghat, Chandratal | Himachal Pradesh | Glacial
+Sala (Sela) | Arunachal Pradesh | Near Se La pass
+Chapanala, Chandubi | Assam | Nagaon and Kamrup
+Loktak | Manipur | Phumdis (floating islands); Keibul Lamjao National Park
+Sambhar, Pushkar, Nakki | Rajasthan | Salt; sacred; Mount Abu
+Badkhal, Surajkund | Haryana | Faridabad
+Hamirsar, Nalsarovar | Gujarat | Bhuj tank; bird sanctuary
+Lonar | Maharashtra | Meteorite crater (Ramsar, 2020)
+Kolleru, Pulicat | Andhra Pradesh (Pulicat with Tamil Nadu) | Freshwater; lagoon
+Kaliveli | Tamil Nadu | Coastal wetland, Viluppuram
+Vembanad, Ashtamudi | Kerala | Backwaters
+Chilika | Odisha | Largest brackish lagoon
+@end
+
+@trap
+**Loktak** is in Manipur, not Meghalaya. **Pulicat** is shared by Andhra Pradesh and Tamil Nadu (never Kerala). **Lonar** is in Maharashtra, not Madhya Pradesh. **Surajkund** and **Badkhal** are both in Faridabad, Haryana.
+@end
+
+@section 8.4 | Hot Springs
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following is not correctly matched?
+(State) (Hot Springs)
+(a) Himachal Pradesh - Manikaran
+(b) Odisha - Taptapani
+(c) Maharashtra - Vajreshwari
+(d) Gujarat - Narayani
+@ans (d)
+@end
+
+@table
+Hot spring | State
+Manikaran (Parvati valley), Tattapani, Vashisht | Himachal Pradesh
+Puga, Panamik | Ladakh (Puga: India's first geothermal power project)
+Taptapani, Atri | Odisha
+Vajreshwari, Unhavare | Maharashtra
+Tulsishyam, Unai | Gujarat
+Bakreshwar | West Bengal
+Rajgir | Bihar
+Yumthang, Reshi | Sikkim
+Sohna | Haryana
+Narayani | Rajasthan
+@end
+
+@next
+Lakes and wetlands now come through **Ramsar** news. India has more than 90 Ramsar sites (the most in Asia); expect a question on a recent addition or on UP's Ramsar sites.
+@end
+
+@heatmap
+
+@pattern
+Every question in this chapter is a location: which river makes which waterfall, which state holds which lake. Karnataka and Jharkhand supply most waterfall options, and Kerala, Odisha and Andhra Pradesh most lake options. Three keys need a note: the highest waterfall (UPPSC keeps Kunchikal), the largest saline lake (Chilika for "lake", Sambhar for "inland lake"), and the largest freshwater lake (Wular). Recent papers (2020 to 2022) added Kaliveli, Sala, Barkana, Khandadhar and hot springs, so expect lesser-known names in the next set.
+@end

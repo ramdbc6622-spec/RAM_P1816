@@ -1,0 +1,496 @@
+@chapter 7 | Drainage II: Peninsular Rivers and River Cities
+
+@intro
+The Peninsular rivers are **rain-fed and seasonal**, flow in broad, graded valleys and follow the **eastward tilt** of the plateau. The Mahanadi, Godavari, Krishna and Kaveri build deltas on the Bay of Bengal. The Narmada and Tapi flow **west** in **rift valleys** and end in estuaries. Short, swift streams fall from the Western Ghats to the Arabian Sea. This chapter covers the east- and west-flowing rivers, sources, tributaries, basin sizes, the Damodar and other rivers, and the cities on river banks. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 7.1 | West-flowing Rivers, Rift Valleys and Estuaries
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P. U.D.A./L.D.A. (Pre) 2010; U.P.R.O./A.R.O. (Mains) 2013
+Assertion (A) : The rivers of Western Ghats do not form the delta.
+Reason (R) : They flow through short courses with high speed over hard-rocks.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+The key reads "rivers of the Western Ghats" as the **west-flowing** streams (Sharavati, Mandovi, Periyar). They run short, fast courses down the steep scarp over hard rock and reach the sea with little silt, so they form no deltas.
+
+@pyq U.P.P.C.S. (Mains) 2002; U.P.P.C.S. (Pre) 1999
+Assertion (A) : While all major rivers of peninsular India flow into the Bay of Bengal, the Narmada and the Tapi flow into the Arabian sea.
+Reason (R) : The Narmada and the Tapi rivers flow in a rift valley.
+Select the correct answer using the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Assertion (A) : The Narmada forms a delta at its mouth.
+Reason (R) : It flows through a rift valley.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (d)
+@end
+
+@one U.P.P.C.S (Pre) 2010
+The river that flows through a fault trough, is
+@ans Narmada
+@end
+
+The **Narmada** (1,312 km) and **Tapi** (724 km) flow west along **fault troughs** (rift valleys) between the Vindhya, Satpura and Ajanta blocks. Their steep, rocky valleys trap little silt, and strong tides at the mouth carry away what arrives, so both end in **estuaries**, not deltas.
+
+@pyq U.P.G.I.C. 2017; U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following rivers flows through rift valley?
+(a) Tapi
+(b) Krishna
+(c) Mahanadi
+(d) Godavari
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of these west flowing rivers flows between two mountain ranges?
+(a) Sharavati
+(b) Narmada
+(c) Mahi
+(d) Sabarmati
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following Indian rivers forms an estuary?
+(a) Godavari
+(b) Cauvery
+(c) Tapti
+(d) Mahanadi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following rivers is famous for its fault valley drainage?
+(a) Chambal
+(b) Damodar
+(c) Gandak
+(d) Rama Ganga
+@ans (b)
+@end
+
+The **Damodar** flows east in a **rift (graben)** of the Chotanagpur plateau. That trough preserved the **Gondwana** coal of Jharia, Bokaro and Raniganj. It is the one major east-flowing river that is also a rift river, so UPPSC uses it in both the "rift" and the "coal" questions.
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following rivers fall into the Arabian Sea?
+1. Periyar
+2. Pennar
+3. Palar
+Select the correct answer from the code given below :
+Code :
+(a) Only 1
+(b) Only 3
+(c) 2 and 3
+(d) 1 and 2
+@ans (a)
+@end
+
+The **Periyar**, Kerala's longest river (244 km), flows west into the Vembanad backwaters and the Arabian Sea. The **Pennar** and **Palar** flow east across Andhra Pradesh and Tamil Nadu to the Bay of Bengal.
+
+@table
+West-flowing river | Source | Mouth or note
+Narmada | Amarkantak (MP) | Gulf of Khambhat; estuary; Sardar Sarovar dam
+Tapi | Multai, Betul (MP) | Gulf of Khambhat near Surat; estuary
+Mahi | Vindhyas near Dhar (MP) | Gulf of Khambhat; crosses the Tropic of Cancer twice
+Sabarmati | Aravalli (Rajasthan) | Gulf of Khambhat; Ahmedabad
+Luni | Naga hills near Ajmer | Rann of Kutch; becomes saline
+Mandovi, Zuari | Western Ghats | Goa
+Sharavati | Western Ghats (Karnataka) | Jog Falls
+Periyar | Western Ghats (Kerala) | Vembanad and the Arabian Sea
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+In which of the following rivers, the upper course contains freshwater but saline water flowing at the lower part?
+(a) Barak river
+(b) Luni river
+(c) Ghaggar river
+(d) None of the above
+@ans (b)
+@end
+
+The **Luni** (about 495 km) rises in the Aravalli near **Ajmer** (where the Pushkar stream, the Sarasvati, joins it) and flows south-west across the Marwar plain into the **Rann of Kutch**. Its water is fresh near the source, but below **Balotra** salts from the desert soils make it **saline**. It is the main river of the Thar.
+
+@trap
+**Estuary rivers**: Narmada, Tapi and the short Western Ghat streams. **Delta rivers**: Mahanadi, Godavari, Krishna, Kaveri. Of the east-flowing rivers, the **Damodar** alone flows in a rift.
+@end
+
+@section 7.2 | Sources of the Peninsular Rivers
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which one of the following rivers originates at Amarkantak?
+(a) Damodar
+(b) Mahanadi
+(c) Narmada
+(d) Tapti
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following is the actual source of Son river?
+(a) Amarkantak in Shahdol district
+(b) Sonmuda in Shahdol district
+(c) Son Bacharwar in Bilaspur district
+(d) Mandla Plateau
+@ans (c)
+@end
+
+The **Narmada** rises at **Amarkantak** in the Maikal range (Anuppur, MP). The **Son** is usually said to rise at **Sonmuda** near Amarkantak, but its actual source is **Son Bachharwar**, in Gaurela-Pendra-Marwahi district of Chhattisgarh (formerly part of Bilaspur), just across the state border. The **Johila** also rises nearby.
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following rivers of India does not originate from the Western Ghats?
+(a) Godavari
+(b) Tapti/Tapi
+(c) Cauvery
+(d) Kabam
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 1992
+Which one of the rivers falls into the Arabian Sea?
+@ans Tapti
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Make the pairs of chief rivers of their place of origin :
+@match
+Rivers | Place of origin
+(A) Yamuna | (1) Sihawa
+(B) Krishna | (2) Nashik
+(C) Godavari | (3) Mahabaleshwar
+(D) Mahanadi | (4) Yamunotri
+@endmatch
+(a) A-(4), B-(3), C-(2), D-(1)
+(b) A-(1), B-(2), C-(3), D-(4)
+(c) A-(4), B-(2), C-(1), D-(3)
+(d) A-(4), B-(2), C-(3), D-(1)
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.R.O./A.R.O. (Mains) 2013
+The source of Cauvery River lies in –
+(a) Sahyadri
+(b) Brahmagiri Hills
+(c) Gavaligarh Hills
+(d) Amarkantak
+@ans (b)
+@end
+
+@table
+East-flowing river | Source | Length (km) | Mouth
+Mahanadi | Sihawa hills, Dhamtari (Chhattisgarh) | 851 | Delta near Paradip (Odisha)
+Godavari | Trimbakeshwar, Nashik (Maharashtra) | 1,465 | Delta in Andhra Pradesh
+Krishna | Mahabaleshwar (Maharashtra) | 1,400 | Delta in Andhra Pradesh
+Kaveri | Talakaveri, Brahmagiri hills, Kodagu (Karnataka) | 800 | Delta in Tamil Nadu
+Pennar | Nandi hills (Karnataka) | 597 | Bay of Bengal (Andhra Pradesh)
+Subarnarekha | Ranchi plateau (Jharkhand) | 395 | Bay of Bengal (Odisha-West Bengal)
+Damodar | Chotanagpur (Jharkhand) | 592 | Joins the Hooghly
+@end
+
+@trap
+**Mahabaleshwar** is the source of the Krishna; **Trimbakeshwar (Nashik)** of the Godavari; **Sihawa** of the Mahanadi; **Talakaveri** of the Kaveri. The **Tapi** rises in the Satpura at **Multai**, not in the Western Ghats.
+@end
+
+@section 7.3 | Basins, Lengths and Tributaries
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013; R.O./A.R.O. (Mains) 2014
+Which one of the following is the longest river of Peninsular India?
+(a) Krishna
+(b) Cauvery
+(c) Godavari
+(d) Mahanadi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Which of the following rivers has the largest catchment area?
+(a) Narmada
+(b) Mahanadi
+(c) Godavari
+(d) Krishna
+@ans (c)
+@end
+
+@pyq U.P./A.R.O. (Mains) 2021; U.P.P.C.S. (Pre) 2022
+Which one of the following river basins is the largest in respect to area?
+(a) Narmada
+(b) Cauvery
+(c) Tapti
+(d) Mahanadi
+@ans (d)
+@end
+
+@table
+Peninsular basin | Area (sq km, India-WRIS, approx.)
+Godavari | 3,13,000 (largest; about 10% of India)
+Krishna | 2,59,000
+Mahanadi | 1,42,000
+Narmada | 93,000
+Kaveri | 86,000
+Tapi | 65,000
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following rivers is called the Ganga of the South ?
+(a) Cauvery
+(b) Krishna
+(c) Godavari
+(d) Narmada
+@ans (a)
+@note UPPSC's key is (a). The Kaveri is called **Dakshin Ganga** in Tamil and Karnataka tradition. NCERT calls the **Godavari** the "Dakshin Ganga" (also Vriddha Ganga) because of its length and basin. Expect (c) in a UPSC-style key.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which one of the following (Tributary – River) is not correctly matched?
+(a) Pranhita – Mahanadi
+(b) Hemavathi – Kaveri
+(c) Malaprabha – Krishna
+(d) Manjra – Godavari
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Which one of the following is not a tributary of the Krishna river ?
+(a) Bhima
+(b) Doni
+(c) Tel
+(d) Tungabhadra
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The Hagari river is a tributary of :
+(a) Bhima
+(b) Godavari
+(c) Krishna
+(d) Tungabhadra
+@ans (d)
+@end
+
+@table
+River | Main tributaries
+Mahanadi | Seonath, Hasdeo, Mand, Ib, Tel, Jonk
+Godavari | Pravara, Purna, Manjra, Penganga, Wardha, Wainganga, Pranhita, Indravati, Sabari
+Krishna | Koyna, Panchganga, Ghataprabha, Malaprabha, Bhima, Doni, Tungabhadra, Musi
+Tungabhadra (Krishna) | Tunga, Bhadra, Varada, Hagari (Vedavati)
+Kaveri | Harangi, Hemavati, Kabini, Arkavati, Shimsha, Bhavani, Amaravati
+@end
+
+The **Pranhita**, formed by the Wardha and Wainganga, joins the **Godavari** near Kaleshwaram in Telangana. The **Tel** joins the **Mahanadi** near Sonepur in Odisha.
+
+@pyq U.P.P.C.S. (Pre) 2014
+The rivers of South India mainly have which of the following drainage patterns ?
+(a) Radial
+(b) Intermittent
+(c) Dendritic
+(d) Trellis
+@ans (c)
+@end
+
+A **dendritic** (tree-like) pattern forms on rock of uniform resistance, which covers most of the plateau. **Radial** patterns occur around domes such as **Amarkantak** and the **Girnar**. **Trellis** patterns occur in folded belts such as the Singhbhum and the Himalayan foothills. **Centripetal** drainage feeds **Loktak Lake** in Manipur.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which of the following basins of Indian rivers have water deficiency ?
+Select the correct answer using codes given below.
+(1) Sabarmati Ghat
+(2) Tapti Ghat
+(3) Krishna Ghat
+(4) Cauvery Ghat
+Code:
+(a) 1 and 2
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) 1, 3 and 4
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which river forms its delta in Odisha?
+(a) Godavari
+(b) Mahanadi
+(c) Narmada
+(d) Tapti
+@ans (b)
+@end
+
+The **Mahanadi** builds its delta between **Cuttack** and **Paradip** (Odisha). The **Hirakud dam** (Sambalpur) on it is one of the longest earthen dams in the world (about 25.8 km with dykes).
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+The Krishna River dispute exists between –
+(a) Karnataka & Maharashtra
+(b) Karnataka & Andhra Pradesh
+(c) Andhra Pradesh & Tamil Nadu
+(d) Andhra Pradesh & Maharashtra
+@ans (*)
+@note the Krishna water dispute involves **Maharashtra, Karnataka and Andhra Pradesh** (and Telangana since 2014). Options (a), (b) and (d) each name only two of the three, so no single option is complete.
+@end
+
+The **Bachawat Tribunal** (award 1976) and the **Brijesh Kumar Tribunal** (award 2010) have both dealt with the Krishna. The **Kaveri** dispute is between Karnataka, Tamil Nadu, Kerala and Puducherry, and the **Cauvery Water Management Authority** (2018) now implements the Supreme Court's allocation.
+
+@section 7.4 | The Damodar and Other Rivers
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which of the following rivers of India is NOT a tributary of Damodar River?
+(a) Barakar
+(b) Indrawati
+(c) Jamunia
+(d) Barki
+@ans (b)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2006; U.P. Lower Sub. (Spl) (Pre) 2008; U.P.P.C.S. (Pre) 2008
+Damodar is a tributary of river
+@ans Hooghly
+@end
+
+The **Damodar** rises on the Chotanagpur plateau and joins the **Hooghly** below Kolkata. Its tributaries are the **Barakar** (the largest), **Konar, Bokaro, Jamunia** and **Barki**. The **Indravati** is a tributary of the Godavari. Floods earned the Damodar the name **"Sorrow of Bengal"** until the **Damodar Valley Corporation** (1948, modelled on the Tennessee Valley Authority) built dams at Tilaiya, Konar, Maithon and Panchet.
+
+@pyq U.P.P.C.S.(Pre) (Re-Exam) 2015
+Which of the following canals has been taken out from Damodar river?
+(a) Sirhind Canal
+(b) Eden Canal
+(c) Bist Doab Canal
+(d) Eastern Grey Canal
+@ans (b)
+@end
+
+The **Eden Canal** (1881) takes water from the Damodar in Bardhaman district. The **Sirhind**, **Bist Doab** and **Eastern Grey** canals all take off from the **Satluj** in Punjab.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following rivers is most polluted?
+(a) Gomati
+(b) Periyar
+(c) Damodar
+(d) Mahanadi
+@ans (c)
+@end
+
+The Damodar valley is India's coal and steel belt (Jharia, Bokaro, Durgapur, Asansol). Coal washeries, steel plants and thermal power stations make it one of the most polluted rivers in India, which is why it is chosen over the Gomti here.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Mithi river of Mumbai originates from which of the following lakes ?
+(a) Tulsi Lake
+(b) Vihar Lake
+(c) Powai Lake
+(d) None of the above
+@ans (b)
+@end
+
+The **Mithi** begins from the overflow of **Vihar Lake** (with Powai Lake's overflow joining it) in Sanjay Gandhi National Park. It flows through Mumbai to **Mahim Creek**. Its choked channel was a key cause of the **Mumbai floods of 26 July 2005**.
+
+@section 7.5 | Cities on River Banks
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Leh is located on the –
+(a) Right bank of River Jhelum.
+(b) Left bank of River Jhelum.
+(c) Right bank of River Indus (Sindhu)
+(d) Left bank of River Indus (Sindhu)
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which one of the following is not correctly matched :
+(a) Kota - Chambal
+(b) Bhubaneswar - Mahanadi
+(c) Jabalpur - Narmada
+(d) Surat - Tapti
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following pairs is NOT correctly matched :
+(a) Ahmedabad - Sabarmati
+(b) Lucknow - Gomti
+(c) Bhubaneswar - Mahanadi
+(d) Ujjain - Kshipra
+@ans (c)
+@end
+
+**Bhubaneswar** lies on the coastal plain near the **Daya** and **Kuakhai**, which are distributaries in the Mahanadi delta. The city on the Mahanadi itself is **Cuttack**. UPPSC has used this trap twice.
+
+@pyq U.P.P.C.S. (Pre) 1996; U.P. R.O./A.R.O. (Mains) 2016
+Which of the following pairs is NOT correctly matched?
+City - (Location on bank of river)
+(a) Jabalpur - Narmada
+(b) Hyderabad - Krishna
+(c) Kota - Chambal
+(d) Nashik - Godavari
+@ans (b)
+@end
+
+**Hyderabad** stands on the **Musi**, a tributary of the Krishna, not on the Krishna itself. On the Krishna are **Vijayawada** and **Sangli**.
+
+@pyq U.P.P.C.S. (Pre) 1992
+Match the following –
+@match
+City | River
+(A) Cuttack | 1. Godavari
+(B) Ludhiana | 2. Kshipra
+(C) Nashik | 3. Mahanadi
+(D) Ujjain | 4. Satluj
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 3 2 1 4
+(c) 4 1 3 2
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@one U.P. Lower Sub. (Pre) 2008
+Ujjain is located
+@ans On the bank of River Kshipra.
+@end
+
+@table
+City | River | City | River
+Srinagar | Jhelum | Lucknow, Jaunpur | Gomti
+Leh | Indus | Kanpur, Varanasi, Patna | Ganga
+Ludhiana, Ferozepur | Satluj | Agra, Mathura, Delhi | Yamuna
+Ayodhya | Saryu (Ghaghara) | Gorakhpur | Rapti
+Bareilly, Moradabad | Ramganga | Kota | Chambal
+Jabalpur | Narmada | Surat | Tapi
+Ahmedabad | Sabarmati | Ujjain | Kshipra
+Nashik, Rajahmundry | Godavari | Vijayawada, Sangli | Krishna
+Hyderabad | Musi | Cuttack, Sambalpur | Mahanadi
+Tiruchirappalli, Srirangapatna | Kaveri | Madurai | Vaigai
+Kolkata | Hooghly | Guwahati, Dibrugarh | Brahmaputra
+Pune | Mula-Mutha | Jamshedpur | Subarnarekha
+@end
+
+UP link: **Prayagraj** stands at the **Sangam** of the Ganga and Yamuna (with the mythical Saraswati), the site of the **Maha Kumbh** held in **2025**. **Varanasi** lies on the left bank of the Ganga between the Varuna and Assi streams.
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following is not located along the Mandakini river ?
+(a) Gaurikund
+(b) Rambara
+(c) Govindghat
+(d) Guptakashi
+@ans (c)
+@end
+
+**Gaurikund**, **Rambara** and **Guptakashi** lie on the Kedarnath route along the **Mandakini**. **Govindghat** is on the **Alaknanda**, where the Lakshman Ganga joins it. It is the base for the Valley of Flowers and Hemkund Sahib.
+
+@heatmap
+
+@pattern
+Peninsular rivers are tested through four fixed ideas: rift rivers (Narmada, Tapi, Damodar) end in estuaries; delta rivers flow east; sources (Amarkantak, Mahabaleshwar, Trimbakeshwar, Sihawa, Talakaveri); and the largest and longest basin is the Godavari. City-river pairs are an old UPPSC favourite, with Bhubaneswar and Hyderabad as the repeated traps. Recent papers (2019 to 2025) ask more about tributaries (Pranhita, Jonk) and river behaviour (Luni salinity, fault valleys, Arabian Sea rivers). Two keys need care: "Ganga of the South" (UPPSC: Kaveri) and the Krishna dispute (three states).
+@end
