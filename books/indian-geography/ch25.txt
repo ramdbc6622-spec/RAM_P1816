@@ -1,0 +1,714 @@
+@unit UNIT V · TRANSPORT, RESEARCH AND TOURISM
+@chapter 25 | Transport: Roads, Railways, Ports and Waterways
+
+@intro
+India has the world's **second largest road network** (about 63.45 lakh km), the **fourth largest railway network**, 12 major ports and a growing set of national waterways. UPPSC questions here follow three lines: **firsts** (first railway, first expressway, first CNG train, first PPP line), **locations** (railway zones and factories, ports and their states and coasts) and **highway numbering**. The highway numbering questions predate the **2010 renumbering**, so several of their keys are now outdated. UP features as the Jhansi corridor crossing, Raebareli's coach factory, Varanasi's locomotive works, Gorakhpur's NER headquarters, NW-1 from Prayagraj and Kushinagar airport. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 25.1 | Roads and National Highways
+
+@pyq U.P.P.C.S. (Mains) 2014
+The share of Road Transport in total transport of India is–
+(a) 100%
+(b) 80%
+(c) 60%
+(d) 40%
+@ans (b)
+@end
+
+Roads carry about **87% of passenger** traffic and about **60-65% of freight** traffic in India. At the time of the question the commonly quoted figure was 80% of passengers. India's network is about **63.45 lakh km** (MoRTH Annual Report 2024-25), second only to the USA's.
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+National Highway 4 does not pass through :
+(a) Andhra Pradesh
+(b) Madhya Pradesh
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (*)
+@note The old **NH-4** (Mumbai-Pune-Belgaum-Bengaluru-Chennai) passed through Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu. It did not touch MP, Rajasthan or UP, so three options are correct and the source marks the question (*). After the **2010 renumbering** the old NH-4 became **NH-48**, and the new **NH-4** is in the **Andaman and Nicobar Islands** (about 331 km).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following states has the largest Kilometres of National Highways in India :
+(a) Andhra Pradesh
+(b) Madhya Pradesh
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (d)
+@note The key was right for the time of the question. By 31 December 2024 (MoRTH), **Maharashtra** leads with about 18,462 km, followed by **Uttar Pradesh** (about 12,123 km) and Rajasthan.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following States of India has a maximum total length of state highways?
+(a) Gujarat
+(b) Rajasthan
+(c) Uttar Pradesh
+(d) Maharashtra
+@ans (d)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2010
+Which State of India has the maximum length of state Highways?
+@ans Maharashtra
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Arrange the following State in descending order of their length of National Highways. Use the codes given below to select the correct answer :
+(i) Arunachal Pradesh (ii) Mizoram
+(iii) Nagaland (iv) Sikkim
+Code :
+(a) (ii) (i) (iv) (iii)
+(b) (i) (ii) (iii) (iv)
+(c) (iv) (iii) (ii) (i)
+(d) (iii) (ii) (iv) (i)
+@ans (b)
+@note By 31 December 2024 the lengths were Arunachal Pradesh about 4,367 km, **Nagaland about 1,670 km**, **Mizoram about 1,499 km** and Sikkim about 709 km. The present order is therefore (i) (iii) (ii) (iv), which is not among the codes. The UPPSC key (b) fitted the data of its time.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+Which one of the following cities is not connected by National Highway No. 3.
+(a) Agra
+(b) Bhopal
+(c) Dhule
+(d) Gwalior
+@ans (b)
+@end
+
+The old **NH-3** ran Agra-Gwalior-Shivpuri-Indore-Dhule-Nashik-Mumbai. It is now part of NH-44, NH-46, NH-52 and NH-60. The **new NH-3** runs from **Attari to Leh** through Manali and the Atal Tunnel.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following statements about the National Highways Development Project are correct?
+(1) It connects Delhi, Mumbai and Kolkata.
+(2) Its total length is 5,846 km.
+(3) The North-South corridor connects Srinagar and Kanyakumari
+(4) East-West corridor connects Silchar and Dwarka
+@ans (b)
+@note The source does not print the option codes. The explanation shows that **only statements 2 and 3** are correct. Statement 1 is incomplete, because the Golden Quadrilateral also connects **Chennai**. Statement 4 is wrong, because the East-West corridor ends at **Porbandar**, not Dwarka.
+@end
+
+@one U.P. Lower Sub. (Pre) 2004
+Which development is associated with Golden Quadrilateral?
+@ans Highways
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The proposed East-West and North-South Express Highways cross at :
+(a) Gwalior
+(b) Jhansi
+(c) Bhopal
+(d) Sagar
+@ans (b)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2001
+Two National Highways i.e., Srinagar–Kanyakumari highway & Silchar–Porbandar highway, which is constructed under the National Highway Development Project shall meet at
+@ans Jhansi
+@end
+
+@table
+NHDP component | Route | Length
+Golden Quadrilateral | Delhi-Kolkata-Chennai-Mumbai-Delhi | 5,846 km
+North-South corridor | Srinagar-Kanyakumari (with a Kochi-Salem spur) | about 4,000 km
+East-West corridor | Silchar-Porbandar | about 3,300 km
+NS-EW crossing | Jhansi (Uttar Pradesh) | -
+@end
+
+@up UP link: **Jhansi** is where the North-South and East-West corridors cross. UP now has India's largest expressway network: **Yamuna** (Greater Noida-Agra), **Agra-Lucknow**, **Purvanchal** (Lucknow-Ghazipur), **Bundelkhand** (Chitrakoot-Etawah), **Gorakhpur Link** and the **Ganga Expressway** (Meerut-Prayagraj, about 594 km), UP's longest.
+
+@pyq U.P.P.C.S. (Pre) 2001, 2003
+Which one of the following pairs of cities have recently been connected by a six-lane expressway:
+(a) Ahmedabad and Vadodara
+(b) Dhaka and Chittagong
+(c) Mumbai and Pune
+(d) Islamabad and Lahore
+@ans (c)
+@end
+
+The **Mumbai-Pune Expressway** (opened in stages from 2001-02, about 95 km) was India's first six-lane, access-controlled expressway. The **Delhi-Mumbai Expressway** (about 1,350 km) will be India's longest.
+
+@pyq U.P.P.C.S. (Pre) 2001
+The Pradhan Mantri Gram Sadak Yojana is :
+(a) To augment road connectivity and provide food grains to the poorest of the poor at cheaper rates
+(b) To facilitates patrolling of the area to prevent misuse of electricity by unauthorised persons
+(c) To help police to reach the place of crime more swiftly to control crime-spurt
+(d) To develop community life in villages which are not well connected
+@ans (d)
+@end
+
+**PMGSY** was launched on **25 December 2000**. Its aim is all-weather roads to habitations of **500+** people in the plains and **250+** in hill, desert and tribal areas.
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is NOT correctly matched?
+(a) Haldia - Allahabad - National Waterway
+(b) Nasik -Pune - National Highway-50
+(c) Durgapur-Kolkata - Express Highways
+(d) Hyderabad - Headquarter of South Central Railway
+@ans (d)
+@end
+
+@section 25.2 | Railways
+
+@pyq U.P.P.C.S. (Pre) 1996
+When was the first railway line opened in India and between which stations?
+(a) Between Delhi-Agra in 1854
+(b) Between Bombay and Pune in 1853
+(c) Between Bombay and Thane in 1853
+(d) None of these
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 1990
+The first railway line in India was started in the year
+@ans 1853
+@end
+
+The first passenger train ran on **16 April 1853** from **Bori Bunder (Bombay) to Thane**, 34 km, under **Lord Dalhousie**. The second line was **Howrah-Hooghly** (1854), and the first in the south was Royapuram-Wallajah Road (1856).
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is/are correctly matched?
+(Railway Zone) - (Headquarters)
+1. Northern Railway – New Delhi
+2. North Eastern Railway – Gorakhpur
+3. South Eastern Railway – Cuttack
+Choose the correct answer using the code given below:
+Code:
+(a) Only 1 and 2
+(b) Only 3
+(c) Only 2 and 3
+(d) Only 1
+@ans (a)
+@end
+
+@table
+Railway zone | Headquarters
+Northern | New Delhi
+North Eastern | Gorakhpur (UP)
+North Central | Prayagraj (UP)
+Eastern | Kolkata
+South Eastern | Kolkata (Garden Reach)
+East Coast | Bhubaneswar
+South Central | Secunderabad
+Central | Mumbai (CSMT)
+Western | Mumbai (Churchgate)
+East Central | Hajipur
+Northeast Frontier | Maligaon (Guwahati)
+@end
+
+@up UP link: UP is the only state with **two zonal headquarters**: **NER at Gorakhpur** and **NCR at Prayagraj**. Gorakhpur station has one of the **longest railway platforms in the world** (about 1,366 m). Hubli (Karnataka) has since overtaken it.
+
+@pyq U.P.P.C.S. (Pre) 1993
+The shortest rail route of Mumbai from Gorakhpur runs through –
+(a) Agra
+(b) Allahabad
+(c) Jhansi
+(d) Delhi
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List- I | List- II
+A. Rail Coach Factory | 1. Bangalore
+B. Wheel and Axle Plant | 2. Perambur
+C. Diesel Locomotive Works | 3. Kapurthala
+D. Integral Coach Factory | 4. Varanasi
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 1 3 4 2
+(d) 3 1 4 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Which of the following groups of states where passenger rail coaches are manufactured widely?
+(a) Punjab & Tamil Nadu
+(b) Odisha & West Bengal
+(c) Tamil Nadu & West Bengal
+(d) West Bengal & Punjab
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 1995
+The third rail coach factory is being established at
+(a) Amethi
+(b) Raebareli
+(c) Champaran
+(d) Kapurthala
+@ans (b)
+@end
+
+@table
+Railway production unit | Location | Product
+Chittaranjan Locomotive Works | Chittaranjan (WB) | Electric locomotives
+Banaras Locomotive Works (formerly DLW) | Varanasi (UP) | Locomotives (diesel, now electric)
+Patiala Locomotive Works (formerly DMW) | Patiala (Punjab) | Electric locomotives
+Integral Coach Factory | Perambur, Chennai (TN) | Coaches, Vande Bharat trains
+Rail Coach Factory | Kapurthala (Punjab) | Coaches
+Modern Coach Factory | Lalganj, Raebareli (UP) | Coaches
+Rail Wheel Factory (Wheel and Axle Plant) | Yelahanka, Bengaluru | Wheels and axles
+Rail Wheel Plant | Bela, Chhapra (Bihar) | Wheels
+Electric Loco Factory | Madhepura (Bihar) | 12,000 HP locomotives (with Alstom)
+@end
+
+@trap
+**Perambur = ICF, Kapurthala = RCF.** The codes often swap them. The Wheel and Axle Plant is at **Bengaluru**. DLW Varanasi was renamed **Banaras Locomotive Works** in 2020 and now makes electric locomotives too.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Where is the Railway Staff College located?
+(a) Madras
+(b) Vadodara
+(c) Allahabad
+(d) Hyderabad
+@ans (b)
+@end
+
+@pyq U.P.U.D.A. / L.D.A. (Pre) 2001
+The Rail Ministry of India has the plan to introduce Bullet train between :
+(a) Mumbai - Ahmedabad
+(b) Mumbai - Hyderabad
+(c) Mumbai - New Delhi
+(d) Mumbai - Pune
+@ans (a)
+@end
+
+The **Mumbai-Ahmedabad High Speed Rail** (about 508 km) is being built with Japanese **Shinkansen** technology and JICA funding. It is planned for 320 km/h.
+
+@pyq U.P.P.C.S. (Mains) 2016
+On which rail section was the first CNG train launched?
+(a) Delhi – Agra section
+(b) Rohtak – Chandigarh section
+(c) Delhi – Chandigarh section
+(d) Rewari – Rohtak section
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following States became the first State where the railway track was made on the PPP model?
+(a) Kerala
+(b) Gujarat
+(c) Karnataka
+(d) Maharashtra
+@ans (b)
+@end
+
+The first PPP rail line was **Gandhidham-Tuna Tekra** (about 17 km) in Kutch, opened in 2015.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+The Konkan Railway connects:
+(a) Mumbai to Manmad
+(b) Roha to Mangalore
+(c) Mangalore to Kochi
+(d) Mumbai to Pune
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+Konkan Railway does not connect :
+(a) Belgaum
+(b) Madgaon
+(c) Ratnagiri
+(d) Udupi
+@ans (a)
+@end
+
+The **Konkan Railway** (about 741 km, completed 1998) runs from **Roha** (Maharashtra) through Ratnagiri and **Madgaon** (Goa) and Karwar and **Udupi** (Karnataka) to **Thokur near Mangaluru**. Its partner states are Maharashtra, Goa, Karnataka and Kerala. **Belagavi** is inland, on the Londa-Miraj line.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following states is deprived of rail service in India?
+(a) Tripura
+(b) Meghalaya
+(c) Arunachal Pradesh
+(d) Mizoram
+@ans (*)
+@note In 2013 **Meghalaya** had no rail service (the Dudhnoi-Mendipathar line opened in **2014**). Mizoram had only a short line to Bairabi on its border, which is why the source marks the question (*). Mizoram's capital was linked through the **Bairabi-Sairang** line in **2025**. **Sikkim** is now the only state without a working railway, and its Sivok-Rangpo line is under construction.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+What is the correct sequence of the following rail tunnels by a length in descending order?
+(a) Pir Panjal, Karbude, Nathuwadi, Berdewadi
+(b) Karbudi, Pir Panjal, Nathuwadi, Berdewadi
+(c) Berdewadi, Nathuwadi, Pir Panjal, Karbude
+(d) Nathuwadi, Berdewadi, Karbude, Pir Panjal
+@ans (a)
+@end
+
+The **Pir Panjal** tunnel (Banihal-Qazigund, 11.2 km) was India's longest rail tunnel when it opened in 2013. **T-49** on the **Udhampur-Srinagar-Baramulla line** (about 12.8 km, 2024) has overtaken it. The line also has the **Chenab bridge**, the world's highest railway arch bridge, and **Anji Khad**, India's first cable-stayed rail bridge.
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to the New Pamban Bridge, which of the following statements is/are correct ?
+1. It was constructed by Rail Vikas Nigam Limited, which is a 'Navratna' public sector unit under the Ministry of Railways.
+2. It is India's first vertical lift railway sea bridge.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+The **New Pamban Bridge** (2.07 km) links **Rameswaram** island to the mainland at Mandapam. It was opened in **April 2025** and replaces the 1914 Scherzer-span bridge.
+
+@section 25.3 | Ports and Harbours
+
+@pyq U.P.P.C.S. (Mains) 2007
+The biggest port in India is –
+(a) Vishakhapatnam
+(b) Mumbai
+(c) Tuticorin
+(d) Kandla
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following coast is associated with Kochi sea-port?
+(a) Malabar Coast
+(b) Konkan Coast
+(c) Coromandel Coast
+(d) North Circars Coast
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following is a landlocked harbour ?
+(a) Haldia
+(b) Ennore
+(c) Mumbai
+(d) Visakhapatnam
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Which of the following is not correctly matched?
+(a) Chennai – Deepest Port of India
+(b) Cochin - Natural Port
+(c) Jawaharlal Nehru Port- Sole mechanized port
+(d) Kandla -Tidal Port
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+India's deepest port is :
+(a) Kandla
+(b) Cochin
+(c) Paradip
+(d) Marmagoa
+@ans (c)
+@note Visakhapatnam is usually called the **deepest landlocked** port. It is not among the options, and **Paradip** is the deepest of the four given, so (c) is the key.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following pairs is not correctly matched?
+(a) Tuticorin – Fishing harbour
+(b) Chennai – Artificial harbour
+(c) Kolkata – The deepest harbour in India
+(d) Visakhapatnam – Natural harbour
+@ans (c)
+@end
+
+**Kolkata** is a **riverine** port about 128 km up the Hugli. It is one of the **shallowest** major ports and needs constant dredging, which is why **Haldia** was built as its outer port.
+
+@pyq U.P. P.C.S. (Pre) 2007
+In India which one of the following is not a natural harbour?
+(a) Kandla
+(b) Chennai
+(c) Paradip
+(d) Mumbai
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Which of the following are the natural ports of India?
+1. Chennai
+2. Cochin
+3. Tuticorin
+4. Vishakhapatnam
+Select the correct answer from the code given below:
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 2 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+Which of the following ports of India is an open seaport?
+(a) Haldia
+(b) Mumbai
+(c) Chennai
+(d) Vishakhapatnam
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following is a specific example of 'Out Port'?
+(a) Porbandar
+(b) Haldia
+(c) Panaji
+(d) Vishakhapatnam
+@ans (b)
+@end
+
+@table
+Port type | Example | Feature
+Largest natural harbour | Mumbai | Deep, sheltered harbour
+Landlocked (deepest) | Visakhapatnam | Inner harbour protected by Dolphin's Nose
+Oldest artificial / open sea | Chennai | Built 1881; ships berth behind breakwaters
+Tidal | Kandla (Deendayal) | Gulf of Kachchh; replaced Karachi after 1947
+Riverine | Kolkata | Hugli, about 128 km inland; shallow
+Outer port | Haldia | Deep-water subsidiary of Kolkata
+Satellite port | Jawaharlal Nehru (Nhava Sheva) | Relieves Mumbai; largest container port
+Natural lagoon port | Kochi | Queen of the Arabian Sea, on Vembanad
+First corporatised | Ennore (Kamarajar) | Coal port near Chennai
+Deep-water transshipment | Vizhinjam (Kerala, 2025) | India's first deep-water transshipment port
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following ports is not located on the eastern coast of India?
+(a) Chennai
+(b) Kandla
+(c) Paradip
+(d) Tuticorin
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following ports is located on the Odisha coast?
+(a) Haldia
+(b) Mumbai
+(c) Paradip
+(d) Vishakhapatnam
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which statement is correct?
+(a) Haldia is in Odisha
+(b) Paradip is in West Bengal
+(c) Kandla is in Gujarat
+(d) Marmugao is in Karnataka
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List – I with List - II and choose the correct answer using the code given below the lists.
+@match
+List-I (Port) | List-II (State)
+A. Paradeep | 1. Tamil Nadu
+B. Tuticorin | 2. Kerala
+C. Kakinada | 3. Odisha
+D. Alappuzha | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 3 1 4 2
+(c) 3 1 2 4
+(d) 1 3 4 2
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I (major harbours) with List-II (States) and select the correct answer using the codes given below :
+@match
+List- I | List- II
+A. Kandla | 1. Maharashtra
+B. Nhava Sheva | 2. Odisha
+C. Paradip | 3. Tamil Nadu
+D. Tuticorin | 4. Gujarat
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 2 1 4 3
+(c) 4 1 2 3
+(d) 2 3 4 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following match is not correct?
+(a) Marmugao – Goa
+(b) Paradip – Odisha
+(c) Mangalore – Karnataka
+(d) Mundra – Andhra Pradesh
+@ans (d)
+@end
+
+**Mundra** (Kutch, Gujarat) is India's largest **private** port (Adani). It is also one of the biggest cargo handlers among all Indian ports.
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+Which one of the following is the port city of Andhra Pradesh?
+(a) Kakinada
+(b) Nellore
+(c) Ongole
+(d) Vizianagaram
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2008
+By promotion of Krishnapatnam port, which of the following state would be most beneficiary?
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Kerala
+(d) Tamil Nadu
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Mains) 2004
+The twelfth major port of India handling coal is being developed near –
+(a) Chennai
+(b) Paradip
+(c) Kakinada
+(d) Vishakhapatnam
+@ans (a)
+@end
+
+**Ennore** (now **Kamarajar Port**, 2001) was the 12th major port and India's first **corporatised** major port. The 13th is Port Blair (2010) and the proposed 14th is **Vadhavan** (Maharashtra).
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following ports is situated at the Gulf of Kutch?
+(a) Cochin
+(b) Haldia
+(c) Kandla
+(d) Tuticorin
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Which one of the following is not the port town of Gujarat?
+(a) Jamnagar
+(b) Okha
+(c) Porbandar
+(d) Veraval
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which port is constructed for de-congestion of present Mumbai seaport?
+(a) Ennore
+(b) Haldia
+(c) Paradip
+(d) Nhava Sheva (Jawaharlal Nehru Port)
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The port which does not have LNG terminals is –
+(a) Dahej
+(b) Hazira
+(c) Kochi
+(d) Kandla
+@ans (d)
+@end
+
+India has about **eight** operating LNG terminals: **Dahej**, **Hazira**, **Mundra** and **Chhara** (Gujarat), **Kochi** (Kerala), **Dabhol** (Maharashtra), **Ennore** (Tamil Nadu) and **Dhamra** (Odisha). Dahej is the largest.
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P. Lower Sub. (Spl) (Pre) 2004
+Sethusamudram Project connects –
+(a) Palk Bay with Pak Strait
+(b) Palk Bay with the Bay of Bengal
+(c) Gulf of Mannar with Palk Bay
+(d) Cape Comorin with Gulf of Mannar
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following is not located on the Western Coast of India?
+(a) Daman
+(b) Janjira
+(c) Karaikal
+(d) Ratnagiri
+@ans (c)
+@end
+
+@section 25.4 | Shipyards and Ship-breaking
+
+@pyq U.P.P.C.S. (Mains) 2011
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List- I (Shipyards) | List- II (States)
+A. Garden Reach | 1. Andhra Pradesh
+B. Hindustan Shipyard | 2. Maharashtra
+C. Mazgaon Docks | 3. Kerala
+D. Cochin Shipyard | 4. West Bengal
+@endmatch
+Code : A B C D
+(a) 2 4 1 3
+(b) 4 1 2 3
+(c) 3 1 4 2
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2006; U.P. Lower Sub. (Spl) (Pre) 2009
+India's largest Ship Breaking Yard is located in Gujarat at :
+(a) Alang
+(b) Kandla
+(c) Porbandar
+(d) Okha
+@ans (a)
+@end
+
+**Alang-Sosiya** (Bhavnagar) is the world's largest ship-breaking yard. Its very high tidal range lets ships be beached easily. **Cochin Shipyard** built **INS Vikrant**, India's first indigenous aircraft carrier (2022).
+
+@section 25.5 | Inland Waterways and Airports
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P. R.O./A.R.O. (Mains) 2016
+Which one of the following stretches of river Ganga has been declared as National waterway?
+(a) From Allahabad to Haldia
+(b) From Haridwar to Kanpur
+(c) From Kanpur to Allahabad
+(d) From Narora to Patna
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 2014; U.P.P.C.S. (Mains) 2009
+Which one is the longest waterway in the country?
+@ans Allahabad (Prayagraj) - Haldia
+@end
+
+@table
+National Waterway | Stretch | Declared
+NW-1 | Ganga-Bhagirathi-Hugli: Prayagraj-Haldia (1,620 km) | 1986
+NW-2 | Brahmaputra: Sadiya-Dhubri (891 km) | 1988
+NW-3 | West Coast Canal: Kottapuram-Kollam (Kerala) | 1993
+NW-4 | Krishna-Godavari with canals (AP, Telangana, TN, Puducherry) | 2008
+NW-5 | Brahmani-Mahanadi delta with East Coast Canal (Odisha, WB) | 2008
+Total | 111 National Waterways (National Waterways Act, 2016) | 2016
+@end
+
+@up UP link: **NW-1** starts at **Prayagraj**. Under the **Jal Marg Vikas Project** (World Bank aided), multimodal terminals were built at **Varanasi** (Ramnagar, 2018), **Sahibganj** and **Haldia**. **Ganga Vilas**, the world's longest river cruise (Varanasi to Dibrugarh), began in 2023.
+
+@pyq U.P.P.C.S. (Mains) 2009
+National Inland Navigation Institute (NINI) is situated in–
+(a) Patna
+(b) Kolkata
+(c) Porbandar
+(d) Gomuk, Uttarakhand
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
+(a) Agra Airport
+(b) Prayagraj Airport
+(c) Gorakhpur Airport
+(d) Kushinagar Airport
+@ans (d)
+@end
+
+@up UP link: **Kushinagar** International Airport (opened October 2021) serves the **Buddhist circuit**. UP's other international airports are **Lucknow** (Chaudhary Charan Singh), **Varanasi** (Lal Bahadur Shastri) and **Ayodhya** (Maharishi Valmiki, 2023). The **Noida International Airport** at **Jewar** is set to be India's largest airport.
+
+@heatmap
+
+@pattern
+Transport questions split three ways: **ports** (about 45%: type, coast, state), **railways** (zones, production units, firsts, Konkan) and **roads** (NHDP, highway lengths). Port questions recycle a few facts: Mumbai is the largest natural port, Visakhapatnam is landlocked and deepest, Chennai is artificial and open-sea, Kandla is tidal, Haldia is the outer port, JNPT relieves Mumbai, Kochi is on the Malabar coast and Paradip is in Odisha. Questions on highway numbers before 2010 are now traps, so check the explanation and the note.
+@end
+
+@next
+Likely new angles include the **Vizhinjam** deep-water port (2025), **Vadhavan** port, the **Dedicated Freight Corridors** (the Eastern DFC runs Ludhiana-Sonnagar through **UP**, including Khurja, Dadri and Pt. DDU Nagar), the **Vande Bharat** and **Namo Bharat** (Delhi-Meerut RRTS) trains, the **Chenab** and **Anji** bridges, Mizoram's **Sairang** line, **Ganga Expressway**, **Jewar airport** and **UDAN** regional airports.
+@end
