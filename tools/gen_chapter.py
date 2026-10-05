@@ -22,7 +22,7 @@ TAGRX = re.compile(r"(U\.?\s?P\.|UPPSC|UPPCS|R\.O\.|Lower Sub|B\.E\.O|GIC|U\.D\.
 YEAR = re.compile(r"(19|20)\d\d")
 JUNK = re.compile(r"\s*(FREEPDFHALL|Click here -@F|estion Papers|uestion Papers)\s*")
 NEWLINE_START = re.compile(
-    r"^(\d+\.\s|[A-H]\.\s|\([ivx]+\)|[ivx]+\.\s|Select|Choose|Code|Which|Consider|"
+    r"^(\d{1,2}\.\s|[A-H]\.\s|\([ivxIVX]+\)|[ivx]+\.\s|Select|Choose|Code|Which|Consider|"
     r"Statement|Assertion|Reason|List|Find|Of the|Mark|Read|Given|What|How)"
 )
 
@@ -36,6 +36,16 @@ def tidy(s):
 
 def repair(q):
     """Move option and tag lines that the parser left in the explanation."""
+    if "a" not in q["opts"] and q["stem"]:
+        m = re.match(r"^(.*?)\s*\(a\)\s*(.+)$", q["stem"][-1])
+        if m:
+            parts = re.split(r"\(([a-e])\)\s*", "(a) " + m.group(2))
+            for i in range(1, len(parts) - 1, 2):
+                q["opts"].setdefault(parts[i], parts[i + 1].strip())
+            if m.group(1):
+                q["stem"][-1] = m.group(1)
+            else:
+                q["stem"].pop()
     rest = list(q["expl"])
     moved = True
     while rest and moved:
@@ -124,7 +134,7 @@ def render_q(q):
 
 
 def render_one(o):
-    qtext = tidy(o["q"])
+    qtext = tidy(o["q"]).lstrip("•● ").strip()
     ans = tidy(o["ans"])
     if not ans:
         m = re.match(r"^(.*?)\s*[—–-]{1,2}\s*([^—–-]+)$", qtext)
