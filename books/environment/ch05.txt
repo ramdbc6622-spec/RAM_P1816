@@ -1,0 +1,434 @@
+@chapter 5 | Greenhouse Effect and Climate Change
+@unit UNIT III · CLIMATE AND ATMOSPHERE
+
+@intro
+This is the single largest block of environment questions in UPPSC papers. The questions are about **which gases are greenhouse gases** (CO2, methane, N2O, water vapour, ozone, CFCs) and which are not (N2, O2, Ar, H2, SO2, NO2, propane). Others cover the sources of **methane** (paddy fields, cattle, wetlands), the effects of **global warming** (glaciers, sea level, coral bleaching, disease), basic numbers (-18 °C without the greenhouse effect, about 1 °C of warming since 1900), **net zero**, top emitters and the **Milankovitch** theory. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 5.1 | The Greenhouse Effect
+
+@pyq U.P.P.C.S. (Mains) 2011
+The concept of Greenhouse Gases was postulated by –
+(a) C.C. Park
+(b) J.N.N. Jeffers
+(c) Joseph Fourier
+(d) L. Zobler
+@ans (c)
+@end
+
+**Joseph Fourier** (1824) first described the atmosphere as trapping heat. **John Tyndall** (1859) showed that CO2 and water vapour absorb infrared radiation. **Svante Arrhenius** (1896) first calculated how much warming more CO2 would cause.
+
+@one U.P. P.C.S. (Pre) 2018
+What is 'Green House Effect'?
+@ans Increase in global temperature
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Without green house effect, the average temperature of earth surface would be:
+(a) 0°C
+(b) – 18°C
+(c) 5°C
+(d) – 20°C
+@ans (b)
+@end
+
+The **natural** greenhouse effect keeps the Earth at about **+15 °C** instead of about **-18 °C**, so it is essential for life. The problem is the **enhanced** greenhouse effect caused by extra gases from human activity.
+
+@pyq U.P.P.C.S. (Pre) 2015
+Greenhouse effect is enhanced in the environment due to?
+(a) Carbon monoxide
+(b) Carbon dioxide
+(c) Oxygen
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which of the following group of gases contribute to the "Greenhouse Effect"?
+(a) Ammonia and Ozone
+(b) Carbon monoxide and Sulphur dioxide
+(c) Carbon tetrafluoride and Nitrous oxide
+(d) Carbon dioxide and Methane
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+Which one naturally occurring greenhouse gases causes the highest percentage of the greenhouse effect?
+@ans Water Vapour
+@end
+
+@one U.P.P.C.S. (Spl) (Mains) 2004
+The Gases most responsible for Global Warming are:
+@ans Carbon-di-oxide and Methane
+@end
+
+@table
+Greenhouse gas | Main sources | Global warming potential (100 yr)
+Water vapour | Evaporation | Largest natural share; a feedback, not a direct driver
+**Carbon dioxide (CO2)** | Fossil fuels, cement, deforestation | 1 (reference); about 2/3 of human-caused warming
+**Methane (CH4)** | **Paddy fields**, cattle (enteric), wetlands, **termites**, landfills, coal mines, gas leaks | About 28-30
+**Nitrous oxide (N2O)** | Nitrogen fertilisers, manure | About 265-300
+Ozone (tropospheric) | Formed from NOx and VOCs in sunlight | Short-lived
+**CFCs, HFCs**, PFCs (incl. CF4), **SF6** | Refrigerants, industry | Thousands; SF6 about 23,500
+@end
+
+**Not greenhouse gases**: the main gases of the air, **nitrogen (N2), oxygen (O2) and argon (Ar)**, which have two identical atoms or are single atoms and do not absorb infrared, as well as **hydrogen**, **SO2** (it actually *cools*, by forming aerosols) and **NO2/NOx**. Note that **nitrous oxide (N2O)** *is* a greenhouse gas.
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P.P.C.S. (Pre) 2022
+Which one of the following is not responsible for global warming?
+(a) Methane
+(b) Water vapour
+(c) Argon
+(d) Carbon dioxide
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which one among the following substances does not contribute to global warming directly ?
+(a) Oxides of Sulphur and Nitrogen
+(b) Methane
+(c) Carbon dioxide
+(d) Water vapour
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019, 2020
+Which one of the following is not a green house gas found naturally in the atmosphere?
+(a) Nitrogen oxide
+(b) Carbon dioxide
+(c) Methane
+(d) Ozone
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007; U.P.P.C.S. (Pre) 2016
+Which of the following is not Greenhouse gas?
+(a) Carbon dioxide
+(b) Sulphur Dioxide
+(c) Methane
+(d) All of the above
+@ans (b)
+@end
+
+@one U.P. R.O./A.R.O. (Mains) 2017
+Which one is not a greenhouse gas?
+@ans Oxygen
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which one of the following gases is not a greenhouse gas?
+(a) CO2
+(b) CH4
+(c) NO2
+(d) O2
+@ans (c) & (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which one of the following is not a greenhouse gas?
+(a) Carbon dioxide
+(b) Methane
+(c) Propane
+(d) Ozone
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2012
+Which one of the following is not a greenhouse gas?
+(a) Carbon dioxide
+(b) Methane
+(c) Nitrus oxide
+(d) Nitrogen
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following is not Greenhouse gas?
+(a) Methane
+(b) Nitrous Oxide
+(c) Chlorofluorocarbons
+(d) Hydrogen
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Which one of the following gases is both harmful and beneficial to life on Earth?
+(a) Oxygen
+(b) Ozone
+(c) Nitrogen
+(d) Carbon dioxide
+@ans (d)
+@note The source's key is (d) **carbon dioxide**: it is essential for photosynthesis and keeps the Earth warm, but in excess it drives global warming. **Ozone** (b) is the more usual textbook answer, because it is protective in the stratosphere and a pollutant near the ground. Both readings are defensible.
+@end
+
+@section 5.2 | Carbon Dioxide and Methane
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P. Lower Sub. (Mains) 2013
+Global Warming is caused due to the emission of:
+(a) Nitrogen
+(b) Carbon Dioxide
+(c) Carbon Mono-oxide
+(d) Hydro Carbon
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Spl) (Mains) 2008; U.P.P.C.S. (Pre) 2006; U.P.P.C.S. (Mains) 2004
+The apprehension of Global Warming is aggravated by increased concentration, in the atmosphere, of
+@ans Carbon dioxide
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following is considered to be the optimum concentration of Carbon-Dioxide for natural balance in atmosphere?
+(a) 0.02 percent
+(b) 0.03 percent
+(c) 0.04 percent
+(d) 0.05 percent
+@ans (b)
+@end
+
+Pre-industrial CO2 was about **280 ppm (0.028%, rounded to 0.03%)**. It crossed **400 ppm** in 2015 and stood at about **423 ppm (0.042%)** in 2024, as measured at **Mauna Loa** (the Keeling Curve). That is the highest level in at least 8 lakh years.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following does not add the carbon dioxide to carbon cycle on the planet Earth?
+(a) Respiration
+(b) Photosynthesis
+(c) Decay of organic matter
+(d) Volcanic action
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Methane is emitted from which of the following?
+(a) Paddy fields only
+(b) Termitary only
+(c) Both form (a) and (b)
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019; U.P. P.C.S. (Mains) 2017
+The gas, which is emitted in the paddy fields and increases the earth's temperature is:
+(a) Nitrogen
+(b) Carbon dioxide
+(c) Carbon monoxide
+(d) Methane
+@ans (d)
+@end
+
+Flooded paddy soils are **anaerobic**, so methane-producing bacteria (methanogens) thrive in them. **Alternate wetting and drying** and **direct-seeded rice** cut these emissions. The **Global Methane Pledge** (COP26, 2021) aims to reduce methane emissions by 30% by 2030. **India has not joined it**, citing farm livelihoods.
+
+@section 5.3 | Causes and Effects of Climate Change
+
+@pyq U.P.P.C.S.(Pre) 2013
+Climate change is caused by –
+(a) Greenhouse gases
+(b) Depletion of the ozone layer
+(c) Pollution
+(d) All the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following are the primary causes of climate change?
+1. Excessive burning of fossil fuels.
+2. Exploding numbers of automobiles driven by oil
+3. Increasing solar flares
+4. Heavy deforestation
+Select the correct answer using codes given below:
+Codes :
+(a) 2 and 3 only
+(b) 1, 2 and 4 only
+(c) 1, 2, 3 and 4
+(d) 1 and 4 only
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following atmospheric changes take place due to greenhouse effect?
+(a) Increase in carbon dioxide concentration in atmosphere
+(b) Increase in humidity in atmosphere
+(c) Increase in a biological population
+(d) Increase in wind speed
+@ans (*)
+@note The question confuses cause and effect. Higher CO2 is the **cause** of the enhanced greenhouse effect, not its result. A warmer atmosphere does hold more water vapour (about 7% more per °C), so (b) is the best "effect", but the source marks the question (*).
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2001, 2003
+As a result of global warming there has been:
+1. Better global communication
+2. Melting of glaciers
+3. Flowering of mango trees before time
+4. Adverse impact on health
+Select your answer from the code given below:
+Codes :
+(a) 1, 2 and 3 are correct
+(b) 2, 3 and 4 are correct
+(c) 1, 2 and 4 are correct
+(d) 1, 3 and 4 are correct
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Which of the following are the impacts of Global Warming?
+1. Rise in sea level
+2. Melting of glaciers
+3. Spread of diseases
+4. Bleaching of Coral reefs
+Select the correct answer using the codes given below.
+Codes :
+(a) 1, 2 and 3 only
+(b) 2 and 3 only
+(c) 1, 3 and 4 only
+(d) 1, 2, 3 and 4
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2018
+As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
+@ans Cyclones, Storms and Hurricanes
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
+(a) Increased industrial activities in the coastal regions
+(b) Increase of 2°C temperature in the Indian Ocean
+(c) Heavy marine pollution
+(d) Decrease of temperature by 4°C in the Indian Ocean
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of the following represents the average increase in earth's temperature during the last century?
+(a) 0.6 degree Celsius
+(b) 0.7 degree Celsius
+(c) 0.8 degree Celsius
+(d) 0.9 degree Celsius
+@ans (d)
+@end
+
+The IPCC's AR6 (2021) put warming at about **1.1 °C** above the 1850-1900 average. **2024** was the **hottest year on record** and the first calendar year above **1.5 °C** (WMO, about 1.55 °C). The Paris goal is measured over 20-year averages, so it has not yet been formally breached.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+The Phenomenon of "Urban heat Islands" refers to:
+(a) Decreased energy consumption
+(b) Increased tree cover
+(c) Higher temperature in urban areas than nearby rural areas
+(d) Decreased temperature in urban areas
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Given below are two statements:
+Assertion (A) : Climate change is leading to an increase in social tension in India.
+Reason (R) : The frequency and intensity of the extreme weather events will have serious repercussions on food security.
+Choose the correct answer from codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct reason of (A).
+(b) Both (A) and (R) are true but (R) is not the correct reason of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (a)
+@end
+
+@section 5.4 | Emitters, Net Zero and the IPCC
+
+@pyq U.P.P.C.S (Pre) 2010; U.P.P.C.S (Pre) 2018; U.P. Lower Sub. (Pre) 2015
+Today the largest contributor to carbon dioxide (CO2) emissions is –
+(a) China
+(b) Japan
+(c) Russia
+(d) U.S.A
+@ans (a)
+@end
+
+@table
+Emitter (annual CO2, about 2023) | Share | Note
+China | About 31% | Largest since 2006
+USA | About 13% | Largest **cumulative** (historical) emitter
+**India** | About 7-8% | **Third** largest in total, but per head only about a third of the world average
+EU (27) | About 7% | -
+Russia, Japan | About 5% / 3% | -
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following is known as 'carbon negative country' in the world?
+(a) Afghanistan
+(b) Bahrain
+(c) Bhutan
+(d) Nepal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2021
+Which reference to 'NET-ZERO' GOAL FOR 2050, which of the following statements is/are correct?
+1. It means that a country will bring down its emissions to zero by 2050.
+2. It means that a country's emissions will be compensated by absorption and removal of greenhouse gases from the atmosphere.
+Select the correct answer using the codes given below.
+Codes.
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+**Net zero** means that whatever greenhouse gases are still emitted are **balanced** by removals (forests, carbon capture), not that emissions fall to zero. **India** announced its net-zero target year, **2070**, at **COP26 (Glasgow)** as part of the "**Panchamrit**". China's target is 2060, and the USA's and EU's 2050.
+
+@pyq U.P.P.C.S. (Pre) 2024
+What does the Intergovernmental Panel on Climate Change (IPCC) emphasize regarding reductions in greenhouse gas (GHG) emission?
+1. Gradual and limited reductions are enough.
+2. Deep, rapid and sustained reductions are essential.
+Select the correct answer from the codes given below:
+(a) Both 1 and 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Only 2
+@ans (d)
+@end
+
+The **IPCC** was set up in **1988** by the **WMO and UNEP** and is based in Geneva. Its Sixth Assessment Report (2021-23) says that to keep warming to 1.5 °C, global emissions must fall about **43% by 2030** and **60% by 2035** (from 2019 levels), reaching **net zero CO2 around 2050**.
+
+@section 5.5 | Natural Causes and Evidence
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following is not related to the astronomical theories of climate change?
+(a) Eccentricity of Earth's orbit
+(b) Obliquity of Earth's rotational axis
+(c) Precession of Equinoxes
+(d) Solar irradiance
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Who had suggested that shifting Earth on its axis is one of the factors, responsible for the climatic change?
+(a) Robert Hooke
+(b) Milutin Milankovich
+(c) George Simpson
+(d) T. C. Chamberlain
+@ans (b)
+@end
+
+**Milankovitch cycles** are slow changes in the Earth's orbit and axis that pace the ice ages: **eccentricity** (about 100,000 years), **obliquity** or axial tilt (about 41,000 years) and **precession** (about 26,000 years). **Solar irradiance** changes come from the Sun itself and are not part of this orbital theory.
+
+@pyq U.P.P.C.S. (Pre) (Re Exam.) 2015
+Which one of the following provides the cryogenic indicator of climate change?
+(a) Ice core
+(b) Fossilized pollen
+(c) Tree ring growth
+(d) Evaporite Deposits
+@ans (a)
+@end
+
+@trap
+**N2O is a greenhouse gas, NO2 is not.** Students mix them up. The **main air gases (N2, O2, Ar) are not greenhouse gases**, and neither are H2, SO2 or propane. **Water vapour** causes the largest *natural* share, but **CO2** is the main human driver. **Net zero is not zero emissions.** Milankovitch is about the **orbit**, not about solar output.
+@end
+
+@heatmap
+
+@pattern
+**"Which is not a greenhouse gas"** is the most repeated question in the whole environment syllabus (more than ten versions since 2004). Methane from **paddy fields** and the impacts of global warming come next. The 2021-2024 papers add **net zero**, the **IPCC**, coral bleaching and urban heat islands, so expect current climate science, not just definitions.
+@end
+
+@next
+Likely next angles: **2024 at 1.55 °C**, India's **updated NDC** (45% emission-intensity cut by 2030, 50% non-fossil power), the **Carbon Credit Trading Scheme** (2023), **heat action plans**, the **Global Methane Pledge**, IPCC **AR7** timelines, **glacial lake outburst floods** (Sikkim 2023), and **loss and damage**.
+@end
