@@ -1,0 +1,236 @@
+@chapter 9 | India State of Forest Report (ISFR)
+
+@intro
+The **Forest Survey of India** (Dehradun) publishes the **India State of Forest Report** every two years from satellite data. Its figures change with every edition, so this chapter's old keys need careful notes. The newest report is **ISFR 2023** (released December 2024). Learn its headline numbers: total cover, state rankings by **area** and by **percentage**, very dense forest, mangroves and tree cover. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 9.1 | National Figures
+
+@table
+ISFR 2023 headline | Figure
+Forest cover | About **7.15 lakh sq km = 21.76%** of India's area
+Tree cover (outside forests) | About 1.13 lakh sq km = 3.41%
+**Forest + tree cover** | About **8.27 lakh sq km = 25.17%**
+Very dense forest (canopy 70% or more) | About 3.4% of area
+Moderately dense (40-70%) | About 9.4%
+Open forest (10-40%) | About 9.0%
+Mangroves | About 4,992 sq km (0.15%)
+National target (Forest Policy 1988) | **33%** of area (two-thirds in the hills)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+What is the percentage of forest area in the total geographical area of India?
+(a) 24.5 %
+(b) 21 %
+(c) 20 %
+(d) 22 %
+@ans (d)
+@end
+
+@one U.P. P.C.S. (Pre) 2018
+According to the India State of Forest Report 2017, what percentage of the total geographical area of the country is under forest?
+@ans 21.54
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+According to the Indian State of Forest Report 2015, released by the Ministry of Environment, what is the percentage of the total geographical area of India under forest and tree cover:
+(a) 22.48
+(b) 23.00
+(c) 24.16
+(d) 24.48
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+In India, percentage coverage of dense forests to total geographical area is about
+(a) 8 percent
+(b) 10 percent
+(c) 12 percent
+(d) 14 percent
+@ans (c)
+@end
+
+@section 9.2 | State Rankings
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016; U.P. P.C.S. (Mains) 2002, 2012; U.P.U.D.A./L.D.A. (Pre) 2010
+Which among the following States of India has the largest percentage or geographical area under forest as per the report of the Forest Survey of India?
+(a) Manipur
+(b) Meghalaya
+(c) Mizoram
+(d) Nagaland
+@ans (c)
+@end
+
+@pyq U.P. Lower (Spl) (Pre) 2008
+Which among the following States/UTs in India has the largest percentage of its geographical area under forest cover?
+(a) Tripura
+(b) Andaman and Nicobar
+(c) Nagaland
+(d) Mizoram
+@ans (d)
+@end
+
+@one U.P. Lower Sub. (Pre) 2004
+According to the National Remote Sensing Agency (NRSA) which state has its maximum area covered by forest among Himachal Pradesh, Arunachal Pradesh, Meghalaya and Sikkim?
+@ans Arunachal Pradesh
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Which one of the following groups of States has forest coverage of more than 75% of the total geographical area:
+(a) Arunachal Pradesh, Assam, Nagaland
+(b) Arunachal Pradesh, Manipur, Nagaland
+(c) Assam, Meghalaya, Nagaland
+(d) Arunachal Pradesh, Nagaland
+@ans (*)
+@note Option (b) fitted the data of the time. In ISFR 2023, among these states only **Arunachal Pradesh** (about 79%) is above 75%, while Nagaland (about 74%) and Manipur (about 74%) are just below it, so no group fits now. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which State has more than 80% of its area covered by forest?
+(a) Arunachal Pradesh
+(b) Kerala
+(c) Madhya Pradesh
+(d) West Bengal
+@ans (a)
+@note Arunachal was above 80% when the question was set. In ISFR 2023 it is about **79%**, and **Mizoram** (about 84%) is the state above 80%. Among UTs, **Lakshadweep** (about 91%) ranks highest.
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2021
+As per the 'India State of Forest Report 2021', how many states/union territories have over 33% of their geographical area under forest?
+(a) 07
+(b) 13
+(c) 17
+(d) 23
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which is the state of India whose forested area is maximum?
+(a) Madhya Pradesh
+(b) West Bengal
+(c) Maharashtra
+(d) Assam
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+In India the state with the largest area under very dense forests is –
+(a) Arunachal Pradesh
+(b) Madhya Pradesh
+(c) Maharashtra
+(d) Odisha
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Among the following which statement is not correct?
+(a) Madhya Pradesh has maximum forest area.
+(b) Arunachal Pradesh has maximum dense forest area.
+(c) Nagaland is the most forest covered State of India.
+(d) Haryana is the least forest covered State of India.
+@ans (c)
+@end
+
+@table
+ISFR 2023 ranking | Top states
+Largest forest **area** | **Madhya Pradesh**, Arunachal Pradesh, Chhattisgarh, Odisha, Maharashtra
+Highest forest **percentage** (states) | **Mizoram** (about 84%), Arunachal Pradesh, Meghalaya, Manipur, Nagaland
+Highest percentage (all, incl. UTs) | **Lakshadweep** (about 91%), Mizoram, Andaman and Nicobar
+Largest **very dense** forest | **Arunachal Pradesh**
+Lowest percentage | **Haryana** (about 3.6%), Punjab, Rajasthan
+Largest mangroves | **West Bengal**, **Gujarat** (2nd), Andaman and Nicobar
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+As per the 'India State of Forest Report-2021' which of the following States has registered maximum increase in the forest cover during the last two years?
+(a) Assam
+(b) Andhra Pradesh
+(c) Kerala
+(d) Arunachal Pradesh
+@ans (b)
+@end
+
+In **ISFR 2021** the largest gains in forest cover were in **Andhra Pradesh**, Telangana and Odisha. In **ISFR 2023** the largest gains in **forest plus tree cover** were in **Chhattisgarh**, **Uttar Pradesh**, Odisha and Rajasthan.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Second largest mangrove area in India is found along the coast of –
+(a) Andaman and Nicobar
+(b) Andhra Pradesh
+(c) Gujarat
+(d) Odisha
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Tree cover is maximum in –
+(a) East Deccan
+(b) Northern Plains
+(c) West Coast
+(d) East Coast
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Arrange the following States of India in descending order of their cover (percent of forest area to total area) and select the correct answer from codes.
+1. Haryana
+2. Maharashtra
+3. Manipur
+4. Orissa
+Code :
+(a) 3, 4, 2, 1
+(b) 3, 2, 4, 1
+(c) 1, 4, 3, 2
+(d) 4, 3, 2, 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Arrange the following State of India in descending order of their Forest-area and select the correct answer from codes given below:
+1. Andhra Pradesh
+2. Arunachal Pradesh
+3. Chhattisgarh
+4. Odisha
+Codes:
+(a) 1, 3, 4, 2
+(b) 1, 2, 3, 4
+(c) 4, 3, 1, 2
+(d) 2, 1, 4, 3
+@ans (*)
+@note By forest **area** the order is **Arunachal Pradesh, Chhattisgarh, Odisha, Andhra Pradesh** (2, 3, 4, 1), which is not among the codes. When undivided Andhra Pradesh (with Telangana) was counted, the order was different again. The source marks the question (*).
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following state in India has maximum number of tribal districts as per "India State of Forest Report 2019"?
+(a) Nagaland
+(b) Meghalaya
+(c) Mizoram
+(d) Manipur
+@ans (d)
+@end
+
+@section 9.3 | Uttar Pradesh
+
+@pyq U.P.P.C.S. (Mains) 2012
+The recorded forest area of U.P. in 2011 was around .... of its area :
+(a) 3%
+(b) 5%
+(c) 7%
+(d) 9%
+@ans (c)
+@end
+
+@up UP link: **Uttar Pradesh** has **recorded forest area** of about 17,435 sq km (**7.24%** of the state), and its **forest cover** is only about **6%** of its area. Adding **tree cover** (about 3%) brings the total to roughly **9-10%**. UP was among the states with the largest **gain in tree cover** in ISFR 2023, helped by its mass plantation drives (more than **35 crore saplings** planted in a single campaign in 2024). The **Terai** districts (Lakhimpur Kheri, Bahraich, Pilibhit) and **Sonbhadra** are the most forested. **Dudhwa** is UP's best-known forest-protected area.
+
+@trap
+"**Forest area**" (MP is the largest) is different from "**forest percentage**" (Mizoram is the highest state). **Very dense forest = Arunachal.** **Least = Haryana.** "**Recorded** forest area" (legal status) is different from "**forest cover**" (canopy seen from satellites). For ISFR questions, the report year matters: the answer for 2015, 2017, 2019, 2021 and 2023 can differ.
+@end
+
+@heatmap
+
+@pattern
+ISFR questions repeat the same four facts: the **national percentage**, the **largest by area** (MP), the **largest by percentage** (Mizoram) and the **largest very dense forest** (Arunachal). Mizoram alone has been the answer five times. Many keys are pinned to an older report, so look up the year in the question and use the note to update.
+@end
+
+@next
+Likely next angles: **ISFR 2023** numbers (21.76%, 25.17%, 4,992 sq km mangroves), the **carbon stock** (about 7,285 million tonnes) against the NDC sink target of **2.5-3 billion tonnes of CO2** equivalent, **forest fire** hotspots (Uttarakhand, Odisha), **bamboo** cover, and **agroforestry** (trees outside forests).
+@end
