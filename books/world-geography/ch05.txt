@@ -1,0 +1,513 @@
+@chapter 5 | Continents, Mountains, Plateaus and Valleys
+
+@intro
+UPPSC tests landforms with **"which country / which continent"** questions. You need the size order of the continents, the longest ranges (Andes, Rockies, Himalaya, Great Dividing Range), the classic fold, block, volcanic and residual examples, Europe's and Africa's ranges, the Tibetan and Colorado plateaus, and famous valleys and basins (Death Valley, Panjshir, Silicon Valley, the Great Artesian Basin). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 5.1 | The Continents
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+As per area which of the following is the largest continent?
+(a) Europe
+(b) Africa
+(c) North America
+(d) South America
+@ans (b)
+@end
+
+**Asia** is the largest continent overall but is not among the options, so **Africa**, the second largest, is the answer.
+
+@one U.P.P.C.S. (Mains) 2015
+From the code given below select the correct sequence of the following continents in terms of their area in descending order : (1) Europe (2) Australia (3) Africa (4) South America
+@ans 3, 4, 1, 2
+@end
+
+@one U.P. P.C.S. (Mains) 2017
+Which one presents the correct sequence (in descending order) of the area of the continents?
+@ans Asia, Africa, North America, Europe
+@end
+
+@one U.P.P.C.S. (Pre) 1992
+Which one is smallest Continent?
+@ans Australia
+@end
+
+@one U.P.P.C.S. (Spl.) (Pre) 2008
+The two smallest Continents of the world are
+@ans Australia and Europe
+@end
+
+@table
+Rank | Continent | Area (million sq km, approx.) | Countries (UN members)
+1 | Asia | 44.6 | 48
+2 | Africa | 30.1 | **54 (most)**
+3 | North America | 24.5 | 23
+4 | South America | 17.8 | 12
+5 | Antarctica | 14.0 | 0
+6 | Europe | 10.2 | 44-49 (by definition)
+7 | Australia (Oceania) | 8.6 | 14
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following continents has the largest number of countries?
+(a) Africa
+(b) Europe
+(c) Asia
+(d) South America
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following Continents has the highest percentage of plains in its total area ?
+(a) Asia
+(b) Europe
+(c) North America
+(d) South America
+@ans (b)
+@end
+
+**Europe** is called the "**Continent of plains**": the **Great European Plain** runs from France to the Urals. Its average height (about 300 m) is the lowest of any continent except Australia.
+
+@section 5.2 | Mountain Ranges of the World
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following is the longest mountain range?
+(a) The Rocky
+(b) The Alps
+(c) The Himalayas
+(d) The Andes
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Place the following mountain ranges of the world in the descending order of their lengths and find the correct option from the given code –
+(i) Andes
+(ii) Great Dividing Range
+(iii) The Himalaya
+(iv) The Rocky
+Code :
+(a) (i) (iii) (iv) (ii)
+(b) (i) (iv) (iii) (ii)
+(c) (iv) (i) (ii) (iii)
+(d) (iv) (iii) (i) (ii)
+@ans (b)
+@end
+
+@table
+Range | Length (approx.) | Continent | Highest peak
+Andes | About 7,000 km | South America | Aconcagua (6,961 m)
+Rockies | About 4,800 km | North America | Mount Elbert (4,401 m)
+Great Dividing Range | About 3,500 km | Australia | Kosciuszko (2,228 m)
+Himalaya | About 2,400-2,500 km | Asia | Everest (8,849 m)
+Ural | About 2,500 km | Europe-Asia divide | Narodnaya (1,895 m)
+Atlas | About 2,500 km | Africa (NW) | Toubkal (4,167 m)
+Alps | About 1,200 km | Europe | Mont Blanc (4,806 m)
+Appalachian | About 2,400 km | North America (E) | Mount Mitchell, Black Mountains (2,037 m)
+@end
+
+The underwater **Mid-Ocean Ridge** system (about 65,000 km) is the longest mountain chain on Earth, but it is not a "range" in the usual sense.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I and List-II and select the correct answer using the code given below:
+@match
+List-I (Mountain) | List-II (Continent)
+A. Andes | 1. Europe
+B. Altai | 2. North America
+C. Alps | 3. Asia
+D. Appalachian | 4. South America
+@endmatch
+Code :
+(a) A-1, B-3, C-4, D-2
+(b) A-3, B-4, C-1, D-2
+(c) A-4, B-3, C-2, D-1
+(d) A-4, B-3, C-1, D-2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following mountains and arrange them in correct order from West to East by their location:
+1. Karakoram
+2. Pontic
+3. Hindu Kush
+4. Zagros
+Select the correct answer from the codes given below:
+(a) 2, 4, 3, 1
+(b) 2, 3, 4, 1
+(c) 4, 2, 3, 1
+(d) 4, 1, 2, 3
+@ans (a)
+@end
+
+**Pontic** (northern Turkey, Black Sea coast), then **Zagros** (western Iran), then **Hindu Kush** (Afghanistan-Pakistan), then **Karakoram** (Pakistan-India-China). The Pamir Knot joins the Hindu Kush, Karakoram, Kunlun and Tian Shan.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following range of mountains is not the result of Tertiary orogeny?
+(a) Kunlun
+(b) Appalachians
+(c) Alps
+(d) Andes
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Make the correct match between the List –I and List –II and using the following codes, select the correct option
+@match
+List-I | List-II
+A. Alps | 1. Block Mountain
+B. Vosges | 2. Volcano Mountain
+C. Vindhya | 3. Folded Mountain
+D. Fujiyama | 4. Residual Mountain
+@endmatch
+Code : A B C D
+(a) 2 4 1 3
+(b) 3 1 4 2
+(c) 1 3 2 4
+(d) 1 4 3 2
+@ans (b)
+@end
+
+@table
+Mountain type | How formed | Examples
+Young fold (Tertiary / Alpine) | Compression of sediments, about 65-2 million years ago | Himalaya, Alps, Andes, Rockies, Atlas, Kunlun
+Old fold | Caledonian and Hercynian (Palaeozoic) | Appalachians, Urals, Aravalli
+Block (horst) | Uplift between faults | Vosges, Black Forest, Sierra Nevada, Satpura
+Volcanic | Lava and ash piled up | Fuji, Kilimanjaro, Cotopaxi, Mauna Loa
+Residual | Worn-down remnants of older ranges | Vindhya, Nilgiri, Parasnath, Aravalli
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is known as the 'Sea of mountains'?
+(a) Japan
+(b) British Columbia
+(c) West Coast of South America
+(d) South-East Asia
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+White Mountains are founded in –
+(a) Canada
+(b) Norway
+(c) Russia
+(d) United States of America
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Black Mountain is situated in –
+(a) Canada
+(b) Norway
+(c) Switzerland
+(d) U.S.A
+@ans (d)
+@end
+
+The **White Mountains** (New Hampshire-Maine, with Mount Washington) and the **Black Mountains** (North Carolina, with Mount Mitchell, the highest peak in the eastern USA) are both parts of the **Appalachians**.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Mountain) | List-II (Country)
+A. Allegheny | 1. Canada
+B. Cantabrian | 2. Iran
+C. Elburz | 3. Spain
+D. Mackenzie | 4. U.S.A.
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 4 1 3 2
+(c) 2 3 4 1
+(d) 1 4 2 3
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Darling range is situated along which of the following coasts of Australia?
+(a) North-Eastern Coast
+(b) Southern Coast
+(c) Eastern Coast
+(d) South-Western Coast
+@ans (d)
+@end
+
+The **Darling Range** (near Perth, Western Australia) should not be confused with the **Darling River**, which flows in the south-east (New South Wales).
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Three mountain ranges determining the boundary between India and Myanmar are –
+(a) Khasi, Patkoi and Arakan Yoma
+(b) Akai Mountain Range
+(c) Great Dividing Range
+(d) None of the above
+@ans (d)
+@end
+
+The India-Myanmar border follows the **Patkai, Naga, Manipur (Chin) and Mizo (Lushai)** hills, which are northern arms of the **Arakan Yoma**. The **Khasi** hills lie wholly inside Meghalaya, so option (a) is wrong.
+
+@pyq U.P. Lower Sub (Pre) 2004
+Black Forest Mountain is situated in –
+(a) France
+(b) Germany
+(c) Ukraine
+(d) Russia
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2012
+Which one mountain is located in Germany?
+@ans Black Forest
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Which of the following mountains is located along the Rhine river?
+(a) Pyrenees
+(b) Apennines
+(c) Carpathian
+(d) Black Forest
+@ans (d)
+@end
+
+The **Rhine rift valley** is a classic **graben**. On its east side is the **Black Forest** (Germany) and on its west the **Vosges** (France), both block mountains (horsts).
+
+@pyq U.P.P.C.S. (Mains) 2004
+Mount Titlis is in –
+(a) Germany
+(b) France
+(c) Switzerland
+(d) U.S.A.
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following mountains is located in Italy?
+(a) Apennine
+(b) Pyrenees
+(c) Dinaric Alps
+(d) Zura
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Country) | List-II (Mountain)
+A. Spain - France | 1. Alps
+B. Switzerland | 2. Apennine
+C. Bulgaria | 3. Pyrenees
+D. Italy | 4. Balkan
+@endmatch
+Codes : A B C D
+(a) 3 1 2 4
+(b) 3 1 4 2
+(c) 2 3 1 4
+(d) 4 1 2 3
+@ans (b)
+@end
+
+@table
+European range | Country / location
+Pyrenees | France-Spain border
+Cantabrian | Northern Spain
+Alps (Mont Blanc, Matterhorn, Titlis) | France, Switzerland, Italy, Austria
+Apennines | Italy (the peninsula's "spine")
+Dinaric Alps | Balkans, along the Adriatic
+Balkan | Bulgaria
+Carpathians | Central-eastern Europe (Romania, Slovakia, Ukraine)
+Jura | France-Switzerland
+Vosges / Black Forest | France / Germany (on either side of the Rhine)
+Urals / Caucasus | Russia (Europe-Asia divide) / between the Black and Caspian Seas
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List-I (Mountain) | List-II (Country)
+A. Atlas | 1. France/Spain
+B. Kilimanjaro | 2. Ecuador
+C. Chimbroazo | 3. Tanzania
+D. Pyrenees | 4. Morocco
+@endmatch
+Codes : A B C D
+(a) 4 3 2 1
+(b) 4 1 2 3
+(c) 2 3 4 1
+(d) 1 3 4 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Match List-I with List-II and select the correct answer using the code given below :
+@match
+List-I (Mountain) | List-II (Countries)
+(A) Kilimanjaro | (1) Morocco
+(B) Toubkal | (2) Algeria
+(C) Stanley | (3) Tanzania
+(D) Hoggar | (4) Uganda
+@endmatch
+Code :
+(a) A-(3), B-(1), C-(4), D-(2)
+(b) A-(4), B-(2), C-(3), D-(1)
+(c) A-(3), B-(4), C-(1), D-(2)
+(d) A-(4), B-(3), C-(2), D-(1)
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Pre) 2007
+Drakensberg is a mountain of –
+(a) Botswana
+(b) Namibia
+(c) South Africa
+(d) Zambia
+@ans (c)
+@end
+
+**African ranges**: the **Atlas** in Morocco, Algeria and Tunisia (highest peak **Toubkal**); the **Hoggar (Ahaggar)** in the Algerian Sahara; the **Rwenzori** (Mount **Stanley**) on the Uganda-DR Congo border, the "Mountains of the Moon"; **Kilimanjaro** and **Mount Kenya** in East Africa; and the **Drakensberg** in South Africa and Lesotho.
+
+@section 5.3 | Plateaus
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+The average elevation of Tibetan Plateau above sea level is –
+(a) 2 Km
+(b) 3 Km
+(c) 4 Km
+(d) 5 Km
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one amongst the following is the largest plateau?
+(a) Coconino
+(b) Aquarius
+(c) Colorado
+(d) Columbia
+@ans (c)
+@end
+
+The **Tibetan (Qinghai-Tibet) Plateau**, averaging about **4,500 m** and covering about 2.5 million sq km, is the world's highest and largest plateau, the "**Roof of the World**". The **Colorado Plateau** (USA) contains the **Grand Canyon**, and the **Columbia Plateau** is a lava plateau.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Telegraphic Plateau is a part of :
+(a) North Atlantic Ridge
+(b) South Atlantic Ridge
+(c) Indian Ocean Ridge
+(d) None of these
+@ans (a)
+@end
+
+The "**Telegraph Plateau**" was the name **Matthew Maury** (1850s) gave to a seemingly shallow stretch of the North Atlantic floor between Ireland and Newfoundland, where the first **transatlantic telegraph cable** (1858) was laid. It is part of the **Mid-Atlantic Ridge** region.
+
+@section 5.4 | Valleys and Basins
+
+@pyq U.P.P.C.S. (Pre) 2012
+'Death Valley' situated in South California in the U.S.A is an example of which of the following ?
+(a) Anticlinal Valley
+(b) Indian Valley
+(c) Prismatic Valley
+(d) Rift Valley
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+The Death Valley is known as 'Devil's Golf Course' is located in–
+(a) U.S.A
+(b) Chile
+(c) Siberia
+(d) Afghanistan
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The Death Valley is Known for its –
+(a) Excessive Heat (Hotness)
+(b) Excessive Coldness
+(c) Abnormal Depth
+(d) excessive Salinity
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Mains) 2009
+The Death Valley of the U.S.A. lies in the State of
+@ans California
+@end
+
+**Death Valley** (Mojave Desert, California) holds the record for the **highest air temperature ever recorded**: **56.7 °C** at Furnace Creek (1913). Its **Badwater Basin** (-86 m) is the lowest point in North America. The "**Devil's Golf Course**" is a field of jagged salt crystals there.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Panjshir Valley is located in –
+(a) Egypt
+(b) Iran
+(c) Afganistan
+(d) Turkey
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+'Silicon Valley' in the United States of America is located in –
+(a) Colorado
+(b) California
+(c) New Jersey
+(d) Florida
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Taylor Valley is located in –
+(a) Australia
+(b) Antarctica
+(c) Canada
+(d) United States of America
+@ans (b)
+@end
+
+**Taylor Valley** is one of the **McMurdo Dry Valleys** of Antarctica, among the driest places on Earth. It is named after Griffith Taylor of **Scott's** expedition.
+
+@pyq U.P. Lower Sub.(Spl.) (Pre) 2003; U.P. Lower Sub. (Spl.) (Pre) 2002
+The Great Artesian Basin (GAB) is located in –
+(a) U.S.A
+(b) Australia
+(c) Russia
+(d) Brazil
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Great Basin is located in –
+(a) U.S.A
+(b) China
+(c) Australia
+(d) South Africa
+@ans (a)
+@end
+
+**Great Artesian Basin** = **Australia**: one of the world's largest groundwater reservoirs, feeding the dry interior's sheep stations through artesian wells. **Great Basin** = **USA**: the inland drainage region of Nevada and Utah, between the Sierra Nevada and the Wasatch, Rocky Mountain region.
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Valley of the King is located in –
+(a) Egypt
+(b) Nigeria
+(c) Greece
+(d) Turkey
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Blind Valley is found in –
+(a) Karst Region
+(b) Dry region
+(c) Icy Region
+(d) Tundra Region
+@ans (a)
+@end
+
+@trap
+**Great Basin (USA)** and **Great Artesian Basin (Australia)** are paired as decoys. So are **Darling Range** (WA coast) and **Darling River** (NSW), and **White Mountains** (USA) and **Black Mountains** (USA), both Appalachian. **Death Valley** is a **rift (graben)** valley known for **heat**, even though it is also very low and salty.
+@end
+
+@heatmap
+
+@pattern
+About two-thirds of these PYQs are **range-to-country** or **range-to-continent** matches, and several are from 2020-2024. That shows UPPSC is now asking about less familiar ranges (Pontic, Zagros, Hoggar, Toubkal, Darling, Balkan). Learn the European and African range tables together. Valley questions are about famous US places.
+@end
+
+@next
+Likely next angles: **Zagros and Elburz** (Iran), **Hindu Kush** (Afghanistan), the **Ethiopian Highlands** and **Great Rift Valley**, the **Rwenzori** glaciers melting, **Mount Elbrus** (Europe's highest peak), the "**Seven Summits**", and **plate-boundary** types (convergent, divergent, transform).
+@end
