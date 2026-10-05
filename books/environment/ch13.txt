@@ -1,0 +1,285 @@
+@chapter 13 | Non-Conventional Energy
+@unit UNIT V · ENERGY, POLLUTION AND INSTITUTIONS
+
+@intro
+The non-conventional energy questions cover renewable vs non-renewable sources, the **Sun** as the ultimate source, **solar**'s place in India's energy mix and its "greatest potential", firsts (**Cochin** airport, **Diu**, **Sikkim** as the organic state), the **International Solar Alliance**, **biofuels** (jatropha, karanja, ethanol), **hydrogen** as the cleanest fuel, and geothermal sites. India's targets: **500 GW non-fossil capacity by 2030**, a goal it is already halfway past. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 13.1 | Sources of Energy
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004; U.P.P.C.S. (Pre) 2000
+The main role of solar radiation is in –
+(a) Carbon cycle
+(b) Hydrogen cycle
+(c) Water cycle
+(d) Nitrogen cycle
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Re-Exam) (Pre) 2016
+An ultimate source of energy stored in fossil fuels is :
+(a) Earth
+(b) Sun
+(c) Sea
+(d) Moon
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+A non-renewable source of energy is
+(a) Solar energy
+(b) Petroleum
+(c) Wind energy
+(d) Biogas
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Match List -I with List -II and select the correct answer using codes given below lists.
+@match
+List– I | List–II
+A. Minerals | 1. Rainfall
+B. Solar energy | 2. Methane and Carbon dioxide
+C. Biogas | 3. Exhaustible
+D. Deforestation | 4. Inexhaustible
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 3 4 1 2
+(c) 2 1 3 4
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which one of the following is NOT an example of biomass energy source?
+(a) Nuclear energy
+(b) Wood
+(c) Coal
+(d) Gobar (Dung)
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Mains) 2004
+Among the following energy sources which one is used maximum in organic form?
+(a) Nuclear Energy
+(b) Solar Energy
+(c) Geo-Thermal Energy
+(d) Tidal Energy
+@ans (b)
+@end
+
+@section 13.2 | India's Energy Mix and Solar Power
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+The second most important source after fossil fuels contributing to Indian energy need is
+(a) Hydropower energy
+(b) Wind energy
+(c) Nuclear energy
+(d) Solar energy
+@ans (d)
+@end
+
+@table
+India's installed power (end of 2025, approx.) | Share
+Coal, lignite, gas, diesel (fossil) | About 48-50%
+**Solar** | About **26%** (second only to coal)
+Large and small hydro | About 11%
+Wind | About 11%
+Nuclear | About 1.7%
+Bio-power | About 2%
+Target | **500 GW non-fossil by 2030**; 50% of installed capacity from non-fossil sources was reached in **2025**
+@end
+
+@pyq U.P.P.C.S (Mains) 2011
+Which one of the following sources of renewable energy has the greatest potential in India?
+(a) Solar power
+(b) Biomass power
+(c) Small hydel power
+(d) Energy recovery from waste
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which one of the following is the best source of generating electricity in India from the viewpoint of sustainable development?
+(a) Coal
+(b) Mineral oil and gas
+(c) Hydro- electricity
+(d) Atomic energy
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Mains) 2006; U.P.P.C.S. (Pre) 2015; U.P. Lower Sub. (Pre) 2004
+Which of the following energy source is most ecofriendly?
+(a) Petroleum Product
+(b) Forest Product
+(c) Nuclear Fission
+(d) Solar Cell
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following energy sources produces NO atmospheric pollution?
+(a) Nuclear energy
+(b) Solar energy
+(c) Petroleum energy
+(d) Coal energy
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains), 2017
+World's First International Airport fully equipped with solar energy is located at?
+(a) Bangalore
+(b) Kochi
+(c) Ahmadabad
+(d) Kozhikode
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019; U.P.R.O./A.R.O. (Pre) 2017
+The First Union Territory of India to run 100 percent on solar energy is
+(a) Andaman-Nicobar
+(b) Chandigarh
+(c) Diu
+(d) Puducherry
+@ans (c)
+@end
+
+@table
+Solar first | Place
+World's first fully solar-powered airport | **Cochin** International (2015)
+First UT on 100% solar (daytime) | **Diu** (2018)
+First solar village of India (claim) | **Dharnai** (Bihar, 2014); **Modhera** (Gujarat, 2022) is the first 24x7 solar village
+Largest solar park | **Bhadla** (Rajasthan); the **Khavda** renewable park (Gujarat, 30 GW) is planned as the world's largest
+@end
+
+@up UP link: UP's large solar projects are in **Bundelkhand** (Jalaun, Jhansi, Lalitpur). **Ayodhya** is being developed as a **model solar city**. UP's Solar Energy Policy 2022 targets about **22 GW** by 2027, and the **PM Surya Ghar** rooftop scheme (2024) has a large take-up in the state.
+
+@section 13.3 | International Initiatives
+
+@pyq U.P.P.C.S. (Pre) 2017
+The Decade of Sustainable Energy for all is the initiative of:
+(a) United Nations
+(b) India
+(c) Germany
+(d) World Bank
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to International Solar Alliance', which of the following statements is/are correct?
+1. It is the first treaty based Inter-governmental organisation headquartered in India with 38 member countries.
+2. World Solar Bank and One Sun One World One Grid Initiative were initiated under it.
+Select the correct answer using the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (a)
+@end
+
+The **International Solar Alliance** was launched by India and France at **COP21 (Paris, 2015)** and has its headquarters at **Gurugram**. It is the first treaty-based intergovernmental body based in India, but it has **more than 100 member countries**, not 38, so statement 1 is false. Its initiatives include **One Sun One World One Grid** and the proposed **Global Solar Facility / World Solar Bank**.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+In which country was the world's largest offshore wind farm inaugurated in August 2024 ?
+(a) Germany
+(b) Denmark
+(c) Taiwan
+(d) United Kingdom
+@ans (*)
+@note The world's largest operating offshore wind farm is **Hornsea 2** (UK, North Sea), fully commissioned earlier. Reports about an "August 2024 inauguration" refer to different projects, so the source marks the question (*). The **UK** is the best-supported answer to "largest offshore wind farm". **China** has the most offshore wind capacity overall.
+@end
+
+@section 13.4 | Biofuels, Hydrogen and Others
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following statements about bio-fuel is not correct?
+(a) Bio-fuel is eco-friendly.
+(b) Bio-fuel is cost-effective.
+(c) Bio-fuel can contribute to remedy energy crisis.
+(d) Bio-fuel is also made from corn.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following is a bio-diesel crop?
+(a) Cotton
+(b) Sugarcane
+(c) Jatropha
+(d) Potato
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+Which of the following is the source of 'Green Fuel'?
+(a) Pine
+(b) Karanja
+(c) Fern
+(d) None of the above
+@ans (*)
+@note **Karanja** (*Pongamia pinnata*) seed oil is a recognised **biodiesel** feedstock, like **jatropha**, so (b) is a strong answer. The source treats "green fuel" as **ethanol** made from sugary or starchy crops, which is not in the list, and marks the question (*).
+@end
+
+@table
+Biofuel | Source | India
+Bioethanol (1st generation) | Sugarcane molasses, maize, damaged grain | **E20** petrol (20% ethanol) available nationwide since 2025
+2G ethanol | Crop residue (paddy straw) | Panipat 2G refinery (2022)
+Biodiesel | **Jatropha**, **karanja**, used cooking oil | National Policy on Biofuels 2018 (amended 2022)
+Compressed biogas | Dung, farm and municipal waste | **SATAT** scheme; GOBARdhan
+Green hydrogen | Water electrolysis using renewable power | **National Green Hydrogen Mission** (2023): 5 million tonnes a year by 2030
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017; U.P. Lower Sub. (Pre) 2013, 2015; U.P.U.D.A./L.D.A. (Spl.) (Pre) 2010; U.P.P.C.S. (Mains) 2015
+Which one of the following fuels creates the least pollution?
+(a) Diesel
+(b) Coal
+(c) Hydrogen
+(d) Kerosene
+@ans (c)
+@end
+
+When hydrogen burns, its only product is **water**. It also has the highest energy per kilogram of any fuel (about **150 kJ/g**).
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which among the following places was the first 100 percent Organic State in the world?
+(a) Queensland (Australia)
+(b) California (United States of America)
+(c) Sikkim (India)
+(d) Quebec (Canada)
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Under the Nuclear Power Projects, Environmental Effects that have to be studied and resolved are
+(a) Radioactive contamination of air, soil and water.
+(b) Deforestation and loss of flora and fauna.
+(c) Radioactive waste disposal.
+(d) All of the above.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+In which of the following areas of India have geothermal energy sources not been found?
+(a) Godavari Delta
+(b) Ganga Delta
+(c) Himalayas
+(d) West Coast
+@ans (b)
+@end
+
+India's geothermal provinces include the Himalaya (**Puga** valley, Ladakh, chosen for India's first geothermal plant; Manikaran), the **west coast** (Konkan), **Cambay** (Gujarat), the **Son-Narmada-Tapi** zone and the **Godavari** valley. The **Ganga** delta has none.
+
+@trap
+**Coal is a fossil fuel**, not biomass energy in the usual sense, although the source treats it as ancient biomass. **Nuclear** energy is not biomass. **Hydrogen is the least polluting fuel.** **Solar is now second after fossil fuels** in installed capacity, ahead of hydro and wind. **ISA has more than 100 members**, not 38. **Diu** (not Chandigarh) was the first solar UT, and **Cochin** the first solar airport.
+@end
+
+@heatmap
+
+@pattern
+Renewable-energy questions alternate between **concepts** (renewable vs not, the most eco-friendly or least polluting source, the Sun as the root of all energy) and **firsts and current affairs** (Cochin, Diu, Sikkim, ISA, solar's rise to second). The 2021-2025 papers lean towards **India's energy mix** and the **ISA**, so keep the installed-capacity numbers up to date.
+@end
+
+@next
+Likely next angles: India passing **50% non-fossil capacity** (2025), the **PM Surya Ghar** rooftop scheme, **PM-KUSUM**, the **Green Hydrogen Mission**, **E20** ethanol, **offshore wind** off Gujarat and Tamil Nadu, the **Khavda** park, small modular reactors in the **Nuclear Energy Mission** (2025 Budget), and **battery storage** tenders.
+@end
