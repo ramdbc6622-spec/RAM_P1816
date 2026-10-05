@@ -1,0 +1,1587 @@
+@chapter 29 | Biology Miscellaneous
+
+@intro
+The closing chapter gathers a wide mix of life-science questions: **recent Nobel work** and science policy, **health programmes and days** (Mission Indradhanush, NACO, AIDS Day), **body chemistry** (cholesterol, trans fat, antioxidants, dehydration), **microbes and fermentation**, **medical devices and specialists** (EEG, endoscope, pacemaker, heart transplant), **animals** (breeds, three-chambered hearts, pheromones, bioluminescence), **plants and agriculture** (herbicides, eutrophication, tree rings, Green Revolution) and a long list of **research institutes**, many of them in Uttar Pradesh. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 29.1 | Science News and Scientists
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023
+The 2024 Nobel Prize in Physiology or Medicine was awarded to Victor Ambros and Gary Ruvkun for discovering:
+(a) Messenger RNA
+(b) Ribosomal RNA
+(c) Transfer RNA
+(d) Micro RNAS
+@ans (d)
+@end
+
+
+The **2024 Nobel Prize in Physiology or Medicine** went to **Victor Ambros and Gary Ruvkun** for discovering **microRNA**, tiny RNA molecules that switch genes off after transcription. The 2023 prize went to Katalin Karikó and Drew Weissman for the **mRNA** advances behind COVID-19 vaccines.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I (Name of Scientist) | List-II (Area of work)
+A. Birbal Sahni | 1. Green Revolution
+B. K.C. Mehta | 2. Embryology
+C. P. Maheshwari | 3. Paleobotany
+D. M.S. Swaminathan | 4. Plant pathology
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 2 1
+(c) 2 1 3 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Consider the following as objectives of the New Science and Technology Policy, 2003 and state which is/are correctly stated, with the help of codes given below :
+1. Optimal utilisation of existing physical and knowledge resources.
+2. Development of innovative technologies.
+3. Development of systems and technologies for mitigation and management of natural hazards.
+4. Management of intellectual property.
+Codes :
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 1, 3 and 4 only
+(d) All the four
+@ans (d)
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2018
+According to J.V. Narlikar which of the following has so far NOT been considered as a science?
+(a) Astrology
+(b) Astronomy
+(c) Cosmology
+(d) Nanotechnology
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements:
+1. Scientific investigation depends on commitment to practical ideals.
+2. Honesty is particularly important in science.
+Select the correct answer from the codes given below:
+(a) Both statements 1 and 2 are correct.
+(b) Both statements 1 and 2 are incorrect.
+(c) Statement 1 is correct, 2 is not correct.
+(d) Statement 1 is correct, 2 is unpredictable.
+@ans (a)
+@end
+
+
+**Birbal Sahni** founded palaeobotany in India (the Lucknow institute bears his name); **K.C. Mehta** studied **wheat rusts**; **Panchanan Maheshwari** worked on plant **embryology**; **M.S. Swaminathan** led India's **Green Revolution**. **J.V. Narlikar** campaigned for scientific temper and showed **astrology** has no scientific basis. The **Science, Technology and Innovation Policy** (2013) followed the 2003 S&T Policy.
+
+@section 29.2 | Health Programmes and Days
+
+@pyq U.P.P.C.S. (Mains) 2010
+‘Red Ribbon Express’ is a visual and moving medium for
+(a) Awareness about AIDS
+(b) Awareness about Pulse Polio
+(c) Programme for protecting girl child
+(d) Programme for protecting all the children from malnutrition
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014; U.P.P.S.C. (GIC) 2017; U.P.P.C.S. (Mains) 2015
+‘Mission Indradhanush’ of the Union Government is related to –
+(a) Pulse production
+(b) Immunization of children against seven vaccinepreventable diseases
+(c) Skill development
+(d) Tourism promotion
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2014
+‘SANRAKSHA’ is –
+(a) Malaria Research and Control Project (Bengaluru)
+(b) AIDS Research and Control Project (Bengaluru)
+(c) T.B. Research and Control Project (New Delhi)
+(d) None of these
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+NACO is an organisation dealing with :
+(a) Cancer
+(b) Child Healthcare
+(c) AIDS
+(d) None of these
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2022
+At which one of the following place, the World Health Organisation (WHO) is going to establish Global Traditional Medicine Centre?
+(a) Johannesburg (South Africa)
+(b) Jaffna (Sri Lanka)
+(c) Haridwar ( India)
+(d) Jamnagar (India)
+@ans (d)
+@end
+
+
+@table
+Programme | Detail
+**Mission Indradhanush** (25 December 2014) | Full **immunisation** of children and pregnant women; started with **7 diseases**, now 12; intensified versions later
+**NACO** (1992) | **National AIDS Control Organisation**; the **Red Ribbon Express** train spread AIDS awareness (2007-2012)
+**Sanraksha** | AIDS research and control project in **Bengaluru**
+**WHO Global Centre for Traditional Medicine** | **Jamnagar**, Gujarat (foundation April 2022)
+**Indian Biological Data Centre** | **Faridabad**, Haryana (2022): India's first national life-science data repository
+@end
+
+@pyq U.P.P.C.S. (Pre), 2023
+The Indian Biological Data Centre is being set up in which state?
+(a) Haryana
+(b) Punjab
+(c) Uttar Pradesh
+(d) Gujarat
+@ans (a)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+1 December, is celebrated every year as –
+(a) World Environment Day
+(b) World Food Day
+(c) World AIDS Day
+(d) World Literacy Day
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Consider :
+1. World Alzheimer’s day
+2. World TB day
+3. Anti Leprosy day
+4. World AIDS day
+What is the correct sequence in which these national and international days are observed in a calendar year ?
+(a) 1, 2, 3, 4
+(b) 4, 3, 2, 1
+(c) 2, 1, 3, 4
+(d) 3, 2, 1, 4
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1992
+Match the following
+@match
+List-I | List-II
+A. 5 June | 1. Food Day
+B. 1 December | 2. Environment Day
+C. 5 September | 3. World AIDS Day
+D. 16 October | 4. Teachers Day
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 2 3 1 4
+(c) 3 2 4 1
+(d) 1 3 2 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List- I with List- II and select the correct answer using the code given below :
+@match
+List-I | List-II
+A. World T.B. Day | 1. December 1
+B. World AIDS Day | 2. January 31
+C. Anti Leprosy Day | 3. September 16
+D. International Ozone Day | 4. March 24
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 3 4 1 2
+(c) 2 3 4 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match the following pairs correctly :
+@match
+List-I | List-II
+A. World Minority Rights Day | 1. December 1
+B. World AIDS Day | 2. November 18
+C. World Animal Day | 3. October 16
+D. World Food Day | 4. October 4
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 3 2 1 4
+(c) 4 3 2 1
+(d) 2 3 4 1
+@ans (*)
+@note **Minorities Rights Day** is **18 December**, not 18 November, so no code is fully right; with that slip set aside, (a) is the intended answer. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following days and arrange them in chronological order:
+1. World Health Day
+2. National Maritime Day
+3. World Athletics Day
+4. World Red Cross Day
+Select the correct answer from the codes given below:
+(a) 4, 2, 3, 1
+(b) 2, 1, 3, 4
+(c) 2, 3, 4, 1
+(d) 3, 2, 1, 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following events and arrange them in chronological order:
+1. World Heritage Day
+2. World Thyroid Day
+3. World No Tobacco Day
+4. International Day of Light
+Select the correct answer from the codes given below:
+(a) 3, 1, 2, 4
+(b) 1, 4, 2, 3
+(c) 2, 3, 1, 4
+(d) 4, 2, 3, 1
+@ans (b)
+@end
+
+
+@table
+Date | Health day
+30 January | **Anti-Leprosy Day** (Gandhi's death anniversary; the source's list uses 31 January)
+24 March | **World TB Day** (Koch announced the TB germ, 1882)
+5 April | National Maritime Day (India)
+7 April | **World Health Day** (WHO founded 1948)
+18 April | World Heritage Day
+8 May | **World Red Cross Day** (Henry Dunant's birthday)
+7 May | World Athletics Day
+16 May | International Day of Light
+25 May | World Thyroid Day
+31 May | World No Tobacco Day
+21 September | World Alzheimer's Day
+16 October | World Food Day (FAO founded 1945)
+**1 December** | **World AIDS Day**
+@end
+
+@section 29.3 | Body Chemistry
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021; U.P. P.C.S. (Pre) 2005
+What is cholesterol among the following?
+(a) Steroid
+(b) Vitamin
+(c) Enzyme
+(d) Insecticide
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Trans fat is generally considered to be bad for human health because it lowers the level of –
+(a) HDL
+(b) LDL
+(c) Triglycerides
+(d) Insulin
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following pairs (Fat - Oil) is not correctly matched?
+(a) Mineral oil - Petroleum
+(b) Vegetable fats - Phytosterol
+(c) Mustard oil – Lubricant
+(d) Animal fats - Cholesterol
+@ans (c)
+@end
+
+
+**Cholesterol** is a **steroid** (sterol) made mainly by the liver and found only in **animal** fats; plants have **phytosterols**. **LDL** is "bad" cholesterol and **HDL** "good"; **trans fats** (partially hydrogenated oils, vanaspati) raise LDL and **lower HDL**. Mustard oil is food, not a lubricant.
+
+@pyq U.P. Lower Sub. (Pre) 2008
+The yellow colour of human urine is due to a pigment called –
+(a) Cytochrome
+(b) Urochrome
+(c) Haemochrome
+(d) Phenolichrome
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2012
+What is the role of anti-oxidants in human system?
+(a) They promote vitamin synthesis.
+(b) They prevent excessive oxidation of carbohydrates, protein and fat.
+(c) They protect cells against the effects of free-radicals.
+(d) They activate certain genes which delay the ageing process.
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Silk fibre, hairs, nails and claw are made of
+(a) Fibrin
+(b) Elastin
+(c) Keratin
+(d) Collagen
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1998; U.P.P.C.S. (Mains) 2009
+During dehydration, the substance that is usually lost by the body is :
+(a) Sugar
+(b) Calcium phosphate
+(c) Sodium chloride
+(d) Potassium chloride
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+A dehydrated person should not drink :
+(a) Tea
+(b) Coffee
+(c) Sea water
+(d) Alcohol
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+A man feels unpleasant due to humidity and heat. The reason for this is :
+(a) More sweating
+(b) Less sweating
+(c) Sweat does not evaporate due to humidity
+(d) Sweat is not formed due to humidity
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2012, 2014
+The most abundantly found organic compound in nature is –
+(a) Glucose
+(b) Fructose
+(c) Sucrose
+(d) Cellulose
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+The cause of sweet taste in fruits is :
+(a) Maltose
+(b) Ribose
+(c) Lactose
+(d) Fructose
+@ans (d)
+@end
+
+
+**Antioxidants** (vitamins C and E, beta-carotene, selenium) neutralise **free radicals**. **Urochrome** gives urine its yellow colour. In **dehydration** the body loses water and **salt (sodium chloride)**; **ORS** replaces both, and **sea water** makes it worse. **Cellulose** is the most abundant organic compound on Earth, and **fructose** makes fruits sweet.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is NOT correctly matched?
+(a) Desalination Sea water
+(b) Reverse osmosis Potable water
+(c) Denaturation Proteins
+(d) Pasteurization Tea
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. Acetic Acid | 1. Butter
+B. Lactic acid | 2. Lemon
+C. Butyric acid | 3. Vinegar
+D. Citric acid | 4. Milk
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 3 4 1 2
+(c) 4 3 1 2
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Match List-I with List-II and select the correct answer using the code given below the lists :
+@match
+List-I | List-II
+A. Compounds present in bones | 1. Lactic acid
+B. Acid present in vinegar | 2. Ethylene
+C. Souring of milk | 3. Acetic acid
+D. Ripening of fruits | 4. Calcium phosphate
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 3 4 2 1
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I | List-II
+A. Acid present in Vinegar | 1. Calcium phosphate
+B. Souring of milk | 2. Hydrochloric acid
+C. Compound present in bones | 3. Acetic acid
+D. Acid present in Gastric juice | 4. Lactic acid
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 3 4 1 2
+(c) 4 3 1 2
+(d) 2 4 1 3
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following pairs is not correctly matched?
+(a) Lactose – Sour milk
+(b) Carbonic acid – Soda water
+(c) Formic acid – Red ants
+(d) Tartaric acid – Grape juice
+@ans (a)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I | List-II
+A. Skin cancer | 1. Chloro-fluorocarbons
+B. Noise pollution | 2. Ultraviolet Rays
+C. Global warming | 3. Decibel
+D. Ozone hole | 4. Carbon dioxide
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 2 3 1 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is not correctly matched ?
+(a) Antifreeze compound – Ethylene glycol
+(b) Antiknock agent – Tetraethyl lead
+(c) Antioxidant – β-Carotene
+(d) Antibiotics – Quinine
+@ans (d)
+@end
+
+
+@section 29.4 | Microbes and Fermentation
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I | List-II
+A. Lactobacillus | 1. Alcohol production
+B. Rhizobium | 2. Citric acid formation
+C. Yeast | 3. Preparation of curd
+D. Aspergillus | 4. Nitrogen Fixation
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 1 2 3 4
+(c) 3 4 1 2
+(d) 4 3 1 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+An organism involved in the fermentation of toddy is :
+(a) Lactobacillus
+(b) Acetobacter
+(c) Saccharomyces
+(d) Penicillium
+@ans (c)
+@end
+
+
+
+@one
+Which yeast is used in the commercial production of ethanol?
+@ans Saccharomyces cerevisiae
+@end
+
+@one
+A microorganism used for alcoholic fermentation in the liquor industry is
+@ans yeast
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+An electronic diode using a semi-conductor nanoparticle material synthesised by microorganisms has been recently fabricated by Indian scientists for the first time, having utility in device miniaturization. The organism used is a/an –
+(a) Virus
+(b) Bacteria
+(c) Yeast
+(d) Protozoa
+@ans (c)
+@end
+
+
+**Yeast** (*Saccharomyces*) ferments sugars into alcohol and CO_{2} (bread, toddy, beer, ethanol); *Lactobacillus* turns milk into **curd**; *Aspergillus niger* makes **citric acid**; *Acetobacter* makes vinegar; *Penicillium* gives penicillin. Indian scientists (Agarkar Research Institute, Pune) made semiconductor **nanoparticles using yeast**.
+
+@section 29.5 | Medical Devices and Medicine
+
+@pyq U.P.P.C.S. (Pre) 2009
+Match List-I with List-II and select the correct answer with the help of code given below the lists :
+@match
+List-I | List-II
+A. EEG | 1. Muscle
+B. ECG | 2. Eyes
+C. EOG | 3. Brain
+D. EMG | 4. Heart
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 2 1
+(c) 2 3 4 1
+(d) 4 3 1 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Match List-I with List-II and select the correct answer with the help of code given below the lists :
+@match
+List-I | List-II
+A. Audiogram | 1. Heart
+B. E.C.G. | 2. Brain
+C. E.E.G. | 3. Ear
+D. Mammogram | 4. Breast
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 4 3 2 1
+(d) 3 1 2 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Diseases of inner parts of the human body are diagnosed through :
+(a) Cardiograph
+(b) Endoscope
+(c) Gyroscope
+(d) Crescograph
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009; U.P.P.C.S. (Pre) 2010; U.P.P.C.S. (Spl.) (Mains) 2008; U.P. Lower Sub. (Pre) 2009
+‘Endoscope’ used by the doctors for examining the inside of patient’s stomach, works on the principle of
+(a) Reflection of light
+(b) Dispersion of light
+(c) Refraction of light
+(d) Total internal reflection of light
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+An endoscope is–
+(a) A narrow telescope
+(b) A type of camera
+(c) A simple microscope
+(d) None of these
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+When doctor tells a person that he/she has been affected with tetraplegia, it means that he/she is suffering from paralysis of –
+(a) Right hand only
+(b) Left hand only
+(c) His both legs only
+(d) Both hands and both legs
+@ans (d)
+@end
+
+
+An **endoscope** looks inside the body through flexible **optical fibres** that work by **total internal reflection**; it is a medical instrument, not a telescope, camera or microscope. **Tetraplegia** (quadriplegia) is paralysis of all four limbs; paraplegia affects the legs.
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Electron beam therapy is a kind of radiation therapy in treatment of –
+(a) Enlarged prostate gland
+(b) Gall bladder stone
+(c) Certain type of cancer
+(d) Kidney stone
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+A dentist mirror is a –
+(a) Cylindrical mirror
+(b) Concave mirror
+(c) Convex mirror
+(d) Plane mirror
+@ans (b)
+@end
+
+
+@one
+The mirror used by a dentist to examine a patient's teeth is
+@ans concave mirror
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Recently developed technique for monitoring foetal growth is :
+(a) Microwave technique
+(b) Ultrasonics
+(c) Ultraviolet rays
+(d) X-rays
+@ans (b)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2004; U.P. P.C.S. (Pre) 2021
+The first heart transplant was performed by
+(a) Dr. William Harvey
+(b) Sir F.G. Hopkins
+(c) Dr. Louis Pasteur
+(d) Dr. Christian Barnard
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+What is Jarvik-7?
+(a) Electronic leg
+(b) Pacemaker
+(c) Artificial heart
+(d) Artificial eye
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1999
+What is the function of a pacemaker ?
+(a) It decreases the heart beat
+(b) It regulates heart beat
+(c) It increases heart beat
+(d) It accelerates blood supply to the heart
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The ‘Pace Maker’ is also knows as –
+(a) S.A. Nodes
+(b) A.V. Nodes
+(c) Bundle of His
+(d) Chordate tensional
+@ans (a)
+@end
+
+
+@table
+Milestone | Detail
+First **human heart transplant** | **Christiaan Barnard**, Cape Town, **1967**; India's first by **P. Venugopal**, AIIMS, 1994
+**Jarvik-7** | First permanent **artificial heart** (Robert Jarvik, 1982)
+**Pacemaker** | Device that **regulates the heartbeat**; the natural pacemaker is the **SA (sinoatrial) node**
+Ultrasonography | Safe monitoring of **foetal growth** (no radiation)
+Electron beam therapy | Radiotherapy for certain **cancers** (skin, surface tumours)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+A biojector is :
+(a) An H.I.V. immunisation syringe
+(b) A bio-plastic injector
+(c) A painless needle injector
+(d) A painless needleless injector
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following is not correctly matched?
+(a) Antipyretic Paracetamol
+(b) Antifoaming Polyamides Silicones
+(c) Antiseptic Aspirin
+(d) Antirachitic Calciferol (Vitamin D)
+@ans (c)
+@end
+
+
+A **biojector** gives injections without a needle using a jet of liquid. **Aspirin** is an analgesic and antipyretic, not an antiseptic; **paracetamol** is antipyretic, **silicones** are antifoaming agents and **calciferol** (vitamin D) prevents rickets. **Quinine** is an antimalarial alkaloid, not an antibiotic.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Match List-I with List-II and select the correct answer by using the code given below :
+@match
+List-I | List-II
+A. Myoglobin | 1. Radiotherapy
+B. Sarpgandha | 2. Oxygen transport
+C. Carcinoma | 3. Tranquilizer
+D. Haemoglobin | 4. Muscle cell
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 4 1 2 3
+(c) 4 3 1 2
+(d) 2 3 1 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. Bulimia | 1. Alkaloid
+B. Cholesterol | 2. Egg-Yolk
+C. Atropine | 3. Pancreas
+D. Insulin | 4. Eating disorder
+@endmatch
+Code : A B C D
+(a) 4 2 1 3
+(b) 3 1 4 2
+(c) 1 2 3 4
+(d) 2 4 1 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+The substances which can be used as anesthetic are –
+1. Chloroform
+2. Nitrous oxide
+3. Helium
+4. Carbon dioxide
+Select the correct answer using the codes given below :
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (a)
+@end
+
+@one
+The gas used in hospitals as a mild anaesthetic is
+@ans Nitrous oxide
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I with List-II and select the correct answer using the codes given below :
+@match
+List-I (Specialist) | List-II (Body Part)
+A. Cardiologist | 1. Eye
+B. Nephrologist | 2. Urinary tract
+C. Urologist | 3. Heart
+D. Oculist | 4. Kidney
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 3 1 2
+(c) 1 2 4 3
+(d) 2 1 3 4
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+Which one of the following pairs is correctly matched? (Branch of Medicine) (Human Organs)
+(a) Cardiology - Respiratory System
+(b) Gastroenterology - Urinary System
+(c) Urology - Digestive System
+(d) Neurology - Nervous System
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Which one of the following is not banned for use as performance enhancing substance by the athletes :
+(a) Human growth hormone
+(b) Testosterone
+(c) Erythroproetin
+(d) Colostrum
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Which one of the following pairs is not correctly matched?
+(a) Control centre of cell - Nucleus
+(b) Natural Rubber - Poly-isoprene
+(c) Cryolite - Ore of Aluminium
+(d) Antiseptic - Phenolphthalein
+@ans (d)
+@end
+
+
+**Colostrum** (first milk) is allowed for athletes; **growth hormone, testosterone and erythropoietin (EPO)** are banned by WADA. **Phenolphthalein** is an acid-base indicator (pink in alkali), not an antiseptic; **cryolite** is an aluminium mineral used in its extraction.
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. Testosterone | 1. Sedative drug
+B. Codeine | 2. Rubber source substance
+C. Caoutchouc | 3. Aromatic oil of clove
+D. Eugenol | 4. Hormone
+@endmatch
+Codes : A B C D
+(a) 4 1 2 3
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 2 3 4 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer using the code given below the lists :
+@match
+List-I | List-II
+A. Anthrax | 1. Disease due to a defective gene
+B. Thalassemia | 2. Womb-renting
+C. Surrogacy | 3. Science of altering genomes
+D. Transgenics | 4. A toxin used in biowarfare
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 2 3 4 1
+(c) 3 2 1 4
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which one of the following nonsteroidal contraceptive pills has been developed by CDRI, Lucknow?
+(a) Saheli
+(b) Paheli
+(c) Sangini
+(d) Kilkari
+@ans (a)
+@end
+
+
+**Saheli** (centchroman / ormeloxifene), developed by **CDRI Lucknow** (1991), is the world's first **non-steroidal** once-a-week oral contraceptive; it is in the government's family-planning basket as *Chhaya*.
+
+@section 29.6 | Animals
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following varieties of dogs is unable to bark ?
+(a) Dingo
+(b) Alsatian
+(c) Dalmatian
+(d) Labrador
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2015
+Pheromones are generally produced by –
+(a) Snakes
+(b) Birds
+(c) Bats
+(d) Insects
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Iodine is obtained from –
+(a) Laminaria
+(b) Polysiphonia
+(c) Chara
+(d) Spirogyra
+@ans (a)
+@end
+
+
+@one
+Which one of the following is a substance that is obtained abundantly from the sea and is given in a specific deficiency disease?
+@ans Iodine
+@end
+
+**Pheromones** are chemical signals released mostly by **insects** to attract mates or mark trails (used in pest traps). The **Dingo** (Australia) and **Basenji** dogs **do not bark**; they howl or yodel. **Iodine** is extracted from brown seaweeds such as ***Laminaria*** (kelp).
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004
+Match List-I with List-II and select your answer from the codes given below :
+@match
+List – I | List – II
+A. The bird that never makes its nest | 1. Lizard
+B. The animal that shakes off its tail | 2. Chimpanzee
+C. Largest living creature | 3. Cuckoo
+D. Most intelligent animal | 4. Blue whale
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 4 2
+(c) 4 3 2 1
+(d) 1 3 2 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following plant fibre is obtained from the stem :
+(a) Cotton
+(b) Coir
+(c) Sunn hemp
+(d) Kapak
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+During the metamorphosis of frog –
+(a) Hind legs disappear
+(b) Ingestion of food is slowed down
+(c) Skin becomes rough
+(d) Intestine is shortened
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Bull semen for the purpose of artificial insemination is stored in :
+(a) Ice
+(b) Liquid Oxygen
+(c) Liquid Nitrogen
+(d) Liquid Carbon Dioxide
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which of the following is high milk yielding variety of cow?
+(a) Dorset
+(b) Holstein
+(c) Sahiwal
+(d) Red Sindhi
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following is not correctly matched? Animal Breed
+(a) Cow – Deoni
+(b) Goat – Barbari
+(c) Buffalo – Bhadawari
+(d) Sheep – Gir
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following is not correctly matched? Animal Breed
+(a) Buffalo – Bhadawari
+(b) Cow – Sindhi
+(c) Goat – Jamunapari
+(d) Sheep – Tharparkar
+@ans (d)
+@end
+
+
+@table
+Animal breed | Type
+**Holstein Friesian**, Jersey | High-yield exotic **cows**
+**Sahiwal, Gir, Red Sindhi, Tharparkar, Deoni**, Hariana | Indian **cow** breeds
+**Murrah**, **Bhadawari** (UP), Jaffarabadi | **Buffalo** breeds
+**Jamunapari** (Etawah, UP), **Barbari** (Agra-Mathura, UP), Beetal | **Goat** breeds
+Marwari, Chokla, Nali | Sheep breeds
+**Angora** | **Rabbit** (Angora wool); Angora goat gives mohair
+@end
+
+The cow's **gir** and **Tharparkar** breeds are wrongly paired with sheep in the two 2021 questions. Bull semen for **artificial insemination** is frozen in **liquid nitrogen** (-196°C). During a frog's **metamorphosis** the herbivorous tadpole's long **intestine shortens** as it becomes carnivorous, the tail is absorbed and legs grow.
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following animals have three chambered heart?
+(a) Monkey
+(b) Crocodile
+(c) Fish
+(d) Frog
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Three chambered heart is found in :
+(a) Mammals
+(b) Birds
+(c) Amphibians
+(d) Pisces
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which out of the following does not have a gallbladder?
+(a) Camel
+(b) Giraffe
+(c) Rat
+(d) Fish
+@ans (*)
+@note **Rats**, **horses**, **camels** and deer have no gall bladder, and giraffes often lack one; most fish have one. With several right options, the source marks the question (*).
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which was the first animal to travel to space?
+(a) A mouse
+(b) A dog
+(c) A cockroach
+(d) A mosquito
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+Angora wool is obtained from a breed of –
+(a) Sheep
+(b) Fox
+(c) Rabbit
+(d) Tibetan Deer
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+The bear commonly performing on streets is –
+(a) Sloth bear
+(b) Sun bear
+(c) Brown bear
+(d) Cat bear
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following has the largest brain in proportion to its body size?
+(a) Ant
+(b) Elephant
+(c) Dolphin
+(d) Human Being
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following are useful in the detection of landmines :
+(a) Bee
+(b) Wasp
+(c) Butterfly
+(d) Moth
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which animal can not digest fibres properly ?
+(a) Goat
+(b) Cow
+(c) Elephant
+(d) Pig
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is a secretion from the body of an insect ?
+(a) Pearl
+(b) Coral
+(c) Lac
+(d) Gum
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2014
+Some marine animals and insects emit light from their body in the darkness. This phenomenon is known as
+(a) Phosphorescence
+(b) Bioluminescence
+(c) Both (a) and (b)
+(d) None of these
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Insectivorous fish used for mosquito control is :
+(a) Hilsa
+(b) Labeo
+(c) Gambusia
+(d) Mystus
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Prallethrin is a common :
+(a) Analgesic
+(b) Muscle relaxant
+(c) Mosquito repellent
+(d) Hair dye
+@ans (c)
+@end
+
+
+@table
+Fact | Detail
+First animal in orbit | Dog **Laika** (Sputnik 2, 1957)
+Street-performing bear | **Sloth bear** (the practice is now banned; Agra Bear Rescue Facility)
+Largest brain relative to body | Small animals like the **ant** (about 1/7 of body weight)
+Landmine detection | **Honeybees** (trained by smell), also rats
+Poor fibre digestion | **Pig** (simple stomach)
+Insect secretion | **Lac** (pearl from oysters, coral from polyps, gum from plants)
+Light from living things | **Bioluminescence** (fireflies, deep-sea fish)
+Mosquito-eating fish | ***Gambusia*** (mosquito fish), guppy
+Mosquito repellent chemical | **Prallethrin**, allethrin (synthetic pyrethroids)
+@end
+
+@section 29.7 | Plants and Agriculture
+
+@pyq U.P.P.C.S. (Mains) 2002
+Assertion (A) : Herbicides can destroy weeds without harming useful plants.
+Reason (R) : Herbicides are absorbed in different rates by weeds and crop plants.
+Select the correct answer using the code given below
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1999
+2, 4-D is :
+(a) An insecticide
+(b) An explosive
+(c) A fungicide
+(d) A herbicide
+@ans (d)
+@note The source prints the option labels out of order ("(b) An explosive" and "(b) A herbicide"); the key (d) is the herbicide.
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+The herbicide generally used for paddy is–
+(a) DDT
+(b) 1 Dalapon
+(c) 2, 4-D
+(d) 1 Ammonium Sulphamate
+@ans (c)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following substances is a herbicide?
+(a) Chlorpyrifos
+(b) Carbendazim
+(c) Quinolphos
+(d) Butachlor
+@ans (d)
+@end
+
+**2,4-D** (a synthetic auxin) kills broad-leaved weeds in cereals and paddy; **butachlor** is a pre-emergence paddy herbicide. **Chlorpyrifos** and **quinalphos** are insecticides and **carbendazim** a fungicide. Herbicides are selective because weeds and crops absorb and break them down at **different rates**.
+
+@pyq U.P.P.C.S. (Pre) 1998
+The largest flower in the world is
+(a) Lotus
+(b) Sunflower
+(c) Rafflesia
+(d) Glory Lily
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which one is not required for the germination of seed?
+(a) Light
+(b) Humidity
+(c) Proper temperature
+(d) Oxygen
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following is a common adulterant of mustard oil seeds ?
+(a) Prickly seeds
+(b) Poppy seeds
+(c) Cumin seeds
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following is used in World War-I ?
+(a) Luciste
+(b) Mustard gas
+(c) Methyl cyanide
+(d) Phosgene
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+In fruits and vegetables, wax emulsion is used for –
+(a) Creating shine on fruits and vegetables
+(b) Extension of storage life
+(c) Enhancing the ripening process
+(d) None of the above
+@ans (b)
+@end
+
+
+The **largest flower** is ***Rafflesia arnoldii*** (Sumatra, up to 1 m). Seeds need **water, oxygen and the right temperature** to germinate, but usually **not light**. Mustard oil is often adulterated with **argemone** seeds (the source keys poppy, as argemone is the "prickly poppy"). **Mustard gas** was used in **World War I**. Wax coating extends the **storage life** of fruits.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Consider the statements :
+Assertion (A) : Among various types of soils, clay retains highest amount of water.
+Reason (R) : Clay has pore spaces of large size.
+Select the correct answer using the codes given below :
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019, 2020
+With reference to Eutrophication, which of the following statements is/are correct?
+1. It is a phenomenon of nutrient enrichment of a water body.
+2. It depletes dissolved oxygen of the water.
+Select the correct answer using the code given below :
+Code :
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Which of the following material is bio-degradable?
+(a) Plastic cups
+(b) Wool
+(c) Glass bottle
+(d) Aluminium foil
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Auxanometer is used
+(a) To measure the rate of photosynthesis
+(b) To measure the rate of growth
+(c) To measure rate of osmosis
+(d) To measure the loss of energy
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+The age of the tree, in years, can be ascertained by:
+(a) Its weight
+(b) Its height
+(c) The number of its annular rings
+(d) Length of its root
+@ans (c)
+@end
+
+
+**Clay** holds the most water because its tiny particles leave **many very small pores**; the Reason (large pores) is false. **Eutrophication** is nutrient enrichment of water (from fertiliser and sewage) causing algal blooms that **deplete oxygen**. Wool decomposes; plastic, glass and aluminium do not. An **auxanometer** measures plant growth, and **annual rings** give a tree's age (*dendrochronology*).
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+High yielding advanced seeds were used in ‘Green Revolution’, for which the necessary is
+(a) Less fertilizer and less water
+(b) More fertilizer and less water
+(c) Less fertilizer and more water
+(d) More fertilizer and more water
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+The gas, which is emitted from the paddy fields:
+(a) Ethane
+(b) Methane
+(c) Nitrogen
+(d) All of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+‘Dapog’ method of rice nursery was developed in
+(a) China
+(b) Indonesia
+(c) Japan
+(d) Philippines
+@ans (d)
+@end
+
+
+The **Green Revolution** (from 1966-67) used **high-yielding dwarf varieties** that needed **more fertiliser and more water**. Waterlogged **paddy fields release methane**. The **Dapog** rice nursery method came from the **Philippines**. The **Destructive Insects and Pests Act** (1914) still governs plant quarantine in India.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+The Destructive Insects and Pests Act (DIPA) was passed in the year ________.
+(a) 1957
+(b) 1929
+(c) 1946
+(d) 1914
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Match List-I with List-II select the correct answer using the codes given below :
+@match
+List-I | List - II
+A. Silicon Carbide | 1. Photosynthesis
+B. Carbon Fibre | 2. Refrigerator
+C. Carbon dioxide | 3. Artificial Diamond
+D. Dichlorodifluoromethane | 4. Aircraft
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 3 4 1 2
+(c) 2 3 1 4
+(d) 3 2 1 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which of the following pairs is NOT correctly matched ?
+(a) Oxytocin – Hormone
+(b) Aspartame – Synthetic sweetener
+(c) Neoprene – Specialized rubber
+(d) Rayon – Modified starch
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is not correctly matched?
+(a) Wool – A protein
+(b) Rayon – Modified starch
+(c) Rubber – A natural polymer
+(d) Fullerene – An allotrope of carbon
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 2010
+Which one of the following is not properly matched?
+(a) Gene splicing and Recombinant DNA technology - Genetic Engineering
+(b) A diagnostic test to detect the presence or absence of genetic disorders in unborn child - Amniocentesis
+(c) A process by which living organisms break down complex matter into simpler constituents - Biodegradation
+(d) An inbuilt time keeping system in all organisms - Biomass
+@ans (d)
+@end
+
+An organism's built-in timekeeper is its **biological clock** (circadian rhythm; Nobel 2017), not biomass.
+
+@section 29.8 | Research Institutes
+
+@pyq U.P. R.O./A.R.O. ( Mains) 2017
+In which of the following places is Indian Vegetable Research Institute situated?
+(a) Agra
+(b) Kanpur
+(c) Lucknow
+(d) Varanasi
+@ans (d)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following is not correctly matched?
+(Institute) – (Location)
+(a) National Centre of Organic Farming – Ghaziabad
+(b) Indian Institute of Pulses Research – Kanpur
+(c) Indian Institute of Vegetable Research – Gorakhpur
+(d) Indian Institute of Sugarcane Research – Lucknow
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013; U.P. P.C.S. (Pre) 2016
+Indian Veterinary Research Institute is located at :
+(a) Bareilly
+(b) Mathura
+(c) Karnal
+(d) Patna
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+CDRI (India) is located at :
+(a) Allahabad
+(b) Delhi
+(c) Bangalore
+(d) Lucknow
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Central Institute of Medicinal and Aromatic Plants is situated at which of the following places?
+(a) Lucknow
+(b) Varanasi
+(c) Gorakhpur
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is an unmatched pair ?
+(a) Central Drug Research Institute - Lucknow
+(b) Central Electrochemical Research Institute - Kolkata
+(c) Centre for Cellular and Molecular Biology - Hyderabad
+(d) Central Salt Research Institute - Bhavnagar
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Where is the High Security Animal Disease Laboratory is located in India ?
+(a) Hyderabad
+(b) Bangalore
+(c) Bhopal
+(d) Mumbai
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2005
+Among Lucknow based National Science Institutes, identify the non C.S.I.R. Institute
+(a) CIMAP (Central Institute of Medicinal and Aromatic Plants)
+(b) NBRI (National Botanical Research Institute)
+(c) BSIP (Birbal Sahani Institute of Palaeobotany)
+(d) CDRI (Central Drug Research Insitute)
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+The National Institute for the Mentally Handicapped is situated at
+(a) Hyderabad
+(b) New Delhi
+(c) Kolkata
+(d) Chennai
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2001
+Match List-I with List-II and select the correct answer using the code given below in the lists :
+@match
+List-I (Institution) | List- II (Location)
+A. Central Drug Research Institute | 1. Allahabad
+B. Central Leprosy Institute | 2. Kanpur
+C. Motilal Nehru National Institute of Technology | 3. Agra
+D. Indian Institute of Sugar Technology | 4. Lucknow
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 4 2
+(c) 4 3 1 2
+(d) 2 4 3 1
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which of the following pairs is not correctly matched?
+(Institute) – (Location)
+(a) Indian Vegetable Research Institute – Varanasi
+(b) Central Institute of Subtropical Horticulture – Srinagar
+(c) Indian Institute of Sugarcane Research – Lucknow
+(d) Indian Institute of Pulse Research – Kanpur
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. ( Mains) 2017
+Where in Uttar Pradesh is Artificial Limbs Manufacturing Corporation situated?
+(a) Varanasi
+(b) Prayagraj
+(c) Kanpur
+(d) Agra
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+DNA Fingerprinting and Diagnostics Research Centre is situated at :
+(a) Pune
+(b) New Delhi
+(c) Hyderabad
+(d) Kolkata
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2009
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. F.A.O. Headquarters | 1. Shimla
+B. Central Agmark Laboratory | 2. Cuttack
+C. Central Rice Research Institute | 3. Rome
+D. Central Potato Research Institute | 4. Nagpur
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 2 1
+(c) 4 3 1 2
+(d) 3 4 1 2
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Headquarters of International Potato Centre (CIP) is situated in :
+(a) Lima, Peru
+(b) Shimla, India
+(c) Dakar, Senegal
+(d) Dublin, Ireland
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Identify a mismatch among the following pairs :
+(a) NBRI-Kolkata
+(b) IISR - Lucknow
+(c) NPL - New Delhi
+(d) IISc - Bangalore
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+National Bureau of Plant Genetic Resources is located at–
+(a) Hyderabad
+(b) Bangalore
+(c) New Delhi
+(d) Srinagar
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (GIC) 2017
+ICAR’s Central Institute for Research on Goats is established at :
+(a) Bharatpur
+(b) Makhdoom, Mathura
+(c) Bikaner
+(d) Aligarh
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+In which Indian city has the first dianosaurium been opened ?
+(a) Mumbai
+(b) Jalandhar
+(c) Hyderabad
+(d) Ahmedabad
+@ans (c)
+@end
+
+
+@table
+Institute | Location
+**Indian Institute of Vegetable Research** | **Varanasi** (UP)
+**Indian Institute of Pulses Research** | **Kanpur** (UP)
+**Indian Institute of Sugarcane Research** | **Lucknow** (UP)
+Indian Institute of Sugar Technology | **Kanpur** (UP) (now National Sugar Institute)
+**Central Institute of Subtropical Horticulture** | **Lucknow** (UP)
+**Indian Veterinary Research Institute** | **Izatnagar, Bareilly** (UP)
+**Central Institute for Research on Goats** | **Makhdoom, Mathura** (UP)
+National Centre of Organic Farming | **Ghaziabad** (UP)
+**CDRI**, **CIMAP**, **NBRI**, **BSIP**, IITR | **Lucknow** (BSIP is under DST, not CSIR)
+National JALMA Institute for Leprosy | **Agra** (UP)
+**ALIMCO** (Artificial Limbs Manufacturing Corporation) | **Kanpur** (UP)
+MNNIT | **Prayagraj** (UP)
+Central Electrochemical Research Institute | **Karaikudi** (Tamil Nadu), not Kolkata
+Central Salt and Marine Chemicals Research Institute | **Bhavnagar** (Gujarat)
+CCMB, **CDFD** | **Hyderabad**
+High Security Animal Disease Laboratory | **Bhopal**
+National Institute for the Mentally Handicapped (now NIEPID) | **Secunderabad / Hyderabad**
+NBPGR | **New Delhi**
+Central Rice Research Institute | **Cuttack**
+Central Potato Research Institute | **Shimla**
+International Potato Centre (CIP) | **Lima, Peru** (South Asia regional centre planned at Agra)
+First **dinosaurium** | B.M. Birla Science Centre, **Hyderabad**
+@end
+
+@up UP link: UP hosts more central agricultural and biological research institutes than almost any other state: the pulses, vegetable, sugarcane, subtropical horticulture, goat and veterinary institutes (Kanpur, Varanasi, Lucknow, Mathura, Bareilly), and a cluster of CSIR laboratories in **Lucknow**. The **International Potato Centre's South Asia Regional Centre** was approved for **Agra** in 2023.
+
+@trap
+**MicroRNA** won the 2024 Nobel. **Mission Indradhanush = immunisation.** **1 December = World AIDS Day**, **24 March = TB Day**. **Cholesterol is a steroid**; trans fat **lowers HDL**. **Yeast = alcohol, Lactobacillus = curd, Aspergillus = citric acid.** **Endoscope = total internal reflection.** **Christiaan Barnard** did the first heart transplant; **Jarvik-7** = artificial heart; natural pacemaker = **SA node**. **2,4-D and butachlor are herbicides.** **Clay** has small pores. **IIVR = Varanasi**, **IVRI = Bareilly**, **CISH = Lucknow**, **CIRG = Makhdoom**, **ALIMCO = Kanpur**.
+@end
+
+@heatmap
+
+@pattern
+This miscellany is the biggest single group in the biology section. Its two steady themes are **institutes and their locations** (many in UP, asked in RO/ARO and Mains papers) and **multi-pair matches** of chemicals, devices and days. Recent papers (2022-2024) added the Nobel for microRNA, the Indian Biological Data Centre, the WHO traditional medicine centre and health days in chronological order.
+@end
+
+@next
+Likely next angles: the **2025 Nobel** in medicine (peripheral immune tolerance), the **WHO Pandemic Agreement** (2025), **U-WIN** and **Mission Indradhanush** updates, **ABHA** digital health IDs, the **International Potato Centre** at Agra, **organ transplant** rules, **antimicrobial resistance**, and new **ICAR** varieties from UP institutes.
+@end

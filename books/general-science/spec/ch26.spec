@@ -86,7 +86,17 @@ Tests | **ELISA** (screening), Western blot (confirmation)
 Common cold | **Rhinovirus**
 @end
 
-@q 49:22-23
+@src 49:22
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following States was in the news for the outbreak of Nipah virus disease in May-June, 2018?
+(a) Bihar
+(b) Kerala
+(c) Haryana
+(d) Gujarat
+@ans (b)
+@end
+
+@q 49:23
 
 @q 49:24-28
 

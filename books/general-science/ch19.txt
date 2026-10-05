@@ -195,15 +195,14 @@ Which one of the following fertilizers leaves maximum acidity in the soil ?
 @end
 
 
-@pyq 
+@pyq U.P.P.C.S. (Pre) 2017
 Urea is
 (a) A nitrogen containing organic compound
 (b) A nitrogen containing inorganic compound
 (c) A plant hormone
-(d) An Endergonic compound U.P.P.C.S. (Pre) 2017
+(d) An Endergonic compound
 @ans (a)
 @end
-
 
 
 @one

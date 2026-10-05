@@ -86,7 +86,7 @@ def tagtext(tags):
         lines.append(buf)
     out = []
     for t in lines:
-        out += [x.strip() for x in re.split(r"[|;]", t) if x.strip()]
+        out += [x.strip(" ,") for x in re.split(r"[|;]", t) if x.strip(" ,")]
     return re.sub(r";\s*(\((Pre|Mains|Spl\.?)\))", r" \1", "; ".join(out))
 
 

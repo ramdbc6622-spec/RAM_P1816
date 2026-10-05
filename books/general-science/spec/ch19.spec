@@ -60,7 +60,15 @@ Detergents clean because they **lower** the surface tension of water, letting it
 
 @q 31:1-3
 
-@q 31:4
+@src 31:4
+@pyq U.P.P.C.S. (Pre) 2017
+Urea is
+(a) A nitrogen containing organic compound
+(b) A nitrogen containing inorganic compound
+(c) A plant hormone
+(d) An Endergonic compound
+@ans (a)
+@end
 
 @src1 31:1
 @src1 31:2
