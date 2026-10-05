@@ -1,0 +1,293 @@
+@chapter 3 | Latitudes, Longitudes, Tropics and Seasons
+
+@intro
+This is the **map-reading and time** chapter. You need to know: 15° of longitude = **1 hour**, so 1° = **4 minutes**; time **gains** going east and **loses** going west; the **International Date Line** at 180°; which countries the **Equator** and the **Tropics** cross; and what happens at the **solstices and equinoxes**. Most of these questions can be answered with one line of arithmetic. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 3.1 | Latitudes, Longitudes and Time
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Point of intersection of the Equator and the Prime Meridian is located at
+(a) Atlantic Ocean
+(b) Ghana
+(c) Morocco
+(d) Pacefic Ocean
+@ans (a)
+@end
+
+The point 0°, 0° lies in the **Gulf of Guinea** (Atlantic Ocean), south of Ghana. It is sometimes jokingly called "**Null Island**".
+
+@pyq U.P.P.C.S. (Mains) 2011
+Among the following cities which one lies in the farthest North ?
+(a) Beijing
+(b) New Delhi
+(c) New York
+(d) Rome
+@ans (d)
+@end
+
+Latitudes: **Rome about 41.9°N**, New York about 40.7°N, Beijing about 39.9°N, New Delhi about 28.6°N. European cities lie much farther north than their mild climate suggests, thanks to the North Atlantic Drift.
+
+@pyq U.P.P.C.S. (Pre) 2008
+When, there is mid-day in the Greenwich, local time of a place is 5 O'clock evening. At which of the following longitude (meridians) that place will be located –
+(a) 75o E
+(b) 75o W
+(c) 15o E
+(d) 150o E
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+The local time of a place is 6:00 AM when the Greenwich Mean Time (GMT) is 3:00 AM, what is the longitude of the place ?
+(a) 45o West
+(b) 45° East
+(c) 120° East
+(d) 120° West
+@ans (b)
+@end
+
+@table
+Time rule | Working
+360° = 24 hours | So 15° = 1 hour and 1° = 4 minutes
+Going east of Greenwich | Local time is **ahead** (add 4 min per degree)
+Going west of Greenwich | Local time is **behind** (subtract 4 min per degree)
+Example: GMT 12:00, local 17:00 | 5 h × 15° = **75° E**
+Example: GMT 03:00, local 06:00 | 3 h × 15° = **45° E**
+Indian Standard Time | 82°30' E (Mirzapur, UP), so GMT + 5 h 30 min
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following longitudes along with the Prime Meridian forms a great circle on the globe.
+(a) 0o
+(b) 90o E
+(c) 90o W
+(d) 180o
+@ans (d)
+@end
+
+A **great circle** divides the globe into two equal halves. Any meridian together with its opposite meridian forms one. The **Equator** is the only parallel that is a great circle. The shortest route between two points on a sphere follows a great circle, which is why long-haul flights take polar routes.
+
+@pyq U.P.P.C.S. (Pre) 2001
+In the New Millennium, the first ray of the Sun was seen in which of the following Meridians of India –
+(a) 2o 30'W
+(b) 82o 30'E
+(c) 92o 30'W
+(d) 93o 30'E
+@ans (d)
+@end
+
+The first sunrise of the new millennium in India was seen on **Katchal Island** (Nicobar), at about 93°30'E. On the mainland, **Dong** in Arunachal Pradesh sees the first sunrise.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008; U.P. U.D.A./L.D.A. (Mains) 2010
+The Prime Meridian passes through
+1. Algeria
+2. France
+3. Nigeria
+4. Portugal
+Use the code below to select the correct answer.
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 3
+@ans (a)
+@end
+
+The **Prime Meridian** (Greenwich, 1884) passes through the **UK, France, Spain, Algeria, Mali, Burkina Faso, Togo and Ghana**, and then Antarctica. It misses Portugal (to the west) and Nigeria (to the east).
+
+@pyq U.P.P.C.S. (Pre) 1992
+Statement (A) : Time interval at the date-line is 12 hours from the Greenwich.
+Reason (R) : Date-line is situated at 180o meridian.
+Using the following options choose the correct answer–
+(a) (A), (R) both are correct, and (R) is the correct explanation of (A).
+(b) (A) and (R) both are correct, but (R) is not the correct explanation of (A).
+(c) (A) is correct, but (R) is false.
+(d) (R) is correct, but (A) is false.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+There is no minimum distance between two places on the globe :
+(a) 45o N. Lat
+(b) 45o S. Lat
+(c) Prime Meridian
+(d) International Date Line
+@ans (d)
+@end
+
+The **International Date Line** mostly follows 180° but **zigzags** around land (near the Bering Strait, the Aleutians, and the Kiribati-Samoa-Tonga region) so that no country is split between two dates. Crossing it **westward adds a day**, and crossing it **eastward subtracts a day**.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Captain of a ship moving Westward records the local time of 10-00 hrs Monday at 90o W. If the speed of the ship is the same as the speed of the rotation of the earth, which of the following local time and day would be found by the captain at International date line:
+(a) 04.00 Monday
+(b) 10.00 Monday
+(c) 10.00 Tuesday
+(d) 16.00 Tuesday
+@ans (b)
+@end
+
+A ship sailing west as fast as the Earth turns east keeps the Sun at the same point in its sky, so local time on board stays at **10:00**. It reaches the date line still on **Monday** (just before it would change to Tuesday on crossing).
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which path must be followed by a Ship to move from one place to another in the least time ?
+(a) Sea or Ocean Current
+(b) Sea-breeze
+(c) Meridian
+(d) Longitude
+@ans (c)
+@end
+
+@section 3.2 | The Equator and the Tropics
+
+@pyq U.P. P.C.S. (Pre) 2020
+The equator does NOT pass through which of the following Countries?
+1. Gabon
+2. Somalia
+3. Equatorial Guinea
+4. Rwanda
+Select the correct answer using the codes given below:
+Codes :
+(a) 1 and 4
+(b) 2 and 4
+(c) 2 and 3
+(d) 3 and 4
+@ans (d)
+@end
+
+@one U.P.P.C.S (Pre) 2010
+Which of the following countries are located on the Equator? 1. Brunei 2. Colombia 3. Kenya 4. Venezuela
+@ans 2 and 3
+@end
+
+@one U.P.P.C.S. (Pre) 2008; U.P.P.C.S. (Mains) 2007
+The equator passes through
+@ans Kenya
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The Equator, Tropic of Cancer and Tropic of Capricorn, all the three pass through which one of the following Continents ?
+(a) Africa
+(b) Asia
+(c) North America
+(d) South America
+@ans (a)
+@end
+
+@table
+Line | Countries crossed (land)
+Equator (13) | Sao Tome and Principe, Gabon, Rep. of Congo, DR Congo, Uganda, Kenya, Somalia, Maldives (waters), Indonesia, Kiribati, Ecuador, Colombia, Brazil
+Tropic of Cancer (23.5°N) | Mexico, Bahamas, Western Sahara, Mauritania, Mali, Algeria, Niger, Libya, Egypt, Saudi Arabia, UAE, Oman, India, Bangladesh, Myanmar, China, Taiwan
+Tropic of Capricorn (23.5°S) | Chile, Argentina, Paraguay, Brazil, Namibia, Botswana, South Africa, Mozambique, Madagascar, Australia, Tonga
+Continents crossed by all three | **Africa** only
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The Tropic of Cancer does not pass through –
+(a) Egypt
+(b) India
+(c) Iran
+(d) Myanmar
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1997
+Tropic of Capricorn does not pass through –
+(a) Bolivia
+(b) Paraguay
+(c) Argentina
+(d) Brazil
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 2003
+Think about the following countries 1. Australia 2. Namibia 3. Brazil 4. Chile. Tropic of Capricorn passes through which of the following countries.
+@ans 1, 2, 3 and 4
+@end
+
+@trap
+**Iran is not on the Tropic of Cancer.** The line passes south of it through the Gulf and Oman. In India it crosses **8 states**: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. **Bolivia** lies just north of the Tropic of Capricorn. **Rwanda** lies just south of the Equator, and **Equatorial Guinea**, despite its name, lies north of it on the mainland.
+@end
+
+@section 3.3 | Solstices, Equinoxes and Seasons
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004; U.P.P.C.S. (Pre) 1994
+Equinox, the two periods in the year when day and night are equal, occurs on :
+(a) 21 March and 23 September
+(b) 22 February and 23 August
+(c) 15 October and 23 April
+(d) 22 July and 22 December
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which of the following is the longest day of the year ?
+(a) 22 July
+(b) 25 December
+(c) 21 June
+(d) 23 March
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2010
+Summer Solstice occures every year on
+@ans 21 June
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+On which of the following dates your shadow at noon is the smallest ?
+(a) December 25
+(b) March 21
+(c) June 21
+(d) February 14
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+At the time the summer solstice in the northern hemisphere the length of the day will be 12 hours at the:
+(a) Tropic of Cancer
+(b) Tropic of Capricorn
+(c) Arctic Circle
+(d) Equator
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+At the Winter Solstice the noon altitude of the Sun at the Tropic of Cancer is :
+(a) 23.5o
+(b) 43.0o
+(c) 47.0o
+(d) 66.5o
+@ans (b)
+@end
+
+On **22 December** the Sun is overhead at the **Tropic of Capricorn** (23.5°S). The Tropic of Cancer is 47° away, so the noon Sun there stands at **90° − 47° = 43°**.
+
+@pyq U.P.P.C.S. (Pre) 1990
+The midnight sun appears at
+(a) North Pole
+(b) South Pole
+(c) Equator
+(d) Tropic of Cancer
+@ans (a) & (b)
+@end
+
+@table
+Date (approx.) | Event | Sun overhead | Northern Hemisphere
+21 March | Vernal (spring) equinox | Equator | Day = night everywhere
+21 June | Summer solstice | Tropic of Cancer | Longest day; shortest noon shadow; midnight sun north of Arctic Circle
+23 September | Autumnal equinox | Equator | Day = night everywhere
+22 December | Winter solstice | Tropic of Capricorn | Shortest day; midnight sun south of Antarctic Circle
+3-4 January | Perihelion | - | Earth nearest the Sun (yet it is winter in the north)
+@end
+
+**Norway** is called the "Land of the Midnight Sun". The poles have about **six months** of daylight and six months of night.
+
+@heatmap
+
+@pattern
+About half of these questions can be **calculated** (time from longitude, Sun's altitude) and half are **lists** (countries crossed by the Equator or the Tropics, solstice dates). Practise the 4-minutes-per-degree rule until it is automatic. In the country-list questions, the odd one out is usually a neighbour just off the line, such as Iran, Bolivia or Rwanda.
+@end
+
+@next
+Likely next angles: the Tropic of Cancer's **Indian states**; the **IST** debate and the meridian at Mirzapur; **leap seconds** (to be abolished by 2035); **time-zone** oddities (China uses one zone; Nepal is GMT + 5:45); and Equator questions naming the **Maldives** or **Kiribati**.
+@end

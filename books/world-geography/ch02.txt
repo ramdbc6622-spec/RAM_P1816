@@ -1,0 +1,214 @@
+@chapter 2 | The Earth and the Moon
+
+@intro
+This chapter covers the Earth as a planet (its tilt, composition, light-time from the Sun, and the parallelism of its axis) and its only natural satellite, the **Moon**. The Moon questions test simple physics: why we always see the same face, why sound cannot travel there, its phases, its distance, and why things weigh less on it. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 2.1 | The Earth
+
+@pyq U.P.P.C.S. (Pre) 1999
+In the form of the organism, the Scientific name of Earth is –
+(a) Cow
+(b) Sita
+(c) Green Planet
+(d) Harmij
+@ans (c)
+@end
+
+The Earth is also called the **Blue Planet**, because about 71% of its surface is water, and the **Green Planet**, because of its life.
+
+@pyq U. P.U.D.A./L.D.A. (Pre) 2013
+A chemical element found in abundance in the Earth's crust is–
+(a) Oxygen
+(b) Aluminium
+(c) Iron
+(d) Silicon
+@ans (a)
+@end
+
+@table
+Element | Share of Earth's crust (by weight) | Note
+Oxygen | About 46.6% | Most abundant in the crust
+Silicon | About 27.7% | Second; with oxygen it forms silicate rocks
+Aluminium | About 8.1% | Most abundant metal in the crust
+Iron | About 5.0% | Most abundant element in the whole Earth, by mass
+Calcium, Sodium, Potassium, Magnesium | About 2-4% each | -
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Time taken by light emitted from sun to reach earth is –
+(a) 2 minutes
+(b) 1 minutes
+(c) 8 minutes
+(d) 16 minutes
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+The Earth's axis of rotation (polar axis) is always inclined at an angle of
+(a) 23.0o from the elliptic axis
+(b) 23.1o from the elliptic axis
+(c) 24.5o from the elliptic axis
+(d) 23.5o from the elliptic axis
+@ans (d)
+@end
+
+The axis is tilted about **23.5°** from the perpendicular to the plane of the orbit (the ecliptic). Put the other way, it makes **66.5°** with the orbital plane. The tilt, together with the **parallelism** of the axis, causes the seasons.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Consider the following statements and select the correct answer from the codes given below:
+1. The northern end of the earth's axis is called North Pole.
+2. 45o latitude is half of the length of the equator.
+3. There is parallelism of the earth's axis.
+4. The earth's speed of revolution is faster in aphelion position.
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 3
+@ans (d)
+@end
+
+Statement 2 is wrong because a parallel's length is the equator's length × cos(latitude). At 45° that is about **0.71**, not 0.5. The **60°** parallel is half the equator's length. Statement 4 is wrong because the Earth moves **fastest at perihelion** (January) and slowest at aphelion (July), as Kepler's second law says.
+
+@pyq U.P.P.C.S. (Pre) 1995
+A Ball thrown outside from an artificial satellite revolving around the Earth will –
+(a) Go to the Sun
+(b) Go to the Moon
+(c) Fall on the Earth
+(d) Revolve around the Earth in the same orbit with the same time period as satellite
+@ans (d)
+@end
+
+@table
+Earth fact | Value
+Equatorial / polar diameter | About 12,756 km / 12,714 km (oblate spheroid, a "geoid")
+Rotation (sidereal day) | 23 h 56 min 4 s
+Revolution | About 365 days 6 h (hence the leap year)
+Mean orbital speed | About 29.8 km per second
+Axial tilt | About 23.5°
+Surface | About 71% water, 29% land
+@end
+
+@section 2.2 | The Moon
+
+@pyq U.P.P.C.S. (Pre) 2006
+Consider the following statements and answer the question with the help of codes given below :
+Assertion (A) : Only one side of the moon's surface is visible from the earth.
+Reason(R) : The period of rotation of the moon on its axis is equal to the period of its revolution around the earth.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+The Moon is **tidally locked**. It turns once on its axis in the time it takes to go round the Earth, about **27.3 days**, so the same face always points towards us. Small wobbles (libration) let us see about **59%** of its surface over time.
+
+@pyq U.P.P.C.S. (Mains) 2004
+Unlike the fluid core of the Earth, the core of the moon is–
+(a) Plasma
+(b) Volatile gas
+(c) Viscous liquid
+(d) Solid
+@ans (c)
+@note The key follows the source. Seismic and orbital data now suggest the Moon has a small **solid inner core** inside a **fluid outer core**, broadly like the Earth's, but far smaller.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+On the surface of the moon, two persons cannot listen to each other as –
+(a) Their ears stops working at the Moon.
+(b) There is no atmosphere on the Moon.
+(c) They wear special types of space suits on the Moon.
+(d) Sound travels very slow on the Moon.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+When the moon size is half of the full moon, the angle between the Sun, the Earth and the Moon is –
+(a) 45o
+(b) 90o
+(c) 180o
+(d) 270o
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992, 1999
+Match the following
+@match
+List- I | List- II
+(A) Planet | (1) Moon
+(B) Satellite | (2) Uranus
+(C) Comet | (3) Mariner
+(D) Artificial spacecraft | (4) Halley
+@endmatch
+Code :
+(a) A-2 B-1 C-4 D-3
+(b) A-1 B-2 C-3 D-4
+(c) A-4 B-3 C-1 D-2
+(d) A-2 B-1 C-3 D-4
+@ans (a)
+@end
+
+**Halley's Comet** returns about every **76 years**. It was last seen in 1986 and will return in about **2061**.
+
+@pyq U.P.P.C.S. (Mains) 2007, 2009
+The 'blue moon' phenomenon occurs when –
+(a) Two full moons occur in the same month.
+(b) Four full moons appear in two consecutive months of the same calendar year.
+(c) Two full moons appear in the same month, thrice in a calendar year.
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+When any object is taken from the Earth to the Moon –
+(a) Its weight increases
+(b) Its weight decrease
+(c) There is no change in its weight
+(d) It becomes totally weightless
+@ans (b)
+@end
+
+**Mass** stays the same everywhere, but **weight** on the Moon is about **one-sixth** of the weight on Earth, because the Moon's surface gravity is about 1.62 m/s².
+
+@pyq U.P. Lower Sub. (Pre) 2008
+The distance of Moon from the Earth is –
+(a) 364 thousand km
+(b) 300 thousand km
+(c) 446 thousand km
+(d) 350 thousand km
+@ans (a)
+@note The **average** Earth-Moon distance is about **3,84,400 km**. The orbit is elliptical, from about 3,63,000 km (perigee) to 4,05,000 km (apogee), and (a) is the closest of the options. A full moon near perigee is called a "**supermoon**".
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+A country by sending its 'SELENE' (Selenological and Engineering Explorer) in the orbit of the Moon became the first country in Asia. The country which achieved this fame is –
+(a) Japan
+(b) China
+(c) India
+(d) Pakistan
+@ans (a)
+@end
+
+@table
+Lunar mission | Country | Year | Highlight
+Luna 2 / Luna 9 | USSR | 1959 / 1966 | First impact / first soft landing
+Apollo 11 | USA | 1969 | First humans on the Moon (Armstrong, Aldrin)
+Hiten / SELENE (Kaguya) | Japan | 1990 / 2007 | First Asian lunar probe / first big Asian orbiter
+Chandrayaan-1 | India | 2008 | Found water molecules (Moon Impact Probe)
+Chang'e 4 | China | 2019 | First landing on the far side
+Chandrayaan-3 | India | 2023 | First landing near the south pole (Shiv Shakti point, 23 August = National Space Day)
+SLIM | Japan | 2024 | Precision "pinpoint" landing
+@end
+
+@heatmap
+
+@pattern
+Earth and Moon questions are basic **physics in a geography paper**. Know the tilt (23.5°), light-time (about 8 minutes), crustal oxygen, synchronous rotation, the half-moon 90° angle, the one-sixth weight and the 3,84,400 km distance. **Lunar missions** are the growing area: Asian firsts (Japan's SELENE, China's far-side landing, India's south-pole landing).
+@end
+
+@next
+Likely next angles: **Chandrayaan-3** (Vikram, Pragyan, Shiv Shakti point), **Chandrayaan-4** (sample return), NASA's **Artemis** programme, the **lunar south pole** and water ice, the Moon's slow recession from the Earth (about 3.8 cm a year), and tides and the spring/neap cycle.
+@end
