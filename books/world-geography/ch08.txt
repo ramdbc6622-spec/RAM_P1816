@@ -1,0 +1,678 @@
+@chapter 8 | Capital Cities, Towns and Geographical Sobriquets
+
+@intro
+This is the most "pure memory" chapter in the book. Nearly every paper has a **capital-country** match, and the decoys are usually capitals from the same region (Central Asia's "-stans", Africa's Accra, Nairobi and Lusaka, Scandinavia's Oslo and Helsinki). The trap is a **former** or **largest** city given as the capital: Yangon, Shanghai, Christchurch, Bonn, New York, Zurich, Rotterdam. The chapter ends with **sobriquets**, the nicknames of places. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 8.1 | Capitals of Europe
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following is/are not the capital of any European country?
+1. Riga
+2. Rotterdam
+3. Zagreb
+4. Zurich
+Select the correct answer from the code given below:
+Code:
+(a) 2 and 4
+(b) 2 and 3
+(c) Only 4
+(d) Only 1
+@ans (a)
+@end
+
+**Riga** is the capital of Latvia and **Zagreb** of Croatia. **Rotterdam** is Europe's largest port, but the Netherlands' capital is **Amsterdam** (the government sits at The Hague). **Zurich** is Switzerland's largest city, but the federal city is **Bern**.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following is not correctly matched?
+(a) Copenhagen Denmark
+(b) Berlin Germany
+(c) Paris France
+(d) Oslo Norway
+@ans (b)
+@note All four pairs are correct capitals. The Commission's key (b) rests on **Berlin** being both the capital and one of Germany's 16 **states** (a city-state). The question really has no wrong pair.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and choose the correct answer from the codes given below:
+@match
+List-I (Country) | List-II (Capital)
+A. Bulgaria | 1. Oslo
+B. Georgia | 2. Reykjavik
+C. Iceland | 3. Sofia
+D. Norway | 4. Tbilisi
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 2 3 1
+(c) 3 4 1 2
+(d) 4 2 1 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Helsinki is the capital of –
+(a) Denmark
+(b) Finland
+(c) Norway
+(d) Sweden
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which one of the following is not correctly matched :
+(a) Fiji Suva
+(b) Finland Oslo
+(c) Guyana George Town
+(d) Lebanon Beirut
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following pairs is not correctly matched?
+(a) Budapest Hungary
+(b) Kinshasa Zaire
+(c) Nairobi Kenya
+(d) Christchurch New Zealand
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following is not a national capital?
+(a) Bonn
+(b) Canberra
+(c) New York
+(d) Beijing
+@ans (a) & (c)
+@end
+
+**Bonn** was West Germany's capital until reunification (1990). **New York** hosts the UN headquarters, but the US capital is **Washington, D.C.**
+
+@section 8.2 | Capitals of Asia
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List-I (Country) | List-II (Capital)
+A. Myanmar | 1. Hanoi
+B. Cambodia | 2. Vientiane
+C. Vietnam | 3. Phnom Penh
+D. Laos | 4. Yangoon
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 4 3 1 2
+(d) 3 4 2 1
+@ans (*)
+@note Myanmar moved its capital from **Yangon** to **Nay Pyi Taw** in **2005-06**, so pair A is outdated. With Yangon taken as the capital, (c) would be the matching code. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following pairs is not correctly matched?
+Capital - Country
+(a) Naypyidaw - Myanmar
+(b) Khartoum - Ethiopia
+(c) Dublin - Ireland
+(d) Ottawa - Canada
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which one of the following pair is not correctly matched?
+(a) Amman Jordan
+(b) Bishkek Tajikistan
+(c) Ulan Bator Mongolia
+(d) Sana'a Yemen
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Match List- I with List- II and select the correct answer using the codes given below the lists :
+@match
+List- I (Country) | List- II (Capital)
+A. Uzbekistan | 1. Tashkent
+B. Tajikistan | 2. Dushanbe
+C. Kyrgyzstan | 3. Bishkek
+D. Turkmenistan | 4. Ashgabat
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 2 4 3
+(c) 1 3 4 2
+(d) 1 4 2 3
+@ans (a)
+@end
+
+@table
+Central Asian country | Capital | Memory hook
+Kazakhstan | **Astana** (Nur-Sultan 2019-22) | Moved from Almaty in 1997
+Uzbekistan | Tashkent | Tashkent Declaration (1966)
+Tajikistan | Dushanbe | "Monday" in Tajik
+Kyrgyzstan | Bishkek | Formerly Frunze
+Turkmenistan | Ashgabat | Gas-rich, near Iran
+Afghanistan | Kabul | -
+Mongolia | Ulaanbaatar | Coldest national capital
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I (Country) | List-II (Capital)
+A. Azerbaijan | 1. Banjul
+B. Gambia | 2. Riga
+C. Kazakhstan | 3. Baku
+D. Latvia | 4. Astana
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 3 4 1 2
+(c) 4 1 2 3
+(d) 1 2 4 3
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following pair is correctly matched?
+(a) Cyprus - Baghdad
+(b) Lebanon - Beirut
+(c) Turkey - Ashgabat
+(d) Ukraine - Akmola
+@ans (b)
+@end
+
+**Akmola** is an old name of Kazakhstan's capital (Akmola, then Astana, then Nur-Sultan, then Astana again). It was never Ukraine's capital, which is **Kyiv**.
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following is not correctly matched ?
+(a) China Shanghai
+(b) Canada Ottawa
+(c) Australia Canberra
+(d) Russia Moscow
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Match the following
+@match
+List-I (Country) | List-II (Capital)
+(A) Sri Lanka | 1. Male
+(B) Maldives | 2. Rangoon
+(C) Burma | 3. Colombo
+(D) Zimbabwe | 4. Harare
+(E) Mauritius | 5. Port Louis
+@endmatch
+Code : A B C D E
+(a) 3 1 2 4 5
+(b) 3 2 1 4 5
+(c) 3 1 4 2 5
+(d) 5 4 3 1 2
+@ans (a)
+@note The key was correct in 1992. Today Myanmar's capital is **Nay Pyi Taw**, and Sri Lanka's legislative capital is **Sri Jayawardenepura Kotte**, with **Colombo** as the commercial capital.
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Match List-I with List-II and select the correct answer using the code given below the Lists:
+@match
+List - I (Country) | List - II (Capital)
+A. Palestine | 1. Nicosia
+B. Kosovo | 2. Taipei City
+C. Turkish Cyprus | 3. Ramallah
+D. Taiwan | 4. Pristina
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 3 4 1 2
+(c) 1 2 4 3
+(d) 4 1 3 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which one of the following cities is NOT part of the Sunni Triangle in Iraq?
+(a) Ramadi
+(b) Baghdad
+(c) Tikrit
+(d) Basra
+@ans (d)
+@end
+
+The **Sunni Triangle** is the area between **Baghdad, Ramadi and Tikrit**, north-west of the capital. **Basra** is in the Shia-majority south, on the Shatt al-Arab.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following city/cities is/are not situated in present day Afghanistan?
+1. Ghazni
+2. Fergana
+3. Kandahar
+4. Samarkand
+Select the correct answer from the code given below :
+Code :
+(a) 2 and 3
+(b) Only 4
+(c) 2 and 4
+(d) Only 1
+@ans (c)
+@end
+
+**Fergana** (valley shared by Uzbekistan, Kyrgyzstan and Tajikistan; Babur's homeland) and **Samarkand** (Timur's capital) are in **Uzbekistan**. **Ghazni** (Mahmud's capital) and **Kandahar** are in Afghanistan.
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which one of the following is situated at the highest altitude?
+(a) Gartola
+(b) Kathmandu
+(c) Lhasa
+(d) Thimphu
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which of the following pairs is not correctly matched?
+(a) Auroville - Pondicherry
+(b) Baikonur - Ukraine
+(c) Bandung - Indonesia
+(d) Batticaloa - Sri Lanka
+@ans (b)
+@end
+
+**Baikonur Cosmodrome**, the world's first spaceport, from which Sputnik (1957) and Gagarin (1961) were launched, is in **Kazakhstan** and is leased to Russia. **Bandung** hosted the 1955 Afro-Asian Conference, a forerunner of NAM.
+
+@section 8.3 | Capitals of Africa
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following pairs is not correctly matched?
+(a) Ghana - Accra
+(b) Kenya - Nairobi
+(c) Namibia - Windhoek
+(d) Nigeria - Rabat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I | List-II
+A. Windhoek | 1. Kenya
+B. Accra | 2. Namibia
+C. Nairobi | 3. Ghana
+D. Lusaka | 4. Zambia
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 1 4
+(c) 3 2 4 1
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Match List-I with List-II and choose the correct answer from the codes given below:
+@match
+List-I (Country) | List-II (Capital)
+A. Burundi | 1. Astana
+B. Kazakhstan | 2. Bamako
+C. Laos | 3. Bujumbura
+D. Mali | 4. Vientiane
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 4 1 2 3
+(c) 3 1 4 2
+(d) 1 3 4 2
+@ans (c)
+@note **Burundi** moved its political capital from Bujumbura to **Gitega** in 2019 (Bujumbura remains the economic capital).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List-I (Capital City) | List-II (Country)
+A. Kampala | 1. Rwanda
+B. Kigali | 2. Uganda
+C. Kinshasa | 3. Sudan
+D. Khartoum | 4. Democratic Republic of the Congo
+@endmatch
+Code :
+(a) A-1, B-2, C-4, D-3
+(b) A-1, B-2, C-3, D-4
+(c) A-2, B-1, C-4, D-3
+(d) A-2, B-1, C-3, D-4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Match List-I with List-II and choose the correct answer from the codes given below:
+@match
+List-I (Country) | List-II (Capital)
+(A) Brazil | 1. Havana
+(B) Cuba | 2. Brasilia
+(C) Kenya | 3. Lusaka
+(D) Zambia | 4. Nairobi
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 2 3 1 4
+(d) 3 4 1 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Match list-I and list-II and select the correct answer from the codes given below :
+@match
+List-I | List-II
+A. Australia | 1. Dodoma
+B. Tajikistan | 2. Bern
+C. Tanzania | 3. Dushanbe
+D. Switzerland | 4. Canberra
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 4 3 1 2
+(d) 4 2 3 1
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which one of the following is NOT correctly matched?
+(Country) (Capital)
+(a) Morocco - Rabat
+(b) Tunisia - Tunis
+(c) Algeria - Algiers
+(d) Cape Verde - Bamako
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following pairs is not correctly matched?
+Country - Capital
+(a) Guinea Bissau Bissau
+(b) Taiwan Taipei
+(c) Nicaragua Managua
+(d) Maldives Malabo
+@ans (d)
+@end
+
+@table
+African country | Capital | Watch for
+Nigeria | Abuja (since 1991) | Lagos is the largest city; Rabat is Morocco's
+Tanzania | Dodoma | Dar es Salaam is the largest city
+Cote d'Ivoire | Yamoussoukro | Abidjan is the largest city
+South Africa | Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial) | Three capitals
+Egypt | Cairo (New Administrative Capital being built) | -
+Sudan / South Sudan | Khartoum / Juba | Blue and White Nile meet at Khartoum
+Ethiopia | Addis Ababa | African Union HQ
+Cape Verde / Mali | Praia / Bamako | -
+Equatorial Guinea | Malabo | Ciudad de la Paz planned
+Burundi | Gitega (political, 2019) | Bujumbura economic
+@end
+
+@section 8.4 | Capitals of the Americas and Oceania
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following pairs is correctly matched ?
+Country - City
+(a) Venezuela - Bogota
+(b) New Zealand - Caracas
+(c) Colombia - Wellington
+(d) Cyprus - Nicosia
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following pair is not correctly matched?
+(Country) - (Capital)
+(a) Antigua and Barbuda - Saint John's
+(b) Dominica - Santo Domingo
+(c) El Salvador - San Salvador
+(d) Bahamas - Nassau
+@ans (b)
+@end
+
+**Dominica**'s capital is **Roseau**. **Santo Domingo** is the capital of the **Dominican Republic**, a different country on Hispaniola.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2021
+Match List-I with List-II and select the correct answer using the code given below the lists :
+@match
+List-I (Provinces of Australia) | List - II (Capital city)
+A. New South Wales | 1. Brisbane
+B. Queensland | 2. Sydney
+C. Victoria | 3. Perth
+D. Western Australia | 4. Melbourne
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 2 4 3
+(c) 2 1 4 3
+(d) 2 1 3 4
+@ans (c)
+@end
+
+Australia's other state capitals: **Adelaide** (South Australia) and **Hobart** (Tasmania). The territory capital is **Darwin** (Northern Territory), and the national capital is **Canberra** (ACT).
+
+@section 8.5 | Towns and Places
+
+@pyq U.P. P.C.S. (Pre) 1993
+Pisa famous for its leaning tower is located in
+(a) Australia
+(b) France
+(c) Italy
+(d) Spain
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Assertion (A) : Most of the mega cities of the world are located in coastal areas.
+Reason (R) : They are the gateways to international ocean routes.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following cities of California (USA) is not located within the "Silicon Valley" ?
+(a) Campbell
+(b) Palo Alto
+(c) Santa Rosa
+(d) Santa Clara
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which is not correctly matched?
+(a) Tasmania - Uganda
+(b) Sicily - Italy
+(c) Newfoundland - Canada
+(d) Durban - South Africa
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which of the following countries is located in the south of the Arctic Circle?
+(a) Finland
+(b) Iceland
+(c) Norway
+(d) Sweden
+@ans (b)
+@end
+
+The Arctic Circle (about 66.5°N) cuts through Norway, Sweden and Finland. Mainland **Iceland** lies just **south** of it, and only its tiny island **Grimsey** touches the circle.
+
+@pyq U.P.P.C.S (Pre) 2011
+The Sun City is located in –
+(a) Italy
+(b) Japan
+(c) Mexico
+(d) South Africa
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List – I (Town/City) | List – II (Country)
+A. Davos | 1. Spain
+B. Barcelona | 2. New Zealand
+C. Auckland | 3. Sri Lanka
+D. Kandy | 4. Switzerland
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 2 3 1 4
+(c) 1 2 4 3
+(d) 3 4 2 1
+@ans (a)
+@end
+
+@trap
+**Largest city is not the capital** in: Australia (Sydney / **Canberra**), Canada (Toronto / **Ottawa**), USA (New York / **Washington**), Brazil (Sao Paulo / **Brasilia**), Turkiye (Istanbul / **Ankara**), Nigeria (Lagos / **Abuja**), New Zealand (Auckland / **Wellington**), Switzerland (Zurich / **Bern**), Pakistan (Karachi / **Islamabad**) and Myanmar (Yangon / **Nay Pyi Taw**). Watch the near-twin names: **Dominica / Dominican Republic**, **Guinea / Guinea-Bissau / Equatorial Guinea**, **Niger / Nigeria**.
+@end
+
+@section 8.6 | Geographical Sobriquets
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which of the following is known as 'The Continent of Birds'?
+(a) Europe
+(b) Australia
+(c) South America
+(d) Asia
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which state of the U.S.A. is also known as the 'Blue Grass State'?
+(a) California
+(b) Kentucky
+(c) Montana
+(d) Texas
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Mains) 2005
+Which city of Turkey is known as the 'Gateway to the West' ?
+(a) Adana
+(b) Ankara
+(c) Istanbul
+(d) Izmir
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which country is famous by the name of the land of the rising sun?
+(a) Norway
+(b) Japan
+(c) Britain
+(d) Finland
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following countries is called 'Garden of Lakes' ?
+(a) Poland
+(b) Finland
+(c) Netherlands
+(d) Switzerland
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2015
+What is called the 'land of one thousand lakes'?
+@ans Finland
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following is known as the city of the golden gate ?
+(a) Paris
+(b) Amsterdam
+(c) Mumbai
+(d) San Francisco
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following cities is called 'Manchester of East'?
+(a) Nagoya
+(b) Tokyo
+(c) Sendai
+(d) Osaka
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following is called the 'Pearl of Siberia'?
+(a) Baikal Lake
+(b) Great Bear Lake
+(c) Karda Lake
+(d) Lincanbur Lake
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following is called the 'Land of Morning calm'?
+(a) Philippines
+(b) Japan
+(c) Taiwan
+(d) Korea
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2017
+Which of the following cities is known as the oil capital of Europe?
+(a) Belfast
+(b) Aberdeen
+(c) Leeds
+(d) Liverpool
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following Island is known as "The Land of Promise"?
+(a) Cuba
+(b) Java
+(c) Sulawesi
+(d) Mindanao
+@ans (d)
+@end
+
+@table
+Sobriquet | Place
+Land of the Rising Sun | Japan
+Land of the Midnight Sun | Norway
+Land of Morning Calm | Korea
+Land of a Thousand Lakes / Garden of Lakes | Finland
+Land of the Thunder Dragon | Bhutan
+Land of White Elephants | Thailand
+Land of Thousand Hills | Rwanda
+Sugar Bowl of the World | Cuba
+Playground of Europe | Switzerland
+Sick Man of Europe (historic) | Ottoman Turkey
+Pearl of the Antilles | Cuba
+Pearl of Siberia | Lake Baikal
+Emerald Isle | Ireland
+Dark Continent | Africa
+Continent of Birds | South America
+Manchester of the East / of Japan | Osaka
+City of Golden Gate | San Francisco
+Big Apple | New York
+Windy City | Chicago
+Eternal City | Rome
+City of Seven Hills | Rome
+Gateway to the West (Turkiye) | Istanbul
+Oil Capital of Europe | Aberdeen
+Blue Grass State | Kentucky
+Land of Promise | Mindanao (Philippines)
+@end
+
+@heatmap
+
+@pattern
+Capitals are asked **every year**, often twice. The newer papers (2019-2024) favour **Central Asia**, **Africa** and **disputed or partly recognised** capitals (Ramallah, Pristina, Taipei, North Nicosia). Learn capitals region by region, and keep a list of **changed capitals** (Nay Pyi Taw, Gitega, Astana, Abuja, the Egyptian New Administrative Capital, Indonesia's Nusantara). Sobriquet questions are easy marks if the table above is revised.
+@end
+
+@next
+Likely next angles: **Nusantara** (Indonesia's new capital), Egypt's **New Administrative Capital**, **Astana**'s name changes, capitals of **BRICS+** members (Abu Dhabi, Tehran, Addis Ababa, Cairo, Jakarta), capitals in the news (Kyiv, Tel Aviv vs Jerusalem, Damascus, Kabul, Port-au-Prince, Khartoum), and "**Garden City**" type nicknames (Singapore, Bengaluru).
+@end
