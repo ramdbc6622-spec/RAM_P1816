@@ -1,0 +1,252 @@
+@chapter 4 | Endangered Species, Ramsar Convention and Biodiversity Miscellany
+
+@intro
+This chapter covers the **IUCN Red List** categories, India's most threatened animals (the Great Indian Bustard and the vultures killed by diclofenac), the **Ramsar Convention** on wetlands (1971) and India's Ramsar sites, and the institutions and laws for biodiversity: the **CBD** COPs, the **Biological Diversity Act 2002**, the **National Biodiversity Authority** and **CEBPOL**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 4.1 | Endangered Species and the Red List
+
+@pyq U.P.P.C.S.(Pre) 2013
+Endangered species are listed in –
+(a) Dead Stock Book
+(b) Red Data Book
+(c) Live Stock Book
+(d) None of the above
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2002
+'Red Data Book' is concerned with
+@ans Organisms and animals facing the danger of extinction
+@end
+
+@table
+IUCN Red List category | Meaning
+Extinct (EX) | No individual left alive
+Extinct in the Wild (EW) | Survives only in captivity
+**Critically Endangered (CR)** | Extremely high risk of extinction
+**Endangered (EN)** | Very high risk
+**Vulnerable (VU)** | High risk (CR + EN + VU = "**threatened**")
+Near Threatened (NT) | Close to qualifying
+Least Concern (LC) | Widespread and abundant
+Data Deficient (DD) / Not Evaluated (NE) | Too little information / not yet assessed
+@end
+
+The **IUCN** (founded 1948, headquarters at **Gland, Switzerland**) publishes the **Red List**. The printed **Red Data Book** began in the 1960s. Its pages were colour-coded: **pink** for critically endangered and **green** for species that have recovered.
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following Indian birds is a highly endangered species?
+(a) Golden Oriole
+(b) Great Indian Bustard
+(c) Indian Fantail Pigeon
+(d) Indian Sunbird
+@ans (b)
+@end
+
+The **Great Indian Bustard** (*godawan*, Rajasthan's state bird) is **Critically Endangered**, with fewer than **150** birds left, mostly in the **Desert National Park** (Jaisalmer). Collisions with **power lines** are the main threat. The Supreme Court has ordered lines to be laid underground in its habitat, and captive breeding has begun at Sam and Ramdevra.
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following is not correctly matched?
+(a) Golden Langur : Endangered
+(b) Desert Cat : Endangered
+(c) Hoolock Gibbon : Endangered
+(d) Asiatic Wild Dog : Threatened
+@ans (b) & (d)
+@end
+
+The **Asiatic wild dog (dhole)** is **Endangered**, and the desert cat is not listed as endangered. The **golden langur** (Assam-Bhutan) and the **hoolock gibbon**, India's only ape, are Endangered.
+
+@pyq U.P.P.C.S. (Pre) 2005
+A species is considered to be extinct if it has not been seen in its natural habitat for –
+(a) 15 years
+(b) 25 years
+(c) 40 years
+(d) 50 years
+@ans (d)
+@note The key reflects the older rule that a species was "extinct" if not seen for **50 years**. The current IUCN rule has no fixed period: a species is extinct when exhaustive surveys leave "no reasonable doubt that the last individual has died".
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018; U.P.P.C.S. (Spl.) (Mains) 2008
+Which pain killer given to cattle is responsible for the near extinction of vultures in India?
+(a) Ibuprofen
+(b) Acetaminophen
+(c) Aspirin
+(d) Diclofenac
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) (Re Exam) 2015
+The most important factor contributing to the loss of the vulture population in India is
+@ans Administrating of painkillers to cattle
+@end
+
+**Diclofenac** given to cattle poisons the vultures that eat the carcasses, causing **kidney failure**. India's vulture numbers fell by more than **95%** in the 1990s-2000s. Veterinary diclofenac was **banned in 2006**, followed by **aceclofenac and ketoprofen** in 2023. The safe alternative is **meloxicam**. Vulture breeding centres run under the **Vulture Action Plan 2020-25**, including the **Jatayu Conservation and Breeding Centre** at **Gorakhpur (UP)**, the first such centre for the red-headed vulture.
+
+@section 4.2 | Ramsar Convention and Wetlands
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P.R.O./A.R.O. (Re-Exam) (Pre) 2016
+The Ramsar Convention was associated with the conservation of –
+(a) Bio-fuels
+(b) Forests
+(c) Wetlands
+(d) Drylands
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Wetland day is observed on –
+(a) 2nd February
+(b) 2nd April
+(c) 2nd May
+(d) 2nd March
+@ans (a)
+@end
+
+The **Ramsar Convention** was signed on **2 February 1971** at **Ramsar, Iran**, and India joined in **1982**. Its secretariat is at **Gland, Switzerland**, and wetlands under threat go on the **Montreux Record**. India's first Ramsar sites (1981) were **Chilika** (Odisha) and **Keoladeo** (Rajasthan). India now has **more than 90 Ramsar sites**, the most in Asia. **Tamil Nadu** has the most of any state, followed by **Uttar Pradesh** (10).
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which of the following wetlands are designated as Ramsar sites?
+1. Chilka Lake
+2. Keoladeo
+3. Wuller Lake
+4. Loktak
+Select the correct answer from the code given below:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1, 2 and 3
+(d) All
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following is a Ramsar site under Ramsar Convention?
+(a) Godavari delta
+(b) Krishna delta
+(c) Sunderbans
+(d) Bhoj wetland
+@ans (c) & (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2021
+Which one of the following Ramsar Wetland sites is situated in any state of India?
+(a) Hokera Wetland
+(b) Point Calimere Wildlife and Bird Sanctuary
+(c) Tso Moriri Lake
+(d) Wular Lake
+@ans (b)
+@end
+
+**Hokera** and **Wular** are in the **UT of Jammu and Kashmir**, and **Tso Moriri** is in the **UT of Ladakh**. Only **Point Calimere** (Tamil Nadu) is in a **state**. The question turns on the difference between a state and a union territory.
+
+@up UP link: UP's **10 Ramsar sites** are Nawabganj (Unnao), Parvati Agra (Gonda), Saman (Mainpuri), Samaspur (Raebareli), Sandi (Hardoi), Sarsai Nawar (Etawah), Sur Sarovar (Agra), Upper Ganga (Brijghat-Narora), and Bakhira (Sant Kabir Nagar) and Haiderpur (Muzaffarnagar-Bijnor) from 2021. **Sarsai Nawar** is noted for the **sarus crane**, UP's state bird.
+
+@pyq U.P.P.C.S. (Pre) 2012
+As an ecosystem, wetlands are useful for which of the following?
+(a) For nutrient-recovery and cycling
+(b) For releasing heavy metals through absorption by plants.
+(c) In reducing siltation of rivers by retaining sediments
+(d) All the above
+@ans (d)
+@end
+
+@section 4.3 | Biodiversity Laws and Institutions
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The 10th Conference of the Parties to the United Nations Conference on 'Biological Diversity' was held at:
+(a) Beijing
+(b) Copenhagen
+(c) Nagoya
+(d) New York
+@ans (c)
+@end
+
+@table
+CBD milestone | Year / place | Outcome
+Convention on Biological Diversity | Rio, 1992 (in force 1993) | Three goals: conservation, sustainable use, fair benefit-sharing
+Cartagena Protocol | 2000 | Biosafety (living modified organisms)
+**COP10, Nagoya** | 2010 | **Nagoya Protocol** (access and benefit-sharing) and the **Aichi Targets**
+COP11, Hyderabad | 2012 | India hosted
+COP15, Kunming-Montreal | 2022 | **Global Biodiversity Framework**: 30x30
+COP16, Cali | 2024 | Cali Fund for genetic sequence information
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The Biodiversity Act was passed by the Indian Parliament in –
+(a) May, 2000
+(b) December, 2002
+(c) January, 2004
+(d) October, 2008
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+National Biodiversity Authority of India was established in–
+(a) 2003, in Chennai
+(b) 2003, in Bengaluru
+(c) 2003, in Hyderabad
+(d) 2003, in Kerala
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Government of India in collaboration with the Norwegian Government has established a centre for Biodiversity Policy and Law at
+(a) Dehradun
+(b) Chennai
+(c) Shillong
+(d) New Delhi
+@ans (b)
+@end
+
+The **Biological Diversity Act 2002** created a **three-tier** system: the **National Biodiversity Authority** (Chennai, 2003), **State Biodiversity Boards**, and **Biodiversity Management Committees** in local bodies, which maintain **People's Biodiversity Registers**. **CEBPOL** at the NBA in Chennai was set up with Norway's help. The Act was amended in **2023**.
+
+@section 4.4 | Miscellaneous
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following is not responsible for the extinction of a species?
+(a) Broad niche
+(b) Large body size
+(c) Narrow niche
+(d) Lack of genetic variability
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Sea buckthorn has a huge global market potential. The berries of this plant are rich in vitamins and nutrients. Genghis Khan used them to improve the stamina of his troops. Russian cosmonauts used its oil to combat radiation. Where is this plant found in India?
+(a) Nagaland
+(b) Ladakh
+(c) Kodaikanal
+(d) Pondicherry
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following is the largest ecosystem of the earth?
+(a) Hydrosphere
+(b) Biome
+(c) Lithosphere
+(d) Biosphere
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004, 2005
+The author of 'Tomorrow's Biodiversity' is –
+(a) Vandana Shiva
+(b) V.K. Sharma
+(c) M.S. Swaminathan
+(d) Medha Patkar
+@ans (a)
+@end
+
+@trap
+In the Ramsar "state" question, **J&K and Ladakh are union territories**, so their wetlands do not count as being in a state. **Wetlands Day = 2 February** (Ramsar, 1971), while **World Environment Day = 5 June**. **CBD COP10 = Nagoya** (Japan), not Copenhagen, which hosted the **climate** COP15 in 2009. **NBA = Chennai**. A **broad niche** protects a species against extinction.
+@end
+
+@heatmap
+
+@pattern
+The favourite topics are **Ramsar** (date, purpose, Indian sites) and the **vulture-diclofenac** link, each asked several times. Red List and endangered-species questions are rarer but appear in statement form. Law and institution questions (BD Act 2002, NBA Chennai, CEBPOL, Nagoya) were mostly asked in 2010-2017.
+@end
+
+@next
+Likely next angles: India's newest **Ramsar sites** and the 2025 count, **cheetah reintroduction** (Kuno, Gandhi Sagar), **Great Indian Bustard** captive breeding, **vulture** recovery and the ban on more NSAIDs, **Project Dolphin** and **Project Lion**, Red List **reassessments** (snow leopard, tiger), and the **Amrit Dharohar** wetlands scheme.
+@end

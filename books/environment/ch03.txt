@@ -1,0 +1,307 @@
+@chapter 3 | Biodiversity, Its Loss and Conservation
+@unit UNIT II · BIODIVERSITY
+
+@intro
+**Biodiversity** questions cover the meaning of the term (and who coined it), where diversity is highest (tropical rainforests, coral reefs, the Western Ghats), India's **biodiversity hotspots**, the main **causes of loss** (habitat destruction above all) and **conservation strategies**, both **in-situ** (protected areas, sacred groves) and **ex-situ** (botanical gardens, seed and cryo banks). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 3.1 | Meaning and Distribution
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Biodiversity is described as –
+(a) The range of different species in an environment
+(b) The seasonal and daily changes in an environment
+(c) The way species differ from one another
+(d) The influence of physical factors on an environment
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Biodiversity means –
+(a) Diverse kinds of plants and vegetation.
+(b) Diverse kinds of animals.
+(c) Diverse kinds of plants and animals in a particular area.
+(d) Diverse kinds of exotic plants and animals.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Who among the following had used the term 'Biodiversity' for the first time?
+(a) C.J. Barrow
+(b) De Carter
+(c) Walter G. Rosen
+(d) D.R. Batish
+@ans (c)
+@end
+
+**Walter G. Rosen** coined "biodiversity" in **1985**. **E.O. Wilson** made it popular. Biodiversity has three levels: **genetic** (within a species), **species** and **ecosystem** diversity. Whittaker's measures are **alpha** (within a community), **beta** (between communities) and **gamma** (across a whole region).
+
+@pyq U.P.P.C.S. (Pre) 2015
+The most significant aspect of biodiversity is:
+(a) Food
+(b) Drug
+(c) Industrial Use
+(d) Maintenance of ecosystem
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The decade 2011-20 has been designated by the U.N.O. as the decade of –
+(a) Natural disaster decade
+(b) Bio-diversity decade
+(c) Climate-change decade
+(d) Environment decade
+@ans (b)
+@end
+
+**2011-2020** was the UN **Decade on Biodiversity** (the **Aichi Targets**), and **2021-2030** is the UN **Decade on Ecosystem Restoration**. The Aichi Targets were followed in **December 2022** by the **Kunming-Montreal Global Biodiversity Framework** (CBD COP15), whose headline goal is "**30 by 30**": protecting 30% of land and sea by 2030.
+
+@pyq U.P.P.C.S. (Pre) 2012, 2016; U.P.P.C.S. (Mains) 2014
+The maximum biodiversity is found in –
+(a) Tropical rain forest
+(b) Temperate forest
+(c) Coniferous forest
+(d) Arctic forest
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+In which of the following ecosystems the species diversity is relatively higher?
+(a) Deep sea
+(b) Tropical rain forest
+(c) Coral reefs
+(d) Desert
+@ans (b) & (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following statement is NOT true?
+(a) Species diversity increases from equator towards poles.
+(b) Tropics harbour more species than temperate areas.
+(c) Greatest biodiversity occurs in Amazon can rain forest.
+(d) Species diversity decreases from temperate areas towards poles.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Given below are two statements, one labelled as Assertion (A) and other as the Reason (R).
+Assertion (A) : Maximum number of the species of butterflies are found in tropical countries.
+Reason (R) : Butterflies cannot tolerate low temperatures.
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@section 3.2 | Biodiversity in India and Hotspots
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2003
+The richest biodiversity is found in the:
+(a) Silent Valley
+(b) Kashmir Valley
+(c) Valley of Flowers
+(d) Surma Valley
+@ans (a)
+@end
+
+@one U.P. Lower Sub. (Pre) 2008
+'Silent Valley' is located in
+@ans Kerala
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+'Valley of Flowers' is situated in –
+(a) Kerala
+(b) Jammu & Kashmir
+(c) Uttarakhand
+(d) Himachal Pradesh
+@ans (c)
+@end
+
+**Silent Valley** (Palakkad, Kerala) has an untouched tropical evergreen forest. It was saved from a hydroelectric dam by the "**Save Silent Valley**" movement and became a national park in **1984**. The **Valley of Flowers** (Chamoli, Uttarakhand) and **Nanda Devi** together form a UNESCO World Heritage Site.
+
+@pyq U.P.P.C.S. (Mains) 2009
+With reference to biodiversity, which of the following regions in India is regarded as 'HOTSPOT'?
+(a) Andaman and Nicobar Islands
+(b) Gangetic Plain
+(c) Central India
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The most biodiversity rich area in India is–
+(a) Gangetic plain
+(b) Trans Himalayas
+(c) Western Ghats
+(d) Central India
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2015
+Which is a biodiversity saturated area in India?
+@ans Western Ghat
+@end
+
+@one U.P.P.C.S. (Pre) 2014
+Which one is a bio-diversity rich place in India?
+@ans Western Ghat
+@end
+
+@one U.P.P.C.S. (Mains) 2016
+Which one is not a 'biodiversity hotspot' of India?
+@ans Vindhyas
+@end
+
+@table
+Biodiversity hotspot (India's share) | Coverage
+**Himalaya** | Indian Himalaya, Nepal, Bhutan
+**Indo-Burma** | North-east India (except Assam plains), Myanmar, Thailand, Indo-China
+**Western Ghats and Sri Lanka** | The Western Ghats; the richest region for endemic plants and amphibians
+**Sundaland** | **Nicobar Islands** (with Indonesia, Malaysia)
+@end
+
+**Norman Myers** proposed the idea of hotspots (1988). **Conservation International** now lists **36** hotspots worldwide. To qualify, an area must have at least **1,500 endemic vascular plants** and must have lost at least **70%** of its original habitat. India is one of the 17 **megadiverse** countries, with about 2.4% of the world's land and about 7-8% of its recorded species.
+
+@section 3.3 | Causes of Biodiversity Loss
+
+@pyq U.P.P.C.S. (Mains) 2002
+The destruction of biodiversity is due to:
+(a) The lack of natural habitats of the organism
+(b) Environmental pollution
+(c) Destruction of forests
+(d) All the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Biodiversity has maximum danger from:
+(a) Destruction of natural habitats and vegetation
+(b) Improper agricultural operations
+(c) Climate change
+(d) Water pollution
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015, 2016
+The main reason for the decrease in biodiversity is:
+(a) Habitat pollution
+(b) Introduction of exotic species
+(c) Over exploitation
+(d) Natural habitat destruction
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following factors is the most important factor for the lost of biodiversity?
+(a) Destruction of natural habitat
+(b) Pest control
+(c) Genetic assimilation
+(d) Control of predators
+@ans (a)
+@end
+
+The main threats can be remembered as "**HIPPO**": **H**abitat loss (the biggest), **I**nvasive species, **P**ollution, human **P**opulation and **O**ver-exploitation, with **climate change** now added as a fast-growing sixth. Examples of invasive species in India include **Lantana**, **Parthenium** (congress grass), **water hyacinth** and **Prosopis juliflora**.
+
+@pyq U.P.P.C.S.(Pre) 2001
+While India's Human population is growing at an outstanding pace, the bird population is shrinking rapidly mainly because:
+1. There has been an abnormal increase in the number of hunters.
+2. Bio-pesticides and organic manure are being used on a large scale.
+3. There has been a large-scale reduction in the habitats of the birds.
+4. There has been large-scale use of pesticides, chemical fertilizers and mosquito repellents.
+Select your answer correctly using the code given below:
+Codes :
+(a) 1 and 2 are correct
+(b) 2 and 3 are correct
+(c) 3 and 4 are correct
+(d) 1 and 4 are correct
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re Exam ) 2015
+Which of the following is not responsible for the increase in the biodiversity of an ecosystem?
+(a) Productivity of the ecosystem
+(b) Intermediate-disturbance
+(c) Age of the ecosystem
+(d) Less number of trophic levels
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which one of the following is the most effective factor of coral bleaching?
+(a) Marine pollution
+(b) Increase of salinity of seas
+(c) Rise in normal temperature of sea-water
+(d) the outbreak of diseases and epidemics
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which one is the most significant factor in coral bleaching?
+@ans Global warming
+@end
+
+Corals live with tiny algae called **zooxanthellae**, which give them food and colour. When the sea stays about **1 °C or more above** its usual summer maximum, the corals expel the algae and turn white. This is **bleaching**. The **fourth global bleaching event** (2023-25) affected more than 80% of the world's reefs. India's reef areas are the Gulf of Mannar, the Gulf of Kutch, Lakshadweep and the Andaman and Nicobar Islands.
+
+@section 3.4 | Conservation Strategies
+
+@pyq U.P.P.C.S. (Pre) 2013
+Which one of the following is an important strategy for the conservation of biodiversity?
+(a) Biosphere Reserves
+(b) Botanical Gardens
+(c) National Parks
+(d) Wild life Sanctuaries
+@ans (a)
+@end
+
+@pyq U.P. Lower (Spl.) (Pre) 2004
+Biosphere reserves are areas for conservation of–
+(a) Grasslands
+(b) Agricultural production
+(c) Atmospheric balance
+(d) Genetic Variation
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following is NOT an example of in-situ conservation strategy?
+(a) Biosphere reserve
+(b) Botanical garden
+(c) National Park
+(d) Sacred groves
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which of the following gas is commonly used in Cryo-Bank for ex-situ conservation?
+(a) Nitrogen
+(b) Oxygen
+(c) Carbon dioxide
+(d) Methane
+@ans (a)
+@end
+
+@table
+In-situ (in the natural habitat) | Ex-situ (away from the natural habitat)
+Biosphere reserves | Botanical gardens, zoos, aquaria
+National parks, wildlife sanctuaries | **Seed banks** (e.g. Svalbard Global Seed Vault, Norway)
+Conservation and community reserves | **Gene / cryo banks**: material stored in **liquid nitrogen** at **-196 °C**
+**Sacred groves** (e.g. Khasi, Garo hills; Kerala's *kavu*) | Tissue culture, captive breeding
+Ramsar sites | **NBPGR** gene bank (New Delhi); **LaCONES** (Hyderabad) for endangered animals
+@end
+
+@trap
+**Habitat destruction** is always the main cause of loss, ahead of pollution, invasive species or over-exploitation. **Botanical gardens and zoos are ex-situ**, while **sacred groves are in-situ**. Cryo banks use **liquid nitrogen**, not CO2. The **Vindhyas** are not a hotspot. India's four hotspots are the Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland (Nicobar).
+@end
+
+@heatmap
+
+@pattern
+These questions repeat with little variation: **habitat destruction** has been asked as the main cause of loss four times, the **tropical rainforest / Western Ghats** as the richest area at least six times, and **in-situ vs ex-situ** has also come up repeatedly. The 2018-2023 papers add assertion-reason and "not true" forms. If you learn the hotspot table and the conservation table, you can answer almost every question in this chapter.
+@end
+
+@next
+Likely next angles: the **Kunming-Montreal GBF** ("30x30", 23 targets), India's updated **National Biodiversity Strategy and Action Plan** (2024), **Biological Diversity (Amendment) Act 2023**, the **global coral bleaching** event, **Cali COP16** (2024) and the **Cali Fund** for digital sequence information, **OECMs**, and invasive species costs (IPBES 2023).
+@end
