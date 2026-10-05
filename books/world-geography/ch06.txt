@@ -1,0 +1,385 @@
+@chapter 6 | Deserts and Grasslands
+
+@intro
+This chapter covers dry lands and grass lands. **Desert** questions ask why hot deserts lie on the **western margins** of continents, size order, which desert is in which country (Gobi, Taklamakan, Karakum, Dasht-e-Lut, Atacama, Kalahari, Gibson, Patagonian) and records (largest, driest, most populated). **Grassland** questions are about regional names: Prairies, Pampas, Steppes, Veld, Downs, Llanos, Campos, Puszta and Savanna. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 6.1 | Deserts: Definition and Location
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Desert is defined as the area where –
+(a) Temperature remains more than 420 C
+(b) No plants are found
+(c) Annual rain occurs less than 25 cm
+(d) Prominence of sand barrows
+@ans (c)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R). Choose the correct answer from the codes given below:
+Assertion (A) : Most of the hot deserts of the world are located on the Western margins of continents between 15º-30º North and South latitudes.
+Reason (R) : Trade winds lose their moisture and humidity as it move westward.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+Three things make the **west-coast hot deserts** (Sahara, Kalahari-Namib, Atacama, Sonoran, Great Australian):
+- **Trade winds** blow from the east and have lost their moisture by the time they reach the western coasts.
+- The **subtropical high-pressure belt** (about 30°) brings sinking, drying air.
+- **Cold ocean currents** offshore (Canary, Benguela, Humboldt, California, West Australian) chill the air and stop rain.
+
+@pyq U.P.P.C.S. (Pre) 2013
+Statement (A) : Deserts can be effective sources for the production of perennial energy.
+Reason (R) : As much energy is consumed by mankind in one year, Desert can receive the energy is more than that in only 6 hours from the Sun.
+Choose the correct answer from the following code –
+(a) (A) and (R), both are correct and (R) is the correct explanation of (A).
+(b) (A) and (R), both are correct, but (R) is not the correct explanation of (A).
+(c) (A) is correct, but (R) is false.
+(d) (A) is false but (R) is correct.
+@ans (a)
+@end
+
+This is the **Desertec** idea of German physicist **Gerhard Knies**. India's desert solar parks follow it: **Bhadla** (Rajasthan), one of the world's largest, and the **Khavda** renewable park (Kutch), planned at 30 GW.
+
+@section 6.2 | Deserts of the World
+
+@pyq U.P.P.C.S. (Pre) 1994
+The biggest desert in the world is :
+(a) Kalahari
+(b) Gobi
+(c) Sahara
+(d) Thar
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Consider the following deserts and arrange them in increasing order of their size (from smallest to largest)
+(I) Great Sandy Desert
+(II) Arabian Desert
+(III) Sahara Desert
+(IV) Gobi Desert
+Select the correct answer using the code given below :
+(a) II, I, III, IV
+(b) I, IV, II, III
+(c) I, II, IV, III
+(d) II, I, IV, III
+@ans (b)
+@end
+
+@table
+Desert | Country / region | Type | Area (approx.)
+Antarctic / Arctic | Polar | Cold (polar) | 14.0 / 13.9 million sq km
+Sahara | North Africa (11 countries) | Hot, trade-wind | 9.2 million sq km (largest hot desert)
+Arabian | Saudi Arabia and neighbours (Rub al Khali) | Hot | 2.3 million sq km
+Gobi | Mongolia and northern China | Cold, rain-shadow | 1.3 million sq km
+Kalahari | Botswana, Namibia, South Africa | Hot (semi-arid) | 0.9 million sq km
+Patagonian | Argentina | Temperate, rain-shadow | 0.67 million sq km
+Great Victoria / Great Sandy / Gibson | Australia | Hot | 0.35 / 0.28 / 0.16 million sq km
+Taklamakan | Xinjiang, China | Cold, continental | 0.34 million sq km
+Karakum / Kyzylkum | Turkmenistan / Uzbekistan-Kazakhstan | Cold, continental | 0.35 / 0.30 million sq km
+Thar | India and Pakistan | Hot | 0.2 million sq km (most densely populated)
+Atacama | Northern Chile | Coastal, cold-current | 0.1 million sq km (driest)
+Dasht-e-Lut / Dasht-e-Kavir | Iran | Hot salt deserts | Lut has the hottest land surface recorded (about 70 °C)
+Sonoran / Mojave / Chihuahuan | USA and Mexico | Hot | -
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+The most populated desert in the world is –
+(a) Sahara
+(b) Gobi
+(c) Thar
+(d) Kalahari
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+The largest desert of South Asia is :
+(a) Atacama
+(b) Colorado
+(c) Kalahari
+(d) Thar
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+The Gobi Desert extends across which of the following countries?
+1. Mongolia
+2. China
+3. Russia
+4. Kazakhstan
+Select the correct answer from the code given below:
+Code:
+(a) 1 and 2 only
+(b) 1, 2 and 4 only
+(c) 1, 2 and 3 only
+(d) 1 only
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 1993
+In which country is the Gobi Desert located?
+(a) Mexico
+(b) Somalia
+(c) Mongolia
+(d) Egypt
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Takla Makan desert lies in –
+(a) Afghanistan
+(b) China
+(c) Kazakhstan
+(d) Mongolia
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P. P.C.S. (Pre) 2018
+Which of the following is not correctly matched?
+Desert - Country
+(a) Sonoran - United States of America
+(b) Taklamakan - China
+(c) Karakum - Turkmenistan
+(d) Gibson - Brazil
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Kara Kum desert is situated in which of the following countries?
+(a) Tajikistan
+(b) Kazakhstan
+(c) Turkmenistan
+(d) Kyrgyzstan
+@ans (c) & (b)
+@end
+
+The **Karakum** ("black sand") covers about 70% of **Turkmenistan**. A smaller part near the Aral Sea in **Kazakhstan** is called the Aral Karakum, which is why the Commission accepted both (c) and (b).
+
+@pyq U.P.P.C.S. (Mains) 2015
+Dasht-e- Lut is located in –
+(a) Iran
+(b) Libya
+(c) Kenya
+(d) Nigeria
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following statements is not true regarding the Atacama ?
+(a) It is a desert in South America.
+(b) It is World's driest desert.
+(c) It lies in Southern Chile.
+(d) It has rich reserves of nitrates.
+@ans (c)
+@end
+
+@one U.P. Lower Sub. (Pre) 2009
+The Driest place on earth is
+@ans Atacama Desert
+@end
+
+The **Atacama** lies in **northern** Chile, between the Andes and the cold **Humboldt (Peru) current**. Some weather stations there have never recorded rain. It is rich in **nitrates**, **copper** (Chuquicamata) and **lithium**, which makes it part of the "Lithium Triangle" with Bolivia and Argentina.
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following is a temperate desert ?
+(a) Arabian Desert
+(b) Atacama Desert
+(c) Kalahari Desert
+(d) Patagonian Desert
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (GIC) 2010; U.P.P.C.S. (Mains) 2008
+The Kalahari Desert lies in
+1. Botswana
+2. Namibia
+3. Zaire
+4. Zambia
+Select the correct answer from the code given below –
+Code :
+(a) 1 only
+(b) 2 only
+(c) 1 and 2
+(d) 3 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which of the following deserts is located in the Southern Hemisphere?
+(a) Kalahari
+(b) Gobi
+(c) Chihuahuan
+(d) Sahara
+@ans (a)
+@end
+
+@trap
+**Gibson is in Australia**, not Brazil. **Atacama is in northern Chile**, not southern. **Patagonia** is a **temperate rain-shadow** desert (east of the Andes), not a trade-wind one. The **Gobi** does not enter Russia or Kazakhstan. The **Karakum** is in Turkmenistan and the **Kyzylkum** in Uzbekistan-Kazakhstan. **Largest desert overall = Antarctica**, but the **largest hot desert = Sahara**.
+@end
+
+@section 6.3 | Grasslands of the World
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Prairies - North America
+(b) Pampas - South America
+(c) Steppes - Europe
+(d) Veld - Australia
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List -I (Grassland) | List-II (Continent)
+A. Llanos | 1. North America
+B. Steppe | 2. Africa
+C. Prairies | 3. Europe
+D. Veld | 4. South America
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 2 3 4 1
+(c) 4 3 2 1
+(d) 4 1 3 2
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (Grasslands) | List-II (Countries)
+A. Pampas | 1. Australia
+B. Pustaz | 2. South Africa
+C. Veld | 3. Argentina
+D. Downs | 4. Hungary
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 3 2 1 4
+(c) 4 1 2 3
+(d) 4 2 1 3
+@ans (a)
+@end
+
+@table
+Grassland | Region | Type
+Prairies | USA and Canada (Great Plains) | Temperate; "granary of the world"
+Steppes | Eurasia: Ukraine to Kazakhstan and Mongolia | Temperate
+Pampas | Argentina, Uruguay, southern Brazil | Temperate
+Veld (Velds) | South Africa (High Veld) | Temperate
+Downs | Australia (Murray-Darling basin) | Temperate
+Canterbury | New Zealand (South Island) | Temperate
+Puszta | Hungary | Temperate
+Savanna | East and Central Africa (largest), also Sudan | **Tropical**
+Llanos | Venezuela and Colombia (Orinoco basin) | **Tropical**
+Campos | Brazilian Highlands | **Tropical**
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is not correctly matched ?
+(a) Downs - Tropical grassland
+(b) Steppes - Temperate grassland
+(c) Selva - Tropical forest
+(d) Taiga - Temperate forest
+@ans (a)
+@end
+
+@one U.P. Lower Sub. (Pre) 2013; U.P.P.C.S. (Pre) 2012
+Which one is not a temperate grassland?
+@ans Savanna
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which of the following temperate grasslands are found in Eurasia ?
+(a) Downs
+(b) Velds
+(c) Steppes
+(d) Prairies
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Pre) 1993
+The Savannas are most widespread in –
+(a) Africa
+(b) Asia
+(c) North America
+(d) South America
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which one of the following natural regions is known as 'Land of Big Games'?
+(a) Temperate Grassland
+(b) Tropical Monsoon Region
+(c) Hot Desert Region
+(d) Tropical Savanna Region
+@ans (d)
+@end
+
+The **African savanna** (Serengeti, Masai Mara, Kruger) has the great herds (wildebeest, zebra, elephant) and big predators. That is why it is called the "Land of Big Game".
+
+@pyq U.P.P.C.S. (Pre) 2005
+The wide treeless grassy plain in South America are called
+(a) Selvas
+(b) Pampas
+(c) Prairies
+(d) Steppes
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+In which one of the following countries are Pampas Grasslands located ?
+(a) Paraguay
+(b) Bolivia
+(c) Argentina
+(d) Uruguay
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+In which of the following countries is the Pampas grasslands situated?
+(a) Argentina
+(b) Brazil
+(c) Chile
+(d) Ecuador
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R).
+Assertion (A) : The Pampas plain is the main region for cultivation in Argentina.
+Reason (R) : The fertile soil of Pampas and the temperate climate are very useful for growing crops and grasses.
+Choose the correct answer from the code given below.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following is correctly matched
+(a) Campos - Northern Brazil
+(b) Llanos - Venezuela
+(c) Pampas - Chile
+(d) Selvas - Southern Brazil
+@ans (b)
+@end
+
+**Selva** is the Amazon **rainforest**, not a grassland. **Campos** are in the **south-central** Brazilian Highlands, and the **Pampas** are in Argentina, east of the Andes and not in Chile.
+
+@heatmap
+
+@pattern
+Deserts and grasslands are a **"name to place"** topic. Expect one desert question and one grassland question in most years. Recent papers (2022-2025) moved to **Central Asian and Iranian** deserts (Karakum, Dasht-e-Lut, Gobi's extent) and to **size order**. Grassland questions keep testing **tropical vs temperate** (Savanna, Llanos and Campos are tropical; Downs are temperate) and the Puszta-Hungary and Downs-Australia pairs.
+@end
+
+@next
+Likely next angles: **desertification** (UNCCD, COP16 at Riyadh, 2024), the **Great Green Wall** of the Sahel, the **Aral Sea** turning into the Aralkum desert, **Rub al Khali** (Empty Quarter), **Namib** (oldest desert, fog-fed), and **lithium in the Atacama**.
+@end
