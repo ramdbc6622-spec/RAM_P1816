@@ -1,0 +1,363 @@
+@chapter 4 | Geological History, Volcanoes and Earthquakes
+@unit UNIT II · THE LITHOSPHERE
+
+@intro
+This chapter covers the Earth's long history (dating, Pangaea and Gondwana, the order of life) and its restless crust. **Volcano** questions are mostly **name-to-country matching** (Etna, Vesuvius, Stromboli, Cotopaxi, Kilauea, Krakatoa, Erebus, Merapi). **Earthquake** questions test terms: focus, epicentre, the seismograph, the Richter scale and the Ring of Fire. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 4.1 | Geological History
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Which of the following Method is used to determine the age of the Earth ?
+(a) Carbon dating for the age of the fossils.
+(b) Germanium dating
+(c) Uranium dating
+(d) All of the above
+@ans (c)
+@end
+
+**Carbon-14** has a half-life of only about 5,730 years, so it can date things up to about 50,000 years old. The Earth's age, about **4.54 billion years**, comes from **uranium-lead** dating of meteorites and the oldest minerals (zircons).
+
+@pyq U.P.P.C.S. (Mains) 2005
+First fossil evidence for the existence of life on earth is
+(a) 0.3 million years back
+(b) 3 million years back
+(c) 5 million years back
+(d) 10 million years back
+@ans (*)
+@note The oldest fossil evidence of life (bacterial **stromatolites**) is about **3.5 billion** years old, not millions. All the options are wrong by a factor of a thousand, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+On the earth, originally, there was only one huge landmass which is known as –
+(a) Panthalassa
+(b) Pangea
+(c) Laurasia
+(d) Gondwanaland
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following continents was not a part of Gondwana Land?
+(a) North America
+(b) South America
+(c) Africa
+(d) Australia
+@ans (a)
+@end
+
+@table
+Term | Meaning
+Pangaea | Single supercontinent (about 335-175 million years ago); named by **Alfred Wegener** (1912, continental drift)
+Panthalassa | The world ocean that surrounded Pangaea
+Laurasia | Northern half: North America, Greenland, Europe, Asia (minus India)
+Gondwanaland | Southern half: South America, Africa, Arabia, Madagascar, **Peninsular India**, Australia, Antarctica
+Tethys Sea | Sea between Laurasia and Gondwana; its sediments rose to form the Himalayas and Alps
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Consider the following events.
+1. First reptiles
+2. First insects
+3. Shelled animals
+4. First mammals
+Arrange the above events in Chronological order of their origin on the earth and select the correct answer from the codes given below :
+Code :
+(a) 2 1 3 4
+(b) 2 3 1 4
+(c) 3 2 1 4
+(d) 2 4 1 3
+@ans (c)
+@end
+
+Shelled animals appeared in the **Cambrian explosion** (about 540 million years ago), insects in the Devonian (about 400 million), reptiles in the Carboniferous (about 310 million) and mammals in the Triassic (about 200 million).
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Which of the following periods has generally been considered to be the 'Little Ice Age'?
+(a) 750 A.D. - 850 A.D.
+(b) 950 A.D. - 1250 A.D.
+(c) 1650 A.D. - 1870 A.D.
+(d) 8000 to 10,000 years B.P. (Before Present)
+@ans (c)
+@end
+
+The **Little Ice Age** (about 1300-1870, coldest in the 1600s) followed the warm **Medieval Warm Period** (about 950-1250), which is option (b).
+
+@pyq U.P. P.C.S. (Mains) 2017
+Arrange in chronological order :
+1. Patpara formation
+2. Khetaunhi formation
+3. Baghor formation
+4. Sihawal formation
+Codes :
+(a) 1, 4, 2, 3
+(b) 4, 1, 3, 2
+(c) 1, 2, 3, 4
+(d) 4, 3, 2, 1
+@ans (b)
+@end
+
+These are Stone Age deposits of the **Son valley** (Sidhi, MP), next to UP's Mirzapur-Sonbhadra belt. In order: **Sihawal** (Lower Palaeolithic), **Patpara** (Middle), **Baghor** (Upper Palaeolithic) and **Khetaunhi** (Microlithic-Neolithic).
+
+@pyq U.P. P.C.S. (Pre) 2018
+Rajasthan desert or Thar desert is the expanse of which of the following?
+(a) Pilocene
+(b) Paleocene
+(c) Paleistocene and recent deposits
+(d) Oligocene
+@ans (c)
+@end
+
+@section 4.2 | Volcanoes
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following is the highest volcanic mountain in the world?
+(a) Mount Pinatubo
+(b) Mount Kilimanjaro
+(c) Mount Tall
+(d) Mount Cotopaxi
+@ans (d)
+@note **Cotopaxi** (Ecuador, about 5,897 m) is the highest of the options and one of the highest **active** volcanoes. The world's highest volcano overall is **Ojos del Salado** (about 6,893 m) on the Chile-Argentina border. Measured from base to summit, **Mauna Kea** (Hawaii) is the tallest.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P.P.C.S. (Pre) 2005
+Mauna Loa is an active volcano in –
+(a) Alaska
+(b) Hawaii
+(c) Italy
+(d) Japan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P.P.C.S. (Mains) 2006
+The most active Volcano is –
+(a) Cotopaxi
+(b) Fujiyama
+(c) Kilauea
+(d) Vesuvius
+@ans (c)
+@end
+
+**Mauna Loa** is the world's largest active volcano by volume. **Kilauea**, next to it, is among the most active. Both are **shield volcanoes**, built over the Hawaiian **hotspot**.
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following are active volcanoes ?
+1. Aconcagua
+2. Cotopaxi
+3. Etna
+4. Fujiyama
+Select the correct answer from the code given below :
+(a) 1 and 2
+(b) 3 and 4
+(c) 1, 2 and 3
+(d) 2, 3 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following are active Volcanoes ?
+1. Aconcagua
+2. Etna
+3. Kilimanjaro
+4. Vesuvius
+Select the correct answer from the code given below :
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 2 and 4
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2009
+The highest mountain peak of Africa, Kilimanjaro is situated in
+@ans Tanzania
+@end
+
+**Aconcagua** (Argentina, 6,961 m) is the highest peak of the Americas but is **not an active volcano**. **Kilimanjaro** (5,895 m) is **dormant**. **Fujiyama** last erupted in 1707 but is still classed as active.
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which Volcano is called 'the lighthouse' of Mediterranean Sea?
+(a) Etna
+(b) Pele
+(c) Stromboli
+(d) Vesuvius
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Match List-I with List-II and select the correct answer using the code given below the list:
+@match
+List-I | List-II
+A. Etna | 1. Ross Island
+B. Vesuvius | 2. Ecuador
+C. Erebus | 3. Italy
+D. Cotopaxi | 4. Sicily
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 1 2
+(c) 3 4 2 1
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Match List -I and List-II and select correct answer from the code given below:
+@match
+List-I | List - II
+A. Mount Kinabalu | 1. Argentina
+B. Elburz | 2. Malaysia
+C. Aconcagua | 3. Tanzania
+D. Kilimanjaro | 4. Iran
+@endmatch
+Code: A B C D
+(a) 1 4 2 3
+(b) 3 2 1 4
+(c) 2 4 3 1
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List - I (Volcano) | List-II (Country)
+A. Sabankaya | 1. Italy
+B. Mount Etna | 2. Peru
+C. Colima | 3. Indonesia
+D. Merapi | 4. Mexico
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 3 2 1 4
+(c) 2 1 4 3
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+The famous Volcanic mountain 'Karakatoa' is situated in which of the following countries?
+(a) Italy
+(b) Indonesia
+(c) United States of America
+(d) Japan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Match List - I with List - II and select the correct answer using the codes given below the lists :
+@match
+List - I (Volcanic Mountains) | List - II (Country)
+A. Mount Rainier | 1. Italy
+B. Mount Etna | 2. Mexico
+C. Mount Paricutin | 3. Philippines
+D. Mount Apo | 4. U.S.A.
+@endmatch
+Codes : A B C D
+(a) 4 2 1 3
+(b) 4 1 2 3
+(c) 2 1 4 3
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@table
+Volcano | Country / place | Remember by
+Etna | Sicily, Italy | Europe's highest active volcano
+Vesuvius | Naples, Italy | Buried Pompeii (79 AD)
+Stromboli | Aeolian Islands, Italy | "Lighthouse of the Mediterranean"
+Kilauea, Mauna Loa | Hawaii, USA | Shield volcanoes over a hotspot
+Mount St. Helens, Rainier | Washington, USA | Cascade Range; St. Helens erupted in 1980
+Paricutin | Mexico | Grew from a cornfield in 1943
+Popocatepetl, Colima | Mexico | Active, near Mexico City / Pacific coast
+Cotopaxi, Chimborazo | Ecuador | Andes; Chimborazo's summit is the point farthest from Earth's centre
+Sabancaya | Peru | Andes
+Krakatoa, Merapi, Tambora | Indonesia | Krakatoa 1883; Tambora 1815 caused the "year without a summer"
+Pinatubo, Taal, Apo | Philippines | Pinatubo erupted in 1991
+Fuji | Japan | Sacred cone volcano
+Erebus | Ross Island, Antarctica | Southernmost active volcano
+Kilimanjaro | Tanzania | Dormant; Africa's highest peak
+Barren Island | Andaman Sea, India | India's only active volcano
+@end
+
+@trap
+**Etna is on Sicily**, while **Vesuvius** is on the mainland near Naples, and both are in Italy. In match questions "Sicily" and "Italy" can appear as separate options. **Aconcagua and Kilimanjaro** are volcanic in origin but **not active**. **Elburz** (Alborz) is a mountain range in Iran, and its peak **Damavand** is a dormant volcano.
+@end
+
+@section 4.3 | Earthquakes
+
+@pyq U.P.P.C.S. (Pre) 2008
+The 'Ring of Fire' is associated with
+1. Earthquake
+2. Volcanoes
+3. Pacific Ocean
+4. Forest Fires
+Choose your answer with the help of codes given below :
+Code :
+(a) 1, 2 and 3
+(b) 2 and 3
+(c) 2 and 4
+(d) 1, 2, 3 and 4
+@ans (a)
+@end
+
+The **Pacific Ring of Fire** (about 40,000 km) traces converging plate edges around the Pacific. It has about **75%** of the world's active volcanoes and about **90%** of its earthquakes, in Chile, the Andes, Mexico, California, Alaska, Japan, the Philippines, Indonesia and New Zealand.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The intensity of earthquakes is measured
+(a) On the Richter scale
+(b) On the Kelvin scale
+(c) In decibel
+(d) In Pascal
+@ans (a)
+@end
+
+Strictly, the **Richter scale** (1935) measures **magnitude**, the energy released, and the **Modified Mercalli scale** measures **intensity**, the damage felt. Seismologists now prefer the **moment magnitude scale** (Mw). Each whole step on these scales means about **32 times** more energy.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following instruments is used to record seismic waves?
+(a) Seismogram
+(b) Seismograph
+(c) Seismoscope
+(d) Seismometer
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2017
+The place on earth's surface which records the seismic wave first, is called :
+(a) Focus
+(b) Epicentre
+(c) Seismosite
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The North-Western Region of the Indian Sub-continent is susceptible to earthquake activity because of –
+(a) Volcanic activity
+(b) Plate tectonic activity
+(c) coral formation activity
+(d) All of the above
+@ans (b)
+@end
+
+@table
+Earthquake term | Meaning
+Focus (hypocentre) | Point **inside** the Earth where the rupture starts
+Epicentre | Point on the **surface** directly above the focus; first to feel the shaking
+P-waves | Primary, fastest; pass through solids and liquids
+S-waves | Secondary; only through solids, so the outer core is liquid
+L (surface) waves | Slowest but most destructive
+Shadow zone | About 105°-145° from the epicentre, where direct P- and S-waves do not arrive
+Seismograph / seismogram | Instrument / the record it makes
+@end
+
+@heatmap
+
+@pattern
+In this chapter **volcano-country matching** dominates (about half the PYQs). Learn the table above, especially the Italian trio (Etna, Vesuvius, Stromboli), the Andes pair (Cotopaxi, Chimborazo) and Indonesia's Krakatoa and Merapi. Earthquake questions stay with the definitions. Geological-history questions are rarer but recent (2016-2018).
+@end
+
+@next
+Likely next angles: **Hunga Tonga** (2022), **Iceland's Reykjanes** eruptions (2023-25), **Etna** and **Kilauea** activity, the **Turkey-Syria earthquake** (2023, East Anatolian Fault) and **Myanmar** (2025, Sagaing Fault), **Barren Island** (India's only active volcano) and India's **seismic zoning map**.
+@end

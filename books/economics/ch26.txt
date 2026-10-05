@@ -1,0 +1,625 @@
+@chapter 26 | Urbanization II: Cities, Migration and Urban Missions
+
+@intro
+The second urbanization chapter covers the **classes of towns**, **million-plus cities** and **megacities** (India and UP), city rankings, **migration** (Lee, Hauser), **urban problems** (slums, crime, poverty), and the **urban missions** (JNNURM, Smart Cities, AMRUT, India Urban Observatory). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 26.1 | Classes of Towns
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+The classified number of urban centres in India is :
+(a) 4
+(b) 7
+(c) 5
+(d) 6
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following classes of towns are included in the category of small towns by the Census of India ?
+(a) Class VI
+(b) Class V and VI
+(c) Class IV, V and VI
+(d) Class III, IV, V and VI
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+In India, the growth rate of population is the highest in :
+(a) Class I towns
+(b) Class II towns
+(c) Class IV towns
+(d) Class VI towns
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+As per Census 2001, the class I cities of India claim a share of the total urban population of :
+(a) 44.40%
+(b) 56.50%
+(c) 65.20%
+(d) 62.32%
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+With reference to the urbanization in India, which of the following statement(s) is/are correct?
+1. According to the 2011 Census more than 60% of total urban population of the country resides in category 1 cities.
+2. There were 53 urban agglomerations with 1 million plus population each in 2011 in the country.
+Select the correct answer from the codes given below:
+Codes:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@table
+Town class (Census) | Population
+**Class I** (cities) | **1,00,000+**
+Class II | 50,000-99,999
+Class III | 20,000-49,999
+**Class IV** | 10,000-19,999
+**Class V** | 5,000-9,999
+**Class VI** | Below 5,000
+Small towns | **Class IV, V and VI**
+Share of Class I cities | **62.3% (2001)**, about **70% (2011)** of the urban population
+Fastest growth | **Class I towns**
+@end
+
+@section 26.2 | Million-Plus Cities and Megacities
+
+@pyq U.P.P.C.S. (Mains) 2013, 2017
+According to 2011 Census, how many million cities are there in India?
+(a) 35
+(b) 46
+(c) 53
+(d) 57
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A.(Pre) 2006
+How many cities with ‘Million Plus Population’ in India (Census 2001)?
+(a) 39
+(b) 29
+(c) 49
+(d) 59
+@ans (*)
+@note Census 2001 counted **35** million-plus urban agglomerations, which is not among the options, so the source marks it (*). Census 2011 counted **53**.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per 2011 Census, the percentage of population of metropolitan cities to the total urban population of India was :
+(a) 31.16
+(b) 36.48
+(c) 42.61
+(d) 49.20
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The share of million cities to the total urban population of India (2001) is about :
+(a) 23 percent
+(b) 28 percent
+(c) 38 percent
+(d) 43 percent
+@ans (c)
+@end
+
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Assertion (A) : The mega-cities of India have varying rates of population growth.
+Reason (R) : As per 2001 census, India has four mega cities.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+As per 2001 Census which one of the following is not a Megacity of India?
+(a) Ahmedabad
+(b) Chennai
+(c) Bengaluru
+(d) Hyderabad
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+The correct sequence of metropolitan cities on the basis of population size, in the descending order, as per Census of 2001, is :
+(a) Delhi, Greater Mumbai, Kolkata, Ahmedabad
+(b) Chennai, Kolkata, Greater Mumbai, Delhi
+(c) Kolkata, Greater Mumbai, Chennai, Hyderabad
+(d) Greater Mumbai, Delhi, Kolkata, Bangalore
+@ans (d)
+@end
+
+
+@one U.P. R.O./A.R.O. (Pre) 2016
+As per Census of India 2011, which one pairs of cities recorded the highest population?
+@ans Greater Mumbai and Delhi
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+According to the population, which of the following sequences of cities is correct?
+(a) Bombay-Kolkata-Delhi-Madras
+(b) Kolkata-Bombay-Delhi-Madras
+(c) Delhi -Kolkata- Madras-Bombay
+(d) Delhi-Madras-Bombay-Kolkata
+@ans (a)
+@note In 1991 the order was **Bombay, Calcutta, Delhi, Madras**, matching the source key (a). The source notes that when this was first asked (1993, on 1981 data) **Calcutta** led, which was option (b).
+@end
+
+
+
+@table
+City fact | Detail
+**Million-plus UAs** | **35 (2001)**, **53 (2011)**; they hold **42.6%** of the urban population (37.8% in 2001)
+**Megacities** (2001, 5 million+) | **Greater Mumbai, Kolkata, Delhi, Chennai, Bengaluru, Hyderabad** (6); Ahmedabad was not one
+Largest UAs (2011) | **Greater Mumbai (18.4 million)**, **Delhi (16.3 million)**, Kolkata (14.1 million)
+First million city (1901) | **Kolkata**
+Smallest million city | **Rajkot** (2001); **Kota** (2011, provisional)
+States with no million city | **Odisha** and **Assam** (2001); Odisha (2011)
+Metro with highest sex ratio | **Chennai**
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+As per 2001 Census the largest number of Million cities are in the State of :
+(a) Maharashtra
+(b) Tamil Nadu
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following States does not have a million plus urban agglomeration as per 2011 Census?
+(a) Haryana
+(b) Jammu & Kashmir
+(c) Odisha
+(d) Jharkhand
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which one of the following is not a Million city in Madhya Pradesh?
+(a) Bhopal
+(b) Gwalior
+(c) Indore
+(d) Jabalpur
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+As per the 2001 Census, India has 35 million-population cities, of which UP has :
+(a) 2
+(b) 3
+(c) 5
+(d) 6
+@ans (d)
+@end
+
+
+@one U.P. Lower Sub. (Pre) 2015
+As per Census 2011, the number of 'Daslakhi (Million) cities' in Uttar Pradesh is
+@ans 7
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Arrange the following million cities of Uttar Pradesh in ascending order of their population size :
+1. Agra
+2. Allahabad
+3. Meerut
+4. Lucknow Use the codes given below to select the correct answer.
+Codes:
+(a) 1, 3, 2, 4
+(b) 4, 2, 1, 3
+(c) 2, 1, 4, 3
+(d) 2, 3, 1, 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Select the correct answer from the codes given below in terms of the population (2011) of the following urban centres in descending order : Urban Centres
+1. Meerut
+2. Ghaziabad
+3. Agra
+4. Varanasi
+Codes :
+(a) 1, 3, 4, 2
+(b) 2, 3, 4, 1
+(c) 4, 2, 1, 3
+(d) 3, 2, 1, 4
+@ans (b)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+According to Census of India 2011, the last rank amongst the million cities of the country is of :
+(a) Surat
+(b) Kota
+(c) Mangalore
+(d) Allahabad
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The smallest million city of India is :
+(a) Amritsar
+(b) Allahabad
+(c) Rajkot
+(d) Vijayawada
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following States of India has a million city as per 2001 Census Report ?
+(a) Assam
+(b) Jharkhand
+(c) Chhattisgarh
+(d) Odisha
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of the following was the first million city of the country according to 1901 Census?
+(a) Chennai
+(b) Delhi
+(c) Kolkata
+(d) Mumbai
+@ans (c)
+@end
+
+
+@one
+The Indian state which does not have a city with a population of one million
+@ans Odisha and Assam
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002, 2003
+Which of the following metros has the highest sexratio?
+(a) Mumbai
+(b) Kolkata
+(c) Chennai
+(d) Delhi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Uttar Pradesh recorded the highest growth rate of urban population during :
+(a) 1961-71
+(b) 1971-81
+(c) 1981-91
+(d) 1991-2001
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+According to the provisional data of Census 2011 of India, the density of population is the highest in which of the following cities of U.P. ?
+(a) Kanpur Nagar
+(b) Lucknow
+(c) Moradabad
+(d) Ghaziabad
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following statements is not true ?
+(a) Today nearly 28% of India’s population resides in towns.
+(b) The year 1921 is the great division in the demographic history of India.
+(c) Mumbai is the most populous metropolis of India.
+(d) There are only 5 million plus cities in Uttar Pradesh.
+@ans (d)
+@end
+
+
+@table
+UP's million-plus cities | 2001: **6** (most of any state) | 2011: **7**
+List (2011) | **Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Allahabad (Prayagraj)**
+Order (2011, UA) | **Kanpur ≈ Lucknow** (about 2.9 million each) > **Ghaziabad > Agra > Varanasi** > **Meerut > Allahabad**
+Densest UP city (2011) | **Ghaziabad**
+Fastest UP urban growth | **1971-81**
+@end
+
+Ascending order of the four cities in Q70 is **Allahabad < Meerut < Agra < Lucknow**.
+
+@section 26.3 | Migration and Urban Society
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Which of the following statements are correct ?
+1. The Northern cities of India have in general, an unbalanced sex-ratio.
+2. The eastern cities are scattered as against concentration of western cities.
+3. There is larger participation of women in the labour force in the south due to small proportion of Christians in the population as also the high literacy rate.
+4. Western cities have lower proportion of immigrants from rural areas.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 3 and 4
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Consider the following statements :
+1. Uttar Pradesh is not known as a State having longest road length in India.
+2. Reserve Bank of India sanctions exchange for import of goods.
+3. Urbanization is characterized by migration of people from rural areas to urban areas.
+4. Indus Project was the joint project of the Labour Departments of India and Canada.
+Which of these statements are correct ?
+(a) Only 1 and 2
+(b) Only 2 and 3
+(c) Only 1, 2 and 4
+(d) Only 1, 2 and .3
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2003
+According to the Philip M. Hauser, the migration of people from rural areas to urban areas is known by which one of the following names :
+(a) Population Displosion
+(b) Population Implosion
+(c) Population Technoplosion
+(d) Population Pariplosion
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Among the following whose name is associated with migration theory?
+(a) Notestein
+(b) Thompson
+(c) Lee
+(d) Doubleday
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Assertion (A) : All cities are expanding rapidly.
+Reason (R) : Village-City flow is increasing continuously.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true, but R is not a correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Consider the following statements and select the correct answer from the codes given below :
+Assertion (A) : In India rural to urban migration of population constitutes the largest share.
+Reason (R) : Rural to rural migration is mainly the women migration.
+Codes :
+(a) Both (A) and (B) are correct and (R) explains (A).
+(b) Both (A) and (R) are correct but (R) does not explain (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Urban corridors are concerned with :
+(a) Expanding urban functions
+(b) Urban transport hazards
+(c) Rural-urban fringe
+(d) Counter-urbanization
+@ans (a)
+@end
+
+
+@table
+Migration term | Meaning
+**Population implosion** | **Philip M. Hauser**'s term for people crowding into cities
+Push-pull **migration theory** | **Everett Lee** (1966); Ravenstein's laws (1885)
+Largest migration stream in India | **Rural to rural** (mostly **women** moving on marriage), not rural to urban
+**Urban corridors** | Strips of growth along transport routes; expanding urban functions
+Indus Project | India-**USA** joint project on child labour (not Canada)
+@end
+
+Northern and western Indian cities have **male-heavy** sex ratios from male migration; women's work participation is higher in the south because of **high literacy**, not a small Christian share, so statement 3 in Q80 is wrong.
+
+@section 26.4 | Urban Problems
+
+@pyq U.P.P.C.S. (Pre) 2002
+Assertion (A) : In India, the increase in crime has gone up with an increase in urbanization and industrialization.
+Reason (R): Industrial-urban economy causes family and cultural disorganization.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true but R is not the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Increasing Urbanization generates :
+1. Increase in slum population of metropolitan cities.
+2. Increasing concentration of population in large urban centers.
+3. Rapid decline in quantity and quality of services in urban areas.
+4. Fast upgradation of infrastructure facilities.
+Select the correct answer from the codes give below :
+Codes :
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2, and 4
+(d) All the four
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Consider the following statements and select the correct answer from the codes given below:
+1. Maharashtra is the most urbanized State in the country.
+2. Urban growth is transforming coastal area into concrete forest.
+3. The country's largest city is being built between Mumbai and Ahmedabad.
+4. Cities are full of slums and highly polluted.
+Codes :
+(a) 1, 2 and 3
+(b) 1, 3 and 4
+(c) 2, 3 and 4
+(d) 1, 3 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Assertion (A) : Roots of urban poverty in India lie in rural areas.
+Reason (R) : Rural areas have low level of literacy.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Which one of the following cities has the largest slum population?
+(a) Bangalore
+(b) Chennai
+(c) Delhi
+(d) Surat
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Arrange the following States of India in descending order of their slum population. Use the codes given below to select the correct answer :
+1. Andhra Pradesh
+2. Maharashtra
+3. Uttar Pradesh
+4. West Bengal
+Codes :
+(a) 2, 1, 4, 3
+(b) 2, 3, 4, 1
+(c) 3, 2, 1, 4
+(d) 4, 2, 3, 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India, maximum number of cities reporting slums are found in :
+(a) Andhra Pradesh
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+
+@table
+Slum fact (2011) | Figure
+Slum population | **6.5 crore** (17.4% of urban population)
+Largest slum population (state) | **Maharashtra**, then Andhra Pradesh, West Bengal, UP
+Most slum-reporting towns | **Tamil Nadu**
+City with most slum people (2001, among options) | **Delhi** (Greater Mumbai overall)
+Effects of rapid urbanization | **Slums**, crowding in big cities, **falling service quality**, crime; infrastructure does **not** keep pace
+@end
+
+The planned new city "between Mumbai and Ahmedabad" refers to the **Delhi-Mumbai Industrial Corridor** cities; Maharashtra is not the most urbanized state.
+
+@section 26.5 | Urban Missions
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+India Urban Observatory is situated at which one of the following place?
+(a) Dehradun
+(b) New Delhi
+(c) Chandigarh
+(d) Varanasi
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following does not consist of urban infrastructure?
+(a) Drinking water
+(b) Housing
+(c) Sanitation
+(d) Transport
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following is not a new scheme announced for the development of Urban Infrastructure?
+(a) Swachh Bharat Mission
+(b) Heritage City Development and Augmentation Scheme
+(c) Smart City Scheme
+(d) Digital India Scheme
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+The National Urban Renewal Mission has been named after :
+(a) Indira Gandhi
+(b) Jawaharlal Nehru
+(c) Rajendra Prasad
+(d) Rajiv Gandhi
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is not an objective of JNNURM?
+(a) Urban Electrification
+(b) Urban Transport
+(c) Development of Heritage area
+(d) Sanitation and Sewage
+@ans (a)
+@end
+
+
+@one U.P. R.O./A.R.O. (Mains) 2013
+Which one of the following is not true for Jawahar Lal Nehru National Urban Renewal Mission? It was :
+@ans a 10 year programme
+@end
+
+@one U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+JNNURM is concerned with improving which of the following?
+@ans Urban Infrastructure
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The revenue from which water and sewage will be financed in the Smart Cities Mission, that is :
+(a) Entertainment tax
+(b) Octroi and Entry tax
+(c) Education tax
+(d) Property tax
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which one of the following is not the objective of the smart city development?
+(a) Good governance
+(b) Clean green city
+(c) Stabilizing quality of life
+(d) Smart mobility
+@ans (c)
+@end
+
+
+@table
+Urban mission | Year | Detail
+**JNNURM** | **December 2005** | 7 years (to 2012, extended to 2014), not 10; urban infrastructure, transport, sanitation, heritage areas, slum services; not electrification
+**Smart Cities Mission** | **25 June 2015** | **100 cities**; water and sewerage financed partly by **property tax**; aims: good governance, clean and green city, smart mobility
+AMRUT / AMRUT 2.0 | 2015 / 2021 | Water supply and sewerage in 500 cities
+HRIDAY | 2015 | **Heritage cities**
+**India Urban Observatory** | **2019**, **New Delhi** | Real-time city data (Ministry of Housing and Urban Affairs)
+Urban infrastructure | **Water, sanitation, transport**; housing is a separate sector
+@end
+
+@up UP link: UP has **7 million-plus cities** (2011), with **Kanpur and Lucknow** the largest; **Ghaziabad** is the densest. Ten UP cities are in the **Smart Cities Mission** (Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Aligarh, Jhansi, Moradabad, Bareilly, Saharanpur). The planned **Noida-Greater Noida-Jewar** belt is UP's fastest-growing urban corridor.
+
+@trap
+**Class I = 1 lakh+; small towns = Class IV-VI.** **Million-plus: 35 (2001), 53 (2011).** **6 megacities in 2001 (no Ahmedabad).** **Mumbai > Delhi > Kolkata.** **Kolkata first million city (1901).** **UP: 6 million cities in 2001, 7 in 2011.** **Hauser = population implosion; Lee = migration theory.** **Rural-to-rural = largest stream (women).** **JNNURM 2005, 7 years.** **Smart Cities 2015, 100 cities, property tax.** **India Urban Observatory: New Delhi.**
+@end
+
+@heatmap
+
+@pattern
+Million-city facts (numbers, UP cities, smallest city) and urban missions dominate this half. The 2017-2021 papers added Smart Cities objectives, the India Urban Observatory and migration theory.
+@end
+
+@next
+Likely next angles: **Smart Cities Mission** closure (March 2025) results, **Urban Challenge Fund** (Budget 2025-26), **PM e-Bus Sewa**, **Census 2027** city rankings, and UP's metro and urban corridor projects.
+@end

@@ -1,0 +1,493 @@
+@chapter 17 | Organic Chemistry, Polymers, Acids and Explosives
+
+@intro
+Organic chemistry in UPPSC is practical: **methane** from paddy fields, **ethylene** and **calcium carbide** for ripening fruit, methyl alcohol ("wood spirit") and beer, **polymers** natural and synthetic (rubber, silk, nylon, polythene, Teflon, Kevlar, Lexan, Bakelite, PVC), **organic acids** in food (lactic, acetic, tartaric, citric, formic, oxalic), and **explosives** (TNT, RDX, nitroglycerine). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 17.1 | Basic Organic Compounds
+
+@pyq U.P.P.C.S. (Mains) 2015; U.P.U.D.A./L.D.A. (Pre) 2001
+Which is the fundamental element of all organic compounds?
+(a) Nitrogen
+(b) Oxygen
+(c) Carbon
+(d) Brimstone
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Methane gas producing field is –
+(a) Wheatfield
+(b) Paddy field
+(c) Cotton field
+(d) Groundnut field
+@ans (b)
+@end
+
+
+All organic compounds contain **carbon** (usually with hydrogen). **Methane** (CH_{4}), the simplest hydrocarbon, comes from waterlogged **paddy fields**, cattle (enteric fermentation), wetlands, landfills and coal mines; it is the main part of natural gas, biogas and CNG.
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P. U.D.A./L.D.A. (Pre) 2010
+Which one of the following chemicals helps in fruit ripening?
+(a) Ethephon
+(b) Atrazine
+(c) Isoproturan
+(d) Malathion
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following chemicals is used for ripening?
+(a) Sodium Chloride
+(b) Calcium Carbide
+(c) Potassium Chloride
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O (Pre) 2014
+Fruit ripening is promoted by which of the following?
+(a) Carbon dioxide
+(b) Sulphur dioxide
+(c) Nitrogen
+(d) Ethylene
+@ans (d)
+@end
+
+
+**Ethylene** (C_{2}H_{4}) is the natural **ripening hormone** of fruits. **Ethephon** releases ethylene and is the approved ripening agent. **Calcium carbide** gives off **acetylene**, which also ripens fruit, but it carries arsenic and phosphorus impurities and is **banned** for this use by FSSAI.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is also known as 'wood spirit'?
+(a) Methyl alcohol
+(b) Ethyl alcohol
+(c) Ethylene glycol
+(d) Glycerol
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Alcohol that is derived from fermentation of germinated barley grains is known as:
+(a) Beer
+(b) Wine
+(c) Vodka
+(d) Rum
+@ans (a)
+@end
+
+
+@table
+Alcohol | Source / use
+**Methyl alcohol (methanol)** | "**Wood spirit**" (from wood distillation); **poisonous**, causes blindness and death (spurious liquor)
+**Ethyl alcohol (ethanol)** | From fermenting sugar (molasses) or grain; drinks, **ethanol blending** in petrol (E20), sanitiser
+Ethylene glycol | Antifreeze
+Glycerol | Soaps, cosmetics, **nitroglycerine**
+**Beer** | Fermented **germinated barley** (malt) with hops
+Wine | Fermented **grapes**
+Rum | Molasses / sugarcane
+Vodka | Potatoes or grain, distilled
+@end
+
+@section 17.2 | Polymers
+
+@pyq U.P.P.C.S. (Pre) 1992
+Natural rubber is a polymer of –
+(a) Ethylene
+(b) Isoprene
+(c) Acytylene
+(d) Hexane
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Mains) 2015
+Which of the following is not a Natural polymer?
+(a) Wool
+(b) Silk
+(c) Leather
+(d) Nylon
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which among the following is a constituent of natural silk?
+(a) Potassium
+(b) Magnesium
+(c) Nitrogen
+(d) Phosphorus
+@ans (c)
+@end
+
+
+@one
+Which one of the following substances is a natural polymer?
+@ans Silk
+@end
+
+@pyq U.P.Lower Sub. (Pre) 2009
+Which of the following is not a natural polymer –
+(a) Ghee
+(b) Starch
+(c) Protein
+(d) Cotton
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2020
+Which one of the following substance is NOT synthetic?
+(a) Fibroin
+(b) Lexan
+(c) Neoprene
+(d) Teflon
+@ans (a)
+@end
+
+
+**Polymers** are giant molecules made of repeating units (monomers). **Natural polymers**: starch, cellulose (cotton, wood), **proteins** (wool, **silk**, leather), natural **rubber** (polyisoprene), DNA. Silk's protein **fibroin** contains **nitrogen** like all proteins. **Ghee** is a fat, not a polymer.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following gases is used in manufacturing of polythene?
+(a) Ethylene
+(b) Carbon-di-oxide
+(c) Nitrogen
+(d) Carbon monoxide
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following polymer is NOT a thermoplastic?
+(a) Teflon
+(b) Neoprene
+(c) Polystyrene
+(d) Polythene
+@ans (b)
+@end
+
+
+@table
+Polymer | Monomer / type | Use
+**Polythene** | **Ethylene** | Bags, bottles (thermoplastic)
+**PVC** | Vinyl chloride | Pipes, wires; **not biodegradable**
+Polystyrene | Styrene | Thermocol, packaging
+**Teflon** (PTFE) | Tetrafluoroethylene | **Non-stick** pans
+**Neoprene** | Chloroprene | **Synthetic rubber** (elastomer), not a thermoplastic
+**Nylon** | Polyamide | First synthetic fibre (1935)
+**Dacron / terylene** | Polyester | Clothes
+**Bakelite** | **Phenol + formaldehyde** | Switches, handles (**thermosetting**)
+**Kevlar** | Aromatic **polyamide** | **Bullet-proof vests**, helmets
+**Lexan** | **Polycarbonate** | **Bullet-proof windows**, CDs, visors
+Glyptal | Alkyd resin | Paints, lacquers
+Gutta-percha | Natural polyisoprene | Old cable insulation, dentistry
+@end
+
+**Thermoplastics** soften on heating and can be remoulded (polythene, PVC, polystyrene, Teflon); **thermosetting** plastics set permanently (Bakelite, melamine).
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P.P.S.C. (GIC) 2010; U.P. U.D.A./L.D.A. (Mains) 2010; U.P.P.C.S. (Spl.) (Pre) 2005
+Which one of the following polymer is used in making bullet-proof vests ?
+(a) Bakelite
+(b) Polyamides
+(c) Teflon
+(d) Polyurethanes
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following polymers is used for making bullet-proof windows?
+(a) Polycarbonates
+(b) Polyurethanes
+(c) Polystyrene
+(d) Polyamides
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which one of the following polymers are used for making bulletproof materials? I. Kevlar II. Glyptal III. Lexan
+Select the correct answer using the codes given below :
+Code :
+(a) I and II
+(b) II and III
+(c) I and III
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003
+Consider the following statements :
+1. Teflon and Dacron are polymers
+2. Neoprene is synthetic rubber
+3. Polythene is polyethylene polymer
+4. Natural rubber is chloroprene
+Which of the above statements are correct :
+(a) 1, 2 and 3
+(b) 1, 2 and 4
+(c) 2, 3 and 4
+(d) 1, 3 and 4.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following polymers is used for the production of non-stick pans?
+(a) Teflon
+(b) Neoprene
+(c) P.V.C.
+(d) Gutta-Percha
+@ans (a)
+@end
+
+@one
+The polymer especially used as a non-stick surface on utensils is
+@ans Teflon
+@end
+
+
+@pyq U.P.P.C.S (Mains) 2015
+Which one of the following substances is used in glazing the pottery?
+(a) Alum
+(b) Calomel
+(c) Zinc chloride
+(d) Zinc oxide
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+Phenol is used in the manufacture of which one of the following ?
+(a) P.V.C.
+(b) Nylon
+(c) Polystyrene
+(d) Bakelite
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following polymers is not biodegradable?
+(a) Cellulose
+(b) Starch
+(c) Protein
+(d) PVC
+@ans (d)
+@end
+
+
+**Glazing** gives pottery a glassy coat using silica and metal oxides such as zinc oxide or lead oxide. **Biodegradable** polymers (starch, cellulose, protein, PHBV) are broken down by microbes; most synthetic plastics such as **PVC** and polythene are not. India banned many **single-use plastic** items from 1 July 2022.
+
+@section 17.3 | Organic Acids in Nature
+
+@pyq U.P. P.C.S. (Pre) 1992, 2010; U.P. Lower Sub. (Spl.) (Pre) 2008
+Accumulation of which one of the following in the muscles leads to fatigue?
+(a) Lactic acid
+(b) Pyruvic acid
+(c) Benzoic acid
+(d) Uric acid
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Milk openly placed for sometime becomes sour due to
+(a) Carbonic acid
+(b) Lactic acid
+(c) Citric acid
+(d) Acetic acid
+@ans (b)
+@end
+
+@one
+Which acid is present in sour milk products?
+@ans Lactic acid
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following pairs is not correctly matched?
+(a) Ascorbic acid - Lemon
+(b) Maltose - Malt
+(c) Acetic acid - Curd
+(d) Formic acid - Red Ant
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is/are NOT correctly matched ?
+(Acid) – (Acid found in)
+1. Lactic acid – Curd
+2. Tartaric acid – Grapes
+3. Acetic acid – Potato
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I | List-II
+A. Pickle | 1. Carbonic Acid
+B. Sour Milk | 2. Acetic Acid
+C. Apple | 3. Lactic Acid
+D. Cold drinks and soda water | 4. Malic Acid
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 4 3 1 2
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Match List-I with List-II and choose the correct answer using the codes given below:
+@match
+List-I (Natural Source) | List-II (Acid)
+A. Vinegar | i. Methanoic acid
+B. Tamarind | ii. Lactic acid
+C. Sour milk (curd) | iii. Acetic acid
+D. Nettle sting | iv. Tartaric acid
+@endmatch
+Codes :
+(a) A-iv, B-i, C-iii, D-ii
+(b) A-iii, B-iv, C-ii, D-i
+(c) A-i, B-iii, C-iv, D-ii
+(d) A-ii, B-iii, C-iv, D-i
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Pre) 2017
+Which one of the following organic acids is abundant in grapes, tamarind and banana?
+(a) Acetic acid
+(b) Citric acid
+(c) Lactic acid
+(d) Tartaric acid
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2003
+Which acid is used in photography–
+(a) Formic acid
+(b) Oxalic acid
+(c) Citric acid
+(d) Acetic acid
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following acids is used in the manufacturing of baking powder ?
+(a) Oxalic Acid
+(b) Lactic Acid
+(c) Tartaric Acid
+(d) Benzoic Acid
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Vinegar is the solution of which of the following?
+(a) Oxalic acid
+(b) Citric acid
+(c) Hydrochloric acid
+(d) Acetic acid
+@ans (d)
+@end
+
+
+@table
+Acid | Found in / use
+**Lactic acid** | **Sour milk, curd**; builds up in **tired muscles**
+**Acetic acid** (ethanoic) | **Vinegar** (5-8%), pickles
+**Tartaric acid** | **Tamarind, grapes**, bananas; **baking powder** (with baking soda)
+**Citric acid** | Lemon, orange
+**Ascorbic acid** | **Vitamin C**: amla, citrus
+**Malic acid** | **Apple**
+**Formic acid** (methanoic) | **Ant and bee stings, nettle**
+**Oxalic acid** | Spinach, tomato; kidney stones (calcium oxalate); ferrous oxalate developer in photography; rust removal
+**Uric acid** | Urine; excess causes **gout**
+Carbonic acid | **Soda water**, cold drinks
+Butyric acid | Rancid butter
+Hydrochloric acid | Gastric juice in the stomach
+@end
+
+@section 17.4 | Explosives
+
+@pyq U.P.P.C.S. (Pre) 2001, 2003, 2014; U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Mains) 2015
+Which one of the following is not an explosive :
+(a) Trinitrotoluene (TNT)
+(b) Trinitroglycerine
+(c) Cyclotrimethylene Trinitramine (RDX)
+(d) Nitrochloroform
+@ans (d)
+@end
+
+@pyq U.P. PCS (Mains) 2016
+RDX was invented by
+(a) Alfred Nobel
+(b) Soddy
+(c) Bergillins
+(d) Henning
+@ans (d)
+@end
+
+
+
+@one
+Which of the following statements is true?
+@ans R.D.X. is an explosive.
+@end
+
+@one
+Which of the following is another name of RDX?
+@ans Cyclonite
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following explosives does not contain nitroglycerine as an essential constituent ?
+(a) Cordite
+(b) Blasting Gelatine
+(c) Dynamite
+(d) Amatol
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following is used in the production of explosives?
+(a) Glycerol
+(b) Methanol
+(c) Urea
+(d) Oxalic acid
+@ans (a)
+@end
+
+@one
+Which explosive is called ‘Nobel oil’?
+@ans T.N.G.
+@end
+
+
+@table
+Explosive | Chemical / maker
+**TNT** | Trinitrotoluene
+**Nitroglycerine** (TNG, "Nobel's oil") | Glyceryl trinitrate, made by nitrating **glycerol** with nitric and sulphuric acids; also a heart medicine (angina)
+**Dynamite** | Nitroglycerine absorbed in kieselguhr (**Alfred Nobel**, 1867)
+**Blasting gelatine** | Nitroglycerine + nitrocellulose
+**Cordite** | Nitroglycerine + nitrocellulose + petroleum jelly (smokeless propellant)
+**Amatol** | **TNT + ammonium nitrate** (no nitroglycerine)
+**RDX** | **Cyclotrimethylene trinitramine** (cyclonite), patented by **Georg Friedrich Henning** (1898)
+Gunpowder | Charcoal + sulphur + potassium nitrate (saltpetre)
+@end
+
+**Chloropicrin** (nitrochloroform) is a fumigant, insecticide and tear gas, not an explosive.
+
+@trap
+**Calcium carbide gives acetylene** and is banned for ripening; **ethylene / ethephon** is the proper ripener. **Wood spirit = methanol.** **Nylon is synthetic**; silk, wool and leather are natural. **Kevlar → vests, Lexan → bullet-proof windows.** **Bakelite = phenol + formaldehyde.** **PVC is not biodegradable.** **Vinegar = acetic acid**, tamarind = tartaric, curd = lactic, ant = formic, apple = malic. **Amatol has no nitroglycerine.** **RDX = Henning.**
+@end
+
+@heatmap
+
+@pattern
+These questions are highly repetitive (ripening agents, natural polymers, bullet-proof polymers, acids in food), and the **2020-2025** papers turned them into multi-pair matches (acids and sources, natural vs synthetic substances). Learn the acid table and the polymer table completely.
+@end
+
+@next
+Likely next angles: **single-use plastic** rules and **biodegradable plastics** (PLA), **microplastics**, **ethanol blending (E20)** and its sources, **calcium carbide** misuse in fruit markets, **methanol poisoning** cases, **bio-polymers** from crop waste, and **PFAS** "forever chemicals" in non-stick coatings.
+@end

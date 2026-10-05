@@ -1,0 +1,414 @@
+@chapter 15 | Agriculture and the Green Revolution
+
+@intro
+Agriculture and allied sectors give about a sixth of India's gross value added but support close to half of its workforce. Holdings are small (average about 1.08 hectares in 2015-16) and mostly rain-fed outside the north-west. The **Green Revolution** of 1966-67 (high-yielding varieties, fertilisers, irrigation and assured prices) made India self-sufficient in food grains, mainly through **wheat** in Punjab, Haryana and **western Uttar Pradesh**. This chapter covers agricultural regions and institutions, the structure and problems of Indian farming, inputs, the Green Revolution and the "colour revolutions". It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 15.1 | Agricultural Regions, Scholars and Institutions
+
+@pyq U.P.P.C.S. (Mains) 2015
+Who has written 'The History of Indian Agriculture?
+(a) M. S. Swaminathan
+(b) S. Ayyapan
+(c) K.B. Thomas
+(d) M.S. Randhawa
+@ans (d)
+@end
+
+**M.S. Randhawa** wrote the four-volume *A History of Agriculture in India* (ICAR, 1980-86). As an administrator in Punjab he led agricultural extension during the Green Revolution and was the first Vice-Chancellor of Punjab Agricultural University, Ludhiana.
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P.R.O./A.R.O. (Mains) 2013; U.P.R.O./A.R.O. (Spl) (Pre) 2010
+The agro-ecological regions of the country are –
+(a) 15
+(b) 17
+(c) 18
+(d) 20
+@ans (d)
+@end
+
+@table
+Scheme | Prepared by | Number of regions
+Agro-ecological regions | NBSS&LUP (ICAR), Nagpur | 20 regions, 60 sub-regions
+Agro-climatic zones | Planning Commission (1989) | 15 zones
+Agro-climatic zones (NARP) | ICAR | 127 zones
+Micro agricultural regions | P. Sengupta and G. Sdasyuk (1968) | 60
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+P. Sengupta and G. Sdasyuk (1968) had divided India into how many micro agricultural regions?
+(a) 58
+(b) 63
+(c) 60
+(d) 65
+@ans (c)
+@end
+
+@trap
+Keep the three numbers apart: **20** agro-ecological regions (NBSS&LUP), **15** agro-climatic zones (Planning Commission), **60** micro regions (Sengupta and Sdasyuk). All three have been asked.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following statement/statements is/are correct?
+I. The first agricultural university was established in Pantnagar, Uttarakhand (formerly part of Uttar Pradesh), in 1960.
+II. During 1901–1905, six agricultural colleges were established in Kanpur, Pune, Sabour, Nagpur, Lyallpur and Coimbatore.
+Code:
+(a) I and II both
+(b) Neither I nor II
+(c) Only I
+(d) Only II
+@ans (c)
+@note statement II is widely repeated (in ICAR writings too), but the colleges' own records date most of them after 1905: Kanpur and Lyallpur 1906, Pune 1908. The key therefore treats II as wrong.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013; U.P.R.O./A.R.O. (Mains) 2013
+The first Agricultural University in the country was set up in the year –
+(a) 1950
+(b) 1960
+(c) 1970
+(d) 1980
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2014
+The first Agricultural University of the country is
+@ans GBPUAT, Pant Nagar
+@end
+
+UP link: the **Uttar Pradesh Agricultural University**, now **G.B. Pant University of Agriculture and Technology**, was opened at **Pantnagar** (Udham Singh Nagar) by Jawaharlal Nehru on **17 November 1960**, on the land-grant model of US universities. It was in UP until Uttarakhand was formed in 2000. Its high-yielding seeds ("Pantnagar seeds") spread across the Tarai and the north-west.
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Zero Till Seed cum-Fertilizer Drill was developed at
+(a) P.A.U. Ludhiana
+(b) G.B. Pant University of Agriculture and Technology, Pantnagar
+(c) IISR, Lucknow
+(d) IARI, New Delhi
+@ans (b)
+@end
+
+A **zero-till drill** sows wheat directly into the stubble of the harvested rice crop without ploughing. It saves time, fuel and water and lets wheat be sown on time in the rice-wheat belt of the Indo-Gangetic plain.
+
+@section 15.2 | Structure and Problems of Indian Agriculture
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Agriculture in India is considered as :
+(a) A means of livelihood
+(b) A profession
+(c) A trade
+(d) An industry
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements with reference to cultivated area of some countries of the world:
+1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
+2. India's location in tropical monsoon region helps diversified cropping all through the year.
+Which of the above statements is/are correct?
+(a) Both 1 and 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Only 2
+@ans (a)
+@end
+
+FAO data put India's cropland at about **168 million ha**, more than the USA (about 155), China (about 128) and Japan (about 4). With heat available all year, India grows **kharif, rabi and zaid** crops in succession where water allows.
+
+@pyq U.P.P.C.S. (Pre) 2007
+The reasons for low productivity in Indian agriculture is-
+(a) Overcrowding in Agriculture
+(b) Small Land Holding
+(c) Traditional agricultural practices
+(d) All of the Above
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2003
+Which of the following is not the reason for low productivity in Indian agriculture?
+(a) Pressure of the population on the land
+(b) Disguised unemployment
+(c) Cooperative farming
+(d) Small Land Holding
+@ans (c)
+@end
+
+**Cooperative farming** pools small plots so that machines, credit and inputs can be used efficiently; it is a remedy, not a cause. **Disguised unemployment** means more people work on a farm than are needed, so their marginal product is close to zero.
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+The average size of operational holdings in India is the largest in –
+(a) Punjab
+(b) Gujarat
+(c) Madhya Pradesh
+(d) Rajasthan
+@ans (a)
+@end
+
+@table
+Average holding (Agriculture Census 2015-16) | Hectares
+All India | 1.08
+Nagaland | 4.9 (largest)
+Punjab | 3.62
+Rajasthan | 2.73
+Gujarat | 1.88
+Madhya Pradesh | 1.57
+Uttar Pradesh | 0.73
+Kerala | 0.18 (smallest)
+@end
+
+UP link: Uttar Pradesh has the **largest number of holdings** (about 2.4 crore) but an average size of only about **0.73 ha**; over 80% are **marginal** (below 1 ha).
+
+@pyq U.P.P.C.S. (Mains) 2010
+Assertion (A) : The dry zone of India has a predominantly agrarian economy.
+Reason (R) : It has large potential for the second Green Revolution.
+Select the correct answer from the code given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+In southern India, the area of high agricultural productivity is found in –
+(a) Kerala coast
+(b) Tamil Nadu coast
+(c) Telangana
+(d) Vidarbha
+@ans (b)
+@end
+
+The **Kaveri delta** of the Tamil Nadu coast, the "rice bowl of the south", combines alluvial soil, canal and tank irrigation and two rains (the south-west and north-east monsoons). **Vidarbha** and **Telangana** are largely rain-fed and drought-prone.
+
+@pyq U.P.P.C.S. (Mains) 2006
+The richest state in replenishable groundwater resource is :
+(a) Andhra Pradesh
+(b) Madhya Pradesh
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+UP link: the Central Ground Water Board's assessments put **Uttar Pradesh** first in annual replenishable groundwater (about 70 billion cubic metres), thanks to its deep alluvium and monsoon recharge. Over-extraction is still serious in western UP and parts of Bundelkhand.
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following states is the pioneer in introducing contract farming in India ?
+(a) Haryana
+(b) Punjab
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (b)
+@end
+
+**Contract farming** began in **Punjab** in the late 1980s, when **PepsiCo** contracted farmers in Hoshiarpur for tomatoes and potatoes. A **Model Contract Farming Act** was circulated to the states in 2018.
+
+@section 15.3 | Fertilisers, Green Manure and Green Agriculture
+
+@pyq U.P.P.C.S. (Mains) 2009
+The two largest consumers of chemical fertilizers in India are
+(a) Andhra Pradesh and Maharashtra
+(b) Punjab and Haryana
+(c) Punjab and Uttar Pradesh
+(d) Uttar Pradesh and Andhra Pradesh
+@ans (d)
+@note this follows the data of the time (2013-14: UP about 38 lakh tonnes, undivided Andhra Pradesh about 31 lakh tonnes). In 2023-24 the leading states were **Uttar Pradesh**, Madhya Pradesh, Maharashtra, Punjab and Karnataka. **Punjab** leads in consumption **per hectare**.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Balanced fertilizers are used to-
+(a) Increase the production
+(b) Improve Food quality
+(c) Maintain the productivity of the soil
+(d) All of these
+@ans (d)
+@end
+
+The ideal **N:P:K ratio** for Indian soils is about **4:2:1**. Actual use is tilted heavily towards cheap urea (nitrogen). The **Nutrient Based Subsidy** scheme (2010), **neem-coated urea** (2015) and **nano urea** (2021) aim at balance.
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following green manure crops contains highest amount of nitrogen?
+(a) Dhaincha
+(b) Sunhemp
+(c) Cow pea
+(d) Guar
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2008
+In newly improved arid land the crop suitable for the green manure is
+@ans Lobia
+@end
+
+**Green manure** crops, mostly legumes, are grown and ploughed in green to add nitrogen and organic matter. Legumes fix air nitrogen through *Rhizobium* bacteria in their root nodules. **Cowpea (lobia)**, **sunhemp** and **dhaincha** are the common ones; dhaincha also helps reclaim alkaline (usar) soil.
+
+@pyq U.P.P.C.S. (Mains) 2016
+"Green agriculture" involves –
+(a) Organic farming and emphasis on horticulture
+(b) Avoiding pesticides, chemical fertilizers while focusing on horticulture and floriculture
+(c) Integrated pest management, integrated nutrient supply and integrated natural resource management
+(d) Emphasis on food crops, horticulture and floriculture
+@ans (c)
+@end
+
+@section 15.4 | The Green Revolution
+
+@pyq U.P.P.C.S. (Pre) 2015
+Green Revolution was the result of adaptation of the new Agricultural Strategy, which was introduced in the 20th century during decades of –
+(a) Fifties
+(b) Seventies
+(c) Sixties
+(d) Eighties
+@ans (b)
+@note the **New Agricultural Strategy** and the High Yielding Varieties Programme began in **1966-67**, in the 1960s, which is the **seventh decade** of the century. The key (b) reflects "seventh decade" being translated as "seventies". In a fresh question, choose the **sixties**.
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The 'Father of Green Revolution' in the world is
+(a) Norman E. Borlaug
+(b) M. S. Swaminathan
+(c) G. S. Khush
+(d) B. P. Pal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+The term 'Evergreen Revolution' has been used for increasing agricultural production in India by –
+(a) Norman Borlaug
+(b) M.S. Swaminathan
+(c) Raj Krishna
+(d) R.K.V. Rao
+@ans (b)
+@end
+
+@table
+Person | Role
+Norman E. Borlaug | Father of the Green Revolution (world); dwarf wheat at CIMMYT, Mexico; Nobel Peace Prize 1970
+M.S. Swaminathan | Father of the Green Revolution in India; coined "Evergreen Revolution"; Bharat Ratna 2024
+C. Subramaniam | Union Agriculture Minister who launched the new strategy (1964-67); Bharat Ratna 1998
+G.S. Khush | Rice breeder at IRRI (IR36, IR64)
+B.P. Pal | Wheat breeder, first Director-General of ICAR
+Verghese Kurien | Father of the White Revolution (Operation Flood)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Green revolution is related to
+(a) Millet production
+(b) Pulse production
+(c) Wheat production
+(d) Oilseed production
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994, 2001
+Which one of the following crops is the highest beneficiary of the Green Revolution in both production and productivity:
+(a) Jowar
+(b) Maize
+(c) Rice
+(d) Wheat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+As a result of 'Green Revolution' the yield per hectare of wheat touched the record figure of :
+(a) 1500 kg
+(b) 2000 kg
+(c) 2222 kg
+(d) 3000 kg
+@ans (b)
+@end
+
+Mexican dwarf wheats (**Lerma Rojo, Sonora 64**) and Indian selections (**Kalyan Sona, Sonalika**) roughly tripled yields where water and fertiliser were available, from about 800 kg/ha in the early 1960s to about **2,000 kg/ha** by the late 1970s. National wheat yield reached about **3,600 kg/ha** in 2024-25.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Assertion (A) : Green Revolution Technology played a crucial role in gradually transforming traditional agriculture into a modern scientific one.
+Reason (R) : It did not involve much of social and environmental cost.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (b)
+@note the key reads (R) as true, but the Green Revolution had well-known costs: falling water tables, soil salinity, over-use of chemicals, loss of crop diversity, and wider gaps between regions and between large and small farmers. Most teachers would mark (c). Learn the costs either way.
+@end
+
+@trap
+The Green Revolution was a **wheat** revolution first (rice followed later), in **Punjab, Haryana and western UP**. It began in the **1960s** (1966-67). It did carry social and environmental costs, whatever an old key says.
+@end
+
+@section 15.5 | The Colour Revolutions
+
+@pyq U.P.P.C.S. (Pre) 2014
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List – I | List – II
+A. Growth in Food Production | 1. Green Revolution
+B. Milk Production | 2. Blue Revolution
+C. Fisheries | 3. White Revolution
+D. Fertilizers | 4. Grey Revolution
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 3 1 4 2
+(c) 2 4 3 1
+(d) 3 2 4 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Pink Revolution is associated with –
+(a) Cotton
+(b) Garlic
+(c) Grapes
+(d) Onion
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015, 2016
+Which of the following is not correctly matched?
+(Revolution) – (Related to)
+(a) Golden – Horticulture
+(b) White – Milk production
+(c) Blue – Poultry farming
+(d) Green – Crop production
+@ans (c)
+@end
+
+@one U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Which one is associated with "Blue Revolution"?
+@ans Fisheries
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P. Lower Sub. (Pre) 2002; U.P. P.C.S. (Mains) 2017; U.P.R.O./A.R.O. (Mains) 2014
+Yellow Revolution is related to –
+(a) Production of Foodgrain
+(b) Production of Oil-seeds
+(c) Production of Milk
+(d) Production of Fish.
+@ans (b)
+@end
+
+@table
+Revolution | Related to
+Green | Food grains (wheat, rice)
+White | Milk (Operation Flood)
+Blue | Fish and aquaculture
+Yellow | Oilseeds (Technology Mission on Oilseeds, 1986)
+Golden | Horticulture (fruits), also honey
+Silver | Eggs and poultry
+Pink | Onion (in UPPSC keys); also prawns, meat and pharmaceuticals
+Red | Meat and tomato
+Grey | Fertilisers
+Brown | Leather, cocoa
+Black | Petroleum
+Round | Potato
+Sweet | Honey (bee-keeping)
+@end
+
+@next
+**Natural farming** (National Mission on Natural Farming, 2024), the **Digital Agriculture Mission** and the **Agri Stack** farmer ID are the newest farm-policy themes. UP's **Bundelkhand** districts are a focus area for natural farming.
+@end
+
+@heatmap
+
+@pattern
+This chapter mixes concepts with names and numbers. The steady items are the Green Revolution (wheat, 1960s, Borlaug and Swaminathan) and the colour revolutions (yellow, blue, pink, white), each asked several times. UP brings Pantnagar (first agricultural university, 1960; zero-till drill), the largest replenishable groundwater, and the largest number of small holdings. Three keys carry notes because the data or wording has moved on: the decade of the Green Revolution, fertiliser-consuming states, and the "no social cost" Reason.
+@end

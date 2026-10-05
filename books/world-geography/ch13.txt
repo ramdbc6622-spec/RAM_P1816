@@ -1,0 +1,246 @@
+@chapter 13 | The Atmosphere
+
+@intro
+Atmosphere questions are textbook basics: the **composition** of air, the **layers** in order (troposphere, stratosphere, mesosphere, thermosphere with the ionosphere, exosphere) and what happens in each (weather, ozone, meteors, radio reflection, aurora). Then come **heat** (insolation, albedo), **pressure belts** (horse latitudes), **jet streams**, the **Coriolis force** and **clouds**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 13.1 | Composition and Layers
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which gas has a maximum percentage in the atmosphere?
+(a) Carbon
+(b) Nitrogen
+(c) Oxygen
+(d) Hydrogen
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which one of the following is the permanent gas in the atmosphere?
+(a) Carbon dioxide
+(b) Ozone
+(c) Nitrogen
+(d) Neon
+@ans (c)
+@end
+
+@table
+Gas | Share of dry air (by volume)
+Nitrogen | About 78.08%
+Oxygen | About 20.95%
+Argon | About 0.93%
+Carbon dioxide | About 0.042% (about 420+ ppm, rising)
+Neon, helium, methane, krypton, hydrogen, ozone | Traces
+Water vapour | 0-4%, highly variable (most in the warm, humid tropics)
+@end
+
+**Permanent gases** (nitrogen, oxygen, argon) keep a nearly constant share. **Variable gases** (water vapour, CO2, ozone) change from place to place and over time.
+
+@pyq U.P.P.C.S. (Mains) 2005
+The four layers of the atmosphere are –
+1. Ionosphere
+2. Mesosphere
+3. Stratosphere
+4. Troposphere
+Their correct ascending order in terms of height is
+Code :
+(a) 1, 2, 3, 4
+(b) 2, 1, 4, 3
+(c) 4, 3, 2, 1
+(d) 3, 4, 1, 2
+@ans (a)
+@note The Commission's key is (a), but that is the **descending** order (top to bottom). Going upward from the ground (ascending in height) the order is **Troposphere, Stratosphere, Mesosphere, Ionosphere = 4, 3, 2, 1**, which is option **(c)**. Use (c) if the question is asked again with the word "ascending".
+@end
+
+@pyq U.P. R.O./A.R.O. (Re Exam) (Pre) 2016
+In the vertical structure of the atmosphere, which one is the lowest layer?
+(a) Stratosphere
+(b) Mesosphere
+(c) Troposphere
+(d) Thermosphere
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997; U.P.P.C.S. (Mains) 2003, 2005
+The ozone layer lies in the :
+(a) Troposphere
+(b) Tropopause
+(c) Stratosphere
+(d) Photosphere
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following layers of the atmosphere is responsible for the deflection of radio waves?
+(a) Troposphere
+(b) Stratosphere
+(c) Mesosphere
+(d) Ionosphere
+@ans (d)
+@end
+
+@one
+Which layer of the atmosphere is responsible for the Northern Light?
+@ans Ionosphere
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Wireless communication is reflected to the earth's surface by –
+(a) Troposphere
+(b) Stratosphere
+(c) Ionosphere
+(d) Exosphere
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which of the following are correct in matching the layer of atmosphere and its characteristics ?
+1. Troposphere – Weather Phenomena
+2. Stratosphere – Ozone layer
+3. Ionosphere – Radio waves reflected to Earth's surface
+4. Mesosphere – Aurorae
+Code :
+(a) 1, 2, 3 and 4
+(b) 1, 2 and 4
+(c) 1, 2, and 3
+(d) 2 and 3
+@ans (c)
+@end
+
+@table
+Layer | Height (approx.) | Temperature trend | Key feature
+Troposphere | 0 to about 8 km (poles) / 18 km (equator) | Falls about 6.5 °C per km | All **weather**, clouds, most water vapour
+Stratosphere | Up to about 50 km | Rises (ozone absorbs UV) | **Ozone layer** (15-35 km); jet aircraft fly in its lower part
+Mesosphere | 50-80 km | Falls; coldest layer (about -90 °C) | **Meteors burn up**; noctilucent clouds
+Thermosphere / Ionosphere | 80-400+ km | Rises sharply | **Radio waves reflected**; **aurora**; ISS orbits here
+Exosphere | Above about 500 km | - | Thin outer fringe; gases escape to space
+@end
+
+@section 13.2 | Heat and Pressure
+
+@pyq U.P.P.C.S. (Pre) 1997
+Assertion (A) : The atmosphere receives most of the heat only indirectly from the sun and directly from the earth's surface.
+Reason (R) : The conversion from shortwave solar to long wave terrestrial energy takes place at the earth's surface.
+Code:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+The air is heated **from below**. Short-wave sunlight passes through, warms the ground, and the ground re-radiates **long-wave** (infrared) heat that greenhouse gases absorb. That is why the troposphere is warmest near the surface.
+
+@pyq U.P. P.C.S. (Pre) 2019
+Which one of the following is associated with 'Albedo'?
+(a) Transmitting power
+(b) Absorbing power
+(c) Emissive power
+(d) Reflecting power
+@ans (d)
+@end
+
+**Albedo** is the fraction of sunlight a surface reflects: fresh snow about 0.8-0.9, deserts about 0.3-0.4, forests and oceans about 0.06-0.15. The Earth's average is about **0.30**. Melting ice lowers albedo and speeds up warming (the ice-albedo feedback).
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of the following statements is not true:
+(a) Presence of water vapour is highly variable in the lower atmosphere.
+(b) The zone of maximum temperature is located along the equator
+(c) Frigid zones are located in both the hemispheres between the polar circles and the poles.
+(d) Jet streams are high altitude winds affecting the surface weather conditions.
+@ans (b)
+@end
+
+The hottest belt, the **thermal equator**, lies north of the geographical Equator, at about **10-20°N** on average, because the Northern Hemisphere has more land. The highest temperatures are recorded in the **subtropical deserts**, not at the cloudy Equator.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+Humid heat is experienced in summer when the weather is :
+(a) Raw
+(b) Keen
+(c) Scorching
+(d) Muggy
+@ans (d)
+@end
+
+@pyq U.P. Lower (Spl) (Pre) 2008
+Which of the following latitudes (north or south) would you associate with 'Horse Latitudes' ?
+(a) 30°
+(b) 45°
+(c) 60°
+(d) 23½°
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Air pressure is lowest in :
+(a) Winter season
+(b) Spring season
+(c) Autumn season
+(d) Summer season
+@ans (d)
+@end
+
+@table
+Pressure belt | Latitude | Winds / note
+Equatorial low (Doldrums, ITCZ) | 0-5° | Calm, rising air, heavy rain
+Subtropical high (**Horse latitudes**) | About **30-35°** N and S | Calm, sinking dry air; the hot deserts
+Subpolar low | About 60-65° | Meeting of westerlies and polar easterlies; storms
+Polar high | 90° | Cold, sinking air
+Planetary winds | - | Trade winds (30° to 0°), **westerlies** (30° to 60°), polar easterlies (90° to 60°)
+@end
+
+The name "horse latitudes" is said to come from sailing ships becalmed there, which threw horses overboard to save water.
+
+@section 13.3 | Winds, Jet Streams and Clouds
+
+@pyq U.P.P.C.S. (Pre) 2023
+What caused wind to deflect towards left in Southern Hemisphere?
+(a) Magnetic Field
+(b) Coriolis force
+(c) Temperature
+(d) Pressure
+@ans (b)
+@end
+
+The **Coriolis force**, caused by the Earth's rotation, turns winds to the **right in the Northern** Hemisphere and to the **left in the Southern** (**Ferrel's law**). It is zero at the Equator and strongest at the poles, which is why cyclones do not form within about 5° of the Equator.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Jet streams discovered during World War II are high altitude easterly winds.
+Reason (R): Jet streams flow with a speed of 300-500 km/hour.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (b)
+@end
+
+**Jet streams** are fast, narrow bands of **westerly** wind near the tropopause (about 9-15 km). They were noticed by WWII bomber pilots over Japan. The **subtropical westerly jet** sits south of the Himalaya in winter and moves north in summer, which helps the **monsoon** to burst. The **tropical easterly jet** over India in summer is the main exception to the westerly rule.
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Highest altitude clouds are
+(a) Altocumulus
+(b) Altostratus
+(c) Cumulus
+(d) Cirrostratus
+@ans (d)
+@end
+
+@table
+Cloud family | Height (approx.) | Types
+High clouds | Above 6 km | **Cirrus**, **cirrostratus** (halo), cirrocumulus ("mackerel sky")
+Middle clouds | 2-6 km | Altostratus, altocumulus
+Low clouds | Below 2 km | Stratus, stratocumulus, nimbostratus (steady rain)
+Vertical development | Base low, top up to 12+ km | Cumulus, **cumulonimbus** (thunderstorms, hail, cloudbursts)
+@end
+
+@heatmap
+
+@pattern
+These are mostly **one-line definition** questions: which gas, which layer, which feature (ozone in the stratosphere, radio and aurora in the ionosphere), albedo, horse latitudes and the Coriolis force. The 2023-2024 papers added **jet streams** and **Coriolis**, so expect more process-based questions. One old key (layer order) is reversed; see its note.
+@end
+
+@next
+Likely next angles: the **ozone hole** recovery (Montreal Protocol, expected by about 2066 over Antarctica), **atmospheric rivers**, **polar vortex** cold waves, the **jet stream** link to heatwaves, **CO2 passing 420-425 ppm** at Mauna Loa, and **auroras** seen at low latitudes in May 2024 (including Ladakh).
+@end

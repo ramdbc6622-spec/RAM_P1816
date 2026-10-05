@@ -1,0 +1,226 @@
+@chapter 8 | Forests and Their Types
+@unit UNIT IV · FORESTS AND PROTECTED AREAS
+
+@intro
+This chapter covers **forest types** (tropical evergreen, deciduous or monsoon, coniferous, mangroves) and where they occur in India: the Western Ghats evergreen belt, the **Sundarbans**, **Bhitarkanika** and the Goa mangroves. It also covers biomass and productivity, and the **assertion-reason** questions on forests as a renewable resource, the hydrological cycle and the causes of forest loss. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 8.1 | Forest Types, Diversity and Productivity
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+In which of the following types of forests maximum plant diversity is found?
+(a) Tropical moist deciduous forests
+(b) Sub-tropical mountain forests
+(c) Temperate moist forests
+(d) Tropical evergreen forests
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following ecosystems has maximum plant biomass?
+(a) Tropical deciduous forest
+(b) Tropical rain forest
+(c) Temperate deciduous forest
+(d) Desert shrubs
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Re. Exam) (Pre) 2015
+Which of the following has the lowest mean net primary productivity?
+(a) Temperate forests
+(b) Tropical forests
+(c) Temperate grasslands
+(d) Tropical savanna
+@ans (c)
+@end
+
+**Net primary productivity** (NPP) is the energy that plants store after subtracting what they use in respiration. Average NPP per year is roughly: tropical rainforest about 2,200 g/m², temperate forest about 1,250, savanna about 900, **temperate grassland about 600**, and desert under 100.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+In which of the following continent, the tropical deciduous forests are most extensive?
+(a) Africa
+(b) Asia
+(c) Australia
+(d) South America
+@ans (b)
+@end
+
+@table
+Forest type (India) | Rainfall | Where | Typical trees
+**Tropical evergreen** | Over 200 cm | **Western Ghats**, NE India, Andaman and Nicobar | Rosewood, ebony, mahogany, white cedar
+Tropical semi-evergreen | 150-200 cm | Fringes of the evergreen belt | Mixed
+**Tropical moist deciduous** (monsoon) | 100-200 cm | NE plateau, Shivalik foothills, Odisha, Jharkhand | **Sal, teak**, sandalwood, bamboo
+Tropical dry deciduous | 70-100 cm | Central India, UP, Bihar | Teak, tendu, palas, khair
+**Thorn forests** | Under 70 cm | **Rajasthan**, Gujarat, Punjab, Haryana | **Acacia (babul)**, khejri, cactus
+Montane (temperate / **coniferous**) | Varies with height | **Himalaya** (Himachal, J&K, Uttarakhand), Nilgiri **sholas** | **Deodar, pine, fir, spruce**, oak
+**Mangroves (tidal)** | Coastal deltas | **Sundarbans**, Bhitarkanika, Godavari-Krishna, Gulf of Kutch, A&N | **Sundari**, Rhizophora, Avicennia
+@end
+
+India's forest types were classified by **Champion and Seth** (1968) into **16 type groups** and about 200 sub-types. **Tropical dry deciduous** forest covers the largest area, followed by **tropical moist deciduous**.
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following has an evergreen forest?
+(a) Malwa Plateau
+(b) Eastern Ghat
+(c) Western Ghat
+(d) Chhotanagpur Plateau
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following eco-regions of India is not correctly matched?
+(a) South-Western Ghats - Moist forests
+(b) Tarai Duar - Broadleaf forests
+(c) Rann of Kachchh - Grasslands
+(d) Eastern Deccan Plateau - Moist forests
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List I with List II and select the correct answer using the code given below the lists :
+@match
+List - I | List -II
+A. Tropical forest | 1. Sunderbans
+B. Coniferous forest | 2. Himachal Pradesh
+C. Mangroves | 3. Rajasthan
+D. Deciduous forest | 4. Silent Valley
+@endmatch
+Codes :
+(a) A-1, B-2, C-4, D-3
+(b) A-2, B-1, C-4, D-3
+(c) A-1, B-4, C-2, D-3
+(d) A-4, B-2, C-1, D-3
+@ans (d)
+@end
+
+@section 8.2 | Mangroves
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following areas of India is famous for its mangrove vegetation?
+(a) Kaziranga
+(b) Silent Valley
+(c) Sunderbans
+(d) Himalayan Terai
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following has a protected mangrove region?
+(a) Eastern Ghats
+(b) Western Ghats
+(c) Goa
+(d) Chandra Tal
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Consider the following statements about Bhitarkanika Mangroves:
+1. It is located in the deltaic region of Vansadhara and Subarnarekha rivers.
+2. It lies in the state of West Bengal.
+Of these:
+(a) Only 1 is correct.
+(b) Only 2 is correct.
+(c) 1 and 2 both are correct
+(d) Neither 1 nor 2 is correct.
+@ans (d)
+@end
+
+**Bhitarkanika** (Kendrapara, **Odisha**) lies in the delta of the **Brahmani, Baitarani and Mahanadi**. It is India's second-largest mangrove forest, a Ramsar site, and home to the largest population of **saltwater crocodiles** in India. **Gahirmatha**, next to it, is the world's largest nesting beach for **olive ridley turtles**. **Goa**'s **Salim Ali Bird Sanctuary** on **Chorao Island** protects mangroves on the Mandovi.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2006; U.P.P.S.C. (GIC) 2010
+Assertion (A) : Coastal Odisha is most cyclone-prone area of India.
+Reason (R) : There is a large amount of deforestation of Mangroves in Mahanadi delta area.
+Choose the correct answer in the given codes :
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is false, but (R) is true.
+(d) (A) is true, but (R) is false.
+@ans (a)
+@note The key links the two, since losing mangroves removes a natural cyclone barrier and makes the coast more **vulnerable**. Strictly, Odisha is cyclone-prone because of where it sits on the **Bay of Bengal** cyclone tracks; mangrove loss increases the **damage** rather than the number of cyclones. Some would argue for (b).
+@end
+
+India's mangrove cover is about **4,990 sq km** (ISFR 2023), roughly 0.15% of the country and about 3% of South Asia's mangroves. **West Bengal** (Sundarbans) has the most, followed by **Gujarat** and the **Andaman and Nicobar Islands**. The **MISHTI** scheme (2023) promotes mangrove planting.
+
+@section 8.3 | Forests as a Resource
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2002; U.P.P.C.S. (Pre) 2004
+Assertion (A) : Forests are a renewable resource.
+Reason (R) : They enhance the quality of environment
+Select the correct answer from codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+The Hydrological Cycle is controlled by:
+(a) Grasslands
+(b) Epiphytes
+(c) Lichens
+(d) Forests
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Consider the following statements:
+Assertion (A) : Natural resources are those that exist in a region and can also be used in future.
+Reason (R) : The development of an actual natural resource depends upon the technology and cost of production.
+Select the correct answer from codes given below:
+(a) Both (A) and (R) are true and (R) correctly explains (A).
+(b) Both (A) and (R) are true but (R) does not correctly explains (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Assertion (A) : Aluminium is a green metal.
+Reason (R) : It substitutes wood for saving the forest.
+Select the correct answer from codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is false, but (R) is true.
+(d) (A) is true, but (R) is false.
+@ans (d)
+@end
+
+@section 8.4 | Causes of Forest Loss
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Consider the following statements:
+Assertion (A) : The loss of forest cover in India has been directly associated with Demographic Transition in India.
+Reason (R) : The forest cover is negatively related to population growth.
+Select the correct answer from codes given below:
+(a) Both (A) and (R) are true and (R) explains (A).
+(b) Both (A) and (R) are true but (R) does not explain (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The main causes for the forest loss are –
+(a) Road Development
+(b) River Valley projects
+(c) Industrial Development
+(d) Agricultural Development
+@ans (c)
+@note The key is (c), following the source. Many global studies (FAO) name **agricultural expansion** as the leading cause of deforestation, which would be option (d). In India, mining, industry and infrastructure take most of the land diverted under the Forest Conservation Act.
+@end
+
+@trap
+**Bhitarkanika is in Odisha** (Brahmani-Baitarani delta), not West Bengal. **Evergreen forests = Western Ghats**, not the Eastern Ghats or plateaus. **Coniferous = Himalaya**, **thorn/deciduous = Rajasthan**. **Temperate grassland** has the lowest NPP of the four options. The richest forest for biomass and plant diversity is the **tropical rainforest**.
+@end
+
+@heatmap
+
+@pattern
+Forest-type questions are **location matches** (evergreen in the Western Ghats, coniferous in Himachal, mangroves in the Sundarbans, Bhitarkanika and Goa) and a set of **assertion-reason** pairs on forests and resources (2002-2023). Expect recent questions on mangroves (MISHTI, blue carbon) and the forest-loss debate.
+@end
+
+@next
+Likely next angles: **MISHTI** and **Amrit Dharohar**, **blue carbon** in mangroves, the **Van (Sanrakshan Evam Samvardhan) Adhiniyam 2023** and the "deemed forest" controversy, **Great Nicobar** forest diversion, **sacred groves**, and **Champion and Seth** forest types in statement form.
+@end

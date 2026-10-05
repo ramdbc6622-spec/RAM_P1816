@@ -1,0 +1,1112 @@
+@chapter 2 | Physical Divisions: Structure, Mountains, Peaks, Passes and Glaciers
+
+@intro
+India's relief has three old-to-young layers. The **Peninsular Plateau** is a fragment of Gondwanaland and is the oldest and most stable block. The **Himalaya** is a young fold system, raised by the collision of the Indian and Eurasian plates and still rising. The **Northern Plains** between them are the youngest, built from Himalayan alluvium. Coastal plains and islands (Chapter 3) complete the six physiographic divisions. UPPSC asks this chapter mostly as location and matching: which hills lie in which state, which pass leads where, which peak or glacier is largest. This chapter covers geology and rock systems, the Himalaya and its ranges, the plains, the old mountains of the Peninsula, peaks, passes, glaciers and plateaus. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 2.1 | Geological History and Rock Systems
+
+@pyq U.P.P.C.S. (Pre) 1998
+The paleomagnetic results obtained from India indicate that in the past, the Indian landmass has moved :
+(a) Northward
+(b) Southward
+(c) Eastward
+(d) Westward
+@ans (a)
+@end
+
+Iron minerals in old lava record the direction of the Earth's magnetic field when they cool. Rocks of the **Deccan Traps** record a position far south of the Equator, which shows that the **Indian plate drifted north** after leaving **Gondwanaland** (with Africa, South America, Antarctica and Australia). It moved fast, around 15 cm a year at its peak, and still moves north by about 5 cm a year.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Which of the following statements is incorrect ?
+(a) Geologically Peninsular region is India's most ancient part.
+(b) Himalaya mountains demonstrate the most newly developed folded mountains in the world.
+(c) The Western coastline of India is formed by the deposition process of the rivers.
+(d) Gondwana rocks have the largest reserve of coal in India.
+@ans (c)
+@end
+
+The **west coast** was shaped by **faulting and partial submergence** of the plateau edge, not by river deposition. Its rivers (Narmada, Tapi) end in **estuaries**, not deltas. The east coast, by contrast, is a wide plain built by the deltas of the Mahanadi, Godavari, Krishna and Kaveri. About **98% of India's coal** is in **Gondwana** rocks of the Damodar, Mahanadi, Son and Godavari valleys.
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following rock systems in India is the latest one?
+(a) Vindhyan
+(b) Cuddapah
+(c) Dharwar
+(d) Gondwana
+@ans (d)
+@end
+
+@table
+Rock system | Age | Known for
+Archaean (gneiss, schist) | Oldest, over 2,500 million years | Base of the Peninsula, no fossils
+Dharwar | Archaean-Proterozoic | Richest in metals: iron, gold (Kolar, Hutti), manganese
+Cuddapah | Proterozoic | Cuddapah basin of Andhra Pradesh; asbestos, barytes
+Vindhyan | Proterozoic | Building sandstone (Red Fort, Sanchi), diamonds of Panna
+Gondwana | Upper Carboniferous to Jurassic | About 98% of India's coal
+Deccan Trap | Late Cretaceous to Eocene | Basalt, black cotton soil
+Tertiary | Eocene to Pliocene | Himalaya, petroleum of Assam and Gujarat
+Quaternary | Pleistocene to present | Alluvium of the plains (Bhangar, Khadar)
+@end
+
+UP link: the **Vindhyan** rocks of **Mirzapur and Sonbhadra** supplied the sandstone used from Mauryan pillars to the Red Fort. The **Kaimur** hills of Sonbhadra are part of the same Vindhyan system.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs (Deccan Trap Peculiarity) is not correctly matched?
+(a) Depth of middle trap – 1200 metres approximately
+(b) Intertrappean beds – Fossils of sea plants and animals
+(c) Depth of lower trap – 150 metres approximately
+(d) Depth of upper trap – 450 metres approximately
+@ans (b)
+@end
+
+The **Deccan Traps** are layers of basalt from fissure eruptions at the end of the Cretaceous. Between flows, lakes and swamps left thin sedimentary **intertrappean beds**. Their fossils are of **freshwater and land** plants and animals, not marine life, which shows that the flows were poured out on land. The trap is divided into upper (about 450 m), middle (about 1,200 m) and lower (about 150 m) parts.
+
+@trap
+Latest of the four is **Gondwana**. Do not pick Vindhyan because the Vindhya range looks "younger" than the Dharwars: all three of Dharwar, Cuddapah and Vindhyan are Precambrian. In the Deccan Trap pair, "sea fossils" is the error.
+@end
+
+@section 2.2 | The Himalaya: Origin, Age and Structure
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): The Himalayas are still rising.
+Reason (R): The Indian tectonic plate is colliding with the Eurasian plate.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (c)
+@end
+
+The Indian plate began to collide with Eurasia about **40 to 50 million years ago** and closed the **Tethys Sea**. Its sediments were folded into the Himalaya. The plate is still pushing north, so the range is still rising by a few millimetres a year, and the collision is also why the region is seismically active.
+
+@pyq U.P. P.C.S. (Pre) 2019
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : The highest concentration of seismic zones lies in Himalayan region in India.
+Reason (R) : There are many longitudinal thrust zones in Himalayas.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+The Himalaya is cut by long thrust faults that run parallel to the range: the **Main Central Thrust**, the **Main Boundary Thrust** and the **Himalayan Frontal Thrust**. Stress released along them causes earthquakes, so most of the Himalaya and the north-east fall in **Seismic Zones IV and V**. In the Bureau of Indian Standards' 2025 seismic map, the whole Himalayan arc is placed in the highest zone.
+
+@pyq U.P.P.C.S. (Pre) 2019
+With reference to the Himalayan range, which of the statements is/are correct?
+1. The sedimentary rocks of the greater Himalayas were fossil less.
+2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
+3. Remains of human civilization are found in outer or Shiwalik Himalayas.
+Select the correct answer using the codes given below:
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3 are correct
+@ans (b)
+@end
+
+The Himalayan sediments came from the **Tethys Sea**, so marine fossils occur in them; statement 1 is wrong. The **Shiwaliks** are rich in vertebrate fossils and Stone Age tools (the Soanian culture of the Potwar plateau), which supports statement 3.
+
+@table
+Range | Other names | Average height | Key features
+Trans-Himalaya | Tibetan Himalaya | About 6,000 m | Karakoram, Ladakh and Zaskar ranges; K2
+Greater Himalaya | Himadri, Inner Himalaya | About 6,100 m | Highest peaks, glaciers, granite core
+Lesser Himalaya | Himachal, Middle Himalaya | 3,700 to 4,500 m | Pir Panjal, Dhauladhar, Mahabharat; hill stations
+Outer Himalaya | Shiwalik | 900 to 1,100 m | Youngest; flat valleys called **duns** (Dehradun)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Himachal stands for -
+(a) The Great Himalaya
+(b) The Lesser Himalaya
+(c) Shiwalik
+(d) Trans-Himalaya
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Which one of the following is the youngest mountain Range?
+(a) Vindhyas
+(b) Aravalli
+(c) Shiwaliks
+(d) Annamalai
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which one of the following is the youngest mountain range of India?
+(a) Himadri Range
+(b) Aravalli Range
+(c) Western Ghat
+(d) Vindhya Range
+@ans (a)
+@end
+
+Within the Himalaya the **Shiwalik** is the youngest range (it was folded last, in the Mio-Pliocene). When the Shiwalik is absent from the options, any Himalayan range, here the **Himadri**, beats the Peninsular ranges, which are all far older.
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+The Kumaon Himalaya is situated between which of the rivers?
+(a) Indus and Satluj
+(b) Kali and Tista
+(c) Satluj and Kali
+(d) Tista and Brahmaputra
+@ans (c)
+@end
+
+@table
+Regional division (Sidney Burrard) | Between rivers | Length (approx.)
+Punjab (Kashmir) Himalaya | Indus and Satluj | 560 km
+Kumaon Himalaya | Satluj and Kali | 320 km
+Nepal Himalaya | Kali and Tista | 800 km
+Assam Himalaya | Tista and Dihang (Brahmaputra) | 750 km
+@end
+
+@trap
+"Youngest range" has two answers in UPPSC keys: **Shiwalik** when it is offered, **Himadri** when the only rivals are Peninsular ranges. In the Kumaon question, the **Kali** river is also India's border with Nepal, which makes the eastern limit easy to remember.
+@end
+
+@section 2.3 | Himalayan Ranges, Valleys and Tunnels
+
+@pyq U.P.P.C.S. (Mains) 2007
+Pir Panjal Range is located/found in-
+(a) Arunachal Pradesh
+(b) Jammu and Kashmir
+(c) Punjab
+(d) Uttarakhand
+@ans (b)
+@end
+
+The **Pir Panjal** is the longest range of the Lesser Himalaya. It runs from the Jhelum through **Jammu and Kashmir** into **Himachal Pradesh**, where it bends east. Two crossings matter: **Banihal** (Jammu to Srinagar) and **Rohtang** (Manali to Lahaul).
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Consider the following statements regarding 'Atal Tunnel' Which of them is / are correct?
+1. It was built by the Border Roads Organisation.
+2. It connects Manali and Lahaul Spiti Valley
+3. It is located across Pir-Panjal Range of Himalayas
+4. It is strategically important for India
+Choose the correct answer from the code given below.
+Code :
+(a) Only 1 and 2
+(b) Only 2 and 3
+(c) Only 1, 2 and 4
+(d) All 1, 2, 3 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Atal Tunnel' which of the following statements is / are correct ?
+1. This tunnel is the world's longest highway tunnel.
+2. This tunnel is built in the Pir Panjal range of Himalayas.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (a)
+@end
+
+The **Atal Tunnel** (9.02 km) runs under the **Rohtang Pass** in the eastern **Pir Panjal**. It was built by the **Border Roads Organisation** and opened on **3 October 2020**. It keeps Manali, Lahaul-Spiti and the road to Ladakh open in winter. Its record is the **longest highway tunnel above 10,000 feet**, not the longest highway tunnel in the world; that is the **Lærdal Tunnel** in Norway (about 24.5 km).
+
+@table
+Tunnel | Where | Length | Note
+Atal Tunnel | Rohtang, Himachal Pradesh | 9.02 km | Longest highway tunnel above 10,000 ft (2020)
+Dr. Syama Prasad Mookerjee (Chenani-Nashri) | Jammu and Kashmir | 9.0 km | NH-44, opened 2017
+Jawahar Tunnel | Banihal, Jammu and Kashmir | 2.5 km | Opened 1956
+Sela Tunnel | Se La, Arunachal Pradesh | About 1.6 km and 1 km (twin) | Opened 2024
+Zojila Tunnel | Zoji La, Ladakh | About 13 km | Under construction
+@end
+
+@trap
+The 2025 question turns on one word. "Longest **above 10,000 feet**" is true; "world's longest highway tunnel" is false. Statement 2 (Pir Panjal) is the safe one.
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Valley of Kashmir is situated between:
+(a) Kangra and Dhauladhar ranges
+(b) Pir Panjal and Himadri ranges
+(c) Mahabharat and Dhauladhar ranges
+(d) Pir Panjal and Mahabharat ranges
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002; U.P.P.C.S. (Pre) 1999
+The Kullu Valley is situated between the mountain ranges of :
+(a) Dhauladhar and Pir Panjal
+(b) Ranjoti and Nagtibba
+(c) Ladakh and Pir Panjal
+(d) Middle Himalayas and Shiwalik
+@ans (a)
+@end
+
+@table
+Valley | Lies between | State or UT
+Kashmir Valley | Pir Panjal (south-west) and Great Himalaya (north-east) | Jammu and Kashmir
+Kullu Valley (Beas) | Dhauladhar and Pir Panjal | Himachal Pradesh
+Kangra Valley | Dhauladhar and Shiwalik | Himachal Pradesh
+Lahaul and Spiti | Pir Panjal and Great Himalaya | Himachal Pradesh
+Dehradun (a dun) | Lesser Himalaya and Shiwalik | Uttarakhand
+Nelang Valley | Greater Himalaya, near the Tibet border | Uttarakhand (Uttarkashi)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+In which state is the Nelang Valley located?
+(a) Himachal Pradesh
+(b) Sikkim
+(c) Jammu and Kashmir
+(d) Uttarakhand
+@ans (d)
+@end
+
+The **Nelang Valley** lies in **Uttarkashi district**, inside the **Gangotri National Park**, close to the China border. It was opened to tourists in 2015 after more than five decades, which is why it reached the 2016 paper.
+
+@pyq U.P.P.C.S. (Pre) 2019
+'Imphal Basin' surrounded by Manipur hills is a fine example of -
+(a) Lacustrine plain
+(b) Loess plain
+(c) Glacial plain
+(d) Alluvial plain
+@ans (a)
+@end
+
+A **lacustrine plain** forms on the bed of a lake that has dried up or been filled in. The **Imphal basin** (with **Loktak Lake** as its remnant) and the **Kashmir Valley** (with its lake deposits called **karewas**) are the standard Indian examples.
+
+@pyq U.P.P.C.S. (Pre) 1995
+Which of the following is a part of Aksai Chin region?
+(a) Karakoram Range
+(b) Shiwalik Range
+(c) Kashmir Valley
+(d) Ladakh Plateau
+@ans (d)
+@end
+
+**Aksai Chin** is a cold, high desert plateau at the eastern end of **Ladakh**, about 37,000 sq km in area. China built a road through it in the 1950s and has held it since the **1962 war**. India regards it as part of the Union Territory of Ladakh.
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to "Shaksgam Valley", which of the following statements is/are correct?
+1. This valley is a strategic, key region, that is part of Pakistan-occupied Kashmir (PoK).
+2. India has lodged protest against the infrastructural development being carried out by China in this valley.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@note the key treats statement 1 as correct because the valley was part of the area occupied by Pakistan before 1963. Strictly, Pakistan handed about 5,180 sq km of the Shaksgam (Trans-Karakoram Tract) to China under the 1963 boundary agreement, so it is now held by China. India rejects that agreement.
+@end
+
+India protested in 2024 against China's road building in the **Shaksgam Valley**, north of the Siachen Glacier. India's position is that the tract is Indian territory, part of Ladakh, ceded illegally by Pakistan.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following states does not lie along Patkai hills?
+(a) Nagaland
+(b) Tripura
+(c) Manipur
+(d) Mizoram
+@ans (b)
+@end
+
+The **Purvanchal** hills run along the India-Myanmar border: **Patkai Bum** (Arunachal Pradesh), **Naga Hills** (Nagaland), **Manipur Hills** and **Mizo (Lushai) Hills** (Mizoram). Taken as one system they touch Arunachal Pradesh, Nagaland, Manipur and Mizoram. **Tripura** lies west of them and has low ridges of its own.
+
+@section 2.4 | The Northern Plains
+
+@pyq U.P.P.C.S. (Pre) 2007
+The flat plains along the sub-Himalayan region in North India, are called –
+(a) Tarai
+(b) Doon
+(c) Khadar
+(d) Bhabar
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+The south of 'Shiwalik' rock series, Bhabar region is an example of -
+(a) Midland Region
+(b) Intermountain Region
+(c) Piedmont Region
+(d) Littoral Region
+@ans (c)
+@end
+
+Rivers leaving the Shiwaliks drop their pebbles and boulders at the foot of the hills. This **piedmont** belt, 8 to 16 km wide, is the **Bhabar**. Streams sink into it and flow underground. They reappear further south in the marshy, forested **Tarai**. Beyond lie the old alluvial terraces of **Bhangar** and the new, yearly flooded **Khadar**.
+
+@table
+Belt (north to south) | Material and features | UP examples
+Bhabar | Pebbles and gravel, porous, streams vanish | Narrow strip below the Shiwaliks (Saharanpur, Bijnor)
+Tarai | Reappearing streams, marshy, forest and grassland | Pilibhit, Lakhimpur Kheri, Bahraich (Dudhwa National Park)
+Bhangar | Older alluvium, above flood level, kankar nodules | Most of the doab uplands
+Khadar | New alluvium, renewed by floods every year | River floodplains of the Ganga and Yamuna
+@end
+
+UP link: the Tarai of **Pilibhit, Lakhimpur Kheri and Bahraich** holds UP's best forests and its tiger reserves (Dudhwa, Pilibhit). Much of the old Tarai was cleared for farming after Independence.
+
+@trap
+Both Bhabar and Tarai are "along the sub-Himalayan region". UPPSC's key picks **Bhabar** because it is the belt **at the foot** of the Shiwalik. Tarai is the next belt south. A **doon** is a valley inside the hills, not a plain along them.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Kuttanad (or Kuttanadu) of Kerala is famous for :
+(a) A freshwater lake
+(b) The region with the lowest altitude in India
+(c) A coral island
+(d) The westernmost point of India
+@ans (b)
+@end
+
+**Kuttanad**, in the Alappuzha and Kottayam area of Kerala, lies **about 1.2 to 3 m below sea level**, the lowest region in India. Rice is grown there below sea level behind dykes. FAO recognised the Kuttanad below-sea-level farming system as a **Globally Important Agricultural Heritage System** in 2013. It is called the **"Rice Bowl of Kerala"**.
+
+@section 2.5 | Old Mountains and the Hills of the Peninsula
+
+@pyq U.P. P.C.S. (Mains) 2017; U.P.P.S.C. (GIC) 2010; U.P. P.C.S. (Pre) 1991
+Which of the following mountain systems of India is the oldest?
+(a) Aravalli
+(b) Himalayas
+(c) Satpura
+(d) Nilgiri
+@ans (a)
+@end
+
+@one
+In which one state are the Aravalli Ranges located?
+@ans Rajasthan
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which of the following is an example of 'Residual Mountain' ?
+(a) Himalaya
+(b) Kilimanjaro
+(c) Etna
+(d) Aravalli
+@ans (d)
+@end
+
+The **Aravalli** is among the oldest fold mountains of the world, formed in the Precambrian. It runs about 800 km from **Palanpur (Gujarat)** through **Rajasthan** and **Haryana** to the **Delhi Ridge**. Long erosion has worn it to stumps, which makes it a **residual (relict) mountain**. Its highest point is **Guru Shikhar (1,722 m)** on Mount Abu. Kilimanjaro and Etna are volcanic mountains, and the Himalaya is a young fold mountain.
+
+@pyq U.P.P.C.S. (Pre) 2007
+The Narmada and Tapti rivers flank –
+(a) Vindhyan Mountains
+(b) Satpura Ranges
+(c) Rajmahal Hills
+(d) Aravalli Hills
+@ans (b)
+@end
+
+The **Narmada** flows in a rift valley **north** of the **Satpura** and the **Tapi** in a rift **south** of it. The **Vindhyas** rise north of the Narmada, so they are flanked by the Narmada only on one side.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which one of the following is the correct sequence of the hills of Central India located from West to East ?
+(a) Maikal, Satpura, Mahadeo and Chotanagpur
+(b) Satpura, Mahadeo, Maikal and Chotanagpur
+(c) Maikal, Mahadeo, Satpura and Chotanagpur
+(d) Satpura, Mahadeo, Chotanagpur and Maikal
+@ans (b)
+@end
+
+The Satpura chain runs west to east as **Rajpipla Hills, Satpura, Mahadeo Hills (Pachmarhi, highest point Dhupgarh), Maikal (Amarkantak)** and then the **Chotanagpur plateau**. **Amarkantak** in the Maikal is the source of the **Narmada** and the **Son**.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Select from the code given below the correct locational sequence of the following hills proceeding from south to north.
+(1) Satmala hills
+(2) Kaimur hills
+(3) Pir Panjal Range
+(4) Naga hills
+Code :
+(a) 2, 3, 1, 4
+(b) 1, 2, 4, 3
+(c) 1, 2, 3, 4
+(d) 4, 3, 2, 1
+@ans (b)
+@end
+
+Use latitude. **Satmala** (Maharashtra, about 20° N) comes first, then **Kaimur** (UP-MP-Bihar, about 24.5° N), **Naga Hills** (about 26° N) and **Pir Panjal** (about 33° N).
+
+UP link: the **Kaimur** range is the eastern end of the Vindhyas. It runs through **Mirzapur and Sonbhadra** in UP into Rohtas (Bihar).
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following lies at the junction of Karnataka, Kerala and Tamil Nadu states?
+(a) Anaimalai Hills
+(b) Palni Hills
+(c) Nandi Hills
+(d) Nilgiri Hills
+@ans (d)
+@end
+
+The **Nilgiris** form the knot where the Western and Eastern Ghats meet, at the junction of **Tamil Nadu, Kerala and Karnataka**. Their highest point is **Doddabetta (2,637 m)**, and **Ooty (Udhagamandalam)** is the hill station. Nandi Hills is near Bengaluru.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2010; U.P.P.C.S. (Spl) (Pre) 2008
+Cardamom Hills lie along the border of the states of –
+(a) Karnataka and Tamil Nadu
+(b) Karnataka and Kerala
+(c) Kerala and Tamil Nadu
+(d) Tamil Nadu and Andhra Pradesh
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is called 'Yela Mala'?
+(a) Shevaroy Hills
+(b) Garo Hills
+(c) Annamalai Hills
+(d) Cardamom Hills
+@ans (d)
+@end
+
+**Yela Mala** is the Malayalam name of the **Cardamom Hills** (*elam* means cardamom). They lie south of the Palghat Gap on the **Kerala-Tamil Nadu** border and are the southernmost part of the Western Ghats.
+
+@table
+Hills | State | Note
+Nilgiri | Tamil Nadu (junction with Kerala, Karnataka) | Doddabetta, Ooty
+Anaimalai | Kerala-Tamil Nadu | Anaimudi (2,695 m), highest in the Peninsula
+Palani | Tamil Nadu | Kodaikanal
+Cardamom (Yela Mala) | Kerala-Tamil Nadu | Spices
+Shevaroy | Tamil Nadu | Yercaud
+Javadi, Kollimalai | Tamil Nadu | Eastern Ghats
+Nallamala | Andhra Pradesh | Srisailam, Eastern Ghats
+Garhjat | Odisha | Northern Odisha
+Satmala, Ajanta, Balaghat, Harishchandra | Maharashtra | Deccan
+Mandav | Gujarat | Saurashtra (Chotila)
+Garo, Khasi, Jaintia | Meghalaya | Meghalaya plateau
+Mikir | Assam | Detached part of the plateau
+Miri, Abor, Mishmi, Dafla | Arunachal Pradesh | Eastern Himalaya
+Dalma | Jharkhand | Near Jamshedpur, elephant sanctuary
+Rajmahal | Jharkhand | North-east edge of the plateau
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following does not lie in Maharashtra?
+(a) Balaghat Range
+(b) Harishchandra Range
+(c) Mandav Hills
+(d) Satmala Hills
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following pairs is not correctly matched?
+(a) Garhjat Hills : Orissa
+(b) Mandav Hills : Maharashtra
+(c) Nallamalai Hills : Andhra Pradesh
+(d) Shevaroy Hills : Tamil Nadu
+@ans (b)
+@end
+
+The **Mandav Hills** are in the **Saurashtra** peninsula of **Gujarat**. UPPSC asked the same fact twice in 2011, once in each paper.
+
+@pyq U.P.R.O./A.RO. (Pre) 2017
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (Hills) | List-II (States)
+A. Garo | 1. Meghalaya
+B. Miri | 2. Tamil Nadu
+C. Kollai Mallai | 3. Arunachal Pradesh
+D. Dalma | 4. Jharkhand
+@endmatch
+Codes : A B C D
+(a) 1 3 2 4
+(b) 1 2 3 4
+(c) 1 3 4 2
+(d) 2 1 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Match List - I with List- II and select the correct answer from the code given below the lists.
+@match
+List - I (Hill/Mountain) | List - II (Location in State of India)
+A. Bateshwar Hill | 1. Haryana
+B. Bilari Range | 2. Manipur
+C. Chin Range | 3. Bihar
+D. Dhoshi Hill | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 4 3 1 2
+(c) 2 3 1 4
+(d) 3 4 2 1
+@ans (d)
+@end
+
+**Bateshwar** hill is near Kahalgaon in Bhagalpur, **Bihar**. The **Bellary (Bilari)** hills are in **Karnataka**. The **Chin** hills of Myanmar extend into **Manipur**. **Dhosi** hill in Mahendragarh, **Haryana**, is an extinct volcano at the northern end of the Aravalli, linked with the sage Chyavana.
+
+@pyq U.P. R.O. / A.R.O. (Main), 2017
+Consider the following statements about Western Ghats :
+1. It is a block mountain
+2. Its eastern slope is a gently lowering down plateau.
+3. Its northern section is covered by lava (Basalt)
+Which of the above statements are correct?
+(a) 1 and 2
+(b) 2 and 3
+(c) 1 and 3
+(d) 1, 2 and 3
+@ans (d)
+@end
+
+The **Western Ghats (Sahyadri)** run about 1,600 km from the Tapi to Kanyakumari. They are the uplifted, faulted western edge of the plateau, which is why UPPSC calls them **block mountains**. The steep scarp faces the sea and the gentle slope falls east, which is why most Peninsular rivers flow east. North of about 16° N they are capped by **Deccan basalt**. They were inscribed as a UNESCO World Heritage Site in 2012.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following is not correctly matched –
+(a) Mount Abu - Aravalli Hills
+(b) Kodaikanal - Annamalai Hills
+(c) Ootacamund - Nilgiri Hills
+(d) Shimla - Pir Panjal Range
+@ans (b & d)
+@note the source key accepts both (b) and (d). Kodaikanal is in the **Palani Hills**, which adjoin the Anaimalai on the east. Shimla lies on a ridge of the Lesser Himalaya south of the Dhauladhar, not on the Pir Panjal.
+@end
+
+@trap
+Hill-state matching is UPPSC's favourite format in this chapter. Fix the odd ones out: **Mandav** is in Gujarat, not Maharashtra; **Kollimalai** is in Tamil Nadu; **Dalma** is in Jharkhand; **Dhosi** is in Haryana; **Mikir** is in Assam, not Meghalaya.
+@end
+
+@section 2.6 | Peaks and Highest Points
+
+@pyq U.P. P.C.S. (Pre) 2005, 2012; U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following is the highest peak in South India?
+(a) Anaimudi
+(b) Doddabetta
+(c) Amarkantak
+(d) Mahendragiri
+@ans (a)
+@end
+
+@one
+The highest peak of the Indian Peninsula is
+@ans Anaimudi
+@end
+
+**Anaimudi (2,695 m)** in the Anaimalai hills of Idukki, **Kerala**, is the highest peak south of the Himalaya. Doddabetta (2,637 m) is second. Mahendragiri (1,501 m) is in the Eastern Ghats of Odisha, and Amarkantak (about 1,065 m) is the Maikal plateau.
+
+@pyq U.P.P.S.C. (Pre) 1990; U.P.P.C.S. (Mains) 2009
+Which of the following is the highest mountain peak in India?
+(a) Everest
+(b) Siachen
+(c) K2 Godwin Austen
+(d) Kargil
+@ans (c)
+@note **K2 (8,611 m)** in the Karakoram is in Gilgit-Baltistan, part of Ladakh claimed by India and under Pakistan's occupation. The highest peak in territory administered by India is **Kanchenjunga (8,586 m)** in Sikkim, and the highest peak wholly inside India is **Nanda Devi (7,816 m)**.
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which one of the following gives correct sequence of Himalayan peaks in the direction east to west ?
+(a) Dhaulagiri, Kanchenjunga, Makalu, Mount Everest
+(b) Namcha Barwa, Kanchenjunga, Nanda Devi, Mount Everest
+(c) Makalu, Dhaulagiri, Kumaun, Namcha Barwa
+(d) Namcha Barwa, Kanchenjunga, Mount Everest, Nanda Devi
+@ans (d)
+@end
+
+@table
+Peak | Height (m) | Where | Longitude (approx.)
+Namcha Barwa | 7,782 | South-east Tibet, near Arunachal | 95° E
+Kanchenjunga | 8,586 | Sikkim-Nepal | 88° E
+Makalu | 8,485 | Nepal-Tibet | 87° E
+Mount Everest | 8,849 | Nepal-Tibet | 87° E
+Dhaulagiri | 8,167 | Nepal | 83.5° E
+Nanda Devi | 7,816 | Uttarakhand | 80° E
+Kamet | 7,756 | Uttarakhand | 79.6° E
+K2 (Godwin Austen) | 8,611 | Karakoram, Gilgit-Baltistan | 76.5° E
+Nanga Parbat | 8,126 | Western end of the Himalaya, Gilgit-Baltistan | 74.6° E
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which of the following mountain ranges are in the Himalayan mountains?
+1. Cho Oyu
+2. Lhotse
+3. Annamalai
+4. Sirumali
+Select the correct answer from the code given below:
+Code :
+(a) Only 1, 2 and 3
+(b) Only 1 and 2
+(c) Only 2, 3 and 4
+(d) Only 3 and 4
+@ans (b)
+@end
+
+**Cho Oyu (8,188 m)** and **Lhotse (8,516 m)** are eight-thousanders on the Nepal-Tibet border, Lhotse beside Everest. **Anaimalai** and **Sirumalai** are hills of Tamil Nadu and Kerala.
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following mountain peaks is not located in India ?
+(a) Gosainthan
+(b) Kamet
+(c) Nanda Devi
+(d) Trishul
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which one of the following peaks is not located in India?
+(a) Gurla Mandhata
+(b) Namcha Barwa
+(c) Kamet
+(d) Nanga Parbat
+@ans (a & b)
+@note the source key accepts both (a) and (b). **Gurla Mandhata (7,694 m)** is in western Tibet near the Nepal border, and **Namcha Barwa** is in south-eastern Tibet. **Nanga Parbat** is in Gilgit-Baltistan, which India counts as its own territory.
+@end
+
+**Gosainthan** is the Indian name for **Shishapangma (8,027 m)**, the only eight-thousander wholly in **Tibet**. Kamet, Nanda Devi and Trishul are all in **Uttarakhand**.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to the 'Trishul Peak in Himalayas', which of the following statements is/are correct?
+(1) It is situated in Bageshwar district of Uttarakhand.
+(2) The peak is more than 7500 m high.
+Select the correct answer from the code given below.
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+**Trishul** is a group of three peaks shaped like Shiva's trident, south-west of Nanda Devi, on the border of **Bageshwar and Chamoli** districts. **Trishul I** is about **7,120 m** high, below 7,500 m. In 1907 it became the first 7,000-metre peak ever climbed.
+
+@pyq U.P. P.C.S. (Pre) 2018
+Match List-I and List-II and select the correct answer using the codes given below the list :
+@match
+List-I (States) | List-II (Highest Peak)
+A. Kerala | 1. Doddabetta
+B. Nagaland | 2. Nanda Devi
+C. Uttarakhand | 3. Anaimudi
+D. Tamil Nadu | 4. Saramati
+@endmatch
+Code : A B C D
+(a) 1 3 4 2
+(b) 2 3 4 1
+(c) 3 4 2 1
+(d) 1 2 3 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021, 2025
+Match List - I with List - II and select the correct answer using the codes given below the lists.
+@match
+List - I (State of India) | List - II (Highest Peak)
+A. Tamil Nadu | 1. Dhupgarh Peak
+B. Rajasthan | 2. Saramati Peak
+C. Nagaland | 3. Guru Shikhar peak
+D. Madhya Pradesh | 4. Doddabetta peak
+@endmatch
+Codes : A B C D
+(a) 3 2 1 4
+(b) 1 4 3 2
+(c) 4 2 3 1
+(d) 4 3 2 1
+@ans (d)
+@end
+
+@table
+State | Highest peak | Height (m)
+Sikkim | Kanchenjunga | 8,586
+Uttarakhand | Nanda Devi | 7,816
+Himachal Pradesh | Reo Purgyil | 6,816
+Nagaland | Saramati | 3,826
+Kerala | Anaimudi | 2,695
+Tamil Nadu | Doddabetta | 2,637
+Karnataka | Mullayanagiri | 1,930
+Rajasthan | Guru Shikhar | 1,722
+Andhra Pradesh | Arma Konda | 1,680
+Odisha | Deomali | 1,672
+Madhya Pradesh | Dhupgarh | 1,350
+Jharkhand | Parasnath | 1,350
+@end
+
+@next
+Asked in 2018, 2021 and 2025, the "state and its highest peak" match is now a fixed UPPSC item. Expect Karnataka (Mullayanagiri), Odisha (Deomali), Jharkhand (Parasnath) or Himachal (Reo Purgyil) in the next version.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+The first Indian woman to have climbed Mt. Everest is:
+(a) Bachendri Pal
+(b) Dicky Dolma
+(c) Santosh Yadav
+(d) P.T. Usha
+@ans (a)
+@end
+
+**Bachendri Pal** reached the summit on **23 May 1984**. Santosh Yadav was the first woman to climb Everest twice (1992 and 1993), and Dicky Dolma was then the youngest woman to climb it (1993).
+
+UP link: Bachendri Pal was born in **Uttarkashi**, then part of **Uttar Pradesh**. **Arunima Sinha** of Ambedkar Nagar, UP, became the first woman amputee to climb Everest in 2013.
+
+@section 2.7 | Mountain Passes
+
+@table
+Pass | State or UT | Connects or leads to
+Zoji La | Ladakh (Kargil) | Srinagar to Kargil and Leh
+Banihal | Jammu and Kashmir | Jammu to Srinagar (Pir Panjal)
+Khardung La, Chang La | Ladakh | Leh to Nubra; Leh to Pangong
+Aghil | Ladakh | Ladakh to Xinjiang (Karakoram)
+Rohtang | Himachal Pradesh | Kullu-Manali to Lahaul (Pir Panjal)
+Bara-lacha La | Himachal Pradesh | Lahaul to Ladakh on the Manali-Leh road
+Shipki La | Himachal Pradesh (Kinnaur) | Satluj valley to Tibet
+Debsa | Himachal Pradesh | Kullu to Spiti
+Mana, Niti, Muling La | Uttarakhand (Chamoli, Uttarkashi) | Garhwal to Tibet
+Lipulekh, Sin La | Uttarakhand (Pithoragarh) | Kumaon to Tibet; Kailash-Mansarovar route
+Nathu La, Jelep La | Sikkim | Gangtok to the Chumbi valley and Lhasa
+Bom Di La, Se La, Bum La | Arunachal Pradesh | Assam plains to Tawang and Tibet
+Diphu | Arunachal Pradesh | India-China-Myanmar tri-junction
+Thal Ghat, Bhor Ghat | Maharashtra | Mumbai to Nashik; Mumbai to Pune
+Pal Ghat (Palakkad Gap) | Kerala | Kerala to Tamil Nadu (Coimbatore)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Chang La - Jammu and Kashmir
+(b) Rohtang - Himachal Pradesh
+(c) Bomdi La - Arunachal Pradesh
+(d) Se La - Uttarakhand
+@ans (d)
+@note Chang La has been in the Union Territory of Ladakh since 31 October 2019.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which of the following is not correctly matched :
+(a) Bomdi La Pass - Arunachal Pradesh
+(b) Nathu La Pass - Sikkim
+(c) Bhorghat Pass - Himachal Pradesh
+(d) Palghat - Kerala
+@ans (c)
+@end
+
+**Bhor Ghat** carries the Mumbai-Pune road and railway over the Western Ghats between Karjat and Khandala in **Maharashtra**. **Se La** (about 4,170 m) is on the road to Tawang in **Arunachal Pradesh**; the Sela Tunnel below it opened in 2024.
+
+@pyq U.P. R.O/A.R.O. (Pre) 2023
+The correct Sequence from north to South of the various passes called Ghat in the western Ghat is -
+(a) Thal Ghat → Bhor Ghat → Pal Ghat
+(b) Bhor Ghat → Thal Ghat → Pal Ghat
+(c) Bhor Ghat → Pal Ghat → Thal Ghat
+(d) Thal Ghat → Pal Ghat → Bhor Ghat
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following is NOT a pass in the Western Ghats Mountain ranges?
+(a) Thalghat
+(b) Bhorghat
+(c) Khyber Pass
+(d) Palghat
+@ans (c)
+@end
+
+**Thal Ghat** (Kasara Ghat) carries the Mumbai-Nashik route, **Bhor Ghat** the Mumbai-Pune route, and **Pal Ghat** links Palakkad in Kerala with Coimbatore in Tamil Nadu. The **Khyber Pass** links Peshawar (Pakistan) with Afghanistan.
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which one of the following (Passes – States/U.T.) is correctly matched?
+(a) Mana – Himachal Pradesh
+(b) Niti – Uttarakhand
+(c) Diphu – Ladakh
+(d) Aghil – Arunachal Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001; U.P.P.C.S. (Mains) 2014
+Which one of the following is not correctly matched:
+(a) Shipki La - Himachal Pradesh
+(b) Lipulekh – Uttar Pradesh
+(c) Nathu La – Sikkim
+(d) Zojila - Kashmir
+@ans (b)
+@end
+
+UP link: **Lipulekh** is in **Pithoragarh**, which was part of UP until Uttarakhand was formed on **9 November 2000**. Since then UP has no Himalayan pass. Any "pass in Uttar Pradesh" pairing is wrong in present terms.
+
+@pyq
+Which of the following pairs is/are not correctly matched?
+@match
+Pass | State/Union Territory
+1. Lipulekh | Ladakh
+2. Nathu La | Sikkim
+3. Bomdila | Arunachal Pradesh
+4. Shipki La | Himachal Pradesh
+@endmatch
+Select the correct answer using the code given below:
+Code:
+(a) Only 1 and 2
+(b) Only 2, 3 and 4
+(c) Only 1, 2 and 3
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following is not correctly matched?
+(a) Shipki La - Himachal Pradesh
+(b) Bomdi La - Arunachal Pradesh
+(c) Nathu La - Meghalaya
+(d) Zoji La - Jammu & Kashmir
+@ans (c)
+@note Zoji La has been in Kargil district of the Union Territory of Ladakh since 31 October 2019.
+@end
+
+@one
+Nathu La Pass is situated in which state ?
+@ans Sikkim
+@end
+
+**Nathu La** (about 4,310 m) on the Sikkim-Tibet border carried the old silk route from Gangtok to Lhasa. Border trade through it reopened in **2006**, and it became a second route for the **Kailash Mansarovar Yatra** in 2015.
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following Passes lead to Leh?
+(a) Zojila
+(b) Shipki La
+(c) Chumbi Valley
+(d) Banihal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Spl) (Mains) 2004
+Match List-I with List-II and select the correct answer using the code given below :
+@match
+List-I (Mountain Pass) | List-II (State)
+A. Banihal | 1. Himachal Pradesh
+B. Nathu La | 2. Jammu and Kashmir
+C. Niti | 3. Sikkim
+D. Shipki | 4. Uttaranchal
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 2 3 4 1
+(c) 4 3 1 2
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Match List-I with List-II and select the correct answer using the code given below the Lists :
+@match
+List-I (Mountain Pass) | List-II (State)
+A. Bum La | 1. Arunachal Pradesh
+B. Jelep La | 2. Himachal Pradesh
+C. Muling La | 3. Sikkim
+D. Shipki La | 4. Uttarakhand
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 3 4 2
+(c) 4 3 2 1
+(d) 3 1 4 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Match the List-I and List-II and select the correct answer using the code given below :
+@match
+List-I (Mountain Pass) | List-II (State)
+A. Mana | 1. Sikkim
+B. Nathu La | 2. Jammu and Kashmir
+C. Zoji La | 3. Himachal Pradesh
+D. Shipki La | 4. Uttarakhand
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 4 3 2 1
+(c) 4 1 2 3
+(d) 4 1 3 2
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following pairs is not correctly matched?
+(Mountain Pass) (State)
+(a) Sin-La - Uttarakhand
+(b) Nathu La - Sikkim
+(c) Zoji-La - Arunachal Pradesh
+(d) Shipki La - Himachal Pradesh
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which one of the following passes is located in Uttarakhand ?
+(a) Jelep La
+(b) Lipulekh
+(c) Nathu La
+(d) Shipki
+@ans (b)
+@end
+
+**Lipulekh** in Pithoragarh is near the India-Nepal-China tri-junction and is the traditional route of the **Kailash Mansarovar Yatra**. Nepal objected to India's road to Lipulekh in 2020 and showed the area on its own map, but India administers it.
+
+@pyq U.P. Lower Sub. (Pre) 2013; U.P.P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Pre) 2010
+Which one of the following is not correctly matched ?
+(a) Nathu La - Arunachal Pradesh
+(b) Lipulekh - Uttarakhand
+(c) Rohtang - Himachal Pradesh
+(d) Palghat - Kerala
+@ans (a)
+@end
+
+@one
+Rohtang Pass is located in
+@ans Himachal Pradesh
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following options represents correct order of mountain Passes from west to east
+I. Shipki La
+II. Nathu La
+III. Bomdi La
+IV. Lipulekh
+Code :
+(a) I, II, III, IV
+(b) II, III, IV, I
+(c) I, IV, II, III
+(d) III, II, I, IV
+@ans (c)
+@end
+
+Go state by state from west to east: **Himachal** (Shipki La), **Uttarakhand** (Lipulekh), **Sikkim** (Nathu La), **Arunachal** (Bomdi La).
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Pass) | List-II (Height from Sea Level)
+A. Debsa | 1. 5360 metres
+B. Rohtang | 2. 4850 metres
+C. Bara-lacha | 3. 3978 metres
+D. Banihal | 4. 2832 metres
+@endmatch
+Codes : A B C D
+(a) 1 3 2 4
+(b) 3 1 2 4
+(c) 1 4 2 3
+(d) 3 1 4 2
+@ans (a)
+@end
+
+Rank them rather than memorise metres. **Debsa** (between Kullu and Spiti) is the highest, then **Bara-lacha La** in the Zaskar range, then **Rohtang** in the Pir Panjal, and **Banihal**, the lowest, on the Jammu-Srinagar route.
+
+@trap
+State errors repeat across the pass items: **Nathu La** and **Jelep La** are Sikkim (never Meghalaya or Arunachal); **Se La**, **Bum La** and **Bomdi La** are Arunachal; **Lipulekh** is Uttarakhand (never UP or Ladakh); **Zoji La** is now Ladakh; **Bhor Ghat** is Maharashtra. "Bomdila" is a town; the pass is **Bomdi La**.
+@end
+
+@next
+New tunnels make new questions: **Sela Tunnel** (Arunachal, 2024), **Zojila Tunnel** (Ladakh, under construction) and **Shinku La Tunnel** (Himachal-Ladakh, under construction). Pair each with its pass and state.
+@end
+
+@section 2.8 | Glaciers
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following is the largest glacier ?
+(a) Siachen
+(b) Baltoro
+(c) Chogo Lungma
+(d) Biafo
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Which of the following is the largest glacier?
+(a) Kanchenjunga
+(b) Rundun
+(c) Gangotri
+(d) Kedarnath
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which amongst the following is the largest glacier?
+(a) Sasaini
+(b) Gangotri
+(c) Zemu
+(d) Siachen
+@ans (d)
+@end
+
+@table
+Glacier | Region | Length (approx.) | Feeds
+Siachen | Karakoram, Ladakh | 76 km | Nubra (Indus system)
+Biafo | Karakoram, Gilgit-Baltistan | 67 km | Braldu (Indus)
+Baltoro | Karakoram, Gilgit-Baltistan | 63 km | Braldu (Indus); near K2
+Chogo Lungma | Karakoram, Gilgit-Baltistan | 44 km | Shigar (Indus)
+Gangotri | Uttarkashi, Uttarakhand | 30 km | Bhagirathi (at Gaumukh)
+Zemu | Sikkim | 26 km | Tista; largest in the eastern Himalaya
+Milam | Pithoragarh, Uttarakhand (Kumaon) | 16 km | Gori Ganga
+Pindari | Bageshwar, Uttarakhand (Kumaon) | 9 km | Pindar (Alaknanda system)
+Chaurabari | Rudraprayag, Uttarakhand | 6 km | Mandakini; north of Kedarnath
+@end
+
+Siachen is the longest glacier outside the polar regions after Fedchenko (Pamirs, about 77 km), so it wins every UPPSC option set that includes it. Without Siachen, **Gangotri** usually wins among Indian glaciers.
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P.P.S.C. (GIC) 2010
+Chaurabari Glacier is located towards –
+(a) South of Kedarnath temple
+(b) West of Kedarnath temple
+(c) North of Kedarnath temple
+(d) East of Kedarnath temple
+@ans (c)
+@end
+
+The **Chaurabari (Chorabari)** glacier lies about 3 km **north of Kedarnath** and gives rise to the **Mandakini**. In June 2013 the glacial lake below it (Chorabari Tal, also called Gandhi Sarovar) burst and caused the **Kedarnath disaster**.
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Which one of the following glaciers is located in Kumaun region of Uttarakhand ?
+(a) Hispar
+(b) Zemu
+(c) Milam
+(d) Rupal
+@ans (c)
+@end
+
+**Milam** and **Pindari** are the main glaciers of the **Kumaon** Himalaya. **Hispar** (Karakoram) and **Rupal** (on the south face of Nanga Parbat) are in Gilgit-Baltistan, and **Zemu** is in Sikkim.
+
+@trap
+Three of the four options in the 2013 question (Baltoro, Biafo, Chogo Lungma) are in the Karakoram of Gilgit-Baltistan. They are long, but all shorter than **Siachen**. The 1995 list has no Siachen, so the answer drops to **Gangotri**.
+@end
+
+@section 2.9 | The Peninsular Plateau and its Parts
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Meghalaya plateau is the part of –
+(a) Himalayan Range
+(b) Peninsular Plateau
+(c) Mountains of Eastern Ghats
+(d) Satpura Range
+@ans (b)
+@end
+
+The **Meghalaya (Shillong) plateau**, with the **Garo, Khasi and Jaintia** hills, is a detached block of the Peninsular plateau. It was cut off by the **Malda gap** (Garo-Rajmahal gap) between the Rajmahal hills and the Garo hills. The **Karbi Anglong (Mikir) hills** of Assam are another detached part of the same block.
+
+@pyq U.P.P.C.S. (Mains) 2007
+Why is Dhanbad the most densely populated district of the Chotanagpur Plateau?
+(a) Fertile soil and irrigation facilities through canals taken out from the Damodar.
+(b) Presence of coal, iron, mica, copper, etc.
+(c) Development of the mining industry and industrialization.
+(d) All of the above.
+@ans (c)
+@end
+
+**Dhanbad** (the "coal capital of India") sits on the **Jharia** coalfield of the Damodar valley. Its people came with **mining and industry**, not with farming. The soils are poor. Minerals alone do not draw people unless they are worked, so (c) is the precise answer.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Dandakaranya lies in –
+(a) Chhattisgarh and Madhya Pradesh
+(b) Chhattisgarh and Orissa
+(c) Jharkhand and Orissa
+(d) Andhra Pradesh and Jharkhand
+@ans (b)
+@end
+
+**Dandakaranya** is a forested plateau of about 92,000 sq km, mainly in **Bastar (Chhattisgarh)** and **Koraput-Malkangiri (Odisha)**, with fringes in Telangana, Andhra Pradesh and Maharashtra. It is home to the Gond, Muria and Bonda peoples and was used to resettle refugees from East Pakistan from 1958.
+
+@table
+Plateau | Main area | Key feature
+Malwa | Madhya Pradesh, Rajasthan | Basalt and black soil; Chambal, Betwa drainage
+Bundelkhand | Uttar Pradesh and Madhya Pradesh | Granite and gneiss; Jhansi, Banda, Chitrakoot
+Baghelkhand | Madhya Pradesh | Between Son and Rihand
+Chotanagpur | Jharkhand | Coal, iron, mica; Ranchi plateau
+Dandakaranya | Chhattisgarh, Odisha | Forests and tribes; Bastar
+Meghalaya | Meghalaya | Detached block; heaviest rain (Mawsynram)
+Deccan | Maharashtra, Karnataka, Telangana | Lava (north) and granite (south)
+Marwar | Rajasthan | East of the Aravalli
+@end
+
+UP link: the **Bundelkhand** plateau (Jhansi, Lalitpur, Mahoba, Hamirpur, Banda, Chitrakoot, Jalaun) and the **Vindhyan** plateau of Mirzapur and Sonbhadra are UP's share of the Peninsular block. Bundelkhand's hard rocks hold little groundwater, which is the root of its drought problem.
+
+@heatmap
+
+@pattern
+This is the largest chapter in the book after agriculture and minerals. UPPSC tests it almost entirely through **location**: which pass in which state, which hills in which state, which peak is highest, which glacier is longest. The pass items alone fill one fifth of the chapter, and the "state and its pass" pairing has been asked in nearly every decade. The 2019 to 2025 papers added new formats: Assertion-Reason on Himalayan uplift and seismic thrusts, the Atal Tunnel, the Shaksgam Valley, Deccan Trap thicknesses and the "state and highest peak" match. Learn one master table each for passes, peaks, hills and glaciers. Remember that Lipulekh left UP in 2000 and that Zoji La and Chang La are now in Ladakh.
+@end

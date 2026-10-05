@@ -1,0 +1,458 @@
+@chapter 1 | The Universe, the Solar System and the Sun
+@unit UNIT I · EARTH IN SPACE
+
+@intro
+UPPSC opens World Geography with the universe. The questions are short and factual: the **Big Bang**, galaxies and black holes, the order and records of the **planets** (largest, smallest, hottest, brightest, ringed, moonless), famous space missions, and the **Sun** as a fusion reactor. Many older keys still count **Pluto** as a planet, so keep the **2006 IAU** reclassification in mind. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 1.1 | The Universe, Galaxies and Stars
+
+@pyq U.P.P.C.S. (Pre) 2016
+The ''Big-Bang Theory'' explains the origin of –
+(a) Mammals
+(b) Ice-Age
+(c) Universe
+(d) Ocean
+@ans (c)
+@end
+
+The **Big Bang** idea was proposed by **Georges Lemaitre** (1927). **Edwin Hubble**'s discovery that galaxies are moving apart (1929) supported it, and **Fred Hoyle**, a critic, coined the name "Big Bang" (1949). The universe is about **13.8 billion years** old.
+
+@pyq U.P.P.C.S. (Pre) 2001
+The Milky Way is classified as –
+(a) Spiral Galaxy
+(b) Electrical Galaxy
+(c) Irregular Galaxy
+(d) Round Galaxy
+@ans (a)
+@end
+
+The **Milky Way** is a **barred spiral** galaxy about 1 lakh light-years across. The Sun lies in the **Orion Arm**, about 26,000 light-years from the centre. Our nearest large neighbour is the **Andromeda** galaxy (M31).
+
+@pyq U.P.P.C.S. (Pre) 2013
+A group of stars arranged in a particular shape, is called–
+(a) Milky Way
+(b) Constellation
+(c) Andromeda
+(d) Solar system
+@ans (b)
+@note The source misprints the option labels as (a) Milky Way, (b) Constellation, (b) Andromeda, (d) Solar system. They are relabelled (a) to (d) here, and the key (b) Constellation is unchanged.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Hubble space telescope has captured, for the first time, detailed image of the surface of a distant star. Name of the star :
+(a) Virgo
+(b) 70 Virgins
+(c) Betelgeuse
+(d) Big Dipper
+@ans (c)
+@end
+
+**Betelgeuse** is a red supergiant in **Orion**, about 650-700 light-years away. In 1995 it became the first star other than the Sun whose surface was directly imaged.
+
+@pyq U.P.P.C.S. (Pre) 1997
+The limit beyond which stars suffer internal collapse is called :
+(a) Chandrasekhar limit
+(b) Eddington limit
+(c) Hoyle limit
+(d) Fowler limit
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996, 2015, 2019
+The ''Black Hole Theory'' was propounded by :
+(a) C.V. Raman
+(b) H.J. Bhabha
+(c) S.Chandrasekhar
+(d) Hargovind Khurana
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2016
+Information about 'Black Hole' was first provided by
+@ans S. Chandrasekhar
+@end
+
+@one U.P.P.C.S. (Pre) 1997
+Which is a celestial phenomenon occurring due to stars?
+@ans Black Hole
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001, 2003
+Assertion (A) : A black hole is an astronomical entity that cannot be seen by telescope.
+Reason (R) : The gravitational field on a black hole is so strong that it does not allow even light to escape.
+In the context of the above statements, which one of the following is correct :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but R is false.
+(d) (A) is false, but R is true.
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+A 'Supernova' is –
+(a) An asteroid
+(b) A black hole
+(c) A comet
+(d) A dying star
+@ans (d)
+@end
+
+@table
+Stage or object | What it is
+Nebula | Cloud of gas and dust where stars are born
+Main-sequence star | Star fusing hydrogen into helium (the Sun now)
+Red giant / supergiant | Swollen star near the end of its life (Betelgeuse)
+White dwarf | Remnant core below the **Chandrasekhar limit** (about 1.4 solar masses)
+Supernova | Explosion of a dying massive star
+Neutron star / Pulsar | Super-dense remnant; a pulsar sends out regular radio pulses
+Black hole | Remnant so dense that not even light escapes
+Quasar | Extremely bright core of a distant galaxy powered by a black hole
+@end
+
+**S. Chandrasekhar** worked out the limit in **1930-31** and shared the **1983 Nobel Prize** in Physics for it. Stellar remnants heavier than the limit collapse into neutron stars or black holes. The first image of a black hole (M87*) was released by the **Event Horizon Telescope** in 2019.
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is NOT found in space?
+(a) Pulsar
+(b) Brittle Star
+(c) Black Hole
+(d) Quasar
+@ans (b)
+@end
+
+The **brittle star** is a sea animal related to the starfish (phylum Echinodermata).
+
+@pyq U.P.P.C.S. (Pre) 1997
+Which one of the following is not related to space terminology ?
+(a) Telemetering
+(b) Weightlessness
+(c) Cislunar
+(d) Byte
+@ans (d)
+@end
+
+**Cislunar** space is the region between the Earth and the Moon's orbit. **Telemetry** is the sending of measurements from a spacecraft to the ground.
+
+@section 1.2 | The Planets
+
+@pyq U.P.P.C.S. (Pre) 1992
+The number of the planets in the solar system is –
+(a) 7
+(b) 9
+(c) 12
+(d) 21
+@ans (*)
+@note (b) 9 was correct when the question was set. In **August 2006** the **International Astronomical Union** (Prague) reclassified **Pluto** as a **dwarf planet**, so the solar system now has **8 planets**, which is not among the options. The source therefore marks it (*).
+@end
+
+@pyq U.P. P.C.S. (Pre) 1992
+Which is true about planets ?
+(a) Planets are non-luminous bodies and don't shine
+(b) Planets shine though they are non-luminous bodies
+(c) Planets do not shine though they are the luminous body
+(d) Planets are the luminous body and also shine
+@ans (b)
+@end
+
+@one U.P. Lower Sub. (Spl.) (Pre) 2003; U.P. Lower Sub. (Pre) 2002
+Arrange the planets given below in order of increasing distance from sun? 1. Pluto 2. Earth 3. Jupiter 4. Uranus
+@ans 2, 3, 4, 1
+@end
+
+@one U.P.P.S.C. (GIC) 2010
+The Planets between Earth and Sun are
+@ans Mercury and Venus
+@end
+
+@one U.P.P.C.S. (Mains) 2012
+The Earth is located between
+@ans Venus and Mars
+@end
+
+@table
+Planet | Record or feature | Moons (approx.)
+Mercury | Nearest to Sun; smallest; shortest year (88 days) | 0
+Venus | Brightest; hottest; "Morning/Evening Star"; Earth's twin; spins backwards | 0
+Earth | Only known planet with life; densest | 1
+Mars | Red planet; day and axial tilt like Earth's; Olympus Mons | 2 (Phobos, Deimos)
+Jupiter | Largest; fastest spin (about 10 h); Great Red Spot; faint rings | 95+
+Saturn | Most prominent rings; least dense; Titan | 270+ (most moons)
+Uranus | Rolls on its side (tilt about 98°); spins backwards | 28+
+Neptune | Farthest planet; longest year (about 165 years); strongest winds | 16
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+The planet nearest to the Sun is –
+(a) Mercury
+(b) Earth
+(c) Venus
+(d) Pluto
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of the following planet takes the least time to orbit the sun?
+(a) Pluto
+(b) Mercury
+(c) Earth
+(d) Saturn
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which is the smallest planet of the solar system ?
+(a) Pluto
+(b) Mars
+(c) Venus
+(d) Mercury
+@ans (d)
+@note When the question was set Pluto counted as the smallest planet. Since 2006 Pluto is a dwarf planet, and the source gives **(d) Mercury** as the answer.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which is the largest Planet in the Solar System?
+(a) Jupiter
+(b) Neptune
+(c) Uranus
+(d) Saturn
+@ans (a)
+@end
+
+@pyq U.P.PC.S. (Mains) 2011
+Which of the following pairs is not properly matched ?
+(a) The largest planet of the Solar System - Jupiter
+(b) The smallest planet of the Solar System - Mercury
+(c) The brightest planet of the Solar System - Venus
+(d) The slowest moving planet of Solar System - Mars
+@ans (d)
+@end
+
+The slowest planet in its orbit is the outermost one, **Neptune**, which takes about **165 years** to go round the Sun.
+
+@pyq U. P. Lower Sub. (Spl) (Pre) 2004
+Which planet takes the longest period in revolving around the Sun ?
+(a) Uranus
+(b) Jupiter
+(c) Neptune
+(d) Pluto
+@ans (d)
+@note Among the options, **Pluto** (about 248 years) takes longest, which is why it is the key. Pluto is now a dwarf planet; among the eight planets the answer would be **Neptune**.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following pairs of planets is without satellites?
+(a) Venus and Mars
+(b) Mercury and Mars
+(c) Earth and Jupiter
+(d) Mercury and Venus
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following is known as 'Morning Star'?
+(a) Mercury
+(b) Venus
+(c) Mars
+(d) Saturn
+@ans (b)
+@end
+
+@one U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Pre) 2007
+The planet which is called twin sister of the earth is
+@ans Venus
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The Spacecraft "Magellan" was sent to –
+(a) Pluto
+(b) Saturn
+(c) Mars
+(d) Venus
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+The duration of its day and tilt of its axis are almost identical to those of the Earth. This is true of :
+(a) Uranus
+(b) Neptune
+(c) Saturn
+(d) Mars
+@ans (d)
+@end
+
+A day on **Mars** (a "sol") lasts about **24 h 37 min**, and its axis is tilted about **25°**, against the Earth's 23.5°. So Mars also has seasons.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following may have alien life because of a very conducive environment to life?
+(a) Jupiter
+(b) Mars
+(c) Europa-The Jupiter's Moon
+(d) Moon-The Earth's Moon
+@ans (b) & (c)
+@end
+
+**Europa** (Jupiter) is thought to have a salt-water ocean under its ice. NASA's **Europa Clipper** (launched 2024) will study it. **Enceladus** (Saturn) and **Titan** are the other favourite places to look for life.
+
+@pyq U.P.P.C.S. (Mains) 2004
+The ring of Jupiter is composed of –
+(a) Silicates
+(b) Non-existent
+(c) Very thick and opaque
+(d) All the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which of the following planets has rings around it –
+(a) Saturn
+(b) Mars
+(c) Mercury
+(d) Earth
+@ans (a)
+@end
+
+All four giant planets have rings: **Saturn** (bright, made of ice), **Jupiter** (faint, dust), **Uranus** and **Neptune** (dark). Only Saturn's are easily seen from Earth.
+
+@pyq U.P.P.C.S. (Mains) 2004
+After seven years of its journey spacecraft Cassini started its revolution in June-2004 around which planet–
+(a) Mercury
+(b) Jupiter
+(c) Mars
+(d) Saturn
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+Planet Saturn –
+(a) Is colder than Pluto
+(b) Is colder than Neptune
+(c) Warmer than Neptune
+(d) Warmer than Jupiter
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Titan is the largest moon of the planet –
+(a) Mars
+(b) Venus
+(c) Jupiter
+(d) Saturn
+@ans (d)
+@end
+
+**Titan** (Saturn) is the only moon with a thick atmosphere. The largest moon in the solar system is **Ganymede** (Jupiter), and Titan is second.
+
+@pyq U.P.U.D.A./L.D.A .(Spl) (Mains) 2010
+Nix and Hydra are the moons of –
+(a) Pluto
+(b) Venus
+(c) Jupiter
+(d) Mercury
+@ans (a)
+@end
+
+**Pluto** has five moons: **Charon** (largest), Styx, Nix, Kerberos and Hydra. NASA's **New Horizons** flew past Pluto in 2015.
+
+@pyq U.P.P.C.S. (Mains) 2004
+Hydrogen, Helium and Methane are the main gases present on
+(a) Uranus, Neptune and Pluto
+(b) Jupiter, Saturn and Mars
+(c) Uranus, Neptune and Venus
+(d) Mars and Venus
+@ans (*)
+@note Hydrogen, helium and methane are found together on the giant planets. Methane gives **Uranus and Neptune** their blue colour. **Pluto** has a thin nitrogen-methane atmosphere but no hydrogen-helium envelope, and **Mars** and **Venus** have mostly **carbon dioxide**. No option is fully correct, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+The Asteroids are small celestial bodies in the solar system which are found between the planets.
+(a) Mercury and Venus
+(b) Mars and Jupiter
+(c) Jupiter and Saturn
+(d) Neptune and Saturn
+@ans (b)
+@end
+
+The **main asteroid belt** lies between **Mars and Jupiter**. Its largest body, **Ceres** (about 950 km), is now classed as a dwarf planet. The other dwarf planets are Pluto, Eris, Haumea and Makemake. Beyond Neptune lies the **Kuiper Belt**, and farther still the **Oort Cloud**, the source of long-period comets.
+
+@trap
+**Brightest = Venus**, **largest = Jupiter**, **largest moon = Ganymede**, not Titan. **Hottest = Venus**, not Mercury, because of its thick CO2 greenhouse. **No moons = Mercury and Venus.** **Day and tilt like Earth's = Mars.** For any "Pluto" option, check whether the question predates 2006.
+@end
+
+@section 1.3 | The Sun
+
+@pyq U.P.P.C.S.(Pre) 2001
+The substances present at the centre of the sun are in:
+(a) Solid, liquid and gaseous states
+(b) Liquid state only
+(c) Gaseous state only
+(d) Both liquid and gaseous state
+@ans (*)
+@note At about **15 million °C**, the Sun's core is neither solid, liquid nor ordinary gas. It is **plasma**, the fourth state of matter. (c) is the nearest option, but the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996, 2001, 2006
+Solar energy is due to –
+(a) Ionization
+(b) Nuclear Fusion
+(c) Nuclear Fission
+(d) Oxidation
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The solar eclipse occurs on
+(a) Quarter Moon day
+(b) New Moon day
+(c) Any day
+(d) Full Moon day (Poornima)
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 1990
+When does solar eclipse occur?
+@ans When the moon comes between the earth and the sun
+@end
+
+A **solar eclipse** happens on a **new moon** (Amavasya), when the Moon passes between the Sun and the Earth. A **lunar eclipse** happens on a **full moon** (Purnima), when the Earth lies between the Sun and the Moon.
+
+@pyq U.P.P.C.S. (Pre) 2010
+The distance between the earth and the sun is –
+(a) 107.7 Million km
+(b) 142.7 Million km
+(c) 146.6 Million km
+(d) 149.6 Million km
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The earth is nearest to the sun on –
+(a) 3rd January
+(b) 4th July
+(c) 22nd March
+(d) 21st September
+@ans (a)
+@end
+
+@table
+Sun fact | Value
+Mean distance from Earth (1 AU) | About 149.6 million km
+Light travel time to Earth | About 8 min 20 s
+Perihelion (nearest) | About 3-4 January (about 147 million km)
+Aphelion (farthest) | About 4-5 July (about 152 million km)
+Core temperature | About 15 million °C
+Surface (photosphere) temperature | About 5,500-6,000 °C
+Composition | About 73% hydrogen, 25% helium
+Energy source | Nuclear fusion of hydrogen into helium
+Indian solar mission | Aditya-L1 (2023), at the L1 Lagrange point
+@end
+
+@heatmap
+
+@pattern
+This chapter is almost entirely **one-fact recall**: planet records, which planet has which moon, mission-to-planet pairs (Magellan-Venus, Cassini-Saturn), and Chandrasekhar's black-hole work. About one question in six has an outdated or (*) key because of the 2006 Pluto ruling. Read each note before marking an answer.
+@end
+
+@next
+Likely next angles: **Aditya-L1** and the **L1 point**; **Chandrayaan-3** (south-pole landing, 2023) and **Chandrayaan-4**; the **James Webb Space Telescope**; **Europa Clipper** and **JUICE** (icy moons); dwarf planets; and the **2024 total solar eclipse**. Expect "which is correct" questions on moon counts and planet records.
+@end

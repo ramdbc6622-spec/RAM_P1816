@@ -1,0 +1,484 @@
+@chapter 16 | Major Crops I: Crop Seasons, Wheat and Rice
+
+@intro
+India grows crops in three seasons: **kharif** (sown with the monsoon in June-July, harvested in September-October), **rabi** (sown in October-November, harvested in March-April) and the short irrigated **zaid** season between them. **Rice** is the chief food crop and occupies the largest area; **wheat** is the main rabi cereal. **Uttar Pradesh** is India's largest producer of wheat (about 30%) and of food grains overall, has the largest area under rice, and in 2024-25 also became the largest producer of rice. UPPSC asks this chapter through seasons, leading states, varieties and diseases. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 16.1 | Crop Seasons
+
+@table
+Season | Sowing | Harvest | Main crops
+Kharif | June-July | September-October | Rice, maize, jowar, bajra, ragi, arhar, moong, urad, cotton, groundnut, soybean, jute, sugarcane (planting)
+Rabi | October-November | March-April | Wheat, barley, gram, lentil, pea, mustard, linseed, potato
+Zaid | March | June | Watermelon, muskmelon, cucumber, vegetables, moong and urad (irrigated)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which of the following is a "Rabi" crop :
+(a) Cotton
+(b) Maize
+(c) Tur
+(d) Mustard
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following is a Kharif Crop ?
+(a) Lentil
+(b) Linseed
+(c) Mustard
+(d) Soyabean
+@ans (d)
+@end
+
+@one U.P.P.C.S.(Pre) 2012
+Which one of the crop is not a Kharif Crop?
+@ans Mustard
+@end
+
+@one U.P.P.C.S (Mains) 2011
+Which one of the crop is not a Kharif Crop?
+@ans Gram
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Which of the following crops are grown mainly in the irrigated areas during Zaid ?
+(a) Arhar and Gram
+(b) Moong and Urad
+(c) Rice and Millets
+(d) Maize and Groundnut
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : Rabi crops in India are predominantly cultivated in north-western states like Punjab and Haryana.
+Reason (R) : The success of Rabi crops in these states depends on the rain due to western tropical cyclones during winters.
+Select the correct answer using the code given below :
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is true but (R) is false.
+(c) (A) is false but (R) is true.
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+@ans (b)
+@end
+
+Winter rain in the north-west comes from **western disturbances**, which are **temperate** (extra-tropical) systems from the Mediterranean, not "western tropical cyclones". Rabi crops there depend mainly on **irrigation**, with the winter showers as a bonus.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which of the following crop is transplanted?
+(a) Mustard
+(b) Rice
+(c) Wheat
+(d) Maize
+@ans (b)
+@end
+
+@section 16.2 | Wheat: States and Production
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following sequence is correct in the context of the three largest wheat producing states?
+(a) Punjab, Uttar Pradesh and Haryana
+(b) Uttar Pradesh, Haryana and Punjab
+(c) Uttar Pradesh, Punjab and Haryana
+(d) Punjab, Haryana and Uttar Pradesh
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2016
+Which State was the largest producer of wheat in India in the year 2015-16?
+@ans Uttar Pradesh
+@end
+
+The order when the question was set was **UP, Punjab, Haryana**. Since about 2013 **Madhya Pradesh** has moved into second place on the strength of irrigated Malwa wheat. In 2024-25 the leaders were **Uttar Pradesh (about 30%), Madhya Pradesh (about 21%) and Punjab (about 15%)**.
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Uttar Pradesh ranks first in the production of which of the following crops?
+(a) Rice and Wheat
+(b) Wheat and Sugarcane
+(c) Rice and Sugarcane
+(d) Wheat and Pulses
+@ans (*)
+@note (b) was correct when the question was set: UP led in wheat and sugarcane but not rice. In 2024-25 UP also became the largest producer of **rice**, so (a) and (c) now hold too. In pulses UP is behind Madhya Pradesh and Rajasthan.
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Consider the following statements :
+1. Highest production of wheat in India is obtained from the state of U.P.
+2. Cropping pattern occupying the highest area in U.P. is rice-wheat.
+3. An extension worker does not need political competency.
+4. The most critical stage of irrigation in wheat is flowering stage.
+Which of these statements are correct ?
+(a) Only 1 and 2
+(b) Only 2 and 3
+(c) Only 1, 2 and 4
+(d) Only 1, 2 and 3
+@ans (d)
+@end
+
+The most critical irrigation for wheat is at **crown root initiation (CRI)**, about **20-25 days after sowing**. If only one irrigation is possible, it is given then; flowering is the second priority. UP link: the **rice-wheat** sequence covers the largest area in UP and across the Indo-Gangetic plain.
+
+@pyq U.P.P.C.S. (Mains) 2009
+The production of wheat in India during 2006-07 and 2009-10 has –
+(a) Increase
+(b) Decrease
+(c) Experienced fluctuations
+(d) Remained stagnant
+@ans (a)
+@end
+
+Production rose each year from about 75.8 million tonnes (2006-07) to about 80.8 million tonnes (2009-10). It reached a record of about **117.5 million tonnes in 2024-25**.
+
+@section 16.3 | Wheat: Varieties, Genes and Diseases
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following wheat varieties has been developed through induced mutation?
+(a) Kalyan Sona
+(b) Sonora-64
+(c) Sharbati Sonara
+(d) Sonalika
+@ans (b)
+@note the key gives Sonora-64, one of the Mexican dwarf wheats from which Indian varieties were bred. The variety described in standard texts as made by **induced (gamma-ray) mutation** of Sonora-64 at IARI in 1967 is **Sharbati Sonora**, option (c).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Dwarfing gene in Wheat is –
+(a) Norin - 10
+(b) D-ji-Wu-jin
+(c) Opaque - 2
+(d) None of the above
+@ans (a)
+@end
+
+@table
+Gene or source | Crop | Effect
+Norin 10 (Rht genes, Japan) | Wheat | Short, stiff straw; Borlaug's dwarf wheats
+Dee-geo-woo-gen (Taiwan) | Rice | Semi-dwarf rice (IR8, Taichung Native 1)
+Opaque-2 | Maize | High lysine and tryptophan (quality protein maize)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Kalyana Sona is a variety of-
+(a) Rice
+(b) Maize
+(c) Wheat
+(d) Jowar
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Raj 3077 is a variety of –
+(a) Maize
+(b) Jowar
+(c) Rice
+(d) Wheat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+'Pusa Sindhu Ganga' is a variety of
+(a) Wheat
+(b) Paddy
+(c) Lentil
+(d) Gram
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2016
+UP-308 is a variety of
+(a) Rice
+(b) Wheat
+(c) Cotton
+(d) Millet
+@ans (b)
+@end
+
+**UP** in a variety name means it was bred at **Pantnagar** (formerly the UP Agricultural University): UP-262, UP-308 and UP-2338 are wheats. Other common wheats: Kalyan Sona, Sonalika, HD-2329, HD-2967, PBW-343, Raj 3077 (late sowing) and the Pusa series (Pusa Sindhu Ganga, Pusa Basant).
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Macaroni wheat is most suitable under what conditions
+(a) Highly irrigated conditions
+(b) Late sown conditions
+(c) Unirrigated conditions
+(d) None of the above
+@ans (c)
+@end
+
+**Macaroni (durum) wheat**, *Triticum durum*, is hard-grained and drought-tolerant, so it suits **rain-fed** conditions of central and peninsular India. It is used for pasta and semolina. Common bread wheat is *Triticum aestivum*.
+
+@pyq U.P.P.C.S. (Mains) 2014
+'Triticale' is a cross between which of the following?
+(a) Barley and Rye
+(b) Wheat and Oat
+(c) Wheat and Barley
+(d) Wheat and Rye
+@ans (d)
+@end
+
+**Triticale** (*Triticum* × *Secale*) is the first man-made cereal. It joins the yield of **wheat** with the hardiness of **rye**.
+
+@pyq U.P.P.C.S. (Mains) 2003, 2004
+Which one of the following is a disease of the wheat crop :
+(a) Blast
+(b) Tikka
+(c) Dust
+(d) Rust
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+'Karnal bunt' is a disease of –
+(a) Paddy
+(b) Pea
+(c) Mustard
+(d) Wheat
+@ans (d)
+@end
+
+@table
+Disease | Crop | Cause
+Rust (black, brown, yellow) | Wheat | Fungi (Puccinia); Ug99 is a black-rust race
+Karnal bunt | Wheat | Fungus (*Tilletia indica*); first seen at Karnal, 1931
+Loose smut | Wheat | Fungus
+Blast | Rice | Fungus (*Magnaporthe oryzae*)
+Khaira | Rice | Zinc deficiency
+Tikka (leaf spot) | Groundnut | Fungus
+Red rot | Sugarcane | Fungus
+Wilt | Arhar, gram | Fungus (*Fusarium*)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+The variety of pigeon pea(Arhar) suitable for double cropping with wheat is-
+(a) N. A-1
+(b) Bahar
+(c) U.P.A.S-120
+(d) None of the Above
+@ans (c)
+@end
+
+**UPAS-120** (Pantnagar) is an **early-maturing** arhar, ready in about 130 days, so the field is free in time for wheat. Long-duration arhars such as Bahar take most of the year.
+
+@section 16.4 | Rice: Origin, Area and Production
+
+@pyq U.P.P.C.S. (Mains) 2015
+Rice originated in –
+(a) Europe
+(b) South-East Asia
+(c) South America
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Chief food crop of India is –
+(a) Wheat
+(b) Rice
+(c) Maize
+(d) Pulses
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following crops occupies the largest area in India ?
+(a) Wheat
+(b) Sugarcane
+(c) Maize
+(d) Rice
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India, rice is cultivated in the areas having over-
+(a) 20 cm annual rainfall
+(b) 30 cm annual rainfall
+(c) 60 cm annual rainfall
+(d) 100 cm annual rainfall
+@ans (d)
+@end
+
+Rice needs high temperatures (above about **25°C**), rainfall above about **100 cm**, and standing water. The **100 cm isohyet** marks its natural western limit; west of it (Punjab, Haryana) rice grows only with canal and tube-well irrigation.
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India, the largest area under rice cultivation lies in the state of
+(a) Andhra Pradesh
+(b) Orissa
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+Which state is the largest producer of rice in India?
+@ans Uttar Pradesh
+@end
+
+UP link: for most of the past decades **West Bengal** was the largest rice producer, and UP was second. UP has had the **largest rice area** for a long time (about 6 to 7 million ha), and in **2024-25** it also topped production. The one-liner's key (UP) reflects the year it was asked.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs (Crop - Peculiarity) is not correctly matched?
+(a) State where rice is grown three times in a year – West Bengal
+(b) Bihar's contribution to rice production – 15.7%
+(c) State with largest area under rice production – Uttar Pradesh
+(d) Isohyets that decide western limit of rice production – 100 cm
+@ans (b)
+@end
+
+**West Bengal** grows three rice crops a year: **aus** (autumn, pre-monsoon sown), **aman** (winter, the main crop) and **boro** (summer, irrigated). **Bihar** contributes only about **5 to 6%** of India's rice.
+
+@pyq U.P.P.C.S. (Mains) 2011
+'Aman' Paddy is grown during
+(a) April-May
+(b) June-July
+(c) November-December
+(d) May-June
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2009; U.P. Lower Sub. (Pre) 2004
+The states which account for more than half of the total rice production in India are –
+(a) West Bengal, Punjab, Tamilnadu and Odisha
+(b) West Bengal, Uttar Pradesh, Punjab, and Andhra Pradesh
+(c) Uttar Pradesh, West Bengal, Chhattisgarh and Assam
+(d) Punjab, Andhra Pradesh, Bihar and Odisha.
+@ans (*)
+@note (b) was correct when the question was set. Since the division of Andhra Pradesh (2014), the group making up just over half of production is **Uttar Pradesh, Telangana, West Bengal, Punjab and Andhra Pradesh**.
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+In India four major producers of rice are –
+(a) Punjab, Uttar Pradesh, Tamil Nadu, Odisha
+(b) Uttar Pradesh, West Bengal, Bihar, Assam
+(c) West Bengal, Punjab, Uttar Pradesh, Andhra Pradesh
+(d) West Bengal, Uttar Pradesh, Tamil Nadu, Punjab
+@ans (*)
+@note at the time the leaders were West Bengal, Punjab, Uttar Pradesh and Andhra Pradesh, so (c) fitted. In 2024-25 the order was Uttar Pradesh, Telangana, West Bengal, Punjab, Chhattisgarh and Odisha.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Arrange the following states of India in the ascending order of their rice production :
+1. Andhra Pradesh
+2. Punjab
+3. Tamil Nadu
+4. West Bengal
+Select the correct answer from the codes given below:
+(a) 3, 4, 2, 1
+(b) 4, 2, 3, 1
+(c) 2, 3, 1, 4
+(d) 3, 2, 1, 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+In which of the following states, the productivity of rice is the highest ?
+(a) Punjab
+(b) U.P.
+(c) Haryana
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Among the Indian States, which state has the highest yield (per hectare) of rice?
+(a) West Bengal
+(b) Uttar Pradesh
+(c) Haryana
+(d) Punjab
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following statements and choose the correct code to answer –
+Assertion(A) : Punjab is a major exporter of rice.
+Reason(R) : This state leads in the rice production.
+Code:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is false but, (R) is true
+(d) (A) is true but, (R) is false
+@ans (d)
+@end
+
+**Punjab** has the highest rice **yield** (about 4.4 tonnes/ha) and a large surplus, most of which goes to the central pool and for export (including **basmati**). It is not the largest producer. Note the trap: yield leader (Punjab) versus production leader (West Bengal earlier, UP now).
+
+@trap
+Rice has three "largest" answers: **area** (Uttar Pradesh), **yield** (Punjab), **production** (West Bengal for most years, UP in 2024-25). Read the stem carefully, and check the year if the question says "at present".
+@end
+
+@section 16.5 | Rice Varieties and Practices
+
+@pyq U.P.P.C.S. (Mains) 2006
+Jaya, Padma and Krishna are improved varieties of which of the following cereals ?
+(a) Rice
+(b) Wheat
+(c) Barley
+(d) Maize
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Pusa Sugandha-5 is an aromatic variety of :
+(a) Maize
+(b) Red gram
+(c) Rice
+(d) Sugarcane
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+'Mahi Sugandha' is a variety of
+(a) Rice
+(b) Wheat
+(c) Sunflower
+(d) Mustard
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+'Barani deep' is a variety of –
+(a) Pigeon pea
+(b) Maize
+(c) Paddy
+(d) None of the above
+@ans (c)
+@end
+
+UP link: **Barani Deep**, **Narendra Shankar** and **Narendra Sushka Samrat** are rice varieties from **Acharya Narendra Deva University of Agriculture and Technology**, Kumarganj (Ayodhya). "Barani" means rain-fed.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is a hybrid variety of Basmati rice?
+(a) Pusa RH- 10
+(b) Pusa Sugandh - 3
+(c) Pusa Basmati- 1
+(d) Pusa Sugandh - 5
+@ans (a)
+@end
+
+**Pusa RH-10** (IARI, 2001) was the first **hybrid** basmati-type rice. Pusa Basmati 1 and the Pusa Sugandh series are high-yielding **non-hybrid** basmati varieties. Basmati has a **Geographical Indication** for the Indo-Gangetic plain, including **30 districts of western UP**.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+The proper seed Ratio for transplanting of basmati rice is
+(a) 40-50 kg/ha
+(b) 20-30 kg/ha
+(c) 15-20kg/ha
+(d) 5-10 kg/ha
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following states has the largest area under hybrid rice cultivation?
+(a) Bihar
+(b) Karnataka
+(c) Punjab
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@next
+**Direct-seeded rice (DSR)** and **alternate wetting and drying** save water and cut methane, and **Pusa-44** is being phased out in Punjab for being long-duration and water-hungry. Expect statement questions on these and on India's position as the world's **largest rice exporter**.
+@end
+
+@heatmap
+
+@pattern
+Rice and wheat questions follow three patterns: leading states (with the data changing over time), varieties and genes, and seasons. Many keys in this chapter depend on the year: the order of wheat states, the largest rice producer, and the group of states making up half the rice. Learn the current position (UP first in wheat, rice area and, from 2024-25, rice production; Punjab first in rice yield; MP second in wheat) and the position when the exam was set. Variety names repay little effort; learn the series codes instead (UP = Pantnagar, Pusa = IARI, Narendra = Ayodhya).
+@end

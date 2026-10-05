@@ -1,0 +1,474 @@
+@chapter 6 | Heat and Thermodynamics
+
+@intro
+Heat questions are about daily life: steam burns, thermometers and temperature scales, expansion, refrigerators and air-conditioners, **humidity and evaporation** (earthen pots, drying clothes, sweating), **boiling point and pressure** (hills and pressure cookers), and **conduction, convection and radiation** (thermos flask, white clothes, cloudy nights, woollens). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 6.1 | Latent Heat and Temperature Scales
+
+@pyq U.P. P.C.S. (Pre) 1993
+The hand burns more by steam comparatively to boiling water, because –
+(a) The steam has latent heat
+(b) Steam sneakes into the body
+(c) The steam has more power
+(d) Steam is gas
+@ans (a)
+@end
+
+
+**Latent heat** is heat absorbed or released during a change of state without any change of temperature. Steam at 100°C carries an extra **540 cal/g** (2,260 J/g, latent heat of vaporisation) compared with water at 100°C, and gives it all up on condensing on the skin, so a steam burn is worse. Ice needs **80 cal/g** (latent heat of fusion) to melt.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following is a correct relationship between Fahrenheit (°F) and Celsius (°C) degrees?
+(a) °C = (9/5)°F + 32
+(b) °C = °F – 273.15
+(c) °F = (9/5)°C + 32
+(d) °F = °C – 273.15
+@ans (c)
+@end
+
+@pyq U.P. U.D.A/L.D.A. (Pre) 2003; U.P.P.C.S. (Mains) 2015
+At what temperature are the reading of a Centigrade and Fahrenheit thermometer the same?
+(a) – 40
+(b) 212
+(c) 40
+(d) 100
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+The normal temperature of human body is 98.4°F. It's equivalent temperature in °C is –
+(a) 40.16
+(b) 36.89
+(c) 35.72
+(d) 32.36
+@ans (b)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+A measured temperature in Fahrenheit scale is 200°F.
+What will be its value in Celsius scale?
+(a) 93.3°C
+(b) 40°C
+(c) 99°C
+(d) 30°C
+@ans (a)
+@end
+
+
+@pyq U.P. P.C.S. (Mains) 2016
+Let the average temperatures in Centigrade (C) and Fahrenheit (F) be C_{av} and F_{av}. If C and F are related to F = (9/5)C + 32, then F_{av} and C_{av} have the relation : *(the source writes the averages with a bar)*
+(a) F_{av} = (9/5)C_{av} + 32
+(b) F_{av} = C_{av} + 32
+(c) F_{av} = (9/5)C_{av}
+(d) F_{av} = (9/5)C_{av} – 32
+@ans (a)
+@end
+
+@table
+Point | Celsius | Fahrenheit | Kelvin
+Absolute zero | -273.15 | -459.67 | 0
+**Same reading on C and F** | **-40** | **-40** | 233.15
+Ice melts | 0 | 32 | 273.15
+**Water densest** | 4 | 39.2 | 277.15
+Normal body temperature | **37** | **98.6** (often given as 98.4) | 310
+Water boils (sea level) | 100 | 212 | 373.15
+@end
+
+Conversion: **C/5 = (F - 32)/9 = (K - 273)/5**. Because the relation is linear, it holds for **averages** too. 98.4°F works out to 36.89°C and 200°F to 93.3°C.
+
+@pyq U.P.P.C.S. (Pre) 1997
+In cold countries, alcohol is preferred to mercury as a thermometric liquid because :
+(a) Alcohol has a lower freezing point
+(b) Alcohol is a better conductor of heat
+(c) Alcohol is cheaper than mercury
+(d) The world production of alcohol is greater than that of mercury
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008; U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following is used as an antifreeze for the automobile engines ?
+(a) Ethanol
+(b) Ethylene glycol
+(c) Methanol
+(d) Propyl alcohol
+@ans (b)
+@end
+
+
+**Alcohol** freezes at -115°C (mercury at -39°C), so it is used in thermometers for very cold places; mercury is better for high temperatures (boils at 357°C). **Ethylene glycol** is the **antifreeze** in car radiators: added to water it lowers the freezing point and raises the boiling point.
+
+@section 6.2 | Expansion and Cooling Devices
+
+@pyq U.P.P.C.S. (Pre) 2006
+Expansion during heating –
+(a) Occurs only in solid
+(b) Increases the weight of the material
+(c) Decreases the density of the material
+(d) Occurs at the same rate for all liquids and solids
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+When a glass rod is placed in steam, its length increases but its width :
+(a) Remains unchanged
+(b) Decreases
+(c) Increases
+(d) Becomes irregular
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2012
+When ice melts, then
+(a) Volume increases
+(b) Volume decreases
+(c) Mass increases
+(d) Mass decreases
+@ans (b)
+@end
+
+On heating, a body expands **in every direction** (length, breadth and volume), so its **density falls** but mass and weight stay the same. Ice is the exception at 0°C: water **contracts** when ice melts, so volume decreases. Gaps are left in railway tracks and bridges, and telephone wires sag in summer, to allow for expansion.
+
+@pyq U.P.P.C.S. (Pre) 1993, 1996
+Thermostat is related to :
+(a) Humidity
+(b) Temperature
+(c) Air
+(d) Clouds
+@ans (b)
+@end
+
+@one
+A thermostat is a device which
+@ans automatically regulates the temperature of a body.
+@end
+
+
+A **thermostat** (often a bimetallic strip of two metals that expand differently) switches heating or cooling on and off to hold a set temperature; it is used in irons, refrigerators, geysers and ovens.
+
+@pyq U.P.P.C.S. (Pre) 2007
+The safest temperature for keeping food fresh in a refrigerator is
+(a) 4°C
+(b) 8°C
+(c) 0°C
+(d) 10°C
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+When soggy biscuits are kept inside the fridge for sometime they become crisp because :
+(a) Cooling releases extra moisture
+(b) Humidity inside the fridge is low and extra moisture is absorbed.
+(c) Humidity inside the fridge is high and extra moisture is absorbed.
+(d) Pressure inside the fridge is high and help in releasing extra moisture.
+@ans (b)
+@end
+
+
+Food is safest at **about 4°C**, below which most bacteria grow very slowly ("danger zone" 5-60°C). A refrigerator's cold coils condense and remove water vapour, so the air inside is **dry**; soggy biscuits lose moisture and turn crisp.
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Assertion (A) : A piece of ice added to the drink, cools it.
+Reason (R) : Ice takes latent heat from the drink for melting resulting in the cooling of the drink.
+Select the correct answer using the codes given below:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Consider the following statements Assertion (A) : If Ice collects in the freezer, the cooling in the refrigerator is affected adversely.
+Reason (R) : Ice is a poor conductor.
+Select the correct answer using the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which of the following statements is not true?
+(a) Air-Conditioner and Air-Cooler both maintain temperature.
+(b) Air-Conditioner and Air-Cooler both maintain humidity
+(c) Air-Conditioner maintains humidity but Air-Cooler does not maintain humidity
+(d) Both control motion of air
+@ans (b)
+@end
+
+
+An **air-conditioner** controls temperature, **humidity** and air circulation; a desert **air cooler** cools by evaporating water, which **adds** humidity, so it works poorly in humid weather.
+
+@section 6.3 | Humidity and Evaporation
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): Relative humidity decreases with increasing air temperature.
+Reason (R): Absolute humidity increases with increasing evaporation.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (a)
+@end
+
+
+**Relative humidity** = actual water vapour / maximum the air can hold at that temperature. Warm air can hold more vapour, so with the same moisture, RH **falls** as temperature rises. Absolute humidity rises with more evaporation. Both statements are true, but the second does not explain the first.
+
+@pyq U.P.P.C.S. (Pre) 2008
+In which of the following conditions will wet clothes dry earliest?
+(a) 100% RH, 60°C temperature
+(b) 100% RH, 20°C temperature
+(c) 20% RH, 20°C temperature
+(d) 20% RH, 60°C temperature
+@ans (d)
+@end
+
+**Evaporation** is faster with **higher temperature, lower humidity, more wind and larger surface area**, and it **cools** the surface because the escaping molecules take latent heat with them.
+
+@pyq U.P.P.C.S.(Pre) 2012
+In an earthen pitcher, the water remains cold due to the process of
+(a) Condensation
+(b) Evaporation
+(c) Sublimation
+(d) None of the above
+@ans (b)
+@end
+
+
+@pyq U.P. B.E.O. (Pre) 2019
+Loss of water from the body through perspiration depends on :
+(a) Atmospheric temperature only
+(b) Atmospheric humidity only
+(c) Both (a) and (b)
+(d) None of (a) and (b)
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): Evaporation of sweat from human skin dissipates body heat.
+Reason (R): High humidity on a hot day increases discomfort.
+Select the correct answer from the code given below :
+Code:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (a)
+@end
+
+
+Sweat cools us by **evaporating**. On a hot, **humid** day sweat cannot evaporate fast, so we feel sticky and uncomfortable; this is a true fact but not the reason why evaporation cools, so (R) does not explain (A). The **heat index** combines temperature and humidity to express how hot it feels.
+
+@pyq U.P. P.C.S. (Pre) 2003
+In the season of summer, we experience a humid heat when weather :
+(a) Start of summer
+(b) Middle of summer
+(c) Scorching weather
+(d) Humid weather
+@ans (d)
+@end
+
+@pyq U.P.R.O/A.R.O. (Pre) 2014
+Xeric condition refers to –
+(a) low temperature
+(b) low humidity
+(c) high evaporation
+(d) extreme temperature
+@ans (b)
+@end
+
+
+@section 6.4 | Pressure and Boiling Point
+
+@pyq U.P.P.C.S (Pre) 2010
+The atmosphere exerts enormous pressure on us. But, we do not feel it because
+(a) Our blood exerts a pressure slightly more than that of the atmosphere.
+(b) We are used to it.
+(c) Our bones are very strong and can withstand the pressure.
+(d) The surface area of our head is very small.
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1994
+Why does water boil at a temperature below 1000C at higher altitudes ?
+(a) The atmospheric pressure decreases and hence boiling point is lowered.
+(b) The gravitational attraction is less.
+(c) Because of heavy winds in mountains.
+(d) None of the above is correct.
+@ans (a)
+@end
+
+@pyq U.P.R.O/A.R.O. (Pre) 2023
+Assertion (A) : The boiling point of water decreases as the altitude increases.
+Reason (R) : The atmospheric pressure increases with altitude.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) (A) is true, but (R) is false.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007, 2015
+Food gets cooked faster in a pressure cooker because –
+(a) Water starts boiling at a lower temperature due to high pressure
+(b) Water starts boiling at a higher temperature due to high pressure
+(c) Water boils only at 100°C but the heat content is higher at high pressure
+(d) Convection currents are set inside the cooker
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Maximum temperature inside pressure cooker depends on :
+(a) Area of hole on the top and weight kept on it
+(b) Area of hole on the top and food being cooked
+(c) Weight kept on hole at top and food being cooked
+(d) Area of hole on the top only
+@ans (a)
+@end
+
+
+@table
+Change | Boiling point | Example
+**Lower pressure** (high altitude) | Falls (about 1°C per 300 m) | Water boils near 70°C on Everest; food cooks slowly in hills
+**Higher pressure** | Rises | **Pressure cooker**: about 120°C, so food cooks faster
+**Dissolved impurity** (salt, sugar) | **Rises** | Salted water boils above 100°C
+Dissolved impurity | Freezing point **falls** | Salt on icy roads; salt-ice mixture down to about -22°C
+@end
+
+The maximum pressure, and so the temperature, inside a cooker is set by the **weight on the vent and the area of the hole** it sits on (pressure = force/area).
+
+@pyq U.P.P.C.S. (Mains) 2006
+On adding common salt to water, the boiling point and freezing point of water will :
+(a) Increase
+(b) Decrease
+(c) Decrease and increase respectively
+(d) Increase and decrease respectively
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1995
+When a bottle is filled with water and it is freezing the bottle breaks down, because
+(a) Water expands upon freezing.
+(b) Bottle shrinks at freezing point.
+(c) The temperature outside the bottle is higher than inside.
+(d) Water expands on heating.
+@ans (a)
+@end
+
+@section 6.5 | Conduction, Convection and Radiation
+
+@pyq U.P.P.C.S. (Pre) 2019
+A liquid remains hot or cold for a long time in thermos flask because there is no loss or gain of heat by
+(a) Conduction
+(b) Convection and radiation
+(c) Both (a) and (b)
+(d) None of the above
+@ans (c)
+@end
+
+A **thermos (Dewar) flask** has a double glass wall with a **vacuum** between (stops conduction and convection), **silvered** surfaces (reflect radiation) and a cork stopper and supports that conduct poorly.
+
+@pyq U.P.P.C.S. (Pre) 1993
+In order to avoid sunlight, which of the following colour combination for an umbrella is most appropriate?
+(a) Top black & bottom white
+(b) Top white & bottom black
+(c) Only black
+(d) Only white
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+It is more comfortable to wear white cloth in summer because
+(a) They reflect all the heat falling on them
+(b) They radiate heat transferred from the body
+(c) They absorb perspiration
+(d) They are soothing to the eye
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Consider the following statements :
+Assertion (A) : Light coloured clothes are preferred in summer.
+Reason (R) : Light colours are poor absorbers of heat.
+Select correct answer from the code given below :
+(a) Both (A) and (R) are correct and (R) correctly explains (A).
+(b) Both (A) and (R) are correct, but (R) does not correctly explain (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+
+**White** surfaces reflect most radiation and **black** surfaces absorb (and emit) most. An umbrella that is **white on top** reflects sunlight, and **black underneath** absorbs heat rising from the ground instead of reflecting it onto the user. Light clothes suit summer; dark clothes suit winter.
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008
+The cloudy nights are warmer than clear nights because–
+(a) The clouds prevent radiation of heat from the ground and the air
+(b) Clouds absorb sunlight during the day and radiate the same in night
+(c) Clouds make the atmosphere damp and generate heat
+(d) The clouds obstruct the movement of air which creates heat
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2021
+Which one of the following reflects back more sunlight as compared to other three?
+(a) Sand Desert
+(b) Paddy crop land
+(c) Land covered with fresh snow
+(d) Prairie land
+@ans (c)
+@end
+
+
+Clouds act like a blanket: they absorb the heat the ground radiates at night and send part of it back, so **cloudy nights are warmer** and frost forms on clear, calm nights. **Albedo** (reflectivity) is highest for **fresh snow (80-90%)**, then desert sand (30-40%), and low for forests, crops and oceans.
+
+@pyq U.P. P.C.S. (Pre) 2021
+Fruits stored in a cold chamber exhibit longer storage life, because :
+(a) Exposure to sunlight is prevented
+(b) Concentration of CO2 in environment is increased
+(c) Rate of respiration is decreased
+(d) There is an increase in humidity
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2001
+Assertion (A) : Woollen clothes keeps us warm.
+Reason (R) : Woollen fibres are made from a special type of protein, which is a bad conductor of heat.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+
+Wool keeps us warm because its fibres trap **air**, a very poor conductor; the protein itself is not the reason, so (R) is false. A quilt warms for the same reason, and double-glazed windows and hollow bricks insulate with trapped air.
+
+@trap
+Steam burns are worse because of **latent heat (540 cal/g)**. **-40° is the same on C and F.** Ice **decreases** in volume on melting. Wet clothes dry fastest at **high temperature and low humidity**. Salt **raises** the boiling point and **lowers** the freezing point. Boiling point **falls** at altitude because **pressure falls**. Wool is warm because of **trapped air**, not protein. A cooler adds humidity; an AC removes it.
+@end
+
+@heatmap
+
+@pattern
+Heat questions are explanatory and heavily repeated (steam burns, pressure cooker, hill cooking, earthen pot, white clothes, thermos). **Assertion-Reason** is now the favourite format: the 2010, 2016, 2023, 2024 and 2025 papers each had one, often testing whether a true reason actually *explains* the assertion. Temperature conversion returned in 2015, 2016, 2019 and 2024.
+@end
+
+@next
+Likely next angles: **specific heat** of water (coastal climates, coolant use), **heat waves** and the **wet-bulb temperature** limit (35°C), **urban heat islands** and cool roofs, **heat pumps**, the **laws of thermodynamics** and engine efficiency, **conduction** in cooking vessels (copper bottom), and the **sea breeze / land breeze** as convection.
+@end

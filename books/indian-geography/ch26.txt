@@ -1,0 +1,252 @@
+@chapter 26 | Tourism and Miscellaneous
+
+@intro
+The last chapter collects two short source sections. **Tourism** questions are about hill stations and their states, city nicknames, temple hills and ghost towns. The **Miscellaneous** questions range from biogas to locusts, space centres and agricultural universities. They are few, but they are easy marks if the location tables are learnt. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 26.1 | Hill Stations and Tourist Centres
+
+@pyq U.P.P.C.S. (Mains) 2003; U.P.U.D.A./L.D.A. (Mains) 2015
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Resorts) | List- II (States)
+A. Chakrata | 1. Assam
+B. Haflong | 2. West Bengal
+C. Kalimpong | 3. Uttaranchal
+D. Kufri | 4. Himachal Pradesh
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 3 1 4 2
+(c) 3 1 2 4
+(d) 1 3 4 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List- I (State) | List- II (Tourist Centre)
+A. Jammu and Kashmir | 1. Udvada
+B. Himachal Pradesh | 2. Point Calimere
+C. Gujarat | 3. Gulmarg
+D. Tamil Nadu | 4. Kasauli
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 4 3 2 1
+(d) 3 2 4 1
+@ans (b)
+@end
+
+**Udvada** (Valsad, Gujarat) has the **Iranshah Atash Behram**, the holiest Parsi fire temple. **Point Calimere** (Kodiakkarai, Nagapattinam) is a Ramsar site and wildlife sanctuary on the Coromandel coast.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Match List-I with List-II and select the correct answer using the code given below the lists:
+@match
+List- I | List- II
+A. Himachal Pradesh | 1. Auli
+B. Uttarakhand | 2. Ooty
+C. Karnataka | 3. Keylong
+D. Tamil Nadu | 4. Chikmagalur
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 4 2
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List-I (Grassland/Hill Station) | List - II (Location/States)
+A. Banni Grassland | 1. Uttarakhand
+B. Bugyal Grassland | 2. Jammu & Kashmir
+C. Khajjiar | 3. Gujarat
+D. Pahalgam | 4. Himachal Pradesh
+@endmatch
+Codes : A B C D
+(a) 1 3 2 4
+(b) 3 1 4 2
+(c) 3 1 2 4
+(d) 4 2 1 3
+@ans (b)
+@end
+
+@table
+Hill station / centre | State | Remember by
+Chakrata, Auli, Mussoorie, Nainital, Ranikhet | Uttarakhand | Auli: skiing; bugyals are alpine meadows
+Kufri, Kasauli, Keylong, Khajjiar, Dalhousie | Himachal Pradesh | Khajjiar: "Mini Switzerland of India"
+Gulmarg, Pahalgam, Sonamarg | Jammu and Kashmir | Gulmarg: skiing, Gondola
+Haflong | Assam | Only hill station of Assam (Dima Hasao)
+Kalimpong, Darjeeling | West Bengal | Darjeeling: Himalayan Mountaineering Institute
+Chikmagalur, Kodagu (Coorg) | Karnataka | Coffee country
+Ooty, Kodaikanal, Yercaud | Tamil Nadu | Ooty: Nilgiris; Yercaud: Shevaroy hills
+Mount Abu | Rajasthan | Only hill station of Rajasthan
+Pachmarhi | Madhya Pradesh | Satpura's "Queen"
+Banni | Gujarat | Grassland of Kachchh
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not correctly matched?
+(a) Jaipur – Pink City
+(b) Ujjain – City of Mahakal
+(c) Kolkata – City of Joy
+(d) Jaisalmer – City of Lakes
+@ans (d)
+@end
+
+**Udaipur** is the "City of Lakes". **Jaisalmer** is the "**Golden City**", **Jodhpur** the "**Blue City**" (or Sun City) and **Jaipur** the "Pink City". UP nicknames that are asked: **Varanasi** "City of Temples/Light", **Kanpur** "Manchester of the North", **Firozabad** "Suhag Nagri/City of Bangles", **Moradabad** "Peetal Nagri", **Lucknow** "City of Nawabs".
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+To promote tourism in India the Ministry of Tourism has adopted to popularize India as
+(a) Land of God
+(b) Pearl of the East
+(c) Beautiful India
+(d) Incredible India
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re- Exam) 2015
+Which of the following is not a 'ghost-town'?
+(a) Kuldhara
+(b) Dhanushkodi
+(c) Lakhpat
+(d) Charkhari
+@ans (d)
+@end
+
+**Kuldhara** (Jaisalmer) was abandoned by the Paliwal Brahmins in the 19th century. **Dhanushkodi** (Rameswaram) was destroyed by the **1964 cyclone**. **Lakhpat** (Kutch) declined after the 1819 earthquake changed the course of the Indus. **Charkhari** (Mahoba, **UP**) is a living town known as the "Kashmir of Bundelkhand" for its lakes.
+
+@section 26.2 | Temple Hills
+
+@pyq U.P. P.C.S. (Pre) 2018
+In which of the following hills the world famous temple of Lord Venkateshwar (Tirupati) is located?
+(a) Shevaroy
+(b) Biligiriranga
+(c) Javadhee
+(d) Mallmalla
+@ans (*)
+@note The Tirumala **Venkateswara** temple stands on the **Seshachalam** hills (part of the Eastern Ghats) in Tirupati district, Andhra Pradesh. None of the options is correct, so the source marks the question (*). The **Shevaroy** and **Javadi** hills are in Tamil Nadu and the **Biligiriranga** hills in Karnataka.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+The south Indian temple of Lord Ranganatha (also known as Lord Venkatesha) is located on :
+(a) Biligiri Ranga Hills
+(b) Thirumala Hills
+(c) Nandi Hills
+(d) Chamundi Hills
+@ans (a)
+@end
+
+@trap
+Two temples, two hill ranges: **Tirupati (Venkateswara)** is on the **Seshachalam/Tirumala** hills in Andhra Pradesh. **Biligiri Rangaswamy (Ranganatha)** is on the **BR Hills** in Chamarajanagar, Karnataka, which is also a tiger reserve. **Chamundi Hills** is in Mysuru and **Nandi Hills** near Bengaluru.
+@end
+
+@section 26.3 | Miscellaneous
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following can provide both power and manure?
+(a) Nuclear plants
+(b) Thermal plants
+(c) Biogas plants
+(d) Hydroelectric plants
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+When was 'Speed Post Service' launched by the Indian Postal Department in competition to the 'Courier service'?
+(a) 1988
+(b) 1987
+(c) 1989
+(d) 1986
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Locusts enter India from –
+(a) Bangladesh
+(b) Nepal
+(c) Pakistan
+(d) Sri Lanka
+@ans (c)
+@end
+
+Desert locusts reach **Rajasthan and Gujarat** from Pakistan, breeding there in the summer monsoon. The **Locust Warning Organisation** is at **Jodhpur** (headquarters at Faridabad). The **2020** swarm reached as far as **UP** (Jhansi, Agra, Lalitpur).
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Which one is not correctly matched ?
+(a) Sriharikota – Andhra Pradesh
+(b) Thumba – Kerala
+(c) Bhabha Atomic Research Centre – Karnataka
+(d) Pokhran – Rajasthan
+@ans (c)
+@end
+
+**BARC** is at **Trombay, Mumbai** (Maharashtra). **Sriharikota** (Satish Dhawan Space Centre) is in Tirupati district, AP. **Thumba** (TERLS, 1963) is near Thiruvananthapuram. **Pokhran** (Jaisalmer) was the site of the 1974 and 1998 nuclear tests. India's second spaceport is coming up at **Kulasekarapattinam** (Thoothukudi, Tamil Nadu).
+
+@pyq U.P.P.C.S. (Pre) 2008
+"The Himalayan Mountaineering Institute" is located at–
+(a) Uttarkashi
+(b) Dehradun
+(c) Darjeeling
+(d) Shillong
+@ans (c)
+@end
+
+**HMI Darjeeling** was founded in **1954** after the first Everest ascent, with **Tenzing Norgay** as its first field director. **Uttarkashi** has the **Nehru Institute of Mountaineering**.
+
+@pyq U.P.P.C.S. (Pre) 1997
+Diamond Harbour and Salt Lake city are situated in :
+(a) California
+(b) Florida
+(c) Hong kong
+(d) Kolkata
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Where is the area known as 'Jangal Mahal' situated?
+(a) West Bengal
+(b) Jharkhand
+(c) Assam
+(d) Bihar
+@ans (a)
+@end
+
+**Jangal Mahal** is the forested south-western belt of West Bengal (Jhargram, Paschim Medinipur, Bankura and Purulia), on the edge of the Chhotanagpur plateau.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which of the following is not correctly matched?
+(a) Jawaharlal Nehru Krishi Vishwavidyalaya - Madhya Pradesh
+(b) Sardar Vallabhbhai Patel University of Agriculture and Technology - Uttar Pradesh
+(c) Indira Gandhi Krishi Vishwavidhyalaya - Rajasthan
+(d) Acharya N.G. Ranga Agriculture University - Telangana
+@ans (c) & (d)
+@end
+
+**IGKV** is at **Raipur** (Chhattisgarh) and **ANGRAU** at **Guntur** (Andhra Pradesh). Telangana's university is the Professor Jayashankar Telangana Agricultural University, Hyderabad. **JNKVV** is at **Jabalpur** and **SVPUAT** at **Meerut** (UP link). UP's other agricultural universities: **Pantnagar** (GBPUAT, India's first, 1960, now Uttarakhand), **CSAUAT Kanpur**, **ANDUAT Kumarganj (Ayodhya)** and **Banda University of Agriculture and Technology**.
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is not correctly matched?
+(a) Dr. Manmohan Singh – Economics
+(b) Dr. A.P.J. Abdul Kalam – Aeronautics
+(c) Dr. D.S. Kothari – Physics
+(d) Dr. M.S. Swaminathan – Geology
+@ans (d)
+@end
+
+**M.S. Swaminathan** (1925-2023), a geneticist and agricultural scientist, is the "Father of the Green Revolution in India". He was awarded the **Bharat Ratna** in 2024.
+
+@heatmap
+
+@pattern
+Tourism questions are **match-the-following** on hill stations and states, often four states from four corners of India, so one sure pair usually fixes the code. Miscellaneous questions repeat **location** facts (BARC Trombay, HMI Darjeeling, IGKV Raipur). The UP angle shows up through Charkhari (Mahoba), Meerut's agricultural university and the 2020 locust swarm.
+@end
+
+@next
+Likely next angles are UP tourism circuits (**Ramayana**, **Buddhist**: Sarnath, Kushinagar, Kapilvastu-Piprahwa, Shravasti, Sankisa, Kaushambi; **Krishna**: Mathura-Vrindavan), the **Kashi Vishwanath Corridor** and the **Ram Mandir** at Ayodhya, and **Swadesh Darshan 2.0** sites. Another angle is India's new **UNESCO** sites (e.g. the **Maratha Military Landscapes**, 2025, and **Moidams** of Assam, 2024).
+@end

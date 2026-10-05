@@ -1,0 +1,371 @@
+@chapter 2 | Measuring Instruments and Scales
+
+@intro
+This chapter is a catalogue of "-meters" and "-graphs": which instrument measures **wind speed, humidity, pressure, high temperature, solar radiation, light, smoke density, blood pressure, earthquakes and radioactivity**. The questions come as single "used for" items or as four-pair match grids, and the same dozen instruments return again and again. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 2.1 | Navigation and Detection
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016; U.P.P.C.S. (Pre) 2000
+Which one of the following instruments is used for locating submerged objects in an ocean ?
+(a) Audiometer
+(b) Galvanometer
+(c) Sextant
+(d) SONAR
+@ans (d)
+@end
+
+@one
+In SONAR, we use
+@ans ultrasonic waves
+@end
+
+**SONAR** (Sound Navigation And Ranging) sends **ultrasonic** pulses through water and times the echo; it finds submarines, shoals of fish and the sea-floor depth. **RADAR** (Radio Detection And Ranging) does the same in air with **radio waves** (microwaves). An **audiometer** tests hearing, a **galvanometer** detects small currents, and a **sextant** measures the angle of the Sun or a star above the horizon for navigation.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Pre) 1996, 2008; U.P. Lower Sub. (Pre) 2004
+Radar is used for :
+(a) Detecting objects by using light waves
+(b) Reflecting sound waves to detect objects
+(c) Determining the presence and location of objects with radio waves
+(d) Tracking rain-bearing clouds
+@ans (c)
+@end
+
+
+@section 2.2 | Weather Instruments
+
+@pyq U.P.P.C.S. (Pre) 2016
+The velocity of wind is measured by :
+(a) Barometer
+(b) Anemometer
+(c) Hydrometer
+(d) Wind vane
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Which one of the following is not correctly matched –
+(a) Anemometer – Wind speed
+(b) Ammeter – Electric current
+(c) Tacheometer – Pressure difference
+(d) Pyrometer – High temperature
+@ans (c)
+@end
+
+
+@table
+Instrument | Measures
+**Anemometer** | Wind speed
+Wind vane | Wind direction
+**Barometer** | Atmospheric pressure (sudden fall = storm)
+Barograph | Continuous record of air pressure
+**Hygrometer** | Relative humidity
+Hydrometer | Density / specific gravity of liquids
+**Lactometer** | Purity (density) of milk
+Rain gauge (udometer) | Rainfall
+**Pyrheliometer** | Direct solar radiation
+Pyranometer | Total (global) solar radiation
+**Altimeter** | Height above sea level (aircraft)
+**Tacheometer** | Quick surveying of distance and elevation
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998; U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Spl.) (Mains) 2004
+Pyrometer is used to measure –
+(a) Air pressure
+(b) Humidity
+(c) High temperature
+(d) Density
+@ans (c)
+@end
+
+
+@one
+Which instrument is used to measure very high temperature?
+@ans Pyrometer
+@end
+
+@one
+Which of the following thermometers is called a pyrometer?
+@ans Radiation thermometer
+@end
+
+@one
+The thermometer suitable for measuring 2000°C is:
+@ans Total radiation pyrometer
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+'Pyrheliometer' is used for measuring :
+(a) Sun spots
+(b) Solar radiation
+(c) Air temperature
+(d) Temperature of plants
+@ans (b)
+@end
+
+A **pyrometer** reads the heat radiation an object gives off, so it can measure furnaces and even the Sun's surface from a distance; below about 800°C bodies do not radiate enough for it. A **pyrheliometer** points straight at the Sun and measures *direct* solar radiation.
+
+@pyq U.P.P.C.S. (Pre) 1990
+What is measured by manometer?
+(a) Air pressure
+(b) Pressure of gas
+(c) Density of liquids
+(d) Pressure of oil on the surface
+@ans (b)
+@end
+
+
+@pyq U.P.U.D.A./L.D.A (Pre) 2001
+Match List-I with List-II and select the correct answer using the codes given below:
+@match
+List - I (Instrument) | List - II (Measuring quantity)
+A. Ammeter | 1. Pressure
+B. Hygrometer | 2. Weight
+C. Spring balance | 3. Electric current
+D. Barometer | 4. Relative humidity
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 3 4 2 1
+(c) 4 1 2 3
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following pair is not correctly matched?
+(a) Odometer : Measuring instrument for distance covered by motor wheels
+(b) Ondometer : Measuring instrument for frequency of electromagnetic waves
+(c) Audiometer : Device for measuring sound intensity
+(d) Ammeter : Measuring instrument for electric power
+@ans (d)
+@end
+
+An **ammeter** measures **current** (connected in series); a **voltmeter** measures potential difference (in parallel); a **wattmeter** measures power.
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which instrument is used to measure atmospheric pressure?
+(a) Hydrometer
+(b) Barometer
+(c) Manometer
+(d) Hygrometer
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995, 1996; U.P.P.S.C. (R.I.) 2014
+Relative humidity is measured by :
+(a) Hygrometer
+(b) Hydrometer
+(c) Manometer
+(d) odometer
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+'Ringelmann Scale' is used to measure the density of the following :
+(a) fog
+(b) noise
+(c) polluted water
+(d) smoke
+@ans (d)
+@end
+
+
+The **Ringelmann scale** compares chimney smoke with a chart of grey shades (0 = clear, 5 = black) and is used by pollution boards to judge smoke density.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I | List-II
+A. Stethoscope | 1. To measure intensity of light
+B. Sphygmomanometer | 2. To check purity of gold
+C. Caratometer | 3. To hear heart sound
+D. Luxmeter | 4. To measure blood pressure
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 2 1
+(d) 2 1 4 3
+@ans (c)
+@end
+
+@one
+The instrument used to measure blood pressure is
+@ans Sphygmomanometer
+@end
+
+@section 2.3 | Temperature and Light
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following scales of temperature does not have a negative value?
+(a) Celsius
+(b) Fahrenheit
+(c) Kelvin
+(d) Reaumur
+@ans (c)
+@end
+
+
+The **Kelvin** scale starts at **absolute zero** (0 K = -273.15°C), the lowest possible temperature, so it has no negative values. **-40° is the same on the Celsius and Fahrenheit scales.** Conversion: C/5 = (F - 32)/9 = (K - 273)/5.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which of the following is correctly matched?
+(a) Thermoresistor - Electronic Thermometer
+(b) Capacitor - Thermometer
+(c) Bipolar Junction Transistor - Rectifier
+(d) Junction Diode - Amplifier
+@ans (a)
+@end
+
+A **thermistor** (thermal resistor) changes resistance sharply with temperature, which makes it the sensor in digital thermometers. A **junction diode** is a **rectifier** (AC to DC), and a **transistor** is an **amplifier** or switch, so (c) and (d) are swapped.
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+The apparatus used to measure the intensity of light is known as –
+(a) Anemometer
+(b) Colorimeter
+(c) Luxmeter
+(d) Altimeter
+@ans (c)
+@end
+
+
+@section 2.4 | Earthquakes, Radiation and Others
+
+@pyq U.P. Lower Sub. (Pre) 2004, 2015
+The intensity of earthquakes is measured :
+(a) On the Richter scale
+(b) On the Kelvin scale
+(c) In decibel
+(d) In Pascal
+@ans (a)
+@end
+
+@one
+The Richter scale is used to measure:
+@ans The amplitude of seismic waves / the magnitude of an earthquake
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990; U.P.P.C.S. (Mains) 2014
+Which of the following is a seismometer device?
+(a) Crescograph
+(b) Seismograph
+(c) Geiger Counter
+(d) Raingauge
+@ans (b)
+@end
+
+@one
+Which of the following instruments is used to measure earthquake intensity?
+@ans By seismograph
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1992
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I | List-II
+A. Earthquake | 1. Ammeter
+B. Height | 2. Seismograph
+C. Electric current | 3. Altimeter
+D. Resistance | 4. Ohm
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 2 3 4 1
+(c) 1 3 4 2
+(d) 3 2 4 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List - I | List - II
+A. Anemometer | 1. Earthquakes
+B. Seismograph | 2. Atmospheric Pressure
+C. Barograph | 3. Wind velocity
+D. Hygrometer | 4. Humidity
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 1 2 3
+(c) 4 1 3 2
+(d) 3 1 2 4
+@ans (d)
+@end
+
+The **Richter scale** (1935) is logarithmic: each whole number is about **10 times** the ground amplitude and about **32 times** the energy. Seismologists now prefer the **moment magnitude** scale. *Intensity*, the damage felt at a place, is measured on the **Modified Mercalli** scale (I-XII).
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Pre) 1999
+Which one of the following is not correctly matched :
+(a) Manometer - Pressure
+(b) Carburetor - Internal combustion engine
+(c) Cardiograph - Heart movement
+(d) Seismometer - Curvature of surface
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Radioactivity is measured by –
+(a) Hydrometer
+(b) Geiger Counter
+(c) Seismometer
+(d) Ammeter
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2014
+Phonometer is used to measure which one of the following?
+(a) The power of brightness of light
+(b) Extremely high temperature
+(c) Frequency of electromagnetic wave
+(d) Atmospheric humidity
+@ans (*)
+@note A **phonometer** measures the **intensity (and frequency) of sound**, which is not among the options, so the source marks the question (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+The apparatus used for detecting lie is known as –
+(a) Polygraph
+(b) Pyrometer
+(c) Gyroscope
+(d) Kymograph
+@ans (a)
+@end
+
+
+@table
+Instrument | Use
+**Geiger-Müller counter** | Radioactivity (ionising radiation)
+**Seismograph** | Records earthquake waves
+**Crescograph** | Plant growth (J.C. Bose)
+**Kymograph** | Records muscle movement, pulse, blood pressure (graph)
+**Polygraph** | Lie detector (pulse, BP, breathing, skin response)
+**Sphygmomanometer** | Blood pressure
+**Cardiograph / ECG** | Heart's electrical activity
+**Audiometer** | Hearing ability
+**Luxmeter** | Intensity of light (illuminance)
+**Colorimeter** | Colour / concentration of a solution
+**Caratometer** | Purity of gold
+**Odometer** | Distance covered by a vehicle
+**Speedometer** | Speed of a vehicle
+**Manometer** | Pressure of gases
+**Gyroscope** | Orientation and angular motion (navigation)
+**Carburettor** | Mixes air and fuel in petrol engines
+@end
+
+@trap
+**Hygrometer = humidity**, **hydrometer = liquid density**. **Pyrometer = high temperature**, **pyrheliometer = solar radiation**. **Barometer = atmospheric pressure**, **manometer = gas pressure**. An **ammeter measures current, not power**. The **Kelvin** scale has no negative values. A **diode rectifies**, a **transistor amplifies**. **Richter = magnitude**, **Mercalli = intensity**.
+@end
+
+@heatmap
+
+@pattern
+Instrument questions are **pure recall** and among the most repeated in the science section: the pyrometer, hygrometer, anemometer, barometer and seismograph each appear in several years. Match grids with four instruments are the commonest format, so learn the whole table rather than single pairs.
+@end
+
+@next
+Likely next angles: **LIDAR** (laser ranging, used by Chandrayaan and self-driving cars), **Doppler weather radar** (IMD network), **pulse oximeter**, **spectrometer**, the **Mercalli** scale, **dosimeter** for radiation workers, and **AQI monitors** (PM2.5 sensors).
+@end

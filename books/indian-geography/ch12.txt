@@ -1,0 +1,199 @@
+@chapter 12 | Natural Vegetation and Forests
+
+@intro
+India's natural vegetation follows rainfall and altitude. Wet regions carry **tropical evergreen** forest, the monsoon belt carries **deciduous** forest (the largest type, with teak and sal), dry regions carry **thorn scrub**, and the Himalaya goes from tropical to temperate, coniferous and **alpine** belts as height rises. The **India State of Forest Report 2023** puts forest cover at about **21.8%** and forest plus tree cover at about **25.2%** of the country, against the national goal of 33%. This chapter covers forest types and their trees, the Himalayan tree line, mangroves and social forestry. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 12.1 | Forest Types and their Trees
+
+@table
+Forest type (after Champion and Seth) | Rainfall | Areas | Typical trees
+Tropical evergreen | Over 200 cm | Western Ghats, north-east, Andaman and Nicobar | Rosewood, mahogany, ebony, cinchona
+Tropical moist deciduous | 100 to 200 cm | Tarai, north-east Peninsula, eastern slopes of the Western Ghats | Sal, teak, shisham, sandalwood
+Tropical dry deciduous | 70 to 100 cm | Middle Ganga plain, central Deccan | Teak, sal, peepal, neem
+Tropical thorn | Below 70 cm | Rajasthan, Gujarat, rain-shadow Deccan | Khejri, babool, kikar, cactus
+Montane (temperate and coniferous) | Varies with height | Himalaya above 1,500 m, Nilgiri sholas | Deodar, chir pine, oak, fir, spruce
+Alpine | Above about 3,600 m | Higher Himalaya | Juniper, birch, rhododendron; alpine meadows
+Littoral and swamp (mangrove) | Tidal | Deltas and coasts | Sundari, rhizophora, avicennia
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Teak and Sal are the products of –
+(a) Tropical Dry Deciduous Forests
+(b) Tropical Evergreen Forests
+(c) Tropical Thorn Forests
+(d) Alpine Forests
+@ans (a)
+@end
+
+**Deciduous (monsoon) forests** cover about two-thirds of India's forest area, the dry type being the most widespread. **Teak** and **sal** grow in both the moist and the dry deciduous types, so (a) is the only option that fits.
+
+@pyq U.P.P.C.S.(Pre) 2012
+Teak forest is found in which of the following states of India?
+(a) Madhya Pradesh
+(b) Uttar Pradesh
+(c) Jharkhand
+(d) Karnataka
+@ans (*)
+@note teak forests are found in **Madhya Pradesh** (largest), **Karnataka**, Maharashtra and parts of **Uttar Pradesh**, so more than one option is correct. **Jharkhand** is a **sal** state with little natural teak.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following pairs (Tree — Area) is not correctly matched ?
+(a) Sal — North-eastern parts of the Indian Peninsula
+(b) Teak — Western part of the Indian Peninsula
+(c) Deodar — Nilgiri Hills
+(d) Sundari — Sundarban Delta
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Match the following –
+@match
+Tree | Region
+(A) Teak | 1. Himalayan Tarai Region
+(B) Deodar | 2. Central India
+(C) Sundari | 3. Sunderban
+(D) Cinchona | 4. High Altitude regions of Himalaya
+@endmatch
+Code : A B C D
+(a) 2 4 3 1
+(b) 3 2 1 4
+(c) 4 1 3 2
+(d) 2 3 4 1
+@ans (a)
+@end
+
+**Deodar** (*Cedrus deodara*) grows in the **western Himalaya** between about 1,500 and 3,000 m; it is the state tree of Himachal Pradesh. The **Nilgiris** carry **shola** forests and grasslands, with planted eucalyptus and wattle. **Sal** (*Shorea robusta*) dominates the north-eastern Peninsula (Jharkhand, Odisha, Chhattisgarh) and the Tarai; **teak** the western and central Peninsula.
+
+UP link: UP's natural forests are **sal** forests of the Tarai (Dudhwa, Katarniaghat, Suhelwa, Pilibhit) and dry deciduous and thorn forests of **Bundelkhand** and the **Vindhyan** belt. UP's forest cover is only about 6% of its area, one of the lowest among large states.
+
+@pyq U.P.P.S.C. (GIC) 2010
+In which one of the following states Cinchona trees does not grow?
+(a) Assam
+(b) Kerala
+(c) Chhattisgarh
+(d) West Bengal
+@ans (c)
+@end
+
+**Cinchona**, the source of **quinine**, needs a warm, very wet climate and acidic soil. Government plantations were set up at **Mungpoo** (Darjeeling, West Bengal) and in the **Nilgiris**. Kerala and the north-east are also suitable. Dry Chhattisgarh is not.
+
+@pyq U.P.P.C.S. (Pre) 2001
+Match List-I with List-II and select the correct answer using the code given below:
+@match
+List I (Forest) | List II (Region)
+A. Tropical moist deciduous | 1. Arunachal Pradesh
+B. Tropical dry deciduous | 2. Sahyadris
+C. Alpine | 3. Middle Ganga Plain
+D. Tropical evergreen | 4. Tarai
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 4 2 1 3
+(c) 1 3 2 4
+(d) 3 1 4 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List-I with List-II and select the correct answer by using the codes given below:
+@match
+List-I | List-II
+A. Tropical forest | 1. Sundarbans
+B. Conifer forest | 2. Himachal Pradesh
+C. Mangroves vegetation | 3. Rajasthan
+D. Deciduous forest | 4. Silent Valley
+@endmatch
+Code : A B C D
+(a) 1 2 4 3
+(b) 2 1 4 3
+(c) 1 4 2 3
+(d) 4 2 1 3
+@ans (d)
+@end
+
+**Silent Valley** (Palakkad, Kerala) is one of the last undisturbed tropical evergreen forests of the Western Ghats. A hydroelectric dam planned there was dropped after a public campaign, and it became a National Park in **1984**.
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which of the following plants have no flowers?
+(a) Jackfruit
+(b) Fig
+(c) Orchid
+(d) Fern
+@ans (d)
+@end
+
+**Ferns** are seedless vascular plants that reproduce by **spores**. The **fig** does flower, but its tiny flowers are hidden inside the fruit-like **syconium**, which is why it is a favourite trap option.
+
+@section 12.2 | The Himalayan Tree Line
+
+@pyq U.P. P.C.S. (Mains) 2005
+Compared to the Eastern Himalayas, the height of the tree-line in the Western Himalayas is:
+(a) More
+(b) Less
+(c) Same
+(d) Unrelated variable
+@ans (b)
+@end
+
+The **tree line** is the height above which trees cannot grow. In the **eastern Himalaya** it lies at about 3,600 to 4,000 m because the region is closer to the Tropic, gets more rain and is warmer at each height. In the **western Himalaya**, further north and drier, it falls to about 3,000 to 3,300 m. The **snow line** shows the same east-high, west-low pattern.
+
+@section 12.3 | Social Forestry and Mangroves
+
+@pyq U.P.P.C.S. (Mains) 2002
+An example of a multipurpose tree used in social forestry is –
+(a) Sheesham
+(b) Dhak
+(c) Eucalyptus
+(d) Khejri
+@ans (d)
+@end
+
+**Khejri** (*Prosopis cineraria*), the "king of the desert" and state tree of Rajasthan, gives fodder, fuel, food (sangri pods) and shade, and fixes nitrogen. In **1730** the **Bishnoi** community of **Khejarli** (Jodhpur), led by **Amrita Devi**, gave their lives to save khejri trees. **Social forestry** (from the 1976 National Commission on Agriculture) means planting on community and waste land for local needs.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which of the following is not correctly matched?
+(a) Sundarbans - West Bengal
+(b) Bhitarkanika - Odisha
+(c) Pichavaram - Tamil Nadu
+(d) Vembanad - Karnataka
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following mangrove areas is situated in the delta regions of Godavari River?
+(a) Coondapoor
+(b) Honnavar
+(c) Malpe
+(d) Coringa
+@ans (d)
+@end
+
+@table
+Mangrove area | State | River or setting
+Sundarbans | West Bengal | Ganga-Brahmaputra delta; largest; Sundari tree; tigers
+Bhitarkanika | Odisha | Brahmani-Baitarani delta; saltwater crocodiles
+Coringa | Andhra Pradesh | Godavari delta near Kakinada
+Krishna mangroves | Andhra Pradesh | Krishna delta
+Pichavaram | Tamil Nadu | Between the Vellar and Coleroon (Kaveri) estuaries
+Gulf of Kutch | Gujarat | Second largest mangrove area in the country
+Vembanad-Kochi | Kerala | Backwater mangroves
+Andaman and Nicobar | UT | Fringing island mangroves
+@end
+
+India has about **4,992 sq km** of mangroves (ISFR 2023), about 0.15% of its area; **West Bengal** has the most, followed by **Gujarat** and the Andaman and Nicobar Islands. **Coondapoor (Kundapura), Honnavar** and **Malpe** are estuary towns on the Karnataka coast.
+
+@trap
+**Vembanad** is a Kerala lake with backwater mangroves; it is never in Karnataka. The Godavari delta mangrove is **Coringa**; the Kaveri delta mangrove is **Pichavaram**.
+@end
+
+@next
+The **MISHTI** scheme (2023) promotes mangrove planting on India's coasts, and the **Green India Mission** and ISFR figures are standard sources. Expect a question on the state with the highest forest cover by area (**Madhya Pradesh**) or by share (**Mizoram** among states, **Lakshadweep** among UTs).
+@end
+
+@heatmap
+
+@pattern
+This short chapter tests matching: tree to region (teak, sal, deodar, sundari, cinchona), forest type to region, and mangrove to state or delta. One item (teak, 2012) has several correct options and carries a (*). The tree-line question tests the east-west contrast across the Himalaya. Learn the forest-type table with one region and one tree each, and the mangrove table by delta.
+@end

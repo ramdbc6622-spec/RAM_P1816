@@ -1,0 +1,311 @@
+@chapter 16 | Major Tribes of the World
+@unit UNIT V · HUMAN AND ECONOMIC WORLD
+
+@intro
+Tribe questions are **tribe-to-habitat** matches, and the same dozen groups keep returning: **Eskimo/Inuit** (Arctic), **Lapps/Sami** (Scandinavia), **Kirghiz** (Central Asia), **Bedouin** (Arabia), **Bushmen/San** (Kalahari), **Pygmies** (Congo), **Maasai** (East Africa), **Semang** (Malaysia), **Ainu** (Japan), **Maori** (New Zealand) and **Veddas** (Sri Lanka). The classic trap is the **Maasai** placed in West Africa or Zambia. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 16.1 | Tribes and Their Homelands
+
+@table
+Tribe / people | Homeland | Way of life
+Eskimo / **Inuit** | Arctic: Alaska, northern **Canada**, **Greenland**, NE Siberia | Hunting seals and whales; igloo, kayak, umiak, dog sledge
+Lapps / **Sami** | **Scandinavia**: northern Norway, Sweden, Finland; Kola (Russia) | Reindeer herding
+Koryak, Chukchi, Yakut | Siberia, Kamchatka (Russia) | Reindeer herding, fishing
+**Kirghiz**, Kazakh | **Central Asia** steppes | Pastoral nomads (yurts)
+**Bedouin**, **Ruwala** | **Arabian** desert (Saudi Arabia, Jordan, Syria) | Camel-herding nomads
+Berber, Tuareg | Sahara, Maghreb (Morocco, Algeria, Mali, Niger) | Nomadic and settled
+Teda (Tubu) | Tibesti region (**Libya**, Chad) | Sahara herders
+Beja | Red Sea hills (Sudan, **Egypt**, Eritrea) | Herders
+Fulani | **West Africa** (Sahel) | Cattle nomads
+Nuba | **Sudan** (Kordofan) | Farmers
+**Maasai** | **East Africa**: **Kenya**, northern Tanzania | Cattle herders
+Bantu | Central, East and Southern Africa | Farmers (language family)
+**Pygmies** (Mbuti, Aka) | **Congo** basin rainforest | Hunter-gatherers
+**Bushmen / San** | **Kalahari**: Botswana, Namibia, South Africa | Hunter-gatherers
+Hottentot (Khoikhoi) | Namibia, South Africa | Herders
+**Semang** | **Malaysia** (Malay Peninsula) | Negrito hunter-gatherers
+Sakai (Senoi) | Malaysia | Forest farmers
+Punan | **Borneo** | Forest nomads
+**Ainu** | **Japan** (Hokkaido) | Indigenous people
+Papuans | **New Guinea** | Farmers, highland villagers
+**Maori** | **New Zealand** | Polynesian settlers
+Aborigines | Australia | Hunter-gatherers (oldest living cultures)
+Veddas | **Sri Lanka** | Forest hunter-gatherers
+Lur | **Iran** (Zagros) | Pastoral
+Maya | **Guatemala**, southern Mexico | Farmers; ancient civilisation
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which of the following is correctly matched ?
+(a) Eskimo Canada
+(b) Oraon Japan
+(c) Lapps India
+(d) Gonds Africa
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following is correctly matched ?
+(a) Eskimo - Amazon Basin
+(b) Pygmy - Irrawadi Basin
+(c) Bundu - Sahara
+(d) Bushman - Kalahari
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is / are NOT correctly matched?
+(Tribe) - (Habitat)
+1. Bushman – Kalahari Desert
+2. Eskimo – Northern Canada
+3. Pygmy – Congo Basin
+4. Masai – West Africa
+Select the correct answer from the code given below :
+Code :
+(a) Only 1, 2 and 3
+(b) Only 4
+(c) Only 3 and 4
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Match List-I with List-II and select the correct answer using the codes given below the lists –
+@match
+List-I (Tribe) | List-II (Country)
+(A) Eskimo | 1. Botswana
+(B) Maasai | 2. Saudi Arabia
+(C) Bedouins | 3. Canada
+(D) Bushman | 4. Kenya
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 2 1
+(d) 2 4 1 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List -I (Tribes) | List-II (Area)
+A. Khirghiz | 1. Japan
+B. Bushman | 2. Arab
+C. Ainu | 3. Central Asia
+D. Bedouin | 4. Kalahari
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 2 3 4 1
+(c) 3 4 1 2
+(d) 1 2 3 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I (Tribe) | List-II (Country)
+A. Bushman | 1. Congo
+B. Bedouins | 2. Namibia
+C. Pigmies | 3. Saudi Arabia
+D. Maasai | 4. Kenya
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 3 1 4
+(d) 4 3 1 2
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List-I (Ethnic Group) | List-II (Country)
+A. Jews | 1. Egypt
+B. Teda | 2. Iran
+C. Beja | 3. Libya
+D. Lur | 4. Israel
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 1 2 3
+(c) 4 1 3 2
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is Not correctly matched ?
+(a) Ainu Japan
+(b) Bushmen Union of South Africa
+(c) Maasai Kenya
+(d) Papuans New Guinea
+@ans (*)
+@note All four pairs are acceptable. The San (Bushmen) live mainly in Botswana and Namibia but also in **South Africa**. With no wrong pair, the source marks the question (*).
+@end
+
+@one U.P. Lower Sub. (Pre) 2008
+Which region of the World, would you associate with "Bushmen"?
+@ans Kalahari
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following is correctly matched?
+(a) Hemites Uganda
+(b) Semites Malaysia
+(c) Sakai Sudan
+(d) Bushmen Botswana
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Which of the following is not correctly matched ?
+(a) Kyrgyz Central Asia
+(b) Maasai Western Africa
+(c) Red Indians North America
+(d) Eskimos Greenland
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following pairs is not correctly matched ?
+(a) Maori - New Zealand
+(b) Maasai - Zambia
+(c) Mayas - Guatemala
+(d) Bushman - Kalahari
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+Which of the following pairs is not correctly matched?
+(a) Fulani-West Africa
+(b) Bantu-Sahara
+(c) Masai-East Africa
+(d) Nuba- Sudan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is not correctly matched ?
+(Tribe) - (Place)
+(a) Pygmy Congo basin
+(b) Angami Nagaland
+(c) Ainu Japan
+(d) Khirghiz Sudan
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following is not correctly matched ?
+(a) Central Asia - Alpine
+(b) Congo basin - Negrito
+(c) Kalahari - Bushmen
+(d) Scandinavia - Nordic
+@ans (b)
+@end
+
+@section 16.2 | Asia and the Arctic
+
+@pyq U.P. Lower Sub. (Pre) 2002
+In which dense tropical forest do the Semang tribe live ?
+(a) Amazonia
+(b) Indonesia
+(c) Malaysia
+(d) Congo
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following pairs is not correctly matched?
+(a) Berber Morocco
+(b) Inuits Canada
+(c) Semangs Indonesia
+(d) Veddas Sri Lanka
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following pairs is NOT correctly matched?
+(Place) - (Tribe)
+(a) Alaska Koryak
+(b) Borneo Punan
+(c) Arab Desert Ruwala
+(d) Sweden and Finland Lapps
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The Inuit people are not found in –
+(a) Alaska
+(b) Greenland
+(c) Canada
+(d) Sweden
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Which of the following region is famous for 'Lapps' tribe?
+(a) Alaska
+(b) Scandinavia
+(c) Greenland
+(d) Iceland
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List -I with List-II and select the correct answer from the code given below:
+@match
+List - I (Means in polar areas) | List – II (Function)
+A. Kayak | 1. Boat for transport
+B. Inuit | 2. Dog pulled vehicle
+C. Umiak | 3. Narrow hunting Boat
+D. Sledge | 4. Snow house
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 2 1 4 3
+(c) 1 2 3 4
+(d) 4 3 2 1
+@ans (a)
+@note The key pairs "Inuit" with "snow house". Strictly, **Inuit** is the name of the people, and their snow house is the **igloo**. The source treats "Inuit" as the local name for the dwelling.
+@end
+
+@section 16.3 | Ways of Life
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not pastoral nomads?
+(a) Pygmies
+(b) Kazaks
+(c) Masai
+(d) Lapps
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+To which of the following racial groups the natives of North America belong ?
+(a) Austric
+(b) Caucasoid
+(c) Mongoloid
+(d) Negroid
+@ans (c)
+@end
+
+The native peoples of the Americas are descended from Asian groups who crossed **Beringia**, the land bridge where the Bering Strait is now, during the last Ice Age (about 15,000-20,000 years ago). That is why older textbooks group them as "Mongoloid".
+
+@trap
+**Maasai = Kenya and Tanzania (East Africa)**. They are never in West Africa, Zambia or Sudan. **Semang = Malaysia**, not Indonesia. **Koryak = Kamchatka (Russia)**, not Alaska. **Kirghiz = Central Asia**, not Sudan. **Inuit live in Alaska, Canada and Greenland**; the people of Sweden and Finland are the **Sami (Lapps)**. **Pygmies are hunter-gatherers**, not pastoral nomads.
+@end
+
+@heatmap
+
+@pattern
+Each tribe question is an **odd-one-out** or **match** on habitat, and UPPSC keeps returning to the same twelve groups. The newer papers (2019-2025) add less-known names (Teda, Beja, Lur, Koryak, Punan, Ruwala). Learn the master table by continent, and remember the Maasai trap: it appeared four times.
+@end
+
+@next
+Likely next angles: the **Sami** parliament and Arctic rights, the **Ainu** recognition law (2019), **Maori** and the Treaty of Waitangi debates, **uncontacted tribes** of the Amazon and North Sentinel, the **San** genetic studies, and **UN Declaration on the Rights of Indigenous Peoples** anniversaries.
+@end

@@ -1,0 +1,798 @@
+@chapter 15 | Welfare Schemes II: Rural Development, Employment and Basic Services
+
+@intro
+The second schemes chapter covers **rural development** from the Etawah pilot and **Community Development Programme** to the **IRDP-TRYSEM-SGSY-NRLM** line, **wage employment** (NREP, JRY, SGRY, **MGNREGA**), **financial inclusion and clean energy** (Jan Dhan, PAHAL, Ujjwala, Saubhagya), **water and sanitation** (Jal Jeevan Mission, Swachh Bharat, Nirmal Bharat), **housing** (PMAY, Rajiv Awas) and **urban missions** (AMRUT, HRIDAY). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 15.1 | Early Rural Development
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016; 2023
+Which one of the following is correctly matched?
+(a) Cooperative Movement – M.K. Gandhi
+(b) Etawah Pilot Project – Albert Mayer
+(c) Grow more Food Campaign – J.L. Nehru
+(d) Sewagram Project – Vinoba Bhave
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2013
+The pilot project for rural development was started in the year
+@ans 1948
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Consider the following events and arrange these in chronological order : I. L a u n c h i n g o f C o m m u n i t y D e v e l o p m e n t Programme (CDP) II. Recommendation of Democratic Decentralization III. Initiation of Key Village Scheme (KVS) IV. Setting up of District Rural Development Agency (DRDA) at district level.
+Select correct answer from the code given below :
+Code :
+(a) I, II, III, IV
+(b) II, I, III, IV
+(c) III, I, II, IV
+(d) IV, III, II, I
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+When was the Community Development Program started in India?
+@ans 2nd October, 1952 A.D.
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Who among the following was the architect of community development in India ?
+(a) S.K. Dey
+(b) J.L. Nehru
+(c) B.R. Mehta
+(d) Jay Prakash Narayan
+@ans (a)
+@end
+
+
+@table
+Programme | Year | Detail
+**Etawah Pilot Project** | **1948** | **Albert Mayer** (US planner), in **Etawah, UP**
+**Grow More Food** | 1943 / 1947 | Food output drive
+**Community Development Programme** | **2 October 1952** | **S.K. Dey** its architect; block as the unit
+**Balwant Rai Mehta** committee | **1957** | **Democratic decentralisation** (Panchayati Raj)
+**Key Village Scheme** | **1950** | Cattle improvement
+**DRDA** (District Rural Development Agency) | 1980 (restructured **1999**) | Ran IRDP and other schemes at district level
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Consider the following and arrange them in correct chronological order.
+1. Food for work programme
+2. Community Development Programme
+3. Training for Rural Youth for Self Employment (TRYSEM)
+4. Drought Prone Area Programme
+Select the correct answer from the code given below :
+Code :
+(a) 4, 2, 3, 1
+(b) 2, 4, 1, 3
+(c) 2, 4, 3, 1
+(d) 4, 2, 1, 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+TRYSEM is a programme of :
+(a) Rural Development
+(b) Industrial Development
+(c) Urban Development
+(d) Defence Preparedness
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+Consider the following and arrange them in correct chronological order.
+1. Jawahar Rojgar Yojana
+2. Development of women and children in Rural Areas
+3. Integrated Rural Development Programme
+4. National Rural Employment Programme
+Select the correct answer from the code given below :
+Code :
+(a) 3, 4, 1, 2
+(b) 4, 3, 2, 1
+(c) 4, 3, 1, 2
+(d) 3, 4, 2, 1
+@ans (d)
+@end
+
+
+@table
+Programme | Year
+Drought Prone Area Programme | **1973**
+Food for Work | **1977**
+**TRYSEM** | **15 August 1979**
+**IRDP** | **1978-79** (all blocks 2 October 1980)
+**NREP** | **October 1980**
+DWCRA | **1982**
+RLEGP | 1983
+**Jawahar Rozgar Yojana** | **1 April 1989** (NREP + RLEGP)
+Employment Assurance Scheme | **2 October 1993**
+**SGSY** | **1 April 1999** (merged IRDP, **TRYSEM, DWCRA**, SITRA, GKY, MWS)
+**SGRY** | **2001** (JRY line + EAS)
+**NREGA** | **2 February 2006**
+**NRLM (Aajeevika)** | **June 2011** (SGSY restructured); now **DAY-NRLM**
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following pairs is not correctly matched ? Scheme Commencement
+(a) TRYSEM – August, 1979
+(b) NREP – October, 1980
+(c) JRY – April, 1995
+(d) SGSY – April, 1999
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2001, 2003
+Which one of the following programmes is not included in the Swarnajayanti Gram Swarozgar Yojana (SGSY)?
+(a) IRDP
+(b) TRYSEM
+(c) DWCRA
+(d) JRY
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2002; U.P.P.C.S. (Spl.) (Pre) 2004; U.P.P.C.S. (Mains) 2006; U.P. Lower Sub. (Pre) 2002
+Swarnajayanti Gram Swarozgar Yojana was started in the year
+@ans 1999
+@end
+
+
+@one
+Which one scheme has been restructured as National Rural Livelihood Mission, launched in June, 2011 by the Government of India?
+@ans Swarnajayanti Gram Swarozgar Yojana
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is not correctly matched?
+(a) Industrial Finance – SIDBI
+(b) Social Security Measures – Bharat Nirman
+(c) Rural Credit – NABARD
+(d) Rural Employment – SJSRY
+@ans (*)
+@note Two pairs are wrong: **Bharat Nirman** (2005) was **rural infrastructure**, not social security, and **SJSRY** (1997) gave **urban** employment, not rural. With two answers, the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity:
+1. Pradhan Mantri Gramodaya Yojana
+2. Rural Employment Generation Programme
+3. Prime Minister Rozgar Yojana
+4. Valmiki Ambedkar Awas Yojana
+Select the correct answer from the codes given below:
+(a) 2, 3, 4, 1
+(b) 4, 2, 1, 3
+(c) 1, 2, 3, 4
+(d) 3, 2, 1, 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Arrange the following schemes launched by the Government of India in chronological order and choose the correct answer from the codes given below:
+1. Integrated Rural Development Programme
+2. Swamjayanti Gram Swarozgar Yojana
+3. National Rural Employment Guarantee Act
+4. Pradhan Mantri Jan-Dhan Yojana
+Codes:
+(a) 1, 2, 3, 4
+(b) 3, 4, 1, 2
+(c) 2, 3, 4, 1
+(d) 4, 3, 1, 2
+@ans (a)
+@end
+
+
+
+@pyq U.P.P.C.S. (Mains) 2002
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I (Programmes) | List-II (Starting Year)
+A. Krishi Shramik Samajik Suraksha Yojana | 1. 2000
+B. Swarnajayanti Gram Swarozgar Yojana | 2. 1993
+C. Employment Assurance Scheme | 3. 1999
+D. Pradhan Mantri Gramodaya Yojana | 4. 2001
+@endmatch
+Codes : A B C D
+(a) 1 3 4 2
+(b) 3 2 1 4
+(c) 3 4 2 1
+(d) 4 3 2 1
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I (Programmes) | List-II (Year of Starting)
+A. Swarnajayanti Gram Swarozgar Yojana | 1. 1997
+B. Swarnajayanti Shahari Rozgar Yojana | 2. 1989
+C. Jawahar Rozgar Yojana | 3. 1999
+D. National Rural Health Mission | 4. 2005
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 3 1 2 4
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I (Yojana / Programme) | List-II (Launching Year)
+A. National Rural Health Mission | 1. 1995
+B. National Social Assistance Programme | 2. 2005
+C. Swarnajayanti Gram Swarojgar Yojana | 3. 2001
+D. Sampoorna Grameen Rojgar Yojana | 4. 1999
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 1 2 3 4
+(c) 4 2 1 3
+(d) 2 4 1 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is not correctly matched?
+(a) Janshree Bima Yojna – 2000
+(b) National Rural Health Mission – 2005
+(c) MGNREGA – 2003
+(d) Aam Aadmi Bima Yojana – 2007
+@ans (c)
+@note The **NREG Act** was passed in **2005** and the scheme began on **2 February 2006** at Anantapur (Andhra Pradesh); it was renamed **MGNREGA** on 2 October 2009. Janshree Bima Yojana began on 10 August 2000.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following programmes is not employment related?
+(a) MGNREGA
+(b) NRLM
+(c) RMSA
+(d) STEP
+@ans (c)
+@end
+
+
+**Pradhan Mantri Gramodaya Yojana** (2000) funded basic rural services (primary health, education, housing, water, nutrition, roads); the **Rural Employment Generation Programme** (1995) and **PM Rozgar Yojana** (**1993**) were KVIC and self-employment schemes; **Valmiki Ambedkar Awas Yojana** (2001) gave urban slum housing.
+
+@section 15.2 | MGNREGA
+
+@pyq U.P.P.C.S. (Pre) 2008
+National Rural Employment Guarantee Scheme (NREGS) was launched initially in 200 districts. In the Budget for 2007-08, it was proposed to extend it to :
+(a) 280 districts
+(b) 300 districts
+(c) 310 districts
+(d) 330 districts
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+National Rural Employment Guarantee Scheme was launched initially in
+@ans 200 Districts
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+The National Rural Employment Guarantee Scheme was launched throughout the country from
+@ans 01-04-2008
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005; U.P.P.C.S. ( Spl.) (Mains) 2008
+Under the National Rural Employment Guarantee Scheme, number of days for which employment guarantee during one year has been given is :
+(a) 90 days
+(b) 100 days
+(c) 120 days
+(d) 180 days
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+In recently announced Central Budget 2020-21, in which among the following budget allocation has been decreased in comparison to Budget 2019-20?
+(a) MGNREGA
+(b) Ayushman
+(c) Mid-day Meal Scheme
+(d) National Ganga Cleaning Scheme
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+With reference to the scheme wise allocation in the 2023-24 Union Budget, which of the following statement/s is/are correct?
+1. Compared to the previous year, highest percentage of decline has been recorded in the allocation for MGNREGA.
+2. Compared to the previous year, highest percentage of growth has been recorded in the allocation for Jal Jeevan Mission.
+Select the correct answer using the code given below :
+Code :
+(a) Both 1 and 2
+(b) Only 1
+(c) Only 2
+(d) Neither 1 nor 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+National Rural Employment Guarantee Act (NREGA) does not :
+(a) Promote inclusive growth
+(b) Guarantee 100 days employment in a year to every adult member of a rural household
+(c) Enhances livelihood security to rural households
+(d) Guarantee wage employment
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Consider the following statements about positive results of MGNREGA :
+1. Substantial increase in purchasing power of rural poor
+2. Reduction in bargaining power of labourer
+3. Reduction in migration to cities
+Choose the correct answer by using the codes given below:
+(a) Only 1 and 3 are correct
+(b) Only 1 and 2 are correct
+(c) Only 2 and 3 are correct
+(d) 1, 2 and 3 are correct
+@ans (a)
+@end
+
+
+
+@table
+MGNREGA fact | Detail
+Act / start | Passed **2005**; began **2 February 2006** in **200 districts**; **330** in 2007-08; **whole country from 1 April 2008**
+Guarantee | **100 days** of wage work a year to **every rural household** (not to every adult member) whose adults volunteer for unskilled work
+Extra days | 150 days in drought areas and for forest-rights holders
+Outcomes | Higher **purchasing power**, less **distress migration**, **more** bargaining power for labour
+Budget | About **Rs. 86,000 crore** a year (2024-25, 2025-26)
+**Replaced** | By the **VB-G RAM G Act** (Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin)), **December 2025**: guarantee raised to **125 days**
+@end
+
+The Budget **2020-21** cut **Ayushman Bharat (PM-JAY)** compared with 2019-20; the others rose or stayed level. In Budget **2023-24** MGNREGA was cut by about a third, but the biggest percentage cut and the biggest rise were in other schemes, so both statements are wrong.
+
+@section 15.3 | Inclusion, Energy and Targeted Schemes
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+The Aspirational Districts Programme (ADP) of NITI Aayog was launched in :
+(a) January 2016
+(b) January 2017
+(c) January 2018
+(d) None of the above
+@ans (c)
+@end
+
+
+The **Aspirational Districts Programme** (January **2018**) works on **112** backward districts through Convergence, Collaboration and Competition; the **Aspirational Blocks Programme** (2023) covers 500 blocks.
+
+@pyq U.P.P.C.S. (Mains) 2017
+Saubhagya Yojana is concerned with :
+(a) Financial assistance for marriage of girls
+(b) Scholarship for girl’s education
+(c) Provision of free electricity to BPL families
+(d) Provision of financial assistance to a new born baby girl
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Pradhan Mantri Jan-Dhan Yojana was launched in India on :
+(a) 26th January, 2015
+(b) 28th August, 2014
+(c) 5th September, 2014
+(d) 8th December, 2014
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2017
+Arrange the following schemes launched by Government of India in chronological order and choose the correct answer from the codes given below :
+I. Sukanya Samriddhi Yojana
+II. Atal Pension Yojana
+III. Make in India
+IV. Pradhan Mantri Jan-Dhan Yojana
+Codes :
+(a) IV, III, II and I
+(b) I, II, III and IV
+(c) III, II, I and IV
+(d) IV, I, II and III
+@ans (*)
+@note The order is **Jan Dhan (28 August 2014) → Make in India (25 September 2014) → Sukanya Samriddhi (22 January 2015) → Atal Pension (9 May 2015)**, that is IV, III, I, II, which is not among the codes; the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Consider the following schemes and arrange these in chronological order of their launching :
+1. Pradhan Mantri Jan-Dhan Yojana
+2. Digital Gender Atlas for Advancing Girls Education in India
+3. Pradhan Mantri Suraksha Bima Yojana
+4. Mudra Bank Yojana
+Select correct answer from the codes given below :
+(a) 1, 2, 4 and 3
+(b) 3, 2, 1 and 4
+(c) 2, 1, 3 and 4
+(d) 3, 1, 2, and 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following Direct Benefit Scheme (DBS) has been recognized by the ‘Guinness Book of World Records’ as the world’s largest Direct Benefit Scheme?
+(a) MGNREGA
+(b) PAHAL
+(c) NSAP
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Pradhan Mantri Ujjwala Yojana was launched on May 1, 2016. In which district of Uttar Pradesh it was launched by the Prime Minister?
+(a) Varanasi
+(b) Lucknow
+(c) Ballia
+(d) Ghaziabad
+@ans (c)
+@end
+
+
+@table
+Scheme | Launch | Purpose
+**PM Jan Dhan Yojana** | **28 August 2014** | Bank account for every household
+**PAHAL** (DBTL) | 2013 / **2015** | LPG subsidy into bank accounts; **Guinness record** as the world's largest cash transfer
+**PM Ujjwala Yojana** | **1 May 2016**, **Ballia (UP)** | Free LPG connections to poor women; over **10 crore** connections
+**Saubhagya** (PM Sahaj Bijli Har Ghar) | **September 2017** | **Free electricity connections** to poor households
+**Deen Dayal Upadhyaya Gram Jyoti Yojana** | **25 July 2015**, Patna | **Rural electrification** (feeder separation)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Deen Dayal Gram Jyoti Yojna inaugurated for :
+(a) Rural education
+(b) Rural sanitation
+(c) Rural health
+(d) Rural empowerment
+@ans (*)
+@note DDUGJY is a **rural electricity** scheme; better power helps education, health, sanitation and empowerment alike, so the source accepts no single option and marks it (*).
+@end
+
+
+
+@pyq U.P. P.C.S. (Pre) 2014
+The Rural Infrastructure Development Fund (RIDF) has been created under ;
+(a) Reserve Bank of India
+(b) NABARD
+(c) Ministry of Agriculture
+(d) Ministry of Rural Development
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which one among the following is not a programme under RIDF ?
+(a) Rural Water Supply
+(b) Rural Roads
+(c) Rural Electrification
+(d) Rural Industries
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following organizations administers finances of Rural Infrastructure Development Fund ?
+(a) RBI
+(b) NABARD
+(c) Ministry of Finance
+(d) Ministry of Rural Development
+@ans (b)
+@end
+
+
+The **Rural Infrastructure Development Fund** (**1995-96**) sits with **NABARD**, which lends to states for **rural roads, irrigation, water supply, electrification** and similar projects, not for rural industries.
+
+@section 15.4 | Water, Sanitation and Cleanliness
+
+@pyq U.P.P.C.S. (Pre) 2015
+National Rural Drinking Water Programme is one of the components of :
+(a) Social Protection Programme
+(b) Bharat Nirman
+(c) Swarnajayanti Gram Swarojgar Yojna
+(d) Poverty Alleviation Programmes
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Jal Jeevan Mission Scheme was declared in the Union Budget of which Financial Year?
+(a) 2022-23
+(b) 2019-20
+(c) 2021-22
+(d) 2020-21
+@ans (b)
+@end
+
+
+**Bharat Nirman** (2005) had six parts: irrigation, **rural drinking water**, roads, housing, electrification and telephony. The **Jal Jeevan Mission** (15 August **2019**, Budget **2019-20**) aims at a **tap connection for every rural household** (Har Ghar Jal); about **80%** of rural homes had tap water by 2025, and the mission was extended to **2028**.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Yojana Name) | List-II (Date of launch)
+A. Pradhan Mantri Awas Yojana – Gramin | 1. May, 2016
+B. Jal Jeevan Mission | 2. October, 2014
+C. Swachh Bharat Mission – Gramin | 3. August, 2019
+D. Pradhan Mantri Ujjwala Yojana | 4. November, 2016
+@endmatch
+Codes: A B C D
+(a) 2 3 1 4
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 3 4 1 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Arrange the following schemes launched by the Government of India in chronological order and choose the correct answer from the codes given below:
+1. Swachh Bharat Mission
+2. Pradhan Mantri Kaushal Vikas Yojana
+3. Pradhan Mantri Garib Kalyan Yojana
+4. Pradhan Mantri Mahila Shakti Kendra Scheme
+Codes:
+(a) 2, 1, 4, 3
+(b) 4, 2, 1, 3
+(c) 1, 2, 3, 4
+(d) 3, 1, 2, 4
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following is not correctly matched?
+Scheme – Aim
+(a) UDAY – Improving finances of power distribution companies
+(b) HRIDAY – Preserving and revitalizing heritage cities
+(c) AMRUT – Improving basic urban infrastructure in cities
+(d) Swachh Bharat Mission – Safe drinking water
+@ans (d)
+@note **Swachh Bharat Mission** (2 October 2014) is about **sanitation** (ending open defecation, solid waste), not drinking water. **UDAY** (2015) restructured DISCOM debt; **HRIDAY** (2015) developed **12 heritage cities**, including Varanasi and Mathura.
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+Swachh Bharat Abhiyan aims to achieve the target of 'Clean India' by the year :
+(a) 2024
+(b) 2020
+(c) 2019
+(d) 2017
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2015
+Swachh Bharat Mission (Grameen) has been launched in India in
+@ans October, 2014
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Rural Sanitation Strategy launched by Ministry of Jal Shakti in September, 2019 relates to which of the following periods?
+(a) 2019-2035
+(b) 2019-2029
+(c) 2019-2022
+(d) 2019-2024
+@ans (b)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+With reference to Swachh Bharat Mission, which of the following statement/ts is/are correct?
+1. Swachh Bharat Mission focuses on the collective behavioural change of the entire community.
+2. Open defecation for many is a part of regular early morning walk, checking the crops and socializing.
+Select the correct answer from the codes given below:
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of following city was not among the top three cleanest cities in more than one lakh population category in Swachh Survekshan 2021?
+(a) Indore
+(b) Surat
+(c) Tirupati
+(d) Vijayawada
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Uttar Pradesh has secured which place in Swachh Survekshan, 2021?
+(a) Fourth
+(b) Third
+(c) Sixth
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Following are two statements, one is labelled as
+Assertion (A) and other as Reason (R) :
+Assertion (A) : Rural population does not consider open defecation as a threat to their well being.
+Reason (R) : Socio-cultural norms about purity and pollution prevented people from having toilets at the home.
+Consider the above statements and select the correct answer from the codes given below :
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2012
+Nirmal Bharat Abhiyan Yojana is associated with :
+(a) Development of villages
+(b) Community toilets in slum areas
+(c) Construction of houses for low income groups
+(d) None of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+The objective of Nirmal Gram Puraskar Yojna is :
+(a) Defecation sanitation
+(b) Sanitation of ponds and other water bodies
+(c) Provision of clean drinking water
+(d) Environmental cleanliness
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Toilet revolution is :
+(a) Construction of free public latrines in Village Panchayats
+(b) Ending night soil collection by introducting flush toilets in China
+(c) A scheme of the Central Government to make flush toilets in each Nagar Nigam for the poorest of the poor
+(d) To provide subsidy and loans by Government to the persons constructing flush toilets in villages and cities
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Consider the following statements related to Integrated Low Cost Sanitation (ILCS) scheme : I. The system is funded on sharing basis. II. Central subsidy is 75 percent. III. State subsidy is 25 percent.
+Of these, the correct statements are :
+(a) I and II only
+(b) II and III only
+(c) I and III only
+(d) I, II and III
+@ans (a)
+@end
+
+
+@table
+Sanitation milestone | Year
+Central Rural Sanitation Programme | 1986
+**Integrated Low Cost Sanitation** | 1980-81; **75% central subsidy**, 25% loan or beneficiary share
+**Total Sanitation Campaign** | **1999**
+**Nirmal Gram Puraskar** | **2003**; prize for **open defecation-free** villages
+**Nirmal Bharat Abhiyan** | **2012** (TSC renamed); total rural sanitation
+**Swachh Bharat Mission** | **2 October 2014**; target ODF India by **2 October 2019**; SBM-Gramin Phase II (2020-25) for ODF Plus
+**Rural Sanitation Strategy** | **2019-2029**
+**Swachh Survekshan** | Since 2016; **Indore** has topped it seven times in a row; in 2021 the top three large cities were **Indore, Surat, Vijayawada**, and **UP was sixth** among large states
+@end
+
+Open defecation persisted because many people saw it as normal (walks, checking crops) and because **purity-pollution** ideas kept toilets out of homes; the Reason is true but does not explain why people do not see it as a threat.
+
+@section 15.5 | Housing and Urban Missions
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following (Scheme-Year) is not correctly matched?
+(a) Shyama Prasad Mukherji Rurban Mission – 2015
+(b) Rural Housing Interest Subsidy Scheme – 2017
+(c) Sansad Adarsh Gram Yojana – 2014
+(d) Deen Dayal Upadhyay Gramin Kaushalya Yojana – 2014
+@ans (a)
+@note The **Rurban Mission** began on **21 February 2016** at Dongargarh (Chhattisgarh), not 2015; it develops 300 clusters of villages with urban facilities.
+@end
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016
+Consider the following statements with reference to Atal Mission for Rejuvenation and Urban Transformation (AMRUT) Scheme :
+1. 400 cities have been covered under this mission.
+2. The AMRUT Scheme covers 60% of the country's urban population.
+Which of the above statement(s) is/are correct?
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Consider the following and arrange them in the correct chronological order.
+1. Atal Mission for Rejuvenation and Urban Transformation
+2. Jawaharlal Nehru National Urban Renewal Mission
+3. Jal Jeevan Mission
+4. National Urban Housing and Habitat Policy
+Select the correct answer from the code given below :
+Code :
+(a) 2, 4, 1, 3
+(b) 4, 2, 1, 3
+(c) 2, 4, 3, 1
+(d) 4, 2, 3, 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Sugamya Bharat Abhiyan is associated with :
+(a) Disable Persons
+(b) Child Health Care
+(c) Women Empowerment
+(d) Under Privileged People
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P.U.D.A./L.D.A. (Pre) 2006; U.P. Lower Sub. (Spl.) (Pre) 2008; U.P. R.O./A.R.O. (Pre) 2021
+The objective of ‘Sangam Yojana’ is :
+(a) To make Ganga water pollution free
+(b) To ensure welfare of handicapped
+(c) To unite various groups of Hindus
+(d) To make Sangam region of Allahabad more attractive for tourists
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Mains) 2012
+‘Sankalp’ project is associated with the eradication of:
+(a) Illiteracy
+(b) Polio
+(c) Unemployment
+(d) AIDS/HIV
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P.P.C.S. (Spl.) (Mains) 2004
+The Pradhan Mantri Gramodaya Yojana is related to—
+(a) rural infrastructure such as primary education, health services, roads, housing, safe drinking water, etc.
+(b) free ration distributed by fair price shops
+(c) employment generation in rural areas
+(d) improvement of the Panchayati Raj system in rural areas
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2016; U.P. Lower Sub. (Pre) 2015
+Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is associated with revamping of
+@ans urban infrastructure
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Time span of ‘Pradhan Mantri Awas Yojana’ is :
+(a) 2014 - 2021
+(b) 2014 - 2024
+(c) 2015 - 2022
+(d) 2015 - 2025
+@ans (*)
+@note PMAY began in **June 2015** with the goal "**Housing for All by 2022**", so (c) was correct when asked. Since then **PMAY-Gramin** has been extended to **March 2029** (2 crore more houses) and **PMAY-Urban 2.0** covers **2024-29**, so the source marks it (*).
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Rajiv Awas Yojana (RAY) targets to :
+(a) Housing for rural poor
+(b) Slum free India
+(c) Arrangement of hostel for poor students
+(d) Arrangement of night-shelter in villages
+@ans (b)
+@end
+
+
+
+@table
+Housing / urban scheme | Year | Detail
+**JNNURM** | **December 2005** | Urban renewal (63 cities)
+National Urban Housing and Habitat Policy | **2007** | -
+**Rajiv Awas Yojana** | **June 2011** | **Slum-free India**
+**PMAY (Urban)** | **25 June 2015** | Housing for All; PMAY-U 2.0 (2024-29)
+**PMAY (Gramin)** | **20 November 2016**, Agra | Rural houses (Indira Awaas Yojana restructured)
+**AMRUT** | **25 June 2015** | **500 cities**, about **60%** of the urban population; water, sewerage; AMRUT 2.0 (2021)
+Smart Cities Mission | 25 June 2015 | 100 cities
+**Sugamya Bharat Abhiyan** | **3 December 2015** | **Accessible India** for **persons with disabilities**
+**Sangam Yojana** | **15 August 1996** | **Welfare of the disabled**
+**Sankalp** | - | **HIV/AIDS** awareness
+@end
+
+@up UP link: The **Etawah Pilot Project** (1948) was in UP; **Ujjwala** was launched at **Ballia** (2016) and **PMAY-Gramin** at **Agra** (2016). UP has built one of the largest numbers of **PMAY-G houses** and has added the most **Jal Jeevan Mission** tap connections since 2019.
+
+@trap
+**Etawah 1948, Albert Mayer.** **CDP 2 October 1952, S.K. Dey.** **TRYSEM 1979, NREP 1980, JRY 1989, EAS 1993, SGSY 1999, SGRY 2001, NRLM 2011.** **SGSY did not include JRY.** **MGNREGA: 2 February 2006, 200 districts → country 1 April 2008; 100 days per household; replaced by VB-G RAM G (125 days, 2025).** **Jan Dhan 28 August 2014.** **Ujjwala 1 May 2016, Ballia.** **PAHAL = Guinness DBT.** **Saubhagya = electricity.** **RIDF = NABARD 1995-96.** **JJM 2019.** **Swachh Bharat ≠ drinking water.** **Rurban Mission 2016.** **AMRUT: 500 cities, 60% urban population.** **Sugamya Bharat & Sangam = disabled.**
+@end
+
+@heatmap
+
+@pattern
+Scheme chronology questions are now the norm: the **2024 and 2025** Prelims asked four "arrange in order" questions on rural programmes and missions. MGNREGA and Swachh Bharat facts recur every few years.
+@end
+
+@next
+Likely next angles: the **VB-G RAM G Act** (125 days) replacing MGNREGA, **Jal Jeevan Mission** extension to 2028, **PMAY-G** till 2029, **SBM-Gramin** ODF Plus, **Swachh Survekshan 2024-25** (Super Swachh League), **Lakhpati Didi**, and **UP's** ranks in these schemes.
+@end

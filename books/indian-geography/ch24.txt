@@ -1,0 +1,442 @@
+@chapter 24 | Research Centres and Institutes
+
+@intro
+UPPSC regularly asks where a national institute is located, especially the **ICAR** institutes. Uttar Pradesh hosts a large share of them: **Lucknow** (sugarcane, subtropical horticulture), **Kanpur** (pulses), **Varanasi** (vegetables), **Jhansi** (grassland and agroforestry), **Mathura** (goats), **Meerut** (farming systems), **Ghaziabad** (organic farming) and **Prayagraj** (eco-rehabilitation). Learn this chapter as location tables, with the UP institutes as a group of their own. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 24.1 | Polar Research Stations
+
+@pyq U.P.P.C.S. (Pre) 2011
+The Third Indian Research Centre had been founded in Antarctica by the name of :
+(a) Saraswati
+(b) Bharati
+(c) Anveshan
+(d) Yamnotri
+@ans (b)
+@end
+
+@table
+Station | Region | Year | Note
+Dakshin Gangotri | Antarctica | 1983-84 | First station; buried in ice, now a supply base
+Maitri | Antarctica (Schirmacher Oasis) | 1989 | Working; to be replaced by Maitri-II
+Bharati | Antarctica (Larsemann Hills) | 2012 | Working
+Himadri | Arctic (Ny-Alesund, Svalbard, Norway) | 2008 | India's first Arctic station
+Himansh | Himalaya (Spiti, HP) | 2016 | High-altitude glacier research station
+@end
+
+The **National Centre for Polar and Ocean Research** (NCPOR), Goa, runs India's polar programme.
+
+@section 24.2 | ICAR Institutes in Uttar Pradesh
+
+@pyq U.P. Lower Sub. (Pre) 2004; U.P.P.C.S. (Pre) 2015; U.P.U.D.A./L.D.A. (Mains) 2010
+The Indian Institute of Pulses Research is located at –
+(a) New Delhi
+(b) Varanasi
+(c) Kanpur
+(d) Lucknow
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P. R.O./A.R.O. (Mains) 2017
+Indian Institute of Vegetable Research is located at
+(a) Kanpur
+(b) New Delhi
+(c) Varanasi
+(d) Allahabad
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+Central Institute of Sub-tropical Horticulture is located at –
+(a) Bangalore
+(b) Chandigarh
+(c) Lucknow
+(d) Nagpur
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Indian Institute of Sugarcane Research is located at –
+(a) Lucknow
+(b) Coimbatore
+(c) Ludhiana
+(d) Pusa Samastipur
+@ans (a)
+@end
+
+**Coimbatore** has the **Sugarcane Breeding Institute** (1912), which bred the Co varieties. Lucknow's **IISR** (1952) focuses on sugarcane in the subtropical north. Do not confuse the two.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which of the following pairs is not correctly matched?
+(Institute) (Location)
+(a) Indian Vegetable Research Institute - Varanasi
+(b) Central Institute of Subtropical Horticulture - Srinagar
+(c) Indian Institute of Sugarcane Research - Lucknow
+(d) Indian Institute of Pulse Research - Kanpur
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+National Research Centre of Agro-Forestry is located at
+(a) Hyderabad
+(b) Jhansi
+(c) Nasik
+(d) Patna
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following is NOT correctly matched?
+Institute - Location
+(a) International Centre for Research on Agroforestry - Nairobi
+(b) Indian Institute of Forest Management - Bhopal
+(c) Central Agroforestry Research Institute - Banda
+(d) Tata Energy Research Institute - New Delhi
+@ans (c)
+@end
+
+The **Central Agroforestry Research Institute** (CAFRI, formerly NRC for Agroforestry, 1988) is in **Jhansi**, not Banda. **ICRAF**, now part of CIFOR-ICRAF, has its headquarters in **Nairobi**. TERI is now **The Energy and Resources Institute**, New Delhi.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Indian Grass and Fodder Research Institute is located at
+(a) Bikaner
+(b) Jabalpur
+(c) Bhopal
+(d) Jhansi
+@ans (d)
+@end
+
+@pyq U.P. P.S.C. (GIC) 2017
+Goat research centre of Indian Agricultural Research Institute is located at :
+(a) Bharatpur
+(b) Makhdoom in Mathura
+(c) Bikaner
+(d) Aligarh
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The National Centre of Organic Farming (NCOF) is situated at
+(a) Hyderabad
+(b) Chennai
+(c) New Delhi
+(d) Ghaziabad
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+In which of the following cities, the 'Centre for Social Forestry and Eco-Rehabilitation' is located in India?
+(a) Dehradun
+(b) Prayagraj
+(c) Nagpur
+(d) Bhopal
+@ans (b)
+@end
+
+@table
+UP city | National institute
+Lucknow | Indian Institute of Sugarcane Research (ICAR, 1952); Central Institute for Subtropical Horticulture (ICAR); National Botanical Research Institute (CSIR); CDRI; CIMAP; National Bureau of Fish Genetic Resources
+Kanpur | Indian Institute of Pulses Research (ICAR); National Sugar Institute
+Varanasi | Indian Institute of Vegetable Research (ICAR, 1999); IRRI South Asia Regional Centre (2018)
+Jhansi | Indian Grassland and Fodder Research Institute (1962); Central Agroforestry Research Institute (1988)
+Mathura (Makhdoom) | Central Institute for Research on Goats (1979)
+Meerut (Modipuram) | Indian Institute of Farming Systems Research; Central Potato Research Station
+Ghaziabad | National Centre for Organic and Natural Farming
+Prayagraj | Forest Research Centre for Eco-Rehabilitation (ICFRE)
+Bareilly (Izatnagar) | Indian Veterinary Research Institute; Central Avian Research Institute
+Mau | National Bureau of Agriculturally Important Microorganisms
+@end
+
+@trap
+UP institutes are usually paired with a wrong city that is also in UP or close by: sugarcane goes with **Lucknow**, not Kanpur; pulses with **Kanpur**, not Lucknow; vegetables with **Varanasi**, not Prayagraj; agroforestry with **Jhansi**, not Banda. Subtropical horticulture is **Lucknow**, not Srinagar. Srinagar has the Central Institute of **Temperate** Horticulture.
+@end
+
+@section 24.3 | Other Agricultural Institutes
+
+@pyq U.P.P.C.S. (Pre) 2014
+The International Crop Research Institute for SemiArid Tropics (ICRISAT) is located at –
+(a) Kolkata
+(b) Patna
+(c) Bhubaneshwar
+(d) Hyderabad
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015; U.P.P.C.S. (Spl) (Pre) 2008; U.P.R.O./A.R.O. (Mains) 2013
+Where is the Central Research Institute for Dryland Agriculture (CRIDA) located?
+(a) Hyderabad
+(b) Hissar
+(c) New Delhi
+(d) Rajkot
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+National Academy of Agricultural Research Management is located at :
+(a) Bangalore
+(b) Hyderabad
+(c) Kolkata
+(d) New Delhi
+@ans (b)
+@end
+
+**Hyderabad** has several agricultural institutes: ICRISAT (Patancheru), CRIDA, NAARM, the Indian Institute of Rice Research, the Indian Institute of Millets Research, the Indian Institute of Oilseeds Research, NIRD and MANAGE.
+
+@pyq U.P.P.C.S. (Mains) 2013
+'National Institute of Agriculture Marketing' is located at
+(a) New Delhi
+(b) Jaipur
+(c) Hisar
+(d) Bhopal
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+The research & development work is being processed on machinery & instruments used in agriculture in Central Institute of Agricultural Engineering which is located at–
+(a) Pantnagar
+(b) Bhopal
+(c) New Delhi
+(d) Ranchi
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2013; U.P.P.C.S. (Pre) 2016
+National Dairy Research Institute is established at –
+(a) Karnal
+(b) Hisar
+(c) Anand
+(d) Jaipur
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+The location of the National Dairy Development Board is at –
+(a) Anand
+(b) Gandhi Nagar
+(c) Vadodara
+(d) Valsad
+@ans (a)
+@end
+
+**NDRI** (research) is in **Karnal**, while **NDDB** (development, Operation Flood) is in **Anand**. Karnal also has the **Central Soil Salinity Research Institute** and the **Indian Institute of Wheat and Barley Research**.
+
+@pyq U.P.P.C.S. (Pre) 1990
+Where is Indian Horticulture University located ?
+(a) Dehradun
+(b) Mussoorie
+(c) Bangalore
+(d) Solan (Himachal Pradesh)
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Central Rice Research Institute | 1. Jhansi
+B. Directorate of Farming System Research | 2. Bhopal
+C. Indian Institute of Soil Science | 3. Cuttack
+D. National Centre for Agro-Forestry Research | 4. Meerut
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 1 2 3 4
+(c) 4 3 1 2
+(d) 2 1 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List- I (Institute) | List- II (Location)
+A. CSSRI | 1. Manila
+B. CTCRI | 2. Jodhpur
+C. IRRI | 3. Trivandrum
+D. CAZRI | 4. Karnal
+@endmatch
+Code : A B C D
+(a) 1 2 4 3
+(b) 4 3 1 2
+(c) 3 2 4 1
+(d) 2 3 4 1
+@ans (b)
+@end
+
+**IRRI** is at **Los Banos** near Manila (Philippines). Its South Asia Regional Centre (ISARC) has been at **Varanasi** since 2018 (UP link).
+
+@pyq U.P.P.C.S. (Mains) 2013
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List- I (Project Directorate of Crops) | List- II (Location)
+A. DRR | 1. Kanpur
+B. DWR | 2. New Delhi
+C. DMR | 3. Hyderabad
+D. DPR | 4. Karnal
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 3 4 2 1
+(d) 4 1 2 3
+@ans (c)
+@end
+
+The directorates have since been upgraded to institutes: **IIRR** Hyderabad, **IIWBR** Karnal, **IIMR** (maize) Ludhiana (moved from New Delhi) and **IIPR** Kanpur.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List- I (Institutes) | List- II (Locations)
+A. Indian Institute of Sugarcane Research | 1. New Delhi
+B. National Bureau of Plant Genetics Resources | 2. Hyderabad
+C. National Plant Protection Training Institute | 3. Lucknow
+D. Directorate of Wheat Research | 4. Kanpur
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 2 4
+(c) 4 3 2 1
+(d) 2 3 4 1
+@ans (*)
+@note The correct pairs are A-3 (Lucknow), B-1 (New Delhi, Pusa campus) and C-2 (Hyderabad). The Directorate of Wheat Research is at **Karnal**, which is not in List-II, so D-4 (Kanpur) is wrong. Option (b) is the closest, but no option is fully correct, so the source marks the question (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+The Directorate of Plant Protection, Quarantine and Storage are located at –
+(a) Ahmedabad
+(b) Hyderabad
+(c) Faridabad
+(d) New Delhi
+@ans (c)
+@end
+
+@pyq U.P. P.S.C. (GIC) 2017
+The first Krishi Vigyan Kendra in India was established in :
+(a) 1970 AD
+(b) 1972 AD
+(c) 1974 AD
+(d) 1976 AD
+@ans (c)
+@end
+
+The first **KVK** opened in **1974** at **Puducherry** under Tamil Nadu Agricultural University. India now has more than **730 KVKs**, about one per district.
+
+@section 24.4 | Scientific, Mining and Other Institutes
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List -I | List-II
+A. National Environment Engineering | 1. Rajahmundry
+B. Central Food Technology Research Institute | 2. Nagpur
+C. Central Potato Research Institute | 3. Shimla
+D. Central Tobacco Research Institute | 4. Mysuru
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 2 4 3 1
+(c) 3 4 2 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+The headquarters of Indian Bureau of Mines is located at :
+(a) Ranchi
+(b) Ahmedabad
+(c) Nagpur
+(d) Mysore
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+The Central Institute of Mining is located at :
+(a) Cuttack
+(b) Dhanbad
+(c) Jamshedpur
+(d) Bhavnagar
+@ans (b)
+@end
+
+**Dhanbad** has the CSIR-Central Institute of Mining and Fuel Research and **IIT (ISM) Dhanbad** (Indian School of Mines, 1926). **Nagpur** has the Indian Bureau of Mines, NEERI, MOIL and the Mineral Exploration and Consultancy Ltd.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Where is the Indian Diamond Institute established
+(a) New Delhi
+(b) Surat
+(c) Mumbai
+(d) Jaipur
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following does not have the 'National Museum of Natural History'?
+(a) Mysore
+(b) Hyderabad
+(c) Bhuvaneshwar
+(d) Bhopal
+@ans (b)
+@end
+
+The **National Museum of Natural History** in New Delhi (1972) was destroyed by fire in **2016**. Its regional museums are at **Mysuru** (south), **Bhopal** (central), **Bhubaneswar** (east) and **Sawai Madhopur** (west).
+
+@pyq U.P. P.C.S. (Pre) 2018
+Arrange the following Indian Meteorological Headquarters in Chronological order of their establishment and select your correct answer from the codes given below :
+A. New Delhi
+B. Kolkata
+C. Shimla
+D. Pune
+Code :
+(a) C D A B
+(b) B A D C
+(c) D B C A
+(d) B C D A
+@ans (d)
+@end
+
+The **IMD** was founded in **1875** at Calcutta. Its headquarters moved to **Shimla** (1905), **Pune** (1928) and **New Delhi** (1944).
+
+@pyq U.P. P.C.S. (Pre) 2019
+At which of the following places is the Secretariat of the International Solar Alliance (I.S.A.) located at present?
+(a) Paris
+(b) New Delhi
+(c) Gurugram
+(d) New York
+@ans (c)
+@end
+
+The **ISA** was launched by India and France at the **Paris COP21** in 2015. Its secretariat is on the campus of the National Institute of Solar Energy at **Gwal Pahari, Gurugram**.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Central Institute of Indian Languages is located at which of the following places ?
+(a) Varanasi
+(b) Mysore
+(c) New Delhi
+(d) Shimla
+@ans (b)
+@end
+
+@table
+City | Institutes often asked
+Mysuru | Central Food Technological Research Institute; Central Institute of Indian Languages; regional Museum of Natural History
+Nagpur | NEERI; Indian Bureau of Mines; MECL; National Bureau of Soil Survey and Land Use Planning
+Shimla | Central Potato Research Institute; Indian Institute of Advanced Study
+Rajahmundry | Central Tobacco Research Institute
+Dehradun | Forest Research Institute; Wildlife Institute of India; ONGC (registered office); Survey of India
+Bhopal | Indian Institute of Forest Management; Indian Institute of Soil Science; CIAE
+Cuttack | National Rice Research Institute (formerly CRRI)
+Jodhpur | Central Arid Zone Research Institute
+Karnal | NDRI; CSSRI; Indian Institute of Wheat and Barley Research
+Hyderabad | ICRISAT; CRIDA; NAARM; IIRR; NIRD; NPPTI
+@end
+
+@heatmap
+
+@pattern
+Institute questions are straight **location recall**. Of the 34 PYQs here, nearly a third have an answer in **Uttar Pradesh**, so the UP table in section 24.2 is the highest-value revision list. The rest cluster around **Hyderabad** (ICRISAT, CRIDA, NAARM), **Karnal** (NDRI, CSSRI, wheat), **Nagpur** (IBM, NEERI) and **Mysuru** (CFTRI, CIIL).
+@end
+
+@next
+Likely new questions: India's Antarctic station **Maitri-II**, the IRRI **South Asia Regional Centre at Varanasi**, the **International Potato Center South Asia Regional Centre** at Agra (UP), the **National Institute of Solar Energy** (Gurugram) and **CIFOR-ICRAF**. Also expect **renamed** institutes, e.g. Directorate → Indian Institute, or NCOF → National Centre for Organic and Natural Farming.
+@end

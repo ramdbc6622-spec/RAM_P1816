@@ -1,0 +1,778 @@
+@chapter 19 | Food Chemistry, Fertilizers and Chemistry Miscellany
+
+@intro
+The last chemistry chapter covers **food preservation** (sodium benzoate, nitrogen packing, refrigeration), **sugars** (honey, invert sugar), **fertilisers** (urea, ammonium sulphate, DAP), and a long miscellany of **chemicals in daily life**: insecticides and rat poisons, cloud seeding, dyes and inks, glass, batteries, matches, soil amendments, chemical weapons and smoke screens. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 19.1 | Food Preservation
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010; U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following is used in preservation?
+(a) Sodium Chloride
+(b) Sodium Benzoate
+(c) Sodium Tartrate
+(d) Sodium Acetate
+@ans (b)
+@end
+
+@one
+Which of the following is used to preserve fruit juice?
+@ans Sodium benzoate
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992, 1996
+Which one of the following is used in food preservation?
+(a) Sodium Carbonate
+(b) Acetylene
+(c) Benzoic Acid
+(d) Sodium Chloride
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Potato chips are packed in plastic bags in the atmosphere of :
+(a) Nitrogen Atmosphere
+(b) Hydrogen Atmosphere
+(c) Oxygen Atmosphere
+(d) Iodine Atmosphere
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2011, 2013
+Refrigeration helps in food preservation by –
+(a) Killing the germs
+(b) Reducing the rate of biochemical reactions
+(c) Destroying enzyme action
+(d) Sealing the food with a layer of ice
+@ans (b)
+@end
+
+
+@table
+Method | How it works
+**Sodium benzoate / benzoic acid** | Most common chemical **preservative** for fruit juices, squashes, sauces (FSSAI limits apply)
+Potassium metabisulphite | Preserves colourless foods (lime juice, white wine)
+Salt, sugar, vinegar | Draw water out of microbes (osmosis), lower pH (pickles, jams)
+**Nitrogen flushing** | Chips packets are filled with **inert nitrogen**, which stops **oxidation** (rancidity) and cushions the chips
+**Refrigeration** | **Slows** the growth of microbes and the rate of biochemical (enzyme) reactions; does not kill germs
+Pasteurisation, canning, irradiation | Kill microbes by heat or gamma rays
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Charcoal which is used in decolouring raw sugar is :
+(a) Wood charcoal
+(b) Sugar charcoal
+(c) Animal charcoal
+(d) Coconut charcoal
+@ans (c)
+@end
+
+
+**Animal charcoal** (bone char) is used to **decolourise** cane sugar during refining; activated charcoal adsorbs colouring matter.
+
+@section 19.2 | Sugars and Foods
+
+@pyq U.P.P.C.S. (Pre) 2002
+The main component of honey is :
+(a) Glucose
+(b) Sucrose
+(c) Maltose
+(d) Fructose
+@ans (d)
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2020
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) :
+Assertion (A) : Invert sugar is more sweet than sucrose.
+Reason (R) : Invert sugar is obtained by the hydrolysis of sucrose.
+Select the correct answer from the code given below:
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (b)
+@end
+
+**Honey** is mostly **fructose (about 38%)** and glucose (about 31%), with about 17% water. **Invert sugar** is a 1:1 mixture of glucose and fructose made by splitting (hydrolysing) sucrose; it is sweeter because **fructose is the sweetest natural sugar**. Its sweetness comes from the fructose, not from the way it is made, so (R) does not explain (A).
+
+@pyq U.P.P.C.S. (Main) 2013
+Which one of the following fruits is most suitable for jelly making?
+(a) Mango
+(b) Papaya
+(c) Guava
+(d) Wood apple
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Organic food is supposed to be better for us because it
+(a) Relies on chemicals to improve the flavour
+(b) Is more expensive to buy
+(c) Is grown in glasshouses keeping it clean of environmental pollutants.
+(d) Is grown without the use of artificial fertilizers and pesticides.
+@ans (d)
+@end
+
+
+**Jelly** needs fruit rich in **pectin** and acid: guava, apple, plum and citrus are best. **Organic food** is grown without synthetic fertilisers and pesticides; **Sikkim** became India's first fully organic state (2016).
+
+@section 19.3 | Chemicals in Medicine and Daily Use
+
+@pyq U.P.P.C.S (Pre) 2010
+Which one of the following compounds is used as a sedative?
+(a) Potassium Bromide
+(b) Calcium Chloride
+(c) Ethyl Alcohol
+(d) Phosphorus Trichloride
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following forms an irreversible complex with a hemoglobin of the blood?
+(a) Carbon Dioxide
+(b) Pure Nitrogen gas
+(c) Carbon Monoxide
+(d) A mixture of Carbon Dioxide and Helium
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which of the following oil is an extract of clove oil?
+(a) Metheol
+(b) Eugenol
+(c) Methanol
+(d) Benzaldehyde
+@ans (b)
+@end
+
+
+**Carbon monoxide** binds haemoglobin about 200-250 times more strongly than oxygen, forming **carboxyhaemoglobin**, so even small amounts suffocate (deaths from charcoal heaters in closed rooms). **Eugenol** gives clove oil its smell and numbs toothache.
+
+@pyq U.P.P.C.S. (Pre) 1997
+Assertion (A) : Detergent easily removes oil and dirt from dirty garments.
+Reason (R) : Detergent increases the surface tension of water.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (c)
+@end
+
+
+Detergents clean because they **lower** the surface tension of water, letting it wet and lift grease; one end of a detergent molecule binds oil and the other binds water.
+
+@section 19.4 | Fertilisers
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Assertion (A) : Chemical fertilizers are necessary for the phosphorus need of plants.
+Reason (R) : One metric ton of organic manure can barely supply 2 or 3 kg of phosphorus. From the above statement, which are is correct :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The element not provided by the fertilizers is –
+(a) Nitrogen
+(b) Hydrogen
+(c) Chlorine
+(d) Phosphorus
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following fertilizers leaves maximum acidity in the soil ?
+(a) Urea
+(b) Ammonium Sulphate
+(c) Ammonium Nitrate
+(d) Calcium Ammonium Nitrate
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2017
+Urea is
+(a) A nitrogen containing organic compound
+(b) A nitrogen containing inorganic compound
+(c) A plant hormone
+(d) An Endergonic compound
+@ans (a)
+@end
+
+
+@one
+The percentage of nitrogen in urea is about
+@ans 47% (theoretically 46.6%)
+@end
+
+@one
+In what form is nitrogen found in urea?
+@ans Amide
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following chemical fertilizers is relatively more soluble in water at 20°C?
+(a) Ammonium Sulphate
+(b) Urea
+(c) Diammonium phosphate
+(d) Ammonium Chloride
+@ans (b)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+How much amount of urea will be required for supplying 1 kg of nitrogen?
+(a) 2.0 kg
+(b) 2.2 kg
+(c) 2.5 kg
+(d) 2.7 kg
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+What percentage of phosphorus (P_{2}O_{5}) and Nitrogen (N) is present in DAP ?
+(a) 10% N and 20% P_{2}O_{5}
+(b) 18% N and 46% P_{2}O_{5}
+(c) 30% N and 60% P_{2}O_{5}
+(d) 35% N and 70% P_{2}O_{5}
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015; U.P. Lower Sub. (Pre) 2015
+The most popular fertilizer for foliar application is –
+(a) Sodium Nitrate
+(b) Urea
+(c) D.A.P.
+(d) Potassium Chloride
+@ans (b)
+@end
+
+@table
+Fertiliser | Nutrient content | Note
+**Urea**, CO(NH_{2})_{2} | **46% N** (amide form) | **Organic** compound (first made by Wöhler, 1828); most soluble, used for **foliar spray**; about **2.2 kg** gives 1 kg N; **Nano urea** (IFFCO, 2021) is a liquid spray
+**DAP** (diammonium phosphate) | **18% N + 46% P_{2}O_{5}** | Second most used in India
+**Ammonium sulphate** | 21% N + 24% S | Leaves the **most acidity** in soil
+Calcium ammonium nitrate | 25-26% N | Neutral
+**MOP** (muriate of potash, KCl) | 60% K_{2}O | Almost all imported
+Single superphosphate | 16% P_{2}O_{5} | Also supplies sulphur and calcium
+@end
+
+Plants get **carbon, hydrogen and oxygen** from air and water, not from fertilisers. Organic manure supplies only a few kilograms of phosphorus per tonne, so chemical phosphate fertilisers are needed. India's ideal **N : P : K ratio is 4 : 2 : 1**, but actual use is much richer in nitrogen.
+
+@section 19.5 | Pesticides and Agricultural Chemicals
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following is used in fire alarm?
+(a) Photocell
+(b) Water
+(c) Solar cell
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following compounds is used to make fireproof clothing?
+(a) Sodium Sulphate
+(b) Magnesium Sulphate
+(c) Ferrous Sulphate
+(d) Aluminium Sulphate
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which of the following is used as a mosquito repellent?
+(a) Pyrethrum
+(b) Rotenone
+(c) Ephedrine
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Pyrethrin used in mosquito coil is obtained from –
+(a) A seed plant
+(b) An insect
+(c) A bacterium
+(d) A fungus
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following is used as rat poison ?
+(a) Zinc Sulphide
+(b) Lead Sulphide
+(c) Calcium Phosphate
+(d) Zinc Phosphide
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Aluminium Phosphide is used as –
+(a) Insecticide
+(b) Fungicide
+(c) Rodenticide
+(d) Fumigant
+@ans (*)
+@note **Aluminium phosphide** (celphos) releases deadly phosphine gas. It is used chiefly as a **fumigant** for stored grain, and so also acts as an insecticide and rodenticide in godowns; with several right answers, the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is an example of herbicide?
+(a) Sodium chlorate
+(b) Potassium permanganate
+(c) Bleaching powder
+(d) None of the above
+@ans (a)
+@end
+
+
+
+**Pyrethrum** (from the dried flowers of *Chrysanthemum cinerariaefolium*, a seed plant) gives **pyrethrins**, the natural insecticide in mosquito coils. **Zinc phosphide** is the common **rat poison**. **Sodium chlorate** is a weedkiller (herbicide).
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which of the following is correctly matched?
+1. Biogas - Insecticide
+2. Electrocardiography - Heart disorder
+3. D.D.T. - Cow-dung
+4. Nicotine - Tobacco
+Code :
+(a) 1, 2 and 4
+(b) 2, 3 and 4
+(c) 2 and 3
+(d) 2 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which chemical acts as a reclamation agent for alkaline soil?
+(a) Calcium Carbonate
+(b) Calcium Sulphate
+(c) Calcium Oxide
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which one of the following concerns soil?
+(a) Edaphic
+(b) Climatic
+(c) Biotic
+(d) Topography
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+'Humus' is an example of –
+(a) Soil structure
+(b) Crystalloids
+(c) Organic colloids
+(d) None of the above
+@ans (c)
+@end
+
+
+**Gypsum** (calcium sulphate) reclaims **alkaline (sodic) soils**: its calcium replaces sodium, which is then washed out. **Lime** corrects **acidic** soils. *Edaphic* factors are soil factors. **Humus** is an organic colloid that holds water and nutrients.
+
+@section 19.6 | Uses of Chemicals
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Mains) 2013
+Which one of the following chemicals had been in use till now for making artificial clouds ?
+(a) Potassium Nitrate
+(b) Heavy Water
+(c) Sulphur Iodide
+(d) Silver Iodide
+@ans (d)
+@end
+
+
+@one
+Which of the following chemicals is used in artificial rain?
+@ans Silver iodide
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I (Substance) | List-II (Use)
+A. Blue Vitriol | 1. Artificial rain
+B. Eosin | 2. Fungicide
+C. Silver iodide | 3. Red ink
+D. Zinc phosphide | 4. Rodenticide
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 2 1 3 4
+(c) 2 3 1 4
+(d) 2 4 1 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which one among the following is called philosopher's wool?
+(a) Zinc Bromide
+(b) Zinc Nitrate
+(c) Zinc Oxide
+(d) Zinc Chloride
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following pairs is correctly matched?
+(a) Silver Iodide Horn Silver
+(b) Silver Chloride Artificial rain
+(c) Zinc Phosphide Rat poison
+(d) Zinc Sulphide Philosopher’s wool
+@ans (c)
+@end
+
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I | List-II
+A. Iron | 1. Photography
+B. Lead | 2. Lightning conductor
+C. Silver | 3. Haemoglobin
+D. Copper | 4. Storage battery
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 1 4 3
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Match List-I with List-II and select the correct answer by using the codes given below the lists:
+@match
+List-I | List-II
+A. Morphine | 1. Antiseptic
+B. Sodium | 2. Alloy
+C. Boric Acid | 3. Analgesic
+D. German Silver | 4. Kerosene oil
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 2 4 3 1
+(c) 3 1 4 2
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following is called the 'metal of future'?
+(a) Copper
+(b) Iron
+(c) Titanium
+(d) Aluminium
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is NOT correctly matched?
+(a) Magnesium - Fireworks
+(b) Uranium - Atom bomb
+(c) Silver - Electric bulb
+(d) Zinc - Galvanization
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+'Red ink' is prepared from –
+(a) Phenol
+(b) Aniline
+(c) Congo red
+(d) Eosin
+@ans (d)
+@end
+
+@pyq U.P. PCS (Mains) 2016
+Which one of the following colours is supplied by Sodium Chromate?
+(a) Blue
+(b) Red
+(c) Green
+(d) Black
+@ans (b)
+@end
+
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. Acetone | 1. Fire extinguisher
+B. Carbon Tetrachloride | 2. Nail polish remover
+C. Hydrogen peroxide | 3. Dressing of wounds
+D. Liquid ammonia | 4. Refrigerant
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 4 1 2
+(c) 2 1 3 4
+(d) 1 3 4 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Match List – I with List – II and select the correct answer from the code given below :
+@match
+List –I | List - II
+A. Freon | 1. Anti-knocking agent
+B. Tetraethyl lead | 2. Refrigerant
+C. Benzene hexachloride | 3. Fire extinguisher
+D. Carbon tetrachloride | 4. Insecticide
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 2 1 4
+(c) 4 1 2 3
+(d) 2 1 4 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I | List-II
+A. Kevlar | 1. Explosive
+B. Taxol | 2. Synthetic fiber
+C. Zinc Phosphide | 3. Anticancer drug
+D. Nitrocellulose | 4. Rodenticide
+@endmatch
+Code : A B C D
+(a) 2 4 3 1
+(b) 2 3 4 1
+(c) 4 3 1 2
+(d) 3 1 2 4
+@ans (b)
+@end
+
+@table
+Chemical | Common name / use
+**Silver iodide** | **Cloud seeding** (artificial rain); also dry ice and common salt
+Silver chloride | **Horn silver**
+**Zinc oxide** | **Philosopher's wool**; sunscreen, ointments, glazes
+**Zinc phosphide** | **Rat poison**
+Blue vitriol (copper sulphate) | Fungicide (Bordeaux mixture)
+**Eosin** | **Red ink**
+Sodium chromate | Yellow-red pigment
+Freon (CFCs) | Old **refrigerant**, ozone-depleting
+Liquid ammonia | Industrial refrigerant
+**Carbon tetrachloride** | Old fire extinguisher (now banned, ozone-depleting)
+Acetone | Nail-polish remover
+Hydrogen peroxide | Antiseptic, bleaching hair
+Benzene hexachloride (BHC) | Insecticide (lindane)
+Taxol (paclitaxel) | **Anti-cancer** drug from the **Himalayan yew**
+**Titanium** | "**Metal of the future**": light, strong, rust-proof; aircraft, implants
+Magnesium | Fireworks, flares (bright white light)
+**Tungsten** | Bulb filaments (not silver)
+@end
+
+@section 19.7 | Glass, Batteries and Matches
+
+@pyq U.P. P.C.S. (Pre) 2021
+Which of the following types of glass can cut off ultraviolet rays?
+(a) Soda glass
+(b) Pyrex glass
+(c) Jena glass
+(d) Crookes glass
+@ans (d)
+@end
+
+
+@table
+Glass | Special feature
+Soda-lime glass | Ordinary windows, bottles
+**Pyrex / borosilicate** | Withstands heat: lab ware, ovenware
+Jena glass | Heat- and chemical-resistant lab glass
+**Crookes glass** | **Absorbs UV** (contains cerium oxide): sunglasses, welding goggles
+Flint glass | Lenses, prisms (contains lead)
+Coloured glass | Cobalt (blue), chromium (green), gold (ruby red), manganese (violet)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Which of the following pairs are not correctly matched–
+(a) Potassium chlorate - Matchbox
+(b) Manganese dioxide - Dry cell
+(c) Hydrochloric acid - Accumulator cell
+(d) Uranium - Atom bomb
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following is used for manufacturing safety matches?
+(a) Di-phosphorus
+(b) Black phosphorus
+(c) Red phosphorus
+(d) Scarlet phosphorus
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+When kept in air and darkness, which of the following elements glows spontaneously?
+(a) Red phosphorus
+(b) White phosphorus
+(c) Scarlet phosphorus
+(d) Violet phosphorus
+@ans (b)
+@end
+
+
+@one
+Which of the following main substances (elements) is used in making matches?
+@ans Phosphorus
+@end
+
+**Safety matches**: **red phosphorus** on the striking strip, potassium chlorate and antimony sulphide on the match head. **White phosphorus** glows in the dark (**phosphorescence**, really chemiluminescence), catches fire in air and is stored under water. A car battery is a **lead-acid** accumulator with **sulphuric acid**; a dry cell uses **manganese dioxide**, zinc and carbon.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Assertion (A) : A dry cell cannot be charged.
+Reason (R) : Dry cell has a reversible reaction.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam)2016; U.P.P.C.S. (Pre) 2015
+Which one of the following acids is used in the carbatteries?
+(a) Acetic Acid
+(b) Hydrochloric Acid
+(c) Sulphuric Acid
+(d) Nitric Acid
+@ans (c)
+@end
+
+
+An ordinary dry (Leclanché) cell is a **primary cell**: its reaction is **irreversible**, so it cannot be recharged. Lead-acid, nickel-cadmium and **lithium-ion** cells are secondary (rechargeable) cells.
+
+@section 19.8 | Miscellany
+
+@pyq U.P.P.C.S. (Mains) 2013
+Consider the following assertion and reason and select the correct answer from the code given below.
+Assertion (A) : Ozone kills microorganism in water.
+Reason (R) : Ozone is not radioactive.
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+
+**Ozone** disinfects water because it is a strong **oxidising agent** that destroys microbes; it is not radioactive, but that is not why it works.
+
+@pyq U.P.P.C.S. (Pre) 2008
+'Radioactive dating' is a technique which can be used to measure :
+(a) The age of rocks
+(b) Composition of rocks
+(c) Colour of rocks
+(d) Weight of rocks
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which of the following method is used for measuring the age of the earth?
+(a) Carbon dating process
+(b) Biotechnology Law
+(c) Biological clock method
+(d) Uranium process
+@ans (d)
+@end
+
+
+**Radiometric dating** measures the age of rocks from the decay of long-lived isotopes such as **uranium → lead** (half-life 4.5 billion years) and potassium → argon; this gives the Earth's age of about **4.54 billion years**. **Carbon-14** (half-life 5,730 years) dates once-living material up to about 50,000 years old.
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India, water desalination plant is located in –
+(a) Lakshadweep
+(b) Goa
+(c) Cuttack
+(d) Chennai
+@ans (a) & (d)
+@note The source gives **(a) & (d)**: India's first **low-temperature thermal desalination** plant was set up at **Kavaratti, Lakshadweep** (2005), and Chennai has large sea-water reverse-osmosis plants (Minjur, 2010; Nemmeli).
+@end
+
+
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Mustard gas is used –
+(a) As a fuel gas
+(b) In chemical warfare
+(c) As a source of mustard oil
+(d) As a deodorant
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Smoke screen is used in warfare for the purpose of concealment and camouflage. Smoke screens generally consists of fine particles of –
+(a) Sodium chloride dispersed in air
+(b) Silver iodide dispersed in air
+(c) Titanium oxide dispersed in air
+(d) Magnesium oxide dispersed in air
+@ans (c)
+@end
+
+@pyq U.P.Lower (Spl) (Pre) 2004; U.P.P.S.C. (GIC) 2010
+Which one of the following is incorrect?
+(a) Theory of evolution was propounded by Charles Darwin.
+(b) The breaking apart of the nucleus of an atom is called fusion.
+(c) Dry ice is nothing but solid Carbon dioxide.
+(d) Telephone was invented by Graham Bell.
+@ans (b)
+@end
+
+
+**Mustard gas** (sulphur mustard) is a blistering chemical weapon first used in World War I; the **Chemical Weapons Convention** (1993) bans it. Smoke screens disperse fine particles of **titanium dioxide** (or zinc chloride, phosphorus smoke) in air.
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is correctly matched?
+(a) Sulphur dioxide - Teeth
+(b) Fluoride pollution - Bhopal gas tragedy
+(c) Methyl isocyanate - Acid rain
+(d) Ozone depletion - Skin cancer
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List – I with List – II and select the correct answer from the code given below :
+@match
+List –I (Specification) | List - II (Date)
+A. Technology Day | 1. 9 August
+B. Photography Day | 2. 29 August
+C. National Sports Day | 3. 11 May
+D. Nagasaki Day | 4. 19 August
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 3 2 1
+(c) 4 3 1 2
+(d) 3 4 1 2
+@ans (a)
+@end
+
+**National Technology Day (11 May)** marks the Pokhran-II tests of 1998; **World Photography Day** is 19 August; **National Sports Day (29 August)** is Major **Dhyan Chand**'s birthday; the atom bomb fell on **Nagasaki on 9 August 1945** (Hiroshima, 6 August).
+
+@trap
+**Sodium benzoate** preserves fruit juice. Chips bags hold **nitrogen**, not air. Refrigeration **slows**, not kills. **Honey = mostly fructose**. **Urea is organic, 46% N, amide form; DAP = 18-46.** **Ammonium sulphate** acidifies soil most. **Gypsum** reclaims alkaline soil. **Silver iodide → artificial rain**, **eosin → red ink**, **zinc phosphide → rat poison**, **zinc oxide → philosopher's wool**. **Crookes glass cuts UV.** **Red phosphorus** in safety matches. A dry cell **cannot** be recharged. Car batteries use **sulphuric acid**.
+@end
+
+@heatmap
+
+@pattern
+These are long-running, highly repeated **use-of-chemical** questions, often as four-pair matches (2013, 2019, 2020). Fertiliser numbers (urea's nitrogen, DAP's ratio) and food chemistry (invert sugar, honey) are favourites of the Mains and recent Prelims papers.
+@end
+
+@next
+Likely next angles: **nano urea and nano DAP** (IFFCO), the **PM-PRANAM** scheme for balanced fertiliser use, **neem-coated urea**, **food adulterants** (melamine, metanil yellow, argemone oil), **FSSAI** rules on preservatives and trans fat, **cloud seeding** trials (Delhi, 2025), **lithium-ion** recycling, and the **Chemical Weapons Convention**.
+@end

@@ -1,0 +1,107 @@
+@chapter 4 | Properties of Matter
+
+@intro
+This chapter covers **elasticity** (Young's modulus, shear modulus), **surface tension** (spherical raindrops, oil on water, floating needle, soap bubbles), **pressure** (ink leaking in an aeroplane, the barometer), **viscosity and streamline flow**, the strange behaviour of **water at 4°C**, and **Archimedes' principle** of flotation (ships, icebergs, swimming in the sea). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 4.1 | Elasticity and Surface Tension
+
+@q 4:1
+
+**Elasticity** is how strongly a material resists deformation and returns to shape. **Young's modulus** (stress/strain for stretching) is far higher for **steel** (about 200 GPa) than for **rubber** (about 0.01-0.1 GPa), so in physics **steel is more elastic than rubber**. A coil spring stretches by twisting its wire, so its extension depends on the **shear (rigidity) modulus**.
+
+@src 4:2
+@pyq U.P.P.C.S. (Pre) 2005
+The rain drops are spherical because –
+(a) They fall from height
+(b) The air has resistance
+(c) The water has surface tension
+(d) None of the above
+@ans (c)
+@end
+
+@src 4:3
+@pyq U.P.P.C.S. (Pre) 1994; U.P.P.S.C. (GIC) 2010
+Oil spreads on water surface because –
+(a) Oil is denser than water
+(b) Oil is less dense than water
+(c) Surface tension of oil is more than water
+(d) Surface tension of oil is less than water
+@ans (d)
+@end
+
+**Surface tension** makes a liquid surface behave like a stretched skin that tries to have the **least area**. For a given volume a **sphere** has the least surface, so raindrops and mercury droplets are round. Water's stronger surface tension pulls oil outward into a thin film. Soap and detergents **lower** water's surface tension, which lets them wet and clean cloth; hot water also has lower surface tension, so it cleans better.
+
+@q 4:4-5
+
+The pressure inside a soap bubble is greater than outside by **4T/r** (T = surface tension, r = radius), so smaller bubbles have higher pressure. Charging a bubble makes its surface charges repel each other, which pushes outward, so the bubble **expands**.
+
+@q 4:15
+
+A steel needle placed gently flat on water floats because **surface tension** supports it; pushed in point-first, it sinks. Insects such as water striders walk on water in the same way.
+
+@section 4.2 | Pressure and Flow
+
+@q 4:6-7
+
+As an aeroplane climbs, **outside air pressure falls**. The air trapped inside a fountain pen's ink tube is at the old, higher pressure, so it pushes the ink out. A **sudden fall** in barometer reading signals a **storm**; a gradual fall suggests rain; a rising reading means fair weather.
+
+@src 4:8
+@pyq U.P.P.C.S. (Pre) 2003
+A liquid is flowing in a streamlined manner through a cylindrical pipe. Along with a section containing the axis of the pipe, the flow profile will be : *(the options are diagrams; described in words)*
+(a) All layers moving forward with equal speed
+(b) Upper layers moving forward and lower layers moving backward
+(c) Layers fastest near the walls and slowest along the axis
+(d) Layers slowest near the walls and fastest along the axis
+@ans (d)
+@end
+
+In **streamline (laminar) flow** the layer touching the pipe wall is almost at rest because of **viscosity**, and each inner layer moves faster, so the velocity profile is a **parabola** with its peak on the axis. Above a critical speed (Reynolds number above about 2,000), flow becomes **turbulent**.
+
+@section 4.3 | Density and Water at 4°C
+
+@q 4:9
+
+**Density = mass / volume**. Taking more of a substance raises both mass and volume in proportion, so density stays the same; it is a property of the material.
+
+@q 4:10-12
+
+Water behaves **anomalously** between 0°C and 4°C: it **contracts** as it is warmed from 0°C to 4°C and expands only above 4°C. So its **density is maximum (1 g/cm^{3}) at 4°C = 277 K**. In winter the surface of a lake cools and sinks until the whole lake is at 4°C; further cooling makes the top layer lighter, it freezes, and the ice (a poor conductor) insulates the **4°C water below**, where fish survive. Water expands by about 9% on freezing, which is why water pipes burst and ice floats.
+
+@section 4.4 | Archimedes' Principle and Flotation
+
+@q 4:13-14
+
+A body **floats** if its average density is less than that of the liquid. Iron (7.8 g/cm^{3}) sinks in water (1.0) but floats on **mercury (13.6)**. A ship is hollow, so it displaces a large volume of water whose weight equals the ship's weight before it is fully submerged; its **average density** is less than water's.
+
+@q 4:16-17
+
+**Archimedes' principle**: a body in a fluid is pushed up by a force equal to the **weight of the fluid it displaces**. A bucket feels lighter under water and heavier once it leaves the surface. Water in a weightless balloon has the same density as the water around it, so its weight is exactly balanced: apparent weight **zero**.
+
+@q 4:18
+
+Ice is about 0.92 times as dense as water, so about **nine-tenths** of an iceberg lies under water and only about **one-tenth to one-ninth** shows above; in denser sea water slightly more shows.
+
+@q 4:19-20
+
+@src1 4:3
+@one
+Statement (A): When a ship leaves a river and enters the sea, it rises a little. Reason (R): The density of sea water is greater than the density of river water.
+@ans Both (A) and (R) are correct, and (R) is the correct explanation of (A).
+@end
+
+Sea water (about 1.025 g/cm^{3}) is denser than river water, so a ship needs to displace less of it and **rises a little** on entering the sea, and a swimmer floats more easily. Ships carry a **Plimsoll line** (load line) marking safe loading depths for fresh and salt water, summer and winter.
+
+@trap
+**Steel is more elastic than rubber.** Oil spreads because **its surface tension is lower** than water's. Raindrops are spherical because of **surface tension**, not air resistance. Water is **densest at 4°C**, not 0°C. In streamline flow the **centre** of the pipe is fastest. A ship **rises** when it enters the sea. Density does not change with the amount of substance.
+@end
+
+@heatmap
+
+@pattern
+Mostly **why-type** questions on daily-life physics, repeated from the 1990s. The 2019 and 2023 papers added deeper concepts (charged soap bubble, Young's and shear modulus), so read the reason behind each fact, not just the answer.
+@end
+
+@next
+Likely next angles: **capillarity** (oil rising in a lamp wick, water in plants, angle of contact), **Bernoulli's principle** (aeroplane lift, roofs blown off in storms, atomisers), **Pascal's law** (hydraulic lift and brakes), **viscosity** changes with temperature, the **Plimsoll line**, and **superfluids**.
+@end

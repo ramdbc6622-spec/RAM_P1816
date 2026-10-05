@@ -1,0 +1,229 @@
+@chapter 7 | The Ozone Layer
+
+@intro
+Ozone questions are short and settled: ozone is formed by **UV light**, it lies in the **stratosphere**, it absorbs **ultraviolet** radiation, it is destroyed by **CFCs, halons, carbon tetrachloride and methyl chloroform**, the ozone hole was discovered by a **British** team in 1985, the **Montreal Protocol** (1987) controls the depleting substances, and **16 September** is Ozone Day. UV exposure causes **skin cancer**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 7.1 | Ozone and Where It Lies
+
+@pyq U.P. P.C.S. (Pre) 2018
+Ultraviolet radiation from sunlight causes the reaction that produce which of the following?
+(a) CO
+(b) SO2
+(c) O3
+(d) Fluorides
+@ans (c)
+@end
+
+Ozone forms in two steps. UV light splits an oxygen molecule (O2 into O + O), and each free O atom then joins another O2 to make **O3**. This **Chapman cycle** creates and destroys ozone naturally, keeping its level roughly steady.
+
+@pyq U.P.P.C.S. (Pre) (Spl) 2008; U.P.P.C.S. (Pre) 2018, 2023; U.P.P.C.S. (Mains) 2012
+Place where Ozone Layer is primarily found is –
+(a) Troposphere
+(b) Stratosphere
+(c) Mesosphere
+(d) Ionosphere
+@ans (b)
+@end
+
+@one U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+The ozone layer is located in
+@ans Stratosphere
+@end
+
+@pyq U.P.P.C.S. (Pre), 2018
+Which of the following pairs is NOT correctly matched?
+(a) Renneting-Cheese
+(b) Genetic Engineering-Plasmids
+(c) Golden rice-Vitamin A
+(d) Ozone layer-Troposphere
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+In stratosphere, the level of ozone is naturally regulated by :
+(a) Nitrous oxide
+(b) Nitrogen dioxide
+(c) CFC
+(d) Water vapours
+@ans (b)
+@end
+
+About **90%** of all ozone is in the **stratosphere**, mostly between **15 and 35 km**. The thickness of the ozone column is measured in **Dobson Units (DU)**: the world average is about 300 DU, and an "ozone hole" is an area below **220 DU**. Natural **nitrogen oxides** (NO, NO2) take part in the reactions that keep ozone levels balanced.
+
+@section 7.2 | What Ozone Does
+
+@pyq U.P.P.C.S.(Pre) 2013
+The radiation that is absorbed by ozone present in the atmosphere is –
+(a) Infrared
+(b) Visible
+(c) Ultraviolet
+(d) Microwave
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2014
+Ozone protects the biosphere from
+@ans Ultraviolet rays
+@end
+
+@one U.P.P.C.S. (Pre) 2006; U.P. Lower Sub. (Pre) 2004
+Ozone layer in atmosphere
+@ans Provides safety to life on earth from ultraviolet radiation
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010; U.P.P.C.S. (Mains) 2010
+Consider the following statements:
+Assertion (A) : Ozone is essential for biotic life.
+Reason (R) : The ozone layer protects the earth's surface from high energy radiation.
+Select the correct answer from codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Harmful ultraviolet radiation coming from the sun can cause –
+(a) Liver cancer
+(b) Brain cancer
+(c) Oral cancer
+(d) Skin cancer
+@ans (d)
+@end
+
+@table
+UV band | Wavelength | Fate
+UV-A | 315-400 nm | Mostly reaches the ground; ageing of skin
+**UV-B** | 280-315 nm | **Mostly absorbed by ozone**; the part that gets through causes sunburn, **skin cancer**, **cataract** and weakened immunity, and harms phytoplankton and crops
+UV-C | 100-280 nm | Completely absorbed by ozone and O2
+@end
+
+"**Good up high, bad nearby**": stratospheric ozone protects us, while **ground-level (tropospheric) ozone** is a pollutant and a greenhouse gas. It forms in **photochemical smog** from NOx and hydrocarbons in sunlight, and damages lungs and crops.
+
+@section 7.3 | Ozone-Depleting Substances
+
+@one U.P.R.O./A.R.O. (Pre) 2014; U.P.P.C.S. (Pre) 2016; U.P.P.S.C. (GIC) 2009
+Which one gase is responsible for the decrement in the ozone layer?
+@ans Chlorofluorocarbon
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Which of the following is not true about chlorofluorocarbon?
+(a) It is used as a refrigerant.
+(b) Is not responsible for the greenhouse effect
+(c) It is responsible for reducing ozone in the stratosphere.
+(d) It is inactive in the lower atmosphere
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of the following substances is/are ozone depleting?
+Select the correct answer from codes given below:
+1. Chlorofluorocarbons
+2. Halons
+3. Carbon tetrachloride
+Codes :
+(a) 1 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P. Lower Sub. (Pre) 2002
+Which one of the following is not responsible for the depletion of ozone layer:
+(a) CFC-12 used in refrigerators
+(b) Methyl chloroform used as a solvent
+(c) HALON-1211 used in fire fighting
+(d) Nitrous oxide
+@ans (b)
+@note The key follows the source, but **methyl chloroform** (1,1,1-trichloroethane) **is** an ozone-depleting substance and was phased out under the Montreal Protocol. Today **nitrous oxide (N2O)** is the largest ozone-depleting *emission*, though it is not controlled by the Protocol. On current science, all four options deplete ozone.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following is not correctly matched?
+Green House Gas - Source
+(a) Carbon dioxide - Thermal Power Stations
+(b) Chlorofluorocarbon - Automobile
+(c) Nitrous Oxide - Waterlogged Paddy fields
+(d) Sulphur dioxide - Brick Kilns
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Among the following greenhouse gases, which does not cause ozone depletion in the troposphere?
+(a) Methane
+(b) Carbon monoxide
+(c) Nitrogen Oxides (NO)
+(d) Water vapours
+@ans (b)
+@end
+
+@table
+Ozone-depleting substance | Use | Status
+**CFCs** (CFC-11, CFC-12) | Refrigerators, ACs, aerosol sprays, foam | Phased out (2010 globally)
+**Halons** (halon-1211, 1301) | Fire extinguishers | Phased out; very strong bromine depleters
+**Carbon tetrachloride** | Solvent, feedstock | Phased out
+**Methyl chloroform** | Industrial solvent | Phased out
+**Methyl bromide** | Fumigant (soil, grain) | Phased out except for quarantine uses
+HCFCs | Replacements for CFCs (weaker) | India's phase-out by 2030
+HFCs | Do not deplete ozone, but are strong greenhouse gases | Being cut down under the **Kigali Amendment** (2016)
+@end
+
+One **chlorine atom** freed by UV light from a CFC molecule can destroy about **1,00,000 ozone molecules** in a chain reaction. Over **Antarctica** the destruction is fastest in spring (September-October), because **polar stratospheric clouds** form there in the extreme winter cold.
+
+@section 7.4 | The Ozone Hole and Its Control
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following teams of scientists first discovered 'ozone hole' over Antarctica?
+(a) Russian Team
+(b) German Team
+(c) American Team
+(d) British Team
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Who among the following had discovered 'ozone halo' over Tibetan Plateau in 2005?
+(a) M. Molina
+(b) Joseph Farman
+(c) G.W. Kent Moore
+(d) Marcus Rex
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996, 2014, 2015, 2022
+The International Day for Preservation of Ozone layer is observed on:
+(a) 15th August
+(b) 16th September
+(c) 24th October
+(d) 1st May
+@ans (b)
+@end
+
+@table
+Milestone | Year | Detail
+Molina and Rowland warn about CFCs | 1974 | Nobel Prize 1995 (with Crutzen)
+Antarctic ozone hole reported | **1985** | **British Antarctic Survey**: Joseph Farman, Brian Gardiner, Jonathan Shanklin
+**Vienna Convention** | 1985 | Framework for ozone protection
+**Montreal Protocol** | **16 September 1987** | Phase-out of ODS; the only UN treaty ratified by **every** country; hence **16 September** is Ozone Day
+India joins | 1992 | -
+**Kigali Amendment** | 2016 | HFC phase-down; India's freeze in 2028, cuts from 2032
+Recovery | About **2066** (Antarctic), 2045 (Arctic), 2040 (elsewhere) | UNEP/WMO 2023 assessment
+@end
+
+@trap
+Ozone absorbs **UV, not infrared**. The **ozone layer is in the stratosphere**; ground-level ozone in the troposphere is a pollutant. The ozone hole was found by a **British** team (Farman, 1985), while the "ozone halo" over Tibet was found by **Kent Moore** (2005). **Ozone Day = 16 September**. **CFCs are also greenhouse gases**, so "not responsible for greenhouse effect" is false.
+@end
+
+@heatmap
+
+@pattern
+Ozone questions are mostly **settled one-liners**: where (stratosphere), what (absorbs UV), who depletes it (CFCs) and when (16 September). The stratosphere question alone has been asked in at least five papers, and Ozone Day four times. Expect statement-type versions (2025) that combine UV protection with CFCs.
+@end
+
+@next
+Likely next angles: the ozone hole's **recovery timeline**, the **Kigali Amendment** and India's **Cooling Action Plan**, the **2019 rise in CFC-11 emissions** traced to eastern China, the **Hunga Tonga** eruption's effect on stratospheric water and ozone, and the 2022 HFC phase-down schedule.
+@end

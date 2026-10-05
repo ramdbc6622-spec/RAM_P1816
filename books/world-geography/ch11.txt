@@ -1,0 +1,423 @@
+@chapter 11 | Islands, Lakes and Waterfalls
+
+@intro
+This chapter covers island records (Greenland, New Guinea, Borneo), island **groups** (Japan's four islands, Indonesia's sequence, Melanesia vs Polynesia, the Caribbean), the **Great Lakes** of North America and Africa, lake **records** (Caspian, Baikal, Tanganyika, Superior, Titicaca) and the great **waterfalls** (Angel, Tugela, Victoria). Recent papers (2021-2023) favour statement-type questions on a single island or lake. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 11.1 | Islands: Size and Location
+
+@pyq U.P.P.C.S. (Pre) 1993
+The largest Island of the World is :
+(a) Borneo
+(b) Greenland
+(c) Madagascar
+(d) New Guinea
+@ans (b)
+@end
+
+@table
+Rank | Island | Area (sq km, approx.) | Country
+1 | Greenland | 21.7 lakh | Denmark (autonomous)
+2 | New Guinea | 7.9 lakh | Papua New Guinea, Indonesia
+3 | Borneo | 7.4 lakh | Indonesia, Malaysia, Brunei
+4 | Madagascar | 5.9 lakh | Madagascar
+5 | Baffin | 5.1 lakh | Canada
+6 | Sumatra | 4.7 lakh | Indonesia
+7 | Honshu | 2.3 lakh | Japan
+8 | Great Britain | 2.1 lakh | UK
+- | NZ South Island / Java / NZ North Island / Newfoundland | 1.5 / 1.4 / 1.1 / 1.1 lakh | -
+@end
+
+Australia is counted as a **continent**, not an island, which is why Greenland is the largest island.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is the largest in area?
+(a) New Zealand North Island
+(b) New Foundland
+(c) New Zealand South Island
+(d) Java
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following statements is correct ?
+(a) Greenland is the second largest (area) island in the World.
+(b) Nuuk is a small town of Greenland.
+(c) The elevation of Nuuk above the sea level is 3 metre
+(d) Greenland belongs to the U.S.A.
+@ans (c)
+@end
+
+**Nuuk** is Greenland's **capital** and largest town. It is not "a small town", and it sits only a few metres above sea level.
+
+@pyq U.P.P.C.S (Pre) 2010
+Which one among the following eastern islands is divided into three countries?
+(a) Borneo
+(b) Celebes
+(c) New Guinea
+(d) Timor
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following islands is located in the south Indian Ocean ?
+(a) Chagos
+(b) Maldives
+(c) Mauritius
+(d) Seychelles
+@ans (*)
+@note **Chagos, Mauritius and Seychelles** all lie **south of the Equator**, and only the Maldives lies mostly north of it. Three options are correct, so the source marks the question (*). The UK agreed in **2024-25** to hand the **Chagos Archipelago** (with the Diego Garcia base on lease) to **Mauritius**.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which of the following statement is not correct ?
+(a) Falkland Archipelago is located in the Indian Ocean.
+(b) Namibia is located in Africa.
+(c) Nicaragua is in Central America.
+(d) Yemen is in Asia.
+@ans (a)
+@end
+
+The **Falklands** (Islas Malvinas) lie in the **South Atlantic** off Argentina. They are a British Overseas Territory and were the cause of the **1982** Falklands War.
+
+@pyq U.P.P.C.S. (Pre) 2021
+With reference to Socotra Island which of the following statement is/are correct?
+1. It is an Island of Oman, situated in the Arabian Sea.
+2. It was designated as a World Natural Heritage Site by UNESCO in 2008.
+Select the correct answer using the codes given below.
+codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+**Socotra** belongs to **Yemen**, not Oman. It lies at the mouth of the Gulf of Aden and is famous for the **dragon's blood tree**. It became a UNESCO site in **2008**.
+
+@pyq U.P.P.S.C. (GIC) 2017
+Which of the following islands is known for its Salt-Pan resources?
+(a) Isle of Man
+(b) Saint-Martin Island
+(c) Norfolk Island
+(d) Paracel Island
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+When was Macau island transferred to China ?
+(a) 1990
+(b) 1992
+(c) 1997
+(d) 1999
+@ans (d)
+@end
+
+**Hong Kong** returned from Britain in **1997** and **Macau** from Portugal in **1999**. Both are Special Administrative Regions under "one country, two systems".
+
+@section 11.2 | Island Groups
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which of the following is the largest island of Japan ?
+(a) Hokkaido
+(b) Shikoku
+(c) Hodouri
+(d) Honshu
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019; U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following presents the correct North-South sequence of the four major islands of Japan?
+(a) Shikoku, Kyushu, Hokkaido, Honshu
+(b) Honshu, Hokkaido, Shikoku, Kyushu
+(c) Hokkaido, Honshu, Kyushu, Shikoku
+(d) Hokkaido, Honshu, Shikoku, Kyushu
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following is the correct sequence of the Islands of Indonesia from West to East?
+(a) Java, Sumatra, Lombok, Bali
+(b) Sumatra, Java, bali, Lombok
+(c) Sumatra, Java, Lombok, Bali
+(d) Bali, Sumatra, Java, Lombok
+@ans (b)
+@end
+
+Between **Bali** and **Lombok** runs the **Wallace Line**, the boundary between Asian and Australian wildlife.
+
+@pyq U.P. P.C.S. (Mains) 2012
+Which of the following islands of the Pacific Ocean belongs to Melanesia group of islands ?
+(a) Solomon Island
+(b) Gilbert Island
+(c) Society Island
+(d) Marshall Island
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Which of the following is not a part of Polynesia group of Islands?
+(a) Tonga
+(b) Tuvalu
+(c) Tahiti
+(d) Tinian
+@ans (d)
+@end
+
+@table
+Pacific group | Meaning | Main islands / countries
+Melanesia | "Black islands" | New Guinea, Solomon Islands, Vanuatu, New Caledonia, Fiji
+Micronesia | "Small islands" | Marshall Islands, Gilbert (Kiribati), Guam, Northern Marianas (**Tinian**, Saipan), Palau, Nauru
+Polynesia | "Many islands" (triangle Hawaii-New Zealand-Easter Island) | Hawaii, Samoa, **Tonga**, **Tuvalu**, **Tahiti** and the Society Islands, Cook Islands, New Zealand
+@end
+
+**Tinian** (Northern Mariana Islands, Micronesia) is where the aircraft carrying the atomic bombs to Hiroshima and Nagasaki took off in 1945.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following Islands is NOT located in the Caribbean Sea?
+(a) Grenada
+(b) Montserrat
+(c) Madeira
+(d) Anguilla
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following islands are known as 'Sheep Islands'?
+(a) Canary Islands
+(b) Madeira Islands
+(c) Faroe Islands
+(d) Wellington Islands
+@ans (c)
+@end
+
+**Atlantic islands** that are not Caribbean: **Madeira** and the **Azores** (Portugal), the **Canaries** (Spain), **Cape Verde**, the **Faroes** (Denmark, "Sheep Islands", in the North Atlantic between Iceland and Scotland) and **Bermuda** (UK).
+
+@section 11.3 | Lakes of the World
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+On the basis of area and volume, the largest lake of the world is :
+(a) Aral Sea
+(b) Caspian Sea
+(c) Baikal Lake
+(d) Michigan Lake
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) (Re-Exam) 2015
+Which of the following is the oldest and deepest lake of the world?
+(a) Lake Baikal
+(b) Lake Huron
+(c) Victoria Lake
+(d) Lake Winnipeg
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O (Mains) 2014
+Which of the following is the second deepest and the longest lake in the world?
+(a) Tanganyika Lake
+(b) Baikal Lake
+(c) Superior Lake
+(d) Great Bear Lake
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Arrange the following lakes in correct descending order of their area using the code given below:
+1. Great Bear
+2. Baikal
+3. Victoria
+4. Superior
+Code :
+(a) 4, 3, 2, 1
+(b) 3, 2, 1, 4
+(c) 4, 2, 1, 3
+(d) 3, 1, 4, 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) (Re. Exam) 2015
+Which one of the following is not correctly matched?
+(a) World's tallest waterfall - Tugela Falls
+(b) World's largest fresh water lake - Lake Superior
+(c) World's highest navigable lake - Lake Titicaca
+(d) World's second deepest lake - Lake Tanganyika
+@ans (a)
+@end
+
+@table
+Lake record | Lake | Country / note
+Largest by area and volume | **Caspian Sea** (about 3.7 lakh sq km) | Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan; salt water
+Largest freshwater lake by area | **Superior** (about 82,000 sq km) | USA-Canada
+Largest freshwater lake by volume; deepest (about 1,642 m); oldest (25+ million years) | **Baikal** | Russia (Siberia); "Pearl of Siberia"
+Second deepest; longest freshwater lake (about 670 km) | **Tanganyika** | Tanzania, DR Congo, Burundi, Zambia
+Largest lake in Africa; largest tropical lake | **Victoria** | Uganda, Kenya, Tanzania; source of the White Nile
+Highest navigable lake (about 3,810 m) | **Titicaca** | Peru-Bolivia
+Lowest lake (about -430 m) | **Dead Sea** | Israel, Jordan, Palestine
+Largest lake entirely in one country | **Michigan** | USA
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to 'Lake Victoria in Africa', which of the following statements is/are correct?
+(1) The lake is surrounded by four countries.
+(2) It is situated in the African rift valleye.
+Select the correct answer using the code given below:
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (d)
+@end
+
+**Lake Victoria** is shared by **three** countries (Uganda, Kenya and Tanzania). It lies in a shallow basin **between** the eastern and western arms of the Rift Valley, not inside the rift, which is why it is shallow (about 80 m). The **rift lakes** (Tanganyika, Malawi, Albert, Turkana) are long, narrow and deep.
+
+@pyq U.P. RO/ARO (Mains) 2017
+Which of the following is not correctly matched?
+(a) Baikal – Russian Federation
+(b) Malawi – Asia
+(c) Caspian Sea – Asia – Europe
+(d) Tanganyika – Africa
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015, 2017
+Which of the following lakes lies entirely in the U.S.A.?
+(a) Lake Michigan
+(b) Lake Huron
+(c) Lake Superior
+(d) Lake Erie
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O (Mains) 2014
+Which of the following cities is located on Lake Superior?
+(a) Chicago
+(b) Buffalo
+(c) Detroit
+(d) Duluth
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Match List-I with List-II and choose the correct answer from the code given below–
+@match
+List-I (Lake) | List-II (City)
+A. Erie | 1. Duluth
+B. Michigan | 2. Detroit
+C. Ontario | 3. Gary
+D. Superior | 4. Hamilton
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 1 3 2 4
+(c) 4 2 3 1
+(d) 2 3 4 1
+@ans (d)
+@end
+
+@table
+Great Lake (west to east) | Cities on the shore | Remember
+Superior | Duluth, Thunder Bay | Largest; iron-ore ports
+Michigan | **Chicago**, Milwaukee, **Gary** | Only one wholly in the USA
+Huron | Sarnia | Joined to Michigan at the Straits of Mackinac
+Erie | Cleveland, **Buffalo**, Toledo (Detroit on the Detroit River nearby) | Shallowest; Niagara drains it into Ontario
+Ontario | **Toronto**, **Hamilton**, Rochester | Smallest; outflow to the St. Lawrence
+@end
+
+Memory aid: **HOMES** = Huron, Ontario, Michigan, Erie, Superior.
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which one of the following (Lake – Country) is not correctly matched?
+(a) Maracaibo – Venezuela
+(b) Onega – Canada
+(c) Michigan – United States of America
+(d) Baikal – Russia
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Lake Balkhash is situated in which one of the following countries?
+(a) Kazakhstan
+(b) Kyrgyzstan
+(c) Russia
+(d) Turkmenistan
+@ans (a)
+@end
+
+**Lake Balkhash** is half fresh (west) and half salty (east). **Ladoga** and **Onega**, the two largest lakes in Europe, are in north-west **Russia**. **Maracaibo** (Venezuela) is a large oil-rich lagoon.
+
+@pyq U.P.R.O./A.R.O (Mains) 2014
+Which of the following is not correctly matched?
+(a) Titicaca Lake - Bolivia - Peru
+(b) Lake Urmia - Iran
+(c) Lake Raindeer - Russia
+(d) Lake Athabaska - Canada
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is not correctly matched?
+(a) Boiling Lake - Dominica
+(b) Five Flower Lake - Mongolia
+(c) Red Lagoon - Bolivia
+(d) Great Slave lake - Canada
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which of the following lakes is a World Heritage Site?
+(a) Red Lagoon of Bolivia
+(b) Boiling Lake of Dominica
+(c) Five Flower Lake of China
+(d) Plitvice Lake of Croatia
+@ans (d)
+@note **Plitvice Lakes** (Croatia) were listed in **1979** in their own name. **Five Flower Lake** lies inside the **Jiuzhaigou** valley (listed 1992), and the **Boiling Lake** inside **Morne Trois Pitons** National Park (listed 1997). So they are protected as parts of larger sites, but only Plitvice is listed under the lake's own name.
+@end
+
+**Reindeer Lake**, **Athabasca**, **Great Slave** and **Great Bear** are all in **Canada**. **Lake Urmia** (Iran) is a shrinking salt lake. **Laguna Colorada** (Red Lagoon, Bolivia) gets its colour from algae.
+
+@section 11.4 | Waterfalls
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Which of the following waterfalls is located in Venezuela?
+(a) Victoria Falls
+(b) Angel Falls
+(c) Alfred Creek Falls
+(d) Tugela Falls
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to 'Victoria Falls in Africa', which of the following statement/s is/are correct?
+1. It is located on the border of Zambia and Mozambique.
+2. It is situated on Zambezi River.
+Select the correct answer using the code given below:
+Code :
+(a) Only 1
+(b) Neither 1 nor 2
+(c) Only 2
+(d) Both 1 and 2
+@ans (c)
+@end
+
+@table
+Waterfall | River / place | Note
+Angel Falls (Kerepakupai Meru) | Venezuela (Auyan-tepui) | World's **highest** uninterrupted fall (about 979 m)
+Tugela Falls | South Africa (Drakensberg) | Second highest (about 948 m)
+Victoria Falls ("Mosi-oa-Tunya") | **Zambezi**; **Zambia-Zimbabwe** border | Largest sheet of falling water; UNESCO site
+Niagara Falls | Niagara River; USA-Canada | Between Lakes Erie and Ontario
+Iguazu (Iguacu) Falls | Argentina-Brazil | Widest system of falls
+Kaieteur Falls | Guyana | Very high single drop
+Khone Falls | Mekong; Laos | Widest by width
+@end
+
+@heatmap
+
+@pattern
+Island and lake questions have moved from **records** (largest island, deepest lake) in the 1990s-2000s to **statement questions** in 2021-2023 (Socotra, Victoria Falls, Lake Victoria, Indonesia's sequence, Polynesia). Learn a few extra facts for each famous island or lake: its country, its ocean, whether it lies in a rift, and its UNESCO status.
+@end
+
+@next
+Likely next angles: the **Chagos-Mauritius** transfer, **Greenland** and US interest, the **Caspian Sea** shrinking, **Lake Chad** drying, **Great Lakes** water levels, **Tuvalu**'s sinking-island treaty with Australia (Falepili Union), and **Lake Titicaca** at record lows.
+@end

@@ -1,0 +1,782 @@
+@chapter 19 | Farming Practices, Horticulture and Livestock
+
+@intro
+This chapter collects the "agriculture miscellaneous" items of the UPPSC papers: shifting cultivation, seeds, crop diseases and weeds, fibre and minor crops, horticulture (where India is second only to China), the many statement questions of the 2013 Lower Subordinate paper, and **livestock**. India is the world's **largest milk producer** (about a quarter of world output), and **Uttar Pradesh** is the largest milk-producing state and has the most buffaloes. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 19.1 | Shifting Cultivation
+
+@pyq U.P.P.C.S. (Pre) 2005
+Jhuming is practised mostly in
+(a) Assam
+(b) Andhra Pradesh
+(c) Nagaland
+(d) Madhya Pradesh
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Jhum cultivation is a problem in the hilly areas of –
+(a) Assam and Bihar
+(b) Bihar and Odisha
+(c) Odisha and Madhya Pradesh
+(d) Maharashtra and U.P.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List-I with List-II and select the correct answer by using the codes given below:
+@match
+List-I | List-II
+A. Western Ghat | 1. Dahiya
+B. South-east Rajasthan | 2. Waltre
+C. North-east India | 3. Jhum
+D. Madhya Pradesh and Chhattisgarh | 4. Kumari
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 3 2 1 4
+@ans (a)
+@end
+
+**Shifting cultivation** (slash-and-burn) is practised by hill tribes: a patch of forest is cleared and burnt, cropped for two or three years and then left to recover. The **jhum cycle** in the north-east has shortened from 15-20 years to 3-5 years, which causes soil erosion and forest loss. **Nagaland** has the largest jhum area. The regional names are listed in Chapter 5.
+
+@section 19.2 | Seeds, Diseases and Weeds
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following events of seed multiplication stages and arrange these in correct chronological order from earliest stage to last.
+I. Breeder seed
+II. Foundation seed
+III. Certified seed
+IV. Nucleus seed
+Select the correct answer from the code given below :
+Code :
+(a) III, I, IV, II
+(b) II, III, I, IV
+(c) II, IV, III, I
+(d) IV, I, II, III
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Colour of the tag used on certified seed bags is :
+(a) blue
+(b) purple
+(c) white
+(d) golden yellow
+@ans (a)
+@end
+
+@table
+Seed class | Produced by | Tag colour
+Nucleus seed | Original breeder (pure) | No tag
+Breeder seed | Research institute or agricultural university | Golden yellow
+Foundation seed | State seed corporations, under certification | White
+Certified seed | Seed growers, sold to farmers | Blue (azure)
+Truthfully labelled seed | Producer's own guarantee | Opal green
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List - I (Name of the Crop) | List- II (Name of Disease)
+A. Sugarcane | 1. Late Blight
+B. Paddy | 2. Red Rot
+C. Arhar | 3. Khaira
+D. Potato | 4. Wilt
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 3 2 1 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following is not correctly matched ?
+Crop - Disease
+(a) Rice - Green hair
+(b) Bajra - Ergot
+(c) Pea - Powdery mildew
+(d) Gram - Wilt
+@ans (a)
+@end
+
+**Green ear** disease (downy mildew, where the earhead turns into leafy green growth) and **ergot** both attack **bajra**, not rice. **Late blight** of potato (*Phytophthora infestans*) caused the Irish famine of 1845-49.
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which one of the following is NOT correctly matched?
+Crop - Weed
+(a) Wheat - Phalaris minor
+(b) Paddy - Bathua
+(c) Pea - Piyazi
+(d) Berseem - Kasni
+@ans (b)
+@end
+
+**Bathua** (*Chenopodium album*) is a weed of **rabi** crops (wheat, pea, mustard), not of flooded paddy. **Phalaris minor** (gulli danda) is the worst weed of wheat in the rice-wheat belt.
+
+@section 19.3 | Fibre Crops: Jute and Cotton
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The Jute Industry in India is mainly concentrated in
+(a) Kerala
+(b) Orissa
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Largest area under jute cultivation in India is in –
+(a) Assam
+(b) West Bengal
+(c) Bihar
+(d) Meghalaya
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A) : India is the largest producer of Jute in the world.
+Reason (R) : India's Jute production increased due to Yellow Revolution.
+Select the correct answer using the code given below:
+Code :
+(a) (A) is false but (R) is true.
+(b) Both (A) and (R) are true but (R) is not correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (*)
+@note the intended answer was (c): India was long the world's largest jute producer, and the **Yellow Revolution** concerns **oilseeds**, so (R) is false. FAO data show **Bangladesh** ahead of India since 2020, so in present terms both statements are false and no option fits.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Jute is an indigenous plant of India.
+Reason (R): Jute is a Kharif crop sown from February to June and harvested from July to October.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (c)
+@end
+
+**Jute**, the "golden fibre", needs hot, humid weather, over 150 cm of rain and the fresh alluvium of the **Ganga-Brahmaputra delta**. **West Bengal** grows about three-quarters of India's jute, followed by Bihar and Assam. Kolkata's **Hooghly** belt holds most of the jute mills.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following group belongs to fibre crop?
+(a) Patsan, Gram, Linseed
+(b) Lentil, Oat, Dhaicha
+(c) Cotton, Jute, Sunhemp
+(d) Jute, Wheat, Cotton
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements with reference to cotton crops:
+1. Cotton is mostly a Kharif crop.
+2. Cotton crop requires moderate amounts of rainfall varying between 50–75 cm annually.
+Which of the above statements is/are correct?
+(a) Both 1 and 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Only 2
+@ans (a)
+@end
+
+@section 19.4 | Maize, Saffron and Cropping Systems
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following crops is grown throughout the year?
+(a) Black gram
+(b) Wheat
+(c) Mustard
+(d) Maize
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2007
+Maize crop can be grown during
+@ans Throughout the year
+@end
+
+@pyq U.P. P.C.S. (mains) 2014
+Which of the following is a C4 plants?
+(a) Rice
+(b) Soybean
+(c) Maize
+(d) Wheat
+@ans (c)
+@end
+
+**C4 plants** (maize, sugarcane, sorghum, bajra) fix carbon dioxide first into a four-carbon acid. This makes them efficient in heat and strong light and lets them use water and nitrogen better than **C3 plants** such as rice, wheat and soybean.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Arrange the following states of India in descending order of their maize production and select the correct answer from the code given below –
+1. Andhra Pradesh
+2. Bihar
+3. Karnataka
+4. Rajasthan
+Code :
+(a) 3, 2, 4, 1
+(b) 1, 2, 3, 4
+(c) 4, 3, 1, 2
+(d) 1, 3, 4, 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Shaktiman-I and Shaktiman-II are the genetically modified crops of :
+(a) Cotton
+(b) Rice
+(c) Maize
+(d) Wheat
+@ans (c)
+@end
+
+**Shaktiman-1** and **Shaktiman-2** are **quality protein maize (QPM)** hybrids rich in lysine and tryptophan, bred conventionally using the **opaque-2** gene. The word "genetically modified" in the question is loose; maize is still the answer.
+
+@pyq U.P.P.C.S. (Pre) 1990
+Commercial production of Saffron takes place in which of the following states?
+(a) Jammu and Kashmir
+(b) Himachal Pradesh
+(c) Punjab
+(d) Kerala
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+The largest quantity of saffron is produced in
+(a) North East Hills
+(b) Kashmir
+(c) Kerala
+(d) Goa
+@ans (b)
+@end
+
+**Kashmir saffron** comes mainly from the karewa plateau of **Pampore** (Pulwama), the "saffron town", and has a **GI tag** (2020). **Iran** produces most of the world's saffron.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which of the following crop cycle is considered best for eastern U.P?
+(a) Paddy – Maize – Wheat
+(b) Maize – Potato – Moong
+(c) Maize – Toria – wheat
+(d) Cotton – wheat – Moong
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following crops are grown mostly under subsistence farming ?
+(a) Coarse Cereals and Rice
+(b) Cotton and Tobacco
+(c) Tea and Coffee
+(d) Vegetables and Fruits
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of the following is a cereal grain product :
+(a) Oatmeal
+(b) Sago
+(c) Soya flour
+(d) Arrowroot
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2016; U.P.P.C.S. (Mains) 2016
+Which one of the following states of India has been declared the first bio or fully organic state of the country?
+(a) Uttarakhand
+(b) Bihar
+(c) Sikkim
+(d) Chhattisgarh
+@ans (c)
+@end
+
+**Sikkim** was declared India's first fully organic state in **January 2016**. It won the FAO-backed **Future Policy Gold Award** in 2018.
+
+@section 19.5 | Leading States and Crop Matching
+
+@pyq U.P.P.C.S (Mains) 2011; U.P.P.C.S. (Spl) (Pre) 2008
+Which one of the following pairs is not correctly matched?
+Crop - Largest producer
+(a) Potato - Uttar Pradesh
+(b) Coconut - Kerala
+(c) Banana - Maharashtra
+(d) Tobacco - Andhra Pradesh
+@ans (c)
+@note when the question was set, **Tamil Nadu** led in banana, so (c) was the wrong pair. Using recent data, the source book gives "(b) & (d)": coconut is now led by **Karnataka** and tobacco by **Gujarat**, while Maharashtra now leads in banana.
+@end
+
+@one U.P.P.S.C. (R.I.) 2014
+In which one of the state of India was the potato production maximum in 2013?
+@ans Uttar Pradesh
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+The state of India, which has the largest share in foodgrain production, is –
+(a) Punjab
+(b) Haryana
+(c) Maharashtra
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+UP link: **Uttar Pradesh** grows about **18%** of India's food grains (2024-25), more than any other state. It also leads in **potato** (Agra, Firozabad, Farrukhabad, Kannauj), **sugarcane**, **wheat** and **milk**.
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following is not correctly matched?
+Agricultural Produce - State (2015)
+(a) The largest producer of coffee - Karnataka
+(b) The largest producer of potato - Madhya Pradesh
+(c) The largest producer of cotton - Gujarat
+(d) The largest producer of wheat - Uttar Pradesh
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2008
+Gujarat is among the leading producers of which of the following crop?
+(a) Wheat
+(b) Sugarcane
+(c) Bajra
+(d) Coconut
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Match List-I and List-II and select the correct answer from the codes given below the lists :
+@match
+List-I (Crop) | List-II (State)
+A. Groundnut | 1. Andhra Pradesh
+B. Mustard | 2. Rajasthan
+C. Soyabean | 3. Madhya Pradesh
+D. Coconut | 4. Kerala
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 2 1 3 4
+(c) 1 2 3 4
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O (Mains) 2014; U.P.U.D.A./L.D.A. (Pre) 2010
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List- I | List- II
+A. Jute | 1. Assam
+B. Tea | 2. Kerala
+C. Rubber | 3. West Bengal
+D. Sugarcane | 4. Uttar Pradesh
+@endmatch
+Code : A B C D
+(a) 3 1 2 4
+(b) 4 3 1 2
+(c) 2 4 3 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Match List-I with List-II and select the correct answer from the codes given below the list:
+@match
+List-I (Crop/Plantation) | List-II (Largest producer state)
+A. Jute | 1. Kerala
+B. Tea | 2. Uttar Pradesh
+C. Sugarcane | 3. Assam
+D. Rubber | 4. West Bengal
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 1 2 4
+(c) 2 4 3 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List-I (Crop) | List-II (Season)
+A. Sunflower | 1. Kharif (rainy)
+B. Muskmelon | 2. Zaid (summer)
+C. Cotton | 3. Rabi (winter)
+D. Linseed | 4. All the season
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 4 2 1 3
+(c) 3 4 2 1
+(d) 2 3 4 1
+@ans (b)
+@note the source prints code (b) as "4 2 1 2", a misprint for 4 2 1 3 (sunflower all seasons, muskmelon zaid, cotton kharif, linseed rabi).
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following is NOT correctly matched?
+(Crop) - (Variety)
+(a) Mustard - Varuna
+(b) Pea - Rachna
+(c) Linseed - Neelam
+(d) Paddy - Radhey
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which one of the following is not correctly matched?
+Crop - Variety
+(a) Paddy - Govind
+(b) Wheat - Shusk Samrat
+(c) Arhar - Paras
+(d) Pea - Prakash
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The best Potato variety for processing purposes is
+(a) Kufri Ashoka
+(b) Kufri Badshah
+(c) Kufri Chipsona-2
+(d) Kufri Sutlej
+@ans (c)
+@end
+
+The **Kufri** potatoes come from the **Central Potato Research Institute, Shimla** (named after its Kufri farm). **Kufri Chipsona** varieties have low sugar and high dry matter, suited to chips and flakes.
+
+@section 19.6 | Horticulture: Fruits and Vegetables
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+India is the largest producer of which of the following fruits in the world as per the Annual Report of the Department of Agriculture Cooperation and Farmers Welfare, Government of India, 2020-21?
+1. Grapes
+2. Mango
+3. Orange
+4. Papaya
+Select the correct answer using the code given below:
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 2 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+India's rank in vegetable production is –
+(a) First
+(b) Second
+(c) Fourth
+(d) Fifth
+@ans (b)
+@end
+
+@one U.P. Lower Sub. (Pre) 2015
+Which country produces maximum vegetables in the world?
+@ans China
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+India's contribution to the world's fruit production is–
+(a) 20%
+(b) 25%
+(c) 10%
+(d) 15%
+@ans (d)
+@end
+
+India is the **second largest producer of fruits and vegetables** after China (about 11-14% of world fruit). It is the largest producer of **banana, mango, papaya** and **lemon-lime**, as well as of ginger and okra.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which fruit ranks first in India in terms of production?
+(a) Papaya
+(b) Mango
+(c) Guava
+(d) Banana
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The maximum production of Banana is obtained from the state of
+(a) Tamil Nadu
+(b) Maharashtra
+(c) Uttar Pradesh
+(d) Bihar
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O (Mains) 2014
+National Research Centre for Banana is located at
+(a) Trichy
+(b) Bhusawal
+(c) Saharanpur
+(d) Pune
+@ans (a)
+@end
+
+The **ICAR-National Research Centre for Banana** was set up at **Tiruchirappalli** in **1993**. **Jalgaon** (with Bhusawal) in Maharashtra is the "banana city".
+
+@pyq U.P.P.C.S. (Pre) 2007
+Seedless variety of mango is –
+(a) Ratna
+(b) Bombay Green
+(c) Krishan Bhog
+(d) Sindhu
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013, 2016
+Which one of the following varieties has been developed as a result of a cross between Dasheri and of mango Neelam?
+(a) Alphanso
+(b) Amrapali
+(c) Chausa
+(d) Mallika
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which among the following variety of mango is a regular crop variety?
+(a) Chausa
+(b) Langra
+(c) Dasheri-1
+(d) None of the above
+@ans (d)
+@end
+
+Most traditional mangoes bear heavily one year and lightly the next (**alternate bearing**). **Amrapali** (Dasheri × Neelum, IARI 1971) is dwarf and **regular-bearing**; **Mallika** is Neelum × Dasheri. Chausa, Langra and Dasheri are irregular bearers.
+
+UP link: UP is India's largest **mango** producer. **Malihabad** (Lucknow) is famous for **Dasheri** (GI), **Varanasi** for **Langra**, and **Hardoi-Saharanpur** for **Chausa**. The **Central Institute for Subtropical Horticulture** is at **Rehmankhera, Lucknow**.
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Lalit is the developed variety of which of the following fruits ?
+(a) Mango
+(b) Guava
+(c) Banana
+(d) Strawberry
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+'Kanchan' is an improved variety of
+(a) Grape
+(b) Indian gooseberry
+(c) Guava
+(d) Mango
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+"Ganga Varanasi" is a variety of –
+(a) Guava
+(b) Aonla
+(c) Mango
+(d) Muskmelon
+@ans (*)
+@note no variety called "Ganga Varanasi" is listed for these crops. The nearest names are **Banarasi** (an aonla variety), **Kashi Madhu** (muskmelon) and **Kashi Ganga** (bottle gourd).
+@end
+
+UP link: **Lalit** and **Shweta** guavas come from CISH, **Lucknow**; **Allahabad Safeda** is UP's classic guava. **Pratapgarh** grows the most **aonla** (amla) in India; **Kanchan**, **Krishna** and **Banarasi** aonla varieties came from Ayodhya's university.
+
+@pyq U.P. P.C.S. (Pre) 2018
+The Sultana, Gulabi and Kali Champa varieties in different regions of India are varieties of which of the following major fruits?
+(a) Custard Apple
+(b) Orange
+(c) Guava
+(d) Grapes
+@ans (d)
+@end
+
+@section 19.7 | Statement Questions (U.P. Lower Subordinate 2013)
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) The fibre length of cotton is 1-5 cm.
+(b) Boron is a micro nutrient.
+(c) Recommended dose of fertilizer (kg/ha) for Pusa Basmati Rice is N(120), P(60), K(60).
+(d) Edible part of apple is mesocarp.
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) Storage quality of apple is reduced due to the deficiency of Calcium.
+(b) West Bengal is the largest vegetable producing state in India.
+(c) Linseed oilseed crop can be grown throughout the year.
+(d) Third generation pesticide was first proposed by C.M. Williams.
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) Bihar State is the highest producer of lac in India.
+(b) Planning Commission has divided India into Agro Climatic Regions.
+(c) Kunchikal waterfall is located in the Karnataka State of India.
+(d) Andhra Pradesh is the largest producer of rice in India.
+@ans (a) & (d)
+@end
+
+**Lac** is produced mainly in **Jharkhand** (since 2000; it was in Bihar before), followed by Chhattisgarh and Madhya Pradesh. The **Indian Institute of Natural Resins and Gums** is at **Ranchi**.
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) Dr. B.P. Pal was the first Director-General of I.C.A.R.
+(b) India's rank in rice production in the world is second.
+(c) Soyabean seed contains 20% oil and 40% Protein.
+(d) 'Aman' rice is sown in March - April.
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) The pulse crop which does not fix nitrogen from the atmosphere is Rajma.
+(b) PBW-343 and DBW-17 are varieties of wheat.
+(c) Khaira disease of rice can be controlled by spraying zinc sulphate.
+(d) UPAS-120 is a variety of gram.
+@ans (a) & (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not true ?
+(a) Kaushal is a variety of Paddy.
+(b) First Agricultural University in India was established in the year 1960.
+(c) Kerala State is the highest producer of Coconut.
+(d) Largest production of pulses is obtained from the State of Rajasthan.
+@ans (*)
+@note (a) is untrue (Kaushal is a groundnut) and so is (d) (Madhya Pradesh leads in pulses). Since 2023-24, (c) is untrue as well (Karnataka now leads in coconut). More than one option fits.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+India is the largest producer of
+(a) Coffee
+(b) Sugarcane
+(c) Oilseeds
+(d) Tobacco
+@ans (*)
+@note India leads in none of these. In FAO's 2024 data it is **second** in sugarcane (after Brazil) and in tobacco (after China), about seventh in coffee, and not first in oilseeds.
+@end
+
+@section 19.8 | Livestock, Milk and Fisheries
+
+@pyq U.P.P.C.S. (Mains) 2005
+Stock Farming is –
+(a) Growing of 2-3 crops at the same time
+(b) Breeding of animals
+(c) Crop rotation
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P.P.C.S. (Mains) 2006
+About one-third of India's cattle population is found in the three states, these are :
+(a) Bihar, Maharashtra, and Uttar Pradesh
+(b) Madhya Pradesh, West Bengal, and Uttar Pradesh
+(c) Punjab, Orissa, and Rajasthan
+(d) Andhra Pradesh, Karnataka, and Rajasthan
+@ans (*)
+@note the 20th Livestock Census (2019) puts the top three states for cattle as **West Bengal (1.91 crore), Uttar Pradesh (1.90 crore) and Madhya Pradesh (1.88 crore)**, together about 29% of India's 19.3 crore cattle, which fits option (b) today.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Which of the following statements are correct ?
+Select the correct answer using the code given below:
+1. The largest number of cattle are found in Madhya Pradesh
+2. The largest number of Buffaloes in India are found in Uttar Pradesh
+3. The largest number of sheep in India are found in Rajasthan
+4. Uttar Pradesh in India is the largest producer of cow milk.
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (*)
+@note the census then in use supported (b). By the 2019 census, only statement 2 holds firmly: **UP** has the most buffaloes; **West Bengal** has the most cattle; **Telangana** has the most sheep.
+@end
+
+@table
+Livestock (20th Census, 2019) | Leading state
+Cattle | West Bengal, then UP, MP
+Buffalo | Uttar Pradesh, then Rajasthan, Gujarat
+Sheep | Telangana, then Andhra Pradesh, Karnataka
+Goat | Rajasthan, then West Bengal, UP
+Pig | Assam
+Poultry | Tamil Nadu, then Andhra Pradesh, Telangana
+Total livestock | Uttar Pradesh
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The cow breed known for high milk yield is
+(a) Gangotri
+(b) Haryana
+(c) Sahiwal
+(d) Tharparkar
+@ans (c)
+@end
+
+@table
+Breed type | Cattle breeds | Buffalo breeds
+Milch | Sahiwal, Gir, Red Sindhi, Rathi | Murrah, Nili-Ravi, Jaffarabadi, Mehsana
+Draught | Nagori, Amrit Mahal, Hallikar, Kangayam, Ponwar (UP) | -
+Dual purpose | Hariana, Tharparkar, Kankrej, Ongole, Gangatiri (UP-Bihar) | Bhadawari (UP-MP)
+@end
+
+UP link: **Gangatiri** (eastern UP and Bihar, along the Ganga) and **Ponwar** (Pilibhit-Lakhimpur) are UP's native cattle; **Bhadawari** buffalo (Agra-Etawah ravines) gives the richest milk fat. The 2004 option "Gangotri" refers to the Gangatiri breed.
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+India's place in milk production in the world is-
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following states recorded the highest milk production in 2011-12 ?
+(a) Uttar Pradesh
+(b) Rajasthan
+(c) Gujarat
+(d) Punjab
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+White Revolution is related to –
+(a) Egg production
+(b) Milk production
+(c) Wheat production
+(d) Fish production
+@ans (b)
+@end
+
+**Operation Flood** (1970-96) of the **National Dairy Development Board**, led by **Dr Verghese Kurien** on the **Amul (Anand) cooperative model**, made India the largest milk producer (since 1998). In 2024-25 **UP** (about 16%) and **Rajasthan** (about 15%) led, followed by Madhya Pradesh, Gujarat and Maharashtra. **National Milk Day** (26 November) marks Kurien's birthday.
+
+@pyq U.P.P.C.S. (Mains) 2007
+Consider the following statements:
+Assertion (A) : West Bengal is the leading producer of fish in India.
+Reason (R) : West Bengal has well-developed fishing industry along the sea coast.
+Select the correct answer from the code given below :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (*)
+@note the intended answer was (c): West Bengal then led in fish, but about 90% of its catch is from **inland** waters, not the sea. Today **Andhra Pradesh** is the largest fish producer (about a third of India's catch), so (A) is also false.
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Identify the correct sequence of the following states in terms of fish production in descending order:
+(a) Gujarat, Kerala, Andhra Pradesh, Tamil Nadu
+(b) Kerala, Gujarat, Andhra Pradesh, Tamil Nadu
+(c) Andhra Pradesh, Gujarat, Kerala, Tamil Nadu
+(d) Tamil Nadu, Andhra Pradesh, Gujarat, Kerala.
+@ans (*)
+@note (c) was correct at the time. In 2022-23 the order was Andhra Pradesh, West Bengal, Karnataka, Odisha, Kerala, **Uttar Pradesh**, Gujarat, Bihar and Tamil Nadu, so Kerala is now ahead of Gujarat.
+@end
+
+UP link: UP is now among the leading **inland fish** producers (about 9 lakh tonnes, sixth in India), based on ponds, reservoirs and the Ganga system. India is the world's **second largest fish producer**, and second in aquaculture as well.
+
+@heatmap
+
+@pattern
+This chapter is the widest in range and the most affected by changing data. Recent statistics have overtaken about a dozen keys (coconut, tobacco, banana, jute, cattle, sheep, fish), each with a note. The stable items are concepts: seed classes and tag colours, C4 plants, shifting-cultivation names, crop-disease pairs and the White Revolution. UPPSC's 2013 Lower Subordinate paper alone contributed six "which statement is not correct" items. UP's own facts are worth learning: largest milk, buffalo, mango and aonla producer, and the largest share of food grains.
+@end

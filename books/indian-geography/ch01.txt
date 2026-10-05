@@ -1,0 +1,417 @@
+@chapter 1 | India: Location, Extent and Standard Time
+@unit UNIT I · INDIA: POSITION, LAND AND COAST
+
+@intro
+India lies wholly in the **Northern and Eastern Hemispheres**. Its mainland stretches from **8°4' N to 37°6' N** and from **68°7' E to 97°25' E**; with the islands the southern limit falls to **6°45' N** at Indira Point. With about **32.87 lakh sq km**, India is the **seventh largest** country and holds about **2.4%** of the world's land area. The **Tropic of Cancer** cuts the country almost in half, and the **82°30' E** meridian gives Indian Standard Time. This chapter covers size and extent, the Tropic of Cancer, longitude and time, the extreme points, the land neighbours and the boundary lines. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 1.1 | Size, Area and Latitudinal Extent
+
+@pyq U.P.P.C.S. (Pre) 2022
+With reference to India, which of the following statement(s) is/are correct?
+1. India is the sixth largest country in the world.
+2. India occupies about 2.4% of the total area of the world.
+3. Tropic of Cancer passes through the middle of the country, dividing it into two latitudinal halves.
+4. India lies completely in tropic zone.
+Select the correct answer from the code given below:
+Code :
+(a) 2 and 4
+(b) 1 and 2
+(c) 2 and 3
+(d) 3 and 4
+@ans (c)
+@end
+
+India is the **seventh** largest country, after Russia, Canada, the USA, China, Brazil and Australia, so statement 1 fails. It holds about **2.4%** of the world's land area. The **Tropic of Cancer (23°30' N)** runs roughly through the middle of the latitudinal span, so statement 3 holds. Statement 4 fails because the part north of the Tropic lies in the **sub-tropical and temperate** belt, not the tropics.
+
+@table
+Feature | Value
+Area | 32,87,263 sq km (7th in the world)
+Share of world land area | About 2.4%
+Latitudinal extent (mainland) | 8°4' N to 37°6' N
+Latitudinal extent (with islands) | 6°45' N (Indira Point) to 37°6' N
+Longitudinal extent | 68°7' E to 97°25' E
+North-south length | About 3,214 km
+East-west width | About 2,933 km
+Land boundary | About 15,106.7 km
+Standard meridian | 82°30' E
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which of the following statements are true about India? Use the code given below to select the correct answer:
+1. India is the fifth largest country in the world.
+2. It occupies about 2.4 percent of the total area of the lithosphere.
+3. Whole of India lies in the torrid zone.
+4. 82°30' East Meridian and hemisphere is used to determine Indian Standard Time
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1 and 3
+(d) 2 and 4
+@ans (d)
+@end
+
+The same two traps return: rank (seventh, not fifth) and the torrid zone. The **torrid zone** lies between the two tropics, so only peninsular India south of 23°30' N is inside it. Statements 2 and 4 are the standard facts.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following statements about India is incorrect?
+(a) India is the 7th largest country in the world
+(b) India is the second populous country of the world
+(c) Its land boundary extends for around 15,200 km
+(d) The earliest sunrise is seen in its Mizoram State
+@ans (b & d)
+@note the source key accepts both (b) and (d). In 2016, (b) was true and only (d) was wrong. UN population estimates show India passing China in April 2023 (UNFPA *State of World Population 2023*), so today (b) is also incorrect.
+@end
+
+India's first sunrise is seen at **Dong** in the Anjaw district of **Arunachal Pradesh**, the easternmost inhabited point. Mizoram is a southern state of the north-east and sees the sun later. The land boundary is about **15,106.7 km**, which rounds to "around 15,200 km".
+
+@trap
+India is the **7th** largest by area but the **most populous** since 2023. Do not carry the old "second most populous" fact into a 2026 answer. Earliest sunrise means **Arunachal Pradesh** (Dong), not Mizoram or Assam.
+@end
+
+@section 1.2 | The Tropic of Cancer
+
+@pyq U.P.P.C.S. (Pre) 1990, 2017
+The Tropic of cancer passes through which of the following states? Select the correct answer from the code given below:
+1. Gujarat
+2. Chhattisgarh
+3. Uttar Pradesh
+4. Jharkhand
+Code :
+(a) 1, 2 and 4
+(b) 1, 2, 3 and 4
+(c) 1, 3 and 4
+(d) 2, 3 and 4
+@ans (a)
+@end
+
+The Tropic of Cancer crosses **eight states**. From west to east: **Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram**. Uttar Pradesh lies wholly north of it. Its southern edge in Sonbhadra reaches only about 23°52' N.
+
+@table
+Order (west to east) | State | Well-known place near the line
+1 | Gujarat | Gandhinagar, Kutch (Rann)
+2 | Rajasthan | Banswara (southern tip)
+3 | Madhya Pradesh | Ujjain, Bhopal, Jabalpur
+4 | Chhattisgarh | Ambikapur (Surguja)
+5 | Jharkhand | Ranchi
+6 | West Bengal | Krishnanagar
+7 | Tripura | Udaipur (near Agartala)
+8 | Mizoram | Champhai
+@end
+
+UP link: no part of Uttar Pradesh touches the Tropic of Cancer. UPPSC uses this as a distractor in its own state's exam, so UP is the first option to strike out.
+
+@one
+Tripura, Mizoram, West Bengal and Manipur— through which of these states does the Tropic of Cancer not pass?
+@ans Manipur
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following Indian state lies north of the tropic of Cancer ?
+(a) Jharkhand
+(b) Manipur
+(c) Mizoram
+(d) Tripura
+@ans (b)
+@end
+
+In the north-east the line crosses only **Tripura and Mizoram**. **Manipur** (about 23°50' N to 25°41' N) lies wholly to its north, as do Assam, Meghalaya, Nagaland and Arunachal Pradesh.
+
+@pyq U.P.P.C.S. (Pre) 1999; U.P.P.S.C. (GIC) 2010; U.P. Lower Sub. (Pre) 2002
+Which one of the following towns is nearest to the Tropic of Cancer :
+(a) Agartala
+(b) Gandhinagar
+(c) Jabalpur
+(d) Ujjain
+@ans (b)
+@end
+
+The Tropic is at about **23°26' N**. Gandhinagar (about 23°13' N) is the closest. Jabalpur and Ujjain are both near 23°10' N, a few minutes further south. Agartala (23°50' N) lies north of the line by a wider margin.
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which of the following cities is nearest to the Tropic of Cancer?
+(a) Jabalpur
+(b) Ahmedabad
+(c) Ujjain
+(d) Varanasi
+@ans (a)
+@note Jabalpur (about 23°10' 50" N) and Ujjain (about 23°10' 30" N) differ by well under one minute of latitude. The key follows Jabalpur. Ahmedabad (23°02' N) and Varanasi (25°19' N) are clearly further away.
+@end
+
+@table
+City | Latitude (approx.) | Distance from 23°26' N
+Gandhinagar | 23°13' N | 13'
+Jabalpur | 23°11' N | 15'
+Ujjain | 23°10' N | 16'
+Ahmedabad | 23°02' N | 24'
+Agartala | 23°50' N | 24' (north)
+Ranchi | 23°21' N | 5'
+Varanasi | 25°19' N | 1°53' (north)
+@end
+
+@trap
+Two PYQs ask "nearest to the Tropic" with different option sets. In the first, Gandhinagar wins. In the second, Gandhinagar is absent and the choice is between Jabalpur and Ujjain. Ranchi, not in either list, is closer than all of them, so a new option set can change the answer again.
+@end
+
+@pyq U.P.R.O./A.R.O. (Re-exam) (Pre.) 2016
+Which of the following rivers of India crosses the tropic of cancer twice?
+(a) Mahi
+(b) Chambal
+(c) Narmada
+(d) None of the above
+@ans (a)
+@end
+
+The **Mahi** rises in the Vindhyas near Dhar in Madhya Pradesh, south of the Tropic. It flows north into Rajasthan (Banswara), crossing the line, then turns south-west through Gujarat to the **Gulf of Khambhat**, crossing it again. The Narmada flows west wholly south of the Tropic, and the Chambal flows north-east wholly to its north.
+
+@next
+Mahi is the only major Indian river cut twice by the Tropic. A follow-up could ask which river crosses the Tropic of Cancer **and** the Equator twice: the **Congo** in Africa crosses the Equator twice.
+@end
+
+@section 1.3 | Longitude, Indian Standard Time and Time Calculations
+
+The Earth turns 360° in 24 hours, so **1° of longitude = 4 minutes** and **15° = 1 hour**. Places to the **east** see the sun earlier and are **ahead** in time. India's extent of about 29° of longitude gives a gap of nearly **2 hours** in local time between Gujarat and Arunachal Pradesh. A single standard meridian, **82°30' E**, is used for the whole country. It is 5 hours 30 minutes ahead of Greenwich (GMT + 5:30).
+
+@pyq U.P.P.C.S. (Mains) 2002
+When it is midnight at IST meridian, a place observes 6 A.M. The meridian on which the said place is located is-
+(a) 7°31' E
+(b) 172°30' E
+(c) 7°30' E
+(d) 127°30' W
+@ans (b)
+@end
+
+The place is 6 hours ahead, so it lies east of India by 6 × 15° = **90°**. Its meridian is 82°30' + 90° = **172°30' E**. The options 7°30' E and 7°31' E are traps for anyone who subtracts 75° (5 hours) instead of adding.
+
+@pyq U.P.P.C.S. (Pre) 1992
+How many hours of time difference will be there between the most western village of Gujarat and the most eastern village of Arunachal Pradesh, Walong ?
+(a) 1 hour
+(b) 2 hour
+(c) 3 hour
+(d) 1/2 hour
+@ans (b)
+@end
+
+Guhar Moti in Kutch (about 68°7' E) and the Walong-Dong area (about 97° E) are about **29°** apart. At 4 minutes per degree this is about **116 minutes**, which rounds to **2 hours**.
+
+@pyq U.P.P.C.S.(Pre) 2001
+When it is noon at IST meridian, what would be the local time at 120° East longitude –
+(a) 09.30
+(b) 14.30
+(c) 17.30
+(d) 20.00
+@ans (b)
+@end
+
+The gap is 120° − 82°30' = **37°30'**, which is 37.5 × 4 = **150 minutes**, or 2 hours 30 minutes. The place is east of India, so add: 12:00 + 2:30 = **14:30**.
+
+@table
+Step | Rule
+1. Find the gap | Subtract the two longitudes (add if one is east and one is west)
+2. Convert | 1° = 4 minutes, 15° = 1 hour, 1' = 4 seconds
+3. Direction | East = ahead (add time); West = behind (subtract time)
+4. Check | IST is GMT + 5:30 because 82°30' ÷ 15° = 5.5 hours
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The Indian Standard Time Meridian does not pass through-
+(a) Andhra Pradesh
+(b) Chhattisgarh
+(c) Maharashtra
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+The 82°30' E meridian crosses **five states**: **Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh**. It leaves the coast near Kakinada, Andhra Pradesh. Maharashtra lies wholly west of it.
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P. Lower Sub. (Pre) 2013
+Which of the following longitudes is known as "Standard Meridian" in India?
+(a) 87° 30' E
+(b) 85° 30' E
+(c) 84° 30' E
+(d) 82° 30' E
+@ans (d)
+@end
+
+UP link: the standard meridian passes through **Mirzapur**, close to **Prayagraj**. The reference clock was long kept at the observatory at **Naini (Prayagraj)**. UPPSC asks this one-liner as "IST is taken from which city?".
+
+@one
+The Indian Standard Time is taken from which city
+@ans Near Prayagraj (Mirzapur)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+If the Sun rises at TIRAP in Arunachal Pradesh at 5.00 a.m. (IST) then what time (IST) will the Sun rise in Kandla in Gujarat?
+(a) About 5.30 a.m.
+(b) About 6.00 a.m.
+(c) About 7.00 a.m.
+(d) About 7.30 a.m.
+@ans (c)
+@end
+
+Tirap (about 95°30' E) and Kandla (about 70°10' E) are about 25° apart, giving a gap of about 1 hour 40 minutes. On a single clock (IST), Kandla sees the sun almost two hours later. The nearest option is **about 7.00 a.m.**
+
+@trap
+The two-hour gap between the north-east and Gujarat is the reason for the long-running demand for a separate time zone (**"Chai Bagan time"** in Assam's tea gardens, about one hour ahead of IST). India still has one official time zone. Do not mark "India has two time zones".
+@end
+
+@next
+Expect a statement question on the **IST meridian**: five states (UP, MP, Chhattisgarh, Odisha, Andhra Pradesh), Mirzapur, GMT + 5:30. CSIR-NPL, New Delhi, keeps the official time for India.
+@end
+
+@section 1.4 | Extreme Points of India
+
+@pyq U.P. Lower Sub. (Pre) 2002
+The southern most point of India is-
+(a) Kanyakumari
+(b) Rameshwaram
+(c) Indira Point
+(d) Point Calimere
+@ans (c)
+@end
+
+**Indira Point** (earlier Pygmalion Point and Parsons Point) on **Great Nicobar Island** is the southernmost point of India at about 6°45' N. **Kanyakumari** (Cape Comorin, 8°4' N) is the southern tip of the **mainland**. Rameshwaram is on Pamban Island, and Point Calimere (Kodiakkarai) is a cape on the Coromandel coast.
+
+@one
+Where is the southernmost point of India located ?
+@ans Great Nicobar
+@end
+
+@table
+Direction | Point | State or UT
+North | Indira Col (Siachen) | Ladakh
+South (whole country) | Indira Point, Great Nicobar | Andaman and Nicobar Islands
+South (mainland) | Kanyakumari (Cape Comorin) | Tamil Nadu
+East | Kibithu / Dong area | Arunachal Pradesh
+West | Guhar Moti (Sir Creek area) | Gujarat
+@end
+
+@trap
+Read the stem for "mainland". Southernmost point of India = Indira Point. Southernmost point of mainland India = Kanyakumari. Both are standard answers, and UPPSC lists both as options.
+@end
+
+@section 1.5 | Land Neighbours and Border States
+
+India's land boundary of about **15,106.7 km** touches seven countries. The longest stretch is with **Bangladesh** and the shortest with **Afghanistan**, through the Gilgit-Baltistan area of Pakistan-occupied Ladakh.
+
+@table
+Neighbour | Length (km) | Indian states and UTs on the border
+Bangladesh | 4,096.7 | West Bengal, Assam, Meghalaya, Tripura, Mizoram
+China | 3,488 | Ladakh, Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh
+Pakistan | 3,323 | Gujarat, Rajasthan, Punjab, Jammu and Kashmir, Ladakh
+Nepal | 1,751 | Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Sikkim
+Myanmar | 1,643 | Arunachal Pradesh, Nagaland, Manipur, Mizoram
+Bhutan | 699 | Sikkim, West Bengal, Assam, Arunachal Pradesh
+Afghanistan | 106 | Ladakh (Gilgit-Baltistan, under Pakistan's occupation)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004; U.P.P.C.S. (Pre) 2002; U.P. Lower Sub. (Pre) 2002
+Which one of the following states does not form the border with Bangladesh?
+(a) Meghalaya
+(b) Tripura
+(c) Manipur
+(d) Mizoram
+@ans (c)
+@end
+
+Five states touch Bangladesh: **West Bengal** (2,216.7 km, the longest), **Tripura** (856 km), **Meghalaya** (443 km), **Mizoram** (318 km) and **Assam** (263 km). Manipur borders Myanmar, not Bangladesh.
+
+@one
+Which state among Tripura, Mizoram, Nagaland and Meghalaya does not form its boundary with Bangladesh?
+@ans Nagaland
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following states of India does not have a common border with Myanmar ?
+(a) Assam
+(b) Nagaland
+(c) Arunachal Pradesh
+(d) Mizoram
+@ans (a)
+@end
+
+Four states touch Myanmar: **Arunachal Pradesh, Nagaland, Manipur and Mizoram**. Assam has international borders only with **Bhutan and Bangladesh**.
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001; U.P. P.C.S. (Pre) 1990
+Which of the following groups of Indian states share their boundaries with Pakistan ?
+(a) Jammu and Kashmir, Himachal Pradesh, Punjab and Rajasthan.
+(b) Punjab, Jammu and Kashmir, Rajasthan and Gujarat.
+(c) Punjab, Haryana, Jammu and Kashmir and Rajasthan.
+(d) Punjab, Himachal Pradesh, Rajasthan, Gujarat.
+@ans (b)
+@note when the question was set, Jammu and Kashmir was a state. Since 31 October 2019 the border is shared by Gujarat, Rajasthan and Punjab and the Union Territories of **Jammu and Kashmir** and **Ladakh**.
+@end
+
+Himachal Pradesh and Haryana are the dummy options. Neither touches Pakistan; Himachal borders China (Tibet).
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Which one of the following states of India has an international boundary on its three sides ?
+(a) Assam
+(b) Nagaland
+(c) Tripura
+(d) West Bengal
+@ans (c)
+@end
+
+**Tripura** is enclosed by **Bangladesh on the north, west and south**. Only its eastern side joins India (Assam and Mizoram). Its 856 km border with Bangladesh is second only to West Bengal's 2,216.7 km.
+
+UP link: **Uttar Pradesh borders only one country, Nepal**. Seven districts touch the Nepal border: Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar and Maharajganj.
+
+@trap
+Count the neighbours of each north-eastern state. **Arunachal Pradesh** has three foreign neighbours (China, Bhutan, Myanmar). **West Bengal** also has three (Bangladesh, Nepal, Bhutan), and so does **Sikkim** (China, Nepal, Bhutan). Assam has two (Bhutan, Bangladesh). Mizoram has two (Myanmar, Bangladesh).
+@end
+
+@section 1.6 | Boundary Lines
+
+@pyq U.P.P.C.S. (Pre) 1996
+The boundary between India and Pakistan was demarcated by:
+(a) Durand Line
+(b) McMahon Line
+(c) Maginot Line
+(d) Radcliffe Line
+@ans (d)
+@end
+
+Sir **Cyril Radcliffe** chaired the two boundary commissions of 1947 that divided **Punjab and Bengal**. The award was announced on 17 August 1947. The Radcliffe Line is therefore the origin of both the India-Pakistan and the India-Bangladesh boundaries. The **Maginot Line** was a French defence line against Germany and is a dummy option.
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+Durand Line demarcated the Indian boundary with which of the following countries?
+(a) Afghanistan
+(b) Burma
+(c) Nepal
+(d) Tibet
+@ans (a)
+@end
+
+The **Durand Line** (1893) was agreed between Sir **Mortimer Durand**, Foreign Secretary of British India, and **Amir Abdur Rahman Khan** of Afghanistan. Today it is the Pakistan-Afghanistan border. India's own 106 km boundary with Afghanistan lies in the Gilgit-Baltistan area, which is under Pakistan's occupation.
+
+@pyq U.P. P.C.S. (Pre) 2018
+McMahon Line forms the boundary between
+(a) India and China
+(b) India and Pakistan
+(c) India and Myanmar
+(d) India and Nepal
+@ans (a)
+@end
+
+The **McMahon Line** was drawn by Sir **Henry McMahon** at the **Simla Convention of 1914** between British India and Tibet. It marks the eastern sector of the India-China boundary along Arunachal Pradesh. China does not accept it.
+
+@table
+Line | Year | Between | Named after
+Radcliffe Line | 1947 | India-Pakistan, India-Bangladesh | Sir Cyril Radcliffe
+Durand Line | 1893 | British India-Afghanistan (now Pakistan-Afghanistan) | Sir Mortimer Durand
+McMahon Line | 1914 | India-China (Tibet), eastern sector | Sir Henry McMahon
+Line of Control (LoC) | 1972 (Simla Agreement) | India-Pakistan in Jammu and Kashmir | Ceasefire Line of 1949
+Line of Actual Control (LAC) | Post-1962 | India-China | De facto line, not demarcated
+Maginot Line | 1930s | France-Germany (defence line) | André Maginot
+@end
+
+@trap
+Do not swap the two "M" lines. **McMahon** is the India-China line (Arunachal). **Maginot** is French and never an Indian boundary. The **Durand** Line is about Afghanistan, and the **Radcliffe** Line is about Partition.
+@end
+
+@heatmap
+
+@pattern
+UPPSC builds this chapter on map position, not on theory. Three blocks carry most of the items: the Tropic of Cancer (states, towns nearest to it, the Mahi), time and longitude arithmetic, and border states. The arithmetic items are easy marks if you remember 1° = 4 minutes and "east is ahead". Two answers have changed since the exams were held: India is now the most populous country, and Jammu and Kashmir and Ladakh are now Union Territories. Learn the eight Tropic states, the five IST states, the seven neighbours with their border states, and the four boundary lines.
+@end

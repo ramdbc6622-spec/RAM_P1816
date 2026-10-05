@@ -1,0 +1,741 @@
+@chapter 17 | World Agriculture and Livestock
+
+@intro
+This is the longest chapter in the World Geography book. Most questions ask **"who is the largest producer"** of a crop: rice, wheat, sugarcane, beet, cotton, coconut, rubber, coffee, tea, cocoa, maize or milk. These rankings change with each FAO release, so several old keys now carry notes with **FAO 2024** positions. Other topics are **crop-region** matches (Sao Paulo coffee, Ghana cocoa, Yangtze rice), **farming systems** (plantation, shifting cultivation and its local names, alley cropping, monoculture) and livestock. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 17.1 | Cereals: Rice, Wheat and Maize
+
+@pyq U.P.P.C.S. (Mains) 2006; U.P. Lower Sub. (Spl) (Pre) 2004
+The leading producer of both wheat and rice in the world is :
+(a) China
+(b) India
+(c) Russia
+(d) France
+@ans (*)
+@note For years **China** led in both crops, and (a) was the intended answer. In the latest FAO data (2023-24) **India has overtaken China in rice (paddy)**, while China still leads in wheat. So no single country leads in both, and the source marks the question (*).
+@end
+
+@one U.P.P.C.S. (Mains) 2013
+India's rank in rice production in the world is
+@ans First (in 2023 and 2024); second after China in earlier years
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following countries has the largest area under rice cultivation?
+(a) China
+(b) India
+(c) Japan
+(d) Philippines
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Arrange the following countries in the descending order of their wheat production and select the correct answer from the code given below :
+1. China
+2. India
+3. Russia
+4. U.S.A.
+Code :
+(a) 1, 2, 3, 4
+(b) 1, 2, 4, 3
+(c) 2, 3, 4, 1
+(d) 4, 1, 2, 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following countries has the highest productivity of rice?
+(a) China
+(b) India
+(c) Japan
+(d) Germany
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The cultivation of hybrid rice is most popular in –
+(a) Japan
+(b) China
+(c) Korea
+(d) India
+@ans (b)
+@end
+
+**Yuan Longping** (China), the "Father of Hybrid Rice", released the first hybrid rice in the 1970s. Today more than half of China's rice area is hybrid.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The 'Rice Gene Bank' of the world is situated in –
+(a) China
+(b) Philippines
+(c) Japan
+(d) India
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Which of the following countries accounts for about two-third of its export earnings from rice trade?
+(a) Japan
+(b) Thailand
+(c) Myanmar
+(d) Indonesia
+@ans (*)
+@note No country in the list earns anywhere near two-thirds of its exports from rice. **Thailand** (and Myanmar in some years) depend on rice more than the others, but well below that share. The source marks the question (*). **India** has been the world's **largest rice exporter** since 2012, with about 40% of world trade.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following countries ranks second in the production of Corn in the world ?
+(a) Brazil
+(b) Mexico
+(c) Argentian
+(d) China
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In which of the following group of countries maize is used as staple food ?
+(a) Western Europe
+(b) Russia
+(c) Middle Africa
+(d) South-East Asia
+@ans (c)
+@end
+
+@table
+Crop | Top producers (FAO, about 2023-24)
+Rice (paddy) | **India**, China, Bangladesh, Indonesia
+Wheat | **China**, India, Russia, USA
+Maize | **USA**, **China**, Brazil, Argentina
+Sugarcane | **Brazil**, **India**, China, Thailand
+Sugar beet | Russia, France, USA, Germany
+Seed cotton | China, India, USA, Brazil
+Coffee | **Brazil**, **Vietnam**, Colombia, Indonesia, Ethiopia
+Tea | **China**, **India**, Kenya, Sri Lanka, Turkiye
+Cocoa | **Cote d'Ivoire**, Ghana, Indonesia, Ecuador, Cameroon
+Natural rubber | **Thailand**, **Indonesia**, Vietnam, India
+Coconut | **Indonesia**, Philippines, India
+Soybean | **Brazil**, USA, Argentina
+Milk | **India**, USA, Pakistan, China
+@end
+
+@section 17.2 | Sugar, Fibres and Plantation Crops
+
+@pyq U.P.P.C.S. (Mains) 2008
+World's largest producer of sugarcane is –
+(a) Brazil
+(b) China
+(c) India
+(d) Indonesia
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Mains) 2016
+Which one country is the second largest producer of sugarcane in the World?
+@ans India
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Two largest producers of beets in the world are –
+(a) Belgium and China
+(b) France and Russia
+(c) Germany and the U.S.A.
+(d) Turkey and Ukraine
+@ans (*)
+@note Up to 2022 FAO data, the two leaders were **Russia and France**, so (b) was the expected answer. The source marks the question (*) because later FAO releases reshuffle the top places among Russia, France, the USA and Germany.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following countries produces sugar from sugar-beets only ?
+(a) France
+(b) Ukraine
+(c) Germany
+(d) Italy
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following countries exports the highest percentage of its sugar production –
+(a) India
+(b) Mauritius
+(c) Mexico
+(d) China
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013, 2015
+Which one of the following is called the 'Sugar Bowl' of the world ?
+(a) Hawai Islands
+(b) Cuba
+(c) India
+(d) Philippines
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following countries has the highest per hectare production (2014) of cotton in the world?
+(a) Israel
+(b) Mexico
+(c) Pakistan
+(d) Australia
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The highest per acre yield of cotton among the following countries is recorded in:
+(a) U.S.A.
+(b) China
+(c) Pakistan
+(d) India
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+The largest producer of coconut in the world is :
+(a) Brazil
+(b) India
+(c) Indonesia
+(d) Philistine
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+The largest producer of natural rubber in the world is :
+(a) Brazil
+(b) India
+(c) Malaysia
+(d) Thailand
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+Two major producers of natural rubber in the world are
+@ans Thailand and Indonesia
+@end
+
+@pyq U.P.P.S.C (GIC) 2010; U.P.P.C.S. (Mains) 2005
+About one-third of the world's production of natural rubber comes from
+(a) India
+(b) Indonesia
+(c) Malaysia
+(d) Thailand
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The two leading producers of coffee in the world are :
+(a) Brazil and Colombia
+(b) Brazil and Vietnam
+(c) Mexico and India
+(d) Ethiopia and Mexico
+@ans (b)
+@end
+
+@one U.P. R.O./A.R.O. (Mains) 2012
+The highest coffee producing country in the world is
+@ans Brazil
+@end
+
+@one U.P.P.C.S.(Pre) 2013
+The country at the top in terms of percentage of total coffee production in the world is
+@ans Brazil
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following countries is the second largest exporter of coffee in the world?
+(a) Indonesia
+(b) Colombia
+(c) Vietnam
+(d) Brazil
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Large coffee plantations in Brazil are called
+(a) Estate
+(b) Estancias
+(c) Kalkhozes
+(d) Fazendas
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+In which of the following states of USA, is coffe produced?
+(a) Florida
+(b) California
+(c) Hawaii
+(d) Arizona
+(e) None of these
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which one of the following countries is the largest exporter of tea in the world?
+(a) India
+(b) China
+(c) Kenya
+(d) Sri Lanka
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following countries was the largest exporter (value in $) of tea in the world in 2016-17?
+(a) Sri Lanka
+(b) India
+(c) China
+(d) Kenya
+@ans (c)
+@end
+
+By **value**, **China** is the largest tea exporter. By **volume**, **Kenya** usually leads. India is the second-largest **producer**, after China.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following is NOT a major Coco producer country?
+(a) Latvia
+(b) Cameroon
+(c) Ghana
+(d) Ivory Coast
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following pairs is not correctly matched?
+(Plantation Crop) - (Name of Country)
+(a) Coffee - Uzbekistan
+(b) Rubber - Malaysia
+(c) Tea - Sri Lanka
+(d) Cocoa - Nigeria
+@ans (a)
+@end
+
+@pyq U.P. Lower Spl. (Pre) 2008
+Which one of the following is not a correct statement ?
+(a) Cocoa cultivation is popular in Ghana
+(b) Coffee is an important plantation crop of Brazil.
+(c) Sri Lanka is famous for the production of tea.
+(d) Sugarcane is the major plantation crop of Malaysia.
+@ans (d)
+@end
+
+@section 17.3 | Crop Regions
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer using the code given below the lists –
+@match
+List-I (Crop) | List-II (Production zone)
+(A) Coffee | 1. Prairies plains
+(B) Jute | 2. Yangtze plains
+(C) Rice | 3. Sao Paulo Plateau
+(D) Wheat | 4. Ganges delta
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 2 4 1 3
+(c) 3 4 2 1
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists –
+@match
+List-I (Crop) | List-II (Production zone)
+(A) Coffee | 1. Yangzi Jiang basin
+(B) Rice | 2. Sao Paulo
+(C) Wheat | 3. Candy basin
+(D) Tea | 4. Huang He basin
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 2 1 4 3
+(c) 4 2 1 3
+(d) 3 1 4 2
+@ans (b)
+@end
+
+"Candy basin" is **Kandy**, in the hill country of Sri Lanka, the heart of Ceylon tea.
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Match List - I with List - II and select the correct answer using the codes given below the lists :
+@match
+List - I | List - II
+A. Cocoa | 1. Ivory Coast
+B. Coffee | 2. Kenya
+C. Tea | 3. South Africa
+D. Sugarcane | 4. Ghana
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 4 1 2 3
+(c) 1 4 3 2
+(d) 2 3 4 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P. U.D.A./L.D.A. (Pre) 2010
+Match List-I with List-II and select the correct answer from the codes given below the Lists :
+@match
+List-I (Crop) | List-II (Region/Country)
+A. Rubber | 1. Mauritius
+B. Coffee | 2. Italy
+C. Olive | 3. Colombia
+D. Sugarcane | 4. Malaysia
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 4 3 1 2
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Match List-I and List-II and select the correct answer using the codes given below the list:
+@match
+List-I (Leading Producer Country) | List-II (Commodity)
+A. China | 1. Natural Rubber
+B. India | 2. Milk
+C. Saudi Arabia | 3. Iron-Ore
+D. Thailand | 4. Petroleum
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 2 4 1
+(d) 2 3 1 4
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Country) | List-II (Principal Primary Export)
+A. Chad | 1. Cotton
+B. Niger | 2. Uranium
+C. Rwanda | 3. Petroleum
+D. Benin | 4. Coffee
+@endmatch
+Code : A B C D
+(a) 4 1 3 2
+(b) 2 4 1 3
+(c) 3 2 4 1
+(d) 1 3 2 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which of the following statements are correct:
+1. China is the largest producer of Tobacco in the world
+2. India is the largest producer of Jowar in the world
+3. Brazil is the largest producer of Soyabean in the world
+4. Italy is the largest producer of raw silk in the world
+Code:
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (*)
+@note When the question was set, statements 1 and 2 matched the common textbook data, giving (a). Today **China** still leads in tobacco (and raw silk), but **Brazil** now leads in soybean and the **USA/Nigeria** in sorghum (jowar). That makes "1 and 3" true, which is not among the codes, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+To whom does the credit goes for the development of coconut and sugarcane agriculture in Philippines?
+(a) French
+(b) Hollanders
+(c) Britishers
+(d) Spanish and Americans
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013; U.P.P.C.S.(Pre) 2012
+Peanuts are the main crop of :
+(a) Georgia
+(b) Gambia
+(c) Ghana
+(d) Guatemala
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The native place of groundnut is :
+(a) Australia
+(b) Brazil
+(c) China
+(d) South Africa
+@ans (b)
+@end
+
+@section 17.4 | Fruits, Vines and Horticulture
+
+@pyq U.P.P.C.S. (Mains) 2016
+What is the rank of India in the world as a fruit producer?
+(a) Third
+(b) Fourth
+(c) First
+(d) Second
+@ans (d)
+@end
+
+India is the **second-largest producer of fruits and vegetables** after China, and the largest producer of **bananas, mangoes and papayas**.
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which fruit is not Tropical ?
+(a) Walnut
+(b) Coconut
+(c) Apple
+(d) Cashewnut
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Sacramento- San Joaquin Valley, renowned for vitreous & citrus fruit production in America, is located at :
+(a) California
+(b) Alaska
+(c) Mexico
+(d) Columbia
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Assertion (A) : Commerical Viticulture is specific to the Mediterranean Region of Europe.
+Reason (R) : 85% of its grapes go to wine making.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following regions of the world, the production of citrus fruits is well developed?
+(a) Monsoon regions
+(b) Tropical highlands regions
+(c) Mediterranean regions
+(d) Equatorial regions
+@ans (c)
+@end
+
+@section 17.5 | Farming Systems
+
+@pyq U.P.P.C.S. (Pre) 1998
+Consider the following statements associated with Plantation agriculture and select the correct answer using the codes given below :
+1. Mostly Tropical plantations are located in lowlands.
+2. Tropical plantations are found in bunches along the sea coast.
+3. Favourable physical conditions for Rubber plantation occur in Amazon Basin but lacks workers.
+Code :
+(a) 1 & 2 are correct
+(b) 2&3 are correct
+(c) 1 & 3 are correct
+(d) All statements are correct.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Consider the following crops :
+1. Coffee
+2. Rubber
+3. Coconut
+4. Spices
+Which of the above crops are plantation crops ?
+(a) 1 and 4
+(b) 1, 2 and 3
+(c) 3 and 4
+(d) 1, 2 and 4
+@ans (*)
+@note Definitions differ. The **Commerce Ministry** (commodity boards) treats **tea, coffee, rubber and spices** as plantation crops, while the **Agriculture Ministry** lists **coconut, arecanut, cocoa and cashew**. On either definition no single code fits, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+A cropping system where crops are grown in the inter spaces between rows of planted trees is called
+(a) Relay cropping
+(b) Mixed cropping
+(c) Inter-cropping
+(d) Alley cropping
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+'Monoculture' is a distinct characteristic of –
+(a) Commercial grain-farming
+(b) Shifting cultivation
+(c) Subsistence farming
+(d) Organic farming
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006, 2010
+Which one of the following is not a type of shifting cultivation ?
+(a) Chena
+(b) Jhooming
+(c) Milpa
+(d) Fazenda
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to primitive subsistence agricultural practices, which of the pair/s is/are correctly matched?
+Agricultural Practices : Region
+1. Jhumming : South-East Asia
+2. Milpa : Mexico
+3. Ladang : Sri Lanka
+Select the correct answer using the code given below :
+Code :
+(a) Only 1
+(b) Only 2
+(c) 1 and 2 only
+(d) 1, 2 and 3
+@ans (c)
+@end
+
+@table
+Shifting cultivation name | Region
+Jhum (Jhooming) | North-east India, South-East Asia
+**Milpa** | Mexico, Central America
+Conuco | Venezuela
+Roca | Brazil
+**Ladang** | Indonesia, Malaysia
+Ray | Vietnam
+Taungya | Myanmar
+Tamrai | Thailand
+**Chena** | **Sri Lanka**
+Masole | Congo (Central Africa)
+@end
+
+Large estates have their own names: **Fazenda** (Brazil, coffee), **Estancia** (Argentina, cattle) and **Kolkhoz** (Soviet collective farm).
+
+@pyq U.P.U.D.A./L.D.A (Spl) (Pre) 2010
+Blue Green Algae is used as biofertilizer to induce which of the following crop productions?
+(a) Wheat
+(b) Rice
+(c) Gram
+(d) Mustard
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A (Spl) (Pre) 2010
+Which one of the following is not found in tea?
+(a) Theanine
+(b) Caffeine
+(c) Tannin
+(d) Morphine
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+In which one of the following countries high yielding variety seed was developed for the first time ?
+(a) Argentina
+(b) China
+(c) Mexico
+(d) India
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Under the international agreement on agriculture the Green Box includes economic assistance for
+1. Agricultural Research
+2. Fertilizer
+3. Irrigation
+4. Plant Protection
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (d)
+@end
+
+Under the WTO **Agreement on Agriculture**:
+- **Green Box** subsidies do not distort trade or do so minimally: research, pest control, extension, environment, disaster relief.
+- **Amber Box** subsidies distort trade (input subsidies, price support) and are capped at **10%** of output value for developing countries.
+- **Blue Box** payments are tied to production limits.
+
+@section 17.6 | Narcotics and Livestock
+
+@pyq U.P.P.C.S. (Mains) 2007
+Heroin is obtained from:
+(a) Hemp
+(b) Opium
+(c) Tobacco
+(d) Betelnut
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following countries are included in the "Golden Crescent" ?
+1. Afghanistan
+2. Iran
+3. Iraq
+4. Pakistan
+Select the correct answer from the codes given below :
+Code :
+(a) 1 and 2
+(b) 3 and 4
+(c) 1, 2 and 3
+(d) 1, 2 and 4
+@ans (d)
+@end
+
+The **Golden Crescent** (Afghanistan, Iran, Pakistan) and the **Golden Triangle** (Myanmar, Laos, Thailand) are the two great illicit opium regions. India lies between them, which is why drug trafficking is a security concern in Punjab and the north-east.
+
+@pyq U.P.P.C.S. (Pre) 2006
+Shahtoosh shawl is made from the hairs of
+(a) Hangul
+(b) Chinkara
+(c) Chiru
+(d) Merino
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which of the following has destroyed the image of 'beef' as a safe and healthy food in Europe and America?
+(a) Bird flu disease
+(b) Mad cow disease
+(c) Methods used in Pig farming
+(d) Poultry practices
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Spl) (Mains) 2008; U.P.P.C.S. (Mains) 2003, 2012
+The leading producer of milk in the world is :
+(a) China
+(b) India
+(c) USA
+(d) Australia
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+The correct descending order of the leading producers of milk is:
+(a) China, India, Russia, U.S.A
+(b) India, U.S.A, China, Russia
+(c) U.S.A., India, China, Russia
+(d) India, China, U.S.A., Russia
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following countries has the maximum production of milk per cow?
+(a) Netherlands
+(b) Great Britain
+(c) Denmark
+(d) India
+@ans (c)
+@end
+
+India has been the world's **largest milk producer** since 1998 (Operation Flood). It produced about **248 million tonnes** in 2024-25, nearly a quarter of world output. **Yield per animal** is highest in countries such as **Denmark**, the Netherlands, Israel and the USA, which have high-yielding Holstein herds.
+
+@trap
+**Two-crop leader traps**: "both rice and wheat" no longer has one answer (India leads rice, China leads wheat). **Tea exports**: China leads by value, Kenya by volume. **Sugar**: Brazil leads in cane, Russia/France in beet, and Ukraine makes sugar almost only from beet. **Chena = Sri Lanka**, **Ladang = Indonesia/Malaysia**, and **Fazenda** is a coffee estate, not shifting cultivation.
+@end
+
+@heatmap
+
+@pattern
+About **half** of this chapter's PYQs ask "largest producer / exporter", so the answers **change with FAO data**. Always check the notes for the 2024 position. The rest are crop-region matches and farming-system names. The newer papers (2017-2023) favour **exports by country** (Chad, Niger, Rwanda, Benin) and **shifting-cultivation names**.
+@end
+
+@next
+Likely next angles: India becoming the **top rice producer** and its export curbs and their removal (2022-24), **cocoa price spike** (Ghana, Cote d'Ivoire), **coffee** and the **EU deforestation rules**, **millets** (International Year 2023; India the largest producer), the **WTO** public-stockholding peace clause, and **Golden Crescent** drug routes.
+@end

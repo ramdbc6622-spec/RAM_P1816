@@ -1,0 +1,315 @@
+@chapter 12 | Straits, Gulfs, Canals and Dams
+
+@intro
+These are the world's **choke points and engineering works**. Straits questions ask which strait separates which landmasses (Gibraltar, Bering, Bass, Hormuz, Dover, Lombok, the Ten Degree Channel). Canal questions focus on **Suez**: what it joins, its ports, its lakes and the distance it saves. Dam questions match dam, river and country (Hoover, Aswan, Kariba, Grand Coulee, Zangmu). Shipping crises (Red Sea attacks, Hormuz tensions, the 2021 Suez blockage) keep this chapter in the news. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 12.1 | Straits and Channels
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which Strait separates Europe from Africa :
+(a) Bosphorus
+(b) Gibraltar
+(c) Dover
+(d) Bering
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The strait which separates Asia from North America is—
+(a) Bering Strait
+(b) Palk Strait
+(c) Strait of Gibraltar
+(d) Strait of Malacca
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following separates Tasmania from Australia?
+(a) Great Australian Bight
+(b) Bass Strait
+(c) Magellan Strait
+(d) Tasman Sea
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Strait of Hormuz lies between –
+(a) Black Sea and Marmara Sea
+(b) Persian Gulf and Gulf of Oman
+(c) Arabian Sea and Red Sea
+(d) Red Sea and Mediterranean Sea
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Through which one of the following straits does a tunnel connect the United Kingdom and France ?
+(a) Davis Strait
+(b) Denmark Strait
+(c) Strait of Dover
+(d) Strait of Gibraltar
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2010
+Strait of Dover connects
+@ans The English Channel and the North Sea
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Lombok Strait is located between which two islands?
+(a) Bali and Lombok
+(b) Lombok and Sumbawa
+(c) Sumbawa and Java
+(d) Java and Bali
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Ten Degree Channel separates
+(a) Andaman from Nicobar Islands
+(b) Andaman from Myanmar
+(c) India from Sri Lanka
+(d) Lakshadweep from Maldives
+@ans (a)
+@end
+
+@table
+Strait / channel | Joins | Separates
+Gibraltar | Atlantic and Mediterranean | Spain (Europe) and Morocco (Africa)
+Bosphorus and Dardanelles | Black Sea, Marmara and Aegean | Europe and Asia (Turkiye)
+Bab-el-Mandeb | Red Sea and Gulf of Aden | Yemen and Djibouti
+Hormuz | Persian Gulf and Gulf of Oman | Iran and Oman (Musandam); about a fifth of world oil passes through
+Malacca | Andaman Sea and South China Sea | Malaysia and Sumatra
+Sunda / Lombok | Java Sea and Indian Ocean | Sumatra-Java / Bali-Lombok
+Bering | Arctic and Pacific | Russia (Asia) and Alaska (North America)
+Dover | English Channel and North Sea | UK and France (Channel Tunnel, 1994)
+Bass | Tasman Sea and Indian Ocean | Mainland Australia and Tasmania
+Magellan / Drake Passage | Atlantic and Pacific | South America's tip / Cape Horn and Antarctica
+Palk Strait | Bay of Bengal and Palk Bay | India and Sri Lanka
+Ten Degree Channel | - | **Little Andaman and Car Nicobar**
+Nine / Eight Degree Channel | - | Lakshadweep and Minicoy / Minicoy and Maldives
+Six Degree Channel | - | Great Nicobar and Sumatra (Indonesia)
+@end
+
+@section 12.2 | Gulfs and Bays
+
+@pyq U.P.P.C.S. (Mains) 2007, 2008
+The Persian Gulf does not form the border with –
+(a) Bahrain
+(b) Iraq
+(c) Kuwait
+(d) Oman
+@ans (d)
+@note **Oman**'s main coast faces the **Gulf of Oman** and the Arabian Sea, which is why it is the key. Strictly, Oman's **Musandam** exclave does touch the Persian Gulf side of the Strait of Hormuz.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Which one of the following pairs is correctly matched ?
+(a) Gulf of Bothnia - France
+(b) Baffin Bay - Argentina
+(c) Gulf of Carpentaria - Canada
+(d) Gulf of Tonkin - Vietnam
+@ans (d)
+@end
+
+@table
+Gulf / bay | Location
+Gulf of Bothnia | Between Sweden and Finland (Baltic)
+Baffin Bay | Between Canada (Baffin Island) and Greenland
+Gulf of Carpentaria | Northern Australia
+Gulf of Tonkin | Between Vietnam and China (Hainan)
+Gulf of Aden | Between Yemen and Somalia
+Gulf of Guinea | West Africa, where 0° latitude meets 0° longitude
+Hudson Bay | Canada
+Bay of Biscay | France-Spain
+Great Australian Bight | Southern Australia
+@end
+
+@section 12.3 | Canals
+
+@pyq U.P.P.C.S. (Pre) 1992
+Suez Canal Connects –
+(a) Black Sea with Red Sea
+(b) Mediterranean Sea with Caspian Sea
+(c) Red Sea with Mediterranean Sea
+(d) None of these
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Suez canal connects which of the following ?
+1. Atlantic Ocean
+2. Red Sea
+3. Mediterranean Sea
+4. Indian Ocean
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 3
+(b) 3 and 4
+(c) 2 and 3
+(d) 1 and 2
+@ans (c)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2013
+The port pair located at both ends of the Suez Canal is
+@ans Port Said & Suez
+@end
+
+@one U.P.P.C.S. (Pre) 1992
+Assertion (A) : The distance between India and the western countries was shortened by the construction of the Suez Canal. Reason (R) : The Suez Canal connects the Mediterranean to the Red Sea.
+@ans (A) and (R) both are true, and (R) is the correct explanation of (A).
+@end
+
+@one U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Pre) 2005; U.P.P.C.S. (Pre) 1995
+Which of the following is the largest navigation canal in the world?
+@ans Suez Canal
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
+(a) 5,000 km.
+(b) 7,000 km.
+(c) 8,000 km.
+(d) 10,000 km.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+In the Suez canal region, the correct order of lakes lying from North to South direction is :
+(a) Lake Timsah - Little Bitter Lake - Great Bitter Lake - Lake Manzala
+(b) Great Bitter Lake - Little Bitter lake - Lake Timsah - Lake Manzala
+(c) Lake Manzala - Great Bitter lake - Little Bitter Lake - Lake Timsah
+(d) Lake Manzala - Lake Timsah - Great Bitter Lake - Little Bitter Lake
+@ans (d)
+@end
+
+@table
+Suez Canal fact | Detail
+Opened | **1869** (Ferdinand de Lesseps); nationalised by **Nasser** in **1956**
+Length | About 193 km; **no locks** (sea level)
+Ends | **Port Said** (Mediterranean) and **Suez / Port Tewfik** (Red Sea)
+Lakes, north to south | **Manzala - Timsah (Ismailia) - Great Bitter - Little Bitter**
+India-Europe saving | About **7,000 km** compared with the route round the Cape of Good Hope
+In the news | **Ever Given** blockage (March 2021); traffic falls after the **Red Sea / Houthi** attacks (2023-25)
+@end
+
+@table
+Canal | Joins | Country
+Panama (1914) | Atlantic (Caribbean) and Pacific | Panama; uses **locks** and Gatun Lake; drought cut traffic in 2023-24
+Kiel | North Sea and Baltic | Germany; busiest artificial waterway by ships
+Soo (Sault Ste. Marie) | **Lake Superior and Lake Huron** | USA-Canada
+Welland | Lake Erie and Lake Ontario (bypasses Niagara) | Canada
+St. Lawrence Seaway | Great Lakes and the Atlantic | USA-Canada
+Ludwig / Rhine-Main-Danube | Main (Rhine) and Danube | **Southern Germany** (Bavaria)
+Volga-Don | Volga (Caspian) and Don (Black Sea) | Russia
+White Sea-Baltic | White Sea and Baltic | Russia
+Grand Canal | Beijing to Hangzhou | China; oldest and longest artificial canal
+Corinth | Gulf of Corinth and Saronic Gulf | Greece
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Soo Canal connects
+(a) Turan & Ontario
+(b) Bengal & Tripura
+(c) Superior & Michigan
+(d) Superior & Huron
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following canals is used as an inland waterway in Southern Germany?
+(a) Volga-Don Canal
+(b) Sault-Sainte Marie Canal
+(c) Ludwings Canal
+(d) White Sea Canal
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub.(Pre) 2009
+World's longest sea bridge has been built on
+(a) East China Sea
+(b) Gulf of Tonkin
+(c) Jiaozhou Bay
+(d) South China Sea
+@ans (c)
+@note The **Jiaozhou Bay Bridge** (Qingdao, about 41.6 km, 2011) held the record when the question was set. Today the longest sea crossing is the **Hong Kong-Zhuhai-Macau Bridge** (about 55 km including tunnels, 2018). India's longest sea bridge is the **Atal Setu** (Mumbai Trans Harbour Link, about 21.8 km, 2024).
+@end
+
+@section 12.4 | Dams of the World
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P.U.D.A./L.D.A. (Pre) 2013
+Match list-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (River) | List-II (Dam)
+A. Colorado | 1. Aswan
+B. Damodar | 2. Kariba
+C. Nile | 3. Panchet Hill
+D. Zambezi | 4. Hoover
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 3 4 2
+(c) 3 4 1 2
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Kariba Dam has been built on the river:
+(a) Kafue
+(b) Zambezi
+(c) Chambeshi
+(d) Kabompo
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) (Re-Exam) 2015
+Which of the following is not correctly matched ?
+Dams - Rivers
+(a) Grand Coulee - Columbia
+(b) Hoover - Tennessee
+(c) Nurek - Vakhsh
+(d) Cahora (Cobbora) Bassa - Zambezi
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+The place where China has started construction of a dam on Brahmaputra River in Nov. 2010, is
+(a) Chingdu
+(b) Zangmu
+(c) Zhuang
+(d) Gyangze
+@ans (b)
+@end
+
+@table
+Dam | River | Country | Note
+Three Gorges | Yangtze | China | World's largest power station (22.5 GW)
+Zangmu (Zam) | Yarlung Tsangpo (Brahmaputra) | China (Tibet) | Operational 2015; the huge **Medog (Motuo)** project began in 2025
+Hoover (Boulder) | **Colorado** | USA (Arizona-Nevada) | Lake Mead
+Grand Coulee | Columbia | USA | Largest US hydro plant
+Tennessee Valley Authority dams | Tennessee | USA | Model for India's **DVC**
+Aswan High | Nile | Egypt | Lake Nasser
+GERD | Blue Nile | Ethiopia | Africa's largest hydro plant
+Kariba | **Zambezi** | Zambia-Zimbabwe | One of the largest reservoirs by volume
+Cahora Bassa | Zambezi | Mozambique | -
+Itaipu | Parana | Brazil-Paraguay | Second-largest power output
+Nurek / Rogun | Vakhsh | Tajikistan | Rogun will be the world's tallest dam
+Panchet Hill, Maithon | Damodar | India (DVC) | -
+@end
+
+@trap
+**Hoover is on the Colorado**, not the Tennessee. The **TVA** dams are on the Tennessee. **Kariba and Cahora Bassa are both on the Zambezi** (Kariba upstream, on the Zambia-Zimbabwe border). The **Soo Canal** joins **Superior and Huron**, not Superior and Michigan. **Oman's main coast is not on the Persian Gulf**.
+@end
+
+@heatmap
+
+@pattern
+**Suez** alone accounts for more than a quarter of this chapter's questions: what it joins, its ports, its lakes and the distance saved. Straits questions favour the **"separates X from Y"** form. Expect current-affairs links: Red Sea and Bab-el-Mandeb attacks, Hormuz tensions, Panama drought, and China's Brahmaputra dams.
+@end
+
+@next
+Likely next angles: the **Medog / Yarlung Tsangpo** mega-dam and India's **Upper Siang** project in response, **Bab-el-Mandeb** and the Houthi attacks, **Panama Canal** water shortage, **Rogun** dam, the **Kra Canal** idea (Thailand), the **Northern Sea Route** through the Bering Strait, and India's **Great Nicobar** transshipment port near the Six Degree Channel.
+@end

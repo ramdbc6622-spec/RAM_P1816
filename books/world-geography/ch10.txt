@@ -1,0 +1,459 @@
+@chapter 10 | Rivers of the World
+
+@intro
+World-river questions take three forms: river **records and quirks** (Congo crosses the Equator twice, Limpopo crosses the Tropic of Capricorn twice, Mississippi has a bird's-foot delta), river **direction and outlet** (which Siberian rivers flow north, where the Volga ends), and above all **city-on-river** matches. The city-river tables are the highest-value part of this chapter. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 10.1 | Rivers of Africa
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following rivers crosses the Equator twice?
+(a) Zaire
+(b) Niger
+(c) Nil
+(d) Amazon
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following river of Africa crosses Tropic of Capricorn twice?
+(a) Zambezi
+(b) Limpopo
+(c) Congo
+(d) Niger
+@ans (b)
+@end
+
+The **Congo (Zaire)** is the world's **deepest river** (over 220 m) and second only to the Amazon in discharge. Its loop across the Equator gives it rain from both hemispheres, so it flows steadily all year. The **Limpopo** forms the South Africa-Botswana-Zimbabwe borders and curves across the Tropic of Capricorn twice.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following countries is not under the drainage area of the Nile river
+(a) Chad
+(b) Ethiopia
+(c) Sudan
+(d) Uganda
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The Blue Nile river originates from
+(a) Lake Victoria
+(b) Lake Tana
+(c) Lake Edward
+(d) Lake Albert
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Assertion (A) : Egypt is the Gift of the Nile.
+Reason (R) : It is an oasis of the Sahara Desert.
+Select the correct answer from the codes given below :
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@table
+Nile fact | Detail
+Length | About 6,650 km; usually counted as the world's longest river
+White Nile | From **Lake Victoria** (Uganda, Tanzania, Kenya); headstreams in Rwanda and Burundi
+Blue Nile | From **Lake Tana** (Ethiopia); brings about 85% of the flood water and silt
+Confluence | **Khartoum** (Sudan)
+Dams | **Aswan High Dam** (Egypt, Lake Nasser, 1970); **GERD** (Ethiopia, inaugurated 2025)
+Mouth | Arcuate (fan-shaped) delta on the Mediterranean, near Alexandria and Port Said
+"Gift of the Nile" | Herodotus' description of Egypt
+@end
+
+@section 10.2 | Rivers of Asia and Europe
+
+@pyq U.P.P.C.S. (Mains) 2016
+The largest river of Asia is –
+(a) Indus
+(b) Brahmaputra
+(c) Yangtze
+(d) Hwang Ho
+@ans (c)
+@end
+
+The **Yangtze** (Chang Jiang, about 6,300 km) is Asia's longest river and the world's third longest. It hosts the **Three Gorges Dam**, the world's largest power station. The **Hwang Ho** (Yellow River) is "**China's Sorrow**" because of its floods.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following rivers of Asia flows towards the south ?
+(a) Amur
+(b) Lena
+(c) Ob
+(d) Salween
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs (River - Direction) is not correctly matched?
+(a) Amur river - North-East
+(b) Syr Darya - North-West
+(c) Angara river - North
+(d) Mekong river - South-West
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Match List-I with List-II and select the correct answer from the code given below the lists:
+@match
+List-I | List-II
+A. Lena | 1. Persian Gulf
+B. Amur | 2. Arctic Ocean
+C. Tigris | 3. Arabian Sea
+D. Mahi | 4. Pacific Ocean
+@endmatch
+Code : A B C D
+(a) 2 4 1 3
+(b) 3 2 4 1
+(c) 4 1 3 2
+(d) 1 3 2 4
+@ans (a)
+@end
+
+The **Ob, Yenisei and Lena** of Siberia flow **north** into the Arctic Ocean. Their mouths freeze while their upper courses thaw, which causes huge spring floods. The **Amur** forms the Russia-China border and reaches the Pacific through the Strait of Tartary. The **Tigris** and **Euphrates** join to form the **Shatt al-Arab** before the Persian Gulf.
+
+@pyq U.P.P.C.S. (Pre) 2021
+With reference to Mekong River, which of the following statement/s is/are correct?
+1. Mekong rises in Tibetan Plateau
+2. Mekong delta is situated in Southern Cambodia.
+Select the correct answer using the codes given below.
+Codes :
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+The **Mekong** (about 4,900 km) runs from Tibet through **China, Myanmar, Laos, Thailand, Cambodia and Vietnam**, with its delta in **southern Vietnam**. India works with the region through the **Mekong-Ganga Cooperation** (2000).
+
+@pyq U.P.P.C.S. (Pre) 1992
+River Volga falls into :
+(a) Red Sea
+(b) Caspian Sea
+(c) Black Sea
+(d) Mediterranean Sea
+@ans (b)
+@end
+
+The **Volga** (about 3,530 km) is **Europe's longest river** and flows entirely within Russia. The **Danube** (about 2,850 km), second longest, flows through or along **10 countries**, more than any other river, and reaches the **Black Sea**.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to Rhine river in Europe, which of the following statements is / are correct?
+(1) Rhine river is an important pathway for industrial activity in Northern Germany.
+(2) Port of Rotterdam is located at the mouth of Rhine river.
+Select the correct answer using the code given below:
+Code:
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to the 'Rhine River in Europe', which of the following statements/s is /are correct?
+1. Rhine river is an important pathway for industrial activity in northern Germany.
+2. Post of Rotterdam is located at the mouth of the Rhine river.
+Select the correct answer using the code given below :
+Code :
+(a) Both 1 and 2
+(b) Only 2
+(c) Only 1
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+The **Rhine** serves **western** Germany's **Ruhr** industrial belt (Duisburg, the world's largest inland port), not northern Germany. Northern Germany is served by the **Elbe** (Hamburg) and the **Weser** (Bremen).
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which of the following river flows through a rift valley ?
+(a) Amazon
+(b) Indus
+(c) Volga
+(d) Rhine
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which of the following pair is not correctly matched ?
+River - Country
+(a) Dnieper Ukraine
+(b) Po Italy
+(c) Rhine Germany
+(d) Rhone Spain
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+The country which provides the best example of radial drainage is
+(a) Australia
+(b) France
+(c) Sri Lanka
+(d) Zaire
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Mahaweli Ganga is a river of –
+(a) Bangladesh
+(b) India
+(c) Sri Lanka
+(d) Nepal
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Chisapani Gorge is located in –
+(a) India
+(b) Nepal
+(c) Bangladesh
+(d) Pakistan
+@ans (b)
+@end
+
+The **Karnali** (Ghaghara in UP) cuts the **Chisapani gorge** through the Siwaliks of west Nepal before entering India. The long-planned **Karnali (Chisapani) multipurpose dam** would affect flows into **Bahraich and the Ghaghara plain** (UP link).
+
+@pyq U.P.P.C.S. (Pre) 2021
+Nobi and Kanto plains are located in which of the following countries?
+(a) North Korea
+(b) South Korea
+(c) Japan
+(d) China
+@ans (c)
+@end
+
+@section 10.3 | Rivers of the Americas
+
+@pyq U.P.P.C.S. (Mains) 2015
+The glacial lake Itasca is the source of the river –
+(a) Missouri
+(b) Mississippi
+(c) Rio Grande
+(d) Red river
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+At the mouth of which of the following rivers the 'bird's foot' type delta is formed ?
+(a) Huang Ho
+(b) Nile
+(c) Danube
+(d) Mississippi
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+The river situated along the border between the United States of America and Mexico is :
+(a) The Mississippi
+(b) The Colorado
+(c) The Rio Grande
+(d) The Amazon
+@ans (b) & (c)
+@end
+
+The **Rio Grande** forms the long Texas-Mexico border. The **Colorado** forms a short stretch of the Arizona-Mexico border near Yuma before reaching the Gulf of California, so the Commission accepted both.
+
+@table
+Delta type | Shape | Example
+Arcuate (fan) | Curved, triangular | Nile, Ganga, Niger, Indus
+Bird's foot | Long fingers of land into the sea | **Mississippi**
+Cuspate | Tooth-shaped | Tiber, Ebro
+Estuarine (no delta) | Drowned river mouth | Narmada, Tapi, Thames, Amazon (partly), St. Lawrence
+@end
+
+@section 10.4 | Cities and their Rivers
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is / are NOT correctly matched ?
+(City) - (River)
+1. Budapest – Danube
+2. Cologne – Rhine
+3. New Orleans – Missouri
+4. Hyderabad (India) – Paleru
+Select the correct answer from the code given below :
+Code :
+(a) Only 1, 2 and 3
+(b) Only 3 and 4
+(c) Only 2, 3 and 4
+(d) Only 1 and 2
+@ans (b)
+@end
+
+**New Orleans** is on the **Mississippi** near its mouth, and the **Missouri** joins the Mississippi near St. Louis. **Hyderabad** stands on the **Musi**.
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re Exam) 2016
+Match List-I with List-II and select the correct answer from the code given below:
+@match
+List-I (River) | List-II (City)
+A. Shatt-al-Arab | 1. Vienna
+B. Paraguay | 2. Basra
+C. Niger | 3. Asuncion
+D. Danube | 4. Niamey
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 3 4 1 2
+(d) 2 3 4 1
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Match List-I with List-II and select the correct answer from the codes given below lists:
+@match
+List-I (Cities) | List-II (Rivers)
+A. Paris | 1. Paraguay
+B. Kinshasa | 2. Chao Phraya
+C. Bangkok | 3. Zaire (Cango)
+D. Asuncion | 4. Seine
+@endmatch
+Codes : A B C D
+(a) 4 1 2 3
+(b) 3 4 1 2
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Khartoum Nile
+(b) New York Hudson
+(c) Berlin Spree
+(d) Sydney Seine
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999; U.P.P.C.S. (Spl) (Pre) 2002-03
+Match List- I with List- II and select the correct answer using the code given below:
+@match
+List- I (Town) | List- II (River)
+A. Berlin | 1. Tiber
+B. Lahore | 2. Hudson
+C. New York | 3. Ravi
+D. Rome | 4. Spree
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998; U.P. R.O./A.R.O. (Mains) 2016; U.P. Lower Sub. (Pre) 2004
+Which of the following is not correctly matched ?
+(a) Bonn - Rhine
+(b) Cairo - Nile
+(c) New York - Hudson
+(d) Vienna - Volga
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which of the following is correctly matched ?
+(a) Hamburg - Elbe river
+(b) Belgrade - Seine river
+(c) Kiev - Don river
+(d) Lahore - Satluj river
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer using the code given below the lists :
+@match
+List-I (River) | List-II (Country)
+A. Potomac | 1. England
+B. Nile | 2. USA
+C. Tigris | 3. Iraq
+D. Thames | 4. Sudan
+@endmatch
+Code : A B C D
+(a) 1 3 4 2
+(b) 2 4 1 3
+(c) 2 4 3 1
+(d) 3 4 2 1
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub.(Pre) 2009
+Which one of the following pair is not correctly matched?
+(a) Belgrade Danube
+(b) Lisbon Tiber
+(c) Warsaw Vistula
+(d) Washington Potomac
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List - I (City) | List - II (River)
+A. London | 1. Rhine
+B. Antwerp | 2. Scheldt
+C. Rotterdam | 3. Thames
+D. Hamburg | 4. Elbe
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 3 4 2 1
+(c) 3 1 2 4
+(d) 3 2 1 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List-I with List-II and select the correct answer using the codes given below:
+@match
+List-I (City) | List-II (River)
+A. Khartoum | 1. Zaire
+B. Brazzaville | 2. Nile
+C. Rotterdam | 3. Seine
+D. Paris | 4. Rhine
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (a)
+@end
+
+@table
+City | River | City | River
+London | Thames | Paris | Seine
+Berlin | Spree | Hamburg | Elbe
+Bonn, Cologne, Basel | Rhine | Rotterdam | Rhine (Nieuwe Maas)
+Antwerp | Scheldt | Lisbon | Tagus
+Rome | Tiber | Warsaw | Vistula
+Vienna, Budapest, Belgrade, Bratislava | Danube | Kyiv | Dnieper
+Moscow | Moskva | St. Petersburg | Neva
+Cairo, Khartoum | Nile | Kinshasa, Brazzaville | Congo (Zaire)
+Bamako, Niamey | Niger | Baghdad | Tigris
+Basra | Shatt al-Arab | Lahore | Ravi
+Bangkok | Chao Phraya | Yangon | Irrawaddy (Yangon river)
+Phnom Penh, Vientiane | Mekong | Shanghai, Wuhan | Yangtze
+New York | Hudson | Washington, D.C. | Potomac
+New Orleans, St. Louis | Mississippi | Montreal, Quebec | St. Lawrence
+Asuncion | Paraguay | Buenos Aires, Montevideo | Rio de la Plata
+@end
+
+@trap
+Capital pairs on the same river are classic traps: **Kinshasa and Brazzaville** face each other across the **Congo**, the closest pair of national capitals. **Vienna, Bratislava, Budapest and Belgrade** all lie on the **Danube**. **Vienna is not on the Volga**, **Lisbon is not on the Tiber**, and **Kyiv is on the Dnieper, not the Don**.
+@end
+
+@heatmap
+
+@pattern
+More than a third of these PYQs are **city-river** matches, usually European capitals with one African or American decoy. Learn the table above in pairs. The 2021-2025 papers add **statement-type** questions on the Rhine, Mekong and Nile, and on river **direction** (Amur, Angara, Mekong).
+@end
+
+@next
+Likely next angles: the **GERD** dispute (Ethiopia-Sudan-Egypt), **Mekong** dams and drought, Rhine low water hitting shipping, the **Colorado River** shortage, the **Amazon** drought (2023-24), the **Indus Waters Treaty** suspension (2025), and the **Brahmaputra** (Yarlung Tsangpo) **Medog** dam in China.
+@end

@@ -1,0 +1,1010 @@
+@chapter 23 | Vitamins and Nutrition
+
+@intro
+This is the single largest biology topic. It covers **vitamins**: their discovery, chemical names, sources, storage, solubility and **deficiency diseases** (beriberi, scurvy, rickets, night blindness, pellagra, anaemia). It also covers the **energy and nutrients** in food (fats, carbohydrates, proteins and amino acids, minerals such as iron and phosphorus) and **milk** (lactose, casein, carotene). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 23.1 | What Vitamins Are
+
+@pyq U.P.P.C.S. (Pre) 2009
+Nutraceuticals are products which have
+(a) Nutrients vitamin and minerals
+(b) Nutrients protein and fatty acids
+(c) Nutrient and toxic effect
+(d) Nutrient and medicinal effect
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Funk invented –
+(a) Vitamins
+(b) Hormones
+(c) Proteins
+(d) Enzymes
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which one of the following groups of compounds is called 'accessory dietary factor'?
+(a) Fats
+(b) Hormones
+(c) Proteins
+(d) Vitamins
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Assertion (A) : Vitamins are invigorating elements, whose small amount is required for good health.
+Reason (R) : Vitamins helps to keep the body healthy by killing harmful bacteria.
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but R is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+
+**Casimir Funk** (1912) coined the word *vitamine* ("vital amine") for the **accessory food factors** whose lack causes diseases. Vitamins are needed in tiny amounts to **regulate** metabolism; they are not killers of bacteria. **Nutraceuticals** are foods or supplements with both **nutritional and medicinal** value.
+
+@pyq U.P.P.C.S. (Pre) 2011; U.P. Lower Sub. (Mains) 2013
+Which one of the following is not formed in our body?
+(a) Vitamin A
+(b) Protein
+(c) Enzyme
+(d) Hormone
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which of the following is synthesized by intestinal bacteria?
+(a) Vitamin B12
+(b) Vitamin C
+(c) Vitamin K
+(d) Vitamin A
+@ans (a) & (c)
+@note The source gives **(a) & (c)**: bacteria in the large intestine make **vitamin K** and some **B vitamins (including B_{12})**.
+@end
+
+
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021; U.P. Lower Sub. (Pre) 2002
+Some vitamins are fat soluble while others are water soluble. Which of the following are water soluble :
+(a) Vitamin A, B and D
+(b) Vitamin A, D, E and K
+(c) Vitamin A, B and K
+(d) Vitamin B and C
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following are water-soluble vitamins ?
+(a) Vitamins C and D
+(b) Vitamins B and D
+(c) Vitamins B and C
+(d) Vitamins A and B
+@ans (c)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which of the following facts is NOT correct about vitamins?
+(a) S ome vitamins can be synthesized by intestinal microorganisms.
+(b) Some vitamins act as hormones.
+(c) Some vitamins are stored in body.
+(d) Vitamin 'K' is a water-soluble vitamin.
+@ans (d)
+@end
+
+
+@table
+Fat-soluble (stored in liver and fat) | Water-soluble (mostly not stored; extra lost in urine)
+**A, D, E, K** | **B group and C**
+Excess can be toxic (hypervitaminosis A and D) | Needed regularly; **vitamin C is not stored**
+@end
+
+**Vitamin B_{12}** is the exception among water-soluble vitamins: it is **stored in the liver for 3-5 years**. Being water-soluble does not explain that storage. **Vitamin D** works like a **hormone** (made in skin, activated in liver and kidney). Most vitamins (all except D, K and some B) cannot be made by the body, which is why they must be eaten.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Consider the statements :
+Assertion (A) : Vitamin B12 remains stored in liver for about 3-5 years.
+Reason (R) : Vitamin B12 is water-soluble.
+Select the correct answer using the codes given below:
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Given below are two statements, one labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Most of the vitamins are not synthesized in human body.
+Reason (R) : Human organs synthesize only essential micronutrients.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016; U.P.P.C.S. (Pre) 2021
+Given below are two statements, one is labelled as
+Assertion (A) and other as Reason (R).
+Assertion (A) : H uman body synthesizes all the Vitamins required by it.
+Reason (R) : Vitamins are essential for proper growth of the body.
+Choose the correct answer from the code given below.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (d)
+@end
+
+
+@section 23.2 | The B Vitamins
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I and List-II and find the correct answer from the codes given below :
+@match
+List-I | List-II
+A. Vitamin B1 | 1. Cobalamin
+B. Vitamin B2 | 2. Calciferol
+C. Vitamin B6 | 3. Riboflavin
+D. Vitamin B12 | 4. Thymine
+- | 5. Pyridoxine
+@endmatch
+Code : A B C D
+(a) 2 3 5 4
+(b) 4 3 5 1
+(c) 1 2 3 4
+(d) 4 3 2 1
+@ans (b)
+@note "Thymine" in the source stands for **thiamine** (vitamin B_{1}); thymine is a DNA base.
+@end
+
+@one
+Which one of the following pairs is correctly matched?
+@ans Vitamin B2 (Riboflavin)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following vitamins and deficiency diseases is wrongly matched ?
+(a) Calciferol - Osteomalacia
+(b) Niacin - Pellagra
+(c) Cobalamin - Pernicious anemia
+(d) Riboflavin - Beri-beri
+@ans (d)
+@end
+
+@one
+Which disease is caused by the deficiency of riboflavin?
+@ans Cheilosis
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019, 2020
+Use of polished rice in human diet causes the following disease
+(a) Beriberi
+(b) Goitre
+(c) Night blindness
+(d) Colour blindness
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following pairs is NOT correctly matched? (Vitamin) (Rich Source)
+(a) Vitamin B6 Rice bran
+(b) Vitamin B2 Cod-liver oil
+(c) Vitamin E Wheat germ oil
+(d) Vitamin K Alfalfa
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2001; U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2006
+Which of the following vitamins contain cobalt –
+(a) Vitamin B1
+(b) Vitamin B2
+(c) Vitamin B6
+(d) Vitamin B12
+@ans (d)
+@end
+
+@one
+Which metal is present in vitamin B12?
+@ans Cobalt
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Thiamine is :
+(a) Vitamin C
+(b) Vitamin B2
+(c) Vitamin B6
+(d) Vitamin B1
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010; U.P.Lower Sub. (Pre) 2013
+Which one of the following vitamins is helpful in keeping a dream in memory for a longer duration?
+(a) Vitamin A
+(b) Vitamin D
+(c) Vitamin B6
+(d) Vitamin C
+@ans (c)
+@end
+
+
+@table
+Vitamin | Chemical name | Deficiency disease | Good sources
+**B_{1}** | **Thiamine** | **Beriberi** (from **polished rice**) | Whole grains, rice bran, pulses
+**B_{2}** | **Riboflavin** | **Cheilosis** (cracked lips, sore tongue) | Milk, eggs, green leaves
+**B_{3}** | **Niacin** (nicotinic acid) | **Pellagra** (the 3 Ds: dermatitis, diarrhoea, dementia) | Groundnut, meat, cereals
+B_{5} | Pantothenic acid | Burning feet | Widespread
+**B_{6}** | **Pyridoxine** | Anaemia, nerve and mental disorders | **Rice bran**, cereals; linked to remembering dreams
+B_{7} | Biotin | Hair loss, dermatitis | Eggs, liver
+**B_{9}** | **Folic acid** | **Megaloblastic anaemia**, birth defects | Green leaves
+**B_{12}** | **Cyanocobalamin** (contains **cobalt**) | **Pernicious anaemia** | **Animal foods only**: meat, milk, eggs
+@end
+
+@section 23.3 | Vitamin C
+
+@pyq U.P. P.C.S. (Mains) 2016
+Among the following vegetables, the maximum Vitamin C is found in :
+(a) Chilli
+(b) Pumpkin
+(c) Pea
+(d) Radish
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The vitamin which is found in citrus fruits and is necessary for maintaining healthy skin is –
+(a) Vitamin A
+(b) Vitamin B
+(c) Vitamin C
+(d) Vitamin D
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1995, 2018
+The best source of Vitamin C is :
+(a) Orange
+(b) Apple
+(c) Carrot
+(d) Amla
+@ans (d)
+@note The source prints the key as (c), but its own explanation says the best source is **amla**; (c) is a misprint.
+@end
+
+@one
+Which vitamin helps in wound healing?
+@ans Vitamin C
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Spl) (Mains) 2010
+Vitamin 'C' help in absorption of which of following elements?
+(a) Iron
+(b) Calcium
+(c) Iodine
+(d) Sodium
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following vitamins does not get stored in the body?
+(a) Vitamin A
+(b) Vitamin C
+(c) Vitamin D
+(d) Vitamin E
+@ans (b)
+@end
+
+
+**Vitamin C (ascorbic acid)** is the **antiscorbutic** vitamin: its lack causes **scurvy** (bleeding gums, slow wound healing). It helps make **collagen**, heals wounds and boosts **iron absorption**. **Amla** (Indian gooseberry) is one of the richest sources, followed by guava, chilli and citrus fruits. It is destroyed by heat and is not stored.
+
+@section 23.4 | Vitamins A, D, E and K
+
+@pyq U.P.P.C.S. (Pre) 1993
+The source of vitamin D is
+(a) Lemon
+(b) Sun rays
+(c) Orange
+(d) Cashewnut
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2017
+Which of the following pairs is not correctly matched? Vitamin Role
+(a) Vitamin B12 antianaemic factor
+(b) Vitamin C antiscorbutic factor
+(c) Vitamin D antisterility factor
+(d) Vitamin K antihaemorrhagic factor
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Which of the following is found in the composition of vitamin D?
+(a) Folic acid
+(b) Retinol
+(c) Ascorbic acid
+(d) Calciferol
+@ans (d)
+@end
+
+
+@table
+Vitamin | Chemical name | Deficiency | Sources
+**A** | **Retinol** | **Night blindness**, xerophthalmia, dry skin | **Carrot, mango, papaya**, green leaves (as **carotene**), liver, fish oil, milk
+**D** | **Calciferol** (D_{3} cholecalciferol) | **Rickets** (children), **osteomalacia** (adults) | **Sunlight on skin**, **cod-liver oil**, egg yolk
+**E** | **Tocopherol** | **Sterility** (antisterility factor), muscle weakness | **Wheat germ oil**, nuts, seeds
+**K** | Phylloquinone (naphthoquinone) | **Delayed blood clotting** (antihaemorrhagic) | **Alfalfa**, green leaves, gut bacteria
+@end
+
+
+@one
+Which vitamin is formed in the skin in the presence of sunlight?
+@ans Vitamin D
+@end
+
+@one
+'Cholecalciferol' is the common name of the chemical compound
+@ans Vitamin D
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Deficiency of which vitamin can cause night blindness?
+(a) B1
+(b) C
+(c) A
+(d) E
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2021
+Which one of the following pairs is NOT correctly matched?
+(a) Vitamin A – Orange
+(b) Vitamin C – Lemon
+(c) Vitamin D – Cod liver oil
+(d) Vitamin B6 – Rice bran
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+In human body, vitamin A is stored in –
+(a) Liver
+(b) Pancreas
+(c) Spleen
+(d) Stomach
+@ans (a)
+@end
+
+@one
+Which of the following is essential for normal vision?
+@ans Retinol
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011
+Assertion (A) : If somebody stops taking green vegetables hewill suffer from night blindness.
+Reason (R) : He will suffer from vitamin A deficiency.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (d)
+@note The source keys (d): (A) is false because night blindness can be prevented by other sources of vitamin A (carrots, mango, milk, liver), but (R) correctly states that a lack of vitamin A follows if all its sources are cut.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following contains more vitamin A content ?
+(a) Cabbage
+(b) Carrot
+(c) Cauliflower
+(d) Spinach
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following is the richest source of vitamin A?
+(a) Apple
+(b) Papaya
+(c) Guava
+(d) Mango
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following is not a natural source of Vitamin A ?
+(a) Mango
+(b) Papaya
+(c) Carrot
+(d) Milk
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Which one of the following is an important source of vitamin E?
+(a) Palm oil
+(b) Coconut oil
+(c) Wheat germ oil
+(d) Mustard oil
+@ans (c)
+@end
+
+
+
+Plants contain **beta-carotene**, which the body turns into vitamin A; animal foods give retinol directly. The vitamin is **stored in the liver**. **Oranges** are prized for vitamin C, not A.
+
+@pyq U.P.P.C.S. (Mains) 1991, 2008, 2012; U.P.P.C.S. (Pre) 2020
+Which one of the following vitamins is responsible for blood clotting ?
+(a) C
+(b) K
+(c) E
+(d) D
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Which among the following pairs is not correctly matched?
+(a) Thiamin Beri-beri
+(b) Vitamin D Rickets
+(c) Vitamin K Sterility
+(d) Niacin Pellagra
+@ans (c)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Match List-I with List-II and select the correct answer using the code given below :
+@match
+List-I | List-II
+A. Vitamin K | 1. Wheat germ oil
+B. Vitamin D | 2. Lemon
+C. Vitamin E | 3. Cod-liver oil
+D. Vitamin C | 4. Alfa-alfa
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 4 2
+(c) 2 3 4 1
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@section 23.5 | Deficiency Diseases
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Vitamin) | List-II (Disease)
+A. Vitamin A | 1. Beriberi
+B. Vitamin B | 2. Blindness
+C. Vitamin C | 3. Rickets
+D. Vitamin D | 4. Scurvy
+@endmatch
+Codes: A B C D
+(a) 4 3 2 1
+(b) 2 1 4 3
+(c) 1 2 3 4
+(d) 1 3 2 4
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010; U.P.P.C.S. (Pre) 2015; U.P. R.O./A.R.O. (Pre) 2023
+Match List- I with List- II and select the correct answer from the code given below the lists :
+@match
+List- I (Disease) | List- II (Cause)
+A. Nightblindness | 1. Vitamin D
+B. Rickets | 2. Vitamin C
+C. Scurvy | 3. Vitamin B
+D. Beri-beri | 4. Vitamin A
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 4 1 2 3
+(d) 2 3 4 1
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and select the correct answer using the code given below:
+@match
+List-I | List-II
+A. Vitamin C | 1. Night blindness
+B. Folic acid | 2. Beriberi
+C. Vitamin A | 3. Anaemia
+D. Vitamin B1 | 4. Scurvy
+@endmatch
+Code :
+(a) A–2, B–3, C–1, D–4
+(b) A–1, B–2, C–4, D–3
+(c) A–4, B–3, C–1, D–2
+(d) A–4, B–3, C–2, D–1
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following pairs is not correctly matched?
+(a) Vitamin A - Night Blindness
+(b) Vitamin B3 - Pellagra
+(c) Vitamin D - Color Blindness
+(d) Folic acid - Anaemia
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following pairs is not correctly matched?
+(a) Vitamin D Rickets
+(b) Vitamin C Bleeding gums
+(c) Vitamin A Rheumatism
+(d) Vitamin B1 Beriberi
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2002; U.P. Lower Sub. (Spl.) (Pre) 1999
+Match List- I with List- II and select the correct answer from the code given below the lists :
+@match
+List I | List II
+A. Retinol | 1. Pernicious anaemia
+B. Tocopherol | 2. Mental illness
+C. Cyanocobalamin | 3. Conjunctivitis
+D. Pyridoxine | 4. Sterility/infertility
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 4 3 2 1
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which one of the following compounds is not a vitamin?
+(a) Niacin
+(b) Thyroxine
+(c) Riboflavin
+(d) Pyridoxine
+@ans (b)
+@end
+
+
+**Colour blindness** is genetic (X-linked), not a vitamin deficiency. **Rheumatism** is not linked to vitamin A. **Thyroxine** is a hormone, not a vitamin.
+
+@section 23.6 | Energy Foods
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following groups of diet provides maximum energy to human body?
+(a) Fat, Protein, Vitamin
+(b) Vitamin, Mineral, Water
+(c) Carbohydrate, Fat, Protein
+(d) Carbohydrate, Protein, Vitamin
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+In which category of food is the most amount of calories per unit
+(a) Vitamins
+(b) Fats
+(c) Carbohydrates
+(d) Proteins
+@ans (b)
+@end
+
+@one
+Which metabolic process yields the maximum energy?
+@ans Fats
+@end
+
+
+@table
+Nutrient | Energy per gram
+**Fat** | **About 9 kcal** (most)
+Carbohydrate | About 4 kcal
+Protein | About 4 kcal
+Vitamins, minerals, water | **0** (no energy)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Apples have special value for heart patients, because they are rich source of –
+(a) Sodium and Potassium
+(b) Phosphorus and Magnesium
+(c) Potassium and Phosphorus
+(d) Potassium only
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which one is not micronutrient?
+(a) Iron
+(b) Zinc
+(c) Sulphur
+(d) Manganese
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Banana accepted as most calories fruit has what amount of calories per 100 gm –
+(a) 416 Kcal
+(b) 316 Kcal
+(c) 216 Kcal
+(d) 116 Kcal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+How many calories are gained by drinking a glass of water?
+(a) Zero
+(b) 15
+(c) 25
+(d) 50
+@ans (a)
+@end
+
+
+**Banana** gives about **90-116 kcal per 100 g**, among the highest of common fruits. **Water** has no calories. **Apples** are rich in **potassium** (good for blood pressure) and soluble fibre (pectin).
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+An essential constituent of diet is
+(a) Starch
+(b) Glucose
+(c) Carbohydrate
+(d) Cellulose
+@ans (c)
+@end
+
+
+@one
+Nitrogen is not an essential constituent of
+@ans carbohydrates
+@end
+
+Carbohydrates (sugars, starch) contain only **carbon, hydrogen and oxygen**; proteins also contain **nitrogen**. Humans cannot digest **cellulose**, which serves only as fibre.
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Grains of basmati rice get elongated on being cooked because of higher content of –
+(a) Lysine
+(b) Amylose
+(c) Sugar
+(d) Oil
+@ans (b)
+@end
+
+
+Basmati grains **lengthen** on cooking (up to twice) because of high **amylose** starch; sticky rice is rich in amylopectin.
+
+@section 23.7 | Proteins and Amino Acids
+
+@pyq U.P.P.C.S. (Pre) 1994
+The substance which makes up about 80% of the living material in most organisms is :
+(a) Protein
+(b) Fats
+(c) Carbohydrates
+(d) Minerals
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Protein requirement of young and old person are –
+(a) Almost the same
+(b) Higher in the young and lower in the old
+(c) Higher in the old and lower in the young
+(d) Very high in the young and very low in the old.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2008; U.P.R.O/A.R.O. (Pre) 2014
+The highest protein content is found in –
+(a) Pigeon pea
+(b) Soyabean
+(c) Horse pea
+(d) Wheat
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+A rich source of both protein and fat is :
+(a) Coconut
+(b) Groundnut
+(c) Soyabean
+(d) Sunflower
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2010
+Which one of the following statements is not correct regarding the amino acids, tyrosine, present in protein rich food?
+(a) It can help increase energy levels.
+(b) It can help with emotional & environmental stress.
+(c) It can combat depression.
+(d) It can protect against free radicals responsible for aging.
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The substance responsible for bread-making quality in wheat is –
+(a) Gluten
+(b) Globulin
+(c) Glycin
+(d) Lycine
+@ans (a)
+@end
+
+
+**Soybean** has the highest protein of common foods (about **40%**); groundnut is rich in both protein (about 25%) and fat (about 45%). **Gluten** in wheat makes dough elastic, giving bread its texture (and triggers **coeliac disease** in some people). Protein needs are higher during growth, pregnancy and lactation and in the elderly to prevent muscle loss.
+
+@pyq U.P.P.C.S. (Pre) 1990
+The tissues are formed in body by
+(a) Fat
+(b) Carbohydrate
+(c) Protein
+(d) Vitamins
+@ans (c)
+@end
+
+@pyq UP.P.C.S. (Mains) 2003
+Alpha-keratin is a protein, present in :
+(a) Blood
+(b) Skin
+(c) Lymph
+(d) Eggs
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following substances is NOT a protein?
+(a) Cotton
+(b) Hair
+(c) Spider Silk
+(d) Hoof
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which one of the following does not denature a protein?
+(a) Heat
+(b) Infrared rays
+(c) X-rays
+(d) Heavy metal salts
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following statements about enzymes is/ are correct?
+1. They are biocatalysts.
+2. They perform their action on the site where they are produced.
+Select the correct answer from the codes given below :
+Codes :
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@one
+Which protein is present in human hair and nails?
+@ans Keratin
+@end
+
+Proteins build tissues. **Keratin** forms hair, nails, hooves and the outer skin; **fibroin** is silk; **collagen** is the most abundant protein in the body. Heat, X-rays, acids and heavy-metal salts **denature** proteins; infrared rays mainly warm them. **Cotton** is cellulose. **Enzymes** are biocatalysts; the source accepts both statements, though many enzymes (digestive ones, for example) act away from where they are made.
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following compounds is not stored in human body –
+(a) Glycogen
+(b) Amino acids
+(c) Fat
+(d) Tocopherol
+@ans (b)
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2016
+Which one of the following food materials contains all essential amino acids?
+(a) Rice
+(b) Milk
+(c) Egg
+(d) Soyabean
+@ans (*)
+@note **Milk, egg and soybean** all supply every essential amino acid ("complete proteins"); rice is short of **lysine**. With three right answers, the source marks the question (*).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following eatables is the best source of all the essential amino acids?
+(a) Banana
+(b) Pulses
+(c) Egg
+(d) Fish
+@ans (c)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Given below are two statements, one labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Sunflower oil is rated as a good quality edible oil.
+Reason (R) : I t contains high quantities of unsaturated fatty acids.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (a)
+@end
+
+
+Of the 20 amino acids, **9 are essential** for adults (must come from food). **Egg** protein is the reference "complete" protein. **Sunflower** oil is good for health because it is rich in **unsaturated** fatty acids.
+
+@section 23.8 | Minerals
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+The element that maintains balance between acidity and alkalinity in our body is
+(a) Phosphorus
+(b) Sodium
+(c) Potassium
+(d) Calcium
+@ans (a)
+@end
+
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Among the following which fruit is a rich source of iron?
+(a) Jambo
+(b) Karonda
+(c) Loquat
+(d) Guava
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following is a rich source of iron?
+(a) Carrot
+(b) Pea
+(c) Rice
+(d) Spinach
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2000, 2014
+Match List-I with List-II and select the correct answer using the code given below the lists :
+@match
+List-I (molecules) | List-II (elements present)
+A. Vitamin B12 | 1. Magnesium
+B. Haemoglobin | 2. Cobalt
+C. Chlorophyll | 3. Copper
+D. Brass | 4. Iron
+@endmatch
+Code : A B C D
+(a) 2 4 1 3
+(b) 2 1 3 4
+(c) 4 1 2 3
+(d) 3 4 2 1
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following is not correctly matched?
+(a) Chlorophyll – Magnesium
+(b) Hemoglobin – Iron
+(c) Table salt – Sodium
+(d) Washing soda – Potassium
+@ans (d)
+@end
+
+
+@table
+Mineral | Role | Deficiency / source
+**Iron** | **Haemoglobin** | **Anaemia**; spinach, karonda, jaggery, liver
+**Calcium, phosphorus** | Bones, teeth | Rickets, osteoporosis; milk
+**Phosphorus** | ATP, DNA; acid-base **buffer** | Milk, pulses
+**Iodine** | Thyroxine | **Goitre**; iodised salt
+Sodium, potassium | Nerve impulses, fluid balance | Salt; bananas, apples
+Zinc | Enzymes, immunity | Dwarfism, poor wound healing
+**Micronutrients** for plants | Iron, zinc, manganese, copper, boron, molybdenum, chlorine | **Sulphur** is a secondary macronutrient
+@end
+
+@section 23.9 | Milk
+
+@pyq U.P.P.C.S. (Pre) 2007
+Among the following, presence of which brings sweetness in milk?
+(a) Microse
+(b) Lactose
+(c) Sucrose
+(d) Carotene
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Cow milk is yellowish white in colour due to the presence of –
+(a) Casein
+(b) Lactose
+(c) Carotene together with casein
+(d) Butyric acid together with lactose
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Casein is milk :
+(a) Bacterium
+(b) Sugar
+(c) Protein
+(d) Fat
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2017
+Which one of the following pairs is not correctly matched? Compound Classification
+(a) Saccharin Carbohydrate
+(b) Adrenaline Hormone
+(c) Thiamine Vitamin
+(d) Keratin Protein
+@ans (a)
+@end
+
+
+
+@one
+The saccharide present in milk is
+@ans lactose
+@end
+
+@one
+The light yellow colour of cow's milk is due to the presence of :
+@ans Carotene
+@end
+
+@one
+The white colour of milk is due to the presence of
+@ans casein
+@end
+
+@table
+Milk component | Fact
+**Lactose** | Milk sugar (glucose + galactose); gives sweetness; lactose intolerance in some adults
+**Casein** | Main milk **protein** (a phosphoprotein); scatters light and makes milk **white**
+**Carotene** | Makes **cow milk yellowish** (buffalo milk is whiter, buffaloes convert carotene to vitamin A)
+Fat | Higher in buffalo milk (about 7%) than cow milk (about 4%)
+Lacks | **Iron** and vitamin C, so breast-fed babies need iron later
+@end
+
+**Saccharin** is an artificial sweetener, not a carbohydrate. A lactating mother needs extra protein: about **70 g a day** was the older standard (ICMR now advises about 60-70 g depending on weight).
+
+@pyq U.P.P.C.S. (Mains) 2008
+How much protein a lactating mother requires in a daily diet?
+(a) 30 grams
+(b) 20 grams
+(c) 70 grams
+(d) 100 grams
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Mother's milk provides almost complete diet to the new-born, but it lacks the following
+(a) Iron
+(b) Calcium
+(c) Magnesium
+(d) Potassium
+@ans (a)
+@end
+
+
+@trap
+**Funk** named vitamins. **A, D, E, K are fat-soluble**; B and C water-soluble; **C is not stored**, **B_{12} is stored**. **B_{1} = beriberi (polished rice)**, B_{2} = cheilosis, **B_{3} = pellagra**, B_{12} = **cobalt**, pernicious anaemia. **Vitamin K = clotting**, **E = antisterility**, **D = sunlight, rickets**. Best vitamin C source = **amla**. **Fat gives 9 kcal/g.** **Soybean** has the most protein. **Casein** makes milk white, **carotene** yellow; milk lacks **iron**.
+@end
+
+@heatmap
+
+@pattern
+Vitamins and nutrition give the single largest block of biology questions, nearly every paper from the 1990s to **2024** has at least one. Vitamin-disease matching (2023, 2024) and Assertion-Reason on storage and synthesis (2017, 2019, 2021) are the recurring formats.
+@end
+
+@next
+Likely next angles: **anaemia** under **Anaemia Mukt Bharat**, **fortified rice** (iron, folic acid, B_{12}) in the PDS, **millets** (Shree Anna) and their nutrients, **vitamin D deficiency** in sunny India, the **Eat Right India** campaign, **POSHAN 2.0**, **NFHS-5** data on stunting and anaemia, and **ultra-processed foods**.
+@end

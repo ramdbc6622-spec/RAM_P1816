@@ -1,0 +1,283 @@
+@chapter 14 | Atomic Structure, Matter and Solutions
+@unit UNIT III · CHEMISTRY
+
+@intro
+Chemistry begins with the **atom**: its particles and who found them, antiparticles and neutrinos, and **isotopes, isobars and isotones**. The second half covers **physical and chemical changes**, mixtures and **colloids** (milk as an emulsion, honey as a true solution), freezing mixtures, **osmosis and reverse osmosis**, purification methods and **sublimation**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 14.1 | Particles of the Atom
+
+@pyq U.P. P.C.S. (Pre) 1996
+The constituents of atomic nucleus are –
+(a) Electron and proton
+(b) Electron and neutron
+(c) Proton and neutron
+(d) Proton, neutron and electron
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following events and arrange them in correct chronological order starting from the earliest to the last activity :
+(I) Discovery of pi meson
+(II) Discovery of neutron
+(III) Discovery of electron
+(IV) Discovery of proton
+Select the correct answer from the code given below :
+Code :
+(a) (III), (II), (I), (IV)
+(b) (III), (IV), (II), (I)
+(c) (I), (III), (IV), (II)
+(d) (III), (IV), (I), (II)
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995, 1996
+In atom, neutron was discovered by :
+(a) J.J. Thomson
+(b) Chadwick
+(c) Rutherford
+(d) Newton
+@ans (b)
+@end
+
+
+@table
+Particle | Charge | Discovered by | Year
+**Electron** | -1 | **J.J. Thomson** (cathode rays) | 1897
+**Proton** | +1 | **Rutherford** (also Goldstein's canal rays, 1886) | 1917-19
+Nucleus | + | **Rutherford** (gold-foil experiment) | 1911
+**Neutron** | 0 | **James Chadwick** | **1932**
+Positron | +1 | C.D. Anderson | 1932
+**Pi meson** | ±1 or 0 | Cecil Powell | 1947
+Neutrino | 0 | Predicted by Pauli (1930), detected 1956 | -
+@end
+
+The nucleus holds **protons and neutrons** (together called nucleons); electrons move around it. Chronological order of discovery: **electron → proton → neutron → pi meson**.
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which of the following is not a sub-atomic particle?
+(a) Neutron
+(b) Proton
+(c) Deuteron
+(d) Electron
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following pairs constitutes particleantiparticle pair?
+(a) Electron - Positron
+(b) Proton - Neutron
+(c) Photon - Electron
+(d) Neutron - Neutrino
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2021
+Which of the following particles has zero charge?
+(a) Positron
+(b) Neutrino
+(c) Electron
+(d) α-particle
+@ans (b)
+@end
+
+
+A **deuteron** is the nucleus of deuterium (one proton and one neutron), a combination rather than a basic sub-atomic particle. Every particle has an **antiparticle** of equal mass and opposite charge: the **electron's is the positron**. **Neutrinos** have no charge and almost no mass, and pass through the Earth almost untouched; India's planned neutrino observatory (INO) is at Theni, Tamil Nadu.
+
+@section 14.2 | Isotopes and Isobars
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to isotopes, which of the following statement(s) is/are correct?
+1. Atoms having the same atomic number but different atomic masses are called isotopes.
+2. Protium, deuterium and tritium are isotopes of carbon.
+Choose the correct answer using the code given below:
+Code:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The atoms, in which the number of protons is same but the number of neutrons is different, are known as –
+(a) Isobars
+(b) Isomers
+(c) Isotones
+(d) Isotopes
+@ans (d)
+@end
+
+
+@one
+Isotopes are atoms of the same element whose
+@ans atomic weights are different, but atomic numbers are the same.
+@end
+
+@table
+Term | Same | Different | Example
+**Isotopes** | **Atomic number** (protons) | Mass number (neutrons) | **Protium, deuterium, tritium** (hydrogen); C-12, C-14
+**Isobars** | **Mass number** | Atomic number | Argon-40 and calcium-40
+**Isotones** | **Number of neutrons** | Protons and mass number | C-14 and O-16 (8 neutrons each)
+**Isomers** | Molecular formula (compounds) | Structure | Ethanol and dimethyl ether
+@end
+
+Protium, deuterium and tritium are isotopes of **hydrogen**, not carbon, so statement 2 of the 2025 question is false. Isotopes have the same chemical properties because chemistry depends on electrons, which equal the protons.
+
+@section 14.3 | Physical and Chemical Changes
+
+@pyq U.P.P.C.S. (Pre) 1992
+Change of water into the vapour is called –
+(a) Natural
+(b) Physical
+(c) Chemical
+(d) Biological
+@ans (b)
+@end
+
+
+A **physical change** alters only the state or form and is usually reversible: melting, boiling, freezing, dissolving sugar, breaking glass, magnetising iron. A **chemical change** makes new substances and is hard to reverse: rusting, burning, curdling of milk, cooking, digestion, photosynthesis.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is NOT correctly matched?
+(a) Desalination – Sea water
+(b) Reverse osmosis – Potable water
+(c) Denaturation – Proteins
+(d) Pasteurization – Tea
+@ans (d)
+@end
+
+**Pasteurisation** (Louis Pasteur) heats **milk** briefly (about 72°C for 15 seconds, or 63°C for 30 minutes) and cools it quickly to kill disease germs without changing its taste. **Denaturation** is the unfolding of proteins by heat or acid (boiling an egg).
+
+@section 14.4 | Mixtures, Colloids and Solutions
+
+@pyq U.P. P.C.S. (Pre) 2022
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : A solution of table salt in a glass of water is homogeneous.
+Reason (R) : A solution having different compositions throughout is homogeneous.
+Select the correct answer from the code given below :
+Code :
+(a) (A) is true but (R) is false
+(b) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(c) (A) is false but (R) is true
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+@ans (a)
+@end
+
+A **homogeneous** mixture has the **same composition throughout** (salt water, air, alloys); a mixture that varies from place to place is **heterogeneous**, so the Reason has the definition backwards.
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Give a thought to these statements :
+Statement (A) : Temperature below 0°C is achieved by the mixture of salt and ice.
+Reason (R) : Salt increases the freezing point of ice. In the context of above statements which one of the following is correct:
+(a) (A) and (R) both correct, and (R) is the correct explanation of (A).
+(b) (A) and (R) both correct, but (R) is not the correct explanation of (A).
+(c) (A) is correct but (R) is wrong.
+(d) (A) is wrong but (R) is correct.
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2024
+Milk is an example of:
+(a) Foam
+(b) Sol
+(c) Aerosol
+(d) Emulsion
+@ans (d)
+@end
+
+@one
+Milk is an example of
+@ans An emulsion
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of these is not a colloid :
+(a) Milk
+(b) Blood
+(c) Icecream
+(d) Honey
+@ans (d)
+@end
+
+
+@table
+Colloid type | Dispersed in | Example
+**Emulsion** | Liquid in liquid | **Milk** (fat in water), butter, cold cream, mayonnaise
+**Sol** | Solid in liquid | Paint, ink, starch solution, **blood**
+**Gel** | Liquid in solid | Jelly, cheese, curd
+**Foam** | Gas in liquid | Shaving foam, whipped cream, soap lather
+**Aerosol** | Liquid or solid in gas | Fog, mist, clouds (liquid); smoke, dust (solid)
+Solid foam | Gas in solid | Pumice, foam rubber
+@end
+
+Colloids scatter a beam of light (**Tyndall effect**) and their particles (1-1,000 nm) do not settle. **Honey** is a concentrated **true solution** of sugars in water, so it is not a colloid; ice cream is a colloid of fat, air and ice.
+
+@pyq U.P.P.C.S. (Pre) 2017
+If an unsaturated sugar solution is prepared by mixing 100 grams of sugar with half litre of water, which of the following physical quantities will not change?
+(a) Mass
+(b) Density
+(c) Concentration
+(d) Volume
+@ans (d)
+@end
+
+
+Sugar dissolves into the spaces between water molecules, so the **volume** of half a litre of water hardly changes, while mass, density and concentration all go up.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following statements with reference to osmosis : (1) If the semipermeable membrane is placed between the solvent and solution, the solvent molecules will flow through the membrane from pure solvent to the solution. (2) The process of flow of solvent is called as reverse osmosis.
+Select the correct answer using the code given below :
+(a) Neither (1) nor (2)
+(b) Only (2)
+(c) Only (1)
+(d) Both (1) and (2)
+@ans (c)
+@end
+
+
+**Osmosis**: solvent flows through a semipermeable membrane from **pure solvent (or dilute solution) into the concentrated solution**. **Reverse osmosis** pushes it the other way by applying pressure greater than the osmotic pressure; it is used in **RO water purifiers** and **desalination** plants. So statement 2, which calls ordinary osmosis "reverse osmosis", is wrong.
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Which one of the following processes is NOT useful for purification of solid impurities?
+(a) Distillation
+(b) Sublimation
+(c) Crystallization
+(d) All of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+A sample of any of the following substances disappears after sometime when exposed to air like camphor, naphthalene or dry ice. This phenomenon is called :
+(a) Sublimation
+(b) Evaporation
+(c) Diffusion
+(d) Radiation
+@ans (a)
+@end
+
+
+@table
+Method | Separates / purifies
+**Distillation** | Liquids from dissolved solids, or liquids with different boiling points (it purifies **liquids**)
+Fractional distillation | Petroleum fractions, liquid air (oxygen, nitrogen)
+**Sublimation** | Solids that turn directly into vapour: **camphor, naphthalene, iodine, ammonium chloride, dry ice**
+**Crystallisation** | Pure solid crystals from a solution (sugar, salt, alum)
+**Chromatography** | Pigments, dyes, drugs
+Centrifugation | Cream from milk, blood components
+@end
+
+@trap
+The nucleus has **protons and neutrons** only. **Chadwick** found the neutron (1932). Electron's antiparticle = **positron**. **Neutrino** has zero charge. Protium, deuterium and tritium are isotopes of **hydrogen**. **Isotopes** = same atomic number; **isobars** = same mass number. **Milk is an emulsion**; **honey is not a colloid**. A salt-ice mixture works because salt **lowers** the freezing point. Pasteurisation is for **milk**, not tea.
+@end
+
+@heatmap
+
+@pattern
+These are short concept questions. The papers of **2019-2025** returned to basics (isotopes, emulsion, osmosis, homogeneous mixtures, chronology of particle discoveries), often as two-statement or Assertion-Reason items that test the precise definition.
+@end
+
+@next
+Likely next angles: **Bohr's model** and electron shells, **atomic number vs mass number** calculations, **tritium** in fusion reactors, **radioisotopes** in medicine, the **Tyndall effect** in forest sunbeams, **brownian motion**, **RO purifiers** and water wastage, and **nanoparticles** as colloids.
+@end
