@@ -9,7 +9,7 @@ import re
 import sys
 
 JUNK = re.compile(
-    r"^(Click here.*|General G.*|I+\. Indian G.*|Geography|uestion Papers|\*UPPSC Qu.*|"
+    r"^(Click here.*|General G.*|I+\. (Indian|World) G.*|Geography|uestion Papers|\*UPPSC Qu.*|"
     r"Studies \(General Geography\)|General Studies.*|\d{3,4})$"
 )
 TAG = re.compile(
