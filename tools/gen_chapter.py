@@ -20,7 +20,7 @@ import sys
 
 TAGRX = re.compile(r"(U\.?\s?P\.|UPPSC|UPPCS|R\.O\.|Lower Sub|B\.E\.O|GIC|U\.D\.A|L\.D\.A|\(Pre\)|\(Mains\))")
 YEAR = re.compile(r"(19|20)\d\d")
-JUNK = re.compile(r"\s*(FREEPDFHALL|Click here -@F|estion Papers|uestion Papers)\s*")
+JUNK = re.compile(r"\s*(ocial Development Development|General Studies \(Economic & Social Development\)|FREEPDFHALL|Click here -@F|estion Papers|uestion Papers)\s*")
 NEWLINE_START = re.compile(
     r"^(\d{1,2}\.\s|[A-H]\.\s|\([ivxIVX]+\)|[ivx]+\.\s|Select|Choose|Code|Which|Consider|"
     r"Statement|Assertion|Reason|List|Find|Of the|Mark|Read|Given|What|How)"
@@ -69,6 +69,12 @@ def repair(q):
                 q["tags"].append(rest.pop(0))
             continue
     q["expl"] = rest
+    if not q["tags"] and q["opts"]:
+        k = sorted(q["opts"])[-1]
+        m = re.search(r"\s((?:U\.?\s?P\.|UPPSC|UPPCS)[^()]*?\(.*?(?:19|20)\d\d.*)$", q["opts"][k])
+        if m:
+            q["tags"].append(m.group(1))
+            q["opts"][k] = q["opts"][k][:m.start()].strip()
     return q
 
 
