@@ -1,0 +1,560 @@
+@unit UNIT III · EXTERNAL SECTOR
+
+@chapter 17 | India's Foreign Trade
+
+@intro
+The external sector opens with **India's foreign trade**: its size and share in world trade, **trading partners** (countries and regions), the **composition of imports and exports**, leading export items, states and markets, and the basics of the **balance of trade and balance of payments**. Trade data change every year, so many old keys have moved; each such case is noted. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 17.1 | Size of India's Trade
+
+@pyq U.P.P.C.S. (Mains) 2014, 2017; U.P. R.O./A.R.O. (Mains) 2014
+The long-term vision of the Department of Commerce is to make India a major player in the world trade by:
+(a) 2018
+(b) 2019
+(c) 2020
+(d) 2021
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2014; U.P.P.C.S. (Mains) 2015
+In 2011-12, data of external trade of India reached at about :
+(a) Rs. 71,000 crore
+(b) Rs. 81,000 crore
+(c) Rs. 91,000 crore
+(d) Rs. 101,000 crore
+@ans (*)
+@note India's total trade in 2011-12 was about **Rs. 38.1 lakh crore**, far above every option, so the source marks it (*). In **2024-25** India's total exports of goods and services reached about **US$ 825 billion**, a record.
+@end
+
+
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016
+Which of the following statements is correct about 'India's Trade Gross Domestic Product' ratio?
+(a) India's Trade GDP ratio has been more than 50% since 2000
+(b) India's Trade GDP ratio was minimum in 2007
+(c) India's Trade GDP ratio was 46.02% in 2019
+(d) India's Trade GDP ratio in 2019 was less than 2018 by nearly 3.4%
+@ans (*)
+@note World Bank data put India's trade-GDP ratio at about **27% in 2000**, above **50% only in 2008 and 2011-2013**, about **44% in 2018** and **39.4% in 2019**. None of the statements is exactly right, so the source marks it (*).
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014; U.P. R.O. / A.R.O. (Mains) 2014
+India's total merchandise trade as a percentage of GDP has increased from 29.5% in 2004-05 to what percentage in 2012-13?
+(a) 30.5%
+(b) 40.6%
+(c) 45.6%
+(d) 50.6%
+@ans (b)
+@end
+
+@pyq U.P. P.C.S (Mains) 2013
+The combined share of exports and imports of goods was 14.2 percent of GDP in 1990-91. In 2011-12 this share became :
+(a) almost two times that of 1990-91
+(b) almost three times that of 1990-91
+(c) almost five times that of 1990-91
+(d) almost ten times that of 1990-91
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The exports of goods and services from India as a percentage of India’s GDP in 2010-11 was :
+(a) 26 percent
+(b) 24 percent
+(c) 22 percent
+(d) 20 percent
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+In 1950, India’s share in global exports was 1.85 per cent, but today it is :
+(a) 0.60 per cent
+(b) 1.00 per cent
+(c) 2.00 per cent
+(d) 2.50 per cent
+@ans (*)
+@note When asked (1998), India's share of world exports was about **0.6%** (option a). It has since risen to about **1.8%** of world merchandise exports (2024), while its share of world services exports is about **4.3%**; the source marks it (*) because the figure keeps changing.
+@end
+
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which country has the largest share in international trade?
+(a) China
+(b) France
+(c) Germany
+(d) U.S.A.
+@ans (a)
+@note When asked (2013), the **USA** (d) led world trade. The source keys the present answer, **(a) China**, which is now the largest trader and the top merchandise exporter.
+@end
+
+
+
+@table
+Trade fact (latest) | Figure
+India's share of world merchandise exports | About **1.8%** (rank 17-18)
+India's share of world merchandise imports | About **2.8%**
+India's share of world **services exports** | About **4.3%** (rank 7-8)
+Top merchandise exporter | **China**; then USA, Germany
+Top services exporter | **USA**; then UK, Ireland
+India's total exports 2024-25 | About **US$ 825 billion** (goods + services)
+Trade policy target | **US$ 2 trillion** of exports by 2030 (FTP 2023)
+@end
+
+@section 17.2 | Trading Partners
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following regions has emerged as the largest International Trade Partner (Export and Import) of India in 2008-09?
+(a) European Union
+(b) North America
+(c) Asia and ASEAN
+(d) Africa
+@ans (c)
+@note **Asia** has been India's largest trading region for years: in 2024-25 it supplied about **62% of imports** and took about **40% of exports**.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+With which of the following groups of countries India has the largest import trade?
+(a) OECD
+(b) OPEC
+(c) Eastern Europe
+(d) Developing countries
+@ans (b)
+@note Oil imports made **OPEC** the largest source group when asked. Today the top single sources are **China > Russia > UAE > USA**.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+In 2011 which two countries accounted for the largest share percent in India's total trade with rest of the world?
+(a) China and UAE
+(b) USA and Saudi Arabia
+(c) UAE and Saudi Arabia
+(d) Germany and Japan
+@ans (a)
+@note In 2011 **China and the UAE** were India's top two trading partners. The **USA** has been the largest partner in most recent years, with China a close second.
+@end
+
+@one U.P. U.D.A./L.D.A. (Pre) 2010
+Which region had largest share of India's imports in 2009-10?
+@ans Asia and ASEAN
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+More than 50 percent of India's import comes from
+@ans Asian countries
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which of the following countries is India’s largest trading partner?
+(a) UK
+(b) USA
+(c) Canada
+(d) Japan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Among the following countries India's trade balance surplus is maximum with which country in 2019-20?
+(a) USA
+(b) China
+(c) Japan
+(d) United Arab Emirates
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2004
+With which nation, India's trade on current account is more in the foreign trade balance?
+@ans USA
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P. U.D.A./L.D.A. (Pre) 2010
+The largest part of India’s import (in value) comes from:
+(a) China
+(b) Saudi Arabia
+(c) United Arab Emirates
+(d) U.S.A.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The largest part of India’s export (in value) goes to :
+(a) China
+(b) Singapore
+(c) United Arab Emirates
+(d) United States of America
+@ans (d)
+@note In 2009-10 the **UAE** (c) took the largest share of India's exports. The source keys the present answer, **(d) USA**, which took about **20%** of India's exports in 2024-25.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+In the year 2009-10, which of the following countries accounted for largest share in exports from India ?
+(a) UAE
+(b) China
+(c) USA
+(d) Saudi Arabia
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002*
+In India's total exports, the share of United States of America is :
+(a) 30 percent
+(b) 25 percent
+(c) 20 percent
+(d) 15 percent
+@ans (c)
+@end
+
+
+
+@table
+Partner (2024-25) | Fact
+**USA** | **Largest export market** (about US$ 86.5 billion, 20%); India's **largest trade surplus**
+**China** | **Largest source of imports** (about US$ 113 billion); India's **largest trade deficit**
+UAE | 2nd export market, 3rd import source
+Russia | 2nd import source (crude oil since 2022)
+@end
+
+@section 17.3 | Balance of Trade and Payments
+
+@pyq U.P.P.C.S. (Mains) 2017
+Assertion (A) : India’s trade deficit, after reaching the highest level in the year 2012-13 registered continuous decline since 2013-14.
+Reason (R) : There was a general decline in both P.O.L. and Non-P.O.L. deficits since 2013-14.
+Codes :
+(a) Both (A) and (R) are correct and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are correct but (R) is not the correct explanation of (A).
+(c) (A) is correct but (R) is false.
+(d) (A) is false but (R) is correct.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which of the following is included in Balance of Trade?
+(a) Goods
+(b) Services
+(c) Transfer of payment
+(d) All of the above
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Net export equals to :
+(a) Export × Imports
+(b) Export + Imports
+(c) Export – Imports
+(d) Exports of services only
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Term ‘Balance of Payment’ is used in relation to which of the following ?
+(a) Annual sale of a factory
+(b) Tax collection
+(c) Exports & Imports
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Balance of payment includes :
+(a) Visible Trade
+(b) Invisible Trade
+(c) Borrowings
+(d) All of the above
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Pre) 1994
+Balance of Payment is defined as
+@ans Complete record of all economic transactions between residents of a country and the rest of the world
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+Given below are two statements, one labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : When the payments made by a country exceeds its receipts from trade of goods, services, transfer and net income, is called Current Account Deficit (CAD).
+Reason (R) : Current Account Deficit (CAD) occurs when a country exports more goods, services and capital.
+Choose the correct answer from the code given below.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+
+@table
+Account | Contents
+**Balance of trade** | **Goods** (visible) exports − imports; India runs a large **deficit**
+**Current account** | Goods + **services (invisibles)** + income + **transfers** (remittances)
+**Current account deficit** | Payments for goods, services, income and transfers exceed receipts; it comes from **importing more**, not exporting more
+**Capital account** | FDI, FPI, loans (ECB), NRI deposits, banking capital
+Net exports | **Exports − imports**
+@end
+
+India's trade deficit peaked in **2012-13** and fell after 2013-14 as both **oil and non-oil** deficits shrank, so the Reason explains the Assertion.
+
+@section 17.4 | What India Imports
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following has been India’s most important import item over the years?
+(a) Cotton
+(b) Chemical fertilizers
+(c) Petroleum and crude oil
+(d) Iron and steel
+@ans (c)
+@end
+
+@pyq UP.P.C.S. (Pre) 1995
+Two largest items of import in India in recent years are :
+(a) Petroleum products and foodgrains
+(b) Capital goods and petroleum products
+(c) Petroleum products and Chemical fertilizers
+(d) Gems and petroleum product
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+In the year 2004-05, following groups had important share in India's imports :
+1. Fuel
+2. Capital Goods
+3. Gold and Silver
+4. Chemicals Arrange the aforesaid items in descending order in terms of their percentage share and choose your answer with the help of given codes :
+Code :
+(a) 1, 2, 3, 4
+(b) 1, 3, 2, 4
+(c) 2, 3, 4, 1
+(d) 4, 3, 2, 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The biggest LNG supplier to India is :
+(a) Iran
+(b) Kuwait
+(c) Qatar
+(d) Saudi Arabia
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011; U.P.P.C.S. (Mains) 2011
+Import procedure begins with :
+(a) Indent
+(b) Mate’s receipt
+(c) Marine insurance
+(d) Shipping bill
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011; U.P.P.C.S. (Mains) 2009; U.P. Lower Sub. (Pre) 2013
+A Letter of Credit (L/C) has to be produced by :
+(a) An exporter
+(b) An importer
+(c) Custom authorities
+(d) Shipping company
+@ans (b)
+@end
+
+
+@one U.P. Lower Sub. (Spl.) (Pre) 2004; U.P.P.C.S. (Spl.) (Mains) 2004
+What has been the most important item in the total imports of India in recent years?
+@ans Petroleum & Edible Oil
+@end
+
+**Crude oil and petroleum products** are India's largest import (about Rs. 15.7 lakh crore in 2024-25), followed by **electronics, gold, capital goods** and edible oil. **Qatar** is the biggest **LNG** supplier. An import begins with an **indent** (order), and the **importer** arranges the **letter of credit** through his bank.
+
+@section 17.5 | What India Exports
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which of the following items had the largest share in India's export in the year 2004-05?
+(a) Agricultural and allied products
+(b) Ores and Minerals
+(c) Manufactured Goods
+(d) Petroleum Products
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following commodity has the greatest share of Indian exports?
+(a) Agricultural products
+(b) Mineral ores
+(c) Handicrafts
+(d) Engineering goods
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2017; U.P.R.O./A.R.O. (Mains) 2017
+Which of the following commodities has highest export from India in 2017?
+(a) Agriculture and allied products
+(b) Engineering goods
+(c) Textiles
+(d) Chemicals
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2007
+The largest contribution to the export earnings of India comes from the export of :
+(a) Agricultural and allied products
+(b) Gems and jewellery
+(c) Machinery
+(d) Textiles and readymade garments
+@ans (a)
+@note When asked (2007), **gems and jewellery** (b) earned the most. The source keys the present answer, **(a) agricultural and allied products** (about US$ 52 billion in 2024-25).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following constitutes the single largest export item from India?
+(a) Gems and Jewellery
+(b) Readymade garments
+(c) Leather and footwear
+(d) Chemicals
+@ans (d)
+@note When asked (2012), **gems and jewellery** (a) was the single largest item. The source keys the present answer, **(d) chemicals**, which now earn more than gems and jewellery.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2003
+The largest percentage share in India's export trade is of :
+(a) Readymade garments
+(b) Electronic goods
+(c) Gems and jewellery
+(d) Tea and coffee
+@ans (b)
+@note The source keys **(b) electronic goods**, India's fastest-growing export (about 8.3% of exports in 2024-25, led by **smartphones**). When asked (2003-04), **gems and jewellery** led among these options.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+As per 2010 statistics, percentage share of gems and jewellery in India’s export is around :
+(a) 18
+(b) 25
+(c) 30
+(d) 40
+@ans (a)
+@end
+
+
+
+
+
+@pyq U.P.P.C.S. (Pre) 2007
+The rank of India in World Textile Exports is :
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (*)
+@note India was **fourth** in world textile exports when asked (option d); it is now about **sixth** in textiles and apparel, so the source marks it (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+The largest importer country of Indian textiles is :
+(a) Italy
+(b) Germany
+(c) United Kingdom
+(d) United States of America
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which of the following States contributed maximum to India's exports in dollar terms in 2007-08 and 2008-09:
+(a) Gujarat
+(b) Tamil Nadu
+(c) Maharashtra
+(d) Punjab
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+The largest quantity of steel was exported by India in 2003-04 to :
+(a) USA
+(b) Japan
+(c) China
+(d) Iraq
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002; U.P.P.C.S. (Pre) 1994
+India export maximum leather to :
+(a) U.S.A.
+(b) U.S.S.R.
+(c) England
+(d) W. Germany
+@ans (a)
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2008
+In which of the years given below growth rate of Indian exports was highest ?
+(a) 2002-03
+(b) 2003-04
+(c) 2004-05
+(d) 2005-06
+@ans (c)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+India became the largest exporter (2015) of rice, replacing which of the following countries?
+(a) China
+(b) Thailand
+(c) Indonesia
+(d) Vietnam
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+The largest tea exporting country of the world is:
+(a) India
+(b) Indonesia
+(c) Kenya
+(d) Sri Lanka
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002
+The largest producer and exporter of long staple cotton in the world is :
+(a) Egypt
+(b) India
+(c) USA
+(d) China
+@ans (a)
+@note The source keys **(a) Egypt**, the largest producer and exporter of **long-staple** cotton, ahead of India and the USA.
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which of the following services was the largest foreign exchange earner for India in the year 2007-08 and 200809?
+(a) Insurance
+(b) IT-Software services
+(c) Tourism
+(d) Financial services
+@ans (b)
+@end
+
+
+
+@table
+Export fact (2024-25) | Leader
+Largest export group | **Engineering goods** (about US$ 117 billion)
+Next | **Petroleum products**, electronics, drugs and pharma, gems and jewellery, chemicals
+**Top exporting state** | **Gujarat** (about 30%); Maharashtra led in 2007-09
+Largest services export | **IT and software services**
+Textiles and leather | **USA** is the largest buyer
+**Rice** | India is the **largest exporter** (since 2012; passed **Thailand**)
+**Tea** | **Kenya** is the largest exporter; China the largest producer
+Steel (2024-25) | Largest buyer **Italy** (China in 2003-04)
+@end
+
+@up UP link: UP's main exports are **electronics (Noida)**, carpets (Bhadohi), leather (Kanpur, Agra), brassware (Moradabad) and processed foods. Noida's mobile-phone factories made UP a major smartphone exporter.
+
+@trap
+**India: about 1.8% of world goods exports, 4.3% of services.** **China leads world trade now (USA earlier).** **Asia = largest trade region.** **USA = top export market and surplus; China = top import source and deficit.** **Balance of trade = goods only; BoP = all transactions.** **CAD = imports exceed.** **Crude oil = top import; Qatar = LNG.** **Import starts with indent; importer gets the L/C.** **Engineering goods = top export; Gujarat = top state.** **Kenya = top tea exporter; India = top rice exporter.**
+@end
+
+@heatmap
+
+@pattern
+Trade figures were asked heavily in 2002-2017 and keep going out of date. The **2016-2024** papers moved to concepts (trade-GDP ratio, BoP, CAD) and current leaders (top export item, top partner). Learn the **latest Economic Survey** tables.
+@end
+
+@next
+Likely next angles: India's **US$ 825 billion** exports, the **US tariff** dispute (2025), the **India-UK CETA** (2025), the trade deficit with China, **smartphone exports**, **services exports** and GCCs, and **Export Preparedness Index** ranks.
+@end
