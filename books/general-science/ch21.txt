@@ -1,0 +1,339 @@
+@chapter 21 | Cell, Heredity and Biofertilizers
+
+@intro
+A short chapter on three linked basics: the **cell** (cell wall, mitochondria, plasma membrane, nucleus), **heredity** (Mendel's peas, genes, DNA and its sugar, Watson and Crick, 46 chromosomes, mutation, genome mapping) and **biofertilizers** (Rhizobium in pulses, blue-green algae and **Azolla** in paddy, mycorrhiza for phosphorus). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 21.1 | The Cell
+
+@pyq U.P.P.C.S. (Pre) 1991
+How does the plant cell differ from the animal cell?
+(a) Mitochondria
+(b) Cell wall
+(c) Presence of protoplasm
+(d) Cell nucleus
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which of the following organelle is called ‘Power House’ of the cell?
+(a) Ribosome
+(b) Mitochondria
+(c) Cell membrane
+(d) Centrosome
+@ans (b)
+@end
+
+
+@table
+Organelle | Job
+**Cell wall** (cellulose) | Present in **plant** cells, absent in animal cells
+**Plasma membrane** | Lipid bilayer with proteins (fluid mosaic model, Singer and Nicolson, 1972); selectively permeable
+**Mitochondria** | **"Power house"**: aerobic respiration makes ATP; have their own DNA
+Chloroplast | Photosynthesis (plants only)
+**Ribosome** | Protein synthesis
+**Nucleus** | Holds DNA as chromosomes; controls the cell and **cell division**
+Lysosome | "Suicide bags": digestive enzymes
+Golgi body | Packaging and secretion
+Centrosome | Spindle formation in **animal** cells
+Vacuole | Large in plant cells
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Plasma membrane is built up of :
+(a) Protein
+(b) Lipid
+(c) Carbohydrate
+(d) Both (a) and (b)
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following statements is not true?
+(a) Chromosomes are composed of DNA and Protein.
+(b) Nucleus of a cell does not play a role in cellular reproduction.
+(c) Chromosomes contain information for inheritance.
+(d) Functional segment of DNA is called genes.
+@ans (b)
+@end
+
+
+The **cell** was first seen by **Robert Hooke** (1665, cork); the **cell theory** is due to **Schleiden and Schwann** (1838-39). The **nucleus** controls heredity and cell reproduction, so statement (b) is false.
+
+@section 21.2 | Heredity and DNA
+
+@pyq U.P.P.C.S. (Mains) 2002
+The classical Mendel's work on his 'laws of inheritance' was performed on the organism –
+(a) Drosophila
+(b) Snapdragon
+(c) Garden pea
+(d) Sweet Pea
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Genome mapping relates to :
+(a) Blood grouping
+(b) Mapping of genes
+(c) Mapping of nerve centers
+(d) Mapping of brain
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Change in the base sequence within a gene is called:
+(a) Mutation
+(b) Cloning
+(c) Fusion
+(d) Breeding
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The unit of heredity in our body is called :
+(a) Chromosome
+(b) DNA
+(c) Gene
+(d) Nucleus
+@ans (c)
+@end
+
+
+**Gregor Mendel** (father of genetics) crossed **garden peas** (*Pisum sativum*) and found the laws of **dominance, segregation and independent assortment** (1866). A **gene** is a functional segment of DNA and the unit of heredity; a change in its base sequence is a **mutation**. **Genome mapping** locates genes on chromosomes; the **Human Genome Project** was completed in 2003 (about 20,000 genes), and India's **Genome India** project sequenced 10,000 Indians (data released 2025).
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which compound present in D.N.A. does not form amino acid ?
+(a) Adenine
+(b) Tyrosine
+(c) Guanine
+(d) Cytosine
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+The sugar present in DNA is :
+(a) Glucose
+(b) Fructose
+(c) Deoxyribose
+(d) Ribose
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2018, 2012
+By whom was the double-helical structure of DNA proposed?
+(a) Jacob and Monod
+(b) Watson and Crick
+(c) H.G. Khorana
+(d) None of the above
+@ans (b)
+@end
+
+@one
+James D. Watson and Francis Crick are associated with which of the following discoveries?
+@ans Structure of DNA
+@end
+
+
+@table
+Feature | DNA | RNA
+Sugar | **Deoxyribose** | Ribose
+Bases | **Adenine, guanine, cytosine, thymine** | A, G, C, **uracil**
+Strands | **Double helix** (Watson and Crick, 1953, using Rosalind Franklin's X-ray data) | Usually single
+Job | Stores genetic information | Carries the code and makes proteins
+@end
+
+**Tyrosine** is an amino acid, not a DNA base. **Har Gobind Khorana** helped crack the genetic code (Nobel 1968), and **Jacob and Monod** explained gene regulation (the lac operon).
+
+@pyq U.P.P.C.S. (Pre) 1991, 1992
+How many chromosomes are there in humans?
+(a) 36
+(b) 46
+(c) 56
+(d) 26
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which of the following does not have sex-chromosome?
+(a) Monkey
+(b) Tiger
+(c) Butterfly
+(d) Lizard
+@ans (d)
+@end
+
+
+Humans have **46 chromosomes** (23 pairs: 22 pairs of autosomes + XX or XY). Sex is fixed by the father's sperm (X or Y). Many **reptiles** (most turtles, crocodiles and some lizards) have no sex chromosomes; the **incubation temperature** of the eggs decides their sex.
+
+@section 21.3 | Biofertilizers
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Biofertilizers are :
+(a) Organic manures
+(b) Cultures of micro-organisms
+(c) Green manures
+(d) None of the above
+@ans (b)
+@end
+
+
+**Biofertilizers** are cultures of living micro-organisms that add nutrients to soil by fixing nitrogen or dissolving phosphate. They are cheap and eco-friendly.
+
+@pyq U.P.P.C.S. (Pre) 2001, 2002
+Which of the following is/are used as biofertilizers?
+1. Azolla
+2. Blue-green algae
+3. Alfalfa
+4. Nitrolin
+Select the correct answer from the codes given below:
+Codes :
+(a) 2 and 4
+(b) 1, 2 and 4
+(c) 2, 3 and 4
+(d) 1, 2 and 3
+@ans (*)
+@note **Azolla** and **blue-green algae** are biofertilizers; **alfalfa** is a legume crop (a green manure), and **Nitrolin** is a chemical (calcium cyanamide) fertiliser. No option has only 1 and 2, so the source marks the question (*).
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following is not a nitrogen-fixing organism?
+(a) Nostoc
+(b) Anabaena
+(c) Azotobacter
+(d) Mycorrhiza
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Nitrogen fixing bacteria make combination with cells of the roots of
+(a) Pulses
+(b) Rice
+(c) Wheat
+(d) Sugarcane
+@ans (a)
+@end
+
+@pyq U.P.Lower Sub. (Spl.) (Pre) 2002, 2003
+Which of these is not correctly matched–
+(a) Blue-green algae - Bio-fertilizer
+(b) Chrysopa - Maho-control
+(c) Bio 902 - Variety of mustard
+(d) Azotobacter - Bioinsecticide
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P.P.C.S. (Pre) 2006
+Blue-green algae are chiefly used as biofertilizer in the crop of
+(a) Wheat
+(b) Gram
+(c) Paddy
+(d) Mustard
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is associated with biological nitrogen fixation?
+(a) Red algae
+(b) Brown Algae
+(c) Green algae
+(d) Blue-green algae
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Azolla is often used as biofertilizer because it is associated with –
+(a) Blue-green algae
+(b) Red algae
+(c) Fungus
+(d) Moss
+@ans (a)
+@end
+
+
+
+@one
+Azolla is an
+@ans aquatic fern
+@end
+
+@one
+The aquatic fern used as a biofertilizer is
+@ans Azolla
+@end
+
+@one
+Which of the following microorganisms are used as biofertilizers?
+@ans Cyanobacteria
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+The aquatic plant commonly used as bio-fertilizer in the water-logged rice field is :
+(a) Wolfia
+(b) Azolla
+(c) Trapa
+(d) Lemna
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008; U.P.P.C.S. (Mains) 2009
+Which of the following is a source of bio-fertilizer?
+(a) Yeast
+(b) Chlorella
+(c) Azolla
+(d) Mold
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+The capability of nitrogen use efficiency can be increased in crop production by
+(a) Use of split application
+(b) Use of nitrogen inhibitors
+(c) Using the slow release of nitrogen fertilizer
+(d) All of the above.
+@ans (d)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which of the following is phosphatic biofertilizer?
+(a) Rhizobium
+(b) Blue-green algae
+(c) Azolla
+(d) Vascular Arbuscular Mycorrhiza
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which bacteria is responsible for nitrogen fixation in soyabean?
+(a) Rhizobium leguminosarum
+(b) Rhizobium japonicum
+(c) Rhizobium fajioleai
+(d) Rhizobium traitolai
+@ans (b)
+@end
+
+
+@table
+Biofertilizer | Partner / crop | Nutrient
+**Rhizobium** | Root nodules of **legumes** (pulses, soybean: *R. japonicum*) | Nitrogen (symbiotic)
+**Azotobacter**, Azospirillum | Free-living in soil (cereals) | Nitrogen
+**Blue-green algae** (Anabaena, Nostoc) | **Paddy** fields | Nitrogen
+**Azolla** + *Anabaena azollae* | Floating fern in **waterlogged paddy** | Nitrogen (up to 40-60 kg N/ha)
+**VAM** (vesicular-arbuscular mycorrhiza) | Fungus with roots | **Phosphorus**
+PSB (phosphate-solubilising bacteria) | Soil | Phosphorus
+@end
+
+**Mycorrhiza** does not fix nitrogen. **Chrysopa** (lacewing) is a biological control insect, and **Azotobacter** is a biofertilizer, not a bio-insecticide. Nitrogen-use efficiency improves with **split doses**, **nitrification inhibitors** (neem coating) and **slow-release** fertilisers.
+
+@trap
+**Cell wall** marks a plant cell. **Mitochondria = power house.** Membrane = **lipid + protein**. **Mendel used garden peas.** **Gene** is the unit of heredity. DNA sugar = **deoxyribose**; **tyrosine** is not a DNA base. Humans have **46** chromosomes. **Azolla is a fern** that hosts blue-green algae; **mycorrhiza** supplies phosphorus, not nitrogen. Soybean's partner is *Rhizobium japonicum*.
+@end
+
+@heatmap
+
+@pattern
+Cell and heredity questions are basic and occasional; biofertilizers are asked almost every few years (Azolla, blue-green algae, Rhizobium), with **2019, 2023** and **2024** papers repeating them. Learn which biofertilizer goes with which crop and nutrient.
+@end
+
+@next
+Likely next angles: **Genome India** results, **gene editing** (CRISPR rice varieties released in 2025), **mitochondrial DNA**, **nano-fertilisers**, **PM-PRANAM**, the **bio-stimulant** rules, and **natural farming** (National Mission on Natural Farming, 2024).
+@end

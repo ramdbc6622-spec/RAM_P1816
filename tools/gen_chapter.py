@@ -31,6 +31,8 @@ def tidy(s):
     s = JUNK.sub(" ", s)
     s = re.sub(r"(\d)\s?[oº]\s?([CF])\b", "\\1°\\2", s)
     s = re.sub(r"(?<=\s)[oº]([CF])\b", "°\\1", s)
+    for a, b in (("I n ", "In "), ("T hese", "These"), ("I nvert", "Invert"), ("T he ", "The ")):
+        s = s.replace(a, b)
     return re.sub(r"\s+", " ", s).strip()
 
 
@@ -141,6 +143,9 @@ def render_one(o):
         if m:
             qtext, ans = m.group(1).strip(), m.group(2).strip()
     tag = tagtext(o.get("tags", []))
+    m = re.search(r"\s*\[([^\]]*\d{4}[^\]]*)\]\s*$", qtext)
+    if m and not tag:
+        tag, qtext = tagtext([m.group(1)]), qtext[:m.start()].strip()
     return f"@one {tag}".rstrip() + f"\n{qtext}\n@ans {ans}\n@end"
 
 
