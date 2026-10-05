@@ -1,0 +1,895 @@
+@chapter 11 | Banking in India
+
+@intro
+This chapter covers the **history of Indian banking** (early banks, the Imperial Bank and SBI, the **1969 and 1980 nationalisations**, mergers), **public, private, foreign and cooperative banks**, **development finance institutions** (IFCI, ICICI, IDBI, SIDBI), the **Lead Bank Scheme**, **financial inclusion** and payment banks, **NPAs, Basel norms and deposit insurance**, the rural credit system (**NABARD, RRBs, cooperatives, land development banks, SHGs, KCC**), banking committees and **plastic money**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 11.1 | History and Nationalisation
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and choose the correct answer using the code given below :
+@match
+List-I (Banks) | List-II (Year of Foundation)
+A. Allahabad Bank | 1. 1874
+B. Punjab National Bank | 2. 1881
+C. Awadh Commercial Bank | 3. 1865
+D. The Alliance Bank of Shimla | 4. 1894
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 1 2 3 4
+(c) 3 4 2 1
+(d) 2 1 3 4
+@ans (c)
+@end
+
+**Allahabad Bank** (1865) was the oldest joint-stock bank still working until it merged into **Indian Bank** (2020). **Awadh Commercial Bank** (Faizabad, 1881) was the **first bank fully run by Indians**; **PNB** (Lahore, 1894) was the first with only Indian capital.
+
+@pyq U.P.P.C.S (Mains) 2016
+In the context of independent India’s economy, which one of the following was the earliest event to take place?
+(a) Nationalization of insurance companies
+(b) Nationalization of State Bank of India
+(c) Enactment of Banking Regulation Act
+(d) Introduction of first Five Year Plan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996, 2007; U.P.P.C.S. (Mains) 2014; U.P.U.D.A./L.D.A. (Pre) 2006
+The Government of India has nationalized 14 banks of the country in :
+(a) July, 1969
+(b) August, 1971
+(c) March, 1981
+(d) July, 1991
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Consider the following statements :
+1. Gorewala Committee’s recommendation led to the establishment of State Bank of India.
+2. Six Commercial Banks were nationalized on April 15, 1980.
+Which one of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2011
+The number of public sector banks in India (excluding State Bank of India Group) is presently :
+(a) 28
+(b) 27
+(c) 20
+(d) 19
+@ans (*)
+@note In 2011 there were **19 nationalised banks** (20 public sector banks with IDBI), so (d) or (c) depending on how IDBI is counted; the source marks it (*). After the **2019-2020 mergers**, India has **12 public sector banks** including SBI.
+@end
+
+
+
+@pyq U.P.B.E.O. (Pre) 2019
+The recent amalgamation of public sector banks in India is aimed at multiple gains.
+1. Economies of scale
+2. Improved access to capital
+3. Covering larger geographical areas
+4. Banks of global size
+Select the correct benefits using the codes given below:
+Codes :
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1, 2 and 4 only
+(d) 1, 2, 3 and 4 all
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to ‘EASE-Index’, which of the following statements is/are correct?
+1. It is a way to measure the performance of the public sector banks.
+2. It measures the ease of doing business of MSMEs in India.
+Select the correct answer using the code given below Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+
+@table
+Event | Year
+Bank of Hindostan | 1770 (first bank)
+Presidency banks merged into **Imperial Bank of India** | **1921**
+**Banking Regulation Act** | **1949** (earliest of the events in Q26: insurance nationalised 1956, SBI 1955, First Plan 1951)
+**State Bank of India** (from the Imperial Bank) | **1 July 1955**, on the **All India Rural Credit Survey Committee** (A.D. Gorwala) advice
+**14 banks nationalised** | **19 July 1969** (deposits over Rs. 50 crore)
+**6 banks nationalised** | **15 April 1980**
+**Mega-mergers** | 2019 (Bank of Baroda + Vijaya + Dena); **1 April 2020**: 10 banks into 4 (PNB, Canara, Union, Indian Bank)
+**EASE** index | **Enhanced Access and Service Excellence**: reform agenda that measures **public sector banks'** performance (from 2018)
+@end
+
+@section 11.2 | Types of Banks
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Which of the following is the commercial bank of public sector?
+(a) ICICI Bank
+(b) H.D.F.C. Bank
+(c) Indian Overseas Bank
+(d) U.T.I. Bank
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following is a private bank?
+(a) Allahabad Bank
+(b) Punjab and Sind bank
+(c) Bank of Punjab
+(d) Punjab National Bank
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following is not a nationalized bank?
+(a) Bank of Baroda
+(b) Canara Bank
+(c) ICICI Bank
+(d) Punjab National Bank
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P.P.C.S. (Mains) 2003, 2004
+The largest commercial bank of India is :
+(a) NABARD
+(b) State Bank of India
+(c) ICICI
+(d) Union Bank of India
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010; U.P.P.C.S. (Spl.) (Pre) 2008
+Which one of the following bank has formed ‘farmers clubs’ to reach out to the farmers easily ?
+(a) Allahabad Bank
+(b) Punjab National Bank
+(c) Regional Rural Bank
+(d) State Bank of India
+@ans (d)
+@end
+
+
+@pyq U.P.U.D.A. / L.D.A. (Pre) 2006; U.P.P.C.S. (Mains) 2012
+Since April, 2011, the SBI’s Chairman was :
+(a) Pratip Chaudhuri
+(b) D. Subha Rao
+(c) Amiya Bagachi
+(d) Rao Birendra Singh
+@ans (a)
+@note **Pratip Chaudhuri** became SBI chairman in April 2011, so (a) was correct when asked. The chairman since **28 August 2024** is **Challa Sreenivasulu Setty**.
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following banks has started the ‘Simply Click’ credit card scheme?
+(a) IDBI
+(b) ICICI
+(c) B.O.B.
+(d) S.B.I.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007; U.P. U.D.A./L.D.A. (Pre) 2006
+Which bank became the first bank to open its branch in China ?
+(a) IDBI Bank
+(b) HDFC Bank
+(c) State Bank of India
+(d) Punjab National Bank
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following Private Bank for the first time did set up its branch in China?
+(a) IClCI Bank
+(b) HDFC Bank
+(c) Axis Bank
+(d) Samadhan Bank
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which Indian commercial bank started the first ever moving ATM Services?
+(a) ICICI
+(b) IDBI
+(c) H.D.F.C.
+(d) S.B.I.
+@ans (a)
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The Commercial Bank which has been merged with the Punjab National Bank is :
+(a) Bank of India
+(b) New Bank of India
+(c) Indian Overseas Bank
+(d) Oriental Bank of Commerce
+@ans (b) & (d)
+@note The source accepts **both (b) and (d)**: **New Bank of India** merged with PNB in **1993**, and **Oriental Bank of Commerce** (with United Bank of India) merged into PNB on **1 April 2020**.
+@end
+
+
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Which of the following institutions is involved in longterm industrial financing?
+(a) ICICI
+(b) IDBI
+(c) IFCI
+(d) All of the above
+@ans (d)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below.
+@match
+List-I (Bank) | List-II (Type)
+A. Indian Bank | 1. Foreign
+B. ICICI Bank | 2. Cooperative
+C. CITI Bank | 3. Private
+D. Saraswat Bank | 4. Public
+@endmatch
+Codes A B C D
+(a) 1 2 3 4
+(b) 2 3 1 4
+(c) 4 2 3 1
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following four Foreign Banks operating in India, has the largest number of branches in the country?
+(a) Citibank
+(b) BNP Paribas Bank
+(c) Standard Chartered Bank
+(d) HSBC
+@ans (c)
+@end
+
+
+**SBI** is the largest bank (about a quarter of the market). **ICICI** began in 1955 as a development finance institution and became a private bank in 2002; **Axis Bank** (formerly UTI Bank) was the first Indian private bank to open a branch in **China**, while **SBI** was the first Indian bank there (Shanghai). **Standard Chartered** has the most branches among foreign banks. **Saraswat Bank** is India's largest urban cooperative bank.
+
+@section 11.3 | Lead Banks, Development Banks and Financial Inclusion
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following events and arrange them in chronological order with the help of code given below:
+I. First phase of Bank Nationalization
+II. Second phase of Bank Nationalization
+III. Establishment of Regional Rural Banks
+IV. Establishment of NABARD
+Code :
+(a) I, III, II, IV
+(b) III, II, I, IV
+(c) IV, II, III, I
+(d) I, II, IV, III
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Consider the following :
+1. Regional Rural Banks
+2. Lead Bank Scheme
+3. NABARD
+4. State Bank of India
+The correct chronological sequence of establishment of these banks are :
+(a) 4 3 1 2
+(b) 4 2 1 3
+(c) 2 3 4 1
+(d) 2 1 4 3
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+L.B.S. is one of the economic measures taken by the Government of India for financial inclusion. What is L.B.S. in this context?
+(a) Lead Banking Scheme
+(b) Loan Banking Scheme
+(c) Lead Breaking System
+(d) Loan Banking System
+@ans (a)
+@end
+
+@one
+The Lead Bank Scheme was started in
+@ans December, 1969
+@end
+
+@one U.P.P.C.S. (Mains) 2007
+The functions of the Lead Bank are performed by
+@ans A bank designated for this purpose
+@end
+
+@one U.P. Lower Sub. (Pre) 2002, 2003
+District Credit Planning is done
+@ans Under the Lead bank
+@end
+
+
+The **Lead Bank Scheme** (**December 1969**, on the **Gadgil Study Group** and **Nariman Committee** reports) gives one designated bank in each **district** the lead role in **district credit planning**.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following banks operates mainly in relation to small industries?
+(a) SIDBI
+(b) IDBI
+(c) ICICI
+(d) NABARD
+@ans (a)
+@end
+
+
+@one U.P. R.O. / A.R.O. (Mains) 2016, 2021
+The Head Office of Small Industries Development Bank of India (SIDBI) is located at
+@ans Lucknow
+@end
+
+@one U.P.P.C.S. (Mains) 2004
+SIDBI has been established to
+@ans Finance small scale industries
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+Consider the following pairs: (Name of the banks) (Locations of Head Office)
+1. Allahabad Bank - Kolkata
+2. Small Industries - Mumbai Development Bank of India
+3. Indian Overseas Bank - Chennai
+Which one of the above pairs is not correctly matched?
+(a) 1 only
+(b) 2 only
+(c) 3 Only
+(d) 1 and 3 only
+@ans (b)
+@end
+
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Match List-I with List-II and select the correct answer using the code given below:
+@match
+List-I (Institution) | List-II (Year of establishment)
+A. Industrial Credit and Investment Corporation of India (ICICI) | 1. 1964
+B. Industrial Development Bank of India (IDBI) | 2. 1948
+C. Industrial Finance Corporation of India (IFCI) | 3. 1990
+D. Small Industries Development Bank of India (SIDBI) | 4. 1955
+@endmatch
+A B C D
+(a) 1 3 2 4
+(b) 2 4 3 1
+(c) 3 2 1 4
+(d) 4 1 2 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Industrial Finance Corporation of India works as :
+(a) A commercial bank
+(b) A development bank
+(c) An industrial bank
+(d) None of the above
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which of the following is a marketing institution ?
+(a) SEBI
+(b) SAIL
+(c) SIDBI
+(d) NABARD
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which one of the following is not an apex institution ?
+(a) State Bank of India
+(b) NABARD
+(c) SIDBI
+(d) State Cooperative Bank
+@ans (a)
+@end
+
+
+@table
+Institution | Year | Role
+**IFCI** | **1948** | First **development bank**; long-term industrial finance
+**ICICI** | **1955** | Industrial credit (World Bank support); now a private bank
+**IDBI** | **1964** | Apex industrial finance; now a bank (LIC majority; being sold)
+**SIDBI** | **2 April 1990** | Apex body for **MSMEs**; HQ **Lucknow**
+**NABARD** | **12 July 1982** | Apex body for **rural credit**
+**EXIM Bank** | 1982 | Foreign trade finance
+**NaBFID** | 2021 | Infrastructure finance
+@end
+
+SAIL markets its own steel through a Central Marketing Organisation, which is why the source calls it a "marketing institution". **SBI** is a commercial bank, not an apex body.
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+‘Financial Inclusion’ can be encouraged :
+(a) by issuing a ‘specific letter of credit’ to the deserving beneficiaries.
+(b) by providing banking services to people of lower income group with ‘zero’ or ‘minimum balance’.
+(c) by providing financial services to low income group.
+(d) by all of the above.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which one of the following is not the objective of financial inclusion?
+(a) To extend financial services to poor population.
+(b) To unlock the door of growth potential of weaker section.
+(c) Shrinking of banking infrastructure.
+(d) To extend financial sector into rural areas.
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following is a hindrance in the process of financial inclusion?
+(a) low income
+(b) illiteracy
+(c) lack of banks’ branches
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to India, consider the following events:
+1. Nationalisation of Banks
+2. Formation of Regional Rural Banks
+3. Adoption of villages by Bank Branches
+Which of the above events can be considered as steps taken to achieve "financial inclusion in India"?
+(a) Only 2 and 3
+(b) 1, 2 and 3
+(c) Only 1 and 2
+(d) Only 3
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Who among the following was the Chairman of the ‘Committee on Financial Inclusion’ constituted in January 2005?
+(a) C. Rangarajan
+(b) D. Subbarao
+(c) M.S. Ahluwalia
+(d) Kamal Nath
+@ans (a)
+@end
+
+@one U.P.P.S.C. (R.I.) 2014
+Which committee has given its recommendations on ‘financial inclusion’?
+@ans Rangarajan Committee
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2014
+RBI has cleared the resolution to start Payment Banks in India for improving Financial Inclusion. Following committee had recommended the creation of Payment Banks :
+(a) Arvind Mayaram
+(b) Y.V. Reddy
+(c) Bimal Jalan
+(d) Nachiket Mor
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+What is ‘Shadow Banking’?
+(a) Outsourcing of banking work by a bank
+(b) Financial transactions and other activities of nonbanking financial intermediary
+(c) Domestic banks’ foreign operations
+(d) Foreign bank operating in another country for banking and other activities
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+RBI had set up a committee to study and give suggestions on the microfinance sector. Its Chairman was :
+(a) Y.H. Malegam
+(b) Abid Hussain
+(c) Bimal Jalan
+(d) Rakesh Mohan
+@ans (a)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2014
+On which recommendation, the Microfinance Institutions were set up in 2011?
+@ans Malegam Committee
+@end
+
+
+@table
+Committee / scheme | Subject
+**C. Rangarajan** (2008 report) | **Financial inclusion**; barriers: **low income, illiteracy, few branches**
+**Nachiket Mor** (2014) | **Payment banks** and small finance banks
+**Y.H. Malegam** (2011) | **Microfinance** institutions
+**Bimal Jalan** panel (2013-14) | Screening **new bank licences** (IDFC, Bandhan approved)
+**Narasimham** I (1991), II (1998) | **Banking sector reform**
+**Raghuram Rajan** (2008) | **Financial sector reforms**
+**Swabhimaan** (February **2011**) | Banking at the doorstep of villages over 2,000 people
+**PM Jan Dhan Yojana** | **28 August 2014**; over 55 crore accounts
+@end
+
+**Shadow banking** means credit by non-bank intermediaries (NBFCs, funds) outside normal bank regulation; the term came from **Paul McCulley** (2007).
+
+@section 11.4 | Bank Balance Sheets, NPAs and Safety
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which among the following is an asset for a Commercial Bank?
+(a) Credit to farmers
+(b) Deposits of public
+(c) Borrowings from R.B.I.
+(d) Demand deposits of Industries
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008, 2009
+Which of the following is the most important component of the liabilities of commercial banks in India ?
+(a) Demand deposits
+(b) Time deposits
+(c) Inter-bank liabilities
+(d) Other borrowings
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Non-performing assets in commercial banks mean:
+(a) Bank deposits which are not invested
+(b) Capital assets not in use
+(c) Loans in which interest or principal amount is not recovered
+(d) Low-interest rate loans
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which one of the following banks is under the control of the Reserve Bank of India?
+(a) Exim Bank
+(b) IDBI
+(c) NABARD
+(d) Central Bank of India
+@ans (*)
+@note When asked (1998), **NABARD** was majority owned by the RBI, so (c) was the answer then. The RBI's stake was moved to the government, which has owned **100%** of NABARD since **2019**, so the source marks it (*).
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2005
+Basel II relates to which one of the following?
+(a) International standard for safety in civil aviation
+(b) Measures against cyber crimes
+(c) Measures against drug abuse by sportspersons
+(d) International standards for measuring the adequacy of a bank's capital
+@ans (d)
+@note **Basel norms** come from the **Basel Committee on Banking Supervision** (Bank for International Settlements, Basel, Switzerland). **Basel I** (1988) set minimum capital; **Basel II** (2004) set the **capital adequacy** rules on three pillars; **Basel III** (2010) added more capital, liquidity rules and buffers after the 2008 crisis.
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+With reference to Deposit Insurance and Credit Guarantee Insurance Corporation, which of the following statements is/are correct?
+1. A subsidiary of Reserve Bank of India.
+2. Deposit upto Rs. 5 lakh are insured by it.
+Select the correct answer using the codes given below:
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@table
+Banking term | Meaning
+**Asset** of a bank | **Loans** (to farmers, industry), investments, cash
+**Liability** of a bank | **Deposits** (time deposits are the largest), borrowings from RBI
+**NPA** | Loan with interest or principal **overdue for more than 90 days**
+**Capital adequacy** (CRAR) | Basel III minimum 8% plus buffers; RBI requires **11.5%**
+**DICGC** (1978) | **Wholly owned RBI subsidiary**; insures deposits up to **Rs. 5 lakh** per depositor per bank (since February 2020; Rs. 1 lakh before)
+@end
+
+@section 11.5 | Cooperative and Rural Banking
+
+@pyq U.P. P.C.S (Mains) 2016
+The first Land Development Bank was established in 1920. It was located in :
+(a) Meerut
+(b) Jhang
+(c) Munger
+(d) Thane
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 1992
+Which function of Land Development Bank is correct?
+@ans Providing long term loan to farmers
+@end
+
+@one U.P.P.C.S. (Mains) 2008
+Which one bank gives Long term loans to Agriculture?
+@ans Land Development Bank
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Land Development Banks is a part of :
+(a) Commercial Banks
+(b) IDBI
+(c) FCI
+(d) Cooperative Credit Structure
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Central Cooperative Banks work at :
+(a) District level
+(b) State level
+(c) National level
+(d) Block level
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2008
+Which one of the Bank operates at the district level?
+@ans Central Cooperative Bank
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+As on March 2012, the number of Urban Cooperative Banks in India was :
+(a) 65
+(b) 164
+(c) 1645
+(d) 6540
+@ans (*)
+@note In March **2012** there were **1,618** urban cooperative banks (1,645 a year earlier), which is not among the options, so the source marks it (*). The number has since fallen below **1,500**.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Consumer Cooperative Stores are set up by :
+(a) by the members
+(b) by the Registrar of Cooperative Societies
+(c) by the Central Government
+(d) by the State Government
+@ans (a)
+@end
+
+
+
+@table
+Tier of cooperative credit | Level
+**State Cooperative Bank** | State (apex)
+**District Central Cooperative Bank** | **District**
+**Primary Agricultural Credit Society** (PACS) | Village
+**Land Development Banks** (now SCARDBs/PCARDBs) | **Long-term** farm loans; the **first was at Jhang** (Punjab, now Pakistan), **1920**
+Urban cooperative banks | Towns; regulated by RBI (fully since 2020)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003, 2014
+The ‘National Bank for Agriculture and Rural Development’ was set up in the year :
+(a) 1992
+(b) 1982
+(c) 1962
+(d) 1952
+@ans (b)
+@end
+
+@one
+Consider the following statements with reference to NABARD : [U.P.R.O./A.R.O. (Pre) 2016] 1. NABARD was established in 1982 by the act of Parliament. 2. It provide facility of credit only for the agriculture. Among these
+@ans Only 1 is correct
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2004
+NABARD prodives refinance
+@ans For agriculture and rural development
+@end
+
+@one U.P.P.C.S. (Pre) 2005
+The Apex Institution to finance agriculture credit in India is
+@ans NABARD
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+In India, the Bank NABARD does not provide refinance to :
+(a) Scheduled Commercial Banks
+(b) Regional Rural Banks
+(c) Export-Import Bank
+(d) State Land Development Banks
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004, 2009; U.P.P.C.S. (Spl.) (Mains); 2008; U.P.P.C.S. (Mains) 2014
+The nodal agency for implementing the ‘Rural Infrastructure Development Fund Programmes’ is :
+(a) NABARD
+(b) State Co-operative Bank
+(c) Reserve Bank of India
+(d) State Bank of India
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+In India, Regional Rural Banks were established in the year :
+(a) 1969
+(b) 1975
+(c) 1980
+(d) 1982
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following is not the function of Regional Rural Banks ?
+(a) To provide credit to small and marginal farmers.
+(b) To provide credit to common people in rural areas.
+(c) To supplement Scheduled Commercial Banks
+(d) To take over the functions of Agricultural Refinance Corporation of India.
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2020
+Consider the following events and arrange them in chronological order :
+1. Establishment of NABARD
+2. Self Help Group Bank Linkage Programme
+3. Kisan Credit Card Plan
+4. Establishment of Regional Rural Bank
+Select the correct answer from the codes given below:
+Codes :
+(a) 4, 1, 2, 3
+(b) 4, 2, 3, 1
+(c) 1, 2, 3, 4,
+(d) 4, 3, 2, 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) ( Re-Exam)2015
+Which of the following does not implement the Self Help Groups (SHGs) – Bank Linkage Programme?
+(a) NABARD
+(b) Commercial Banks
+(c) RRBs
+(d) Cooperative Banks
+@ans (a)
+@end
+
+
+@table
+Rural credit milestone | Year
+Regional Rural Banks | **2 October 1975** (Narasimham working group; first five, including **Prathama Bank, Moradabad**)
+**NABARD** | **12 July 1982** (Shivaraman committee); took over the **Agricultural Refinance and Development Corporation**
+SHG-Bank Linkage | **1992** (NABARD pilot; banks, RRBs and cooperatives lend)
+**Kisan Credit Card** | **1998-99** (covers crop, **consumption** and investment credit)
+Rural Infrastructure Development Fund | **1995-96**, run by **NABARD**
+@end
+
+**NABARD** gives **refinance** to commercial banks, RRBs, cooperatives and land development banks for farm and rural lending, not to the EXIM Bank, and its finance is not only for agriculture. **RRBs** now number **28** after the "One State, One RRB" merger (May 2025).
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Narasimham Committee was related to :
+(a) Higher Education Reforms
+(b) Tax Structure Reforms
+(c) Banking Structure Reforms
+(d) Planning implementation reforms
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+With what subject is Raghuram Rajan Committee connected?
+(a) Austerity in Government Expenditure
+(b) Financial Sector Reforms
+(c) Export-Import Balance
+(d) Rising in Prices
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+The Bimal Jalan Panel was set up by Reserve Bank of India to :
+(a) Suggest to minimize the Non-Performing Assets
+(b) Scrutinize application for new bank licenses
+(c) Frame guidelines for financial inclusion
+(d) Study use of mobiles in delivering banking services
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Who was the first Chairman of the ‘Disinvestment Commission’ of India ?
+(a) G.V. Ramkrishna
+(b) C. Rangarajan
+(c) Arun Jaitley
+(d) Montek Singh Ahluwalia
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+Recently, a scheme named ‘Swabhimaan’ was launched. It’s main aim is :
+(a) To take banks to the doorsteps of the rural poor
+(b) To provide skill to rural artisans
+(c) To empower rural women
+(d) To provide houses to BPL families
+@ans (a)
+@end
+
+@one U.P.P.C.S.(Pre) 2012
+‘Swabhimaan Scheme’ launched in India is associated with
+@ans Rural banking
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following is covered by the Kisan Credit Card Scheme?
+(a) Consumption Credit and Investment Credit
+(b) Only Consumption Credit
+(c) Only Investment Credit
+(d) None of the above
+@ans (a)
+@end
+
+@one U.P. P.C.S. (Mains) 2014
+Kisan Credit Card (KCC) Scheme for farmers was introduced in
+@ans 1998-1999
+@end
+
+
+@section 11.6 | Instruments and Plastic Money
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Negotiable Instruments Act came into effect in :
+(a) 1881
+(b) 1882
+(c) 1883
+(d) 1884
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+An International Financial Services Centre has been set up at :
+(a) Gandhinagar
+(b) Mumbai
+(c) Ahmedabad
+(d) Bengaluru
+@ans (a)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2008
+‘Smart Money’ is a term used for :
+(a) Internet Banking
+(b) Credit Card
+(c) Savings Account in the Bank
+(d) Current Account in the Bank
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The term ‘plastic money’ applies to :
+(a) Bank draft made of plastic coated paper
+(b) Currency notes printed on plastic coated paper
+(c) Currency notes impregnated with plastic thread
+(d) Credit cards mainly issued by the banks
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+Which one of the following is not a prepaid payment instrument?
+(a) Delhi Metro Rail Card
+(b) Electronic Wallet
+(c) Credit Card of a Nationalized Bank
+(d) Airtel Money
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+PIN in banking transaction is known as :
+(a) Postal Index Number
+(b) Permanent Identification Number
+(c) Personal Identification Number
+(d) None of the above
+@ans (c)
+@end
+
+
+The **Negotiable Instruments Act, 1881** came into force on **1 March 1882**; it covers **cheques, bills of exchange and promissory notes**. India's first **International Financial Services Centre** is **GIFT City** (Gandhinagar, 2015); IFSCA regulates it.
+
+@up UP link: **SIDBI** is headquartered in **Lucknow**. The first RRB, **Prathama Bank**, began in **Moradabad** (UP, 1975). Under "One State, One RRB", UP's RRBs merged into the **Uttar Pradesh Gramin Bank** (2025). **Allahabad Bank** (1865, Prayagraj) and **Awadh Commercial Bank** (Faizabad, 1881) were born in UP.
+
+@trap
+**Allahabad Bank 1865; Awadh Commercial 1881; PNB 1894.** **SBI 1 July 1955 (Gorwala).** **14 banks: 19 July 1969; 6 banks: 15 April 1980.** **Banking Regulation Act 1949.** **SBI first in China; Axis first private bank there.** **Lead Bank Scheme 1969.** **IFCI 1948 → ICICI 1955 → IDBI 1964 → NABARD 1982 → SIDBI 1990 (Lucknow).** **NPA = 90 days.** **DICGC = RBI subsidiary, Rs. 5 lakh.** **Basel = capital adequacy.** **Payment banks: Nachiket Mor. Microfinance: Malegam. Financial inclusion: Rangarajan.** **District = Central Cooperative Bank.** **First LDB: Jhang 1920.** **RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998.**
+@end
+
+@heatmap
+
+@pattern
+Banking chronology (nationalisation, RRB, NABARD, Lead Bank) is the favourite, asked in 2005, 2016, 2020 and 2023. The 2019-2024 papers added **bank mergers**, the **EASE index**, **DICGC** and financial inclusion in statement form.
+@end
+
+@next
+Likely next angles: **"One State, One RRB"** (28 RRBs), **PM Jan Dhan** at 10+ years, **DICGC** cover review, **IDBI Bank** sale, **UPI and payment banks**, **Basel III** final norms, **expected credit loss** provisioning, and **cooperative bank** reform under the Ministry of Cooperation.
+@end
