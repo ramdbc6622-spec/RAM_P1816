@@ -1,0 +1,179 @@
+@chapter 15 | Water Conservation and River Cleaning
+
+@intro
+This short chapter covers water laws and plans: **World Water Day** (22 March), the **Water Act 1974** and the **Water Cess Act 1977**, drinking-water disinfection (chlorine, ozone, chloramine), groundwater stress and the **Central Ground Water Authority**, the **National Lake Conservation Plan**, and the history of Ganga cleaning, from the **Central Ganga Authority** (1985) and **Ganga Action Plan** to the **NGRBA** (2009) and **Namami Gange** (2014). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 15.1 | Water as a Resource
+
+@pyq U.P.P.C.S (Pre) 2011
+The 'World Water Day' is celebrated on:
+(a) 28 February
+(b) 22 March
+(c) 5 June
+(d) 11 July
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which one of the following is not a biotic resource?
+(a) Freshwater
+(b) Coal
+(c) Petroleum
+(d) Fish
+@ans (a)
+@end
+
+**Biotic** resources come from living things or once-living matter: forests, fish, livestock and also the **fossil fuels**, coal and petroleum, which formed from ancient organisms. **Water**, minerals, air and sunlight are **abiotic** resources.
+
+@pyq U.P.P.C.S. (Pre) 2005
+Consider the following statements :
+1. 36% of India's districts are classified as "overexploited" or "critical" by the Central Ground Water Authority (CGWA).
+2. CGWA was formed under the Environment (Protection) Act.
+3. India has the largest area under groundwater irrigation in the world.
+Which of the statements given below is/are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 2 only
+(d) 1 and 3 only
+@ans (b)
+@end
+
+India is the **world's largest user of groundwater**, using more than the USA and China combined, and groundwater supplies about **60%** of its irrigation. The **CGWA** (1997) was set up under **Section 3(3) of the Environment (Protection) Act 1986**. The **2024** national assessment rated about **11%** of assessment units as "**over-exploited**", mostly in Punjab, Haryana, Rajasthan and western UP. The **Atal Bhujal Yojana** (2019) promotes community groundwater management in seven states, including **UP**.
+
+@section 15.2 | Water Laws
+
+@pyq U.P.P.C.S. (Pre) 2023
+When did the Water (Prevention and Control of Pollution) Act was enacted in which of the following year?
+(a) 1976
+(b) 1977
+(c) 1974
+(d) 1975
+@ans (c)
+@end
+
+@pyq U.P.R.O/A.R.O. (Mains) 2013
+Water (Prevention and Control of Pollution) Cess was enforced in –
+(a) 1973
+(b) 1975
+(c) 1977
+(d) 1979
+@ans (c)
+@end
+
+The **Water Act 1974** was India's first major pollution law. It created the **Central and State Pollution Control Boards**. The **Water Cess Act 1977** levied a cess on water used by industries and local bodies to fund the boards; it was **repealed in 2017** when GST came in. The **Jan Vishwas Act 2023** replaced jail terms for most minor offences under the Water Act with fines.
+
+@section 15.3 | Drinking-Water Treatment
+
+@pyq U.P.P.C.S. (Pre) 2013
+Which one of the following gases is used for the purification of drinking water?
+(a) Sulphur dioxide
+(b) Chlorine
+(c) Fluorine
+(d) Carbon dioxide
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following is/are used as a disinfectant of water?
+(a) Ozone
+(b) Chlorine dioxide
+(c) Chloramine
+(d) All of the above
+@ans (d)
+@end
+
+Water can be disinfected with **chlorine** (gas or bleaching powder), **chloramine**, **chlorine dioxide**, **ozone**, **UV light** or by boiling. Chlorine leaves a **residual** in the pipes that keeps protecting the water, while ozone and UV leave none. **Jal Jeevan Mission** (2019) aims to give every rural home a tap connection and had covered nearly **80%** of rural households by 2025.
+
+@section 15.4 | Lakes and Rivers
+
+@pyq U.P.P.C.S (Pre) 2002
+The wetlands falling within urban areas which are being dealt with under the National Lake Conservation Plan with the aim of Pollution control are –
+1. Bhoj - Madhya Pradesh
+2. Sukhna - Chandigarh
+3. Chilka - Odisha
+4. Pichola - Rajasthan
+Select the correct answer using codes given below:
+Codes :
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 3 and 4
+(d) 1, 2 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Which one of the following lakes have been recently included under National Lake Conservation Project?
+(a) Bhimtal
+(b) Pulicat
+(c) Ooty
+(d) Sambhar
+@ans (a)
+@end
+
+The **National Lake Conservation Plan** (2001) was for **urban lakes**. In **2013** it was merged with the **National Wetlands Conservation Programme** into the **National Plan for Conservation of Aquatic Ecosystems (NPCA)**. **Chilika**, a large coastal lagoon, is managed separately by the Chilika Development Authority.
+
+@pyq U.P.P.C.S. (Mains) 2014
+In which of the following years was constituted the 'Central Ganga Authority' by Government of India?
+(a) 1975
+(b) 1982
+(c) 1985
+(d) 1995
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+The main purpose of 'Ganga Action Plan' project launched in 1985, was
+(a) Utilize the river water for irrigation only
+(b) Build new dams over the Ganga river valley
+(c) Make its water pollution free only
+(d) 1994
+@ans (c)
+@note Option (d) is printed in the source as "1994", which is a misprint that has no bearing on the answer.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+National Ganga River Basin Authority has been constituted in –
+(a) October, 2008
+(b) February, 2009
+(c) October, 2009
+(d) March, 2010
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+The Yamuna Action Plan was formally launched in
+(a) 1991
+(b) 1992
+(c) 1993
+(d) 1994
+@ans (c)
+@end
+
+@table
+River-cleaning milestone | Year | Detail
+**Central Ganga Authority** | **1985** | Chaired by PM Rajiv Gandhi
+**Ganga Action Plan I** | **1985** | Pollution abatement (sewage interception, treatment)
+**Yamuna** and **Gomti** Action Plans | **1993** | Under GAP-II (approved 1993)
+National River Conservation Plan | 1995 | GAP-II merged into it
+Ganga declared **National River** | 2008 | -
+**National Ganga River Basin Authority** | **20 Feb 2009** | Under the Environment Protection Act; chaired by the PM
+**Namami Gange** | **2014** | Integrated programme; National Mission for Clean Ganga (NMCG)
+National Ganga Council | 2016 | Replaced NGRBA
+@end
+
+@up UP link: UP has the **longest stretch of the Ganga** (about 1,140 km of its 2,525 km), so most Namami Gange projects are here: sewage treatment plants at **Kanpur** (including the **Sisamau** drain tapping), **Prayagraj**, **Varanasi** and **Mathura-Vrindavan** (for the Yamuna). The **Gomti Action Plan** (1993) and the **Gomti riverfront** relate to **Lucknow**. The 2025 **Prayagraj Mahakumbh** raised questions about water-quality monitoring at the Sangam.
+
+@trap
+**World Water Day = 22 March**, **World Environment Day = 5 June** and **Wetlands Day = 2 February**. **Water Act = 1974** and **Cess Act = 1977**. **CGWA** was set up under the **Environment Protection Act**. **Freshwater is not a biotic resource**, even though coal and petroleum are. **NGRBA = February 2009**.
+@end
+
+@heatmap
+
+@pattern
+These are mostly **date questions**: Water Act 1974, Cess 1977, Central Ganga Authority and GAP 1985, Yamuna Action Plan 1993, NGRBA 2009. The rest are about disinfectants and lake plans. A 2022-2023 revival suggests more **Ganga/Namami Gange** and water-law questions.
+@end
+
+@next
+Likely next angles: **Namami Gange** progress and its extension to 2026, the **Ganga dolphin** (national aquatic animal), **Jal Jeevan Mission** coverage, **Atal Bhujal**, the **CGWB 2024** groundwater-quality report, **Catch the Rain** and **Amrit Sarovar** (75 ponds per district), the **Jan Vishwas** amendments to the Water Act, and **Ken-Betwa** river linking.
+@end
