@@ -1,0 +1,248 @@
+@chapter 1 | Units and Measurement
+@unit UNIT I · PHYSICS
+
+@intro
+Physics in UPPSC opens with units. The questions ask for the **SI unit** of a quantity (watt, joule, pascal, becquerel), the meaning of astronomical units (**light year, parsec, AU**), conversions between metric prefixes (micron, nanometre, fermi) and odd units such as the **knot**, **nautical mile**, **barrel**, **cusec** and **Dobson unit**. Almost every question is a straight match. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 1.1 | Work, Power and Energy Units
+
+@q 0:1-2
+
+**Power** is the rate of doing work: 1 **watt** = 1 joule per second, and 1 horsepower = 746 W. **Work** and **energy** share the unit **joule** (newton × metre); the CGS unit is the erg (10^{-7} J). Hertz is frequency, volt is potential difference, and neutron is a particle, not a unit.
+
+@q 0:12
+
+A **megawatt** (10^{6} W) describes the capacity of a generating station; electricity consumed is billed in **kilowatt-hours** (units), which measure energy, not power.
+
+@section 1.2 | Astronomical and Small Lengths
+
+@q 0:3-5
+
+@table
+Unit | Value | Use
+**Light year** | Distance light travels in a year = 9.46 × 10^{12} km | Stars, galaxies
+**Astronomical unit (AU)** | Mean Earth-Sun distance ≈ 1.496 × 10^{8} km | Solar system
+**Parsec** | Distance at which 1 AU subtends 1 arc-second = 3.26 light years | Largest of the three
+Fermi (femtometre) | 10^{-15} m | Nuclear sizes
+Angstrom (Å) | 10^{-10} m | Wavelength of light, atomic sizes
+Nanometre | 10^{-9} m | Nanotechnology, wavelengths
+Micron (µm) | 10^{-6} m = 10^{-4} cm | Cells, dust particles
+@end
+
+Order of size: **parsec > light year > AU**. A light year is a unit of **distance**, never of time.
+
+@q 0:6
+
+@src 0:7
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+One nanometre is equal to –
+(a) 10^{-6} cm
+(b) 10^{-7} cm
+(c) 10^{-8} cm
+(d) 10^{-9} cm
+@ans (b)
+@end
+
+@src 0:8
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is correct?
+(a) 1 metre = 10^{90} nanometre
+(b) 1 metre = 10^{19} nanometre
+(c) 1 metre = 10^{9} nanometre
+(d) None of the above
+@ans (c)
+@end
+
+@src 0:9
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Ramesh's height is 5 feet. What will be Ramesh's height in nanometers?
+(a) 152.5 × 10^{7} nanometers
+(b) 152.5 × 10^{8} nanometers
+(c) 152.5 × 10^{9} nanometers
+(d) None of the above
+@ans (d)
+@end
+
+5 feet = 60 inches × 2.54 cm = **152.4 cm** = 1.524 m = 1.524 × 10^{9} nm = **152.4 × 10^{7} nm**. Every option says 152.5, so the answer is "none of the above". The trap is the decimal, not the power of ten.
+
+@src 0:10
+@pyq U.P.P.C.S. (Mains) 2011
+One micron represents a length of –
+(a) 10^{-6} cm
+(b) 10^{-4} cm
+(c) 1 mm
+(d) 1 m
+@ans (b)
+@end
+
+@q 0:11
+
+@section 1.3 | SI Units and Matching
+
+@src 0:13
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Pre) 2005
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List-I (Physical quantities) | List-II (Units)
+A. Acceleration | 1. Joule
+B. Force | 2. Newton second
+C. Work done | 3. Newton
+D. Impulse | 4. Metre/second^{2}
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 2 3 4 1
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@q 0:14
+
+@src 0:15
+@pyq U.P. U.D.A./L.D.A. (Pre) 2002
+Match List-I with List-II and select the correct answer using codes given below :
+@match
+List-I (Units) | List-II (Parametric quantities)
+A. Watt | 1. Heat
+B. Knot | 2. Navigation
+C. Nautical mile | 3. Speed of a ship
+D. Calorie | 4. Power
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 2 4 1 3
+@ans (c)
+@end
+
+@src 0:16
+@pyq U.P.P.C.S. (Pre) 1990
+Match the following :
+@match
+List-I | List-II
+A. Joule | 1. Current
+B. Ampere | 2. Power
+C. Watt | 3. Work
+D. Volt | 4. Electric potential
+E. Calorie | 5. Heat
+@endmatch
+Code : A B C D
+(a) 3 1 2 4
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 1 3 2 4
+@ans (a)
+@end
+
+@q 0:17
+
+A **knot** is one nautical mile per hour (about 1.852 km/h); a **nautical mile** (1.852 km) is one minute of latitude, which is why ships and aircraft use it.
+
+@src 0:18
+@pyq U.P.P.C.S. (Pre) 2006
+Match List-I (Quantity) with List-II (Units) and select the correct answer using the codes given below the lists:
+@match
+List I | List II
+A. High speed | 1. Mach
+B. Wavelength | 2. Angstrom
+C. Pressure | 3. Pascal
+D. Energy | 4. Joule
+@endmatch
+Code : A B C D
+(a) 2 1 3 4
+(b) 1 2 4 3
+(c) 1 2 3 4
+(d) 2 1 4 3
+@ans (c)
+@end
+
+**Mach number** is speed divided by the speed of sound in that medium: Mach 1 ≈ 1,235 km/h at sea level. *Supersonic* is above Mach 1 and *hypersonic* above Mach 5 (BrahMos-II and hypersonic glide vehicles).
+
+@q 0:19-21
+
+@table
+Quantity | SI unit | Common non-SI / older units
+Force | **Newton** (N) | Dyne (CGS), kg-wt
+Work, energy, heat | **Joule** (J) | Erg, calorie (4.18 J), kWh, electron-volt
+Power | **Watt** (W) | Horsepower (746 W)
+Pressure | **Pascal** (Pa) | Bar (10^{5} Pa), atmosphere, torr, mm of Hg
+Temperature | **Kelvin** (K) | Celsius, Fahrenheit
+Electric current | **Ampere** (A) | -
+Potential difference | **Volt** (V) | -
+Resistance | **Ohm** (Ω) | -
+Charge | **Coulomb** (C) | -
+Frequency | **Hertz** (Hz) | -
+Radioactivity | **Becquerel** (Bq) | Curie (3.7 × 10^{10} Bq), Rutherford
+Luminous intensity | **Candela** (cd) | -
+Illuminance | **Lux** | Phot
+Power of lens | **Dioptre** (m^{-1}) | -
+Amount of substance | **Mole** | -
+@end
+
+@src 0:22
+@pyq U.P. P.C.S. (Pre) 2022
+Which of the following pairs is NOT correctly matched?
+Quantity – S.I. Unit
+(a) Power of lens – Diopter
+(b) Pressure – Pascal
+(c) Activity of radioactive substance – Curie
+(d) Heat – Joule
+@ans (c)
+@end
+
+@q 0:23
+
+Electric potential is work done per unit charge, so it has magnitude but no direction: it is a **scalar**. Electric *field* is the related vector.
+
+@section 1.4 | Odd Units
+
+@q 0:24
+
+@src 0:25
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+@match
+List - I | List - II
+A. Cusec | 1. Pressure
+B. Byte | 2. Intensity of Earthquake
+C. Richter | 3. Rate of flow
+D. Bar | 4. Computer
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 2 1
+(c) 4 3 2 1
+(d) 3 4 1 2
+@ans (b)
+@end
+
+@q 0:26
+
+@table
+Unit | Measures
+**Barrel** | Crude oil: 1 barrel = 159 litres (42 US gallons)
+**Cusec** | Rate of water flow: cubic feet per second (dam releases)
+**Dobson unit** | Thickness of the ozone column (ozone hole = below 220 DU)
+**Decibel** | Loudness (sound intensity level)
+**Richter / moment magnitude** | Earthquake magnitude (logarithmic)
+**Carat** | Gemstone mass (200 mg); purity of gold is also counted in carats (24 = pure)
+**Byte** | Computer memory (8 bits)
+**Fathom** | Depth of sea water (6 feet)
+@end
+
+@trap
+**Parsec > light year > AU**, and all three are distances. **1 nm = 10^{-9} m = 10^{-7} cm.** **1 micron = 10^{-4} cm**, not 10^{-6} cm. The **SI unit of radioactivity is the becquerel**; the curie is older. **Celsius and centigrade are temperature scales**, not units of heat. Electric potential is **scalar**.
+@end
+
+@heatmap
+
+@pattern
+Unit questions are the easiest marks in the science paper. They recur almost word for word: watt, joule, light year, parsec, knot and the match-the-unit grid appear every few years. The 2022-2024 papers added **conversions** (nanometre and feet, parsec definition), so practise powers of ten.
+@end
+
+@next
+Likely next angles: the **2019 redefinition of SI base units** (kilogram from the Planck constant), **astronomical unit** values, prefixes (**peta, exa, zetta, yotta** and the new **ronna** and **quetta**, 2022), **tesla** and **weber** (magnetism), the **kilowatt-hour** in electricity bills, and **sievert** for radiation dose.
+@end

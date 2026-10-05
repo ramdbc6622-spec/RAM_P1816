@@ -1,0 +1,647 @@
+@chapter 5 | Light and Optics
+
+@intro
+Light is the single largest physics topic in UPPSC. The questions cover the **visible range** and the eye's peak sensitivity, the **speed of light**, **refraction** (apparent depth, flattened Sun), **total internal reflection** (optical fibre, mirage, diamond), **scattering** (blue sky, red danger signals, black sky in space), **dispersion and the rainbow**, **mirrors and lenses** in daily use, and the **human eye** and its defects. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 5.1 | Nature and Speed of Light
+
+@pyq U.P.P.C.S.(Mains) 2005
+The wave length extension of visible light is
+(a) Between 200-900 nm
+(b) Between 250-850 nm
+(c) Between 300-800 nm
+(d) Between 390-780 nm
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Human eye is most sensitive to visible light of the wavelength :
+(a) 6050 Å
+(b) 5500 Å
+(c) 4500 Å
+(d) 7500 Å
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Among the colours mentioned below, the eye is most sensitive to colours between :
+(a) Red and green
+(b) Orange and yellow
+(c) Green and blue
+(d) Yellow and green
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following statement is not correct?
+(a) Human ear becomes most sensitive at 1000 Hz.
+(b) Human eye becomes most sensitive for red colour.
+(c) Persistence of hearing is 1/10 second.
+(d) Persistence of vision is 1/16 second.
+@ans (b)
+@end
+
+
+The eye sees roughly **390 (violet) to 780 nm (red)**, that is 3,900-7,800 Å. In daylight it is most sensitive at about **555 nm (5,500 Å), the yellow-green**; that is why fire engines, high-visibility jackets and tennis balls are often lime-yellow. The ear is most sensitive at about **1,000-4,000 Hz**. **Persistence of vision** is about **1/16 second**, which lets 24 frames per second look like continuous motion in cinema; persistence of hearing is about 1/10 second.
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Light appears to travel in a straight line because –
+(a) It consists of small particles.
+(b) The velocity of light is very large.
+(c) The wavelength of light is very small.
+(d) Light is reflected by the surroundings.
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following has the highest velocity?
+(a) Cosmic rays
+(b) Light
+(c) Electron
+(d) Supersonic wave
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which of the following statement is true?
+(a) The light has a greater velocity.
+(b) The sound has the greatest velocity.
+(c) Celestial objects have the greatest velocity.
+(d) Rocket has the greatest velocity.
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The velocity of light is maximum in –
+(a) Diamond
+(b) Water
+(c) Vacuum
+(d) Hydrogen
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Light from the Sun reaches Earth in about :
+(a) 2 minutes
+(b) 4 minutes
+(c) 8 minutes
+(d) 16 minutes
+@ans (c)
+@end
+
+
+@table
+Medium | Speed of light (approx.)
+**Vacuum** | **3 × 10^{8} m/s** (299,792 km/s), the maximum possible
+Air | Almost the same as vacuum
+Water | 2.25 × 10^{8} m/s
+Glass | 2 × 10^{8} m/s
+**Diamond** | 1.24 × 10^{8} m/s (refractive index 2.42)
+@end
+
+Nothing travels faster than light in vacuum, not cosmic-ray particles, electrons or rockets. Sunlight takes about **8 minutes 20 seconds** to reach the Earth and moonlight about 1.3 seconds. Light travels in straight lines because its **wavelength is very small**, so it hardly bends (diffracts) around ordinary objects.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is not a luminous object?
+(a) Candle flame
+(b) Moon
+(c) Electric lamp
+(d) Sun
+@ans (b)
+@end
+
+
+The **Moon** is non-luminous: it only reflects sunlight. Stars, flames and lamps are luminous.
+
+@section 5.2 | Refraction and Total Internal Reflection
+
+@pyq U.P.P.C.S. (Mains) 2003
+When light passes from one medium to another medium, which one of the followings does not change :
+(a) Intensity
+(b) Velocity
+(c) Wavelength
+(d) Frequency
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+The reason for a swimming pool to appear less deep than the actual depth is :
+(a) Reflection
+(b) Light scattering
+(c) Refraction
+(d) None of the above
+@ans (c)
+@end
+
+
+When light passes from one medium to another, its **speed and wavelength change but frequency stays the same**; the change in speed bends the ray (**refraction**). Refraction makes a pool look **shallower** (apparent depth = real depth / refractive index), a stick look bent in water, stars **twinkle**, and the Sun appear **flattened (elliptical)** near the horizon and visible about 2 minutes before actual sunrise and after sunset.
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+The Sun and the Moon appear elliptical near the horizon because of :
+(a) Refraction
+(b) Optical illusion
+(c) Interference phenomenon
+(d) Their actual shape
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008; U.P. U.D.A./L.D.A. (Pre) 2010
+Optical fibre works on the principle of :
+(a) Total internal reflection
+(b) Refraction
+(c) Scattering
+(d) Interference
+@ans (a)
+@end
+
+@one
+The transmission of light energy in an optical fibre is carried out by the application of the following phenomenon
+@ans total internal reflection.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2002; U.P. P.C.S. (Pre) 2001, 2003
+Consider the following statements :
+1. Fibre optics is based on the principle of total internal reflection.
+2. In an optical fibre communication system, power consumption is extremely low.
+3. Optical fibre communications are free from radio frequency interference.
+4. In India, Reliance Group of Industries is engaged in the manufacture of the optical fibre.
+Which of these statements are correct :
+(a) 1, 2 and 3
+(b) 1, 2 and 4
+(c) 1, 3 and 4
+(d) 2, 3 and 4
+@ans (a)
+@end
+
+
+**Total internal reflection (TIR)** happens when light going from a denser to a rarer medium meets the boundary at more than the **critical angle**; all of it reflects back. **Optical fibres** use TIR to carry light signals through thin glass strands with very little loss, high bandwidth and no electrical (radio-frequency) interference. The key (a) treats statement 4 (about Reliance) as incorrect.
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P.P.C.S.(Pre) 1995, 2012; U.P. U.D.A./L.D.A. (Pre) 2013; U.P. Lower Sub. (Mains) 2013
+The reason of mirage is
+(a) Interference of light
+(b) Diffraction of light
+(c) Polarization of light
+(d) Total internal reflection of light
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012, 2015; U.P.P.C.S. (Pre) 2017; U.P.P.C.S. (Pre) 1996
+A cut diamond shines brilliantly due to
+(a) Some inherent property
+(b) Total internal reflection
+(c) Its molecular structure
+(d) Absorption of light
+@ans (b)
+@end
+
+
+@table
+Effect | Cause
+**Mirage** (water on a hot road, desert) | Refraction through hot, rarer air layers ending in **total internal reflection**
+Sparkle of a **cut diamond** | **TIR**: very high refractive index (2.42), small critical angle (24°)
+Optical fibre, endoscope | TIR
+**Twinkling** of stars | Refraction by moving air layers
+Pool looks shallow, pencil looks bent | Refraction
+Flattened Sun at the horizon, early sunrise | Atmospheric refraction
+**Blue sky**, red sunset | Scattering
+**Rainbow** | Dispersion + refraction + total internal reflection in raindrops
+Colours of soap bubbles and oil films | **Interference**
+Bending of light around edges | Diffraction
+Polaroid sunglasses | Polarisation
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990; U.P.P.C.S. (Mains) 2008
+Which of the following is used to take 3-dimensional pictures –
+(a) Photography
+(b) Holography
+(c) Radiography
+(d) None of the above
+@ans (b)
+@end
+
+
+**Holography** records the full light wave (amplitude and phase) using **laser** light, giving a **3-D image**; holograms are used on credit cards, banknotes and passports as security features.
+
+@section 5.3 | Colour, Scattering and Dispersion
+
+@pyq U.P.P.C.S. (Mains) 2003
+Direct viewing of Sun during total solar eclipse causes irreversible damage to eyes. The retinal burn is caused by which one of the following components of the sun rays?
+(a) Heat
+(b) Rainbow light
+(c) Ultraviolet light
+(d) Infrared light
+@ans (c)
+@note The source keys **ultraviolet**. Eye specialists describe eclipse-blindness (solar retinopathy) as mainly a **photochemical** injury from intense visible (blue) and ultraviolet light, together with heat from infrared; the retina has no pain receptors, so the damage is not felt.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P.P.C.S. (Mains) 2003, 2008
+The colour of the star is an indication of its :
+(a) Distance from the earth
+(b) Temperature
+(c) Luminosity
+(d) Distance from the sun
+@ans (b)
+@end
+
+
+
+A star's colour shows its **surface temperature**: **blue** stars are hottest (above 10,000 K), white and **yellow** (the Sun, about 5,800 K) are medium, and **red** stars are coolest (about 3,000 K).
+
+@pyq U.P.P.C.S.(Pre) 2013
+Photosynthesis using the invisible part of the sunlight is done by some –
+(a) Trees
+(b) Algae
+(c) Bacteria
+(d) Fungi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which one of the following energy conversions takes place in carrying out the process of photosynthesis ?
+(a) Light to chemical energy
+(b) Light to thermal energy
+(c) Thermal to biochemical energy
+(d) Heat to kinetic energy
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2021
+Diffusion of light in the atmosphere takes place due to :
+(a) Carbon dioxide
+(b) Dust particles
+(c) Helium
+(d) Water vapours
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.P.C.S. (Mains) 2014
+The colour of light is determined by its
+(a) Amplitude
+(b) Wavelength
+(c) Intensity
+(d) Velocity
+@ans (b)
+@end
+
+@one
+In the visible spectrum, the colour with the shortest wavelength is
+@ans violet.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Which one of the following colours of white light is least deviated by the glass prism?
+(a) Green colour
+(b) Red colour
+(c) Violet colour
+(d) Orange colour
+@ans (b)
+@end
+
+
+**Dispersion**: white light splits into **VIBGYOR** in a prism because each colour has a different speed in glass. **Violet** has the shortest wavelength (about 400 nm), is slowed most and **deviated most**; **red** (about 700 nm) is **deviated least**. The colour of light is fixed by its **wavelength** (or frequency).
+
+@pyq U.P.P.C.S. (Mains) 2013
+Red light is used in traffic signals because :
+(a) It has the longest wavelength.
+(b) It is beautiful.
+(c) It is visible to people even with bad eyesight.
+(d) None of the above reasons.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Assertion (A): The danger signal is made up of red colour.
+Reason (R) : Red colour is scattered the least.
+Select the correct answer using the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@one
+Red light is used for danger signals because
+@ans its scattering is the least.
+@end
+
+@one
+The blue color of the sky is due to the
+@ans scattering of light.
+@end
+
+@one
+The reason why the Sun appears red at the time of sunset and sunrise is the
+@ans scattering of light.
+@end
+
+
+**Rayleigh scattering** is inversely proportional to the **fourth power of wavelength** (1/λ^{4}). Blue light is scattered about 5.5 times more than red, so the **sky looks blue**. At sunrise and sunset sunlight crosses a long path of air, most blue is scattered away and the Sun looks **red-orange**. Red, scattered least, travels farthest through haze and fog, so it is used for **danger signals**, brake lights and aviation warning lamps.
+
+@one
+The sky appears blue because
+@ans shorter wavelengths are scattered by the atmosphere more than longer wavelengths.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+An astronaut sees the colour of the sky as –
+(a) Blue
+(b) White
+(c) Black
+(d) Red
+@ans (c)
+@end
+
+@one
+When the sky is viewed from an airplane at a great height, it appears
+@ans black.
+@end
+
+
+Above the atmosphere there is nothing to scatter sunlight, so astronauts see a **black sky** even in daytime; from a very high-flying aircraft the sky also looks dark.
+
+@pyq U.P.P.C.S. (Mains) 2015
+The number of colours contained in the sunlight is –
+(a) 3
+(b) 5
+(c) 6
+(d) 7
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+The (Green) Grass appears green to us because :
+(a) It reflects green colour light to our eyes
+(b) It absorbs green colour light
+(c) It reflects all other colour lights except that of green colour
+(d) None of the above
+@ans (a)
+@end
+
+
+An opaque object's colour is the colour it **reflects**; it absorbs the rest. Grass reflects green and absorbs red and blue (which chlorophyll uses for photosynthesis). A **white** surface reflects all colours (cool clothes for summer) and a **black** one absorbs all (warm in winter).
+
+@pyq U.P.P.C.S. (Mains) 2010
+The concept of expanding universe is based on –
+(a) Doppler effect
+(b) Stark effect
+(c) Zeeman effect
+(d) Raman effect
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Assertion (A) : Black hole is such a celestial existence which cannot be seen by telescope.
+Reason (R) : The gravitational field of black hole is much strong that even light does not escape from it.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+
+The **Doppler effect** shifts the light of a source moving away towards longer wavelength (**red shift**). Edwin Hubble (1929) found almost all galaxies are red-shifted, so the **universe is expanding**. A **black hole**'s gravity is so strong that even light cannot escape from inside its *event horizon*; the first direct image (of M87*) came from the Event Horizon Telescope in 2019.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following colours is seen in the middle of a Rainbow ?
+(a) Blue
+(b) Green
+(c) Red
+(d) Yellow
+@ans (b)
+@end
+
+@one
+The two extreme colors of the rainbow are
+@ans violet and red.
+@end
+
+
+The rainbow runs **red on the outer edge to violet on the inner edge**, with **green in the middle**. It is always seen with the **Sun behind** the observer, at about 42° from the anti-solar point.
+
+@section 5.4 | Mirrors and Lenses
+
+@pyq U.P. Lower Sub. (Pre) 2013; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010; U.P.P.C.S. (Spl.) (Pre) 2008; U.P.P.C.S. (Pre) 2002
+An air bubble in water will act like a :
+(a) Convex mirror
+(b) Convex lens
+(c) Concave mirror
+(d) Concave lens
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Mains) 2013; U.P.P.C.S. (Pre) 1994, 2015
+The number of images of an object placed between two parallel mirrors is :
+(a) Two
+(b) One
+(c) Six
+(d) Infinite
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2011, 2014; U.P.P.C.S. (Mains) 2011; U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+The minimum height of a plane mirror to see the full size image of a person is equal to –
+(a) The height of the person
+(b) Half the height of the person
+(c) One-fourth the height of the person
+(d) Double the height of the person
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The minimum height of mirror required to see whole stand up image of a man of height 1.50 metre shall be
+(a) 0.75 metre
+(b) 1.00 metre
+(c) 1.50 metre
+(d) 3.00 metre
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The radius of curvature of the plane mirror is :
+(a) Zero
+(b) One
+(c) Infinity
+(d) Between one and infinity
+@ans (c)
+@end
+
+
+An **air bubble** in water is a convex-shaped region of a *rarer* medium, so it **diverges** light like a **concave lens**. Two parallel mirrors give **infinite** images; mirrors at angle θ give (360/θ - 1) images. To see your full height in a plane mirror you need one **half your height** (1.5 m person → 0.75 m mirror). A plane mirror is a sphere of **infinite** radius of curvature, so its power is zero.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following statement is not correct ?
+(a) Mirage is an optical illusion arising due to total internal reflection of light
+(b) Concave mirrors are used in searchlights
+(c) In summer, white or light coloured clothes are preferred to dark coloured clothes generally
+(d) Convex mirror with a small aperture is used by doctors to examine, ear, nose or throat of a patient.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Mains) 2009
+The mirror, which is used in searchlights, is –
+(a) Concave mirror
+(b) Convex mirror
+(c) Simple mirror
+(d) None of these
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+The type of mirror used in the headlight of a car is:
+(a) Plane convex mirror
+(b) Concave mirror
+(c) Plane mirror
+(d) Convex mirror
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1991, 2011, 2015; U.P.P.C.S. (Mains) 2010
+In driving a car which type of mirror would you like to use for observing traffic behind you?
+(a) Concave mirror
+(b) Spherical mirror
+(c) Convex mirror
+(d) Plain mirror
+@ans (c)
+@end
+
+
+@table
+Mirror / lens | Used in
+**Concave mirror** | Car headlights, searchlights, torches (bulb at focus gives a parallel beam), shaving and make-up mirrors, **doctors' head mirror** (ENT), solar cookers, reflecting telescopes, dentists' mirrors
+**Convex mirror** | **Rear-view mirror** of vehicles (wide field, erect diminished image), shop security mirrors, street-corner mirrors
+Plane mirror | Looking glass, periscope, kaleidoscope
+**Convex lens** | Magnifying glass, camera, microscope, correcting **hypermetropia** and presbyopia
+**Concave lens** | Correcting **myopia**, peepholes in doors
+**Cylindrical lens** | Correcting **astigmatism**
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Power of the sunglass is –
+(a) 0 Dioptre
+(b) 1 Dioptre
+(c) 2 Dioptre
+(d) 4 Dioptre
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The image formed by astronomical telescope is
+(a) Virtual and diminished
+(b) Virtual and magnified
+(c) Real and diminished
+(d) Real and magnified
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2017
+Two glass lenses of same focal length, one being convex and the other concave, are kept in contact, the combination will act as :
+(a) convergent lens
+(b) divergent lens
+(c) plane glass sheet
+(d) mirror
+@ans (c)
+@end
+
+
+The **power** of a lens is 1/f (f in metres), measured in **dioptres**: convex lenses have **positive** and concave lenses **negative** power. Sunglasses have **zero** power; they only cut glare. A convex and a concave lens of equal focal length together give zero total power, acting like a **plane glass sheet**. An astronomical telescope gives an **inverted, virtual, magnified** final image; a terrestrial telescope adds an erecting lens.
+
+@section 5.5 | The Human Eye
+
+@pyq U.P.P.C.S. (Pre) 1995; U.P.P.C.S. (Spl.) (Mains) 2004
+The image formed on Retina is :
+(a) Equal to object but inverted
+(b) Smaller than object but straight
+(c) Smaller than object but inverted
+(d) Equal to object but straight
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Retina of the eye is comparable to which of the following parts of a traditional camera?
+(a) Film
+(b) Lens
+(c) Shutter
+(d) Cover
+@ans (a)
+@end
+
+
+The **eye works like a camera**: cornea and lens focus light, the **iris** is the diaphragm, the **pupil** is the aperture and the **retina** is the film (now the sensor). The image on the retina is **real, inverted and diminished**; the brain turns it upright.
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The focusing in the eye is done by :
+(a) Change in the convexity of the lens
+(b) To and fro movement of the lens
+(c) To and fro movement of the retina
+(d) Change in the refractive index of the eye fluid
+@ans (a)
+@end
+
+
+**Accommodation**: the **ciliary muscles** change the **curvature (convexity) of the eye lens**, and so its focal length, to focus near and far objects. The **least distance of distinct vision** for a normal eye is **25 cm**, and the far point is infinity.
+
+@pyq U.P.P.C.S. (Mains) 2008
+The least distance of distinct vision is (cm.) :
+(a) 50
+(b) 10
+(c) 15
+(d) 25
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+Which one of the following statement is not true for a person suffering from hypermetropia?
+(a) The person can see far objects distinctly.
+(b) The focal length of the lens is large.
+(c) The image of the close objects is focused behind the retina.
+(d) A concave lens is used to correct this defect.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011, 2013
+Which of the following lenes is used to minimize Myopia?
+(a) Convex lens
+(b) Concave lens
+(c) Cylindrical lens
+(d) None of these
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002; U.P.P.C.S. (Mains) 2008
+A myopic eye can be corrected by using a :
+(a) Convex lens
+(b) Concave lens
+(c) Cylindrical lens
+(d) Plane Convex lens
+@ans (b)
+@end
+
+
+@table
+Defect | What happens | Corrected by
+**Myopia** (short-sightedness) | Far objects blurred; image forms **in front of** the retina | **Concave** lens
+**Hypermetropia** (long-sightedness) | Near objects blurred; image forms **behind** the retina | **Convex** lens
+**Presbyopia** | Near vision weakens with age as the lens stiffens | Convex or **bifocal** lens
+**Astigmatism** | Uneven curvature of the cornea | **Cylindrical** lens
+**Cataract** | Lens becomes cloudy | Surgery (artificial intra-ocular lens)
+@end
+
+@trap
+Eye is most sensitive to **yellow-green (555 nm)**, not red. Frequency **does not change** on refraction. **Mirage, diamond sparkle and optical fibre = total internal reflection.** **Violet deviates most, red least.** Red is used for danger because it is **scattered least**. An **air bubble acts as a concave lens**. Rear-view mirrors are **convex**, headlights **concave**. **Myopia → concave lens, hypermetropia → convex lens.** Doctors' ENT mirror is **concave**.
+@end
+
+@heatmap
+
+@pattern
+Optics gives two to four questions in most science sections. **Total internal reflection, scattering and mirror uses** are asked almost every year, often in repeated wording (mirage, diamond, rear-view mirror, myopia). Recent papers (2021-2023) add the eye's sensitivity, refraction in a swimming pool and luminous bodies.
+@end
+
+@next
+Likely next angles: **LASER** properties (coherent, monochromatic) and uses, **LiFi** (data through LED light), **Raman effect** (C.V. Raman, National Science Day on 28 February), **polarisation** and 3-D glasses, **Cherenkov radiation**, **photoelectric effect** (solar cells), the **James Webb Space Telescope** working in infrared, and the **Event Horizon Telescope** black-hole images.
+@end

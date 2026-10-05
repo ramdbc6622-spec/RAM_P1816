@@ -1,0 +1,360 @@
+@chapter 3 | Mechanics and Motion under Gravity
+
+@intro
+Mechanics questions test everyday applications of **Newton's laws**: inertia in a moving bus, friction on ice, scalars and vectors, average speed, kinetic energy and energy conversions. The gravity half covers **weight vs mass**, the variation of **g** (poles vs equator, lifts), the **inverse-square law**, pendulum clocks, satellites, weightlessness and **escape velocity** (why the Moon has no air). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 3.1 | Quantities, Motion and Inertia
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following is a vector quantity ?
+(a) Time
+(b) Speed
+(c) Displacement
+(d) Distance
+@ans (c)
+@end
+
+
+A **scalar** has magnitude only (distance, speed, time, mass, work, energy, electric potential); a **vector** has magnitude and direction (**displacement, velocity, acceleration, force, momentum, weight**).
+
+@pyq U.P.P.C.S. (Mains) 2013
+A man is standing on a sensitive balance. If he inhales deeply, the reading of the balance –
+(a) Increases
+(b) Decreases
+(c) Remains unaffected
+(d) May increase or decrease depending on the atmospheric pressure
+@ans (a)
+@end
+
+
+@pyq U.P.P.S.C. (Pre) 2003
+What is the correct equation for finding the acceleration?
+(a) a = (v - u)/t
+(b) a = u + vt
+(c) a = (v + u)/t
+(d) a = (v + u)/2
+@ans (a)
+@end
+
+From **v = u + at**, acceleration a = (v - u)/t, where u is initial velocity, v final velocity and t time. The other two equations of motion are **s = ut + ½at^{2}** and **v^{2} = u^{2} + 2as**.
+
+@pyq U.P.P.C.S. (Pre) 2024
+A bus covers the first half of a certain distance with speed v_{1} and the second half with a speed v_{2}. The average speed during the whole journey is :
+(a) v_{1}v_{2}/(v_{1} + v_{2})
+(b) 2v_{1}v_{2}/(v_{1} + v_{2})
+(c) (v_{1} + v_{2})/2
+(d) √(v_{1}v_{2})
+@ans (b)
+@end
+
+For **equal distances**, average speed = total distance / total time = d / (d/2v_{1} + d/2v_{2}) = **2v_{1}v_{2}/(v_{1} + v_{2})**, the *harmonic mean*. For **equal times** it would be the simple mean (v_{1} + v_{2})/2. Example: 40 km/h and 60 km/h over equal halves give 48 km/h, not 50.
+
+@pyq U.P.P.C.S. (Mains) 2004
+The working principle of a washing machine is :
+(a) Centrifugation
+(b) Dialysis
+(c) Reverse osmosis
+(d) Diffusion
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+As the train starts moving, the head of the passenger sitting inside leans backward because of –
+(a) Inertia of Rest
+(b) Inertia of Motion
+(c) Moment of Inertia
+(d) Conservation of Mass
+@ans (a)
+@end
+
+
+**Inertia** is a body's tendency to keep its state of rest or motion (Newton's first law). When a bus starts, the feet move with it but the upper body stays at rest, so passengers lean **backward** (*inertia of rest*); when it brakes, they lurch **forward** (*inertia of motion*). A washing-machine drier and a cream separator work by **centrifugation**.
+
+@pyq U.P.P.C.S. (Pre) 1994
+It is difficult to walk on the ice than on the road because :
+(a) Ice is harder than the road.
+(b) Road is harder than the ice.
+(c) Ice does not offer any reaction when we push it with our foot.
+(d) Ice has a lesser friction than the road.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Consider the following statement and conclusions which can be drawn from it. Choose the correct conclusion.
+Statement : In starting a loaded cart, one has to push harder than to keep it moving. Conclusion :
+(a) The weight of a moving object is less.
+(b) The wheels tend to slip initially.
+(c) There is less friction once the cart starts moving.
+(d) Practice makes perfect.
+@ans (c)
+@end
+
+
+**Friction** opposes motion. *Static* friction (before movement starts) is greater than *kinetic* friction (once moving), so a cart is harder to start than to keep rolling. Ice offers little friction, so the foot slips. Rolling friction is the smallest, which is why wheels and ball bearings help.
+
+@section 3.2 | Energy
+
+@pyq U.P. P.C.S. (Pre) 2022
+Most of the sources of energy we use, represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
+(a) Nuclear energy
+(b) Geothermal energy
+(c) Biomass energy
+(d) Wind energy
+@ans (a) & (b)
+@note The source gives **(a) & (b)** as the answer: neither **nuclear** energy (from the atomic nucleus) nor **geothermal** energy (heat of the Earth's interior, largely from radioactive decay) comes from the Sun. Wind, biomass, fossil fuels, hydro and wave energy are all stored solar energy. **Tidal** energy comes mainly from the Moon's gravity.
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2016
+In wind power, which form of energy is converted into electrical energy?
+(a) Kinetic energy
+(b) Potential energy
+(c) Solar energy
+(d) Radiant energy
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2023
+Non-conventional energy sources are those energy sources, that are
+(a) Produced from heat
+(b) Produced from electricity
+(c) Non-renewable electricity
+(d) Renewable
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Match List-I with List-II and choose the correct answer from the code given below
+@match
+List-I (Energy Conversion) | List-II (Device/Mechanism)
+A. Light to electric | 1. Car Braking
+B. Electric to sound | 2. Nuclear reactor
+C. Mass to heat | 3. Loudspeaker
+D. Chemical to heat and light | 4. Solar cell
+- | 5. Fuel combustion
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 5
+(c) 2 1 3 5
+(d) 3 1 2 4
+@ans (b)
+@end
+
+@table
+Device | Energy conversion
+**Solar cell** | Light → electrical
+**Loudspeaker** | Electrical → sound
+Microphone | Sound → electrical
+**Electric motor** | Electrical → mechanical
+**Generator / dynamo** | Mechanical → electrical
+**Battery (discharging)** | Chemical → electrical
+**Nuclear reactor** | Mass → heat (E = mc^{2})
+Electric bulb | Electrical → light and heat
+Car braking | Kinetic → heat
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+The ratio of kinetic energies of two bodies of same mass is 4 : 9, the ratio of their velocities will be
+(a) 4 : 9
+(b) 2 : 3
+(c) 16 : 81
+(d) √2 : √3
+@ans (b)
+@end
+
+Kinetic energy = **½mv^{2}**. For equal masses KE ∝ v^{2}, so v_{1} : v_{2} = √4 : √9 = **2 : 3**. Doubling speed makes KE four times; that is why stopping distance rises so sharply with speed. *Momentum* p = mv, and KE = p^{2}/2m.
+
+@section 3.3 | Gravity, Weight and Mass
+
+@pyq U.P.P.C.S. (Pre) 2009
+The Leaning Tower of Pisa does not fall because –
+(a) It is tapered at the top
+(b) It covers a large base area
+(c) Its centre of gravity remains at the lowest position
+(d) The vertical line through the centre of gravity of the tower falls within its base
+@ans (d)
+@end
+
+
+A body stays upright while the **vertical line through its centre of gravity falls inside its base**. The Leaning Tower of Pisa tilts by about 4° but its centre of gravity is still over the base. A low centre of gravity and a wide base give stability (racing cars, buses loaded below).
+
+@pyq U.P.P.C.S. (Pre) 1992; U.P. Lower Sub. (Pre) 2015
+Two balls A and B are of 10 kg. and 1 kg. respectively. They are dropped simultaneously from a height of 20 m. Which of the following is correct?
+(a) A will reach the ground first
+(b) B will reach the ground first
+(c) Both A and B will reach the ground at the same time
+(d) None of the above
+@ans (c)
+@end
+
+
+Galileo showed that, without air resistance, **all bodies fall with the same acceleration g ≈ 9.8 m/s^{2}**, whatever their mass. In air, a feather falls slower only because of air resistance.
+
+@pyq U.P.P.C.S. (Pre) 2006; U.P.P.C.S. (Mains) 2009, 2015
+The weight of a body is –
+(a) Same at every place on Earth’s surface
+(b) Maximum at poles
+(c) More on equator
+(d) More on mountains than in planes
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+A body-weight is highest in which among the following?
+(a) Air
+(b) Water
+(c) Hydrogen
+(d) Nitrogen
+@ans (c)
+@end
+
+
+@table
+Situation | Effect on g or weight
+**Poles** | g maximum (9.83 m/s^{2}): Earth is flattened and does not spin you outward there
+**Equator** | g minimum (9.78 m/s^{2}): larger radius and greatest centrifugal effect
+Going **up** a mountain or **down** a mine | g decreases (it is zero at the centre)
+If Earth **stopped rotating** | g would increase at every place except the poles
+Lift **accelerating up** | Apparent weight increases: m(g + a)
+Lift **accelerating down** | Apparent weight decreases: m(g - a)
+Lift falling **freely** | Weightless (apparent weight zero)
+Lift at **constant velocity** | Weight unchanged
+On the **Moon** | g is about 1/6 of Earth's
+@end
+
+Weight measured in a fluid is reduced by **buoyancy** (upthrust = weight of fluid displaced). Hydrogen is the least dense of the four media, so the upthrust is least and the body weighs most in it.
+
+@pyq U.P.P.C.S. (Pre) 1990
+If a person sitting in a lift then when will he feel that his weight gets increased?
+(a) When the elevator going upward expeditiously
+(b) When the elevator going down expeditiously.
+(c) Going upward with constant velocity.
+(d) Going downward with constant velocity.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994, 2012
+Why do pendulum clocks usually lose time in summer?
+(a) Due to longer days in summer.
+(b) Due to friction caused by coils.
+(c) The length of the pendulum increases, increasing the time period of unit oscillation.
+(d) The weight of the pendulum change in summer.
+@ans (c)
+@end
+
+
+The time period of a simple pendulum is **T = 2π√(l/g)**. In summer the metal rod **expands**, l increases, each swing takes longer and the clock runs **slow**; in winter it gains time. On the Moon (smaller g) a pendulum clock would also run slow, and in a freely falling lift or orbit it would stop.
+
+@pyq U.P.P.C.S. (Mains) 2009
+If the distance between the Earth and the Sun were twice what it is now, the gravitational force exerted on the Earth by the Sun would be –
+(a) Twice as large as it is now
+(b) Four times as large as it is now
+(c) One fourth of what it is now
+(d) Half of what it is now
+@ans (c)
+@end
+
+
+Newton's law of gravitation: **F = Gm_{1}m_{2}/r^{2}**. Force varies as the inverse square of distance, so doubling r makes F **one-fourth**; halving r makes it four times.
+
+@pyq U.P.P.C.S. (Mains) 2013
+The Earth travels in its orbit at a speed of approx 4,400 km per hour. Why do we not feel this high speed ?
+(a) Because we are too small compared to the size of the earth.
+(b) Our relative speed with respect to the Earth along the earth’s orbit is zero.
+(c) The solar system as a whole is also moving.
+(d) The gravity of the Earth constantly pulls us towards the Earth’s centre.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+If the gravitational force of the Earth suddenly disappears, which are of the following will be the correct consequence?
+(a) The weight of an object will become zero but the mass will remain the same.
+(b) The mass of the object will become zero but the weight will remain the same.
+(c) Both the mass and the weight of the object will become zero.
+(d) The mass of the object will increase.
+@ans (a)
+@end
+
+
+**Mass** is the quantity of matter and stays the same everywhere; **weight** (W = mg) is the force of gravity on it and changes with g. Without gravity, weight would be zero but mass unchanged.
+
+@section 3.4 | Satellites and Escape Velocity
+
+@pyq U.P.P.C.S. (Mains) 2007
+Astronauts in space can not stand erect. This is because, in space –
+(a) There is no gravity
+(b) Viscous forces of the atmosphere are very strong
+(c) Solar wind exert an upward force
+(d) Atmospheric pressure is very low
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+If an apple is released from an orbiting spaceship, it will –
+(a) Fall towards the Earth
+(b) Move at a lower speed
+(c) Move along with the spaceship at the same speed
+(d) Move at a higher speed
+@ans (c)
+@end
+
+
+Astronauts in orbit are **weightless** not because gravity is absent (at 400 km it is still about 90% of surface gravity) but because they and their spacecraft are in **free fall** together around the Earth. An apple let go inside or beside the craft simply keeps moving with it. The source's wording "no gravity" is the exam-style explanation.
+
+@pyq U.P.P.C.S. (Pre) 2006
+A Geosynchronous satellite continuously active in its orbit due to centripetal force which is obtained by
+(a) The rocket engine that propelled the satellite.
+(b) The gravitational force on the satellite by the earth.
+(c) The gravitational force on the satellite by the sun.
+(d) The gravitational force on the earth by satellite.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Satellite is kept moving in its orbit around the Earth; it is due to –
+(a) Centrifugal force
+(b) Centripetal force
+(c) Gravitational force or lack of it
+(d) Some other forces
+@ans (b)
+@end
+
+
+The **centripetal force** that keeps a satellite circling is supplied by the **Earth's gravity**. Orbital speed near the surface is about **7.9 km/s**; a **geostationary** satellite (35,786 km up, period 24 h, over the equator) appears fixed in the sky.
+
+@pyq U.P.P.C.S. (Mains) 2012
+There is no atmosphere on the Moon because –
+(a) It is near to the Earth.
+(b) It receives light from the Sun.
+(c) It revolves around the Earth.
+(d) The escape velocity of gas molecules on it is less than the root mean square velocity here.
+@ans (d)
+@end
+
+
+@table
+Body | Escape velocity
+**Earth** | **11.2 km/s**
+Moon | 2.4 km/s
+Jupiter | About 59.5 km/s
+Sun | About 618 km/s
+@end
+
+Escape velocity (v_{e} = √(2gR)) does not depend on the mass of the escaping body. On the Moon it is so low that gas molecules, moving at their thermal (root mean square) speeds, escape easily, so the Moon cannot hold an atmosphere.
+
+@trap
+**Displacement, velocity, force and weight are vectors**; distance, speed, work and potential are scalars. Average speed for equal distances is **2v_{1}v_{2}/(v_{1} + v_{2})**, not the simple mean. Weight is **maximum at the poles**. Pendulum clocks **lose** time in summer. Doubling distance makes gravity **one-fourth**. Weightlessness in orbit is **free fall**, not zero gravity. **Earth's escape velocity = 11.2 km/s.**
+@end
+
+@heatmap
+
+@pattern
+These are reasoning questions dressed as everyday situations: the lift, the bus, the pendulum clock, the bucket and the astronaut. Most have been asked since the 1990s and keep returning; the **2022-2024** papers added numerical items (average speed formula, energy sources), so expect a short calculation each year.
+@end
+
+@next
+Likely next angles: **Newton's third law** (rocket propulsion, recoil of a gun), **conservation of momentum**, **projectile** range at 45°, **Kepler's laws**, **Lagrange points** (Aditya-L1 at L1), the **geostationary vs polar orbit** distinction, **microgravity** experiments on the ISS (Shubhanshu Shukla's Axiom-4 mission, 2025), and **g** on the Moon and Mars.
+@end

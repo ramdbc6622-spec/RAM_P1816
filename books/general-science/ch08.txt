@@ -1,0 +1,540 @@
+@chapter 8 | Electricity and Conductivity
+
+@intro
+Electricity questions are practical: **units of electricity** (kWh) and bill calculations, **bulb brightness and resistance**, series vs parallel, the **dynamo, motor and transformer**, **fuse, earthing and the three-pin plug**, **fluorescent tubes and CFLs**, and **solar (photovoltaic) cells**. The conductivity part covers the best conductors, **lightning conductors**, **superconductors** and **semiconductors** (silicon, germanium). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 8.1 | Electrical Energy and the Unit
+
+@pyq U.P.P.C.S. (Pre) 2006
+The value of 1 kilowatt hour is
+(a) 3.6 × 10^{6} J
+(b) 3.6 × 10^{3} J
+(c) 10^{3} J
+(d) 10^{5} J
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+An electric bulb of 100 watt is used for 4 hours. The unit of electric energy used is
+(a) 400
+(b) 25
+(c) 4
+(d) 0.4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Five bulbs each of 100 watt capacity in a tunnel are illuminated continuously for twenty hours. The consumption of electricity will be:
+(a) One unit
+(b) Two units
+(c) Ten units
+(d) Twenty units
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+15 bulbs each of 200 watt capacity in a Silkyara tunnel are illuminated continuously for 24 hours. The consumption of electricity will be :
+(a) 71 units
+(b) 72 units
+(c) 73 units
+(d) None of the above
+@ans (b)
+@end
+
+
+One **"unit"** on an electricity bill is **1 kilowatt-hour** = 1,000 W × 3,600 s = **3.6 × 10^{6} J**. Units = (watts × number of appliances × hours) / 1,000. So 100 W × 4 h = 0.4 unit; 5 × 100 W × 20 h = 10 units; 15 × 200 W × 24 h = **72 units**. (The 2023 question used the **Silkyara tunnel**, Uttarakhand, where 41 workers were rescued in November 2023.)
+
+@section 8.2 | Resistance, Bulbs and Circuits
+
+@pyq U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Pre) 2009
+Of the two bulbs in a house, one glows brighter than the other. In this context which of the following statements is correct ?
+(a) The brightness does not depend on the resistance.
+(b) Both the bulbs have same the resistance.
+(c) The bright bulb has larger resistance.
+(d) The dim bulb has larger resistance.
+@ans (d)
+@end
+
+@one
+In a house, one of two bulbs is brighter than the other. Which bulb has the higher resistance?
+@ans The dimmer bulb.
+@end
+
+
+Power **P = V^{2}/R** at a fixed household voltage (230 V in India), so the bulb with **less resistance draws more power and glows brighter**; the dim bulb has the larger resistance. A 100 W bulb has less resistance than a 40 W bulb.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+How two identical bulbs should be connected to get maximum light?
+1. Both are connected in series.
+2. Both are connected in parallel.
+Select the correct answer using the code given below :
+Code :
+(a) In case 1 more
+(b) In case 2 more
+(c) Same in both 1 and 2
+(d) Nothing can be said
+@ans (b)
+@end
+
+
+In **parallel**, each bulb gets the full mains voltage and glows at full power; in **series** they share the voltage, and two identical bulbs give only a quarter of the total light. Houses are therefore wired in parallel, so each appliance works independently.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+A voltage of 15 volt is applied across a colour coded carbon resistor with first, second and third rings of brown, green and black colours. What is the current flowing through the resistor?
+(a) 3 ampere
+(b) 2 ampere
+(c) 1 ampere
+(d) None of the above
+@ans (c)
+@end
+
+
+**Ohm's law: V = IR.** Resistor colour code: brown = 1, green = 5, black = multiplier 10^{0}, so R = 15 Ω and I = 15 V / 15 Ω = **1 A**. (Code order: black 0, brown 1, red 2, orange 3, yellow 4, green 5, blue 6, violet 7, grey 8, white 9.)
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The electric current does not flow between two properly connected charged bodies if they are having
+(a) Same charge
+(b) Same capacity
+(c) Same resistivity
+(d) Same potential
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Mains) 2015
+Small drops of the same size are charged to V volts each. If n such drops coalesce to form a single large drop, its potential will be :
+(a) n^{2/3} V
+(b) n^{1/3} V
+(c) n V
+(d) n^{-1} V
+@ans (a)
+@end
+
+Charge adds up (Q = nq) but the radius grows only as n^{1/3} (volume is conserved), and potential = kQ/R, so the big drop's potential is **n^{2/3} V**.
+
+@section 8.3 | Dynamo, Motor and Transformer
+
+@pyq U.P.P.C.S. (Mains) 2009
+A dynamo which is said to generate electricity actually acts as a :
+(a) Source of ions
+(b) Source of electric charge
+(c) Converter of energy
+(d) Source of electrons
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017; U.P.P.C.S. (Mains) 2012
+The device which works on the principle of electromagnetic induction is
+(a) Ammeter
+(b) Voltmeter
+(c) Dynamo
+(d) Electric motor
+@ans (c) & (d)
+@note The source gives **(c) & (d)**. The **dynamo** (generator) is the classic electromagnetic-induction device, turning mechanical energy into electrical. A **motor** works on the force on a current-carrying conductor in a magnetic field, though induction (back e.m.f.) also acts inside it, and induction motors are named after it.
+@end
+
+@one
+‘Dynamo’ is a device which converts—
+@ans mechanical energy into electrical energy.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+A device which converts electrical energy into mechanical energy is –
+(a) Dynamo
+(b) Transformer
+(c) Electric motor
+(d) Inductor
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Electric motors operating at low voltages tend to burn out because –
+(a) They draw more current which is inversely proportional to the voltage.
+(b) They draw more current which is inversely proportional to the square root of the voltage.
+(c) They draw heat proportional to v2
+(d) Low voltage sets in electrical discharge.
+@ans (a)
+@end
+
+
+
+@table
+Device | Principle / job
+**Dynamo (generator)** | Electromagnetic induction (Faraday): mechanical → electrical
+**Electric motor** | Force on a current in a magnetic field: electrical → mechanical
+**Transformer** | Mutual induction: steps **AC** voltage up or down (does not work on DC)
+**Rectifier** (diode) | **AC → DC**
+**Inverter** | **DC → AC** (home inverters, solar inverters)
+UPS | Battery backup that switches instantly
+Mobile charger | **Step-down transformer** (or switch-mode circuit) plus rectifier
+@end
+
+A motor draws power P = VI; at **low voltage** it draws **more current** to keep turning its load, and the extra current overheats and burns its windings. That is why voltage stabilisers are used with ACs and refrigerators.
+
+@pyq U.P.P.C.S. (Pre) 2006
+Transformer is used for :
+(a) Converting AC into DC
+(b) Converting DC into AC
+(c) To step-up DC voltages
+(d) To step-up or step-down AC voltages
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+A mobile phone charger is :
+(a) An inverter
+(b) A UPS
+(c) A step up transformer
+(d) A step down transformer
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2006
+The device used for converting alternating current to direct current is called
+(a) Inverter
+(b) Rectifier
+(c) Transformer
+(d) Transmitter
+@ans (b)
+@end
+
+Power is transmitted at **very high voltage** (up to 765 kV AC and 800 kV HVDC in India) because for the same power, higher voltage means lower current and much lower I^{2}R loss in the lines; transformers then step it down for homes.
+
+@section 8.4 | Safety: Fuse, Earthing and Plugs
+
+@pyq U.P.P.C.S (Pre) 1990, 2005, 2011
+The filament of an electric bulb is made of –
+(a) Magnesium
+(b) Iron
+(c) Nichrome
+(d) Tungsten
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+In a three-pin electrical plug longest pin should be connected to
+(a) Ground terminal
+(b) Live terminal
+(c) Neutral terminal
+(d) Any terminal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+In electric apparatus ‘earth’ is used:
+(a) To reduce the expenditure
+(b) Because the apparatus used 3-phase
+(c) For safety
+(d) In the form of fuse
+@ans (c)
+@end
+
+
+The **earth pin** is the **longest and thickest** pin of a three-pin plug: it connects first and disconnects last, so the metal body of an appliance is always grounded and a leak of current flows to earth instead of through a person. **Live** wire is red or brown, **neutral** black or blue, and **earth** green or green-yellow.
+
+@pyq U.P. P.C.S. (Pre) 1993
+A fuse wire is characterized by:
+(a) Low resistance and high melting point.
+(b) Low resistance and low melting point.
+(c) High resistance and low melting point.
+(d) High resistance and high melting point.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Two statements are given below. One is called Assertion (A) and the other Reason (R).
+Assertion (A): Generally, an alloy of lead and tin is used as the material of fuse wire.
+Reason (R): The melting point of the alloy of lead and tin is higher than the melting point of copper and aluminium.
+Choose the correct answer from the code given below:
+Code:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+@ans (c)
+@end
+
+
+A **fuse** wire must melt quickly when current is too high, so it has **high resistance and a low melting point**. The usual material is a **lead-tin alloy** (about 200°C melting point), far below copper (1,085°C) and aluminium (660°C), so the Reason in the 2025 question is false. Homes now mostly use **MCBs** (miniature circuit breakers), which trip and can be reset.
+
+@section 8.5 | Lamps and Lighting
+
+@pyq U.P.P.C.S. (Mains) 2015
+Full form of C.F.L. is –
+(a) Compact Fluorescent Lamp
+(b) Centrally Fixed Lamp
+(c) Chemical Fluorescent Lamp
+(d) Condensed Fluorescent Lamp
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+The gas used in discharge tubes for optical decoration and advertising is –
+(a) Carbon dioxide
+(b) Ammonia
+(c) Sulphur dioxide
+(d) Neon
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+The most commonly used substance in fluorescent tubes are –
+(a) Sodium Oxide and Argon
+(b) Sodium Vapor and Neon
+(c) Mercury Vapor and Argon
+(d) Mercuric Oxide and Neon
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Tubelight is filled with –
+(a) Sodium vapour
+(b) Argon gas at low pressure
+(c) Mercury vapour at low pressure
+(d) Mercuric oxide & Argon gas
+@ans (b) & (c)
+@note The source gives **(b) & (c)**: a tube light holds **mercury vapour** and an inert gas (usually **argon**), both at low pressure.
+@end
+
+@pyq U.P. P.C.S. (Pre) 1990
+What gases are filled in fluorescent tube?
+(a) Neon
+(b) Sodium
+(c) Mercury
+(d) Mercury and neon
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2009
+In comparison to an electric bulb, a fluorescent tube is preferred because –
+(a) It has greater external outer surface to radiate/emit the light.
+(b) There is no effect of voltage fluctuation on it.
+(c) In the tube, electric energy almost converted into light energy.
+(d) None of these.
+@ans (d)
+@end
+
+
+
+@table
+Lamp | How it works | Efficiency
+**Incandescent bulb** | **Tungsten** filament heated white-hot (melting point 3,422°C) in inert gas (argon, nitrogen) | About 5% of energy becomes light
+**Fluorescent tube / CFL** | Discharge in **mercury vapour + argon** gives UV; the **phosphor** coating turns it into visible light | 4-5 times better than a bulb
+**LED** | Semiconductor diode emits light directly | Best; 10 times a bulb, very long life (**UJALA** scheme, 2015)
+**Neon sign** | Discharge in **neon** gives orange-red; other gases give other colours | Advertising
+**Sodium vapour lamp** | Yellow light | Street lights
+@end
+
+@section 8.6 | Solar Cells and the Earth's Magnetism
+
+@pyq U.P.P.C.S. (Pre) 1992
+Which of the following option represents the consumption of power in ascending order–
+(a) Television, fan, electronic press, electronic kettle
+(b) Television, fan, electronic kettle, electronic press
+(c) Fan, television, electronic press, electronic kettle
+(d) Electronic press, electronic kettle, fan, television
+@ans (c)
+@end
+
+
+Order of power: **fan (about 75 W) < television (100-150 W) < electric iron (750-1,000 W) < electric kettle (1,500-2,000 W)**. Heating appliances use the most power.
+
+@pyq U.P. P.C.S. (Pre) 2016
+Photovoltaic cells are :
+(a) Solar cells
+(b) Thermal cells
+(c) Sulphur cells
+(d) Molar cells
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Solar energy is converted into electric energy through:
+(a) Leclanche cells
+(b) Photovoltaic cells
+(c) Dry cells
+(d) Voltaic cells
+@ans (b)
+@end
+
+
+A **photovoltaic (solar) cell** converts sunlight directly into electricity using a semiconductor (usually **silicon**) p-n junction. A **Leclanché cell** and a **dry cell** are chemical cells; a voltaic cell is the first chemical battery (Volta, 1800).
+
+@pyq U.P.P.C.S. (Mains) 2011
+The Earth’s magnetic field is due to :
+(a) Currents circulating inside the core
+(b) Presence of a huge magnet at is centre
+(c) Moving charges in space outside
+(d) None of the above
+@ans (a)
+@end
+
+
+The Earth's magnetic field comes from **electric currents in the molten iron outer core** (the *geodynamo*), not from a giant bar magnet. The field has reversed many times in geological history.
+
+@section 8.7 | Conductors and Lightning
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is the best conductor of electricity?
+(a) Mica
+(b) Copper
+(c) Gold
+(d) Silver
+@ans (d)
+@end
+
+
+Best conductors in order: **silver > copper > gold > aluminium**. Copper is used for wiring because it is nearly as good as silver and far cheaper; aluminium is used in overhead lines because it is light. **Mica** is an insulator.
+
+@pyq U.P.P.C.S. (Pre) 1999
+Statement (A) and Reason (R) are given below. Study them and choose the correct answer from the codes given below—
+Statement (A) : Lightning conductors protect buildings from being destroyed.
+Reason (R) : They send the charge to the earth.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Assertion (A) : Copper rods are generally preferred to iron rods for making lightning conductors.
+Reason (R) : Copper is better conductor of electricity than iron and is not easily oxidized under atmospheric conditions.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : A person travelling in a car with closed glass windows and doors is safe from the lightening strike.
+Reason (R) : Actually a closed car behaves like a hollow conductor, so charges cannot enter inside the car.
+Select the correct answer using the code given belowCode :
+(a) (A) is true but (R) is false.
+(b) Both (A) and (R) are true and (R) is correct explanation of (A).
+(c) (A) is false but (R) is true.
+(d) Both (A) and (R) are true but (R) is not correct explanation of (A).
+@ans (b)
+@end
+
+
+A **lightning conductor** is a pointed metal rod (usually **copper**, which conducts well and does not rust) on top of a building, joined by a thick strip to a plate buried in the ground; it leads the charge safely to earth. A **closed car** (metal body) acts as a **Faraday cage**: the charge stays on the outside surface and the people inside are safe. During a storm, avoid open fields, lone trees and water; crouch low. **Damini** is the lightning-warning app of the Ministry of Earth Sciences.
+
+@section 8.8 | Superconductors and Semiconductors
+
+@pyq U.P.P.C.S. (Pre) 2000
+At which temperature superconductivity can be of tremendous economic interest saving billions of rupees?
+(a) At very low temperature
+(b) At a temperature when semiconductor becomes a superconductor
+(c) at room temperature
+(d) At a very high temperature
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2013
+The highest temperature attained by a superconductor is :
+(a) 24 K
+(b) 133 K
+(c) 150 K
+(d) 300 K
+@ans (*)
+@note When the question was set, the record was **about 133-138 K** (mercury-based cuprate ceramics), so (b) was the intended answer. Later claims of near-room-temperature superconductivity at extreme pressures (hydrides, 2015-2020) and the **LK-99** claim (2023) were not confirmed at normal pressure, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+The newly discovered high temperature super conductors are
+(a) Metal alloys
+(b) Pure rare earth metals
+(c) Ceramic oxides
+(d) Inorganic polymers
+@ans (c)
+@end
+
+A **superconductor** has **zero resistance** below a critical temperature and expels magnetic fields (Meissner effect). It was discovered in mercury at 4.2 K (Kamerlingh Onnes, 1911). **High-temperature** superconductors (1986 onwards) are **copper-oxide ceramics** that work above 77 K, the boiling point of liquid nitrogen. A **room-temperature** superconductor would save the huge losses in power transmission. Uses: MRI magnets, **maglev** trains, particle accelerators, fusion reactors.
+
+@pyq U.P.P.C.S. (Mains) 2015
+The resistance of a semiconductor on heating :
+(a) Remains constant
+(b) Decreases
+(c) Increases
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following is an important component of a transistor?
+(a) Arsenic
+(b) Germanium
+(c) Osmium
+(d) Radium
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+The most commonly used material for making transistors is –
+(a) Aluminium
+(b) Silicon
+(c) Copper
+(d) Silver
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which of the following are semiconductors ?
+1. Silicon
+2. Quartz
+3. Ceramics
+4. Germanium
+Choose the correct answer from the following alternatives :
+(a) 1 and 2
+(b) 1 and 3
+(c) 1 and 4
+(d) 3 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following is a semiconductor ?
+(a) Plastic
+(b) Aluminium
+(c) Wood
+(d) Germanium
+@ans (d)
+@end
+
+@one
+Which of the following elements is a semiconductor?
+@ans Silicon
+@end
+
+
+@table
+Material | Resistance on heating | Examples
+**Conductor** | Increases | Metals (silver, copper, aluminium)
+**Semiconductor** | **Decreases** (more charge carriers freed) | **Silicon**, **germanium**, gallium arsenide
+**Insulator** | Very high always | Glass, mica, rubber, plastic, wood, quartz, ceramics
+@end
+
+Adding small impurities (**doping**) controls a semiconductor: phosphorus or arsenic gives **n-type**, boron or gallium **p-type**. **Silicon** (from sand) is the base of almost all chips; India's **Semicon India** programme (2021) backs fabs and assembly plants, the first being Tata's fab at **Dholera** (Gujarat) and Micron's assembly unit at **Sanand**.
+
+@trap
+**1 unit = 1 kWh = 3.6 × 10^{6} J.** The **dimmer bulb has higher resistance**. Bulbs in **parallel** glow brighter. A **dynamo** works on electromagnetic induction; a **transformer works only on AC**; a **rectifier** turns AC to DC. A **fuse** has **high resistance and low melting point** (lead-tin). The earth pin is **longest and thickest**. **Silver** is the best conductor. A semiconductor's resistance **falls** on heating.
+@end
+
+@heatmap
+
+@pattern
+Electricity questions are **numerical and practical**: bills in units, bulb brightness, the colour code. Recent papers (2021-2025) put these numbers in news contexts (the Silkyara tunnel), and the 2025 paper turned the fuse wire into Assertion-Reason. Semiconductors and superconductors are steady conceptual favourites.
+@end
+
+@next
+Likely next angles: **Semicon India** fabs and the **India Semiconductor Mission**, **LED** savings under UJALA, **smart meters** and **prepaid meters**, **HVDC** lines (Raigarh-Pugalur), **lithium-ion** vs **sodium-ion** batteries, **EV** charging, **graphene**, the **PM Surya Ghar** rooftop solar scheme (2024), and **perovskite** solar cells.
+@end

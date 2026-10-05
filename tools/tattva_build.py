@@ -45,6 +45,9 @@ for name, f in [("Cal", "Caladea-Regular"), ("Cal-B", "Caladea-Bold"),
                 ("Cal-I", "Caladea-Italic"), ("Cal-BI", "Caladea-BoldItalic")]:
     pdfmetrics.registerFont(TTFont(name, os.path.join(FONTS, f + ".ttf")))
 pdfmetrics.registerFontFamily("Cal", normal="Cal", bold="Cal-B", italic="Cal-I", boldItalic="Cal-BI")
+# Fallback for symbols Caladea lacks (Greek letters, maths signs)
+pdfmetrics.registerFont(TTFont("Sym", os.path.join(FONTS, "DejaVuSerif.ttf")))
+_CAL = TTFont("_probe", os.path.join(FONTS, "Caladea-Regular.ttf")).face.charToGlyph
 
 # Brand colours (design-system/project/tokens.json)
 GOLD_DEEP = colors.HexColor("#8b6914")
@@ -98,7 +101,11 @@ def inline(text):
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<i>\1</i>", text)
-    return text
+    # ^{x} superscript, _{x} subscript
+    text = re.sub(r"\^\{(.+?)\}", r"<super>\1</super>", text)
+    text = re.sub(r"_\{(.+?)\}", r"<sub>\1</sub>", text)
+    return "".join(c if ord(c) < 128 or ord(c) in _CAL else f'<font name="Sym">{c}</font>'
+                   for c in text)
 
 
 def P(text, st="body"):
