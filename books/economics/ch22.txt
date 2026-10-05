@@ -1,0 +1,653 @@
+@unit UNIT V · DEMOGRAPHY
+
+@chapter 22 | Population I: Theory, Census and Growth
+
+@intro
+Demography is the last and one of the most-asked parts of the economy paper. This first chapter covers **population theories** (Malthus, demographic transition, optimum population), the **Census of India** (history, slogans, 2027 Census), **population growth** by decade and its turning points (**1921 and 1951**), and the **population of states and of UP**. All figures are from **Census 2011** unless stated. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 22.1 | Population Theories
+
+@pyq U.P. P.C.S. (Pre) 2023
+Given below are two statements, one is labelled as
+Assertion (A) and other as Reason (R) :
+Assertion (A) : Population control is necessary to maintain the environment of the country.
+Reason (R) : Due to the rapid increase in population, the environmental balance is maintained.
+Select the correct answer using the code given below :
+Code :
+(a) Both (A) and (R) are true but (R) is not correct explanation of (A)
+(b) (A) is false but (R) is true
+(c) Both (A) and (R) are true but (R) is correct explanation of (A)
+(d) (A) is true but (R) is false
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Natural growth of population is the outcome of which of the following?
+A. Crude Birth Rate B. Crude Death Rate
+C. Migration
+D. Marriages
+Select the correct answer from the codes given below:
+Codes :
+(a) Only A
+(b) Only C
+(c) B and D
+(d) A and B
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+A gradual change in the manner of population growth occurring over a long period of time is known as :
+(a) Demographic transition
+(b) Population explosion
+(c) Demographic dynamism
+(d) Demographic transformation
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2014
+Select one of the following set of processes leading to stable population structure :
+(a) Increasing birth rate and constant death rate
+(b) Decreasing birth rate and increasing death rate
+(c) Constant birth and death rate
+(d) Constant birth rate and decreasing death rate
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+At present India's population growth is passing through the phase of which one of the following?
+(a) Stagnant population
+(b) Steady growth
+(c) Rapid high growth
+(d) High growth rate with definite signs of slowing down
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+According to Malthus, which one of the following is the most effective measure of population control?
+(a) War
+(b) Misery
+(c) Birth control
+(d) Vices
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+T. Malthus propounded one of the most famous theories, called ‘The Malthusian Theory’ which is related to :
+(a) Population
+(b) Poverty
+(c) Economy
+(d) Unemployment
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Malthus argued that the population grows in a _______ progression, while agricultural production/food supply grows in a ______ progression. From the following options, choose the correct answer to fill in the blanks:
+(a) Lincar, Exponential
+(b) Exponential, Linear
+(c) Arithmetic, Geometric
+(d) Geometric, Arithmetic
+@ans (d)
+@end
+
+
+@table
+Theory | Propounder | Key idea
+**Malthusian theory** (1798) | **T.R. Malthus** | Population grows in **geometric**, food in **arithmetic** progression; checks: **preventive** (moral restraint, late marriage) and **positive** (famine, war, disease)
+**Optimum population** | **Edwin Cannan** | Size giving the highest per capita income
+**Demographic transition** | **W.S. Thompson** (1929), F. Notestein | High birth and death → falling death → falling birth → low both
+**Social maladjustment** | **Henry George** | Poverty comes from bad social institutions, not numbers
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Match list-I with list-II and select the correct answer using code given below the lists :
+@match
+List-I (Theories of Population) | List-II (Propounders of Theories)
+A. Optimum Population Theory | 1. Thompson
+B. Social Maladjustment Theory | 2. Malthus
+C. Demographic Transition Theory | 3. Edwin Cannan
+D. Population-Food Supply Relationship Theory | 4. Henry George
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 1 2
+(c) 2 3 4 1
+(d) 3 4 1 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following is not a part of the demographic feature of a population?
+(a) Density of population
+(b) Standard of living
+(c) Sex-ratio
+(d) Rural-urban population
+@ans (b)
+@end
+
+
+**Natural growth** = **birth rate − death rate**; migration and marriages are not part of it. India is in the **late third stage** of demographic transition: growth is still positive but **clearly slowing** (TFR below replacement since 2020-21). A **stable population** has constant birth and death rates.
+
+@section 22.2 | The Census of India
+
+@pyq U.P. P.C.S. (Mains) 2007
+In which year was the first regular Census held in India?
+(a) 1921
+(b) 1881
+(c) 1911
+(d) 1931
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2023
+Census for the first time in India was conducted during the British era in the tenure of –
+(a) Lord Dufferin
+(b) Lord Lytton
+(c) Lord Mayo
+(d) None of the above
+@ans (c)
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2023
+When was the Census work done for first time in India?
+(a) In the year 1871
+(b) In the year 1881
+(c) In the year 1850
+(d) In the year 1861
+@ans (b)
+@note The first (non-synchronous) census was taken in **1872** under **Lord Mayo**; the first **regular, synchronous** census came in **1881** under **Lord Ripon**. The Commission accepted (a) 1871, which the source calls incorrect; it keys (b).
+@end
+
+@one U.P. R.O./A.R.O. (Pre) 2023; U.P.P.C.S. (Pre) 2001
+The first Census in India during the British period was held in the tenure of
+@ans Lord Mayo
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Consider the following statements :
+Assertion (A) : The Census of India is carried out every 10 years.
+Reason (R) : The population of India has largely remained unchanged over the period of ten years.
+Select the correct answer from the code given below :
+(a) Both (A) and (R) are true and (R) correctly explains (A)
+(b) Both (A) and (R) are true but (R) does not correctly explain (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Which among the following was used as the motto for Census of India 2011?
+(a) Our Future, Our Country
+(b) Our Country, Our Census
+(c) People of India , Our Census
+(d) Our Census, Our Future
+@ans (d)
+@end
+
+
+@table
+Census fact | Detail
+First census | **1872** (Lord Mayo); first regular **1881** (Lord Ripon; W.C. Plowden as Census Commissioner)
+Basis | **Census Act, 1948**; held every **10 years**; Census is in the **Union List**
+**Census 2011** | **15th** census overall, **7th** after independence; slogan "**Our Census, Our Future**"
+Census 2021 | Postponed (COVID)
+**Census 2027** | **16th** census; first **digital** census with **caste** enumeration; reference date **1 March 2027** (1 October 2026 for snow-bound areas)
+Run by | **Registrar General and Census Commissioner**, Ministry of Home Affairs
+@end
+
+@section 22.3 | Growth of India's Population
+
+@pyq U.P.P.C.S. (Pre) 2025
+Arrange the following States of India in descending order on the basis of population growth and select the correct answer –
+1. Haryana
+2. Himachal Pradesh
+3. Punjab
+4. Uttarakhand
+Code:
+(a) 1, 3, 2, 4
+(b) 3, 1, 4, 2
+(c) 3, 1, 2, 4
+(d) 1, 3, 4, 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The decadal growth rate of population in India has been lowest during :
+(a) 1961 – 1971
+(b) 1981 – 1991
+(c) 1991 – 2001
+(d) 2001 – 2011
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Which one of the following pairs is not correctly matched? Decade Decadal growth rate of population (in percent)
+(a) 1971 – 81 24.66
+(b) 1981 – 91 23.87
+(c) 1991 – 2001 21.54
+(d) 2001 – 2011 19.05
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015; U.P.P.C.S. (Mains) 2014; U.P. U.D.A./L.D.A. (Pre) 2013
+According to the Census of India 2011, the percentage growth of population in the country during the period of 2001-2011 was :
+(a) 31.34
+(b) 17.70
+(c) 13.31
+(d) 23.85
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2017
+According to Census report of 2011, India's population between 2001-2011 increased by
+@ans 17.7 percent
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+In which of the following Census year in India was recorded the highest percentage change in population?
+(a) 1971
+(b) 1981
+(c) 1991
+(d) 2001
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007, 2009; U.P.R.O./A.R.O.; (Re-Exam) (Pre) 2016; U.P.U.D.A./L.D.A. (Pre) 2013; U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+In relation to population, in which of the following years is India described as the “Year of Great Divide”, after which the trend of increase and decrease in India’s population became clear?
+(a) 1911
+(b) 1921
+(c) 1941
+(d) 1951
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Assertion (A) : India has experienced a phenomenal growth of population since 1951.
+Reason (R) : 1951 is called the demographic divide in India’s demographic history.
+Codes:
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true but R is not the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The highest average annual exponential growth rate in India's population has been recorded during the decade of :
+(a) 1951-61
+(b) 1961-71
+(c) 1971-81
+(d) 1981-91
+@ans (c)
+@end
+
+
+@one U.P.P.C.S. (Pre) 2005; U.P.P.S.C. (GIC) 2010
+The decadal growth rate of population in India was highest during
+@ans 1961-1971
+@end
+
+@table
+Decade | Growth (%) | Note
+1901-11 | 5.75 | Slow growth
+**1911-21** | **−0.31** | Only fall (influenza, famine) → **1921 = "Year of Great Divide"**
+1951-61 | 21.6 | **1951 = demographic divide**: rapid growth begins
+**1961-71** | **24.80** | **Highest decadal growth**
+1971-81 | 24.66 | **Highest annual exponential growth** (2.22%)
+1981-91 | 23.87 | -
+1991-2001 | 21.54 | -
+**2001-11** | **17.70** | **Lowest since independence**; first decade adding fewer people than the previous one
+2011 total | **121.09 crore** | 17.5% of world population on 2.4% of the land
+Now | About **146 crore** (UN, 2025) | **India passed China in April 2023** as the most populous country
+@end
+
+India's population did grow very fast after **1951**, but the "great divide" year is **1921**, not 1951, so in Q22 the Assertion is true and the Reason false.
+
+@section 22.4 | Population of the States
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+What is the percentage of females in India’s population according to the provisional data of 2011 Census ?
+(a) 49.80
+(b) 48.46
+(c) 47.98
+(d) 47.24
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+Which of the following is the most populous State in India as per the provisional data of Census of India 2011?
+(a) Madhya Pradesh
+(b) Andhra Pradesh
+(c) Odisha
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2001
+The population of Uttar Pradesh exceeds the total population of each country of one of the groups given below :
+(a) Germany, France, Indonesia, Brazil
+(b) Japan, Russia, Brazil, Nigeria
+(c) U.K., Germany, Japan, Pakistan
+(d) U.K., U.S.A., Japan, Bangladesh
+@ans (b) & (c)
+@note The source accepts **(b) and (c)**: in **2001** UP (16.6 crore) was larger than each of the UK, Germany, Japan and Pakistan (c); by **2011** UP (19.98 crore) had also passed **Brazil**, so it exceeded Japan, Russia, Brazil and Nigeria (b) too.
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2006
+Consider the following statements about Uttar Pradesh:
+1. Literacy percentage as per 2001 census is 56.3.
+2. The density of population is 690 per square km.
+3. The most populous district is Kanpur Nagar.
+4. The largest population of the scheduled castes is in district Sitapur.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 and 2 only
+(b) 2, 3 and 4 only
+(c) 1, 2 and 4 only
+(d) All the four
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Consider the following statements :
+Assertion (A) : Uttar Pradesh continues to be the most populous State in the country (Census 2011 Provisional Data).
+Reason (R) : Bihar, West Bengal and Maharashtra respectively are behind it in descending order.
+Select the correct answer from the code given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+What is the percentage of India’s population that lives in Uttar Pradesh as per provisional data of 2011 Census?
+(a) About 19%
+(b) About 18%
+(c) About 17%
+(d) About 16%
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014, U.P.P.C.S. (Pre) 2021; U.P. R.O./A.R.O. (Pre) 2016
+Which one of the following is the most populous State in India as per Census of 2011?
+(a) Madhya Pradesh
+(b) Andhra Pradesh
+(c) Odisha
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+
+@one U.P.P.C.S.(Pre) 2013
+Arrange in descending order the following States in terms of their population as per the provisional data of Census 2011: 1. Andhra Pradesh 2. Bihar 3. Maharashtra 4. Uttar Pradesh
+@ans 4, 3, 2, 1
+@end
+
+@one
+Arrange the following States of India in descending order of their population-size
+@ans Uttar Pradesh, Maharashtra, Bihar, West Bengal
+@end
+
+@one U.P. P.C.S. (Pre) 2011, 2008, 2004; U.P. U.D.A./L.D.A. (Pre) 2001
+After Uttar Pradesh which of the following States in the country has the largest population?
+@ans Maharashtra
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Write in descending order the following States on the basis of their population as per Census, 2011:
+1. Bihar
+2. Andhra Pradesh
+3. Uttar Pradesh
+4. West Bengal
+Choose the correct answer with the help of the following codes:
+(a) 3, 4, 1, 2
+(b) 1, 3, 2, 4
+(c) 1, 3, 4, 2
+(d) 3, 1, 4, 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following States of India ranks second (2011) in terms of population and third in terms of area?
+(a) Uttar Pradesh
+(b) Madhya Pradesh
+(c) Andhra Pradesh
+(d) Maharashtra
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+More than one-third of India's population is concentrated in the States of :
+(a) Uttar Pradesh, Maharashtra, Bihar
+(b) Uttar Pradesh, Bihar Andhra Pradesh
+(c) Uttar Pradesh, Tamil Nadu, West Bengal
+(d) Uttar Pradesh, Maharashtra, Madhya Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Among the following States, which one has the minimum population as per latest Census ?
+(a) Maharashtra
+(b) Karnataka
+(c) Bihar
+(d) Madhya Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Consider the following statements :
+1. In terms of area, Chhattisgarh is larger than West Bengal.
+2. As per Census 2001, the Population of West Bengal is more than Chhattisgarh.
+Which is/are correct?
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+The population of four States in the country in descending order is :
+(a) West Bengal, Maharashtra, M.P., Tamil Nadu
+(b) Maharashtra, M.P., West Bengal, Tamil Nadu
+(c) Maharashtra, West Bengal, M.P., Tamil Nadu
+(d) M.P., Maharashtra, Tamil Nadu, West Bengal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Arrange the following States/Union Territories in descending order of their population, on the basis of Census 2001 :
+(a) Chandigarh-Puducherry-Sikkim-Mizoram
+(b) Chandigarh-Puducherry-Mizoram-Sikkim
+(c) Puducherry-Chandigarh-Mizoram-Sikkim
+(d) Puducherry-Chandigarh-Sikkim-Mizoram
+@ans (c)
+@end
+
+
+@table
+Most populous states (2011) | Population (crore) | Share
+1. **Uttar Pradesh** | **19.98** | **16.5%**
+2. **Maharashtra** | 11.24 | 9.3%
+3. **Bihar** | 10.41 | 8.6%
+4. West Bengal | 9.13 | 7.5%
+5. Madhya Pradesh | 7.26 | 6.0%
+Least populous state | **Sikkim** (6.1 lakh); UT: **Lakshadweep** (64,000)
+Females in India (2011) | **48.5%**
+@end
+
+**UP + Maharashtra + Bihar** hold over a third of India's people. **Maharashtra** is **second in population and third in area** (after Rajasthan and MP). Chhattisgarh is larger in area than West Bengal, but West Bengal has far more people.
+
+@section 22.5 | Growth Across States
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P.P.C.S. (Mains) 2002, 2004
+In India the highest decadal growth rate of population during 1991-2001 was recorded in :
+(a) Bihar
+(b) Nagaland
+(c) Sikkim
+(d) Uttar Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+During the last two decades (1981-2001) of the twentieth century the highest population growth (% change) was recorded in :
+(a) Sikkim
+(b) Nagaland
+(c) Bihar
+(d) Haryana
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2000
+The highest decadal growth rate of population as per the 1991 Census goes to :
+(a) Arunachal Pradesh
+(b) Nagaland
+(c) Tripura
+(d) Uttar Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006, 2007
+During the inter Census period 1991-2001, which of the following States of India registered the lowest growth of population ?
+(a) Himachal Pradesh
+(b) Odisha
+(c) Andhra Pradesh
+(d) Kerala
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1999, 2008
+During the period 1991-2001, the decadal growth rate of population (in percentage terms) was lowest in the State of :
+(a) Andhra Pradesh
+(b) Tamil Nadu
+(c) Kerala
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+
+@one U.P. R.O./A.R.O. (Mains) 2013
+The State with the lowest percentage increase in total population during the period 2001-2011 is
+@ans Nagaland
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre.) 2017
+Which of the following States recorded a decline in its population in Census 2011?
+(a) Nagaland
+(b) Kerala
+(c) Sikkim
+(d) Manipur
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2017; U.P.P.C.S. (Mains) 2012
+Which one State recorded negative growth rate of population in 2001-2011?
+@ans Nagaland
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The decadal growth of population was the lowest in 2011 in the State of :
+(a) Andhra Pradesh
+(b) Bihar
+(c) Tamil Nadu
+(d) West Bengal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+The decadal growth rate of population during 20012011was maximum in the State of :
+(a) Madhya Pradesh
+(b) Rajasthan
+(c) Bihar
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The decadal growth rate during 2001-11 of the total population of Uttar Pradesh as per the provisional data of 2011 Census was :
+(a) 25.07%
+(b) 21.00%
+(c) 20.30 %
+(d) 20.09%
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Consider the following statements as Assertion (A) and
+Reason (R) :
+Assertion (A): Uttar Pradesh has the largest concentration of India’s population.
+Reason (R): It is also the most densely populated State of India.
+Select the correct answer using the codes given below:
+Codes:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2006
+The population of Uttar Pradesh has been rapidly growing during the last two decades because of :
+(a) increased literacy Rate
+(b) improvement in health and control of diseases
+(c) improved agriculture
+(d) rapid urbanization
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+In terms of population as per 2011 Census, the correct sequence of the following districts of U.P. in descending order is :
+(a) Moradabad, Allahabad, Ghaziabad, Lucknow
+(b) Lucknow, Allahabad, Ghaziabad, Moradabad
+(c) Allahabad, Moradabad, Ghaziabad, Lucknow
+(d) Ghaziabad, Lucknow, Moradabad, Allahabad
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which of the following statements are correct according to the provisional data of Census of India 2011? Use the code given below to select the correct answer:
+1. The lowest population is found in Lakshadweep.
+2. Chandigarh has the highest population density.
+3. Arunachal Pradesh has the lowest population density.
+4. Dadra and Nagar Haveli has the highest decadal growth of population.
+Codes :
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 2, 3 and 4
+(d) 1, 3 and 4
+@ans (d)
+@end
+
+
+@table
+Growth by state | Detail
+Highest growth 1981-91, 1991-2001 | **Nagaland** (64.5% in 1991-2001)
+**Only fall in 2001-11** | **Nagaland** (−0.58%)
+Highest growth 2001-11 (states) | **Meghalaya** (27.9%), **Arunachal**, **Bihar** (25.4%); UT: **Dadra and Nagar Haveli** (55.9%)
+Lowest growth 1991-2001 | **Kerala** (9.4%)
+Lowest growth 2001-11 (besides Nagaland) | **Kerala** (4.9%), Goa; among big states **Andhra Pradesh**
+UP growth 2001-11 | **20.2%** (provisional 20.09%)
+@end
+
+@up UP link: UP is India's **most populous state** (19.98 crore in 2011; about **23-24 crore** projected for 2026), larger than every country except China, India, the USA and Indonesia. **Allahabad (Prayagraj)** is its most populous district (59.5 lakh), followed by **Moradabad, Ghaziabad and Azamgarh**; **Mahoba** is the least populous. UP's growth is driven by **better health and disease control** with still-high fertility.
+
+@trap
+**Malthus: population geometric, food arithmetic.** **Optimum population: Cannan; DTT: Thompson; social maladjustment: Henry George.** **First census 1872 (Mayo); regular 1881 (Ripon).** **Census 2011 slogan: Our Census, Our Future.** **Census 2027 = 16th, digital, with caste.** **1921 = Great Divide (only fall).** **Highest decadal growth 1961-71; highest exponential 1971-81; lowest 2001-11 (17.7%).** **UP 16.5% of India.** **Maharashtra 2nd in population, 3rd in area.** **Nagaland: highest growth 1991-2001, only fall 2001-11.**
+@end
+
+@heatmap
+
+@pattern
+Census growth facts are among the most repeated questions in the whole paper (asked in 2005-2025). The **2023-2025** papers mixed theory (Malthus, theory-propounder matches) with census history and state growth orders.
+@end
+
+@next
+Likely next angles: **Census 2027** (16th, digital, caste, house-listing from April 2026), India as the **most populous country**, the UN **World Population Prospects**, **Malthus vs demographic transition**, and UP's projected population.
+@end
