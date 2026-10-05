@@ -450,9 +450,37 @@ def make_doc(path, book):
     def plain_page(c, d):
         draw_watermark(c)
 
+    def copyright_frame_page(c, d):
+        c.saveState()
+        c.setStrokeColor(GOLD)
+        c.setLineWidth(0.6)
+        c.line(CP_X, 71, PAGE_W - CP_X, 71)
+        c.setFillColor(CP_NAVY)
+        c.setFont("Cal-B", 7)
+        c.drawString(CP_X, 57, "© QUANTUM IAS & PCS", charSpace=1.1)
+        c.setFillColor(GOLD_DEEP)
+        c.setFont("Cal", 7)
+        right = f"TATTVA SERIES · {book['title'].upper()}"
+        c.drawRightString(PAGE_W - CP_X, 57, right, charSpace=1.1)
+        c.restoreState()
+
+    def contents_page(c, d):
+        draw_watermark(c)
+        c.saveState()
+        c.setFont("Cal", 7.5)
+        c.setFillColor(colors.HexColor("#666666"))
+        c.drawCentredString(PAGE_W / 2, 28, str(c.getPageNumber()))
+        c.restoreState()
+
     doc.addPageTemplates([
         PageTemplate("cover", [full], onPage=cover_page),
         PageTemplate("plain", [full], onPage=plain_page),
+        PageTemplate("copyright", [Frame(CP_X, 90, CP_W, PAGE_H - 90 - 58, id="C", leftPadding=0,
+                                         rightPadding=0, topPadding=0, bottomPadding=0)],
+                     onPage=copyright_frame_page),
+        PageTemplate("contents", [Frame(CT_X, MARGIN_BOTTOM, CT_W, PAGE_H - 52 - MARGIN_BOTTOM, id="T",
+                                        leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)],
+                     onPage=contents_page),
         PageTemplate("full", [full], onPage=content_page),
         PageTemplate("cols", [left, right], onPage=content_page),
     ])
@@ -502,82 +530,138 @@ def cover(book, chapters, tot_pyq, tot_one, y0, y1):
     return out
 
 
+class Tracked(Flowable):
+    """One line of letter-spaced text (Paragraph cannot track characters)."""
+
+    def __init__(self, text, font, size, color, space=0.0, after=0.0):
+        super().__init__()
+        self.text, self.font, self.size, self.color, self.space, self.after = text, font, size, color, space, after
+
+    def wrap(self, aw, ah):
+        return aw, self.size * 1.2 + self.after
+
+    def draw(self):
+        self.canv.setFillColor(self.color)
+        self.canv.setFont(self.font, self.size)
+        self.canv.drawString(0, self.after + self.size * 0.25, self.text, charSpace=self.space)
+
+
+class Rule(Flowable):
+    def __init__(self, width, thickness, color, before=0, after=0):
+        super().__init__()
+        self.w, self.t, self.color, self.before, self.after = width, thickness, color, before, after
+
+    def wrap(self, aw, ah):
+        return self.w, self.before + self.t + self.after
+
+    def draw(self):
+        self.canv.setStrokeColor(self.color)
+        self.canv.setLineWidth(self.t)
+        y = self.after + self.t / 2
+        self.canv.line(0, y, self.w, y)
+
+
+CP_X, CP_W = 51, PAGE_W - 102          # copyright page text block
+CT_X, CT_W = 45, PAGE_W - 90           # contents page text block
+CP_NAVY, CP_BLUE, CP_LINK = colors.HexColor("#1f2a3c"), colors.HexColor("#2f4f7f"), colors.HexColor("#1f4e8c")
+CP_GREY, CP_LABEL, CP_RED = colors.HexColor("#555555"), colors.HexColor("#6b85a8"), colors.HexColor("#8b1a1a")
+CP_PINK, CT_UNIT, CT_SEP = colors.HexColor("#fdecec"), colors.HexColor("#f6f0e2"), colors.HexColor("#e6dfcf")
+
+
 def copyright_page(book, y0, y1):
-    st = ParagraphStyle("cp", fontName="Cal", fontSize=8.6, leading=12, textColor=INK)
-    head = ParagraphStyle("cph", fontName="Cal-B", fontSize=9.5, leading=13, textColor=NAVY, spaceBefore=12)
-    out = [Paragraph("<b>TATTVA SERIES</b>", ParagraphStyle("t", parent=head, fontSize=12, spaceBefore=0)),
-           Paragraph("UPPSC PRELIMS | PYQ MASTERBOOK", st),
-           Paragraph("Previous Year Questions | Topic-wise Analysis | Conceptual Linkages | Exam-Oriented Revision", st),
-           Spacer(1, 24),
-           Paragraph("© 2026 Quantum IAS &amp; PCS. All Rights Reserved.", ParagraphStyle("b", parent=st, fontName="Cal-B")),
+    blue = ParagraphStyle("cpb", fontName="Cal", fontSize=8.6, leading=12.6, textColor=CP_BLUE)
+    grey = ParagraphStyle("cpg", fontName="Cal", fontSize=8.4, leading=12.2, textColor=CP_GREY, alignment=TA_JUSTIFY)
+    red = ParagraphStyle("cpr", fontName="Cal-B", fontSize=8.6, leading=12.4, textColor=CP_RED)
+    head = lambda t: Tracked(t, "Cal-B", 10.5, CP_NAVY, 1.3, after=6)
+    warn = Table([["", Paragraph("This material is intended solely for personal and educational use. Unauthorized "
+                                 "reproduction or redistribution, including uploading on other Telegram channels, "
+                                 "websites, social-media platforms, or paid groups, is strictly prohibited.", red)]],
+                 colWidths=[3, CP_W - 3])
+    warn.setStyle(TableStyle([("BACKGROUND", (0, 0), (0, 0), CP_RED), ("BACKGROUND", (1, 0), (1, 0), CP_PINK),
+                              ("LEFTPADDING", (0, 0), (0, 0), 0), ("RIGHTPADDING", (0, 0), (0, 0), 0),
+                              ("LEFTPADDING", (1, 0), (1, 0), 10), ("RIGHTPADDING", (1, 0), (1, 0), 10),
+                              ("TOPPADDING", (0, 0), (-1, -1), 10), ("BOTTOMPADDING", (0, 0), (-1, -1), 10)]))
+    out = [Tracked("TATTVA SERIES", "Cal-B", 17, CP_NAVY, 2.2, after=6),
+           Tracked("UPPSC PRELIMS | PYQ MASTERBOOK", "Cal-B", 8.5, GOLD_DEEP, 1.4, after=3),
+           Paragraph("<i>Previous Year Questions | Topic-wise Analysis | Conceptual Linkages | Exam-Oriented "
+                     "Revision</i>", ParagraphStyle("cpt", fontName="Cal-I", fontSize=9, leading=12,
+                                                    textColor=colors.HexColor("#444444"))),
+           Rule(CP_W, 2, colors.black, before=6, after=20),
+           Paragraph("© 2026 Quantum IAS &amp; PCS. All Rights Reserved.",
+                     ParagraphStyle("cpc", fontName="Cal-B", fontSize=9.5, leading=13, textColor=colors.black)),
            Spacer(1, 6),
            Paragraph("This publication is an original educational resource prepared by Quantum IAS &amp; PCS for the "
-                     "academic and examination-preparation purposes of aspirants.", st),
-           Spacer(1, 6),
+                     "academic and examination-preparation purposes of aspirants.", blue),
+           Spacer(1, 8),
            Paragraph("No part of this publication may be reproduced, copied, modified, distributed, uploaded, or "
                      "commercially exploited, in whole or in part, without prior written permission from "
-                     "Quantum IAS &amp; PCS.", st),
-           Spacer(1, 10),
-           boxed([Paragraph("This material is intended solely for personal and educational use. Unauthorized "
-                            "reproduction or redistribution, including uploading on other Telegram channels, "
-                            "websites, social-media platforms, or paid groups, is strictly prohibited.", st)],
-                 PYQ_BG, PYQ_BD, width=FULL_W),
-           Paragraph("DISCLAIMER", head),
+                     "Quantum IAS &amp; PCS.", blue),
+           Spacer(1, 22), warn, Spacer(1, 22),
+           head("DISCLAIMER"), Spacer(1, 6),
            Paragraph("Every effort has been made to ensure the accuracy and relevance of the information presented "
                      "in this book. However, factual information, government data, statistics, rankings, schemes, "
                      "and other dynamic information may change over time. Readers are advised to refer to official "
-                     "sources wherever necessary. Facts in this edition are updated to 30 September 2026.", st),
-           Spacer(1, 6),
+                     "sources wherever necessary. Facts in this edition are updated to 30 September 2026.", grey),
+           Spacer(1, 8),
            Paragraph(f"All questions in this book are original previous-year questions from UPPSC and other Uttar "
                      f"Pradesh state-level examinations held between {y0} and {y1}, cited with their paper and year. "
                      "Where an answer key is marked (*), is disputed, or has been overtaken by later changes in law "
                      "or fact, the original key is retained and a Note explains the position at the time of the "
-                     "examination and today.", st),
-           Spacer(1, 6),
+                     "examination and today.", grey),
+           Spacer(1, 8),
            Paragraph("This publication is not affiliated with, endorsed by, or sponsored by UPPSC, UPSC, or any "
-                     "government institution.", st),
-           Paragraph("FOR ACADEMIC USE", head),
-           Spacer(1, 4)]
+                     "government institution.", grey),
+           Spacer(1, 16), head("FOR ACADEMIC USE"), Spacer(1, 6)]
+    val = ParagraphStyle("cpv", fontName="Cal-B", fontSize=8.6, leading=11, textColor=CP_LINK)
     rows = [["PUBLISHED BY", "Quantum IAS & PCS"], ["SERIES", "Tattva Series"],
             ["TITLE", f"UPPSC Prelims PYQ Masterbook: {book['title']}"], ["EDITION", "1st Edition | 2026"],
-            ["YEAR OF PUBLICATION", "2026"]]
-    t = Table([[Paragraph(inline(a), S["tag"]), Paragraph(inline(b), st)] for a, b in rows],
-              colWidths=[150, FULL_W - 150])
-    t.setStyle(TableStyle([("LINEBELOW", (0, 0), (-1, -1), 0.4, HAIR), ("TOPPADDING", (0, 0), (-1, -1), 5)]))
+            ["YEAR OF PUBLICATION", "2026"], ["CONNECT", "YouTube @QuantumPCSAcademy"]]
+    t = Table([[Tracked(a, "Cal", 7.5, CP_LABEL, 0.96), Paragraph(inline(b), val)] for a, b in rows],
+              colWidths=[142, CP_W - 142], rowHeights=19.3)
+    t.setStyle(TableStyle([("LEFTPADDING", (0, 0), (-1, -1), 0), ("TOPPADDING", (0, 0), (-1, -1), 0),
+                           ("BOTTOMPADDING", (0, 0), (-1, -1), 0), ("VALIGN", (0, 0), (-1, -1), "MIDDLE")]))
     out.append(t)
     return out
 
 
 def contents(book, chapters, pages):
-    out = [Paragraph("TATTVA SERIES · UPPSC PRELIMS | PYQ MASTERBOOK", S["tag"]), Spacer(1, 6),
-           Paragraph("Contents", ParagraphStyle("ct", parent=S["chaptitle"], fontSize=22)), Spacer(1, 4)]
-    rows = [["NO.", "CHAPTER", "QUESTIONS", "PAGE"]]
-    unit_rows = []
-    total = 0
+    out = [Paragraph("TATTVA SERIES&nbsp;&nbsp;·&nbsp;&nbsp;UPPSC PRELIMS | PYQ MASTERBOOK",
+                     ParagraphStyle("ctt", fontName="Cal-B", fontSize=7.5, leading=10, textColor=GOLD_DEEP)),
+           Spacer(1, 4),
+           Paragraph("Contents", ParagraphStyle("ct", fontName="Cal-B", fontSize=22, leading=26, textColor=CP_NAVY)),
+           Spacer(1, 10)]
+    hdr = ParagraphStyle("cth", fontName="Helvetica", fontSize=6.5, leading=8, textColor=colors.HexColor("#666666"))
+    num = ParagraphStyle("ctn", fontName="Cal-B", fontSize=11, leading=13, textColor=GOLD_DEEP)
+    ttl = ParagraphStyle("ctx", fontName="Cal", fontSize=10, leading=12.5, textColor=INK)
+    qst = ParagraphStyle("ctq", fontName="Cal", fontSize=8, leading=10, textColor=colors.HexColor("#666666"),
+                         alignment=TA_RIGHT)
+    pge = ParagraphStyle("ctp", fontName="Cal-B", fontSize=10, leading=12.5, textColor=CP_NAVY, alignment=TA_RIGHT)
+    unit = ParagraphStyle("ctu", fontName="Helvetica-Bold", fontSize=7.2, leading=9, textColor=GOLD_DEEP)
+    data = [[Paragraph("NO.", hdr), Paragraph("CHAPTER", hdr), Paragraph("QUESTIONS", ParagraphStyle(
+        "cthr", parent=hdr, alignment=TA_RIGHT)), Paragraph("PAGE", ParagraphStyle("cthp", parent=hdr, alignment=TA_RIGHT))]]
+    unit_rows, total = [], 0
     for ch in chapters:
         if ch.unit:
-            unit_rows.append(len(rows))
-            rows.append(["", ch.unit, "", ""])
+            unit_rows.append(len(data))
+            data.append([Paragraph(inline(ch.unit).replace("·", "&nbsp;·&nbsp;"), unit), "", "", ""])
         p, o, _ = chapter_stats(ch)
         total += p + o
-        rows.append([f"{ch.no:02d}", ch.title, str(p + o), str(pages.get(f"ch{ch.no}", ""))])
-    rows.append(["", f"Appendix: PYQ Heat Map of the {book['title']} Book", "", str(pages.get("appendix", ""))])
-    data = []
-    for k, r in enumerate(rows):
-        if k == 0:
-            data.append([Paragraph(c, S["tag"]) for c in r])
-        elif k in unit_rows:
-            data.append(["", Paragraph(inline(r[1]), ParagraphStyle("u", parent=S["tag"], textColor=GOLD_DEEP)), "", ""])
-        else:
-            data.append([Paragraph(inline(c), S["cell"]) for c in r])
-    t = Table(data, colWidths=[50, FULL_W - 50 - 70 - 45, 70, 45])
-    cmds = [("LINEBELOW", (0, 0), (-1, 0), 0.8, GOLD_DEEP), ("TOPPADDING", (0, 0), (-1, -1), 4),
-            ("BOTTOMPADDING", (0, 0), (-1, -1), 4), ("ALIGN", (2, 0), (-1, -1), "RIGHT")]
+        data.append([Paragraph(f"{ch.no:02d}", num), Paragraph(inline(ch.title), ttl), Paragraph(str(p + o), qst),
+                     Paragraph(str(pages.get(f"ch{ch.no}", "")), pge)])
+    data.append(["", Paragraph(f"<i>Appendix: PYQ Heat Map of the {book['title']} Book</i>", ttl), "",
+                 Paragraph(str(pages.get("appendix", "")), pge)])
+    t = Table(data, colWidths=[46, CT_W - 46 - 70 - 50, 70, 50], repeatRows=1)
+    cmds = [("LINEBELOW", (0, 0), (-1, 0), 0.9, GOLD), ("LINEBELOW", (0, 1), (-1, -1), 0.5, CT_SEP),
+            ("VALIGN", (0, 0), (-1, -1), "MIDDLE"), ("LEFTPADDING", (0, 0), (-1, -1), 4),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 4), ("TOPPADDING", (0, 1), (-1, -1), 3.6),
+            ("BOTTOMPADDING", (0, 1), (-1, -1), 3.6), ("TOPPADDING", (0, 0), (-1, 0), 2),
+            ("BOTTOMPADDING", (0, 0), (-1, 0), 5)]
     for k in unit_rows:
-        cmds.append(("TOPPADDING", (0, k), (-1, k), 10))
+        cmds += [("SPAN", (0, k), (-1, k)), ("BACKGROUND", (0, k), (-1, k), CT_UNIT),
+                 ("TOPPADDING", (0, k), (-1, k), 6), ("BOTTOMPADDING", (0, k), (-1, k), 6),
+                 ("LINEBELOW", (0, k), (-1, k), 0, colors.white)]
     t.setStyle(TableStyle(cmds))
-    out += [t, Spacer(1, 8),
-            Paragraph(f"Questions = full PYQs plus one-liners in the chapter. Book total: {total}.", S["note"])]
+    out.append(t)
     return out
 
 
@@ -691,8 +775,8 @@ def build(folder, out_path):
     for _ in range(2):              # second pass fills the contents page numbers
         registry = {}
         story = [NextPageTemplate("cover")] + cover(book, chapters, tot_pyq, tot_one, y0, y1)
-        story += [NextPageTemplate("plain"), PageBreak()] + copyright_page(book, y0, y1)
-        story += [NextPageTemplate("full"), PageBreak()] + contents(book, chapters, pages)
+        story += [NextPageTemplate("copyright"), PageBreak()] + copyright_page(book, y0, y1)
+        story += [NextPageTemplate("contents"), PageBreak()] + contents(book, chapters, pages)
         for ch in chapters:
             story += chapter_flowables(ch, registry)
         story += appendix(book, chapters, registry)
