@@ -746,6 +746,8 @@ def block_flowable(ch, kind, data):
         body[0] = f"Exam Insight: {p + o} items ({p} PYQs + {o} one-liners). " + body[0].strip()
         return label_box("UPPSC PATTERN", body, PAT_BG, PAT_BD)
     if kind == "up":
+        if data.startswith("UP link:"):
+            data = data[8:].lstrip()
         return P("**UP link:** " + data)
     if kind == "heatmap":
         return heatmap_flowables(ch)

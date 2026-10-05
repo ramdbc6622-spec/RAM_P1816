@@ -1,0 +1,676 @@
+@chapter 16 | Organisations, Awards, Days and Miscellaneous
+
+@intro
+The closing chapter collects the "where is it" and "when is it" questions: **headquarters** of UN and other bodies (UNEP Nairobi, WMO Geneva, IMO London, Greenpeace Amsterdam), Indian **research institutes** (NEERI Nagpur, CAZRI and AFRI Jodhpur, WII Dehradun, IIFM Bhopal), **environment awards**, **important days**, and a miscellaneous set on Mission LiFE, World Heritage Sites, people's movements and land degradation neutrality. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 16.1 | Organisations and Institutions
+
+@pyq U.P.P.C.S. (Pre) 2012, 2014; U.P.P.C.S (Mains) 2005, 2011; U.P. Lower Sub. (Pre) 2004
+National Environmental Engineering Research Institute is situated at:
+(a) Bengaluru
+(b) Hyderabad
+(c) Nagpur
+(d) New Delhi
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2017
+When and where was the National Environment Engineering Research Institute (NEERI) established?
+@ans 1958, Nagpur
+@end
+
+**NEERI** is a **CSIR** laboratory. It began in 1958 as the Central Public Health Engineering Research Institute and took its present name in 1974. It works on water treatment, air quality and solid waste.
+
+@pyq U.P.P.C.S. (Mains) 2010
+The Headquarter of World Meteorological Organization is located at –
+(a) Geneva
+(b) Rome
+(c) Sidney
+(d) Tokyo
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P.P.S.C. (GIC) 2010
+The headquarter of U.N.E.P. is located at –
+(a) Geneva
+(b) Kathmandu
+(c) Nairobi
+(d) New Delhi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The headquarters of the Greenpeace International is located at –
+(a) Amsterdam
+(b) Canberra
+(c) Ottawa
+(d) Nagasaki
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+The headquarter of International Maritime Organization is located in :
+(a) London
+(b) Geneva
+(c) Paris
+(d) Rome
+@ans (a)
+@end
+
+@table
+Organisation | Headquarters | Note
+**UNEP** | **Nairobi** (Kenya) | Set up after the Stockholm Conference, 1972
+**WMO** | **Geneva** | UN agency for weather and climate; co-founded the IPCC (1988)
+**IPCC** | Geneva | Hosted by WMO
+**IMO** | **London** | Only UN agency headquartered in the UK; MARPOL convention
+**FAO** | Rome | Food and agriculture
+**IUCN** | Gland (Switzerland) | Red List
+**WWF** | Gland (Switzerland) | NGO, 1961
+**Greenpeace International** | **Amsterdam** | NGO, 1971
+**UNFCCC Secretariat** | Bonn | Climate COPs
+**International Solar Alliance** | Gurugram | First treaty body based in India
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Match List-I with List-II and select the correct answer from codes given below :
+@match
+List – I (Institute) | List – II (Place)
+A. National Institute of Nutrition | 1. Pune
+B. Wild Life Institute of India | 2. Jaipur
+C. National Institute of Ayurveda | 3. Dehradun
+D. National Institute of Naturopathy | 4. Hyderabad
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which one of the following is not correctly matched ?
+(a) Centre for Ecological Science (CES) - Bengaluru
+(b) Wildlife Institute of India - Dehradun
+(c) Indian Institute of Forest Management - Kolkata
+(d) G.B. Pant Institute of Himalayan Environment and Development - Almora
+@ans (c)
+@end
+
+The **Indian Institute of Forest Management** is in **Bhopal**. CES is part of the **Indian Institute of Science**, Bengaluru, and the G.B. Pant institute is at **Kosi-Katarmal, Almora**.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+How many of the following four pairs are correctly matched?
+@match
+List-I (Research Institute) | List-II (City)
+A. Arid Forest Research Institute | Jodhpur
+B. Himalayan Forest Research Institute | Dehradun
+C. Rain Forest Research Institute | Jorhat
+D. Tropical Forest Research Institute | Jabalpur
+@endmatch
+(a) 1
+(b) 4
+(c) 3
+(d) 2
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Mains) 2008; U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Central Arid Zone Research Institute (CAZRI) is situated at :
+(a) Ahmedabad
+(b) Bangalore
+(c) Hyderabad
+(d) Jodhpur
+@ans (d)
+@end
+
+@table
+ICFRE institute | City
+**Forest Research Institute** (headquarters of ICFRE) | **Dehradun**
+**Himalayan** Forest Research Institute | **Shimla** (not Dehradun)
+**Arid** Forest Research Institute | **Jodhpur**
+**Rain** Forest Research Institute | **Jorhat**
+**Tropical** Forest Research Institute | **Jabalpur**
+Institute of Wood Science and Technology | Bengaluru
+Institute of Forest Genetics and Tree Breeding | Coimbatore
+Institute of Forest Productivity | Ranchi
+Forest Research Centre for Eco-Rehabilitation | **Prayagraj** (UP)
+@end
+
+**CAZRI** (Jodhpur, 1959) is an **ICAR** institute that studies desert farming and sand-dune stabilisation; it is different from the ICFRE's AFRI in the same city.
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P.U.D.A./L.D.A. (Spl) (Mains) 2014
+The Indian Institute of Ecology and Environment is located at–
+(a) New Delhi
+(b) Mumbai
+(c) Kolkata
+(d) Thiruvananthapuram
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+In which of the following institutes, the Environmental Information System (ENVIS)'s 'Centre on Population and Environment' is located?
+(a) I.I.T. Kharagpur
+(b) I.I.T. New Delhi
+(c) I.I.P.S. Mumbai
+(d) N.I.R.S. Dehradun
+@ans (c)
+@end
+
+**ENVIS** (1982) is the Environment Ministry's information network, with topic-wise centres in institutes across India. The population-and-environment centre sits at the **International Institute for Population Sciences, Mumbai**. ENVIS has since been renamed the **Environmental Information, Awareness, Capacity Building and Livelihood Programme (EIACP)**.
+
+@pyq UPPCS (Pre) 2021
+Which among the following are India's permanent and operational research stations in Antarctica?
+(a) Bharati and Arya
+(b) Bharati and Dakshin Gangotri
+(c) Bharati and Maitri
+(d) Dakshin Gangotri and Maitri
+@ans (c)
+@end
+
+India's first Antarctic station, **Dakshin Gangotri** (1983), was buried under ice and decommissioned. The working stations are **Maitri** (1989, Schirmacher Oasis) and **Bharati** (2012, Larsemann Hills). A new **Maitri-II** is planned. **Himadri** (2008) is India's Arctic station at Ny-Ålesund, Svalbard. The programme is run by **NCPOR, Goa**.
+
+@pyq U.P. P.C.S. (Pre) 2018, 2023
+India's first National Centre for Marine Biodiversity (NCMB) is located in which city?
+(a) Bhavnagar
+(b) Jamnagar
+(c) Mumbai
+(d) Puducherry
+@ans (b)
+@end
+
+@section 16.2 | Awards
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The Indira Gandhi Paryavaran Puraskar is awarded every year for –
+(a) Significant contribution to the field of environment
+(b) Outstanding contribution in the field of afforestation
+(c) Outstanding contribution in the field of waste land development
+(d) Exemplary work in the field of wildlife conservation and research
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Rajiv Gandhi Environment Award is given for outstanding contribution to :
+(a) Afforestation and conservation of wastelands
+(b) Neat technology and development
+(c) Wildlife Conservation
+(d) Hindi books on environment
+@ans (b)
+@end
+
+@table
+Award | Field
+**Indira Gandhi Paryavaran Puraskar** (1987, MoEFCC) | Overall contribution to the environment
+**Rajiv Gandhi Environment Award** for **Clean Technology** | Cleaner industrial technology ("neat technology" in the question)
+**Indira Priyadarshini Vrikshamitra** | Afforestation and wasteland development
+**Amrita Devi Bishnoi** award | Wildlife protection
+**Medini Puraskar** | Original Hindi books on the environment
+**Global 500 Roll of Honour** (UNEP, 1987-2003) | Environmental achievement
+**Champions of the Earth** (UNEP, since 2005) | UN's highest environmental honour
+**Tyler Prize** | Environmental achievement, often called the "Nobel of the environment"
+**Goldman Environmental Prize** | Grassroots activists, one per inhabited continent region
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+In which of the scientific fields, Borlaug award is given:
+(a) Medicine
+(b) Space Research
+(c) Agriculture
+(d) Atomic Physics
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Norman Borlaug was given Nobel Prize in which field?
+(a) Agriculture
+(b) Economics
+(c) Medicine
+(d) Peace
+@ans (d)
+@end
+
+**Norman Borlaug**, the father of the Green Revolution, won the **Nobel Peace Prize in 1970**; there is no Nobel for agriculture. He also founded the **World Food Prize** (1986). **M.S. Swaminathan** received its first award in 1987.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2004
+Prestigious 'Tyler Prize' is given in the field of –
+(a) Drama
+(b) Women's Rights
+(c) Child Rights
+(d) Environmental Protection
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+When the World Biodiversity Day is observed?
+(a) March, 22
+(b) May, 22
+(c) June, 23
+(d) April, 16
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The 'Global-500' Award is given for rare achievement in which of the following fields?
+(a) Gene preservation
+(b) Environment conservation
+(c) Population control
+(d) Pollution control
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+United Nation's highest environmental honour 'Champion of the Earth' award 2018 was conferred on
+(a) Narendra Modi
+(b) Medha Patkar
+(c) Uma Bharti
+(d) Sonam Wangchuk
+@ans (a)
+@end
+
+In 2018 PM **Narendra Modi** and French President **Emmanuel Macron** shared the **Policy Leadership** category for the International Solar Alliance. **Cochin International Airport** won in the same year for being fully solar-powered. In 2023, **Madhav Gadgil** received the Lifetime Achievement award.
+
+@section 16.3 | Days and Dates
+
+@pyq U.P.P.C.S. (Pre) 2000
+The World Habitat Day is observed on:
+(a) March 21
+(b) March 23
+(c) June 5
+(d) October 5
+@ans (*)
+@note **World Habitat Day** (UN-Habitat) falls on the **first Monday of October**, so it has no fixed date. (d) is the only option in October, which is why it is usually given as the answer. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The World Anti-Tobacco Day is celebrated every year on–
+(a) 12th May
+(b) 13th May
+(c) 21st May
+(d) 31st May
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+19th November is observed as the
+(a) World Green Day
+(b) World Anti-Poverty Day
+(c) World Toilet Day
+(d) World Clean Water Day
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.P.C.S. (Mains) 2004, 2011, 2014
+The World Environment Day is celebrated on –
+(a) December 1
+(b) June 5
+(c) November 14
+(d) August 15
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+What is the theme for 'World Environment Day 2018'?
+(a) Connecting People to Nature
+(b) One World, Our Environment
+(c) Beat Plastic Pollution
+(d) Save Water for Future
+@ans (c)
+@end
+
+**World Environment Day** (5 June) marks the opening day of the **Stockholm Conference, 1972**. **India hosted it in 2018** ("Beat Plastic Pollution"). Saudi Arabia hosted it in 2024 (land restoration and drought), and the Republic of Korea hosted it in 2025, again on **plastic pollution**.
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following is known as "World Wetlands Day"?
+(a) 10 January
+(b) 1 February
+(c) 15 January
+(d) 2 February
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pairs is/are not correctly matched?
+@match
+(Day) | (Date)
+1. International Ozone Day | 16 September
+2. World Environment Day | 5 June
+3. World Wildlife Day | 22 March
+@endmatch
+Select the correct answer from the code given below:
+Code:
+(a) 1 and 3
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and choose the correct answer using the code given below
+@match
+List-I (Important Days) | List-II (Date)
+A. World Population Day | 1. March 03
+B. World Wildlife Day | 2. July 11
+C. World Ozone Day | 3. April 07
+D. World Health Day | 4. September 16
+@endmatch
+Code :
+(a) A-1, B-2, C-3, D-4
+(b) A-1, B-3, C-4, D-2
+(c) A-2, B-1, C-3, D-4
+(d) A-2, B-1, C-4, D-3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one fo the following is not correctly matched?
+(a) World Environment day 5th June
+(b) Earth day 22nd April
+(c) Anti-tobacco day 5th May
+(d) Ozone day 16th September
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I (Day) | List-II (Event)
+A. April 18 | 1. International Tiger Day
+B. May 22 | 2. World Heritage Day
+C. July 29 | 3. World Soil Day
+D. December 5 | 4. International Day of Biodiversity
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 3 2 1 4
+(c) 4 3 2 1
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+The Union Ministry of Envrionment, Forests and Climate change, Government of India has announced 'Dolphin Day' which will be celebrated on
+(a) October 5
+(b) October 25
+(c) April 15
+(d) July 15
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003
+Which one of the following countries celebrate the National Cleanliness Day on last Saturday of every month:
+(a) France
+(b) Italy
+(c) Sierra Leone
+(d) Singapore
+@ans (c)
+@end
+
+@table
+Date | Day
+**2 February** | World **Wetlands** Day (Ramsar, 1971)
+**3 March** | World **Wildlife** Day (CITES signed 1973)
+21 March | International Day of **Forests**
+**22 March** | World **Water** Day
+23 March | World **Meteorological** Day
+7 April | World **Health** Day
+**18 April** | World **Heritage** Day
+**22 April** | **Earth** Day
+**22 May** | International Day for **Biological Diversity**
+**31 May** | World **No Tobacco** Day
+**5 June** | World **Environment** Day
+8 June | World **Oceans** Day
+17 June | Desertification and Drought Day
+**11 July** | World **Population** Day
+**29 July** | International **Tiger** Day
+**16 September** | World **Ozone** Day (Montreal Protocol, 1987)
+**5 October** | National **Dolphin** Day (India, from 2022)
+First Monday of October | World **Habitat** Day
+**19 November** | World **Toilet** Day
+2 December | National **Pollution Control** Day (Bhopal gas tragedy)
+**5 December** | World **Soil** Day
+@end
+
+@section 16.4 | Miscellaneous
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to Lifestyle for the Environment (LiFE), which of the following statements is/are correct?
+1. It was launched in June 2022.
+2. Its idea was proposed at COP 25 in Madrid, Spain.
+Select the correct answer using the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which initiative has been launched by the Government of India to encourage citizens to adopt an environmentfriendly lifestyle?
+(a) Green India Mission
+(b) Mission LiFE
+(c) Swachh Bharat Abhiyan
+(d) National Mission for Clean Ganga
+@ans (b)
+@end
+
+PM Modi proposed the **LiFE** idea at **COP26, Glasgow (2021)**, not COP25 in Madrid. The global movement was launched on **5 June 2022**, World Environment Day, and **Mission LiFE** itself was launched at **Kevadia (Ekta Nagar)** in October 2022 with the UN Secretary-General. The **Green Credit Programme** (2023) is linked to it.
+
+@pyq U.P. Lower Sub. (Pre) 2009
+With Jaipur's 'Jantar Mantar' being granted World Heritage site status by UNESCO, how many sites in India till August 2010 have been granted this status?
+(a) 29
+(b) 28
+(c) 27
+(d) 26
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+The recently included building in the list of the world heritage site list of UNESCO is –
+(a) Buland Darwaza
+(b) Char Minar
+(c) Mahabodhi Temple
+(d) Sun Temple of Konark
+@ans (c)
+@end
+
+The **Mahabodhi Temple**, Bodh Gaya, was listed in **2002**; Konark was listed in 1984. India now has **44** World Heritage Sites. The most recent are the **Moidams** of Assam (2024) and the **Maratha Military Landscapes** (2025).
+
+@up UP link: UP's World Heritage Sites are the **Taj Mahal** and **Agra Fort** (1983) and **Fatehpur Sikri** (1986), which includes the **Buland Darwaza**. Buland Darwaza is not listed separately.
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which one of the following pairs is not matched correctly?
+(a) Appico Movement - P. Hegde
+(b) Chipko Movement - S.L. Bahuguna
+(c) Save Narmada Movement - Medha Patkar
+(d) Silent Valley Movement - Baba Amte
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+The Appiko Movement is related to which of the following Indian states?
+1. Uttarakhand
+2. Uttar Pradesh
+3. Kerala
+4. Karnataka
+Select the correct answer using the code given below:
+Code:
+(a) 1 and 2
+(b) Only 4
+(c) 3 and 4
+(d) Only 1
+@ans (c)
+@note The source prints the third item as "2. Kerala", a numbering misprint. Appiko began in **1983** at **Salkani, Sirsi (Uttara Kannada), Karnataka**, under **Panduranga Hegde**, so on a strict reading **(b) Only 4** fits better. The key (c) is kept as printed; it treats the campaign as having spread along the Western Ghats.
+@end
+
+@table
+Movement | Leader / place
+**Chipko** (1973) | Chandi Prasad Bhatt, **Sunderlal Bahuguna**, Gaura Devi; **Mandal and Reni** villages, Chamoli (then UP, now Uttarakhand)
+**Appiko** (1983) | **Panduranga Hegde**; Sirsi, Karnataka
+**Silent Valley** (1970s) | **Kerala Sastra Sahitya Parishad**, poet **Sugathakumari**; led to Silent Valley NP (1984)
+**Narmada Bachao Andolan** (1985) | **Medha Patkar**, **Baba Amte**
+**Bishnoi** sacrifice (1730) | **Amrita Devi**, Khejarli (Jodhpur)
+**Mitti Bachao** (1977) | Hoshangabad (now Narmadapuram), MP
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+"Rally for Valley" programme in India was organized to highlight the problems of :
+(a) Environment Degradation
+(b) Biodiversity
+(c) Resettlement
+(d) Harm to agricultural land
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Where was the Mitti Bachao (Save the Soil) Movement started in India?
+(a) Thane, Maharashtra
+(b) Mysore, Karnataka
+(c) Darbhanga, Bihar
+(d) Hoshangabad, Madhya Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+India aims to achieve land degradation neutrality by the year:
+(a) 2025
+(b) 2030
+(c) 2035
+(d) 2040
+@ans (b)
+@end
+
+India hosted **UNCCD COP14** at **Greater Noida** (UP) in September **2019**. There it raised its target for restoring degraded land to **26 million hectares by 2030**, in line with the **land degradation neutrality** goal (SDG 15.3).
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following is an example of anthropogenic biome?
+(a) Fresh water
+(b) Grassland
+(c) Rain forest
+(d) Cropland
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+A geographical unit that collects, stores and release water is called
+(a) Wetland
+(b) Waste land
+(c) Water reserve
+(d) Watershed
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which one of the following trees is not eco-friendly?
+(a) Eucalyptus
+(b) Banana
+(c) Neem
+(d) Babul
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Tree useful for prevention of dust pollution –
+(a) Sita Ashok
+(b) Mahua
+(c) Poplar
+(d) Neem
+@ans (a)
+@end
+
+**Eucalyptus** grows fast but uses a lot of water, lowers the water table and gives poor leaf litter, so it is called "ecologically unfriendly". The dense, tall, evergreen **Ashok** is planted along roads as a **dust and noise barrier**.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following is the evergreen fruit plant?
+(a) Apple
+(b) Almond
+(c) Peach
+(d) Loquat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re Exam.) 2015
+Which one of the following has been recognized as a Mega diverse country?
+(a) New Zealand
+(b) Australia
+(c) Nepal
+(d) Austria
+@ans (b)
+@end
+
+The **17 megadiverse countries** (Conservation International) include **India**, Australia, Brazil, China, Colombia, Ecuador, Indonesia, Madagascar, Mexico, Peru, the Philippines, the USA and others. Together they hold about **70%** of the world's species.
+
+@pyq U.P.P.C.S. (Mains) 2004
+Weather monitoring device SODAR is established at –
+(a) Jaipur
+(b) Cuttack
+(c) Chandigarh
+(d) Kaiga and Kalpakkam
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Match List-I with List-II and select the correct answer from codes given below :
+@match
+List – I | List – II
+A. Skin Cancer | 1. Chlorofluorocarbon
+B. Noise Pollution | 2. Ultraviolet Light
+C. Global Warming | 3. Decibel
+D. Ozone Hole | 4. Carbon dioxide
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 2 3 1 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which Indian scientist is recognised by 'UNEP' as Father of Economic Ecology ?
+(a) B.P. Pal
+(b) Yash Pal
+(c) M.S. Swaminathan
+(d) R. Mishra
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Glaciation of peninsular India occurred during which of the following ice-age?
+(a) Huronian ice age
+(b) Carboniferous ice age
+(c) Pleistocene Ice age
+(d) Little Ice age
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following statements about India's largest Charkha is/are true?
+1. It was inaugurated in Noida.
+2. It is made of used plastic waste.
+Select the correct answer from codes given below :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@up UP link: **Noida** has two recent environment events: India's largest **charkha** made from about 1,650 kg of plastic waste (October 2019), and the **UNCCD COP14** at India Expo Mart, **Greater Noida** (2019).
+
+@trap
+**UNEP = Nairobi**, not Geneva; **WMO = Geneva**; **IMO = London**. **IIFM = Bhopal**, not Kolkata; **Himalayan FRI = Shimla**, not Dehradun. **Borlaug won the Nobel Peace Prize.** **World Wildlife Day = 3 March**, and 22 March is Water Day. **Tobacco = 31 May**. **LiFE was proposed at COP26 Glasgow**, not COP25. **Silent Valley** is not linked to Baba Amte.
+@end
+
+@heatmap
+
+@pattern
+This chapter is pure **recall**: a headquarters, a city, a date, a theme or a person. Days questions now come as **multi-pair match questions** (2022, 2023, 2025), so learn the whole calendar rather than single dates. The 2025 paper added **LiFE** and **Appiko**, so current schemes and people's movements are a rising area.
+@end
+
+@next
+Likely next angles: **World Environment Day** hosts and themes (2025 Korea, plastics), **Champions of the Earth** recent winners, **Mission LiFE** and the **Green Credit Programme**, India's **44th** World Heritage Site (Maratha Military Landscapes, 2025), **Maitri-II**, the **National Dolphin Day** (5 October) and the Gangetic dolphin census, and new **Ramsar** days and themes.
+@end
