@@ -1,0 +1,607 @@
+@chapter 3 | Agriculture I: Structure, Land Reforms and Production
+
+@intro
+Agriculture is the most-asked part of the economy section. This first agriculture chapter covers the **structure of Indian farming** (land reforms, tenancy, farm size classes), agriculture's **share in GDP and jobs**, **crops and leading states**, **foodgrain self-sufficiency and food security**, agricultural **trade**, and the early **schemes** (RKVY, horticulture mission, small-farmer programmes). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 3.1 | Basic Ideas
+
+@pyq U.P. P.C.S. (Pre) 2017
+‘Kisan Divas’ is celebrated on :
+(a) October 23
+(b) November 23
+(c) December 23
+(d) September 23
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+Genetic industry includes :
+(a) Agriculture
+(b) Fishing
+(c) Hunting
+(d) Mining
+@ans (a)
+@end
+
+
+**Kisan Diwas** (National Farmers' Day) is **23 December**, the birth anniversary of **Chaudhary Charan Singh**, the farmer-leader Prime Minister from UP (Bharat Ratna 2024). He opposed Nehru's **co-operative (collective) farming** plan. *Genetic industries* breed plants and animals (farming, animal husbandry, nurseries).
+
+@pyq U.P. P.C.S. (Pre) 2024
+What is meant by the term 'cereal yield'?
+1. The quantity of cereal crops produced per unit area of harvested land
+2. The total production of cereal crops in a given country
+Select the correct answer from the code given below—
+(a) Both 1 and 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Only 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+What is meant by a Bullock Capitalist?
+(a) Farmers who are poor
+(b) Farmers who are rich
+(c) Farmers who have some resources but are not rich
+(d) Farmers who are big Zamindars
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Who among the following did not approve the idea of co-operative farming in India?
+(a) Jawahar Lal Nehru
+(b) Lal Bahadur Shastri
+(c) Charan Singh
+(d) Abul Kalam Azad
+@ans (c)
+@end
+
+
+**"Bullock capitalists"** (Lloyd and Susanne Rudolph) are **middle peasants** who own some land and bullocks but are not rich; they became a strong political force in North India.
+
+@section 3.2 | Land Reforms and Holdings
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which one of the followings is not a part of land reforms in India?
+(a) Abolition of Zamindari system
+(b) Ceiling on land holdings
+(c) Tenancy reforms
+(d) Multiple-cropping scheme
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+With reference to the measures of tenancy reforms in India, which of the statements is/are correct?
+1. Regulation of rent
+2. Security of tenure
+3. Conferment of ownership on tenants
+Select the correct answer using codes given below :
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+A farmer, which has land holding between 1 to 2 hectare is known as :
+(a) Marginal Farmer
+(b) Big Farmer
+(c) Medium Farmer
+(d) Small Farmer
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2017
+Which measures have been taken to make the agrarian structure conducive to agricultural growth?
+@ans Abolition of Intermediaries, tenancy reforms and ceiling on land holdings
+@end
+
+@table
+Land reform measure | Purpose
+**Abolition of zamindari** (intermediaries) | First and most successful step (UP Zamindari Abolition Act, 1950)
+**Tenancy reforms** | **Regulation of rent, security of tenure, ownership for tenants**
+**Ceiling on landholdings** | Redistribute surplus land to the landless
+**Consolidation of holdings** (chakbandi) | Join scattered plots; UP and Punjab led
+Bhoodan (Vinoba Bhave, 1951) | Voluntary land gifts
+@end
+
+@table
+Farm size class (Agriculture Census) | Area | Share of holdings (2015-16)
+**Marginal** | Below 1 hectare | About **68%**
+**Small** | **1-2 hectares** | About 18%
+Semi-medium | 2-4 ha | About 9.5%
+Medium | 4-10 ha | About 4%
+Large | Above 10 ha | About 0.6%
+Average holding | **1.08 ha** (falling every census) | -
+@end
+
+@section 3.3 | Agriculture in the Economy
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the followings is the effective reason of slow agricultural development in India?
+(a) Rural Poverty
+(b) Urban Poverty
+(c) Skilled Labour
+(d) Migration from cities to villages
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2012; U.P.R.O./A.R.O. (Mains) 2013; U.P.P.C.S. (Pre) 1996, 1998; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Share of agriculture in National income of India is around
+(a) 20 %
+(b) 25 %
+(c) 30 %
+(d) 35 %
+@ans (*)
+@note The share depends on the year: about **30%** in the late 1990s, about 20% around 2010, and about **18%** of GVA today (agriculture and allied, 2023-24). With no year given, the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017; U.P.P.C.S. (Pre) 1999; U.P. Lower Sub. (Pre) 2004
+The contribution of agriculture in Indian Economy is:
+(a) increasing
+(b) decreasing
+(c) constant
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+In which of the following years, growth rate in agriculture and allied sector was negative?
+(a) 2012-13
+(b) 2013-14
+(c) 2014-15
+(d) 2015-16
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Under which Five Year Plan, did agriculture register a negative growth ?
+(a) Third
+(b) Fifth
+(c) Seventh
+(d) Ninth
+@ans (a)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+What is the percentage of rural households which is engaged in agriculture, as estimated by National Sample Survey Office in 2014?
+(a) 52.5%
+(b) 55.6%
+(c) 57.8%
+(d) 59.2%
+@ans (c)
+@end
+
+
+@table
+Agriculture fact (latest) | Figure
+Share in GVA | About **18%** (was over 50% in 1950-51), so its **share is decreasing**
+Share of workforce | About **46%** (PLFS 2023-24)
+Rural households in agriculture | **57.8%** (NSSO Situation Assessment Survey, 2013)
+Negative farm growth years | Third Plan (1961-66, droughts of 1965-66); **2014-15** (-0.2%); 2002-03, 2009-10 (droughts)
+Foodgrain production | Record of about **357 million tonnes** (2024-25)
+Net sown area | About **14 crore hectares** (140 million ha); gross cropped area about 21 crore ha
+Cropping intensity | About **155%** (2022-23)
+@end
+
+@one U.P.P.C.S. (Mains) 2012
+The average cropping intensity of India is about (2022-23)
+@ans 155.85 percent
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2007
+Which of the following is not the reason for low productivity in Indian agriculture?
+(a) Pressure of the population on the land
+(b) Disguised unemployment
+(c) Co-operative farming
+(d) Small land holdings
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+The importance of agriculture in Indian economy is indicated by its contribution to which of the following?
+(a) National Income and Employment
+(b) Industrial Development and International Trade
+(c) Supply of Foodgrains
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Agriculture income tax in India can be levied by :
+(a) State Governments
+(b) Central Government
+(c) Local Governments
+(d) Central and State Government
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+In Uttar Pradesh maximum percentage of workers are engaged in :
+(a) Agriculture sector
+(b) Industry sector
+(c) Service sector
+(d) Industry and Service sector
+@ans (a)
+@end
+
+
+Low farm productivity comes from **population pressure on land, small and fragmented holdings, disguised unemployment** and rain dependence; co-operative farming is a proposed remedy, not a cause. Only **State governments** can tax **agricultural income** (State List). In UP the largest share of workers is in **agriculture**.
+
+@section 3.4 | Crops and Leading States
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following States has largest area under Soyabean cultivation ?
+(a) Uttar Pradesh
+(b) Bihar
+(c) Madhya Pradesh
+(d) Maharashtra
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following countries has the highest per hectare production (2014) of cotton in the world?
+(a) Israel
+(b) Mexico
+(c) Pakistan
+(d) Australia
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Black soil of India is highly suited for the production of
+(a) Cotton crop
+(b) Paddy crop
+(c) Sugarcane crop
+(d) Wheat crop
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The most critical stage for irrigation in wheat is :
+(a) C.R.I. stage
+(b) Tillering stage
+(c) Booting stage
+(d) Jointing stage
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2012
+The descending order of the following States from the point of view of wheat production in the country is :
+(a) Haryana, Madhya Pradesh, Rajasthan, Bihar
+(b) Haryana, Rajasthan, Madhya Pradesh, Bihar
+(c) Madhya Pradesh, Bihar, Rajasthan, Haryana
+(d) Haryana, Rajasthan, Bihar, Madhya Pradesh
+@ans (*)
+@note When asked, (a) was correct. Since then **Madhya Pradesh** has overtaken Haryana; the current order of these four is **Madhya Pradesh, Haryana, Rajasthan, Bihar**, which matches none of the options, so the source marks it (*). **UP** is India's largest wheat producer overall.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The net crop sown area in India is about :
+(a) 12 crore hectares
+(b) 16 crore hectares
+(c) 14 crore hectares
+(d) 17 crore hectares
+@ans (c)
+@end
+
+
+@table
+Crop | Leading state(s) | World leader
+**Wheat** | **Uttar Pradesh**, Madhya Pradesh, Punjab | China
+**Rice** | West Bengal, **Uttar Pradesh**, Punjab | China (India 2nd, largest exporter)
+**Sugarcane** | **Uttar Pradesh** | Brazil
+**Soybean** | **Madhya Pradesh** ("Soya State"), Maharashtra | Brazil
+**Cotton** | Gujarat, Maharashtra | China and India; highest yield in **Australia**
+Mango | **Uttar Pradesh** | India
+Litchi | **Bihar** (Muzaffarpur, GI tag) | China
+Coconut | Kerala, Karnataka, Tamil Nadu | Indonesia
+Apple | **Jammu and Kashmir** | China
+Mulberry silk | **Karnataka** | China
+Vegetables overall | West Bengal, UP | **China** (India 2nd)
+@end
+
+**Black (regur) soil** holds moisture and suits **cotton**. For wheat the most critical irrigation is at **crown root initiation (CRI)**, about 21 days after sowing. **Niger** seed holds about **37-47% oil**.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the followings is the largest vegetable producing country in the world?
+(a) China
+(b) U.S.A.
+(c) India
+(d) Brazil
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+The amount of onion exported from India in 2015-16 was about :
+(a) 7 lakh tonnes
+(b) 9 lakh tonnes
+(c) 10 lakh tonnes
+(d) 12 lakh tonnes
+@ans (d)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Match List-I with List-II and select the correct answer using the code given below :
+@match
+List - I (Fruit) | List - II (Largest Producer)
+A. Mango | 1. Jammu & Kashmir
+B. Litchi | 2. Kerala
+C. Coconut | 3. Bihar
+D. Apple | 4. Uttar Pradesh
+@endmatch
+Code : A B C D
+(a) 4 3 1 2
+(b) 1 2 3 4
+(c) 4 3 2 1
+(d) 1 2 4 3
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following pairs is not correctly matched?
+(Crop) – (Country)
+(a) Rubber : Thailand
+(b) Coffee : Mongolia
+(c) Olive : Spain
+(d) Sugarcane : Brazil
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below :
+A. Colombia
+B. Vietnam
+C. Brazil
+D. Indonesia
+Codes :
+(a) D, C, B, A
+(b) C, B, A, D
+(c) B, D, C, A
+(d) C, A, B, D
+@ans (b)
+@end
+
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following belongs to cash crops ? I. Potato II. Rice III. Sugarcane IV. Cotton V. Rapeseed
+Select the correct answer from the codes given below:
+(a) III, IV and V
+(b) I, II and III
+(c) I, III and IV
+(d) I, II and IV
+@ans (a&c)
+@note The source gives **(a) & (c)**: **sugarcane, cotton and rapeseed** are classic cash crops, and **potato** is often treated as a commercial crop too, so both codes can be defended; rice is a food crop.
+@end
+
+
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Niger crops is a oil seed crop. What is the content of oil in its seeds?
+(a) 7 – 16%
+(b) 17 – 26%
+(c) 27 – 36%
+(d) 37 – 47%
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+The leading mulberry silk producing Indian State is :
+(a) Andhra Pradesh
+(b) Tamil Nadu
+(c) Karnataka
+(d) West Bengal
+@ans (c)
+@end
+
+
+@section 3.5 | Food Self-Sufficiency and Trade
+
+@pyq U.P.P.C.S. (Pre) 2008
+In which of the following years, foodgrain production had a negative growth rate?
+(a) 2001-02
+(b) 2003-04
+(c) 2004-05
+(d) 2005-06
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+Statement (A): In India, economic development has remained almost stagnant during the last 10 years.
+Reason (R): Foodgrain production has also not increased for many years.
+Select the correct answer with the help of the code given below—
+(a) Both (A) and (R) are correct and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+(c) (A) is correct, but (R) is incorrect.
+(d) (A) is incorrect, but (R) is correct.
+@ans (*)
+@note The statement is from 2001, when growth and foodgrain output were both debated; with no clear true/false reading, the source marks it (*). The Indian economy in fact grew about 5.5-6% a year in the 1990s.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002*
+Assertion (A) : Near self -sufficiency has been achieved in India in the production of foodgrains.
+Reason (R) : India no longer imports foodgrains in bulk quantity. In the context of above statements, which of the following is correct :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (a)
+@end
+
+
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+What do we mean by the statement "India has achieved national food security but has not secured household security"?
+(a) Each household does not have a buffer stock
+(b) Food production has shown increase but per-capita availability has decreased
+(c) The number of people below poverty line has increased
+(d) There is sufficient food stock but all households do not have access to it
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A) : Significant technical and institutional reforms in Indian agriculture are required to feed the growing population.
+Reason (R) : A significant number of farmers in many parts in India still rely on monsoon rains and natural soil fertility for agriculture.
+Select the correct answer using the code given below :
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is true but (R) is false.
+(c) (A) is false but (R) is true.
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following pulses was imported in the largest quantity in 2015-16?
+(a) Moong
+(b) Lentil
+(c) Urad
+(d) Pigeon Pea (Tur/Arhar)
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following agricultural products fetches the largest foreign exchange for the country from its export?
+(a) Coffee
+(b) Basmati Rice
+(c) Raw cotton
+(d) Tea
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is the most valuable item in the agricultural export of India ?
+(a) Oil cakes
+(b) Raw cotton
+(c) Rice
+(d) Spices
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Preferred variety of Mango for export is :
+(a) Dashahri
+(b) Langra
+(c) Alphonso
+(d) Amrapali
+@ans (c)
+@end
+
+
+India is **self-sufficient in cereals** and the **world's largest rice exporter** (about 40% of world rice trade), but imports large amounts of **edible oil** and **pulses** (lentil, tur, yellow peas). **Basmati rice** is the top agricultural export by value among the options; marine products, spices and sugar are also big. **Alphonso** (Ratnagiri, Maharashtra) is the main export mango.
+
+@section 3.6 | Early Schemes
+
+@pyq U.P.P.C.S. (Pre) 2010
+Kisan Bahi Yojana was started in Uttar Pradesh in :
+(a) 1970
+(b) 1975
+(c) 1990
+(d) 1992
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Consider following statements about Rashtriya Krishi Vikas Yojana and state which one of them is incorrect?
+(a) It was launched during 2007-2008
+(b) It envisages an outlay of Rs. 25000 crore for the Eleventh Five Year Plan
+(c) Additional Central Assistance under the scheme would be available as 80% grant to the States
+(d) Activities under the yojana include integrated development of food crops, agriculture mechanisation, development of rainfed farming etc.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+P. Sengupta and G. Sdasyuk (1968) had divided India into how many micro agricultural regions?
+(a) 58
+(b) 63
+(c) 60
+(d) 65
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2009
+National Horticulture Mission was launched in which of the following Five Year Plans?
+(a) Eleventh Five Year Plan
+(b) Tenth Five Year Plan
+(c) Ninth Five Year Plan
+(d) None of the above
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Mains) 2016
+When was the National Horticulture Mission started?
+@ans May, 2005
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which of the following States is covered under the National Horticulture Mission (NHM) ?
+(a) Jammu and Kashmir
+(b) Arunachal Pradesh
+(c) Uttar Pradesh
+(d) Himachal Pradesh
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which one of the followings is not the objectives of 'National Horticulture Mission'?
+(a) Providing financial assistance
+(b) Achieving higher growth in horticulture
+(c) Post-harvest management
+(d) Human Resource Development
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Krishi Shramik Samajik Suraksha Yojna provides –
+(a) More quality life on village level
+(b) Additional labour employment
+(c) Benefits of pension and insurance
+(d) Aided housing facilities
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+'Small Farmers Development Programme' was started in the year :
+(a) 1947
+(b) 1967
+(c) 1980
+(d) 1961
+@ans (*)
+@note The **Small Farmers Development Agency (SFDA)** began in **1971** (Fourth Plan), which is not among the options; hence the source marks the question (*).
+@end
+
+
+
+@table
+Scheme | Year | Purpose
+**Kisan Bahi** (UP) | **1992** | Passbook of land records for each farmer
+**Rashtriya Krishi Vikas Yojana** (RKVY) | **2007-08** | 100% central grant to states for farm plans (the "80% grant" statement is wrong)
+**National Horticulture Mission** | **May 2005** (10th Plan) | Horticulture growth, post-harvest management (now under MIDH); originally excluded the north-east and Himalayan states, which had a separate mission
+Krishi Shramik Samajik Suraksha Yojana | 2001 | **Pension and insurance** for farm labour
+SFDA | 1971 | Help to small and marginal farmers
+Agricultural regions | 1968 | P. Sengupta and Galina Sdasyuk: 4 macro and **60 micro** regions
+@end
+
+@up UP link: UP leads India in **wheat, sugarcane, potato, mango, milk and total foodgrains**, with about 20% of the country's foodgrains from 7% of its geographical area. Western UP was a core **Green Revolution** region along with Punjab and Haryana. The state has **9 agro-climatic zones**.
+
+@trap
+**Kisan Diwas = 23 December** (Charan Singh). **Small farmer = 1-2 ha**, marginal = below 1 ha. Tenancy reform = **rent, tenure, ownership**. Agriculture's share is **decreasing** (about 18% of GVA). **2014-15** and the **Third Plan** saw negative farm growth. **MP** leads in soybean; **Australia** has the highest cotton yield; **China** produces the most vegetables. **States** tax agricultural income. **RKVY = 2007-08**, NHM = 2005.
+@end
+
+@heatmap
+
+@pattern
+Agriculture is the single biggest economy topic. Older papers (1995-2017) asked figures and states; the **2019-2025** papers moved to concepts (tenancy reform, cereal yield, food security dimensions, cash crops) in statement form. Production data change every year, so learn the leading states.
+@end
+
+@next
+Likely next angles: **record foodgrain output**, the **Agriculture Census 2021-22** results, **PM-Dhan Dhaanya Krishi Yojana** (100 low-productivity districts, 2025), the **Mission for Aatmanirbharta in Pulses** and the **National Mission on Edible Oils**, **digital crop survey** and Agristack, rice export curbs and their removal, and **natural farming**.
+@end

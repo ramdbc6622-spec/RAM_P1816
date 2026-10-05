@@ -1,0 +1,535 @@
+@chapter 1 | Nature of the Economy and National Income
+@unit UNIT I · ECONOMIC DEVELOPMENT
+
+@intro
+This chapter opens the economy section with the **character of the Indian economy** (mixed, developing, the 1991 reforms) and then covers **national income**: who measures it (Dadabhai Naoroji, the Mahalanobis committee, the CSO and now the **NSO**), base years, real vs money income, per capita income as the measure of growth, state-wise income and **savings and capital formation**. Many old questions ask for "current" figures; the explanations give the latest data. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 1.1 | Nature of the Indian Economy
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 1999, 2006; U.P.P.C.S. (Mains) 2013; U.P.P.C.S. (Pre) 1990
+Mixed economy means :
+(a) Where agriculture and industry are given equal importance
+(b) Where public sector and private sector co-exist in the national economy
+(c) Where process of globalization is affected by heavy dose of swadeshi in national economy
+(d) Where the Centre and States are equal partners in economic planning and development
+@ans (b)
+@end
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016; U.P.P.C.S. (Mains) 2013; U.P.P.C.S. (Pre) 1990; U.P.U.D.A./L.D.A. (Pre) 2006
+Indian Economy is :
+(a) Mixed economy
+(b) Socialist economy
+(c) Capitalist economy
+(d) Gandhian socialist economy
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to Economic Growth, which of the following statements is/are correct?
+1. Indian Economy is an Underdeveloped Economy.
+2. Indian Economy is a Mixed Economy.
+3. J.M. Keynes is the Father of Economics.
+Select the correct answer from the codes given below:
+(a) Only 1 and 2 are correct.
+(b) Only 3 is correct.
+(c) Only 1 is correct.
+(d) Only 2 and 3 are correct.
+@ans (a)
+@end
+
+
+A **mixed economy** has a **public sector and a private sector** working side by side, with the state guiding the market; India chose it in the 1950s (Industrial Policy 1948 and 1956). India is a **developing**, lower-middle-income economy. **Adam Smith** (*The Wealth of Nations*, 1776) is the father of economics; **J.M. Keynes** is the father of macroeconomics.
+
+@pyq U.P.P.C.S. (Mains) 2017
+An underdeveloped economy is generally characterized by : I. Low per capita income II. Low rate of capital formation III. Low dependency ratio IV. Work force largely in the tertiary sector
+Select the correct answer from the codes given below:
+Codes :
+(a) I and II
+(b) II and III
+(c) III and IV
+(d) I and IV
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which of the following features indicates that Indian economy is in a developing category? I. Occupation is mainly agriculture II. Disguised unemployment III. Poor quality of human capital IV. High per capita intake of proteins
+Select the correct answer from the codes given below:
+Codes :
+(a) I & II only
+(b) I & IV
+(c) II & III only
+(d) I, II & III
+@ans (d)
+@end
+
+
+
+@one U.P.P.C.S. (Mains) 2011
+The Indian Economy can be described as
+@ans A developing economy
+@end
+
+@one U.P. Lower Sub. (Spl.) (Pre) 2004
+The Indian Economy is characterised by I. Pre-dominance of Agriculture II. Pre-dominance of Industry III. Low per Capita Income IV. Massive Unemployment
+@ans I, III & IV only
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which of the following is not a characteristic of Indian Economy ?
+(a) Low productivity of labour
+(b) Lower per capita income
+(c) Low rate of capital formation
+(d) Lack of Natural Resources
+@ans (d)
+@end
+
+Signs of underdevelopment: **low per capita income**, **low capital formation**, dependence on **agriculture**, **disguised unemployment**, high population growth and a **high dependency ratio**, and poor human capital. India is rich in natural resources, so their "lack" is not a feature.
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which of the following is not part of the 'Second Generation of Economic Reforms' identified by the Government ?
+(a) Oil Sector Reforms
+(b) Public Sector Reforms
+(c) Legal System Reforms
+(d) Reform of Government and Public Institutions
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Indian model of development ensures interest of–
+(a) Person
+(b) State
+(c) State and Person both
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following is not an economic activity?
+(a) Voluntary Social Service
+(b) Farming
+(c) Transportation
+(d) Service
+@ans (a)
+@end
+
+
+**Voluntary social service** creates no income, so it is a non-economic activity. The **first generation** of reforms (1991) was **LPG**: liberalisation, privatisation, globalisation; the **second generation** (from about 2000) covered public sector, oil, power, labour and governance reforms.
+
+@section 1.2 | Development, Growth and Measurement
+
+@pyq U.P.P.C.S. (Mains) 2004
+If over a given period of time both prices and monetary income have been doubled, the real income will be –
+(a) Doubled
+(b) Halved
+(c) Unchanged
+(d) Prices do not affect real income
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Consider the following statements about Amartya Sen’s advices regarding priorities for Indian Economy:
+1. It should be commodity-oriented
+2. It should be people-oriented
+3. Economic security to the poorest of the poor
+4. Safeguards against integration of these with world economy
+Select the correct answer using the code given below:
+(a) 1, 2 and 3 are correct
+(b) 2, 3 and 4 are correct
+(c) 1, 3 and 4 are correct
+(d) 1, 2 and 4 are correct
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004
+The view that ‘Planning in India should, in future, pay more attention to the people than to commodities’ was given by :
+(a) Amartya Sen
+(b) Yashwant Sinha
+(c) Atal Bihari Vajpayee
+(d) Manmohan Singh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P.P.C.S. (Pre) 1996, 2006
+The Hindu rate of growth refers to the growth rate of:
+(a) Per Capita Income
+(b) National Income
+(c) Population
+(d) Literacy
+@ans (b)
+@end
+
+
+**Real income** = money income adjusted for prices, so if both double it is unchanged. **Amartya Sen** (Nobel 1998) argued that development should be **people-centred** (capabilities, health, education), not commodity-centred. The **"Hindu rate of growth"** (coined by **Raj Krishna**) was the slow **3.5%** annual growth of national income from the 1950s to the 1970s.
+
+@pyq U.P.P.C.S. (Mains) 2008
+The proportion of labour in GNP (Gross National Product) becomes low due to the following reason :
+(a) Prices lag behind wages
+(b) Profit lags behind prices
+(c) Prices lag behind Profit
+(d) Wages lag behind prices
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Match List I with List II and select the correct answer using the codes given below the lists.
+@match
+List- I | List-II
+A. Economic Development | 1. Gross Domestic Product
+B. Economic Growth | 2. Environment
+C. Sustainable Development | 3. Health
+D. Quality of life | 4. Constructive change
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 2 3 1
+(c) 3 4 1 2
+(d) 4 1 2 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+What was the main strategy of new economic policy adopted in 1991?
+(a) Liberalization
+(b) Privatization
+(c) Globalization
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which among the following is NOT a major factor of economic growth?
+(a) Accumulation of capital and reforms in technology
+(b) Change in population
+(c) Division of labour in specialised activities
+(d) Technocrats and Bureaucrats
+@ans (d)
+@end
+
+@table
+Concept | Meaning
+**Economic growth** | Quantitative rise in output: **GDP** and per capita income
+**Economic development** | Growth **plus structural and qualitative change**: health, education, poverty, equality
+**Sustainable development** | Development that protects the **environment** for future generations
+**GDP** | Value of final goods and services produced **within** the country in a year
+**GNP / GNI** | GDP + net factor income from abroad
+**NNP** | GNP - depreciation; **NNP at factor cost = national income**
+**Per capita income** | National income ÷ population: best simple measure of the **standard of living**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P. Lower Sub. (Pre) 2013
+The most appropriate measure of a country’s economic growth is its –
+(a) Gross Domestic Product (GDP)
+(b) Net Domestic Product (NDP)
+(c) Net National Product (NNP)
+(d) Per Capita Product (PCP)
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): Development is being defined as improving living standards and welfare.
+Reason (R): Growth in per capita income is not a sufficient measure of development.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2013
+The standard of living in a country is represented by
+@ans Per Capita Income
+@end
+
+@section 1.3 | Who Measures National Income
+
+@pyq U.P.P.C.S. (Pre) 2007; U.P.P.C.S. (Mains) 2013
+That the Per Capita Income in India was Rs. 20 in 1867-68, was ascertained for the first time by :
+(a) M.G. Ranade
+(b) Sir W. Hunter
+(c) R.C. Dutta
+(d) Dadabhai Naoroji
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Who was the chairman of National Income Committee appointed by the Government of India in 1949?
+(a) C.R. Rao
+(b) P.C. Mahalanobis
+(c) V. K. R.V. Rao
+(d) K. N. Raj
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1995, 2006; U.P.P.C.S. (Mains) 2006, 2008, 2010, 2012; U.P. Lower Sub. (Pre) 2004
+National income in India is estimated by—
+(a) Planning Commission
+(b) Central Statistical Organisation
+(c) Indian Statistical Institute
+(d) National Sample Survey Organisation
+@ans (*)
+@note When asked, the **Central Statistical Organisation (CSO)** estimated national income, so (b) was correct. In **2019** the CSO and NSSO were merged into the **National Statistical Office (NSO)** under MoSPI, which now does it; hence the source marks the question (*).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2023
+Estimation of National Income in India is done by the:
+(a) Reserve Bank of India
+(b) National Income Committee
+(c) National Statistical Office
+(d) Planning Commission
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2008
+In India which agency is entrusted with the collection of data of capital formation ?
+(a) RBI and Central Statistical Organisation
+(b) RBI and SBI
+(c) RBI and all other Commercial Banks
+(d) Central Statistical Organisation and National Sample Survey
+@ans (*)
+@note Capital formation estimates are prepared by the **CSO (now NSO)**, using data from the **RBI** among others, so (a) is closest; the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+In new GDP data, base year has been changed from 2004-05 to :
+(a) 2011-2012
+(b) 2010-2011
+(c) 2008-2009
+(d) 2007-2008
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re- Exam) 2015
+Consider the following statements and select the correct answer from the code given below :
+Assertion (A) : Economic development requires a multi-dimensional approach.
+Reason (R) : The present Government of India is focussing mainly on micro-economic issues.
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+
+@table
+Milestone | Detail
+**Dadabhai Naoroji** | First estimate of India's per capita income: **Rs. 20 in 1867-68** (*Poverty and Un-British Rule in India*)
+V.K.R.V. Rao | First scientific estimate (1931-32)
+**National Income Committee** (1949) | Chaired by **P.C. Mahalanobis** (with D.R. Gadgil, V.K.R.V. Rao)
+**CSO** (1951) → **NSO** (2019) | Official estimates under the Ministry of Statistics (MoSPI)
+Base years | 1948-49, 1960-61, 1970-71, 1980-81, 1993-94, 1999-2000, 2004-05, **2011-12** (from 2015, with GVA at basic prices); revision to **2022-23** under way
+@end
+
+@section 1.4 | Growth Rates and State Income
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013; U.P.P.C.S. (Mains) 2011
+As per data released by Government of India in March 2011, the Per Capita Income of Indians rose by 14.5% in 2009-10. What is the Per Capita Income figure (in nearest hundred) ?
+(a) Rs. 40,600
+(b) Rs. 42,300
+(c) Rs. 46,500
+(d) Rs. 47,000
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P. Lower Sub. (Spl.) (Pre) 2002, 2003
+In the gone by decade of 90s the highest rate of growth of GDP was obtained in which of the following year :
+(a) 1993-94
+(b) 1995-96
+(c) 1996-97
+(d) 1999-2000
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P.R.O./A.R.O. (Mains) 2013; U.P.P.C.S. (Pre) 2001, 2003, 2006; U.P.P.C.S. (Mains); 2014; U.P.P.S.C. (R.I.) 2014; U.P.U.D.A./L.D.A. (Pre); 2002; U.P.P.C.S. (Pre) 1999, 1997, 2000, 2005; U.P.; Lower Sub. (Spl.) (Pre) 2002, 2003; U.P.P.C.S. (Mains)
+Indian Economy has witnessed highest growth rate in the year :
+(a) 2003-04
+(b) 2004-05
+(c) 2005-06
+(d) 2006-07
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+As per recent estimates of the Reserve Bank of India growth rate in 2002-2003 will be –
+(a) 5-5.5%
+(b) 5.5-6.0%
+(c) 6.0-6.5%
+(d) 6.5-7.0%
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+According to Asian Development Report 2004, growth rate of India in 2005 will be –
+(a) 7.5%
+(b) 6.9%
+(c) 5.5%
+(d) 4.9%
+@ans (b)
+@end
+
+
+These are "current affairs" questions of their year. Recent figures: India's real GDP grew **9.7% in 2021-22** (post-COVID rebound), **7.0% in 2022-23**, **9.2% in 2023-24** and about **6.5% in 2024-25**; India is the world's **fastest-growing major economy** and the **fourth largest** in nominal terms (about USD 4 trillion).
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which state has the largest economy in India ?
+(a) Maharashtra
+(b) Gujarat
+(c) Uttar Pradesh
+(d) Tamil Nadu
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+Arrange the following States in descending order of Per Capita Income for the year 1998-99 and select the correct answer from the codes given below:
+A. Maharashtra
+B. Gujarat
+C. Uttar Pradesh
+D. Punjab
+Code:
+(a) DBAC
+(b) DABC
+(c) BDAC
+(d) ADBC
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 1993, 2008; U.P. Lower Sub. (Pre) 2004
+Which State has minimum Per Capita Annual Income?
+(a) Bihar
+(b) Madhya Pradesh
+(c) Odisha
+(d) Uttar Pradesh
+@ans (a)
+@note The source keys (a) **Bihar**, which has had the **lowest per capita income** of the large states in most years: about **Rs. 69,000** (per capita NSDP, current prices, 2024-25) against a national average above Rs. 2 lakh. Its explanation mentions (c) for the year of the question, but Bihar is the accepted answer.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which of the following States has the highest Per Capita Income (at present) ?
+(a) Goa
+(b) Punjab
+(c) Maharashtra
+(d) Gujarat
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following States has the highest growth in Gross State Domestic Product in 2010-11?
+(a) Bihar
+(b) Chhattisgarh
+(c) Maharashtra
+(d) Tamil Nadu
+@ans (a)
+@end
+
+
+
+**Maharashtra** has the largest state economy, followed by Tamil Nadu, Karnataka, **Uttar Pradesh** and Gujarat. Among large states, **Telangana, Karnataka, Haryana and Gujarat** lead in per capita income; small states **Sikkim, Goa** and Delhi lead overall.
+
+@up UP link: **Uttar Pradesh** has India's third or fourth largest GSDP (about **Rs. 25 lakh crore**, 2023-24) but a per capita income of only about **Rs. 97,000**, less than half the national average, because of its huge population. The state aims to become a **USD 1 trillion economy**; its schemes include **ODOP** (One District One Product, 2018) and the Global Investors Summits.
+
+@section 1.5 | Savings and Capital Formation
+
+@pyq U.P.P.C.S. (Pre) 2021
+With reference to the 'Capital formation' which of the statements is/are correct?
+1. Process of capital formation depends on savings and effectiveness of financial institutions.
+2. Investment is the essential factor of capital formation.
+Select the correct answer using the codes given below.
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre.) 2001
+Which of the following reasons are mainly responsible for slow growth of Real Per Capita Income in India 1. Rapid increase in population
+2. High increase in prices
+3. Slow growth in agriculture and industrial sectors
+4. Unavailability of foreign exchange
+Find the correct answer using following codes Codes :
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 1 and 4 only
+(d) All of the above
+@ans (b)
+@end
+
+
+**Capital formation** depends on **savings** being channelled by **financial institutions** into **investment** (machines, buildings, infrastructure). Real per capita income grew slowly in the past because of **rapid population growth, inflation and slow farm and industrial growth**; foreign exchange shortage was not a main cause.
+
+@pyq U.P.P.C.S. (Mains) 2009
+In the 2001-2010 decade, the highest rate of gross domestic savings was achieved in the year –
+(a) 2005-06
+(b) 2006-07
+(c) 2007-08
+(d) 2008-09
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Savings ratio in India at present (2006-07) stands at :
+(a) between 20 to 25 percent of GDP
+(b) between 25 to 30 percent of GDP
+(c) between 30 to 32 percent of GDP
+(d) Above 32 percent of GDP
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P. U.D.A. / L.D. A. (Pre) 2001
+Which among the following sectors contribute the most in savings in India?
+(a) Banking and financial sector
+(b) Export sector
+(c) Household sector
+(d) Private sector
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which has the highest share in the household savings of India?
+(a) Deposits
+(b) Currency
+(c) Physical assets
+(d) Shares and debentures
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 1998
+In India savings arise from the following four main sectors :
+1. Household sector
+2. Private corporate sector
+3. Public corporations and other public enterprises
+4. Government
+Find the correct descending order of contribution of the above sectors from the codes given below :
+Code :
+(a) 4, 3, 2, 1
+(b) 1, 3, 2, 4
+(c) 1, 2, 3, 4
+(d) 4, 2, 3, 1
+@ans (c)
+@end
+
+
+India's **gross domestic savings** peaked at about **36-37% of GDP in 2007-08** and is now about **30%**. The **household sector** gives the largest share (about 60%), followed by private corporations and the public sector; households save more in **physical assets** (gold, land, houses) than in financial assets.
+
+@trap
+**Mixed economy = public + private sectors.** **Hindu rate of growth = 3.5%** (Raj Krishna). **Naoroji** made the first per capita income estimate (Rs. 20, 1867-68); **Mahalanobis** chaired the 1949 committee. National income is now estimated by the **NSO** (CSO + NSSO, 2019). Base year **2011-12** (revision to 2022-23). **Per capita income** measures growth and living standards. **Maharashtra** has the largest economy; **Bihar** the lowest per capita income. **Households** save the most.
+@end
+
+@heatmap
+
+@pattern
+National income questions mix **concepts** (real income, GDP vs per capita, who estimates) with **data of the year**, which date quickly. The 2021-2024 papers asked conceptual statement questions (capital formation, development vs growth, factors of growth), so learn definitions rather than old figures.
+@end
+
+@next
+Likely next angles: the **new GDP series with base year 2022-23**, India as the **fourth largest economy**, **Viksit Bharat 2047**, the **GDP deflator** and real vs nominal GDP, **GVA by sector**, the **household savings** fall, **UP's USD 1 trillion** target, and state rankings of GSDP.
+@end

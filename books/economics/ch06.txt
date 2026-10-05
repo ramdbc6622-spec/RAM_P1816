@@ -1,0 +1,622 @@
+@chapter 6 | Industry II: Public Sector, Major Industries and Services
+
+@intro
+The second industry chapter covers **public sector enterprises** (ONGC, OIL, BSNL, HAL, Navratna and Maharatna status), **oil refineries**, **major industries and their centres** (steel plants, sugar, textiles, aluminium, fertilisers), early industrial history, and the **tertiary (service) sector**, now the largest part of the economy. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 6.1 | Public Sector Enterprises
+
+@pyq U.P.P.C.S. (Pre) 2019
+With reference to the functions of Public Sector in India, which of the following statements is/are correct? I. To provide public utility resources II. To build social and economic overhead capital III. To ensure balanced regional and sectoral growth IV. To pursue egalitarian goals
+Select the correct answer using the codes given below:
+(a) I, II and III are correct
+(b) II, III and IV are correct
+(c) I, II, III and IV are correct
+(d) I, III, and IV are correct
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Which one of the following is not of the same category:
+(a) SAIL
+(b) BHEL
+(c) ONGC
+(d) ESSAR OIL
+@ans (d)
+@end
+
+
+The public sector was meant to supply **public utilities**, build **economic and social overheads**, ensure **balanced regional growth** and pursue **equality**. SAIL, BHEL and ONGC are public; **Essar Oil** (now **Nayara Energy**) is private.
+
+@pyq U.P. P.C.S. (Mains) 2014
+The Oil and Natural Gas Commission (ONGC) was set up in :
+(a) 1956
+(b) 1957
+(c) 1959
+(d) 1961
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+OIL is an enterprise involved in :
+(a) Oil import
+(b) Oil refining
+(c) Oil exploration
+(d) Oil marketing
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which among the following is the largest trading Government Company of India ?
+(a) Food Corporation of India
+(b) Minerals and Metals Trading Corporation
+(c) Khadi & Village Industries Corporation
+(d) Trade Fair Authority of India
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2008
+HAL is related to manufacturing of :
+(a) Telecommunication equipments
+(b) Aircrafts
+(c) Space missiles
+(d) War missiles
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+The development of tourism and hotel industry in India is the function of :
+(a) I.A.A.I.
+(b) I.T.D.C.
+(c) I.T.C.
+(d) H.I.C.
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+In which of the following years was the BSNL established?
+(a) 2000
+(b) 2001
+(c) 2002
+(d) 2003
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+In which one of the following Public Sector Enterprises the Government has 100% equity ?
+(a) BSNL
+(b) NTPC
+(c) BHEL
+(d) State Bank of India
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The Gas Authority of India Ltd. has planned to invest Rs. 8,000 crores for laying pipelines from :
+(a) Vijayawada to Mathura
+(b) Vijayawada to Vijaipur
+(c) Cochin to Hazira
+(d) Hazira to Jagdishpur
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re.Exam) 2015
+Which among the following now decides the oil-prices in India?
+(a) Ministry of Finance
+(b) Respective State Governments
+(c) Ministry of Petroleum
+(d) Oil companies
+@ans (d)
+@end
+
+
+@table
+PSU | Fact
+**ONGC** | Set up in **1956** (Commission; company 1994); oil and gas **exploration**
+**Oil India (OIL)** | Exploration and production (Assam); Maharatna (2024)
+**MMTC** | Largest government trading company (metals, minerals)
+**HAL** | **Aircraft** and helicopters (Bengaluru)
+**ITDC** | Tourism and **hotels** (Ashok group)
+**BSNL** | Formed **2000**; **100% government** owned
+**GAIL** | Gas pipelines: HVJ (Hazira-Vijaipur-Jagdishpur), **Vijayawada-Vijaipur**
+Petrol and diesel prices | **Deregulated** (petrol 2010, diesel 2014); set by **oil companies**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+The concept of 'Navratna' is associated with :
+(a) selected categories of technical manpower
+(b) selected export-oriented units
+(c) selected food-processing industries
+(d) selected Public Sector Enterprises
+@ans (d)
+@end
+
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010; U.P.P.C.S. (Mains) 2010; U.P. U.D.A./L.D.A. (Pre) 2013
+Which of the following does not enjoy 'Maharatna' status(as on February 2013)?
+(a) Steel Authority of India Limited
+(b) Bharat Heavy Electrical Limited
+(c) Oil and Natural Gas Corporation Limited
+(d) Oil India Limited
+@ans (*)
+@note As on February 2013, (d) **Oil India** was not a Maharatna, so it was the answer. OIL was made a Maharatna in **2024**, so all four now hold the status and the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The Public Sector undertaking included in ‘Navratna’ is
+(a) SAIL
+(b) GAIL
+(c) MTNL
+(d) All of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following public sector undertakings has not been accorded status of ‘Navratna’?
+(a) Indian Aluminium Company Limited
+(b) Powergrid Corporation of India
+(c) Rural Electrification Corporation
+(d) Steel Authority of India Ltd.
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following Aluminium Companies has been given 'Navaratna Status' by the Government of India?
+(a) NALCO
+(b) BALCO
+(c) HINDALCO
+(d) MALCO
+@ans (a)
+@end
+
+
+@table
+CPSE category | Main criteria | Examples
+**Maharatna** (2010) | Navratna, listed, turnover over Rs. 25,000 crore, net worth over Rs. 15,000 crore | ONGC, NTPC, SAIL, IOCL, Coal India, BHEL, GAIL, BPCL, Power Grid, HPCL, REC, PFC, Oil India, ONGC Videsh (14)
+**Navratna** (1997) | Miniratna I with good scores | HAL, BEL, NALCO, MTNL (earlier), Container Corporation, RVNL, IRCON
+**Miniratna** I and II | Profit-making | Many
+@end
+
+**NALCO** (Bhubaneswar, 1981) is the Navratna among aluminium firms; **BALCO** and **HINDALCO** belong to Vedanta and the Aditya Birla group. **Indian Aluminium (INDAL)** was private and never a Navratna.
+
+@section 6.2 | Oil Refineries
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which among the following are in the Private Sector?
+1. Bongaigaon Refinery
+2. Mangalore Refinery
+3. Haldia Refinery
+4. ESSAR Oil Ltd.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 2 and 4
+(d) 1 and 4
+@ans (*)
+@note When asked (1998), the **Mangalore Refinery (MRPL)** was a private joint venture and **Essar Oil** private, so (c) was correct. MRPL later became an **ONGC** subsidiary, leaving only Essar (Nayara) private; the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which of the following oil refinery is in the private sector?
+(a) Digboi Oil Refinery
+(b) Barauni Oil Refinery
+(c) Numaligarh Oil Refinery
+(d) Mathura Oil Refinery
+@ans (*)
+@note All four are **public sector** refineries (Digboi, Barauni and Mathura belong to **IOCL**; Numaligarh to NRL), so there is no right option; the source marks it (*). India's largest private refinery is **Reliance's Jamnagar** complex, the world's largest single-site refinery.
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and select the correct answer using the code given below :
+List-I List-II (Oil refineries) (States)
+A. Barauni 1. Assam
+B. Bongaigaon
+2. Bihar
+C. Bina 3. Gujarat
+D. Koyali
+4. Madhya Pradesh
+Code :
+(a) A-2, B-4, C-3, D-1
+(b) A-2, B-1, C-4, D-3
+(c) A-3, B-1, C-4, D-2
+(d) A-1, B-2, C-3, D-4
+@ans (b)
+@end
+
+
+@up UP link: The **Mathura refinery** (IOCL, 1982) is UP's only refinery; its emissions led to protection rules for the Taj Mahal (the Taj Trapezium Zone). GAIL's **HVJ pipeline** ends at **Jagdishpur** (Amethi), feeding fertiliser plants.
+
+@pyq U.P.P.C.S. (Pre) 2002*
+Which one of the following States enjoys ideal conditions for the development of petrochemical industries :
+(a) Gujarat
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Assertion (A) : Coastal Gujarat has been called an industrial workshop.
+Reason (R): It is dotted with manufacturing units of textiles and garments, pharmaceutical and petrochemicals.
+Codes :
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true, but R is not a correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (a)
+@end
+
+
+@section 6.3 | Major Industries and Centres
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following Iron and Steel Plant is not located on a riverside?
+(a) Bhilai
+(b) Bokaro
+(c) Jamshedpur
+(d) Bhadravati
+@ans (a)
+@end
+
+
+
+@one U.P.P.C.S. (Mains) 2012
+Rourkela Steel Plant was established in collaboration with
+@ans Germany
+@end
+
+@one U.P.P.C.S. (Pre) 1991
+Bokaro Steel Plant was established with the help of
+@ans Soviet Union
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Match List I with List II, and choose the correct answer from the codes given below :
+@match
+List I | List II
+A. Bhilai | 1. Chhattisgarh
+B. Bokaro | 2. Jharkhand
+C. Durgapur | 3. Odisha
+D. Rourkela | 4. West Bengal
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 2 4 3
+(c) 1 3 2 4
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@table
+Steel plant | State | Partner
+**Bhilai** | Chhattisgarh | **USSR** (not on a river)
+**Rourkela** | Odisha | **West Germany**
+**Durgapur** | West Bengal | **UK**
+**Bokaro** | Jharkhand | **USSR**
+Jamshedpur (TISCO, 1907) | Jharkhand | Private (Tata)
+Bhadravati (VISL) | Karnataka | Mysore state
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Where has the Indian Diamond Institute (IDI) been established?
+(a) New Delhi
+(b) Mumbai
+(c) Surat
+(d) Jaipur
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+Match the List-I with List II.
+List I (Place)
+List II (Industry)
+A. Vishakhapattanam 1. Automobiles
+B. Muri 2. Shipbuilding
+C. Gurgaon
+3. Fertilizers
+D. Panki 4. Aluminium
+Select the correct answer using the codes given below:
+Code : A B C D
+(a) 2 3 4 1
+(b) 1 2 3 4
+(c) 2 4 3 1
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List I with List II and select the correct answer using the code given below:
+List-I List-II (City) (Industry)
+A. Coimbatore
+1. Petroleum Refining
+B. Rourkela
+2. Rail Coach
+C. Kapurthala
+3. Iron and Steel
+D. Barauni
+4. Cotton Textiles
+Code: A B C D
+(a) 4 3 2 1
+(b) 1 2 3 4
+(c) 2 3 4 1
+(d) 4 2 3 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Match List I with List II and select the correct answer from the codes given below :
+List I
+List II
+A. Singrauli
+1. Oil
+B. Kajarhat
+2. Milk
+C. Koyali
+3. Coal
+D. Anand
+4. Cement
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 2011
+The largest producer of sugar in India is :
+(a) Bihar
+(b) Karnataka
+(c) Maharashtra
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which pair is not correctly matched?
+(a) Katni - Paper
+(b) Surat - Cotton Textiles
+(c) Churk - Cement Industry
+(d) Ludhiana - Hosiery
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Match List I with List II and select the correct answer using the code given below:
+List I
+List II (Industry) (Production Centre)
+A. Jute Products
+1. Bhadohi
+B. Silk Textile
+2. Ludhiana
+C. Woollen Hosiery
+3. Bangalore
+D. Woolen Carpet
+4. Titagarh
+Codes : A B C D
+(a) 3 4 2 1
+(b) 4 3 2 1
+(c) 1 3 4 2
+(d) 4 1 3 2
+@ans (b)
+@end
+
+
+@one
+The leading sugar producing state in India in descending order are
+@ans Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu
+@end
+
+@table
+Centre | Industry
+**Surat** | Diamond cutting (**Indian Diamond Institute**), textiles
+**Visakhapatnam** | **Shipbuilding**, steel
+**Muri** (Jharkhand) | **Aluminium**
+**Gurugram** | **Automobiles**
+**Panki** (Kanpur) | **Fertiliser**
+**Coimbatore** | Cotton textiles
+**Kapurthala** | **Rail coaches**
+**Barauni**, **Koyali** | **Oil refineries**
+**Singrauli** | **Coal**
+**Kajarhat** (Katni) | **Cement**
+**Anand** | **Milk** (Amul)
+**Titagarh** | **Jute**
+**Bengaluru** | Silk
+**Ludhiana** | **Woollen hosiery**
+**Bhadohi** | **Carpets**
+Churk (Sonbhadra) | Cement
+Nepanagar | **Newsprint**
+Hazira | **Gas-based fertiliser** (KRIBHCO)
+Renukoot | HINDALCO aluminium
+**Mettur** (Salem) | MALCO aluminium
+@end
+
+@up UP link: **UP is India's largest sugar producer** (about 10 million tonnes), ahead of Maharashtra and Karnataka. UP centres: **Bhadohi-Mirzapur** (carpets, GI tag), **Kanpur** (leather, Panki fertiliser), **Renukoot** (aluminium), **Churk** (cement), **Moradabad** (brassware), **Firozabad** (glass).
+
+@pyq U.P. P.C.S. (Pre) 2022
+Which one of the following is NOT correctly matched?
+(Aluminium Plants) – (Location)
+(a) Bharat Aluminium Company Limited (BALCO) – Korba
+(b) Indian Aluminium Company Limited (INDAL) – Hirakud
+(c) Madras Aluminium Company Limited (MALCO) – Chennai
+(d) Hindustan Aluminium Corporation Limited (HINDALCO) – Renukoot
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+The industry for which Nepanagar is known is :
+(a) Cement
+(b) Fertilizer
+(c) Handloom
+(d) Newsprint paper
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The Hazira Fertilizer Factory is based on :
+(a) Petroleum
+(b) Natural Gas
+(c) Naphtha
+(d) Coal
+@ans (b)
+@end
+
+
+@section 6.4 | Industrial History and Companies
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Consider the following events and arrange these in chronological order : I. Development of sugar industry by Indians II. Starting of first jute mill in Rishra III. Production of steel in India for the first time IV. Starting of first textile mill in Bombay
+Select the correct answer from the code given below :
+Code :
+(a) I, II, IV and III
+(b) IV, II, III and I
+(c) II, I, III and IV
+(d) III, II, I and IV
+@ans (a)
+@end
+
+@pyq U. P. R.O./A.R.O. (Pre) 2014
+Which among the following multinational companies are functioning in India?
+1. Hindustan Unilever Limited
+2. Samsung Corporation
+3. Guest Keen and Williams Limited
+4. L.G.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1, 2, 3 and 4
+(b) 2 and 4 only
+(c) 2, 3 and 4 only
+(d) 1 and 3 only
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The head office of Khadi and Village Industries Commission (KVIC) is located at :
+(a) Ahmedabad
+(b) New Delhi
+(c) Mumbai
+(d) Bhopal
+@ans (c)
+@end
+
+
+The order is **first cotton mill in Bombay (1854) → first jute mill at Rishra (1855) → TISCO steel (1907-1912) → Indian sugar industry (1930s, with tariff protection)**. The source's key (a) puts sugar first, following its view of the early indigenous sugar mills. **KVIC** (1957) is headquartered in **Mumbai**. **Hindustan Unilever** and GKW are Indian-registered companies with foreign parentage; **Samsung and LG** are foreign multinationals.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following groups of goods is not included in FMCG (Fast Moving Consumer Goods)?
+(a) Automobile (Car and Motor Cycle)
+(b) Toiletries (Shampoo and Soap)
+(c) Dairy Products (Milk and Cheese)
+(d) Bakery Products (Biscuits and Breads)
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 2011
+Which among the following is the largest software company in India?
+(a) Infosys
+(b) TCS
+(c) WIPRO
+(d) HCL tech
+@ans (b)
+@end
+
+
+FMCG goods are everyday packaged items (soaps, food, toiletries); cars and motorcycles are **consumer durables**. **TCS** is India's largest IT company, and **Reliance Industries** tops the Fortune India 500.
+
+@section 6.5 | The Tertiary Sector
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Mains) 2004; U.P.P.C.S.(Pre) 2003; U.P. Lower Sub. (Pre) 2008; U.P. P.C.S. (Pre) (Re-Exam) 2015; U.P. R.O./A.R.O. (Mains) 2017
+In India Tertiary Sector includes :
+1. Trade and Transport
+2. Finance and Real Estate
+3. Forestry and Fishing
+Choose the correct answer from the code given below:
+Code :
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 3 only
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017, 2021; U.P.P.C.S. (Mains) 2004, 2010, 2014, 2017
+The largest source of National Income in India is :
+(a) Service Sector
+(b) Agriculture Sector
+(c) Industrial Sector
+(d) Trade Sector
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+For which of the following States the share of services sector in State GDP has been largest in 2008-09 ?
+(a) Delhi
+(b) Maharashtra
+(c) Kerala
+(d) Tamil Nadu
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007*
+In India, between 2001 to 2005, growth rate of which sector has consistently increased ?
+(a) Agriculture
+(b) Industry
+(c) Services
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+According to Economic Survey 2023 about services, which statement among the following is not correct?
+(a) Fashion, grocery and general merchandise will be captured nearly two-third of the Indian e-commerce market by 2030.
+(b) P.M.I. services witnessed strongest expansion since July, 2022.
+(c) 75 digital banking units announced for transforming financial services.
+(d) Credit growth to services is above 16% since July, 2022.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006*
+As the economy develops, the share of the tertiary sector in the GDP :
+(a) Decreases
+(b) Decreases then increases
+(c) Increases
+(d) Remains constant
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+‘TRAI’ is a regulatory body associated with which of the following sectors?
+(a) Transport
+(b) Tourism
+(c) Technical Education
+(d) Telecom
+@ans (d)
+@end
+
+
+@table
+Sector | Includes | Share of GVA (2024-25, approx.)
+**Primary** | Agriculture, **forestry, fishing**, mining | About 18% (agriculture) + 2% (mining)
+**Secondary** | Manufacturing, construction, electricity | About 25-28%
+**Tertiary (services)** | **Trade, transport, hotels, finance, real estate, IT, public administration** | About **55%**, the largest
+@end
+
+As economies develop, the **services share rises** (Fisher-Clark thesis). **Delhi** has the highest services share of any state economy. **TRAI** (1997) regulates **telecom**. The Economic Survey 2022-23 said **electronics**, not fashion and grocery, will capture much of e-commerce growth, which is why that statement is incorrect.
+
+@trap
+**ONGC 1956**; **BSNL 2000, 100% government.** OIL became a **Maharatna in 2024**. **Navratna aluminium = NALCO.** All the named refineries (Digboi, Barauni, Numaligarh, Mathura) are public; **Essar/Nayara** and Reliance are private. **Bhilai-USSR, Rourkela-Germany, Durgapur-UK, Bokaro-USSR.** **UP is the top sugar producer.** **MALCO is at Mettur**, not Chennai. Tertiary sector excludes **forestry and fishing**. **Services = largest share of GDP.** **TRAI = telecom.**
+@end
+
+@heatmap
+
+@pattern
+PSU status and industrial location questions dominated older papers; the **2021-2023** RO/ARO and Prelims papers kept asking refinery-state and centre-industry matches. Expect at least one location match in each paper.
+@end
+
+@next
+Likely next angles: the **14 Maharatnas** list, **strategic disinvestment** (IDBI Bank sale), **BSNL 4G** rollout, new refineries (**Barmer**), **green steel**, India as the **2nd largest steel producer**, the **services export** boom (GCCs), and **UP's** ODOP products.
+@end
