@@ -24,8 +24,142 @@ import tattva_build as tb  # noqa: E402  (fonts, colours, styles, tables)
 from reportlab.lib import colors  # noqa: E402
 from reportlab.lib.enums import TA_CENTER  # noqa: E402
 from reportlab.lib.styles import ParagraphStyle  # noqa: E402
-from reportlab.platypus import (BaseDocTemplate, Frame, KeepTogether, NextPageTemplate,  # noqa: E402
-                                PageBreak, PageTemplate, Paragraph, Spacer, Table)
+from reportlab.platypus import (BaseDocTemplate, Flowable, Frame, KeepTogether,  # noqa: E402
+                                NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer, Table)
+from reportlab.pdfbase.pdfmetrics import stringWidth  # noqa: E402
+
+RIVER = colors.HexColor("#2f6f9f")
+NODE_BG = colors.HexColor("#fbf6e9")
+
+
+def _arrow(c, x1, y1, x2, y2, col, w=1.1, head=4.2):
+    import math
+    c.setStrokeColor(col)
+    c.setFillColor(col)
+    c.setLineWidth(w)
+    c.line(x1, y1, x2, y2)
+    a = math.atan2(y2 - y1, x2 - x1)
+    p = c.beginPath()
+    p.moveTo(x2, y2)
+    p.lineTo(x2 - head * math.cos(a - 0.45), y2 - head * math.sin(a - 0.45))
+    p.lineTo(x2 - head * math.cos(a + 0.45), y2 - head * math.sin(a + 0.45))
+    p.close()
+    c.drawPath(p, stroke=0, fill=1)
+
+
+def _fit(text, font, size, width):
+    """Split text into lines that fit width."""
+    words, lines, cur = text.split(), [], ""
+    for w in words:
+        t = (cur + " " + w).strip()
+        if stringWidth(t, font, size) <= width or not cur:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+class FlowChart(Flowable):
+    """Vertical chain of boxes: each row 'Label | small note'."""
+
+    def __init__(self, title, rows):
+        super().__init__()
+        self.title = title
+        self.rows = [[x.strip() for x in r.split("|", 1)] + [""] for r in rows if r.strip()]
+
+    def wrap(self, aw, ah):
+        self.width = aw
+        self.box_w = aw - 30
+        self.heights = []
+        for lab, note, *_ in self.rows:
+            n = len(_fit(note, "Cal", 7.6, self.box_w - 12)) if note else 0
+            self.heights.append(15 + 9.4 * n)
+        self.gap = 13
+        self.height = 18 + sum(self.heights) + self.gap * (len(self.rows) - 1) + 4
+        return aw, self.height
+
+    def draw(self):
+        c = self.canv
+        y = self.height
+        c.setFont("Helvetica-Bold", 6.8)
+        c.setFillColor(tb.MUTED)
+        c.drawString(0, y - 8, self.title.upper())
+        y -= 18
+        x = 15
+        for k, ((lab, note, *_), h) in enumerate(zip(self.rows, self.heights)):
+            c.setFillColor(NODE_BG)
+            c.setStrokeColor(tb.GOLD)
+            c.setLineWidth(0.7)
+            c.roundRect(x, y - h, self.box_w, h, 4, stroke=1, fill=1)
+            c.setFillColor(tb.NAVY)
+            c.setFont("Cal-B", 9)
+            c.drawCentredString(x + self.box_w / 2, y - 11, lab)
+            c.setFillColor(tb.INK)
+            c.setFont("Cal", 7.6)
+            for j, line in enumerate(_fit(note, "Cal", 7.6, self.box_w - 12) if note else []):
+                c.drawCentredString(x + self.box_w / 2, y - 20.5 - 9.4 * j, line)
+            y -= h
+            if k < len(self.rows) - 1:
+                _arrow(c, x + self.box_w / 2, y - 1, x + self.box_w / 2, y - self.gap + 1, tb.GOLD_DEEP)
+                y -= self.gap
+
+
+class Confluence(Flowable):
+    """A river trunk drawn top to bottom; rows 'L|R , tributary , place , note'."""
+
+    def __init__(self, title, rows):
+        super().__init__()
+        self.title = title
+        self.trunk = rows[0].split(":", 1)[1].strip() if rows and rows[0].lower().startswith("trunk") else ""
+        self.end = ""
+        self.rows = []
+        for r in rows[1:] if self.trunk else rows:
+            if not r.strip():
+                continue
+            if r.lower().startswith("end:"):
+                self.end = r.split(":", 1)[1].strip()
+                continue
+            side, trib, place = [x.strip() for x in r.split("|")][:3]
+            self.rows.append((side.upper(), trib, place))
+
+    def wrap(self, aw, ah):
+        self.width = aw
+        self.step = 30
+        self.height = 30 + self.step * len(self.rows) + (22 if self.end else 8)
+        return aw, self.height
+
+    def draw(self):
+        c = self.canv
+        cx = self.width * 0.5
+        top = self.height - 14
+        c.setFont("Helvetica-Bold", 6.8)
+        c.setFillColor(tb.MUTED)
+        c.drawString(0, self.height - 8, self.title.upper())
+        y0, y1 = top - 10, top - 14 - self.step * len(self.rows)
+        c.setFillColor(RIVER)
+        c.setFont("Cal-BI", 8.6)
+        c.drawCentredString(cx, y0 + 2, self.trunk)
+        _arrow(c, cx, y0 - 2, cx, y1 - (6 if self.end else 0), RIVER, w=2.4, head=6)
+        for k, (side, trib, place) in enumerate(self.rows):
+            y = y0 - 18 - self.step * k
+            sgn = -1 if side == "L" else 1
+            tx = cx + sgn * 62
+            _arrow(c, tx, y + 10, cx + sgn * 3, y, RIVER, w=1.2, head=3.6)
+            c.setFillColor(RIVER)
+            c.setFont("Cal-I", 8)
+            (c.drawRightString if sgn < 0 else c.drawString)(tx + sgn * 2, y + 9, trib)
+            c.setFillColor(tb.GOLD_DEEP)
+            c.circle(cx, y, 2.6, stroke=0, fill=1)
+            c.setFillColor(tb.INK)
+            c.setFont("Cal-B", 8.2)
+            (c.drawString if sgn < 0 else c.drawRightString)(cx - sgn * 7, y - 3, place)
+        if self.end:
+            c.setFillColor(tb.NAVY)
+            c.setFont("Cal-B", 8.8)
+            c.drawCentredString(cx, y1 - 16, self.end)
 
 S, inline = tb.S, tb.inline
 HOT = colors.HexColor("#b03a2e")
@@ -86,14 +220,16 @@ def parse(path):
             ch["blocks"].append(("section", l[8:].strip().replace(" | ", "  ")))
         elif l.startswith("@up"):
             ch["blocks"].append(("up", l[3:].strip()))
-        elif l.startswith(("@hot", "@table", "@trap", "@last")):
+        elif l.startswith(("@hot", "@table", "@trap", "@last", "@flow", "@join")):
             kind = l[1:].split()[0]
+            if kind in ("flow", "join"):
+                ttl = l[len(kind) + 1:].strip()
             body = []
             i += 1
             while not lines[i].startswith("@end"):
                 body.append(lines[i])
                 i += 1
-            ch["blocks"].append((kind, body))
+            ch["blocks"].append((kind, (ttl, body) if kind in ("flow", "join") else body))
         elif l.startswith("- "):
             ch["blocks"].append(("pt", l[2:]))
         elif l.strip():
@@ -134,6 +270,10 @@ def chapter_flowables(ch):
         elif kind == "trap":
             out.append(tb.boxed([Paragraph("TRAP ALERT", S["boxlabel"])] + lines_to_pointers(data, "ptbox"),
                                 tb.TRAP_BG, tb.TRAP_BD))
+        elif kind == "flow":
+            out += [Spacer(1, 3), FlowChart(*data), Spacer(1, 8)]
+        elif kind == "join":
+            out += [Spacer(1, 3), Confluence(*data), Spacer(1, 8)]
         elif kind == "last":
             items = [l.strip()[2:] if l.strip().startswith("- ") else l.strip() for l in data if l.strip()]
             paras = [Paragraph(inline(t), S["num"], bulletText=f"{k}.") for k, t in enumerate(items, 1)]

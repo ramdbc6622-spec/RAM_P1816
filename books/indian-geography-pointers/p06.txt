@@ -31,17 +31,31 @@ Superimposed | Let down onto older rocks | Chambal, Son, Banas
 - In Bangladesh the Ganga is the **Padma**; the Bhagirathi-Hooghly branch flows past Kolkata {2016}
 - Ganga pollution comes from **sewage and industrial waste** (Kanpur tanneries); "holier = more polluted" is false {2005}
 
-@table
-Panch Prayag (upstream to downstream) | Alaknanda meets
-Vishnuprayag | Dhauliganga
-Nandprayag | Nandakini
-Karnaprayag | Pindar
-Rudraprayag | Mandakini
-Devprayag | Bhagirathi (becomes Ganga)
+@join Panch Prayag: where the Alaknanda's tributaries join
+trunk: Alaknanda (from Satopanth glacier)
+L|Dhauliganga|Vishnuprayag
+R|Nandakini|Nandprayag
+L|Pindar|Karnaprayag
+R|Mandakini|Rudraprayag
+L|Bhagirathi|Devprayag
+end: = GANGA (from Devprayag)
 @end
 
 @trap
 - **Devprayag** (Bhagirathi) and **Rudraprayag** (Mandakini) are the usual swap. Tehri is **Bhagirathi + Bhilangna**, not an Alaknanda confluence.
+@end
+
+@flow Course of the Ganga, source to sea
+Gaumukh (Gangotri glacier) | Rises as the Bhagirathi, Uttarkashi
+Devprayag | Meets the Alaknanda; called Ganga from here
+Haridwar | Enters the plains
+Kannauj (UP) | Ramganga joins (left bank)
+Prayagraj | Yamuna joins at the Sangam (right bank)
+Kaithi, Ghazipur (UP) | Gomti joins
+Patna region (Bihar) | Son, Gandak and others join
+Farakka | Splits: Bhagirathi-Hooghly flows past Kolkata
+Bangladesh | Called the Padma; meets the Jamuna, then the Meghna
+Bay of Bengal | Ganga-Brahmaputra delta, the world's largest
 @end
 
 @section 6.3 | Tributaries of the Ganga
@@ -68,12 +82,29 @@ Yamuna | Right | Prayagraj (Sangam)
 Son | Right | Near Patna
 @end
 
+@join Yamuna's tributaries, west to east (asked 2020)
+trunk: Yamuna (from Yamunotri)
+L|Hindon|Near Noida-Ghaziabad
+R|Chambal|Pachnada, near Etawah
+R|Sindh|Pachnada
+R|Betwa|Hamirpur
+R|Ken|Chilla, Banda
+end: joins the Ganga at Prayagraj
+@end
+
 @up Gomti (Pilibhit to Lucknow to Jaunpur to Kaithi), the Yamuna's Bundelkhand tributaries (Chambal near Etawah, Betwa at **Hamirpur**, Ken at Chilla in **Banda**) and the Kanpur-Prayagraj-Varanasi stretch of the Ganga are UP's most-asked river facts.
 
 @section 6.4 | Ken-Betwa and Bundelkhand
 - **Ken-Betwa Link**: **UP and MP**, MoU **2005**; India's **first** river-interlinking project; foundation stone **25 Dec 2024** {2006}
 - **Betwa** joins the **Yamuna** (at Hamirpur) {2014}
 - **Rajghat dam** (Lalitpur, joint UP-MP project) is on the **Betwa** {2006, 2015}
+
+@flow Ken-Betwa Link: direction of water
+Ken river | Daudhan dam, Panna (MP)
+Link canal (221 km) | Carries surplus Ken water north-west
+Betwa river | Feeds Bundelkhand: Jhansi, Lalitpur, Mahoba, Banda (UP)
+Yamuna | Betwa joins it at Hamirpur
+@end
 
 @trap
 - Water goes **from the Ken to the Betwa** (Daudhan dam on the Ken). Both are tributaries of the **Yamuna**, not the Ganga.
@@ -85,12 +116,11 @@ Son | Right | Near Patna
 - **Teesta** was once a Ganga tributary; after the **1787 flood** it joined the **Brahmaputra**: **river capture** (A and R true, R explains A) {2021}
 - **Sankosh** forms the **Assam-West Bengal** boundary {2007}
 
-@table
-Stage | Name of the Brahmaputra
-Tibet | Yarlung Tsangpo
-Arunachal Pradesh | Siang / Dihang
-Assam | Brahmaputra
-Bangladesh | Jamuna
+@flow One river, four names: the Brahmaputra
+Yarlung Tsangpo | Tibet; rises at Chemayungdung glacier near Mansarovar
+Siang / Dihang | Great bend round Namcha Barwa into Arunachal Pradesh
+Brahmaputra | Assam, after the Dibang and Lohit join near Sadiya; Majuli island
+Jamuna | Bangladesh; joins the Padma, then the Meghna
 @end
 
 @section 6.6 | The Indus System
