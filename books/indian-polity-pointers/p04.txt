@@ -1,0 +1,68 @@
+@chapter 4 | Sources of the Constitution
+@meta Built from 13 UPPSC questions (1998–2021). Focus: country-feature pairs, judicial review, federation, Concurrent List, DPSP.
+
+@hot
+- **USA**: judicial review, Preamble idea, Fundamental Rights {1998, 2006, 2008, 2010, 2012, 2014, 2015, 2017}
+- **Australia**: **Concurrent List** {2011, 2012, 2014, 2015}
+- **Canada**: federation with a strong Centre, "Union of States" (British North America Act) {2006, 2017, 2017}
+- **Ireland**: DPSP and nomination to Rajya Sabha {1998, 1998, 2004}
+@end
+
+@section 4.1 | USA
+- **Judicial review**: **USA** {1998}; exists in **India and USA** {2008, 2012}
+- Idea of a **Preamble**: **USA** {2015}
+- **Fundamental Rights**: **USA** {2006, 2010, 2014, 2017}
+- India's Constitution is the longest; FRs from the USA (both true, R not the explanation) {2015}
+
+@section 4.2 | Canada
+- **Federal system**: **Canada** {2006, 2017}
+- "**Union of States**": the **British North America Act** (Canada) {2017}
+
+@section 4.3 | Australia
+- **Concurrent List**: **Australia** {2011, 2012, 2014, 2015}
+
+@section 4.4 | Ireland
+- **DPSP**: **Ireland** {1998, 2004}
+- Nomination of talent to the **Rajya Sabha**: **Ireland** {1998}
+
+@section 4.5 | USSR
+- **Fundamental Duties**: **USSR** {2004}
+
+@section 4.6 | Mixed Pairs
+- Wrong pair: **residuary powers-Australia** (it is **Canada**) {2021}
+- Match: **Rule of Law-England, procedure established by law-Japan, Governor reserving bills-Canada, Concurrent List-Australia** {2010}
+
+@table
+Country | Borrowed feature
+Britain | Parliamentary system, rule of law, single citizenship, writs, bicameralism
+USA | FRs, judicial review, Preamble, impeachment, VP as RS chair
+Canada | Strong-Centre federation, residuary with Centre, Governor appointed
+Australia | Concurrent List, joint sitting, trade and commerce
+Ireland | DPSP, RS nomination, President's election
+USSR | Fundamental Duties, five-year plans
+France | Republic; Liberty, Equality, Fraternity
+Germany (Weimar) | Suspension of FRs in Emergency
+South Africa | Amendment procedure; RS election
+Japan | Procedure established by law
+@end
+
+@trap
+- Preamble **idea** = USA; Liberty-Equality-Fraternity **words** = France.
+- Federation = **Canada**; Concurrent List = **Australia**; residuary = **Canada**.
+- Rights = USA; **Duties** = USSR. "Procedure established by law" = **Japan**, not USA.
+@end
+
+@up No UP-specific item. Note the UP link in Concurrent List subjects (education, forests) that UP legislates on with the Centre.
+
+@last
+- Judicial review, FRs, Preamble idea = **USA**
+- Federation, Union of States, residuary = **Canada**
+- Concurrent List, joint sitting = **Australia**
+- DPSP, RS nomination, President's election = **Ireland**
+- Fundamental Duties = **USSR**
+- Procedure established by law = **Japan**
+- Emergency suspension of FRs = **Germany**
+- Amendment, RS election = **South Africa**
+- Rule of law, parliamentary system = **Britain**
+- Republic, Liberty-Equality-Fraternity = **France**
+@end

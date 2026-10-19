@@ -1,0 +1,59 @@
+@chapter 3 | Important Committees of the Constituent Assembly
+@meta Built from 8 UPPSC questions (1991–2025). Focus: committee chairmen, Drafting Committee members and date.
+
+@hot
+- **Drafting Committee**: chairman **Ambedkar**, **6 other members**, set up **29 August 1947** {2008, 2008, 2012, 2014, ?}
+- Chairmen: **Union Constitution-Nehru, Provincial Constitution-Patel, Rules of Procedure-Rajendra Prasad, FR sub-committee-Kripalani** {2008, 2025}
+@end
+
+@section 3.1 | Committee Chairmen
+- Match: **Union Constitution-Nehru, Rules of Procedure-Rajendra Prasad, Drafting-Ambedkar, FR sub-committee-J.B. Kripalani** {2025}
+- Provincial Constitution Committee: **Sardar Patel** {2008}
+- Drafting Committee chairman: **Dr. B.R. Ambedkar** {?}
+
+@table
+Committee | Chairman
+Union Powers; Union Constitution; States | Nehru
+Provincial Constitution; Advisory (FR, minorities) | Patel
+Rules of Procedure; Steering; Flag (ad hoc); Finance | Rajendra Prasad
+Drafting | B.R. Ambedkar
+FR sub-committee | J.B. Kripalani
+Minorities sub-committee | H.C. Mukherjee
+Order of Business | K.M. Munshi
+@end
+
+@section 3.2 | Drafting Committee
+- Members besides Ambedkar: **6** {2008}
+- Members included **N. Gopalaswami Ayyangar and Alladi Krishnaswami Ayyar** {2014}
+- Not a member: **Jawaharlal Nehru** {2012}
+- Set up: **29 August 1947** {2008}
+
+@flow Drafting Committee (7 members)
+B.R. Ambedkar | Chairman
+N. Gopalaswami Ayyangar, Alladi Krishnaswami Ayyar | Members
+K.M. Munshi, Syed Mohd. Saadullah | Members
+N. Madhava Rao | Replaced B.L. Mitter
+T.T. Krishnamachari | Replaced D.P. Khaitan (died 1948)
+@end
+
+@section 3.3 | National Flag Committee
+- Chairman of the (ad hoc) National Flag Committee: **Dr. Rajendra Prasad** {1991}
+
+@trap
+- **Union** Constitution = Nehru; **Provincial** Constitution = Patel.
+- Nehru, Patel, Prasad were **not** on the Drafting Committee; **Munshi** was.
+- Congress Flag Committee 1931 = Patel; Constituent Assembly Flag Committee = Prasad.
+@end
+
+@up No direct UP item. **Govind Ballabh Pant** of UP moved the motion creating the Advisory Committee on Fundamental Rights and Minorities (chaired by Patel).
+
+@last
+- Drafting Committee: **Ambedkar + 6**, set up **29 Aug 1947**
+- Members: Gopalaswami Ayyangar, Alladi Krishnaswami Ayyar, Munshi
+- Nehru = Union Powers, Union Constitution, States
+- Patel = Provincial Constitution, Advisory
+- Prasad = Rules, Steering, Flag
+- Kripalani = FR sub-committee
+- Nehru not on Drafting Committee
+- Madhava Rao and T.T. Krishnamachari = replacements
+@end

@@ -1,0 +1,163 @@
+@chapter 12 | Fundamental Rights
+@unit UNIT III · RIGHTS AND DUTIES
+@meta Built from 76 UPPSC questions (1992–2024). Focus: Article groups, Articles 14-32, writs, Right to Property, citizens-only rights, basic structure.
+
+@hot
+- **Right to Property** removed from FRs by the **44th Amendment** (1978); now **Art 300A** {1992, 1996, 2004, 2004, 2007, 2010, 2013, 2013, 2014, 2015}
+- **Art 17** abolishes untouchability {1994, 2003, 2013, 2015, 2017}
+- **Art 24**: no child labour in factories and mines {2005, 2009, 2011, 2017, ?}
+- **Guardian of FRs**: **Supreme Court / judiciary** (not the President) {1992, 2004, 2010, 2012, 2013, 2015, 2015}
+- **Art 32** = "heart and soul" (Ambedkar) {2004, 2010, 2010, 2016}
+- **Basic structure**: **Kesavananda Bharati** (1973) {2007, 2013, 2015}
+@end
+
+@section 12.1 | Origin and Nature
+- **Nehru Report (1928)** advocated FRs {2009}
+- "A pledge to our people and a pact with the civilised world": **Dr. S. Radhakrishnan** {2021}
+- Rights are **claims of citizens against the State** {2017}
+- FRs guard against State action, are in Part III, aim at justice (1, 2, 3 correct) {1998}
+- Incorrect: right to die is an FR, Constitution wholly federal, FRs can be abrogated (B, C, D) {2023}
+
+@section 12.2 | Scheme of Part III
+- FRs in **Articles 12 to 35** {2015}
+- Not among the six FRs: **right to protest** {2015}
+- **Freedom of Religion-Arts 23-24** is wrong (it is **25-28**) {2023}
+- **Arrest and detention-Art 23** is wrong (it is **Art 22**) {2016}
+- **Titles-18, religious affairs-26, minority language-29, education-21A** {2019}
+
+@table
+Right | Articles
+Equality | 14-18
+Freedom | 19-22
+Against exploitation | 23-24
+Freedom of religion | 25-28
+Cultural and educational | 29-30
+Constitutional remedies | 32
+@end
+
+@section 12.3 | Article 13 and Basic Structure
+- Art 13 secures the Constitution's paramountcy for **FRs** {1999}
+- Basic structure doctrine: **Kesavananda Bharati** {2013, 2015}
+- **Duties-42nd Amendment, Parliament can amend FRs-Kesavananda, basic structure-Minerva Mills, trafficking-Art 23** {2007}
+
+@flow Amending FRs: the case trail
+Shankari Prasad 1951 | Parliament can amend FRs
+Golaknath 1967 | Parliament cannot amend FRs
+24th Amendment 1971 | Undid Golaknath
+Kesavananda 1973 | Can amend, not the basic structure
+Minerva Mills 1980 | Reaffirmed; FR-DPSP balance
+@end
+
+@section 12.4 | Emergency
+- FRs **can be suspended** during Emergency {2002}
+- Not suspendable: **right to life and personal liberty** (Arts 20, 21; 44th Amendment) {2008}
+
+@section 12.5 | Right to Equality
+- Five Articles: **14 to 18** {2014, 2015}
+- Equality from **Arts 14, 15, 16** (not Art 13) {2009}
+- Not included: **economic equality** {2008}
+- Odd one out: **Art 19** (freedom group) or Art 14 (all persons) (*) {2000}
+- State may treat unequals differently; equal law among equals (R explains A) {2016}
+
+@section 12.6 | Article 14 and Equal Pay
+- Absolute limit on legislative power: **Art 14** {1999}
+- Equality before law: **Art 14** {2015}
+- Equal pay for equal work deduced from **Arts 14, 16 + Preamble ("socialist")** {1999, 2001, 2002}
+
+@section 12.7 | Articles 15 and 16
+- **Champakam Dorairajan** (1951) led to amending the **right against discrimination** (Art 15(4), 1st Amendment) {1997}
+- Equal opportunity in public employment: **Art 16(1) and 16(2)** {2009}
+- "Descent, residence" in non-discrimination in State jobs: **Art 16(2)** {2023}
+
+@section 12.8 | Articles 17 and 18
+- Untouchability abolished: **Art 17** {1994, 2003, 2013, 2015, 2017}
+- Achieved by **laws, education, awareness** (1, 2, 3) {1992}
+- Untouchability is structural violence rooted in religious sanction (R explains A) {2019}
+
+@section 12.9 | Article 19
+- Right to Freedom: **Arts 19-22** {2016}
+- Not under Art 19 now: **right to property** (19(1)(f) deleted) {2024}
+- Freedom of the **press**: **Art 19(1)(a)** {2001, 2004}
+
+@section 12.10 | Articles 20 and 22
+- No self-incrimination: **Art 20(3)** {2004}
+- Double jeopardy: **Art 20** {2010}
+- Not in Art 20: **prohibition against torture** (from Art 21) {2023}
+- Rights of arrested persons: **Art 22** {2013}
+- Preventive detention without Advisory Board: **3 months** {2009, 2013}
+
+@section 12.11 | Articles 21 and 21A
+- Due process (as read now): **Art 21** {2014}
+- Travel abroad: **Art 21** {1997}
+- Recognised FRs: **shelter, travel abroad, equal pay** {1998}
+- Under 19(1)(d) with 21: **right to privacy** {2003, 2004}
+- Not under Art 21: **capital punishment** {2017}
+- Education for 6-14: a **Fundamental Right** (Art 21A, 86th Amendment, 2002) {2006}
+- Free education 6-14; education key to development (R explains A) {2016}
+
+@section 12.12 | Against Exploitation
+- Covers **trafficking and forced labour, child labour in factories** (2, 3) {2024}
+- Child exploitation: **Art 24** {2005, 2009, 2011, 2017}; children in factories: **Art 24** {?}
+- **Bonded Labour** abolished by an Act of **1976** {2001, 2010}
+- Child labour in hazardous work banned by all listed (Constitution and UN) {2002, 2003}
+
+@section 12.13 | Freedom of Religion
+- Includes **propagation, Sikhs' kirpans, social-reform laws**; not conversion by bodies {2001}
+- **Art 25**: freedom of religion {1996}
+- "Hindu" in Art 25 excludes **Parsis** (includes Sikh, Jain, Buddhist) {2014}
+
+@section 12.14 | Cultural and Educational
+- **Art 29-minority educational institutions** is wrong (that is **Art 30**) {2009, 2015}
+- Minorities' right to run educational institutions: **Art 30** {1997, 2017}
+- "Minorities" not defined; only religious and linguistic recognised (both true, R not the explanation) {2019}
+
+@section 12.15 | Article 32
+- Guardian of FRs: **judiciary** {2010, 2012, 2015}; **Supreme Court** {1992, 2004, 2015}
+- Not correct: **President** is guardian of FRs {2013}
+- Art 32 enforces **FRs** only {1997}
+- "Heart and soul": **right to constitutional remedies** {2004, 2010, 2010}; Art 32 gives a remedy (R explains A) {2016}
+
+@section 12.16 | Writs
+- Greatest safeguard of liberty: **habeas corpus** {2015}; issued by High Court for liberty {2015}
+- **Prohibition-"to be certified"** is wrong (that is certiorari) {2019}
+- Order to perform duty: **mandamus** {2001, 2007}
+
+@table
+Writ | Meaning
+Habeas corpus | "Have the body"; against unlawful detention
+Mandamus | "We command"; perform public duty
+Prohibition | "To forbid"; stops a lower court midway
+Certiorari | "To be certified"; quashes an order made
+Quo warranto | "By what authority"; illegal holding of office
+@end
+
+@section 12.17 | Right to Property
+- Omitted by the **44th Amendment** {2004, 2004, 2010, 2013, 2013, 2015}; removed from FRs {2007, 2014}
+- Now a **constitutional legal right** (Art 300A) {1992, 1996}
+
+@section 12.18 | Citizens vs All Persons
+- Not for foreigners: **freedom of expression** {2007, 2015}
+- For all persons: **equal protection of laws** {2010}
+- Not for all persons: **non-discrimination, free movement, contesting elections** (2, 3, 4) {2002}
+
+@trap
+- Religion = **25-28**; exploitation = **23-24**; Art 29 = culture, **Art 30** = minority institutions.
+- Art 20 has 3 clauses; torture protection is from **Art 21**.
+- **Kesavananda** propounded basic structure; **Minerva** reaffirmed; **Golaknath** barred amending FRs.
+- Citizens only: **15, 16, 19, 29, 30**.
+@end
+
+@up UP links: the **Kesavananda** era 24th-25th Amendments followed **Indira Gandhi v. Raj Narain** (Allahabad HC, 1975); Allahabad HC hears many **Art 226** writs. UP's Anti-Conversion Act 2021 is tested against **Art 25**.
+
+@last
+- FRs: Arts **12-35**; six groups
+- Equality **14-18**; Freedom **19-22**; Religion **25-28**
+- **17** untouchability; **24** child labour; **23** trafficking
+- **21A** education 6-14 (86th, 2002)
+- **20(3)** self-incrimination; **22** arrest; 3 months detention
+- Property out by **44th**; now **Art 300A**
+- **Art 32** = heart and soul; SC = guardian
+- Habeas corpus = liberty; mandamus = duty; certiorari = "to be certified"
+- Kesavananda = basic structure; Parsis not "Hindu"
+- Arts 20, 21 never suspended
+@end

@@ -1,0 +1,87 @@
+@chapter 2 | Constituent Assembly and Making of the Constitution
+@meta Built from 33 UPPSC questions (1990–2023). Focus: who proposed and set up the Assembly, key dates, B.N. Rau, Objectives Resolution, critics.
+
+@hot
+- **9 December 1946** = Assembly's first meeting, chaired by **Sachchidananda Sinha** {1990, 1990, 1990, 1995, 2011, 2013}
+- **26 November 1949** = adopted, enacted, completed; **26 January 1950** = in force {1990, 2002, 2006, 2010, 2012, 2013, 2015}
+- **B.N. Rau** = Constitutional Adviser and first draft {1998, 2009, 2014}
+- **Cabinet Mission 1946** set up the Assembly; one seat per **10 lakh** people {2001, 2002, 2003, 2009}
+- Idea of an Assembly: **M.N. Roy**; elected Assembly proposed by **Cripps Mission** {2001, 2008, 2010, 2017}
+@end
+
+@section 2.1 | Idea and First Acceptance
+- Idea of a Constituent Assembly: **M.N. Roy** (1934) {2001, 2017}
+- Proposal for an elected Assembly: **Cripps Mission** (1942) {2008, 2010}
+
+@section 2.2 | Cabinet Mission and Composition
+- Assembly set up under the **Cabinet Mission, 1946** {2009}
+- Not a Cabinet Mission member: **William Wood** (members: Pethick-Lawrence, Cripps, A.V. Alexander) {2015}
+- One member per **10 lakh** population {2001, 2002, 2003}
+- Members elected **indirectly by Provincial Assemblies** {1993}
+- Women members: **15** {2014}
+- Strength: **389** originally; **299** after Partition
+
+@section 2.3 | Interim Government, 1946
+- Announced: **24 August 1946**; took office 2 September 1946 {2022}
+- Not a member: **Dr. S. Radhakrishnan** {2010}
+
+@section 2.4 | First Meeting and President
+- First meeting chaired by **Dr. Sachchidananda Sinha** (temporary President) {1990, 2013}
+- Permanent President: **Dr. Rajendra Prasad** (11 December 1946) {?}
+- First meeting: **9 December 1946** {1990, 1995, 2011, 1990}
+
+@section 2.5 | Objectives Resolution
+- Moved by **Nehru** on 13 December 1946 {2007}; adopted **22 January 1947** {1998}
+- True: the Objectives Resolution shaped the Constitution; Preamble states objectives; people gave the Constitution. False: Head of State directly elected {2010}
+
+@section 2.6 | B.N. Rau and Readings
+- Constitutional Adviser: **B.N. Rau** {1998, 2014}; first draft by **B.N. Rau** {2009}
+- Third reading began **17 November 1949** (some texts 14 November) (*) {2014}
+
+@flow From Assembly to Republic
+9 Dec 1946 | First meeting (Sinha)
+13 Dec 1946 | Objectives Resolution moved
+22 Jan 1947 | Resolution adopted
+29 Aug 1947 | Drafting Committee set up
+26 Nov 1949 | Adopted and enacted
+24 Jan 1950 | Last meeting; signed
+26 Jan 1950 | Came into force
+@end
+
+@section 2.7 | Adoption and Commencement
+- Completed and adopted: **26 November 1949** {2002, 2006, 2010}
+- Came into force: **26 January 1950** {1990}
+- Enacted by the **Constituent Assembly** {2012}; adopted and enacted 26 November 1949 {2013, 2015}
+- Order: **first meeting, Drafting Committee, adoption, commencement** {2023}
+
+@section 2.8 | Sessions and Time
+- Sessions: **11** for framing; key says **12** (counting 24 Jan 1950) {2005}
+- Last meeting: **24 January 1950** {2018}
+- Time taken: **2 years, 11 months, 18 days** {2007}
+
+@section 2.9 | Nature and Critics
+- Constitution provides for all needs; called a "borrowed" Constitution (both true, R not the explanation) {2008}
+- Founding Fathers minimised minority interests: **Ivor Jennings** {2004}
+- "Assembly was Congress and Congress was India": **Granville Austin** {2013}
+- Congress should be disbanded after independence: **Mahatma Gandhi** {2011}
+
+@trap
+- **Proposed** an elected Assembly = Cripps (1942); **set up** = Cabinet Mission (1946).
+- First meeting chair = **Sinha**; President = **Rajendra Prasad**; Drafting Committee = **Ambedkar**; first draft = **B.N. Rau**.
+- 26 Nov 1949 = adopted; 26 Jan 1950 = in force; 24 Jan 1950 = signed, last meeting.
+@end
+
+@up UP (United Provinces) sent the largest provincial group to the Assembly; **Govind Ballabh Pant** moved the resolution on minorities' advisory committee. Allahabad's **Purushottam Das Tandon** argued for Hindi.
+
+@last
+- Idea = **M.N. Roy**; proposal = **Cripps**; set up = **Cabinet Mission**
+- 1 seat per **10 lakh**; indirectly elected; 15 women
+- Interim Govt announced **24 Aug 1946**
+- First meeting **9 Dec 1946** under **Sinha**
+- President **Rajendra Prasad**; adviser **B.N. Rau**
+- Objectives Resolution: moved 13 Dec 1946, adopted **22 Jan 1947**
+- Adopted **26 Nov 1949**; in force **26 Jan 1950**
+- Last meeting **24 Jan 1950**
+- Time: **2 y 11 m 18 d**; 11 sessions (key 12)
+- Austin = "Assembly was Congress"; Jennings = minorities minimised
+@end

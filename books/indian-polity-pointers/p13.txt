@@ -1,0 +1,107 @@
+@chapter 13 | Directive Principles of State Policy
+@meta Built from 35 UPPSC questions (1994–2025). Focus: welfare state, Irish source, non-justiciability, Article-subject pairs, equal pay, added DPSPs, spot-the-DPSP.
+
+@hot
+- DPSP borrowed from **Ireland** {1994, 2005, 2008, 2015}
+- **Welfare state** = DPSP (and Preamble) {1997, 2004, 2004, 2013}
+- **Equal pay for equal work** = DPSP, **Art 39(d)**, not an FR {1998, 2004, 2010, 2012, 2014}
+- **Art 40** = village panchayats {2001, 2002, 2014, 2017}
+- **Art 43A** = workers in management (42nd) {2009, 2019}
+- **Uniform Civil Code** (Art 44) is a DPSP, original {1998, 2010, 2010}
+@end
+
+@section 13.1 | Objectives
+- DPSPs aim at economic and social democracy (R explains A) {2025}
+- Not an objective: **a religious state** {2013, 2017}
+- Welfare state: **DPSP** {2004, 2004, 2013}; in both **Preamble and DPSP** {1997}
+
+@section 13.2 | Source and Types
+- Source: **Ireland** {1994, 2005, 2008, 2015}
+- Classified as **socialist, Gandhian, liberal-intellectual** (all) {2018}
+
+@section 13.3 | Nature (Art 37)
+- **Not enforceable** by courts, yet **fundamental in governance** (both true) {2023}
+- DPSPs are **non-justiciable** {2004}
+- "A cheque payable at the bank's convenience": **K.T. Shah** {2007}
+
+@section 13.4 | Article Map
+- Village panchayats: **Art 40** {2014, 2017}
+- **Art 40-village panchayats, 41-right to work, 44-UCC, 48-agriculture** {2001, 2002}
+- **Art 48-separation of judiciary** is wrong (it is **Art 50**) {2020}
+- **Co-operatives-Art 43A** is wrong (it is **43B**) {2021}
+
+@table
+Article | Directive
+38 | Social order, reduce inequality
+39 | Livelihood, equal pay (d), wealth not concentrated (b, c)
+39A | Free legal aid (42nd)
+40 | Village panchayats
+41 / 42 / 43 | Work, education, aid / Maternity relief / Living wage, cottage industry
+43A / 43B | Workers in management (42nd) / Co-operatives (97th)
+44 | Uniform Civil Code
+45 | Care under 6 (86th)
+46 / 47 | SC, ST, weaker sections / Nutrition, prohibition
+48 / 48A | Agriculture, cattle / Environment (42nd)
+49 / 50 / 51 | Monuments / Separate judiciary / International peace
+@end
+
+@section 13.5 | Article 39
+- Equal pay for equal work: a **DPSP** {1998, 2004, 2010}; included in DPSP {2012}
+- Not an FR: **equal pay for equal work** {2014}
+- Protection from exploitation for **children, women, tribals** (1, 2, 3) {2009}
+
+@section 13.6 | Right to Work
+- MGNREGA gives 100 days; right to work is **not** in Part III (A true, R false) {2013}
+- MGNREGA implements **Art 43** (with 41) {2009, 2010}
+- Update: MGNREGA replaced by **VB-G RAM G Act 2025** (125 days), from 1 July 2026
+
+@section 13.7 | Education
+- Not a DPSP now: free education up to 14 (moved to **Art 21A**) {2010}
+- Not a DPSP: free education up to **16** (never in Constitution) {2013}
+- DPSPs silent on **adult education** {2008}
+
+@section 13.8 | Environment
+- Environment, forests, wildlife: in **both** DPSP (48A) and Duties (51A(g)) {2019, 2023}
+- "State shall endeavour to protect the environment": a **DPSP** {2009}
+
+@section 13.9 | Article 51
+- International peace and security: **DPSP** {2017}; foreign policy: **Art 51** {2016}
+
+@section 13.10 | Added Later
+- Workers in management: **Art 43A** (42nd) {2009, 2019}
+- Not added by 42nd: **Uniform Civil Code** (original) {1998}
+- Added later: **free legal aid** (39A) {2014}
+
+@flow DPSPs added by amendments
+42nd (1976) | 39(f) children, 39A legal aid, 43A workers, 48A environment
+44th (1978) | 38(2) reduce income inequality
+86th (2002) | 45 early childhood care
+97th (2011) | 43B co-operative societies
+@end
+
+@section 13.11 | Spot the DPSP
+- A DPSP: **Uniform Civil Code** {2010, 2010}
+- DPSP of the list: only **prohibition of liquor** (others are FRs) {2002}
+- Not a DPSP: **abolition of untouchability** (Art 17) {2008}
+- Not a DPSP: **right to information** {2006, 2010}
+
+@trap
+- **43** living wage, **43A** workers in management, **43B** co-operatives.
+- **48** agriculture and cattle; **50** separation of judiciary; **48A** environment (State) vs **51A(g)** (citizen).
+- **Art 51** foreign policy (DPSP) vs **51A** Duties.
+@end
+
+@up **Art 40** is the base of UP's 3-tier Panchayati Raj. **Uttarakhand** (carved from UP) became the first State to enact a **UCC** (2024, in force January 2025). UP's prohibition debates link to **Art 47**.
+
+@last
+- DPSP = **Ireland**; Part IV, Arts **36-51**
+- Non-justiciable (Art 37); "cheque" = **K.T. Shah**
+- Welfare state = DPSP + Preamble
+- Equal pay = **39(d)**, not FR
+- **40** panchayats; **44** UCC; **50** separation of judiciary
+- **43A** workers (42nd); **43B** co-operatives (97th)
+- **39A** legal aid; **48A** environment (42nd)
+- MGNREGA = **Art 43** (now VB-G RAM G)
+- Silent on adult education; no "16 years"
+- **Art 51** = international peace
+@end
