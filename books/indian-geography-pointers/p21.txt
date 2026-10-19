@@ -1,0 +1,155 @@
+@chapter 21 | Mineral Resources II: Coal, Petroleum and Natural Gas
+@meta Built from 59 UPPSC questions (1998–2025). Focus: coalfield-state and coalfield-valley matching, reserves vs production, oilfields, refinery-state matching, natural gas.
+
+@hot
+- **Coalfield matching** is the main format: **Talcher-Odisha, Singareni-Telangana, Korba/Bisrampur-Chhattisgarh, Sohagpur/Umaria-MP, Jharia/Karanpura-Jharkhand, Raniganj-WB, Namchik-Arunachal, Makum-Assam** {2008, 2010, 2010, 2016, 2016, 2017, 2019, 2023, 2024, 2025}
+- **Refinery matching**: **Numaligarh/Noonmati-Assam, Koyali/Jamnagar-Gujarat, Tatipaka-AP, Haldia-WB, Barauni-Bihar, Manali/Nagapattinam-TN** {2005, 2008, 2010, 2013, 2014, 2016, 2025}
+- **Gondwana** rocks give over **90%** of India's coal {2006, 2008, 2016, 2017}
+- Largest coal **producer**: **Odisha** (then Chhattisgarh) {2002, 2009, 2009, 2010, 2014}
+- **Gujarat** = leading onshore petroleum state; **Bombay High** gives most natural gas {2003, 2004, 2010, 2012, 2013}
+@end
+
+@section 21.1 | Coal: Reserves and Production
+- Main source of coal: **Gondwana** system {2006, 2008}; over **90%** of coal {2016, 2017}
+- India is a leading coal producer with vast reserves in **Jharkhand and Chhattisgarh** (both true) {2023}
+- Over half of proved reserves in **Jharkhand and Odisha**; key says both true, R not the explanation (resources are now about 361 bt, not 293.5) {2019}
+- Reserves order in 2014: Jharkhand first; **Odisha** leads in total resources now (*) {2014}
+- Key's order **Chhattisgarh, Jharkhand, Odisha, Maharashtra** fits **production**; proved reserves (2014) = Jharkhand, Odisha, Chhattisgarh, Maharashtra {2016}
+- Two leading producers: **Chhattisgarh and Odisha** {2010}
+- Production order 2008: Jharkhand, Chhattisgarh, Odisha, MP; now **Odisha, Chhattisgarh, MP, Jharkhand** (*) {2008}
+- Largest coal producer: **Odisha** {2002, 2009, 2014}
+- Top three producers: **Odisha, Chhattisgarh, MP** {2009}
+
+@flow Coal grades by carbon content
+Anthracite | 80-95%; best; little, in J&K
+Bituminous | 60-80%; most Gondwana coal; coking coal for steel
+Lignite (brown) | 40-55% (key: 35-40%); Neyveli
+Peat | Below 50%; first stage
+@end
+
+@section 21.2 | Coalfields and their States
+- **Chota Nagpur** industry grew around **coal** {2004}; it gave about **60%** of coal (then) {1998}
+- Valleys: **Damodar-Barakar, Son-Umaria, Godavari-Singareni, Mahanadi-Talcher** {2010}
+- Valleys: **Talcher-Mahanadi, Karanpura-Damodar, Singrauli-Son, Singareni-Godavari** {2019}
+- **Talcher**: **Odisha** {2010}
+- **Singareni-MP** is wrong (it is **Telangana**) {2023}
+- Correct: **Raniganj-WB, Ramgarh-Jharkhand, Talcher-Odisha**; **Maolong** is not Arunachal (it is in Meghalaya) {2025}
+- **Hutar-Jharkhand, Ib River-Odisha, Tatapani-Ramkola-Chhattisgarh, Umaria-MP** {2024}
+- **Karanpura-Jharkhand, Singareni-AP (now Telangana), Neyveli-TN, Korba-Chhattisgarh** {2010}
+- **Rajmahal-Jharkhand, Sohagpur-MP, Bisrampur-Chhattisgarh, Raniganj-WB** {2017}
+- **Makum-Assam, Namchik-Arunachal, Giridih-Jharkhand, Sohagpur-MP** {2019}
+- **Namchik-Namphuk**: **Arunachal Pradesh** {2008}
+- **Jhilmili-Chhattisgarh, Karanpura-Jharkhand, Rampur Himgir-Odisha, Sohagpur-MP** {2016}
+- **Rangit Valley-Sikkim, Tandur-Telangana, Warora-Maharashtra, Lalmatia-Jharkhand** {2016}
+- **Bisrampur** is known for **coal** {2004, 2008}
+- Coalfield with the largest reserves: **Raniganj** {1999}
+- **Jharia**: **Jharkhand** (best coking coal) {2014}
+
+@table
+Coalfield | State | Valley
+Raniganj | West Bengal | Damodar
+Jharia, Bokaro, Giridih, Karanpura | Jharkhand | Damodar
+Rajmahal (Lalmatia), Hutar | Jharkhand | Rajmahal, North Koel
+Talcher, Ib River, Rampur-Himgir | Odisha | Mahanadi
+Korba, Bisrampur, Jhilmili, Tatapani | Chhattisgarh | Mahanadi, Son
+Singrauli, Sohagpur, Umaria | Madhya Pradesh | Son
+Singareni, Tandur | Telangana | Godavari
+Wardha, Kamptee, Warora | Maharashtra | Wardha
+Makum; Namchik-Namphuk | Assam; Arunachal | Tertiary coal
+@end
+
+@flow Coal history in order
+Raniganj | First coal production (1774)
+NCDC | National Coal Development Corporation, 1956
+Nationalisation | Coking 1971-72, non-coking 1973
+Coal India Ltd | Set up 1975
+@end
+
+- Order: **Raniganj, NCDC, nationalisation, CIL** {2023}
+
+@section 21.3 | Lignite and the Use of Coal
+- Lignite has about 35-40% carbon (true); **Jharkhand** is **not** the lignite leader (A true, R false) {2002}
+- Largest lignite deposit: **Tamil Nadu** {2013}; largest lignite field: **Neyveli** {2019}
+- **Jharkhand** does **not** have large lignite reserves {2017}
+- Most coal is used for **power (energy) generation** {2008}
+- Coal is a major part of inter-state rail traffic; Bengal-Jharkhand coal feeds the north-west (R explains A) {2010}
+
+@section 21.4 | Petroleum: Oilfields
+- First oil well: **Makum** (1867) per the original key; revised key **Digboi** (oil struck 1889, refinery 1901) {2013}
+- Leading petroleum producer (onshore): **Gujarat** {2003, 2004, 2010}
+- **Ankleshwar**: **petroleum** {2004}
+- **Navgam** oilfield: **Gujarat** {2013}
+- Wrong fact: Bombay High is **not** 60 km off Mumbai (it is about 176 km) {2014}
+
+@table
+Region | Oil and gas fields
+Assam | Digboi, Naharkatiya, Moran, Lakwa, Rudrasagar
+Gujarat | Ankleshwar, Kalol, Navagam, Mehsana, Lunej
+Rajasthan (Barmer) | Mangala, Bhagyam, Aishwariya
+Offshore Mumbai | Mumbai High, Bassein (gas), Panna-Mukta
+KG basin | KG-D6 (gas), Ravva
+@end
+
+@section 21.5 | Refineries
+- Biggest refinery: **Jamnagar** (Gujarat) {2016}
+- **Hatia** has no refinery (it is the Ranchi heavy-engineering town) {2010}
+- **Noonmati** (Guwahati): **Assam** {2008}
+- **Panagudi-Tamil Nadu** is the correct pair {2006}
+- **Nayara-Gujarat, Manali-TN, Numaligarh-Assam, Tatipaka-AP** {2025}
+- **Haldia-WB, Jamnagar-Gujarat, Kochi-Kerala, Numaligarh-Assam** {2005}
+- **Numaligarh-Assam, Tatipaka-AP, Koyali-Gujarat, Barauni-Bihar** {2010}
+- **Tatipaka**: **Andhra Pradesh** {2016}
+- **Noonmati-Assam, Koyali-Gujarat, Mangalore-Karnataka, Panipat-Haryana** {2014}
+- **Tatipaka-AP, Koyali-Gujarat, Nagapattinam-TN, Numaligarh-Assam** {2013}
+- **Koyali**: **Gujarat** (near Vadodara) {2016}
+
+@table
+Refinery | State
+Digboi (1901), Noonmati, Bongaigaon, Numaligarh | Assam
+Barauni | Bihar
+Haldia | West Bengal
+Koyali, Jamnagar, Vadinar (Nayara) | Gujarat
+Mathura | Uttar Pradesh
+Panipat | Haryana
+Mangaluru | Karnataka
+Kochi | Kerala
+Manali, Nagapattinam | Tamil Nadu
+Visakhapatnam, Tatipaka | Andhra Pradesh
+@end
+
+@section 21.6 | Strategic Reserves and Natural Gas
+- Strategic reserves at **Visakhapatnam, Mangaluru, Padur**; **Ankleshwar** not chosen {2008}
+- "Hydrocarbon Vision 2025" (key: "Hydrogen") = **storage/warehousing of petroleum** {2004}
+- Oil exploration: **Oil India Ltd** (with ONGC) {2004}
+- **HBJ** pipeline carries gas from the **South Basin** (Bassein) {2006}; built by **GAIL** {2014}
+- Reliance's huge gas find: **coastal Andhra** (KG basin) {2002}
+- **KG-D6**: **gas** {2011}
+- Most natural gas: **Bombay High** {2012, 2013}
+
+@flow HBJ gas pipeline (GAIL, 1987)
+Bombay High / South Bassein | Offshore gas
+Hazira | Gujarat landfall
+Bijaipur | Madhya Pradesh
+Jagdishpur | Uttar Pradesh (fertiliser, power plants)
+@end
+
+@trap
+- Coal "first" depends on the word: **resources** = Odisha; **production** = Odisha; **coking coal** = Jharkhand (Jharia); **field with the largest reserves** = Raniganj.
+- **Hatia** is not a refinery; **Haldia** is West Bengal, not Odisha; **Singareni** is Telangana, not MP; **Maolong (Mawlong)** is Meghalaya.
+- **Ankleshwar** is an oilfield, not a strategic reserve site.
+@end
+
+@up UP has the **Mathura** refinery (IOC, 1982), the **Singrauli** coalfield's UP part in **Sonbhadra** (feeding Anpara, Obra, Rihand, Singrauli power plants), and the end of the **HBJ pipeline at Jagdishpur** (Amethi), which feeds gas plants such as **Auraiya** and fertiliser units in UP.
+
+@last
+- **Gondwana** = over 90% of coal; Tertiary coal = Assam, Arunachal
+- Coal production: **Odisha, Chhattisgarh**; best coking coal: **Jharia**
+- **Raniganj** = first coal (1774), largest reserves
+- Order: Raniganj, NCDC, nationalisation, **CIL 1975**
+- Lignite = **Neyveli** (Tamil Nadu); not Jharkhand
+- First well **Makum 1867**; Digboi oil 1889, refinery 1901
+- **Gujarat** = onshore oil; **Bombay High** = most gas
+- **Jamnagar** = biggest refinery; **Koyali** = Gujarat; **Tatipaka** = AP
+- **Hatia** = no refinery; **Noonmati, Numaligarh** = Assam
+- HBJ = **GAIL**, Hazira to **Jagdishpur**; KG-D6 = gas
+@end

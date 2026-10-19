@@ -1,0 +1,113 @@
+@chapter 23 | Industries and Industrial Centres
+@meta Built from 42 UPPSC questions (1994–2024). Focus: steel plants, aluminium centres, PSU headquarters, textile and agro centres, fertilizer, paper and cement towns.
+
+@hot
+- **Place-industry matching** dominates: **Renukoot-aluminium, Korba-BALCO, Muri-aluminium (Jharkhand), Sindri-fertilizer, Phulpur-fertilizer, Titagarh-paper, Bhadohi-carpet, Chunar-cement** {1994, 1998, 2001, 2002, 2003, 2006, 2008, 2008, 2010, 2010, 2013, 2017, 2024}
+- **Wrong-pair** traps: **Bhilai-MP, BALCO-Raipur, Muri-Chhattisgarh, Amlai-Chhattisgarh, Dharmapuri-Odisha, Sindri-copper, Pipri-pesticides** {2002, 2003, 2004, 2004, 2009, 2010, 2010, 2024}
+- **Gujarat** = largest petrochemical centre (**Jamnagar**) {2006, 2013}
+- **UP**: most paper mills; **Phulpur** = biggest cooperative fertilizer plant; **Chunar** = cement {2008, 2008, 2010}
+@end
+
+@section 23.1 | Iron and Steel
+- **Bhilai-MP** is wrong now (it is in **Chhattisgarh**) {2004}
+- **Rourkela** gets iron ore from **Keonjhar** {2005}
+- Plant far from coalfields: **Bhadravati** (charcoal, hydel) {2013}
+- **SAIL** was formed in **1973** (not in the options, *) {2006}
+
+@table
+Steel plant | State | Helped by
+TISCO, Jamshedpur (1907) | Jharkhand | Tata (private)
+Bhadravati (1923) | Karnataka | Mysore State
+Bhilai | Chhattisgarh | Soviet Union
+Rourkela | Odisha | West Germany
+Durgapur | West Bengal | Britain
+Bokaro | Jharkhand | Soviet Union
+Visakhapatnam (RINL) | Andhra Pradesh | Indigenous, shore-based
+@end
+
+@section 23.2 | Aluminium and Copper
+- **Korba** (Chhattisgarh): **aluminium** (BALCO) {1994, 2001}
+- **BALCO-Raipur** is wrong (BALCO is at **Korba**) {2002, 2003}
+- **BALCO-Korba, Hindalco-Renukoot, Indian Aluminium-Hirakud, NALCO-Koraput** {2017}
+- **Alupuram-Kerala, Angul-Odisha, Belgaum-Karnataka, Korba-Chhattisgarh** {2010}
+- **Muri-Chhattisgarh** is wrong (Muri is in **Jharkhand**) {2024}
+- **Aluminium-J.K. Nagar, copper-Malanjkhand, zinc-Tundoo, jute-Bhatpara** {2013}
+
+@section 23.3 | PSUs and Headquarters
+- **ONGC-New Delhi, MECL-Nagpur, NMDC-Hyderabad, NALCO-Bhubaneswar** {2021}
+- **SAIL-Delhi, Hindustan Zinc-Udaipur, HEC-Ranchi, Instrumentation Ltd-Kota** {2010}
+- **Heavy engineering-Ranchi, machine tools-Pinjore, aluminium-Renukoot, fertilizer-Sindri** {1998}
+- **BEL-Noida** is wrong (BEL's UP unit is at **Ghaziabad**) {2006}
+
+@section 23.4 | Textiles, Carpets, Rubber
+- Ancient industry of India: **cotton textile** {2004}
+- First cotton mill (1818): **Fort Gloster**, near Kolkata {2013}
+- **Ahmedabad** is not the largest cotton centre now (Mumbai historically; A false, R true) {2020}
+- **Kakinada-jute, Virudhunagar-cotton textile, Channapatna-silk, Bhadohi-carpet** {2010, 2013}
+- **Silk-Mysore, petrochemicals-Jawahar Nagar, fertilizer-Talcher, pharma-Rishikesh** {2010}
+- First synthetic rubber plant: **Panipat** per key (many texts say **Bareilly**, 1963) {2016}
+- Rubber industry at **Panjim** (per key) {2007}
+
+@flow First cotton mills
+Fort Gloster | Near Kolkata, 1818 (failed)
+Bombay Spinning Mill | Mumbai, 1854 (C.N. Davar); first success
+Ahmedabad | 1861; became "Manchester of India"
+Kanpur | Elgin Mill, 1862; "Manchester of the East" (UP)
+@end
+
+@section 23.5 | Fertilizers and Petrochemicals
+- **Pipri-pesticides** is wrong (Pipri = Rihand hydel, Sonbhadra) {2004}
+- **Sindri-copper** is wrong (Sindri = fertilizer) {2010}
+- Biggest cooperative fertilizer plant: **Phulpur** (IFFCO, Prayagraj) {2010}
+- **Visakhapatnam-shipbuilding, Muri-aluminium, Gurgaon-automobile, Panki-fertilizer** {2006}
+- **Brajrajnagar-paper, Kaimur-cement, Haldia-petrochemical, Phulpur-fertilizer** {2008}
+- Largest petrochemical factory: **Gujarat** {2006}; largest centre: **Jamnagar** {2013}
+- **Nagapattinam-AP** is wrong (it is **Tamil Nadu**) {2011}
+- **Dharmapuri-Odisha** is wrong (it is in **Tamil Nadu**) {2010}
+
+@section 23.6 | Paper, Cement and Others
+- **Amlai-Chhattisgarh** is wrong (Amlai paper mill is in **MP**, Shahdol) {2009}
+- Most paper mills: **Uttar Pradesh** {2008}
+- **Paper-Titagarh, cement-Lakheri, steel-Bhilai** {2013}
+- **Chunar** (Mirzapur): **cement** {2008}
+- India is **second** in world cement {2013}; largest cement state (2018-19): **Rajasthan** {2016}
+- MP pesticide town: **Bhopal** {2008}
+- **Sugar-Silvassa** is wrong {2014}
+- **Pithampur** (MP): **automobile** hub {2015}
+- **Diamond Parks**: zones to make and export diamonds and jewellery {2004}
+
+@table
+Aluminium centre | State
+Renukoot (Hindalco) | Uttar Pradesh
+Korba (BALCO) | Chhattisgarh
+Angul, Damanjodi (NALCO), Hirakud | Odisha
+Muri | Jharkhand
+J.K. Nagar | West Bengal
+Belagavi | Karnataka
+Alupuram | Kerala
+Mettur | Tamil Nadu
+@end
+
+@section 23.7 | Industrial Regions
+- **Sivakasi** is **not** in Chota Nagpur {2015}; it is in the **Madurai-Coimbatore-Bengaluru** region {2014}
+
+@trap
+- States changed: **Bhilai** (MP to Chhattisgarh), **Ramagundam** (AP to Telangana).
+- **Muri** = Jharkhand; **Amlai** = MP; **Dharmapuri, Nagapattinam** = Tamil Nadu; **Sivakasi** = Tamil Nadu (matches, fireworks).
+- Rourkela = Germany; Durgapur = Britain; Bhilai and Bokaro = Soviet Union.
+@end
+
+@up UP centres asked: **Renukoot** (Hindalco aluminium), **Phulpur** (IFFCO), **Panki** (Kanpur, fertilizer), **Chunar** (cement), **Pipri** (Rihand hydel), **Bhadohi** (carpets), **Kanpur** (Manchester of the East), **Bareilly** (synthetic rubber, 1963). UP has the most paper mills. New: semiconductor unit at **Jewar**, mobiles at **Noida**, Defence Corridor nodes.
+
+@last
+- Bhilai = **Chhattisgarh** (Soviet); Rourkela = Germany; Durgapur = Britain
+- Rourkela ore from **Keonjhar**; Bhadravati far from coal
+- BALCO = **Korba**; Hindalco = **Renukoot**; NALCO = Koraput/Angul
+- **Muri** = Jharkhand; Alupuram = Kerala
+- HEC = **Ranchi**; Hindustan Zinc = **Udaipur**; NMDC = Hyderabad
+- First cotton mill **Fort Gloster 1818**
+- **Phulpur** = cooperative fertilizer; Sindri = fertilizer
+- **Jamnagar** = petrochemical capital; Gujarat leads
+- **UP** = most paper mills; **Chunar** = cement; **Rajasthan** = most cement
+- **Sivakasi** = Madurai-Coimbatore-Bengaluru region
+@end

@@ -1,0 +1,126 @@
+@chapter 20 | Mineral Resources I: Metallic and Non-metallic Minerals
+@unit UNIT IV · MINERALS, ENERGY AND INDUSTRY
+@meta Built from 60 UPPSC questions (1991–2025). Focus: mine-mineral and mine-state matching, Dharwar rocks, iron ore, mica, uranium.
+
+@hot
+- **Mine-mineral matching** is the chapter's main format: **Khetri-copper, Kodarma-mica, Dalli-Rajhara-iron, Ankleshwar-oil, Zawar-zinc/lead/silver, Jaduguda-uranium, Talcher-coal, Kolar-gold** {1998, 2001, 2002, 2005, 2008, 2008, 2008, 2009, 2012, 2013, 2016, 2016, 2020}
+- **Dharwar** rocks are the most mineralised and hold **iron ore** {1994, 1995, 2005, 2012, 2014, 2017, 2019}
+- Iron-ore mines and states: **Gorumahisani, Badampahar-Odisha; Bailadila, Dalli-Rajhara-Chhattisgarh; Noamundi-Jharkhand; Kudremukh-Karnataka** {2004, 2010, 2015, 2025}
+- **Mica**: Rajasthan now (AP earlier); MP does not produce it; belt in **Hazaribagh, Gaya, Munger** {2001, 2003, 2004, 2009, 2010}
+- **Rajasthan**: near monopoly in **zinc**; also limestone, gypsum, salt; largest copper reserves {2011, 2013, 2023}
+@end
+
+@section 20.1 | Rock Systems
+- Most mineralised rock system: **Dharwar** {1995, 2005, 2017}
+- Iron ore occurs in **Dharwar** rocks {1994, 2012, 2014, 2019}
+- **Vindhyan** rocks are rich in **limestone** {2004}
+- **Gondwana** = about 95% of coal; ferrous and non-ferrous minerals are in Dharwar (both true, R not the explanation) {2017}
+
+@section 20.2 | Critical Minerals
+- **Lithium** inferred resources at **Reasi** (J&K); India imports lithium, nickel, cobalt (both true) {2023}
+
+@section 20.3 | Iron Ore
+- Iron-ore regions: **Kudremukh and Singhbhum** (*) {1992}
+- Match: **Gurumahisani-Odisha, Bailadila-Chhattisgarh, Noamundi-Jharkhand, Kudremukh-Karnataka** {2025}
+- Match: **Badam Pahar-Odisha, Dalli-Rajhara-Chhattisgarh, Kudremukh-Karnataka, Noamundi-Jharkhand** {2010}
+- **Bailadila-MP** is wrong; it is in **Chhattisgarh** {2004}
+- Largest mechanised mine: **Bailadila** {2015}
+- Top iron-ore states (2020-21): **Odisha and Chhattisgarh** {2022}
+- True: richest deposits in **Karnataka** (per key); **Odisha** is the largest producer {2010}
+- **Iron ore-Guntur** is wrong {2017}
+
+@table
+Iron-ore mine | State
+Gorumahisani, Badampahar, Keonjhar | Odisha
+Noamundi, Gua, Chiria | Jharkhand
+Bailadila, Dalli-Rajhara | Chhattisgarh
+Kudremukh, Bellary | Karnataka
+North and South Goa | Goa
+@end
+
+@section 20.4 | Manganese, Chromite, Nickel
+- Leading **manganese** producer: **Maharashtra** (MP for many years; Odisha has most reserves) {2008, 2012}
+- **Srikakulam** is **not** in Karnataka (it is in AP) {2023}
+- Monopoly in **chromite**: **Odisha** (Sukinda) {2008, 2019}
+
+@section 20.5 | Copper, Zinc, Bauxite, Tin
+- Largest **copper** reserves: **Rajasthan** {2011}
+- Match: **Chandrapur-Maharashtra, Hassan-Karnataka, Khammam-AP, Khetri-Rajasthan** {2011}
+- Near monopoly in **zinc**: **Rajasthan** {2013}
+- **Bauxite** = ore of **aluminium** {1997}
+- Top bauxite states: **Odisha and Gujarat** {2021, ?}
+- **Tin**: reserves and production in **Chhattisgarh** (Dantewada) {2009, 2015}
+
+@section 20.6 | Mica, Asbestos and Stones
+- Largest mica producer: **Rajasthan** now (Andhra Pradesh in 2001-04) {2001, 2004}
+- **MP** does **not** produce mica {2003, 2010}
+- Largest mica belt: **Hazaribagh, Gaya, Munger** {2009}
+- India led the world in **sheet mica** in 2001 (*) {2001}
+- Asbestos: no state produces it now (*) {2015}
+- Self-sufficiency in 1991: **graphite** (*) {1991}
+- Best **marble**: **Makrana** (Rajasthan) {1992}; marble is a **metamorphic** rock {1991}
+- **Garnet** is linked with metamorphic rock {2010}
+- **Granite** slabs and slates: **Lalitpur** (UP) {2002}
+- Sonbhadra minerals: **andalusite, pyrite, dolomite** (not uranium) {2001}
+
+@section 20.7 | Atomic Minerals, Gold, Diamonds
+- **Monazite** is abundant in **Kerala** {2013}; also Tamil Nadu {2002}
+- **Jaduguda** (Jharkhand): **uranium** {2007}
+- Match: **Domiasiat-Meghalaya, Lambapur-AP (Telangana), Rohil-Rajasthan, Gogi-Karnataka** {2008}
+- Diamond mines: **Madhya Pradesh** (Panna) {2014}
+
+@section 20.8 | Mixed Mine Matching
+- World: **silver-Mexico, mica-India, iron ore-Russia, copper-Chile** {2017}
+- **Manganese-MP, nickel-Odisha, lead-zinc-Rajasthan, asbestos-AP** {1998}
+- **Iron ore-Odisha, copper-Rajasthan, gold-Karnataka, mica-AP** {2008}
+- **Mineral oil-Gujarat, gypsum-Rajasthan, gold-Karnataka, bauxite-Odisha** {2006, 2010}
+- **Makum-coal, Dalli-Rajhara-iron, Koraput-bauxite, Chitradurga-manganese** {2016}
+- **Kamptee-copper** is wrong (Kamptee = coal) {2009}
+- **Badam Pahar-iron, Kodarma-mica, Mosabani-copper, Rava-petroleum** {2008}
+- **Nellore-manganese** is wrong (Nellore = mica) {2002}
+- **Ankleshwar-petroleum, Dalli-Rajhara-iron, Kodarma-mica, Khetri-copper** {2001}
+- **Iron-Keonjhar, copper-Khetri, coal-Korba, mica-Kodarma** {2005}
+- **Gold-Kolar, coal-Jharia, copper-Khetri, iron-Kudremukh** {2008}
+- **Coal-Talcher, copper-Khetri, iron-Kudremukh, silver-Zawar** {1998}
+- **Manganese-Koraput** is wrong (Koraput = bauxite) {2013}
+- **Copper-Khetri, gas plant-Auraiya, aluminium-Korba, petroleum-Kochi** {2002}
+- **Palamu-bauxite, Hazaribagh-mica, Khetri-copper, Keonjhar-manganese** {2008}
+- **Gurumahisani-iron, Talcher-coal, Jaduguda-uranium, Zawar-lead** {2012, 2016}
+- Wrong: **copper-Chitradurga** and **manganese-Bhilwara** {2020}
+- **Limestone-cement, copper-electrical, bauxite-aircraft, manganese-steel** {2021}
+- **Rajasthan**: limestone, gypsum, salt, zinc {2023}
+
+@table
+Place | Mineral
+Khetri | Copper
+Kodarma, Hazaribagh | Mica
+Zawar | Zinc, lead, silver
+Jaduguda | Uranium
+Kolar, Hutti | Gold
+Panna | Diamond
+Makrana | Marble
+Koraput, Panchpatmali | Bauxite
+Talcher, Jharia, Korba | Coal
+Ankleshwar | Petroleum
+Sukinda | Chromite
+@end
+
+@trap
+- Distractor places: **Guntur** (tobacco), **Nellore** (mica), **Kamptee** (coal), **Koraput** (bauxite), **Bhilwara** (zinc, not manganese).
+- **Bailadila** is now in **Chhattisgarh**, not MP.
+@end
+
+@up UP's minerals are in the south: **Sonbhadra** (coal of the Singrauli field, limestone at Churk-Dalla-Obra, andalusite, pyrite, dolomite), **Lalitpur** (granite, rock phosphate), **Mirzapur** (Chunar sandstone) and **Shankargarh** (Prayagraj, silica sand for glass).
+
+@last
+- **Dharwar** = most minerals, iron ore; **Vindhyan** = limestone
+- **Odisha** = iron, chromite, bauxite leader
+- **Bailadila** = Chhattisgarh, largest mechanised mine
+- **Rajasthan** = zinc, copper reserves, gypsum, marble, mica now
+- **Khetri** = copper; **Kodarma** = mica; **Zawar** = zinc-silver
+- **Jaduguda** = uranium; monazite = Kerala beaches
+- **Panna** = diamond; **Makrana** = marble
+- Tin = **Chhattisgarh**; Lithium = **Reasi**
+- Bauxite = aluminium; Odisha and Gujarat lead
+- **Lalitpur** = granite; **Sonbhadra** = andalusite, pyrite
+@end
