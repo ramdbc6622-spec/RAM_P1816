@@ -1,0 +1,91 @@
+@chapter 9 | Oceans, Seas and Ocean Currents
+@unit UNIT IV · HYDROSPHERE AND ATMOSPHERE
+@meta Built from 35 UPPSC questions (1991–2025). Focus: seas and their neighbours, warm and cold currents by ocean, salinity, tides, deepest points.
+
+@hot
+- **Benguela** = cold current of the **South Atlantic**; **Agulhas** = warm, **Indian Ocean** {2005, 2014, 2017, 2020, 2023, 2025}
+- Deepest points: **Pacific-Mariana (Challenger), Atlantic-Puerto Rico, Indian-Java (Sunda), Arctic-Molloy/Eurasian Basin** {1991, 2017, 2022}
+- Cold currents: **Humboldt (Peru)**, California; warm: **Brazil**, Agulhas {1995, 1998, 2017, 2025}
+- Salinity highest near the **Tropics**; most of it is **sodium chloride** {2000, 2023}
+@end
+
+@section 9.1 | The World's Water
+- **Datum line**: the sea-level reference for heights and depths {1991, 1994}
+- Water stores, descending: **oceans, ice and glaciers, groundwater, rivers** {2025}
+- Most fresh water: **glaciers and ice** {2015}
+- Gravitational soil water tension: **below 1/3 atmosphere** {2010}
+
+@section 9.2 | Oceans and Seas
+- Indian Ocean: Greeks' **Erythraean Sea**; spans **both sides of the Equator** (both) {2025}
+- **Red Sea**: an **axial trough** (rift) {2017}
+- **Baku**: on the **Caspian Sea** {2019}
+- West to east: **Mediterranean, Black, Caspian, Aral** {2016}
+- **Aral Sea**: **Kazakhstan and Uzbekistan** {2012}
+- Not on the Black Sea: **Syria** {2021}
+- Sea between Italy, Sicily, Sardinia, Corsica: **Tyrrhenian** {2010}
+- Not on the Mediterranean: **Chad** {2010}
+- Deepest of the options (per key): **South China Sea** {2015}
+- No coastline: **Sargasso Sea**; known for **seaweed (sargassum)** {2016, 2014}
+
+@section 9.3 | Ocean Currents
+- Indian Ocean current: **Agulhas** {2020}
+- Not cold: **Agulhas** {2017}
+- Not in the Indian Ocean: **Benguela** {2014}
+- Atlantic current: **Benguela** {2023}
+- Cold, South Atlantic: **Benguela** {2005}
+- Not in the South Atlantic loop: **Canary** (North Atlantic) {2000}
+- Not cold: **Agulhas and Brazil** (1 and 2) {2025}
+- Cold: **Peruvian (Humboldt)** {1995}
+- Wrong: **Humboldt-North Pacific** (it is **South Pacific**) {1998}
+- Warm: **Brazil Current** {2017}
+
+@table
+Ocean | Warm | Cold
+North Atlantic | Gulf Stream, N. Atlantic Drift | Labrador, Canary
+South Atlantic | Brazil | Benguela, Falkland
+North Pacific | Kuroshio | Oyashio, California
+South Pacific | East Australian | Humboldt (Peru)
+Indian | Agulhas, Mozambique | West Australian
+@end
+
+@section 9.4 | Salinity and Tides
+- Main salt in sea water: **sodium chloride** {2000}
+- Highest salinity (per key): **Lake Van** (Dead Sea is actually saltier) {1995}
+- Saltiest sea: Red Sea among seas; Dead Sea overall (*) {1998, 2012}
+- Salinity is highest near the **Tropics of Cancer and Capricorn** {2023}
+- Salinity gradient: **halocline** {2015}
+- Tides: **gravity, centripetal and centrifugal forces** {1991}
+- **Spring tide**: Sun, Earth, Moon in a **straight line** {1999}
+
+@flow Spring and neap tides
+New or full moon | Sun-Earth-Moon in line
+Spring tide | Highest high tides
+Quarter moon | Sun and Moon at 90°
+Neap tide | Lowest range
+@end
+
+@section 9.5 | Ocean Deeps
+- Deepest trench: **Challenger Deep** (Mariana) {1991}
+- **Pacific-Mariana, Atlantic-Puerto Rico, Indian-Java, Arctic-Eurasian Basin** {2017}
+- **Pacific-Mariana, Arctic-Molloy, Indian-Sunda, Atlantic-Puerto Rico** {2022}
+
+@trap
+- **Benguela** (Atlantic) vs **Agulhas** (Indian), both near South Africa.
+- **Canary** is North Atlantic; **Humboldt** is South Pacific.
+- Warm + cold meet = fog and fish (Grand Banks, Japan).
+@end
+
+@up No UP item. India link: the **Deep Ocean Mission** and **Samudrayaan** (Matsya-6000) target the Indian Ocean floor.
+
+@last
+- Oceans 96.5%; fresh water mostly in **ice**
+- Red Sea = rift; Sargasso = no coast
+- Baku = Caspian; Aral = Kazakhstan-Uzbekistan
+- Tyrrhenian = Italy-Sicily-Sardinia-Corsica
+- Benguela = cold, S. Atlantic; Agulhas = warm, Indian
+- Humboldt = cold, S. Pacific; Brazil = warm
+- Canary not in the South Atlantic loop
+- Salinity: NaCl; highest near the Tropics; halocline
+- Spring tide: Sun-Earth-Moon in a line
+- Challenger Deep = deepest; Puerto Rico = Atlantic; Java = Indian
+@end

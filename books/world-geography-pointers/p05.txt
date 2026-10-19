@@ -12,7 +12,7 @@
 - Largest continent: **Africa** per key (actually **Asia**; Africa second) {2014}
 - Descending: **Africa, South America, Europe, Australia** {2015}
 - Descending: **Asia, Africa, North America, Europe** {2017}
-- Smallest: **Australia** {1992}; two smallest: **Australia and Europe** {2008}
+- Smallest: **Australia**; two smallest: **Australia and Europe** {1992, 2008}
 - Most countries: **Africa** (54) {2015}
 - Most plains by share: **Europe** {2013}
 
@@ -24,11 +24,11 @@
 - Not Tertiary: **Appalachians** (old fold) {2014}
 - **Alps-folded, Vosges-block, Vindhya-residual, Fuji-volcanic** {2013}
 - "Sea of mountains": **British Columbia** {2015}
-- **White Mountains** {2001} and **Black Mountain** {2009}: **USA**
+- **White Mountains** and **Black Mountain**: **USA** {2001, 2009}
 - **Allegheny-USA, Cantabrian-Spain, Elburz-Iran, Mackenzie-Canada** {2010}
 - **Darling Range**: **south-western** coast of Australia {2020}
 - India-Myanmar ranges: none of the options (Patkai, Naga, Lushai/Arakan) {1998}
-- **Black Forest**: **Germany** {2004, 2012}; along the **Rhine** {2014}
+- **Black Forest**: **Germany**; along the **Rhine** {2004, 2012, 2014}
 - **Titlis**: **Switzerland** {2004}
 - In Italy: **Apennines** {2014}
 - **Spain-France-Pyrenees, Switzerland-Alps, Bulgaria-Balkan, Italy-Apennine** {2024}
@@ -51,7 +51,7 @@ Residual | Vindhya, Nilgiri, Aravalli
 - Telegraphic Plateau: part of the **North Atlantic Ridge** {2019}
 
 @section 5.4 | Valleys and Basins
-- **Death Valley**: a **rift valley** {2012}; "Devil's Golf Course", **USA** {2014}; known for **heat** {2005}; in **California** {2009}
+- **Death Valley**: a **rift valley**; "Devil's Golf Course", **USA**; known for **heat**; in **California** {2012, 2014, 2005, 2009}
 - **Panjshir Valley**: **Afghanistan** {2002}
 - **Silicon Valley**: **California** {2002}
 - **Taylor Valley**: **Antarctica** {1998}

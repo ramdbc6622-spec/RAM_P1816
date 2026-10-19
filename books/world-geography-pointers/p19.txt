@@ -1,0 +1,85 @@
+@chapter 19 | Industrial Cities and Regions of the World
+@meta Built from 25 UPPSC questions (1990–2022). Focus: city-industry matching, shipbuilding traps, industrial regions, footloose industry.
+
+@hot
+- **City-industry matching**: **Pittsburgh-steel, Detroit-automobiles, Osaka-cotton, Dundee-jute, Sheffield-cutlery, Glasgow and St. Petersburg-ships, Anshan-steel, Havana-cigars, Abadan-oil refinery** {2002, 2005, 2005, 2010, 2011, 2022}
+- Wrong shipbuilding pairs: **Birmingham, Chelyabinsk, Moscow, Venice**; Camden is New Jersey, not Florida {1996, 1998, 2001, 2005, 2016}
+- **Footloose** industry: **software, electronics** {2013, 2015}
+@end
+
+@section 19.1 | Iron and Steel
+- **Hamilton-Canada, Birmingham-UK, Essen-Germany, Anshan-China** {2011}
+- Wrong: **Birmingham-shipbuilding** {1998}
+- Wrong: **Chelyabinsk-shipbuilding** {2001}
+- Wrong: **Moscow-shipbuilding** {2005}
+- Wrong: **Mesabi-coalfield** (iron ore) {2013}
+- Market-based steel locations: **Japan** {2010, 2013}
+
+@section 19.2 | Textiles, Automobiles, Ships
+- **Pittsburgh-iron and steel, Shanghai-cotton textiles, Dundee-jute, Leningrad-shipbuilding** {2005}
+- **Nagoya-cotton textiles, Salem-iron and steel, Los Angeles-aircraft, Abadan-oil refinery** {2010}
+- **Osaka-cotton, Detroit-automobiles, Cuba-cigars, St. Petersburg-shipbuilding** {2022}
+- **Anshan-iron and steel, Detroit-automobiles, Havana-cigars, Nagoya-cotton** {2002}
+- Cotton textile centre: **Osaka** {1990}
+- Wrong: **Venice-shipbuilding** (per key) {1996}
+- **Anshan-steel, Glasgow-shipbuilding, Ottawa-paper, Sheffield-cutlery** {2005}
+- Wrong: **Houston-automobiles** (oil, space) {2010}
+- Wrong: **Camden-Florida** (New Jersey) {2016}
+- Wrong: **cotton textiles-Detroit** {2015}
+
+@table
+City | Industry
+Pittsburgh, Gary | Steel (USA)
+Detroit | Automobiles
+Houston | Oil, space
+Sheffield / Birmingham | Cutlery / Steel (UK)
+Glasgow, Belfast | Ships
+Dundee / Manchester | Jute / Cotton
+Essen (Ruhr) | Steel (Germany)
+Magnitogorsk, Chelyabinsk | Steel (Urals)
+St. Petersburg | Ships
+Osaka / Nagoya | Cotton / Cars, textiles
+Anshan | Steel (China)
+Abadan / Havana | Refinery / Cigars
+@end
+
+@section 19.3 | Industrial Regions
+- **Kinki-Japan, Canton-China, Lorraine-France, Belo Horizonte-Brazil** {2016}
+- Correct: **Ruhr-Germany** {2016}
+- Wrong: **Scotland industrial region-Sweden** (UK) {2013}
+
+@section 19.4 | Textiles and Location
+- Biggest wool producer (key): **China** {2013}
+- German wool centre: **Wuppertal** {2013}
+- Leading cotton textile producer: **China** {2005}
+- Footloose: **software** {2013}
+- Raw material not primary: **electronics** {2015}
+- Japan leads through **high technology** {2008}
+
+@flow How industries choose a site
+Raw-material oriented | Steel (old), sugar, cement
+Market oriented | Japanese steel, refineries, bread
+Power oriented | Aluminium smelters
+Footloose | Software, electronics, diamond cutting
+@end
+
+@trap
+- **Birmingham** = steel; **Glasgow, Belfast** = ships.
+- Moscow and Chelyabinsk are inland: **no shipbuilding**.
+- **Camden** = New Jersey; **Houston** = oil, not cars.
+@end
+
+@up UP's footloose-industry hubs are **Noida** (electronics, mobiles, software) and Lucknow; Kanpur is UP's "Manchester", like Osaka in Japan and Manchester in the UK.
+
+@last
+- Pittsburgh = steel; Detroit = cars; Houston = oil
+- Sheffield = cutlery; Glasgow = ships; Dundee = jute
+- Essen = steel; Wuppertal = wool
+- St. Petersburg = ships; Chelyabinsk = steel
+- Osaka = cotton (Manchester of Japan); Nagoya = cars, textiles
+- Anshan = steel; Havana = cigars; Abadan = refinery
+- Kinki = Japan; Canton = China; Belo Horizonte = Brazil
+- Japan steel = market-based
+- Footloose = software, electronics
+- Camden = New Jersey
+@end

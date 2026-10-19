@@ -21,7 +21,7 @@
 - Not in the Middle East: none clearly (Turkiye least wrong, *) {2021}
 - Israel borders **Lebanon, Syria, Jordan, Egypt** {2017}
 - Gaza borders **Egypt and Israel** (both) {2023}
-- Horn of Africa: **Somalia, Ethiopia, Djibouti** {1999}; not **Sudan** {2009}
+- Horn of Africa: **Somalia, Ethiopia, Djibouti**; not **Sudan** {1999, 2009}
 - Not Scandinavian: **Finland** {2001}
 - No Baltic coast (per key): **Sweden and Norway** option (Norway has none) {2021}
 - Not Central American: **Sierra Leone** {2014}

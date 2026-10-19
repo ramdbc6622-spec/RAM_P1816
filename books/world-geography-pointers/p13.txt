@@ -1,0 +1,68 @@
+@chapter 13 | The Atmosphere
+@meta Built from 18 UPPSC questions (1993–2024). Focus: nitrogen, layers of the atmosphere, ozone and ionosphere, albedo, horse latitudes, Coriolis force, jet streams, clouds.
+
+@hot
+- **Ozone layer** lies in the **stratosphere** {1997, 2002, 2003, 2005}
+- **Ionosphere** reflects **radio waves**; aurora {2002, 2005, 2013, ?}
+- **Nitrogen** = largest share of air (78%) {1993, 2017}
+- Lowest layer: **troposphere** (weather) {2002, 2016}
+@end
+
+@section 13.1 | Composition and Layers
+- Largest share: **nitrogen**; permanent gas: **nitrogen** {1993, 2017}
+- Ascending order: **troposphere, stratosphere, mesosphere, ionosphere** (key gave descending, a) {2005}
+- Lowest layer: **troposphere** {2016}
+- Ozone layer: **stratosphere** {1997, 2003, 2005}
+- Deflects radio waves: **ionosphere**; reflects wireless signals {2005, 2013}
+- Northern Lights: **ionosphere** (thermosphere) {?}
+- Correct: **troposphere-weather, stratosphere-ozone, ionosphere-radio waves**; not mesosphere-aurora (1, 2, 3) {2002}
+
+@flow Layers, ground up
+Troposphere | 0-18 km; weather; temperature falls
+Stratosphere | Up to 50 km; ozone; jets fly low in it
+Mesosphere | 50-80 km; coldest; meteors burn
+Thermosphere / Ionosphere | 80-400+ km; radio reflection; aurora
+Exosphere | Outer fringe
+@end
+
+@section 13.2 | Heat and Pressure
+- Air heated mainly **from the Earth's surface** (long-wave); conversion happens at the surface (R explains A) {1997}
+- **Albedo**: **reflecting power** {2019}
+- Not true: maximum-temperature zone lies **on the Equator** (it is around 10-20° N, the thermal equator) {2002}
+- Humid summer heat: **muggy** weather {2002}
+- **Horse latitudes**: about **30°** {2008}
+- Air pressure lowest in **summer** {2014}
+
+@table
+Belt | Latitude
+Equatorial low (doldrums) | 0-5°
+Subtropical high (horse latitudes) | 30-35°
+Subpolar low | 60-65°
+Polar high | 90°
+@end
+
+@section 13.3 | Winds, Jets, Clouds
+- Leftward deflection in the Southern Hemisphere: **Coriolis force** {2023}
+- Jet streams are **westerly** (A false); speed 300-500 km/h (R true) {2024}
+- Highest clouds (of options): **cirrostratus** {2009}
+
+@trap
+- Key used "ascending" for a top-down list; upward order is **4, 3, 2, 1**.
+- Jet streams are **westerlies**, not easterlies (except the tropical easterly jet over India).
+- Aurora and radio reflection = **ionosphere**, not mesosphere.
+@end
+
+@up UP sits under the **subtropical westerly jet** in winter, which steers **western disturbances** bringing winter rain to western UP.
+
+@last
+- Air: N2 78%, O2 21%, Ar 0.93%
+- Lowest = troposphere (weather)
+- Ozone = **stratosphere**
+- Radio waves, aurora = **ionosphere**
+- Coldest layer = mesosphere
+- Albedo = reflecting power
+- Horse latitudes = **30°**
+- Coriolis: right in N, **left in S**
+- Jet streams: westerly, 300-500 km/h
+- Cirrus family = highest clouds
+@end

@@ -16,7 +16,7 @@
 - Group of stars in a shape: **constellation** {2013}
 - Hubble's first detailed image of a star's surface: **Betelgeuse** {1995}
 - Star-collapse limit: **Chandrasekhar limit** (1.4 solar masses) {1997}
-- Black hole theory: **S. Chandrasekhar** {1996, 2015, 2019}; first information {2016}
+- Black hole theory: **S. Chandrasekhar**; first information {1996, 2015, 2019, 2016}
 - Star-related phenomenon: **black hole** {1997}
 - Black hole unseen because even **light cannot escape** (R explains A) {2001, 2003}
 - **Supernova**: a **dying star** {2015}
@@ -38,17 +38,17 @@ Neutron star or black hole | Super-dense remnant
 - Order from Sun: **Earth, Jupiter, Uranus, Pluto** {2002, 2003}
 - Between Earth and Sun: **Mercury and Venus** {2010}
 - Earth lies between **Venus and Mars** {2012}
-- Nearest the Sun: **Mercury** {2004}; shortest orbit: **Mercury** {2002}
+- Nearest the Sun: **Mercury**; shortest orbit: **Mercury** {2004, 2002}
 - Smallest planet: **Mercury** (Pluto then) {1991}
 - Largest: **Jupiter** {1990}
 - Wrong pair: slowest planet-**Mars** (it is **Neptune**) {2011}
 - Longest revolution among options: **Pluto** (Neptune among planets) {2004}
 - No satellites: **Mercury and Venus** {2016}
-- Morning Star: **Venus** {2015}; Earth's twin: **Venus** {2007, 2008}
+- Morning Star: **Venus**; Earth's twin: **Venus** {2015, 2007, 2008}
 - **Magellan** spacecraft: **Venus** {1991}
-- Day and tilt like Earth's: **Mars** {2001}; possible life: **Mars** {2000}
+- Day and tilt like Earth's: **Mars**; possible life: **Mars** {2001, 2000}
 - Jupiter's ring: **silicates** (dust) {2004}
-- Rings: **Saturn** {1990}; Cassini orbited **Saturn** (2004) {2004}
+- Rings: **Saturn**; Cassini orbited **Saturn** (2004) {1990, 2004}
 - Saturn is **warmer than Neptune** {2010}
 - **Titan**: Saturn's largest moon {2006}
 - **Nix and Hydra**: moons of **Pluto** {2010}
@@ -69,7 +69,7 @@ Neptune | Farthest; longest year (165 years)
 @section 1.3 | The Sun
 - Sun's core: **plasma** (no option exact, *) {2001}
 - Solar energy: **nuclear fusion** {1996, 2001, 2006}
-- Solar eclipse on **new moon** day {1991}; when the **Moon is between Earth and Sun** {1990}
+- Solar eclipse on **new moon** day; when the **Moon is between Earth and Sun** {1991, 1990}
 - Earth-Sun distance: **149.6 million km** {2010}
 - Nearest the Sun (perihelion): **3 January** {2010}
 

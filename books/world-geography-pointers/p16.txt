@@ -1,0 +1,78 @@
+@chapter 16 | Major Tribes of the World
+@unit UNIT V · HUMAN AND ECONOMIC WORLD
+@meta Built from 23 UPPSC questions (1996–2025). Focus: tribe-homeland matching, Bushmen, Maasai, Bedouin, Semang, Arctic peoples.
+
+@hot
+- **Bushmen (San)** = **Kalahari**, Botswana, Namibia {1996, 2005, 2008, 2008, 2009, 2012, 2016, 2025}
+- **Maasai** = **Kenya** (East Africa); never West Africa or Zambia {2005, 2006, 2009, 2009, 2025}
+- **Bedouin** = Arabia; **Eskimo/Inuit** = Canada; **Pygmies** = Congo basin {2001, 2005, 2009, 2016, 2025}
+- **Semang** = **Malaysia**, not Indonesia {2002, 2010}
+@end
+
+@section 16.1 | Tribes and Homelands
+- Correct: **Eskimo-Canada** {2001}
+- Correct: **Bushman-Kalahari** {2012}
+- Wrong: **Maasai-West Africa** only {2025}
+- **Eskimo-Canada, Maasai-Kenya, Bedouin-Saudi Arabia, Bushman-Botswana** {2009}
+- **Khirghiz-Central Asia, Bushman-Kalahari, Ainu-Japan, Bedouin-Arab** {2016}
+- **Bushman-Namibia, Bedouin-Saudi Arabia, Pygmies-Congo, Maasai-Kenya** {2005}
+- **Jews-Israel, Teda-Libya, Beja-Egypt, Lur-Iran** {2020}
+- All pairs acceptable (Bushmen also in South Africa) (*) {1996}
+- Bushmen: **Kalahari**; correct: **Bushmen-Botswana** {2008, 2008}
+- Wrong: **Maasai-Western Africa**; **Maasai-Zambia** {2006, 2009}
+- Wrong: **Bantu-Sahara** {2010, 2012}
+- Wrong: **Khirghiz-Sudan** {2019}
+- Wrong: **Congo basin-Negrito** (Pygmies) {2004}
+
+@table
+People | Homeland
+Inuit (Eskimo) | Alaska, Canada, Greenland
+Sami (Lapps) | Scandinavia
+Kirghiz | Central Asia
+Bedouin | Arabian desert
+Maasai | Kenya, Tanzania
+Pygmies | Congo basin
+Bushmen (San) | Kalahari
+Semang | Malaysia
+Ainu | Japan (Hokkaido)
+Maori | New Zealand
+@end
+
+@section 16.2 | Asia and the Arctic
+- Semang live in **Malaysia**; **Semang-Indonesia** is wrong {2002, 2010}
+- Wrong: **Alaska-Koryak** (Koryak = Kamchatka, Russia) {2021}
+- Inuit not found in **Sweden** {2009}
+- **Lapps (Sami)**: **Scandinavia** {2010}
+- **Kayak-narrow hunting boat, "Inuit" (igloo)-snow house, Umiak-transport boat, Sledge-dog vehicle** {2014}
+
+@flow Arctic way of life
+Igloo | Snow house
+Kayak | One-man hunting boat
+Umiak | Larger open transport boat
+Sledge | Dog-pulled vehicle
+@end
+
+@section 16.3 | Ways of Life
+- Not pastoral nomads: **Pygmies** (hunter-gatherers) {2005}
+- Native North Americans: **Mongoloid** {2015}
+
+@trap
+- **Maasai** = East Africa (Kenya, Tanzania).
+- Sweden and Finland have **Sami**, not Inuit.
+- **Koryak** = Russia; **Kirghiz** = Central Asia.
+@end
+
+@up UP's own tribes are few: **Tharu** (Terai: Lakhimpur Kheri, Bahraich), **Buksa**, **Gond**, **Kharwar** (Sonbhadra). The Tharu, like the Maasai and Bedouin, are a classic "tribe-region" pair.
+
+@last
+- Bushmen (San) = **Kalahari**, Botswana
+- Maasai = **Kenya**, Tanzania
+- Bedouin = **Arabia**; Kirghiz = Central Asia
+- Pygmies = **Congo**; hunter-gatherers
+- Eskimo/Inuit = Canada, Alaska, Greenland
+- Sami (Lapps) = Scandinavia
+- Semang = **Malaysia**; Ainu = **Japan**
+- Teda = Libya; Beja = Egypt; Lur = Iran
+- Koryak = Kamchatka
+- Kayak = hunting; umiak = transport
+@end
