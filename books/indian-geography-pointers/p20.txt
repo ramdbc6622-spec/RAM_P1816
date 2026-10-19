@@ -58,13 +58,13 @@ North and South Goa | Goa
 - India led the world in **sheet mica** in 2001 (*) {2001}
 - Asbestos: no state produces it now (*) {2015}
 - Self-sufficiency in 1991: **graphite** (*) {1991}
-- Best **marble**: **Makrana** (Rajasthan) {1992}; marble is a **metamorphic** rock {1991}
+- Best **marble**: **Makrana** (Rajasthan); marble is a **metamorphic** rock {1992, 1991}
 - **Garnet** is linked with metamorphic rock {2010}
 - **Granite** slabs and slates: **Lalitpur** (UP) {2002}
 - Sonbhadra minerals: **andalusite, pyrite, dolomite** (not uranium) {2001}
 
 @section 20.7 | Atomic Minerals, Gold, Diamonds
-- **Monazite** is abundant in **Kerala** {2013}; also Tamil Nadu {2002}
+- **Monazite** is abundant in **Kerala**; also Tamil Nadu {2013, 2002}
 - **Jaduguda** (Jharkhand): **uranium** {2007}
 - Match: **Domiasiat-Meghalaya, Lambapur-AP (Telangana), Rohil-Rajasthan, Gogi-Karnataka** {2008}
 - Diamond mines: **Madhya Pradesh** (Panna) {2014}

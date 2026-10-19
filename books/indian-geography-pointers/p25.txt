@@ -41,7 +41,7 @@ Crossing point | Jhansi (UP)
 - Bullet train: **Mumbai-Ahmedabad** {2001}
 - First CNG train: **Rewari-Rohtak** {2016}
 - First rail track on PPP: **Gujarat** {2016}
-- Konkan Railway: **Roha to Mangalore** {2013}; it does **not** touch **Belgaum** {2010}
+- Konkan Railway: **Roha to Mangalore**; it does **not** touch **Belgaum** {2013, 2010}
 - State without rail in 2013: **Meghalaya** (line 2014); Sikkim is the one left now (*) {2013}
 - Longest tunnels then: **Pir Panjal, Karbude, Nathuwadi, Berdewadi** {2015}
 - New **Pamban** bridge: built by RVNL; India's first **vertical-lift** sea bridge (both true) {2025}
@@ -62,17 +62,17 @@ NE Frontier | Maligaon
 - Biggest port (2007 key): **Mumbai** {2007}
 - **Kochi** is on the **Malabar** coast {2013}
 - Landlocked harbour: **Visakhapatnam** {2023}
-- **Chennai-deepest port** is wrong {1997}; **Kolkata-deepest** is wrong {2023}
+- **Chennai-deepest port** is wrong; **Kolkata-deepest** is wrong {1997, 2023}
 - Deepest among options: **Paradip** (Visakhapatnam is the deepest landlocked) {2017}
-- Not a natural harbour: **Chennai** {2007}; natural ports: **Kochi and Visakhapatnam** {2013}
+- Not a natural harbour: **Chennai**; natural ports: **Kochi and Visakhapatnam** {2007, 2013}
 - Open seaport: **Chennai** {2012}
 - Outer port: **Haldia** (of Kolkata) {2012}
-- Not on the east coast: **Kandla** {2008}; Odisha coast: **Paradip** {2013}
-- **Kandla** is in **Gujarat** {1993}; on the **Gulf of Kachchh** {2004}
+- Not on the east coast: **Kandla**; Odisha coast: **Paradip** {2008, 2013}
+- **Kandla** is in **Gujarat**; on the **Gulf of Kachchh** {1993, 2004}
 - **Paradip-Odisha, Tuticorin-TN, Kakinada-AP, Alappuzha-Kerala** {2025}
 - **Kandla-Gujarat, Nhava Sheva-Maharashtra, Paradip-Odisha, Tuticorin-TN** {2010}
 - **Mundra-AP** is wrong (Mundra is **Gujarat**) {2015}
-- AP port city: **Kakinada** {2010}; **Krishnapatnam** helps **AP** {2008}
+- AP port city: **Kakinada**; **Krishnapatnam** helps **AP** {2010, 2008}
 - 12th major port for coal: **Ennore**, near **Chennai** {2004, 2010}
 - **Jamnagar** is not a port town (per key) {2011}
 - Built to relieve Mumbai: **Nhava Sheva (JNPT)** {2013}
@@ -97,7 +97,7 @@ First corporatised | Ennore (Kamarajar)
 - Largest ship-breaking yard: **Alang** (Gujarat) {2006, 2009}
 
 @section 25.5 | Waterways and Airports
-- National Waterway on the Ganga: **Prayagraj to Haldia** {2010, 2016}; longest waterway {2009, 2014}
+- National Waterway on the Ganga: **Prayagraj to Haldia**; longest waterway {2010, 2016, 2009, 2014}
 - National Inland Navigation Institute: **Patna** {2009}
 - International status (24 June 2020): **Kushinagar** airport {2020}
 

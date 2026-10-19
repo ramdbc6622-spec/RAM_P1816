@@ -14,7 +14,7 @@
 - Agro-ecological regions: **20** {2010, 2013, 2016}
 - Sengupta and Sdasyuk (1968): **60** micro agricultural regions {2017}
 - First agricultural university: **Pantnagar, 1960** (true); the "six colleges in 1901-05" claim is treated as false {2023}
-- Year: **1960** {2013}; name: **GBPUAT, Pantnagar** {2014}
+- Year: **1960**; name: **GBPUAT, Pantnagar** {2013, 2014}
 - **Zero-till seed-cum-fertiliser drill** was developed at **Pantnagar** {2010}
 
 @table
@@ -63,7 +63,7 @@ Costs | Falling water tables, salinity, chemicals, regional gaps
 @section 15.5 | Colour Revolutions
 - Match: **food grains-Green, milk-White, fisheries-Blue, fertilisers-Grey** {2014}
 - **Pink** Revolution: **onion** (UPPSC key) {2010}
-- **Blue-poultry** is wrong; Blue = **fish** {2015, 2016}; Blue Revolution = **fisheries** {2010}
+- **Blue-poultry** is wrong; Blue = **fish**; Blue Revolution = **fisheries** {2015, 2016, 2010}
 - **Yellow** = **oilseeds** {2002, 2004, 2014, 2017}
 
 @table

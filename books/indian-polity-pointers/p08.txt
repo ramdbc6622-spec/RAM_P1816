@@ -18,7 +18,7 @@
 - Constitution provides **parliamentary** governance {1990}
 - In a parliamentary system the **legislature controls the executive** {2010}
 - First in **Great Britain** {2018}
-- Incorrect about India: **presidential system** {2008}; not a feature: **presidential government** {2015}
+- Incorrect about India: **presidential system**; not a feature: **presidential government** {2008, 2015}
 - Correct: India is a **parliamentary democracy** {2005}
 
 @section 8.3 | Presidential System
@@ -41,8 +41,8 @@ Lower house can be dissolved | No dissolution
 - Not a feature: **authoritarian government** {2011}
 
 @section 8.5 | Supremacy and Republic
-- Supreme: the **Constitution** {2013}; Centre and States get authority from it {2017}
-- Republic: **no hereditary rulers** {1997}; head of State **elected** {2017}
+- Supreme: the **Constitution**; Centre and States get authority from it {2013, 2017}
+- Republic: **no hereditary rulers**; head of State **elected** {1997, 2017}
 - Not democratic: supreme power in one person like a king {2010}
 - Constitution: **partly rigid, partly flexible** {2012}
 - "Good balance between rigidity and flexibility": **K.C. Wheare** (per key) {2005}

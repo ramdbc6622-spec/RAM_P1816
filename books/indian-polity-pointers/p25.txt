@@ -18,7 +18,7 @@
 - Two-State Governor's pay shared as the **President** decides {2016}
 
 @section 25.3 | Appointment and Qualifications
-- Appointed by the **President** {2012}; under **Art 155** {2015}
+- Appointed by the **President**; under **Art 155** {2012, 2015}
 - True: **35 years**; can govern two or more States (2 and 4); no "by birth", no LS-eligibility test {1996}
 - Oath by the **High Court Chief Justice** {2013, 2014}
 
@@ -42,7 +42,7 @@ Reserve for President | Art 201; mandatory if it endangers the HC
 
 @section 25.6 | Bills and Ordinances
 - Reserve a Bill for the President: **Art 200** {2004}
-- Ordinance: **Art 213** {2016, 2017}; approved by the **State Legislature** {2008}
+- Ordinance: **Art 213**; approved by the **State Legislature** {2016, 2017, 2008}
 
 @section 25.7 | Legislative and Judicial Powers
 - True: does **not appoint HC judges**; **nominates MLCs** (1 and 3); he is part of the Legislature and has pardon powers {2017}

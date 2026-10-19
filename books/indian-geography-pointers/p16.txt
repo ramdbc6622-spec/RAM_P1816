@@ -10,7 +10,7 @@
 @end
 
 @section 16.1 | Crop Seasons
-- **Mustard** is a **rabi** crop {2016}; not kharif {2012}
+- **Mustard** is a **rabi** crop; not kharif {2016, 2012}
 - **Soybean** is a **kharif** crop {2004}
 - **Gram** is **not** a kharif crop (it is rabi) {2011}
 - **Zaid** crops in irrigated areas: **moong and urad** {2011}
@@ -34,10 +34,10 @@ Zaid | March | June | Melons, cucumber, moong, urad
 @section 16.3 | Wheat Varieties and Diseases
 - Induced mutation: **Sonora-64** in the key (strictly **Sharbati Sonora**, from Sonora-64) {2015}
 - Dwarfing gene in wheat: **Norin-10** {2013}
-- **Kalyan Sona** {2005}, **Raj 3077** {2015}, **Pusa Sindhu Ganga** {2016}, **UP-308** {2016} are **wheat**
+- **Kalyan Sona**, **Raj 3077**, **Pusa Sindhu Ganga**, **UP-308** are **wheat** {2005, 2015, 2016, 2016}
 - **Macaroni (durum)** wheat suits **unirrigated** conditions {2004}
 - **Triticale** = **wheat × rye** {2014}
-- Wheat disease: **rust** {2003, 2004}; **Karnal bunt** {2015}
+- Wheat disease: **rust**; **Karnal bunt** {2003, 2004, 2015}
 - Arhar for double cropping with wheat: **UPAS-120** {2010}
 
 @table
@@ -54,7 +54,7 @@ Wilt | Arhar, gram
 - Chief food crop of India: **rice** {2004}
 - Largest crop area: **rice** {2011}
 - Rice needs over **100 cm** of rain {2007}
-- Largest rice **area**: **UP** {2007}; largest producer (then): UP per the key {2006}
+- Largest rice **area**: **UP**; largest producer (then): UP per the key {2007, 2006}
 - Wrong pair: Bihar's share of rice output is **not 15.7%** {2024}
 - **Aman** paddy is sown in **June-July** (harvested in winter) {2011}
 - More than half of rice output: the leading states named in the key (*) {2004, 2009}

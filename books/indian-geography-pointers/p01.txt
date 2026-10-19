@@ -19,7 +19,7 @@
 - States crossed: **Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram** (west to east) {1990, 2017}
 - **Manipur** lies wholly **north** of the Tropic {2008}
 - Of Tripura, Mizoram, WB and Manipur, the Tropic does **not** cross **Manipur** {?}
-- Nearest to the Tropic (23°26' N): **Gandhinagar** {1999, 2002, 2010}; next option set: **Jabalpur** {2017}
+- Nearest to the Tropic (23°26' N): **Gandhinagar**; next option set: **Jabalpur** {1999, 2002, 2010, 2017}
 - **Mahi** is the river that crosses the Tropic **twice** {2016}
 
 @flow Tropic of Cancer, west to east (8 states)

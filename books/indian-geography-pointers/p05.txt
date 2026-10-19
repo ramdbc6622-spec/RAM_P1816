@@ -33,7 +33,7 @@ Mongoloid | Naga, Khasi, Garo, Lepcha, Bhutia
 @end
 
 @section 5.3 | Customs and Festivals
-- **Polyandry**: **Toda** {2005}; **Jaunsari and Toda** (not Gond or Naga) {2006, 2009}
+- **Polyandry**: **Toda**; **Jaunsari and Toda** (not Gond or Naga) {2005, 2006, 2009}
 - **Jhum** (shifting cultivation) is practised by the **Khasi** {2010}
 - **Sarhul** (sal-blossom festival): **Oraon, Munda, Santhal** of Jharkhand {2005}
 - **Lohasur** (iron god) is worshipped by the **Agaria** (iron smelters) {2016}
@@ -84,7 +84,7 @@ Gond, Baiga, Agaria | MP, Chhattisgarh
 @end
 
 @section 5.5 | Andaman and Nicobar Tribes
-- **Jarawa** live in the **Andaman and Nicobar Islands** {2013, 2016}; called India's **most primitive** tribe {?}
+- **Jarawa** live in the **Andaman and Nicobar Islands**; called India's **most primitive** tribe {2013, 2016, ?}
 - **Rengma** is a **Naga** tribe, not native to the islands {2020}
 
 @flow Island tribes, north to south

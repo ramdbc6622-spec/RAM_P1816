@@ -31,13 +31,13 @@
 @section 21.5 | State List and Residuary
 - Parliament legislates on State List when the **States pass a resolution** (Art 252) {2012}
 - Also for treaties, by consent, in Emergency, after RS resolution (all) {2005}
-- Treaties: **Art 253** {2016, 2016}; **without** any State's consent {2006}
+- Treaties: **Art 253**; **without** any State's consent {2016, 2016, 2006}
 - Only: **RS resolution** and **national emergency** (2 and 4) {2005}
 - Residuary subjects: **Parliament** {2015}
 
 @section 21.6 | Question Hour, Zero Hour, Motions
 - Zero hour time (key): **11 am-12 noon** (it actually starts at 12 noon) {2015, 2015, 2021}
-- Zero hour: India's contribution {2004}; maximum **one hour** {2007}
+- Zero hour: India's contribution; maximum **one hour** {2004, 2007}
 - Control over CoM: **adjournment motion, question hour, supplementaries** {2017}
 - Budget-related: **cut motion** {2002, 2002, 2003}
 - Calling attention restricted the **adjournment motion** {2010}
@@ -77,7 +77,7 @@ President | Assent, withhold or return (Art 111)
 - Not charged: **Election Commissioners' pay** (per key) {2004}
 - Not charged: **Vice-President's salary** (paid as RS Chairman) {2006}
 - Not charged: **PM's salary** {2011}
-- Contingency Fund: **Art 267** {2021}; advance before Parliament's approval {1991}
+- Contingency Fund: **Art 267**; advance before Parliament's approval {2021, 1991}
 
 @table
 Charged on Consolidated Fund (not voted) | Voted
@@ -90,7 +90,7 @@ CAG, UPSC members; debt charges | MPs' salaries
 - Not in the Constitution: **"Budget"** (it says annual financial statement, Art 112) {2011}
 - Economic Survey: **before** the Budget {2004}
 - Normal stages: presentation, discussion, **Appropriation Bill, Finance Bill** (not vote on account) {2005, 2010}
-- Vote on account: withdraw money for part of the year {2004}; when the Budget will be late {2008}
+- Vote on account: withdraw money for part of the year; when the Budget will be late {2004, 2008}
 - **Vote on account-sanction of all budget** is wrong {2017}
 
 @section 21.11 | Limits and History

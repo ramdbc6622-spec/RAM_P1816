@@ -22,7 +22,7 @@
 - Economic and social planning, infants and minors: **both** Centre and States {2019}
 
 @section 28.3 | Residuary
-- Residuary powers: **Parliament** {1991}; with the **Union** {1995}
+- Residuary powers: **Parliament**; with the **Union** {1991, 1995}
 
 @section 28.4 | Art 249
 - Art 249: Parliament legislates on a **State List** subject in national interest {2009}
@@ -54,7 +54,7 @@ Art 356 | During President's Rule
 - Wrong: **River Boards Act, 1970** (it is **1956**, like the Inter-State River Water Disputes Act) {2004}
 
 @section 28.9 | Commissions
-- Sarkaria reviewed **Union-State relations** {2006, 2008, 2016}; recommendations on Centre-State relations {2003, 2004, 2014, 2018}
+- Sarkaria reviewed **Union-State relations**; recommendations on Centre-State relations {2006, 2008, 2016, 2003, 2004, 2014, 2018}
 - Member: **Dr. S.R. Sen** (with B. Sivaraman) {2017}
 - Not on Centre-State: **Indrajit Gupta Committee** (state funding of elections) {2015}
 - Demand for review; States lack resources (R explains A) {2007}
@@ -69,7 +69,7 @@ Inter-State Council | 1990 | Art 263; Presidential order
 @end
 
 @section 28.10 | Financial Relations
-- **Part XII** {2019}; **Arts 268-281** {2014}
+- **Part XII**; **Arts 268-281** {2019, 2014}
 - Union tax shared with States: all now (80th Amendment) (*) {2006}
 - Stock-exchange transaction taxes: **levied by the Union** (only 1) {2006}
 

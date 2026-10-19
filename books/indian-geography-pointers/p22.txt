@@ -78,7 +78,7 @@ Gorakhpur | Haryana | Under construction
 - First in installed capacity: **Gujarat** per key (Maharashtra in 2006); Gujarat leads now with renewables {2006}
 - **Rampura**, first solar-powered village: **UP** {2010}
 - First UT on 100% solar: **Diu** {2017}
-- Largest tidal energy area: **Khambhat** coast {2022}; most potential: **Bhavnagar** (Gulf of Khambhat) {1991}
+- Largest tidal energy area: **Khambhat** coast; most potential: **Bhavnagar** (Gulf of Khambhat) {2022, 1991}
 
 @section 22.5 | Hot Springs
 - **Lasundra-Rajasthan** is wrong (Lasundra is in **Gujarat**) {2014}

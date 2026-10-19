@@ -31,7 +31,7 @@
 - Second-generation rights: **right to work** and education {2010}
 - NHRC head need not be ex-CJI; term 3 years or 70 since 2019 (both false now) {2015}
 - NHRC Chairperson: former **CJI or SC judge** (2019 law) {2007}
-- Not constitutional: **NHRC** {2007}; status different from the others: **NHRC** (statutory) {2004}
+- Not constitutional: **NHRC**; status different from the others: **NHRC** (statutory) {2007, 2004}
 
 @table
 Body | Basis
@@ -51,7 +51,7 @@ CBI, NITI Aayog | Executive
 @section 32.6 | Review and Mandal
 - Constitution review commission: recommendatory, chaired by **M.N. Venkatachaliah** (1 and 3) {2002, 2003}
 - Chairman (2000): **M.N. Venkatachaliah** {2002}
-- Mandal set up by **Morarji Desai** {2008}; report **1980** {1991}
+- Mandal set up by **Morarji Desai**; report **1980** {2008, 1991}
 
 @section 32.7 | UPSC
 - UPSC: **constitutional** body {2014}

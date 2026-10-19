@@ -422,8 +422,8 @@ def how_to_use():
          '<font color="#8b6914">•</font> and a gold count mark facts asked once or twice. The years follow; '
          '"one-liner" means a short starred question in the source with no year given.'),
         ("Asked Most box.", "Each chapter opens with the facts UPPSC repeats most. Revise these first."),
-        ("Diagrams.", "Flowcharts and river diagrams turn sequences (river courses, confluences, processes, "
-         "orders from west to east) into one picture."),
+        ("Diagrams.", "Flowcharts and diagrams turn sequences (timelines, procedures, processes, river "
+         "courses) into one picture."),
         ("Trap Alerts.", "The places where the obvious answer is wrong or two facts are commonly swapped."),
         ("Last-Minute 10.", "The ten lines to read on the morning of the exam."),
         ("Pairs with the Masterbook.", "Use this book for revision after the TATTVA PYQ Masterbook, which has "

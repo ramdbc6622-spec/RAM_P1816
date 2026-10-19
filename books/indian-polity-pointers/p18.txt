@@ -11,7 +11,7 @@
 
 @section 18.1 | Attorney General (Art 76)
 - Holds office at the **President's pleasure** {2016}
-- First law officer: **Attorney-General** {2010}; chief legal adviser {1995}; adviser to the **Government of India** {2008}
+- First law officer: **Attorney-General**; chief legal adviser; adviser to the **Government of India** {2010, 1995, 2008}
 - Right of audience in all courts: **AG** {2015}
 - Qualified as an SC judge (true); removed like SC judges (false) (only 1) {2023}
 - SC-judge qualification (true); pay fixed by **Parliament** (false, President fixes it) (only 1) {2020}
@@ -37,7 +37,7 @@ CAG | 148-151 | 6 years / 65; removed like SC judge
 @end
 
 @section 18.4 | CAG: Appointment and Tenure
-- Appointed by the **President** {2001}; under **Art 148** {2015}
+- Appointed by the **President**; under **Art 148** {2001, 2015}
 - Union audit reports go first to the **President** (Art 151) {2013}
 - Office created **by the Constitution** {2012}
 - Tenure: **6 years** (or 65) {1993}
@@ -59,7 +59,7 @@ Order | President removes
 
 @section 18.6 | CAG and the PAC
 - Action on CAG remarks: **Parliament** {2014}
-- Attends PAC meetings: **CAG** {2011}; CAG = friend and guide of the **PAC** {2006}
+- Attends PAC meetings: **CAG**; CAG = friend and guide of the **PAC** {2011, 2006}
 - **VP-Rajya Sabha, CAG-PAC, Solicitor General-Supreme Court, AG-Lok Sabha meetings** {2005}
 
 @section 18.7 | Public Finance

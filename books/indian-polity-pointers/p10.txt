@@ -14,7 +14,7 @@
 - States **cannot secede**; advocacy of secession is not protected speech (only 1) {2019}
 
 @section 10.2 | Articles 2 to 4
-- Power to carve a new state: **Parliament** {1990, 2008, 2013, 2014}; alter boundaries: **Parliament** {2015}
+- Power to carve a new state: **Parliament**; alter boundaries: **Parliament** {1990, 2008, 2013, 2014, 2015}
 - Not under **Art 3**: **admission of new states** (that is Art 2) {2020}
 - Wrong: such a law is **not** deemed an amendment of the Constitution (Art 4) {2011}
 - New-state Bill: **simple majority** {2016}
@@ -74,7 +74,7 @@ J&K to UT | 2019
 - SRC (Fazal Ali) set up **1953**, reported 1955 (*) {1990}
 - Fazal Ali members: **K.M. Panikkar, H.N. Kunzru** {2025}
 - Union of States (no secession), Dhar favoured administrative convenience, JVP against language basis: all true {2008}
-- First linguistic state: **Andhra Pradesh** {2018}; created **1953** {2009}
+- First linguistic state: **Andhra Pradesh**; created **1953** {2018, 2009}
 
 @trap
 - **Art 2** = admit new states; **Art 3** = form and alter existing states.

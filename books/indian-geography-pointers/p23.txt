@@ -61,7 +61,7 @@ Kanpur | Elgin Mill, 1862; "Manchester of the East" (UP)
 - Biggest cooperative fertilizer plant: **Phulpur** (IFFCO, Prayagraj) {2010}
 - **Visakhapatnam-shipbuilding, Muri-aluminium, Gurgaon-automobile, Panki-fertilizer** {2006}
 - **Brajrajnagar-paper, Kaimur-cement, Haldia-petrochemical, Phulpur-fertilizer** {2008}
-- Largest petrochemical factory: **Gujarat** {2006}; largest centre: **Jamnagar** {2013}
+- Largest petrochemical factory: **Gujarat**; largest centre: **Jamnagar** {2006, 2013}
 - **Nagapattinam-AP** is wrong (it is **Tamil Nadu**) {2011}
 - **Dharmapuri-Odisha** is wrong (it is in **Tamil Nadu**) {2010}
 
@@ -70,7 +70,7 @@ Kanpur | Elgin Mill, 1862; "Manchester of the East" (UP)
 - Most paper mills: **Uttar Pradesh** {2008}
 - **Paper-Titagarh, cement-Lakheri, steel-Bhilai** {2013}
 - **Chunar** (Mirzapur): **cement** {2008}
-- India is **second** in world cement {2013}; largest cement state (2018-19): **Rajasthan** {2016}
+- India is **second** in world cement; largest cement state (2018-19): **Rajasthan** {2013, 2016}
 - MP pesticide town: **Bhopal** {2008}
 - **Sugar-Silvassa** is wrong {2014}
 - **Pithampur** (MP): **automobile** hub {2015}
@@ -89,7 +89,7 @@ Mettur | Tamil Nadu
 @end
 
 @section 23.7 | Industrial Regions
-- **Sivakasi** is **not** in Chota Nagpur {2015}; it is in the **Madurai-Coimbatore-Bengaluru** region {2014}
+- **Sivakasi** is **not** in Chota Nagpur; it is in the **Madurai-Coimbatore-Bengaluru** region {2015, 2014}
 
 @trap
 - States changed: **Bhilai** (MP to Chhattisgarh), **Ramagundam** (AP to Telangana).

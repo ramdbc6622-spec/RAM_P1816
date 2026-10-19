@@ -9,13 +9,13 @@
 @end
 
 @section 8.1 | Waterfalls
-- Highest waterfall: **Kunchikal** {2018}; height **455 m** {2015}
+- Highest waterfall: **Kunchikal**; height **455 m** {2018, 2015}
 - **Jog-Krishna** is wrong; Jog is on the **Sharavati** {2005}
 - **Budha Ghagh-Kanchi** is wrong; Budha Ghagh is on the **Burha**; **Dassam** is on the Kanchi {2021}
 - Match: **Dudhsagar-Mandovi, Duduma-Machkund, Gokak-Ghataprabha, Jog-Sharavati** {2017}
 - Match: **Dudhsagar-Goa, Barkana-Karnataka, Khandadhar-Odisha, Palani-Himachal** {2022}
 - Waterfall in **Goa**: **Dudhsagar** {2014}
-- **Chitrakote** (the "Niagara of India") is on the **Indravati** {2016}, in **Bastar** {2017}
+- **Chitrakote** (the "Niagara of India") is on the **Indravati**, in **Bastar** {2016, 2017}
 
 @table
 Waterfall | River | State

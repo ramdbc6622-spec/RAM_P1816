@@ -21,8 +21,8 @@
 - Domestic Violence Act in force: **26 October 2006** {2015}
 
 @section 23.4 | RTI: Nature
-- Assent: **15 June 2005** {2013}; passed **2005** {2013}
-- RTI is a **legal right** {2015}; both legal and (implied) fundamental {2010}
+- Assent: **15 June 2005**; passed **2005** {2013, 2013}
+- RTI is a **legal right**; both legal and (implied) fundamental {2015, 2010}
 - **MKSS** (Aruna Roy): **RTI** movement {2019}
 
 @flow RTI Act timeline

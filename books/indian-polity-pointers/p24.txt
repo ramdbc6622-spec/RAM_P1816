@@ -64,7 +64,7 @@ President | Order of removal (proved misbehaviour or incapacity)
 
 @section 24.9 | Review and Curative
 - Curative petition rests on **Art 142** (per key) {2014}
-- Review: **Art 137** {2009}; SC **can review** {2011} and **change** its judgment {2005}
+- Review: **Art 137**; SC **can review** and **change** its judgment {2009, 2011, 2005}
 
 @section 24.10 | Judicial Review
 - Declares laws **unconstitutional** {1994}

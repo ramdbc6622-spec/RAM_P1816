@@ -9,7 +9,7 @@
 @end
 
 @section 4.1 | USA
-- **Judicial review**: **USA** {1998}; exists in **India and USA** {2008, 2012}
+- **Judicial review**: **USA**; exists in **India and USA** {1998, 2008, 2012}
 - Idea of a **Preamble**: **USA** {2015}
 - **Fundamental Rights**: **USA** {2006, 2010, 2014, 2017}
 - India's Constitution is the longest; FRs from the USA (both true, R not the explanation) {2015}

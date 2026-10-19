@@ -48,7 +48,7 @@ Used | 1962, 1971, 1975 | 100+ times | Never
 @end
 
 @section 29.6 | Financial Emergency (Art 360)
-- Never used: **Art 360** {2015, 2016}; declared **never** {2006}
+- Never used: **Art 360**; declared **never** {2015, 2016, 2006}
 
 @section 29.7 | Constituent Assembly
 - "Emergency power is a fraud on the Constitution": **K.M. Nambiar** (per key) {2004}

@@ -14,7 +14,7 @@
 - Cotton fibre comes from the **seed** (seed hairs) {2009}
 
 @section 17.2 | Sugarcane and Sugar
-- Largest sugarcane area: **UP** {2015}; leading producer: **UP** {2013}
+- Largest sugarcane area: **UP**; leading producer: **UP** {2015, 2013}
 - Production order (2013): **UP, Maharashtra, Karnataka, Haryana** {2014}
 - "**Sugar Bowl**" of India: **UP** {2008}
 - Crop with the highest **irrigated share** of its area: **sugarcane** {2013}
@@ -39,9 +39,9 @@ Strong cooperatives | Maharashtra
 - Largest oilseed producer (2006): **MP**; now **Rajasthan** {2006}
 - Largest **groundnut** producer: **Gujarat** {2006}
 - Low area but very high groundnut yield: **West Bengal** {2014}
-- **Pegging** happens in **groundnut** {2010}; groundnut needs much **gypsum** {2007}
+- **Pegging** happens in **groundnut**; groundnut needs much **gypsum** {2010, 2007}
 - **Kaushal**: groundnut {2002}
-- **Varuna** {2007}, **Pusa Bold** {2013}, **Pitambari** {2015}: **mustard**
+- **Varuna**, **Pusa Bold**, **Pitambari**: **mustard** {2007, 2013, 2015}
 - Highest oil content: **sesame** {2017}
 - **Kusum** (safflower) = *Carthamus tinctorius* {2016}
 
@@ -67,7 +67,7 @@ Castor | 45-50 | Gujarat
 - NPK ratio for legumes: **1:2:2** {2013}
 - Pulses complement cereals in intercropping (both true, R not the explanation per key; the real reason is nitrogen fixation) {2023}
 - **Red gram (arhar)** originated in **India** {2007}
-- **Malaviya Chamatkar**: **arhar** {2014}; **Bahar**: **arhar** {2008, 2013}
+- **Malaviya Chamatkar**: **arhar**; **Bahar**: **arhar** {2014, 2008, 2013}
 - **Arhar-Neelam** is wrong {2008}
 - Leafless pea: **Aparna** {2013}
 

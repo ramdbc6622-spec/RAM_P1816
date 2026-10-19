@@ -39,7 +39,7 @@ Smallest | Goa | Sikkim
 - **Manipur-Aizawl** is wrong; Manipur's capital is **Imphal** (Aizawl is Mizoram's) {1990}
 - **Assam-Dispur, Nagaland-Kohima, Arunachal-Itanagar, Meghalaya-Shillong** {1994}
 - NCR towns among the options: **Khurja, Karnal, Rohtak** (not Ambala) {2011}
-- NCR does **not** include **Punjab** {?} or **Madhya Pradesh** {2017}
+- NCR does **not** include **Punjab** or **Madhya Pradesh** {?, 2017}
 
 @table
 North-east state | Capital

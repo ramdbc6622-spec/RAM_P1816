@@ -12,7 +12,7 @@
 @section 14.1 | Hydropower
 - Huge hydro potential in the Himalaya; the Nepal border does **not** stop eastern UP and Bihar (only statement 1 true) {2025}
 - Oldest hydropower station among the options: **Sivasamudram** {2008}
-- Oldest power plant: **Sidrapong** {1998}; first station at **Darjeeling** {2013}
+- Oldest power plant: **Sidrapong**; first station at **Darjeeling** {1998, 2013}
 - **Sivasamudram** is in **Karnataka** (not Kerala) {2008, 2009, 2011}
 - Bhutan plant opened by PM Modi (2019): **Mangdechhu** {2019}
 
@@ -63,7 +63,7 @@ Kota Barrage | Kota, Rajasthan (irrigation canals)
 @end
 
 @section 14.5 | Peninsular Projects
-- **Nagarjuna Sagar**: **Andhra Pradesh** {1993}; on the **Krishna** {1991, 2004, 2008, 2011}; not Godavari {2012}; not Kaveri {2004}
+- **Nagarjuna Sagar**: **Andhra Pradesh**; on the **Krishna**; not Godavari; not Kaveri {1993, 1991, 2004, 2008, 2011, 2012, 2004}
 - Match: **Bhakra-Satluj, Hirakud-Mahanadi, Idukki-Periyar, Nagarjuna Sagar-Krishna** {1995}
 - Match: **Idukki-Periyar, Matatila-Betwa, Nagarjuna Sagar-Krishna, Pochampad-Godavari** {2002, 2003}
 - Match: **Rihand-Rihand, Nagarjuna Sagar-Krishna, Pochampad-Godavari, Matatila-Betwa** {2016}
@@ -74,12 +74,12 @@ Kota Barrage | Kota, Rajasthan (irrigation canals)
 - Match: **Bhadra-Karnataka, Bhavani Sagar-Tamil Nadu, Gandhi Sagar-MP, Rana Pratap Sagar-Rajasthan** {2006}
 - **Rana Pratap Sagar-MP** is wrong (Rajasthan) {2004}
 - **Ukai-Tapi, Jayakwadi-Godavari, Khadakwasla-Mutha** {2019}
-- **Telugu Ganga**: joint project of **TN, AP, Karnataka** {1999}; supplies **Chennai** {1996}
+- **Telugu Ganga**: joint project of **TN, AP, Karnataka**; supplies **Chennai** {1999, 1996}
 - **Babli** project (Godavari dispute): **Maharashtra** {2012}
 - **Teesta Low Dam III**: **West Bengal** {2003}
 - **Kalpong** hydro project: **Andaman and Nicobar** {2002}
 - **Kalpasar** freshwater reservoir: **Gujarat** (Gulf of Khambhat) {2010}
-- **Malampuzha** dam is on the **Malampuzha** river {2017}; **Cheruthoni** dam on the **Periyar** {2017}
+- **Malampuzha** dam is on the **Malampuzha** river; **Cheruthoni** dam on the **Periyar** {2017, 2017}
 
 @table
 Project | River | State

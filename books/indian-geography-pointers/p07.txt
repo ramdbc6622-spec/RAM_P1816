@@ -12,7 +12,7 @@
 - Western Ghat rivers make **no delta**: short, swift, hard rock (A and R true, R explains A) {2010, 2013, 2014}
 - Narmada and Tapi reach the **Arabian Sea** because they flow in **rift valleys** {1999, 2002}
 - The Narmada forms **no delta** (A false, R true) {2005}
-- River in a **fault trough**: **Narmada** {2010}; rift valley: **Tapi** {2013, 2017}
+- River in a **fault trough**: **Narmada**; rift valley: **Tapi** {2010, 2013, 2017}
 - **Narmada** flows **between two ranges** (Vindhya and Satpura) {2012}
 - **Tapti** forms an **estuary** {2006}
 - **Damodar** is famous for **fault-valley (rift) drainage** on the east side {2019}
@@ -29,7 +29,7 @@ Form deltas | Mahanadi, Godavari, Krishna, Kaveri
 @section 7.2 | Sources of the Rivers
 - **Amarkantak**: source of the **Narmada** (and Son) {2008}
 - **Son**'s actual source: **Son Bachharwar**, Bilaspur district {2007}
-- **Tapti** does **not** rise in the Western Ghats (it rises at **Multai**, Satpura) {2018}; it falls into the **Arabian Sea** {1992}
+- **Tapti** does **not** rise in the Western Ghats (it rises at **Multai**, Satpura); it falls into the **Arabian Sea** {2018, 1992}
 - Sources: **Yamuna-Yamunotri, Krishna-Mahabaleshwar, Godavari-Nashik, Mahanadi-Sihawa** {2023}
 - **Kaveri** rises in the **Brahmagiri** hills (Talakaveri) {2011, 2013}
 
@@ -45,7 +45,7 @@ Luni | Near Ajmer (Aravalli)
 @end
 
 @section 7.3 | Basins and Tributaries
-- Longest Peninsular river: **Godavari** {2013, 2014}; largest catchment: **Godavari** {2009}
+- Longest Peninsular river: **Godavari**; largest catchment: **Godavari** {2013, 2014, 2009}
 - Largest basin among the options: **Mahanadi** {2021, 2022}
 - "Ganga of the South": **Kaveri** in the UPPSC key (NCERT calls the Godavari Dakshin Ganga) {2015}
 - **Pranhita** joins the **Godavari**, not the Mahanadi {2023}

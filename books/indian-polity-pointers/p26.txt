@@ -33,7 +33,7 @@ About one-sixth | Nominated by Governor
 @end
 
 @section 26.4 | Assembly (Art 170)
-- Minimum and maximum: **60 and 500** {2017}; maximum **500** {2014}
+- Minimum and maximum: **60 and 500**; maximum **500** {2017, 2014}
 - Exception to 60: **Sikkim** (32) {2015}
 - Largest Assembly: **UP** (403) {2006}
 - **Manipur-62** is wrong (it has **60**) {2022}

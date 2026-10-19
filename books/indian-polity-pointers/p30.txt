@@ -9,7 +9,7 @@
 @end
 
 @section 30.1 | Functions
-- Distributes taxes between Centre and States {2023}; finances shared on its advice {2008, 2010, 2013}
+- Distributes taxes between Centre and States; finances shared on its advice {2023, 2008, 2010, 2013}
 - Determines the States' share of taxes and grants {1993, 2002}
 - Advises the **President** on dividing net tax proceeds {2006}
 

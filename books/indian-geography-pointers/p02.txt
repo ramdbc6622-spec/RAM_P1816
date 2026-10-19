@@ -29,7 +29,7 @@ Tertiary, Quaternary | Himalaya, petroleum; alluvial plains
 - Most seismic zones are in the Himalaya because of **longitudinal thrusts** {2019}
 - **Lesser Himalaya**: marine fossils; **Shiwalik**: remains of early humans; Greater Himalaya sediments are not fossil-less {2019}
 - **Himachal** = the **Lesser Himalaya** {2008}
-- Youngest range: **Shiwalik** {2010}; if only Himalayan vs Peninsular ranges are offered: **Himadri** {2020}
+- Youngest range: **Shiwalik**; if only Himalayan vs Peninsular ranges are offered: **Himadri** {2010, 2020}
 - **Kumaon Himalaya** lies between the **Satluj and Kali** {2016}
 
 @flow Himalayan ranges, north to south
@@ -59,7 +59,7 @@ Assam Himalaya | Tista to Dihang (Brahmaputra)
 - **Tripura** does not lie along the **Patkai** hills {2015}
 
 @section 2.4 | The Northern Plains
-- Gravelly plain at the foot of the Shiwalik: **Bhabar** {2007}; it is a **piedmont** region {1994}
+- Gravelly plain at the foot of the Shiwalik: **Bhabar**; it is a **piedmont** region {2007, 1994}
 - **Kuttanad** (Kerala) is India's **lowest** region, below sea level {2015}
 
 @flow Northern plain belts, from the hills southward
@@ -70,7 +70,7 @@ Khadar | New alluvium renewed by floods
 @end
 
 @section 2.5 | Old Mountains and Peninsular Hills
-- **Aravalli** = oldest mountains {1991, 2010, 2017}; a **residual** mountain {2005}; mainly in **Rajasthan** {?}
+- **Aravalli** = oldest mountains; a **residual** mountain; mainly in **Rajasthan** {1991, 2010, 2017, 2005, ?}
 - **Satpura** lies between the **Narmada and Tapti** {2007}
 - Central India hills, **west to east**: **Satpura, Mahadeo, Maikal, Chotanagpur** {2019}
 - **Nilgiri** hills: junction of **Karnataka, Kerala and Tamil Nadu** {2015}
@@ -86,7 +86,7 @@ Khadar | New alluvium renewed by floods
 - Highest peak claimed by India: **K2** (PoK); highest in Indian control: **Kanchenjunga**; wholly in India: **Nanda Devi** {1990, 2009}
 - Peaks east to west: **Namcha Barwa, Kanchenjunga, Everest, Nanda Devi** {2008}
 - **Cho Oyu, Lhotse** are Himalayan; Annamalai, Sirumalai are not {2022}
-- Not in India: **Gosainthan** (Tibet) {2005}; **Gurla Mandhata, Namcha Barwa** {2019}
+- Not in India: **Gosainthan** (Tibet); **Gurla Mandhata, Namcha Barwa** {2005, 2019}
 - **Trishul** peak: Uttarakhand (Garhwal) {2021}
 - State peaks: **Kerala-Anaimudi, Nagaland-Saramati, Uttarakhand-Nanda Devi, TN-Doddabetta** {2018}
 - State peaks: **TN-Doddabetta, Rajasthan-Guru Shikhar, Nagaland-Saramati, MP-Dhupgarh** {2021, 2025}
@@ -111,7 +111,7 @@ MP / Jharkhand | Dhupgarh / Parasnath (1,350)
 - **Bhor Ghat** is in **Maharashtra**, not HP {1998}
 - Western Ghat passes north to south: **Thal Ghat, Bhor Ghat, Pal Ghat** {2023}
 - **Khyber** is not a Western Ghats pass (it is in Pakistan-Afghanistan) {2016}
-- **Niti** = **Uttarakhand** {2023}; **Lipulekh** = **Uttarakhand** (not UP or Ladakh) {2001, 2008, 2014, ?}
+- **Niti** = **Uttarakhand**; **Lipulekh** = **Uttarakhand** (not UP or Ladakh) {2023, 2001, 2008, 2014, ?}
 - **Nathu La** = **Sikkim** (not Meghalaya or Arunachal) {2010, 2013, 2017, ?}
 - **Zoji La** leads to **Leh** (now in Ladakh, not Arunachal) {2016, 2023}
 - **Rohtang** = **Himachal Pradesh** {?}
@@ -134,7 +134,7 @@ Bum La, Se La, Bomdi La | Arunachal Pradesh
 @end
 
 @section 2.8 | Glaciers
-- Largest: **Siachen** {2013, 2017}; without Siachen in the options: **Gangotri** {1995}
+- Largest: **Siachen**; without Siachen in the options: **Gangotri** {2013, 2017, 1995}
 - **Chaurabari** glacier is **north of Kedarnath** {2004, 2010}
 - **Milam** glacier is in **Kumaon** (Pithoragarh) {2014}
 

@@ -97,7 +97,7 @@ Minerva Mills 1980 | Reaffirmed; FR-DPSP balance
 
 @section 12.12 | Against Exploitation
 - Covers **trafficking and forced labour, child labour in factories** (2, 3) {2024}
-- Child exploitation: **Art 24** {2005, 2009, 2011, 2017}; children in factories: **Art 24** {?}
+- Child exploitation: **Art 24**; children in factories: **Art 24** {2005, 2009, 2011, 2017, ?}
 - **Bonded Labour** abolished by an Act of **1976** {2001, 2010}
 - Child labour in hazardous work banned by all listed (Constitution and UN) {2002, 2003}
 
@@ -112,13 +112,13 @@ Minerva Mills 1980 | Reaffirmed; FR-DPSP balance
 - "Minorities" not defined; only religious and linguistic recognised (both true, R not the explanation) {2019}
 
 @section 12.15 | Article 32
-- Guardian of FRs: **judiciary** {2010, 2012, 2015}; **Supreme Court** {1992, 2004, 2015}
+- Guardian of FRs: **judiciary**; **Supreme Court** {2010, 2012, 2015, 1992, 2004, 2015}
 - Not correct: **President** is guardian of FRs {2013}
 - Art 32 enforces **FRs** only {1997}
-- "Heart and soul": **right to constitutional remedies** {2004, 2010, 2010}; Art 32 gives a remedy (R explains A) {2016}
+- "Heart and soul": **right to constitutional remedies**; Art 32 gives a remedy (R explains A) {2004, 2010, 2010, 2016}
 
 @section 12.16 | Writs
-- Greatest safeguard of liberty: **habeas corpus** {2015}; issued by High Court for liberty {2015}
+- Greatest safeguard of liberty: **habeas corpus**; issued by High Court for liberty {2015, 2015}
 - **Prohibition-"to be certified"** is wrong (that is certiorari) {2019}
 - Order to perform duty: **mandamus** {2001, 2007}
 
@@ -132,7 +132,7 @@ Quo warranto | "By what authority"; illegal holding of office
 @end
 
 @section 12.17 | Right to Property
-- Omitted by the **44th Amendment** {2004, 2004, 2010, 2013, 2013, 2015}; removed from FRs {2007, 2014}
+- Omitted by the **44th Amendment**; removed from FRs {2004, 2004, 2010, 2013, 2013, 2015, 2007, 2014}
 - Now a **constitutional legal right** (Art 300A) {1992, 1996}
 
 @section 12.18 | Citizens vs All Persons

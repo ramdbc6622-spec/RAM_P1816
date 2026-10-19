@@ -16,7 +16,7 @@
 @section 22.2 | Estimates Committee
 - Largest (among options): **Estimates Committee** (30 members) {2017, 2020}
 - Term: **one year** {2016}
-- No RS member: **Estimates Committee** {2008, 2010}; drawn from **Lok Sabha** {2010}
+- No RS member: **Estimates Committee**; drawn from **Lok Sabha** {2008, 2010, 2010}
 
 @table
 Committee | Members | Note
@@ -43,7 +43,7 @@ PAC examines | After spending: post-mortem
 
 @section 22.4 | Joint Committees
 - Standing committees: LS and RS members in a **2:1** ratio {2013}
-- 2G JPC: **20 LS + 10 RS** {2010}; headed by **P.C. Chacko** {2010}
+- 2G JPC: **20 LS + 10 RS**; headed by **P.C. Chacko** {2010, 2010}
 
 @trap
 - Estimates = **LS only**; PAC and COPU have **7 RS** members.

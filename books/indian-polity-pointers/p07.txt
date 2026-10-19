@@ -17,7 +17,7 @@
 - Status on 26 January 1950: **Sovereign Democratic Republic** {2008, 2009}
 - Absent in 1949: **Socialist, Integrity, Secular** (Republic was present) {2009}
 - Not in the Preamble in 1975: **Integrity** {2006}
-- **Secular and Socialist** added by the **42nd Amendment** {2008, 2017}; Secular by the 42nd {1991, 2010, 2013}
+- **Secular and Socialist** added by the **42nd Amendment**; Secular by the 42nd {2008, 2017, 1991, 2010, 2013}
 - Inserted by the 42nd: **Socialist and Secular** (not Sovereign, Republic) {2025}
 - Added: **Socialist and Secular**; "Gram Swarajya" is not in the Preamble {2010}
 - Balram Singh case (Nov 2024): SC upheld the insertion of Socialist and Secular
@@ -42,7 +42,7 @@ Date | 26 November 1949
 
 @section 7.5 | Four Objectives
 - Justice, liberty, equality, fraternity: **3, 5, 2, 1** {2018}
-- Types of justice: **three** {2016}: **social, economic, political** {2021}
+- Types of justice: **three**: **social, economic, political** {2016, 2021}
 - Not mentioned: **religious justice** {?}
 - Liberty not mentioned: **economic freedom** {2008}
 - Goals: justice, liberty of thought, equality of opportunity, dignity: **all** {1998}

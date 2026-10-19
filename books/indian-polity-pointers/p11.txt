@@ -7,11 +7,11 @@
 @end
 
 @section 11.1 | Constitutional Provisions
-- Citizenship provisions: **Part II** {2010, 2018}; **Articles 5 to 11** {2020}
+- Citizenship provisions: **Part II**; **Articles 5 to 11** {2010, 2018, 2020}
 - Competent to prescribe conditions: **Parliament** {2013}
 
 @section 11.2 | Single Citizenship
-- Citizenship under the Constitution: **single** {1994}; single citizenship for all India {2015}
+- Citizenship under the Constitution: **single**; single citizenship for all India {1994, 2015}
 
 @section 11.3 | Loss of Citizenship
 - Lost by **renunciation** and **voluntarily acquiring another citizenship**; not by marrying a foreigner or criticising the government {2017}

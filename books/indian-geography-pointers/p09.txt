@@ -47,7 +47,7 @@ Below 50 cm | West Rajasthan, Kutch, Ladakh
 
 @section 9.4 | Winter Weather
 - Winter is **dry** for most of India; NE trade winds (source key: R true but not the explanation) {2023}
-- Most **north-east monsoon** rain: **Tamil Nadu** {2009}; Tamil Nadu's winter rain comes from it {2008}
+- Most **north-east monsoon** rain: **Tamil Nadu**; Tamil Nadu's winter rain comes from it {2009, 2008}
 - Winter rain in the **northern plains**: **western disturbances** {1993, 2021}
 - Western-disturbance rain **decreases from west to east** {2019}
 - Area with winter rain: the **north-west** {2012}

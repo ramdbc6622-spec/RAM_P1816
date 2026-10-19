@@ -10,7 +10,7 @@
 @end
 
 @section 6.1 | Master Map
-- States and territories: **First Schedule** {2014}; new state needs amending the **First** {2008}
+- States and territories: **First Schedule**; new state needs amending the **First** {2014, 2008}
 - **Fourth Schedule**: seats in the **Council of States** {2015}
 
 @table
@@ -33,7 +33,7 @@ Schedule | Subject
 - **7th-legislative distribution, 8th-languages, 9th-validation of Acts, 10th-disqualification for defection** {2016, 2016, 2025}
 - **3rd-oaths, 4th-RS seats, 7th-lists of subjects, 8th-languages** {2022}
 - **4th-Council of States, 6th-tribal areas, 8th-language, 9th-land reforms** {1999}
-- **Ninth-RS seats** is wrong {2023}; **RS seats-Second** is wrong {2019}
+- **Ninth-RS seats** is wrong; **RS seats-Second** is wrong {2023, 2019}
 
 @section 6.3 | Third Schedule
 - In the Third Schedule: oaths of a **Union Minister, SC Chief Justice, MP**; **not** the President (Art 60) {2017}
@@ -75,7 +75,7 @@ Administration of justice | Not yet asked
 - Anti-defection: **Tenth Schedule** {2013, ?}
 
 @section 6.10 | Eleventh and Twelfth
-- **Eleventh**: **Panchayati Raj** {2014, 2015}; it has **29** items {2019}
+- **Eleventh**: **Panchayati Raj**; it has **29** items {2014, 2015, 2019}
 
 @trap
 - **2nd** = salaries; **4th** = RS seats. **5th** = Scheduled Areas; **6th** = AMTM tribal areas.

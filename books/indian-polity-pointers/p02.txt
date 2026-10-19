@@ -31,11 +31,11 @@
 - First meeting: **9 December 1946** {1990, 1995, 2011, 1990}
 
 @section 2.5 | Objectives Resolution
-- Moved by **Nehru** on 13 December 1946 {2007}; adopted **22 January 1947** {1998}
+- Moved by **Nehru** on 13 December 1946; adopted **22 January 1947** {2007, 1998}
 - True: the Objectives Resolution shaped the Constitution; Preamble states objectives; people gave the Constitution. False: Head of State directly elected {2010}
 
 @section 2.6 | B.N. Rau and Readings
-- Constitutional Adviser: **B.N. Rau** {1998, 2014}; first draft by **B.N. Rau** {2009}
+- Constitutional Adviser: **B.N. Rau**; first draft by **B.N. Rau** {1998, 2014, 2009}
 - Third reading began **17 November 1949** (some texts 14 November) (*) {2014}
 
 @flow From Assembly to Republic
@@ -51,7 +51,7 @@
 @section 2.7 | Adoption and Commencement
 - Completed and adopted: **26 November 1949** {2002, 2006, 2010}
 - Came into force: **26 January 1950** {1990}
-- Enacted by the **Constituent Assembly** {2012}; adopted and enacted 26 November 1949 {2013, 2015}
+- Enacted by the **Constituent Assembly**; adopted and enacted 26 November 1949 {2012, 2013, 2015}
 - Order: **first meeting, Drafting Committee, adoption, commencement** {2023}
 
 @section 2.8 | Sessions and Time

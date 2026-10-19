@@ -13,7 +13,7 @@
 @section 13.1 | Objectives
 - DPSPs aim at economic and social democracy (R explains A) {2025}
 - Not an objective: **a religious state** {2013, 2017}
-- Welfare state: **DPSP** {2004, 2004, 2013}; in both **Preamble and DPSP** {1997}
+- Welfare state: **DPSP**; in both **Preamble and DPSP** {2004, 2004, 2013, 1997}
 
 @section 13.2 | Source and Types
 - Source: **Ireland** {1994, 2005, 2008, 2015}
@@ -46,7 +46,7 @@ Article | Directive
 @end
 
 @section 13.5 | Article 39
-- Equal pay for equal work: a **DPSP** {1998, 2004, 2010}; included in DPSP {2012}
+- Equal pay for equal work: a **DPSP**; included in DPSP {1998, 2004, 2010, 2012}
 - Not an FR: **equal pay for equal work** {2014}
 - Protection from exploitation for **children, women, tribals** (1, 2, 3) {2009}
 
@@ -65,7 +65,7 @@ Article | Directive
 - "State shall endeavour to protect the environment": a **DPSP** {2009}
 
 @section 13.9 | Article 51
-- International peace and security: **DPSP** {2017}; foreign policy: **Art 51** {2016}
+- International peace and security: **DPSP**; foreign policy: **Art 51** {2017, 2016}
 
 @section 13.10 | Added Later
 - Workers in management: **Art 43A** (42nd) {2009, 2019}

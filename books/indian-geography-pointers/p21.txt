@@ -10,7 +10,7 @@
 @end
 
 @section 21.1 | Coal: Reserves and Production
-- Main source of coal: **Gondwana** system {2006, 2008}; over **90%** of coal {2016, 2017}
+- Main source of coal: **Gondwana** system; over **90%** of coal {2006, 2008, 2016, 2017}
 - India is a leading coal producer with vast reserves in **Jharkhand and Chhattisgarh** (both true) {2023}
 - Over half of proved reserves in **Jharkhand and Odisha**; key says both true, R not the explanation (resources are now about 361 bt, not 293.5) {2019}
 - Reserves order in 2014: Jharkhand first; **Odisha** leads in total resources now (*) {2014}
@@ -28,7 +28,7 @@ Peat | Below 50%; first stage
 @end
 
 @section 21.2 | Coalfields and their States
-- **Chota Nagpur** industry grew around **coal** {2004}; it gave about **60%** of coal (then) {1998}
+- **Chota Nagpur** industry grew around **coal**; it gave about **60%** of coal (then) {2004, 1998}
 - Valleys: **Damodar-Barakar, Son-Umaria, Godavari-Singareni, Mahanadi-Talcher** {2010}
 - Valleys: **Talcher-Mahanadi, Karanpura-Damodar, Singrauli-Son, Singareni-Godavari** {2019}
 - **Talcher**: **Odisha** {2010}
@@ -69,7 +69,7 @@ Coal India Ltd | Set up 1975
 
 @section 21.3 | Lignite and the Use of Coal
 - Lignite has about 35-40% carbon (true); **Jharkhand** is **not** the lignite leader (A true, R false) {2002}
-- Largest lignite deposit: **Tamil Nadu** {2013}; largest lignite field: **Neyveli** {2019}
+- Largest lignite deposit: **Tamil Nadu**; largest lignite field: **Neyveli** {2013, 2019}
 - **Jharkhand** does **not** have large lignite reserves {2017}
 - Most coal is used for **power (energy) generation** {2008}
 - Coal is a major part of inter-state rail traffic; Bengal-Jharkhand coal feeds the north-west (R explains A) {2010}
@@ -121,7 +121,7 @@ Visakhapatnam, Tatipaka | Andhra Pradesh
 - Strategic reserves at **Visakhapatnam, Mangaluru, Padur**; **Ankleshwar** not chosen {2008}
 - "Hydrocarbon Vision 2025" (key: "Hydrogen") = **storage/warehousing of petroleum** {2004}
 - Oil exploration: **Oil India Ltd** (with ONGC) {2004}
-- **HBJ** pipeline carries gas from the **South Basin** (Bassein) {2006}; built by **GAIL** {2014}
+- **HBJ** pipeline carries gas from the **South Basin** (Bassein); built by **GAIL** {2006, 2014}
 - Reliance's huge gas find: **coastal Andhra** (KG basin) {2002}
 - **KG-D6**: **gas** {2011}
 - Most natural gas: **Bombay High** {2012, 2013}

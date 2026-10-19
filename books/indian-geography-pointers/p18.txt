@@ -15,7 +15,7 @@
 - **Eri silk-Assam** is correct {2008}
 - True: Karnataka = largest raw silk producer; **Jharkhand** = largest **tasar** producer {2010}
 - **Muga** silk is found only in India, in **Assam** {2008}
-- Largest silk **fabric** producer: **Karnataka** {2013}; most silk **yarn**: **Karnataka** {2017}
+- Largest silk **fabric** producer: **Karnataka**; most silk **yarn**: **Karnataka** {2013, 2017}
 
 @table
 Silk | Silkworm food | Leading state
@@ -34,9 +34,9 @@ Muga (golden) | Som, soalu | Assam (India only)
 - Tea is a **stimulant** crop {2017}
 
 @section 18.3 | Coffee and Rubber
-- Largest coffee producer: **Karnataka** {2002, 2004, 2006, 2010}; over **70%** of output {2016}
+- Largest coffee producer: **Karnataka**; over **70%** of output {2002, 2004, 2006, 2010, 2016}
 - Largest coffee **area**: **Karnataka** {2002}
-- Largest rubber producer: **Kerala** {2004, 2014}; **Kerala-Rubber** correct {2022}
+- Largest rubber producer: **Kerala**; **Kerala-Rubber** correct {2004, 2014, 2022}
 - **Rubber-Himachal** is wrong {2017}
 
 @section 18.4 | Plantations, Tobacco and Coconut

@@ -16,7 +16,7 @@
 
 @section 19.2 | Strength (Art 81)
 - 525 to 545: **31st Amendment** (1973) {2004}
-- Maximum: **550** {2006}; UT maximum: **20** {2008, 2018}
+- Maximum: **550**; UT maximum: **20** {2006, 2008, 2018}
 - 2009: **530** constituencies from States {2007}
 
 @section 19.3 | Census Freeze
@@ -66,15 +66,15 @@ Assam, Jharkhand | 14 each
 
 @section 19.7 | Speaker: Removal
 - Resignation to the **Deputy Speaker** {2008, 2014}
-- Removed by an LS resolution {2007} passed by a **majority of all members** (effective majority) {2008}
+- Removed by an LS resolution passed by a **majority of all members** (effective majority) {2007, 2008}
 
 @section 19.8 | Pro tem, Casting Vote, Deputy
-- Pro tem Speaker **administers oath** {2010}; usually a **senior-most** member {2017}
-- Casting vote only in a **tie** {2008}; under **Art 100** {2015}
+- Pro tem Speaker **administers oath**; usually a **senior-most** member {2010, 2017}
+- Casting vote only in a **tie**; under **Art 100** {2008, 2015}
 - Deputy Speaker presiding: may **vote in a tie** {2016}
 
 @section 19.9 | Speakers
-- First Speaker: **G.V. Mavalankar** {2011, 2023}; first no-confidence against a Speaker {2000, 2004}
+- First Speaker: **G.V. Mavalankar**; first no-confidence against a Speaker {2011, 2023, 2000, 2004}
 - First woman: **Meira Kumar** {2007, 2008}
 - First tribal: **P.A. Sangma** {2015}
 - **11th-Sangma, 12th-Balayogi, 14th-Somnath Chatterjee, 17th-Om Birla** {2025}
