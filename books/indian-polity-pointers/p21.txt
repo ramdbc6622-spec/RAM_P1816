@@ -1,0 +1,121 @@
+@chapter 21 | The Parliament III: Work Management and Legislative Process
+@meta Built from 59 UPPSC questions (1991–2024). Focus: what Parliament consists of, joint sitting, Money Bills, Consolidated and Contingency Funds, Budget stages, zero hour.
+
+@hot
+- Parliament = **President + Lok Sabha + Rajya Sabha**; the VP is **not** a part {2004, 2011, 2012, 2013, 2013, 2014, 2015, 2017, 2024}
+- **Joint sitting** (Art 108) presided by the **Speaker**; only for ordinary Bills {1997, 2005, 2006, 2009, 2010, 2013, 2013, 2013, 2014, 2020, 2021, 2023}
+- **Money Bill**: Art 110; **Speaker** certifies; only in LS; RS has **14 days** {1992, 1992, 2000, 2006, 2006, 2007, 2011, 2012, 2014, 2015, 2016, 2019}
+- **Zero hour**: Indian innovation, from **12 noon** (key: 11-12), up to one hour {2004, 2007, 2015, 2015, 2021}
+- **Cut motion** is linked to the Budget {2002, 2002, 2003}
+@end
+
+@section 21.1 | Composition and Address
+- President's special address: at the first session after each election and each year; tells the causes of summons (both) {2021}
+- Constitution says: President **not** a member of either House; Parliament = President + both Houses (both) {2024}
+- Parliament = **President, Rajya Sabha, Lok Sabha** {2004, 2011, 2012, 2013, 2014, 2015, 2017}
+- Not part of Parliament: **Vice-President** {2013}
+
+@section 21.2 | Sessions and Officers
+- Parliament must meet at least **twice** a year (gap under 6 months) {1995}
+- Officers: **Speaker, Deputy Speaker, Secretary-General, RS Chairman** (all four) {2010, 2013}
+
+@section 21.3 | Membership
+- Seat vacated after **60 days'** absence without leave {2018}
+- First disqualified for absence: a **Rajya Sabha** member {2004}
+- Office of profit decided by the **President** (MPs) and **Governor** (MLAs) on EC opinion {2000, 2006}
+
+@section 21.4 | Privileges
+- Not a collective privilege: **freedom from attending as witness** (individual) {2017}
+- Courts cannot inquire into proceedings: **Art 122** {2010}
+
+@section 21.5 | State List and Residuary
+- Parliament legislates on State List when the **States pass a resolution** (Art 252) {2012}
+- Also for treaties, by consent, in Emergency, after RS resolution (all) {2005}
+- Treaties: **Art 253** {2016, 2016}; **without** any State's consent {2006}
+- Only: **RS resolution** and **national emergency** (2 and 4) {2005}
+- Residuary subjects: **Parliament** {2015}
+
+@section 21.6 | Question Hour, Zero Hour, Motions
+- Zero hour time (key): **11 am-12 noon** (it actually starts at 12 noon) {2015, 2015, 2021}
+- Zero hour: India's contribution {2004}; maximum **one hour** {2007}
+- Control over CoM: **adjournment motion, question hour, supplementaries** {2017}
+- Budget-related: **cut motion** {2002, 2002, 2003}
+- Calling attention restricted the **adjournment motion** {2010}
+- Rule 184 debates end in a **vote** (R explains A) {2001, 2002}
+
+@flow How an ordinary Bill becomes law
+First reading | Introduced; published
+Second reading | General discussion; committee; clause by clause
+Third reading | Accept or reject
+Other House | Same three stages; deadlock goes to joint sitting
+President | Assent, withhold or return (Art 111)
+@end
+
+@section 21.7 | Passing Bills and Joint Sitting
+- General discussion: **second reading** {2006}
+- Joint sitting is **Art 108** (not 109); **Speaker** presides (only 2) {2023}
+- Joint sitting: **Art 108** {2021}
+- Neither: Art 109 is not joint sitting; no joint sitting for amendment Bills {?}
+- Presides: **Speaker of Lok Sabha** {2005, 2006, 2009, 2010, 2013, 2013, 2013, 2014}
+- First joint sitting: **Dowry Prohibition Bill** (1961) {2004}
+- Joint sitting resolves **ordinary legislation** {1997, 2020}
+
+@section 21.8 | Money Bills
+- Defined in **Art 110** {2000, 2019}
+- Not a Money Bill matter: **fines or penalties** {2010}
+- Decides a Money Bill: **Speaker** {1992, 2007, 2014}
+- Introduced in **Lok Sabha** {2006, 2011, 2012, 2015}
+- Deemed passed by RS after **14 days** {1992, 2006, 2016}
+- RS amendments: deemed passed if LS passes it again (accept or reject) {1994}
+- Bill only involving expenditure: either House {2016}
+- President's prior sanction: **new State, State-interest taxes, boundaries, Money Bill** (all) {2005}
+- True: property not an FR; RS can stop a (non-money) Financial Bill (1 and 2) {2007}
+
+@section 21.9 | Funds
+- No tax without authority of law: **Art 265** {2007}
+- Issue from Consolidated Fund: none listed (needs **appropriation law**) {2000}
+- Not charged: **Election Commissioners' pay** (per key) {2004}
+- Not charged: **Vice-President's salary** (paid as RS Chairman) {2006}
+- Not charged: **PM's salary** {2011}
+- Contingency Fund: **Art 267** {2021}; advance before Parliament's approval {1991}
+
+@table
+Charged on Consolidated Fund (not voted) | Voted
+President's emoluments; RS Chairman, Speaker, Deputy Speaker | PM and ministers' salaries
+SC judges' salary; HC judges' pension | Most ministries' grants
+CAG, UPSC members; debt charges | MPs' salaries
+@end
+
+@section 21.10 | Budget
+- Not in the Constitution: **"Budget"** (it says annual financial statement, Art 112) {2011}
+- Economic Survey: **before** the Budget {2004}
+- Normal stages: presentation, discussion, **Appropriation Bill, Finance Bill** (not vote on account) {2005, 2010}
+- Vote on account: withdraw money for part of the year {2004}; when the Budget will be late {2008}
+- **Vote on account-sanction of all budget** is wrong {2017}
+
+@section 21.11 | Limits and History
+- Sovereignty limited by **judicial review** {2004}
+- Golden Jubilee: **13 May 2002** {2008}
+- First Indian Speaker of the Central Legislative Assembly (1925): **Vithalbhai Patel** {2007}
+
+@trap
+- Art **108** joint sitting; **109** Money Bill procedure; **110** definition; **118(4)** Speaker presides.
+- No joint sitting for **Money** or **Amendment** Bills.
+- Every Money Bill is a Financial Bill, not the reverse.
+- Demands for grants are voted only in the **Lok Sabha**.
+@end
+
+@up The UP Legislature mirrors this: Money Bills only in the **Vidhan Sabha** (Art 198), its Speaker certifies, and the Vidhan Parishad has **14 days**. UP's budget is the largest of any State.
+
+@last
+- Parliament = **President + LS + RS**; VP not part
+- Meets **twice** a year; 60 days' absence vacates seat
+- Art **122** courts barred; **253** treaties; **249** RS resolution
+- Zero hour = India; up to **1 hour**
+- Cut motion = Budget; calling attention limits adjournment
+- Joint sitting **Art 108**; **Speaker** presides; first: Dowry Bill 1961
+- Money Bill **Art 110**; Speaker certifies; RS **14 days**
+- Art **265** tax by law; **267** Contingency Fund
+- "Budget" not in Constitution; Art 112
+- **Vithalbhai Patel** = first Indian Speaker (1925)
+@end

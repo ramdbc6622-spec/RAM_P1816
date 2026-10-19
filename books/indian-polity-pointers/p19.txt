@@ -1,0 +1,109 @@
+@chapter 19 | The Parliament I: Lok Sabha
+@unit UNIT V · PARLIAMENT
+@meta Built from 40 UPPSC questions (1995–2025). Focus: Lok Sabha strength, 1971 Census freeze, state seats, reserved seats, quorum, Speaker and pro tem Speaker.
+
+@hot
+- Maximum Lok Sabha strength **550** (530 States + 20 UTs; Anglo-Indian seats lapsed 2020) {2006, 2007, 2008, 2018}
+- **UP** has the most seats in both Houses (80 LS, 31 RS) {1995, 2012}
+- Quorum: **one-tenth** of total members {2004, 2006, 2008, 2017}
+- Speaker resigns to the **Deputy Speaker**; removed by LS majority of members {2007, 2008, 2008, 2014}
+- First Speaker: **G.V. Mavalankar**; first no-confidence against a Speaker too {2000, 2004, 2011, 2023}
+- First woman Speaker: **Meira Kumar** {2007, 2008}
+@end
+
+@section 19.1 | Elections
+- Not correct: rolls prepared under the **State** Government's control (it is the EC) {2011}
+
+@section 19.2 | Strength (Art 81)
+- 525 to 545: **31st Amendment** (1973) {2004}
+- Maximum: **550** {2006}; UT maximum: **20** {2008, 2018}
+- 2009: **530** constituencies from States {2007}
+
+@section 19.3 | Census Freeze
+- State seats based on the **1971 Census** {2003}
+- **84th Amendment** froze seats till the first census after **2026** {2005}
+
+@flow Seat freeze timeline
+42nd Amendment 1976 | Froze seats on 1971 Census till 2000
+84th Amendment 2001 | Extended freeze till census after 2026
+87th Amendment 2003 | Boundaries redrawn on 2001 Census
+106th Amendment 2023 | One-third women's seats after next delimitation
+@end
+
+@section 19.4 | State Seats
+- Most seats in **both Houses**: **UP** {1995, 2012}
+- After UP: **Maharashtra** (48) {2008}
+- Bihar then = Assam + undivided MP (54) (*) {2000}
+- Equal seats then: AP and WB (42) (*) {2005}
+- Wrong then: Assam seats; AP 42 is wrong now (25) {1997}
+- Two Lok Sabha seats: **Tripura** {2016}
+- Largest UP seat by electors: **Ghaziabad** (*) {2007}
+
+@table
+State | LS seats
+Uttar Pradesh | 80
+Maharashtra | 48
+West Bengal | 42
+Bihar | 40
+Tamil Nadu | 39
+Madhya Pradesh | 29
+Karnataka | 28
+Gujarat / Rajasthan, AP | 26 / 25 each
+Assam, Jharkhand | 14 each
+@end
+
+@section 19.5 | Reserved Seats
+- No ST seats in LS: **Kerala and Tamil Nadu** {1998}
+- No SC/ST LS seats: **Arunachal Pradesh and J&K** (then) {2000}
+- SC seats are **proportional** to SC population (WB 42 seats: 10 SC) (*) {2014}
+- Most ST seats: **Madhya Pradesh** (6) {1997, 2005}
+- Anglo-Indian nomination: 2 then; **lapsed in 2020** (104th) (*) {2014}
+
+@section 19.6 | Sessions and Quorum
+- Sitting ended by adjournment, prorogation or dissolution (all) {2000}
+- Prorogues the House: **President** {2015}
+- Quorum: **one-tenth** {2004, 2006, 2008, 2017}
+
+@section 19.7 | Speaker: Removal
+- Resignation to the **Deputy Speaker** {2008, 2014}
+- Removed by an LS resolution {2007} passed by a **majority of all members** (effective majority) {2008}
+
+@section 19.8 | Pro tem, Casting Vote, Deputy
+- Pro tem Speaker **administers oath** {2010}; usually a **senior-most** member {2017}
+- Casting vote only in a **tie** {2008}; under **Art 100** {2015}
+- Deputy Speaker presiding: may **vote in a tie** {2016}
+
+@section 19.9 | Speakers
+- First Speaker: **G.V. Mavalankar** {2011, 2023}; first no-confidence against a Speaker {2000, 2004}
+- First woman: **Meira Kumar** {2007, 2008}
+- First tribal: **P.A. Sangma** {2015}
+- **11th-Sangma, 12th-Balayogi, 14th-Somnath Chatterjee, 17th-Om Birla** {2025}
+
+@section 19.10 | Leader of Opposition
+- Recognition needs **one-tenth** of House (55) (*) {2006}
+
+@section 19.11 | Secretariat (Art 98)
+- LS Secretariat under the **Speaker** {1997}
+- Common posts allowed; Parliament regulates staff service (both) {2023}
+
+@trap
+- Seat **allocation** = 1971 Census; **boundaries** = 2001 Census.
+- Only the **Lok Sabha** is dissolved; RS is permanent.
+- SC/ST seats are **proportional**; one-third is for **women** (Art 330A).
+- Speaker resigns to the **Deputy Speaker**, not the President.
+@end
+
+@up **UP: 80 Lok Sabha seats**, the most of any State, with **17 reserved for SCs**; it is also the largest State in the Rajya Sabha (**31**). Ghaziabad is UP's largest constituency by electors. The UP Vidhan Sabha has **403** elected seats.
+
+@last
+- Max LS **550**; States 530, UTs **20**
+- Anglo-Indian seats lapsed **2020**
+- Seats frozen on **1971 Census** till after **2026** (84th)
+- UP **80**; Maharashtra 48; WB 42
+- Most ST seats: **MP**; no ST seats: Kerala, TN
+- Quorum **1/10**; President prorogues
+- Speaker resigns to **Deputy Speaker**; casting vote **Art 100**
+- Pro tem: senior member, oaths
+- First Speaker **Mavalankar**; woman **Meira Kumar**; tribal **Sangma**
+- LoP needs **1/10** seats
+@end

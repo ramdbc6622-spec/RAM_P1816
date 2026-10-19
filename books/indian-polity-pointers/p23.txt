@@ -1,0 +1,89 @@
+@chapter 23 | Parliamentary Acts
+@meta Built from 25 UPPSC questions (1991–2021). Focus: years of colonial Acts, RTI 2005, Code on Wages, Disaster Management Act and lockdown powers, environment Acts.
+
+@hot
+- **RTI Act, 2005**: assent **15 June 2005**; a **legal right** (also read into Art 19(1)(a)); MKSS movement {2010, 2013, 2013, 2015, 2019}
+- **Disaster Management Act, 2005**: NDMA chaired by the **PM**; with Epidemic Diseases Act 1897 backed the lockdown {2020, 2021, 2021}
+- Act-year matching: Arms Act 1878, Royal Titles 1876, High Courts 1861, Divorce 1869, Criminal Tribes 1871 {2016, 2016, 2020}
+@end
+
+@section 23.1 | Article 245
+- Parliament may legislate for the **Union, territory and Indians and their property abroad** (all) {2021}
+
+@section 23.2 | Colonial Acts
+- **Arms Act-1878, Royal Titles Act-1876, Indian High Courts Act-1861, Divorce Act-1869** {2020}
+- Criminal Tribes Act: **1871** {2016}
+- Wrong pair: Prevention of Seditious Meetings Act-**1908** (it was 1907) {2016}
+
+@section 23.3 | Social Laws
+- Not a social Act: **MISA** (security law) {1991}
+- 73rd = rural panchayats; 74th = urban bodies (swap is the trap) {2009}
+- Domestic Violence Act in force: **26 October 2006** {2015}
+
+@section 23.4 | RTI: Nature
+- Assent: **15 June 2005** {2013}; passed **2005** {2013}
+- RTI is a **legal right** {2015}; both legal and (implied) fundamental {2010}
+- **MKSS** (Aruna Roy): **RTI** movement {2019}
+
+@flow RTI Act timeline
+15 June 2005 | Presidential assent
+12 October 2005 | Fully in force
+2019 Amendment | Centre sets tenure and pay of Information Commissioners
+DPDP Act 2023 | Narrowed Sec 8(1)(j) personal information
+@end
+
+@section 23.5 | RTI: Provisions and Cases
+- Not provided: applicant need **not give reasons** (Sec 6(2)) (*) {2006}
+- Applicant must give reasons (overturned view): **Madras High Court** {2014}
+- RTI case: **Namit Sharma v. Union of India** {2015}
+- RTI raised accountability; still far to go (both true, R not the explanation) {2010}
+
+@section 23.6 | Commercial Laws
+- Wrong: **Indian Contract Act, 1870** (it is **1872**) {2021}
+
+@table
+Act | Year
+Indian Contract Act | 1872
+Sale of Goods Act | 1930
+Partnership Act | 1932
+Companies Act | 2013
+Prevention of Food Adulteration | 1954
+Forest Conservation | 1980
+PPV and Farmers' Rights | 2001
+National Green Tribunal | 2010
+@end
+
+@section 23.7 | Code on Wages
+- Merged in Code on Wages 2019: **Minimum Wages, Payment of Bonus, Equal Remuneration** (and Payment of Wages); not Contract Labour {2021}
+
+@section 23.8 | Disaster Management
+- Disaster Management Act: **2005** {2021}
+- NDMA chaired by the **Prime Minister** {2021}
+- Lockdown legal basis: **Disaster Management Act 2005 and Epidemic Diseases Act 1897** {2020}
+
+@section 23.9 | Environment and Food
+- **NGT**: **2010** {2016}
+- PFA Act: **1954** {2006}
+- Forest Conservation Act: **1980** {2017}
+- PPV and FR Act: **2001** {2021}
+
+@trap
+- RTI: assent **15 June**; in force **12 October** 2005.
+- NDMA = **PM**, though MHA is the nodal ministry; SDMA = **CM**.
+- Contract labour goes to the **OSH Code**, not Code on Wages.
+@end
+
+@up UP has a **State Disaster Management Authority** chaired by the **Chief Minister**. The **UP Information Commission** (Lucknow) hears RTI appeals in the State.
+
+@last
+- Art **245**: laws for India, can act abroad
+- Arms 1878; Royal Titles 1876; HC Act 1861; Divorce 1869
+- Criminal Tribes **1871**; Contract Act **1872**
+- RTI: assent **15 June 2005**; MKSS; legal right
+- Domestic Violence Act in force **26 Oct 2006**
+- Code on Wages 2019: wages, bonus, equal pay
+- DM Act **2005**; NDMA = **PM**
+- Lockdown: DM Act + Epidemic Diseases Act **1897**
+- NGT 2010; Forest Conservation 1980
+- PFA 1954; PPV&FR 2001
+@end

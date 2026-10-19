@@ -1,0 +1,67 @@
+@chapter 22 | Parliamentary Committees
+@meta Built from 18 UPPSC questions (2002–2025). Focus: financial committees, Estimates Committee (LS only, largest), PAC and the CAG, JPC ratio.
+
+@hot
+- **Estimates Committee**: largest financial committee, **Lok Sabha only**, 1-year term {2008, 2010, 2010, 2016, 2017, 2020}
+- **PAC**: 15 LS + 7 RS; chairman named by the **Speaker**; examines **CAG reports** {2004, 2006, 2013, 2014, 2014, 2021, 2022, 2025}
+- Financial committees: **PAC, Estimates, Public Undertakings** {2007}
+@end
+
+@section 22.1 | Classification
+- Financial committees: **PAC, Estimates, Public Undertakings** (all three) {2007}
+- Not a standing committee: none (all four were standing, *) {2015}
+- **PAC-financial, Petitions-functional, JPC on stock scam-ad hoc, DRSCs-standing** {2005}
+- No parliamentary committee on **welfare of minorities** {2012}
+
+@section 22.2 | Estimates Committee
+- Largest (among options): **Estimates Committee** (30 members) {2017, 2020}
+- Term: **one year** {2016}
+- No RS member: **Estimates Committee** {2008, 2010}; drawn from **Lok Sabha** {2010}
+
+@table
+Committee | Members | Note
+Estimates | 30 (LS only) | "Continuous economy committee"; 1950
+Public Accounts | 22 (15 LS + 7 RS) | Oldest (1921); CAG = friend and guide
+Public Undertakings | 22 (15 LS + 7 RS) | 1964 (Krishna Menon Committee)
+DRSCs | 31 each (21 LS + 10 RS) | 24 committees; 1993
+@end
+
+@section 22.3 | PAC
+- PAC reports to the **Lok Sabha** (true); 15 RS members (false) (only 1) {2025}
+- PAC reports to **Parliament** {2002, 2015}
+- Members: **15 LS + 7 RS = 22** {2014}
+- Chairman named by the **Speaker** {2004, 2006, 2013, 2014}
+- CAG audit report examined by the **PAC** (and COPU for PSUs) {2022}
+- PAC scrutinises the **CAG's report** {2021}
+
+@flow Money trail and its watchdogs
+Estimates Committee | Before spending: economy in estimates
+Parliament votes grants | Appropriation Act
+CAG audits | Reports to President
+PAC examines | After spending: post-mortem
+@end
+
+@section 22.4 | Joint Committees
+- Standing committees: LS and RS members in a **2:1** ratio {2013}
+- 2G JPC: **20 LS + 10 RS** {2010}; headed by **P.C. Chacko** {2010}
+
+@trap
+- Estimates = **LS only**; PAC and COPU have **7 RS** members.
+- PAC chairman is **appointed by the Speaker**; Opposition chair is a convention.
+- A JPC is **ad hoc**; it ends after reporting.
+@end
+
+@up The UP Legislature has its own **PAC, Estimates Committee and Public Undertakings Committee**; CAG's UP reports go to the UP PAC via the Governor.
+
+@last
+- Financial committees: **PAC, Estimates, COPU**
+- Estimates: **30**, LS only, 1 year, largest
+- PAC: **22** (15 + 7); oldest (1921)
+- PAC chairman: named by **Speaker**
+- PAC examines **CAG** reports; reports to LS
+- COPU: 22; public sector audit
+- DRSCs: 2:1 ratio (21 LS + 10 RS)
+- 2G JPC: 30 members, **P.C. Chacko**
+- No committee on minorities' welfare
+- JPC = ad hoc
+@end

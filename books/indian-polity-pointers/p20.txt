@@ -1,0 +1,88 @@
+@chapter 20 | The Parliament II: Rajya Sabha
+@meta Built from 28 UPPSC questions (1990–2025). Focus: permanent House, 6-year term, state seat numbers, Art 249 and Art 312 powers, money-bill limits, Chairman.
+
+@hot
+- Rajya Sabha is **permanent**, never dissolved; **one-third retire every 2 years** {2011, 2012, 2014, 2016}
+- **Exclusive** RS power: create new **All India Services** (Art 312) {1997, 2018, 2025}
+- **Art 249**: Parliament legislates on a State subject after an RS resolution {2011, 2012, 2017}
+- State seat matching: Maharashtra 19, TN 18, Bihar 16, Karnataka 12, Gujarat 11, Rajasthan, Odisha 10, Kerala 9, Punjab 7 {2017, 2021, 2025}
+- Presiding officer who is **not a member**: VP as RS Chairman {1992, 2010, 2011, 2013}
+@end
+
+@section 20.1 | Composition (Art 80)
+- Elected by **elected MLAs** of States {1990}
+- President nominates **12** {2006}
+
+@section 20.2 | Term and Age
+- True: **not dissolved**, **one-third retire every 2 years**; not 5 years, not 25 years (1 and 3) {2014}
+- Not dissolved because one-third retire every two years (R explains A) {2016}
+- Member's term: **6 years** (RPA 1951) {1992}
+- RS is **not subject to dissolution** {2011}; dissolved by **none** {2012}
+- Minimum age: **30** {2006}
+- First constituted: **1952** (3 April) {2017}
+
+@section 20.3 | State Seats (Fourth Schedule)
+- Equal then: undivided AP and TN (18) (*) {1999}
+- UP's 34 then = AP 18 + MP 16 (*); UP now **31** {2000, 2002}
+- **Maharashtra 19, Karnataka 12, Bihar 16, Tamil Nadu 18** {2025}
+- **Rajasthan 10, Gujarat 11, Karnataka 12, Punjab 7** {2021}
+- **Gujarat 11, Karnataka 12, Kerala 9, Odisha 10** {2017}
+- Fewest elected members among options: **Himachal Pradesh** (3) {2006, 2010}
+- UTs represented in **both Houses** (as a class) {2015}
+
+@table
+State | RS seats
+Uttar Pradesh | 31
+Maharashtra | 19
+Tamil Nadu | 18
+West Bengal, Bihar | 16 each
+Karnataka | 12
+Gujarat, AP, MP | 11 each
+Rajasthan, Odisha | 10 each
+Kerala | 9
+Punjab | 7
+Delhi / J&K / Puducherry | 3 / 4 / 1
+@end
+
+@section 20.4 | Special Powers
+- Wrong: **only the RS** makes laws on State List matters (Parliament does) {2011}
+- Legislate on a State subject: **Art 249** {2012, 2017}
+- Exclusive: **recommend a new All India Service** {1997, 2018}
+- RS can resolve for a new AIS (true); needs two-thirds of **total** (false, it is of present and voting) (only 1) {2025}
+
+@flow Rajya Sabha-only powers
+Art 249 | Two-thirds present and voting; Parliament may legislate on a State subject (1 year)
+Art 312 | Two-thirds present and voting; new All India Service
+Art 67(b) | VP removal starts only in RS
+Art 352/356 | Keeps Emergency alive when LS is dissolved
+@end
+
+@section 20.5 | Limits
+- LS need not accept RS recommendations on Money Bills; **RS** has 14 days (A false); Money Bill not introduced in RS (R true) {2017}
+- Cannot start in RS: **Money Bill** {2021}
+- LS-only: **Money Bill introduction, rejecting or amending it, CoM accountability**; not AIS (I, II, III) {2004}
+
+@section 20.6 | Chairman
+- Chairman: **Vice-President**, ex officio {2011, 2013}
+- Presiding officer not a member: **Rajya Sabha** {1992, 2010}
+
+@trap
+- RS term **6 years** comes from the **RPA 1951**, not the Constitution.
+- Art 312 and 249: two-thirds of members **present and voting**.
+- Many UTs (Ladakh, Chandigarh, A&N) have **no RS seat**.
+@end
+
+@up UP sends **31** members, the most of any State; they are elected by UP's **403** MLAs by single transferable vote. UP's 34 seats fell to 31 when Uttarakhand (3 seats) was formed in 2000.
+
+@last
+- Max **250** (238 + 12 nominated); now 245
+- Elected by **elected MLAs**; STV
+- Permanent; **1/3** retire every 2 years; term **6 years**
+- Minimum age **30**; first constituted **1952**
+- UP **31**; Maharashtra 19; TN 18
+- **Art 249** State subject; **Art 312** new AIS
+- Money Bill never starts in RS; 14 days for RS
+- Chairman = **VP**, not a member
+- Deputy Chairman presides when VP acts as President
+- Only some UTs have RS seats
+@end

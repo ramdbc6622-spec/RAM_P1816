@@ -1,0 +1,139 @@
+@chapter 15 | The President
+@unit UNIT IV · THE UNION EXECUTIVE
+@meta Built from 57 UPPSC questions (1992–2025). Focus: Art 53, electoral college, impeachment, vacancy and acting President, veto and ordinance, the sequence of Presidents.
+
+@hot
+- No President and no VP: **Chief Justice of India** acts {1992, 2005, 2014, 2014, 2015, 2021}
+- Executive power of the Union in the President: **Article 53** {2008, 2010, 2015, 2021}
+- Vacancy filled **within six months** {1998, 2005, 2013, 2016}
+- Impeachment: **Art 61**, by **either House**, **14 days'** notice {1994, 2007, 2008, 2014, 2015, 2017}
+- **Neelam Sanjiva Reddy**: only unanimous election; ex-Speaker; not VP before {1998, 2002, 2004, 2021, 2022}
+- Joint sitting (Art 108) summoned by the **President** {2012, 2015, 2015}
+@end
+
+@section 15.1 | Nominal Head
+- Head of the Republic: the **President** {2013}
+- Indian President differs from the British King; **not** like the US President (A true, R false) {1998}
+- "Represents the nation but does not lead it": **President** {2007}
+- Authority: **titular, de jure, constitutional, nominal** (2 and 4) {2006}
+
+@section 15.2 | Executive Power
+- Vested by **Art 53** {2008, 2010, 2015}; in the **President** only {2021}
+- Heads Union Executive; power is **not** unlimited (A true, R false) {2012}
+- Executive power in the President, the constitutional head (R explains A per key) {2023}
+- Executive power is carrying on government (both true, R not the explanation) {2010}
+- Supreme command is his, but **regulated by law** (A true, R false) {2005, 2010}
+
+@section 15.3 | Election (Arts 54-55)
+- **Indirect** election by an electoral college (R explains A) {2015}
+- Electoral college: **elected MPs, elected MLAs of all States, elected MLAs of Delhi and Puducherry** {2001}
+- Delhi and Puducherry added by the **70th Amendment** {2017}
+- Not included: **elected MLCs** {2015}
+- Wrong: election can be postponed if the electoral college is incomplete {2016}
+- Nomination needs **50 proposers and 50 seconders** (no option correct, *) {2004}
+- Disputes decided by the **Supreme Court** (Art 71)
+
+@flow Who votes, who removes
+Elected MPs | Vote and impeach
+Nominated MPs | No vote; take part in impeachment
+Elected MLAs (States, Delhi, Puducherry) | Vote; no role in impeachment
+MLCs | No role at all
+@end
+
+@section 15.4 | Qualifications
+- Only true: **35 years**; not "citizen by birth"; qualified for **Lok Sabha** (not "Parliament") {1998}
+- Not a qualification: **education** {1992}
+- An MP or MLA elected President **vacates the seat** on taking office {2008}
+
+@section 15.5 | Impeachment (Art 61)
+- Procedure in **Art 61** {2015, 2017}
+- Removed before term only by **impeachment** {1994}
+- Initiated by **either House** {2007, 2008}
+- Notice: **14 days** {2014}
+- Ground: **violation of the Constitution**; two-thirds of total membership of each House
+
+@section 15.6 | Vacancy and Acting President
+- Vacancy filled **within six months** {1998, 2005, 2013, 2016}
+- No VP: **Chief Justice of India** acts {1992, 2005, 2014, 2014, 2015, 2021}
+- CJI who acted as President: **M. Hidayatullah** (1969) {2003, 2004}
+
+@section 15.7 | Legislative Powers
+- President is **part of Parliament**; no Bill becomes law without assent (R explains A) {2007, 2023}
+- Wrong: President **takes part in debates** {2010}
+- Joint sitting summoned by the **President** {2012, 2015, 2015}
+- Withhold assent: **Art 111** {2004, 2008, 2011}
+- Not his power: **returning a Money (financial) Bill** {2007}
+
+@table
+Veto | Use
+Absolute | Withhold assent (Private Member's Bills, after cabinet resigns)
+Suspensive | Return once (not Money Bill); bound if passed again
+Pocket | No time limit; Postal Bill 1986 (Zail Singh)
+Money Bill | Cannot be returned; prior recommendation
+Amendment Bill | Must assent (24th Amendment)
+@end
+
+@section 15.8 | Ordinance (Art 123)
+- Ordinance power: **Art 123** {2013, 2016}
+- 2002 electoral-reform ordinance signed under **Art 123** {2015}
+
+@section 15.9 | Appointments
+- Appoints all listed officials {2002}
+- Not appointed by him: the **Vice-President** (elected) {1997}
+- Appoints **FC chairman and UT administrators/CMs** (1 and 3) {2005}
+- Governors' duties in emergencies: **Art 160** {2007}
+- Declares **Scheduled Areas**: President {2006}
+
+@section 15.10 | Art 143 and Art 72
+- Consult the Supreme Court: **Art 143** {2012}
+- Incorrect: the President **must accept** SC advice {2008}
+- Pardon is an **executive power** (Art 72) {2010}
+
+@section 15.11 | Presidents of India
+- Order: **Rajendra Prasad, Radhakrishnan, Zakir Husain, V.V. Giri** {2009}
+- Fourth President: **V.V. Giri** {1994}
+- **Fakhruddin Ali Ahmed 1974-77, Sanjiva Reddy 1977-82, Zakir Husain 1967-69, V.V. Giri 1969-74** {2013}
+- Order: **Sanjiva Reddy, Venkataraman, K.R. Narayanan, Kalam** {2025}
+- **Pratibha Patil**: **12th** President {2015}
+- Elected **unanimously**: **N. Sanjiva Reddy** {1998, 2004}
+- Also Lok Sabha **Speaker**: **Sanjiva Reddy** {2021}
+- Not VP before: **Sanjiva Reddy** {2002, 2022}
+- Was Governor of Bihar: **Zakir Husain** {2004}
+- "Philosopher King": **Radhakrishnan** {2014}
+- Trade union movement: **V.V. Giri** {2012}
+- Rashtrapati Bhavan designed by **Edwin Lutyens** {2014}
+
+@table
+No. | President | Term
+1 | Rajendra Prasad | 1950-62
+2 | S. Radhakrishnan | 1962-67
+3 | Zakir Husain | 1967-69 (died)
+4 | V.V. Giri | 1969-74
+5 | Fakhruddin Ali Ahmed | 1974-77 (died)
+6 | N. Sanjiva Reddy | 1977-82
+7, 8 | Zail Singh; R. Venkataraman | 1982-87; 1987-92
+9, 10 | S.D. Sharma; K.R. Narayanan | 1992-97; 1997-2002
+11, 12 | A.P.J. Kalam; Pratibha Patil | 2002-07; 2007-12
+13, 14, 15 | Pranab Mukherjee; Ram Nath Kovind; Droupadi Murmu | 2012-17; 2017-22; 2022-
+@end
+
+@trap
+- Qualified for **Lok Sabha** (President) vs **Rajya Sabha** (VP).
+- **MLCs** never vote; nominated MPs impeach but do not elect.
+- Acting Presidents (Giri, Hidayatullah, Jatti) are **not counted** in the sequence.
+@end
+
+@up UP has the largest share of the presidential vote: its MLA vote value is **208** (highest), and 80 LS + 31 RS MPs. **Ram Nath Kovind** (14th President) is from **Kanpur Dehat**, UP; **Zakir Husain** studied and taught at Aligarh.
+
+@last
+- Art **53** executive power; **54-55** election; **58** qualifications
+- Electoral college: elected MPs, MLAs, **Delhi, Puducherry** (70th)
+- Art **61** impeachment; either House; **14 days**
+- Vacancy filled in **6 months**; CJI acts if no VP
+- **Hidayatullah** = CJI who acted as President
+- Art **111** assent; **123** ordinance; **143** SC advice; **72** pardon
+- Joint sitting summoned by President (Art 108)
+- **Sanjiva Reddy**: unanimous, ex-Speaker, not VP
+- **Pratibha Patil** = 12th; Giri = 4th, trade unions
+- Radhakrishnan = Philosopher King; Lutyens = Rashtrapati Bhavan
+@end
