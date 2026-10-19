@@ -49,7 +49,7 @@ Per capita income | National income ÷ population
 @section 1.3 | Who Measures
 - Rs. 20 per capita (1867-68): **Dadabhai Naoroji** {2007, 2013}
 - National Income Committee (1949): **P.C. Mahalanobis** {2015}
-- Estimated by **CSO** (now **NSO**) {1995, 2004, 2006, 2008, 2010, 2012}; **NSO** {2023}
+- Estimated by **CSO** (now **NSO**); **NSO** {1995, 2004, 2006, 2008, 2010, 2012, 2023}
 - Capital formation data: **CSO/NSO** (with RBI) (*) {2008}
 - New base year (2015): **2011-12** {2015}
 - Development needs many angles (true); govt focuses on micro issues (false) {2015}

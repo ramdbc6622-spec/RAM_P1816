@@ -1,0 +1,159 @@
+@chapter 24 | Sex Ratio, Social Groups and Population Dynamics
+@meta Built from 86 UPPSC questions (1990–2023). Focus: sex ratio and child sex ratio by census and state, SC, ST and religion data, National Population Policy 2000, TFR, mortality and the demographic dividend.
+
+@hot
+- **Kerala** = highest sex ratio and females outnumber males; **Puducherry** among UTs {1995, 2001, 2004, 2006, 2009, 2012, 2014, 2023}
+- **Lowest sex ratio**: **Haryana** (state), **Daman and Diu** (UT) {2010, 2011, 2011, 2013, 2017, 2018, 2021}
+- Sex ratio by census: **1901 highest (972)**, 1951 = **946**, 1991 lowest (927), **2011 = 943** (provisional 940) {2008, 2011, 2013, 2013, 2014, 2015}
+- **NPP 2000**: stable population goal moved from **2045 to 2070**; replacement **TFR 2.1** {2001, 2010, 2014, 2017, 2020, 2023}
+- **SC**: largest number **UP**, highest share **Punjab**, none in **Nagaland**; **ST**: largest **MP and Chhattisgarh**, none in **Punjab** {2002, 2003, 2006, 2007, 2008, 2008, 2010, 2010, 2014, 2016, 2016}
+@end
+
+@section 24.1 | Sex Ratio in India
+- Highest sex ratio of any census: **1901** {2008}
+- Wrong pair: **2011-925** {2013}
+- Sex ratio **946**: **1951** {2013}
+- Wrong pairs: **1991-938** (it was 927) and 2011-940 (final 943) {2014}
+- Sex ratio 2011 (provisional): **1000 : 940** {2011, 2015}
+- Order (provisional): **Kerala, Puducherry, Tamil Nadu, AP** {2010}
+- Most females per 1,000 males: **Kerala** {1995, 2001, 2012, 2014, 2023}
+- Females outnumber males (UT among options): **Puducherry** {2004, 2006, 2009}
+- Highest among options: **Tamil Nadu** {2014}
+- Above the national average among options: **Jharkhand** {2013, 2014}
+- Males outnumber females (aged 7+): **Bihar, Maharashtra, UP, West Bengal** (all four) {2010}
+- Lowest state: **Haryana**; rich but lowest sex ratio: **Haryana** {2013, 2017, 2018}
+- Lowest among options (2001): **Gujarat** {2009}
+- Lowest UT: **Daman and Diu** {2010, 2011, 2011, 2021}
+- Biggest fall 1991-2001: **Daman and Diu**; biggest rise: **Arunachal** {2005, 2005}
+- UP's improvement 2001-11: 10 (provisional) or 14 (final) (*) {2013}
+- UP sex ratio 2011: **912** {2017}
+- Highest district (provisional): **Mahe** (Puducherry) {2010}
+
+@table
+Census | Sex ratio
+1901 | 972 (highest)
+1951 | 946
+1991 | 927 (lowest)
+2001 | 933
+2011 | 943 (provisional 940)
+NFHS-5 (2019-21) | 1,020
+@end
+
+@section 24.2 | Child Sex Ratio
+- Causes of low sex ratio: **maternal deaths, girl-child deaths, foeticide, more boys born** (all four) {2005}
+- Child sex ratio since 1961: **continuously decreasing** {2011}
+- Child sex ratio 2011 (provisional): **914** (final 918) {2010}
+- Correct pair: **Madhya Pradesh-912** {2010}
+- Most boys per 100 girls: **Haryana** {2019}
+- Highest child sex ratio among options: **Chhattisgarh** {2012}
+- Order: **Mizoram, Meghalaya, Punjab, Haryana** {2011}
+- India's CSR fell, Haryana's rose, rural sex ratio above urban (i, ii, iii) {2017}
+
+@table
+Child sex ratio (0-6) | Figure
+1961 to 2011 | 976 to 918; falling every census
+Highest (2011) | Mizoram, Meghalaya (970); Chhattisgarh (969)
+Lowest (2011) | Haryana (834), Punjab (846)
+@end
+
+@section 24.3 | Scheduled Castes, Tribes and Religion
+- Highest SC share: **Punjab** {2002, 2003, 2006}
+- Largest SC number: **Uttar Pradesh** {2008, 2010, 2014}
+- Zero SC population: **Nagaland** {2016}
+- Few SCs in the North-East; low cultivated area does not explain it (A and R true, R does not explain A) {2017}
+- ST share of India (2001): **8.20%** {2006}
+- No scheduled tribes: **Punjab** {2008}
+- ST population ascending: **Arunachal, Mizoram, Nagaland, Meghalaya** {2021}
+- Largest tribal population: **MP and Chhattisgarh** {2007, 2010, 2016}
+- ST share ascending: **Maharashtra, Rajasthan, MP, Meghalaya** {2023}
+- Lowest ST share: **Uttar Pradesh** {2017}
+- Religions by size (ascending): **Jain, Buddhist, Sikh, Christian** {2010}
+- Largest Muslim population: **Uttar Pradesh** {2007}
+- Highest Christian share (1991): **Nagaland** {1998}
+- Kerala's top literacy is not due to Christians (A true, R false) {1990}
+- Sex ratio by religion: **Christian, Buddhist, Jain, Muslim** {2010}
+- Lowest sex ratio by religion: **Sikh** {2016}
+
+@table
+SC / ST (2011) | Fact
+SC share of India | 16.6%
+Largest SC number / share | Uttar Pradesh / Punjab (31.9%)
+No SCs | Nagaland, Lakshadweep
+ST share of India | 8.6%
+Largest ST number | Madhya Pradesh
+Highest ST share | Mizoram (94.4%)
+No STs | Punjab, Haryana, Delhi, Chandigarh, Puducherry
+Lowest ST share | Uttar Pradesh (0.6%)
+@end
+
+@section 24.4 | Population Policy and Fertility
+- New National Population Policy: **2000** {2017}
+- Not in the 10-year action plan: **special reward for men** taking terminal methods {2009}
+- Population stabilisation goal: **2045 to 2070** {2010, 2014, 2023}
+- Birth rate target by 2010: **21 per 1,000** {2002}
+- Replacement TFR: **2.1** {2001, 2020}
+- TFR (SRS 2016): **2.3** {2017}
+- TFR (NFHS-4, 2015-16): **2.2** {2018}
+- TFR (Census 2011): **2.4** {2016}
+- Highest TFR: **Bihar** now (UP when asked) {2001}
+- Population shapes social change; working wives have fewer children (A and R true, R explains A) {2000}
+- Highest female life expectancy (2001-06) among options: **Punjab** {2004}
+- Equal birth and death rates, no migration: **stability of population** {2013}
+
+@flow India's fertility path (TFR)
+Census 2011 | 2.4
+SRS 2016 | 2.3
+NFHS-4 (2015-16) | 2.2
+NFHS-5 (2019-21) | 2.0, below replacement
+SRS 2021-23 | About 1.9
+@end
+
+@section 24.5 | Mortality
+- Crude death rate: **below 9** per 1,000 {2007}
+- Death rate 2000: **9 per 1,000** {2001}
+- Lowest death rate (2015) among options: **Maharashtra** {2017}
+- Register births and deaths within **21 days** {2019}
+- First death census: **Karnataka** {2013}
+- IMR about 70 when asked (*); now **25** (SRS 2023) {2000}
+- Lowest IMR: **Kerala**; lowest urban IMR: **Kerala** {2005, 2014, 2015}
+- IMR below the national average (2011): **Tamil Nadu** {2013}
+- Eleventh Plan IMR target: **28** {2017}
+- Highest child mortality (UNICEF, then): **Odisha** {2001}
+
+@section 24.6 | Age Structure and Demographic Dividend
+- Average age of Indians in 2020: **29 years** {2016}
+- Under 14 (2011): about **29%** {2013}
+- Aged 20 and above: **59.29%** {2016}
+- Below 35 years: about **65%** {2012}
+- Old-age dependency ratio (2011): **14.2%** {2016}
+- **Demographic dividend**: working population aged **15-59** {2022}
+- "Demographic bonus": a **surge in productive-age population** {2009}
+- Dependent group: **0-14 years** (and 60+) {2013}
+- Dependency ratio falling: the **15-59** share is high {2019}
+- Human resources and development: both effects (1 and 2) {2023}
+- Not an adverse effect of population growth: **larger working population** {2015}
+- Self-dependent disabled people: about **2%** (per key) {2015}
+- National Literacy Mission 75% target year: **2007** {2006}
+- Progressive population-resource areas: **Ganga-Yamuna Doab, Tamil Nadu** (1 and 4) {2010}
+
+@trap
+- Highest census sex ratio = **1901**; lowest = **1991**; 1951 = **946**.
+- Kerala and **Puducherry** are the only places with more females; Haryana and **Daman and Diu** lowest.
+- **Punjab** = highest SC share and **no STs**; **Nagaland** = no SCs; UP = most SCs, fewest STs by share.
+- NPP 2000 stabilisation year: **2070**, not 2045 (old) or 2050.
+@end
+
+@up UP link: UP's sex ratio rose from **898 (2001)** to **912 (2011)**; UP has the **most SCs** (4.14 crore) and **most Muslims**, but the **lowest ST share** (0.6%); its TFR fell to about **2.4-2.6**, and **Jaunpur** has the state's highest sex ratio.
+
+@last
+- Sex ratio: 1901 **972**; 1951 **946**; 1991 **927**; 2011 **943**
+- Kerala **1,084**; Puducherry; Mahe top district
+- Haryana lowest state; **Daman and Diu** lowest UT
+- Child sex ratio falling since 1961: **918**
+- SC: UP most, **Punjab** highest share, **Nagaland** none
+- ST: **MP** most, **Mizoram** highest share, **Punjab** none, UP lowest share
+- Jain < Buddhist < Sikh < Christian; Sikh lowest sex ratio
+- NPP **2000**; stabilisation **2070**; TFR 2.1
+- Register births and deaths in **21 days**; Kerala lowest IMR
+- Demographic dividend = **15-59** age group
+@end

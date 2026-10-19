@@ -24,7 +24,7 @@
 1 July 1955 | SBI from the Imperial Bank
 19 July 1969 | 14 banks nationalised
 15 April 1980 | 6 more banks
-2019-2020 | Mega-mergers → 12 PSBs
+2019-2020 | Mega-mergers to 12 PSBs
 @end
 
 @section 11.2 | Types of Banks
@@ -35,7 +35,7 @@
 - "Farmers' clubs": **SBI** {2008, 2010}
 - SBI chairman from April 2011: **Pratip Chaudhuri** {2006, 2012}
 - "Simply Click" card: **SBI** {2016}
-- First Indian bank branch in China: **SBI** {2006, 2007}; first private: **Axis Bank** {2014}
+- First Indian bank branch in China: **SBI**; first private: **Axis Bank** {2006, 2007, 2014}
 - First moving ATM: **ICICI** {2014}
 - Merged with PNB: **New Bank of India** (1993; OBC in 2020) {2010}
 - Long-term industrial finance: **all** listed {1998}
@@ -45,10 +45,10 @@
 @section 11.3 | Development Banks and Inclusion
 - Order: **1st nationalisation, RRBs, 2nd nationalisation, NABARD** {2023}
 - Order: **SBI, Lead Bank Scheme, RRBs, NABARD** {2005}
-- **LBS**: **Lead Banking Scheme** {2022}; started **December 1969** {?}
+- **LBS**: **Lead Banking Scheme**; started **December 1969** {2022, ?}
 - Lead bank functions by a **designated bank** {2007}
 - District credit planning: **lead bank** {2002, 2003}
-- Small-industry bank: **SIDBI** {2012}; HQ **Lucknow** {2016, 2021}; finances small industry {2004}
+- Small-industry bank: **SIDBI**; HQ **Lucknow**; finances small industry {2012, 2016, 2021, 2004}
 - Wrong: **SIDBI-Mumbai** (Lucknow) {2014}
 - **ICICI-1955, IDBI-1964, IFCI-1948, SIDBI-1990** {2010}
 - **IFCI**: a **development bank** {2012}
@@ -83,12 +83,12 @@ SIDBI | 1990 | MSMEs (Lucknow)
 
 @section 11.5 | Cooperative and Rural Banking
 - First Land Development Bank (1920): **Jhang** {2016}
-- LDB: **long-term farm loans** {1992, 2008}; part of the **cooperative credit structure** {2008}
+- LDB: **long-term farm loans**; part of the **cooperative credit structure** {1992, 2008, 2008}
 - Central Cooperative Bank: **district level** {2004, 2008}
 - Urban cooperative banks (2012): 1,618 (no option, *) {2012}
 - Consumer cooperative stores set up **by members** {2016}
-- **NABARD**: **1982** {2003, 2014}; set up by an Act (true), only farm credit (false) (only 1) {?}
-- NABARD refinances **agriculture and rural development** {2004}; apex farm-credit body {2005}
+- **NABARD**: **1982**; set up by an Act (true), only farm credit (false) (only 1) {2003, 2014, ?}
+- NABARD refinances **agriculture and rural development**; apex farm-credit body {2004, 2005}
 - NABARD does not refinance the **EXIM Bank** {2002}
 - RIDF nodal agency: **NABARD** {2004, 2008, 2009, 2014}
 - RRBs: **1975** {2010}
@@ -99,8 +99,8 @@ SIDBI | 1990 | MSMEs (Lucknow)
 - **Raghuram Rajan**: **financial sector reforms** {2007}
 - **Bimal Jalan** panel: **new bank licences** {2014}
 - First Disinvestment Commission chairman: **G.V. Ramakrishna** {2004}
-- **Swabhimaan**: banks to the **rural poor's doorstep** {2010}; rural banking {2012}
-- KCC covers **consumption and investment credit** {2010}; KCC from **1998-99** {2014}
+- **Swabhimaan**: banks to the **rural poor's doorstep**; rural banking {2010, 2012}
+- KCC covers **consumption and investment credit**; KCC from **1998-99** {2010, 2014}
 
 @table
 Tier | Level
@@ -133,7 +133,7 @@ Land Development Bank | Long-term (first at Jhang, 1920)
 - 14 banks **19 July 1969**; 6 banks **1980**
 - Lead Bank Scheme **Dec 1969**
 - IFCI 1948; ICICI 1955; IDBI 1964
-- RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998
+- RRB 1975, NABARD 1982, SHG 1992, KCC 1998
 - SIDBI **1990**, Lucknow
 - Rangarajan = inclusion; Nachiket Mor = payment banks; Malegam = MFIs
 - NPA 90 days; DICGC Rs. 5 lakh; Basel = capital

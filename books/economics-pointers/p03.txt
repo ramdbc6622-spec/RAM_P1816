@@ -35,7 +35,7 @@ Average | 1.08 ha
 - Slow farm growth: **rural poverty** {2016}
 - Agriculture's income share: depends on year (about 18% now) (*) {1996, 1998, 2010, 2012, 2013}
 - Agriculture's contribution is **decreasing** {1999, 2004, 2017}
-- Negative farm growth: **2014-15** {2017}; **Third Plan** {2004}
+- Negative farm growth: **2014-15**; **Third Plan** {2017, 2004}
 - Rural households in farming (NSSO 2014): **57.8%** {2016}
 - Cropping intensity: about **155%** {2012}
 - Not a cause of low productivity: **co-operative farming** {2002, 2007}
@@ -77,14 +77,14 @@ Mulberry silk | Karnataka
 - National but not household food security: **stock exists, access lacking** {2008}
 - Reforms needed; many farmers rely on monsoon (both true, R not the explanation) {2023}
 - Largest pulse import 2015-16: **lentil** {2016}
-- Top farm export earner: **basmati rice** {2010}; most valuable: **rice** {2010}
+- Top farm export earner: **basmati rice**; most valuable: **rice** {2010, 2010}
 - Export mango: **Alphonso** {2012}
 
 @section 3.6 | Early Schemes
 - **Kisan Bahi** (UP): **1992** {2010}
 - RKVY: wrong that aid is an **80% grant** (it is 100%) {2009, 2010}
 - Sengupta and Sdasyuk: **60** micro regions {2017}
-- NHM: **Tenth Plan** {2009}; **May 2005** {2016}; covers **UP** {2010}
+- NHM: **Tenth Plan**; **May 2005**; covers **UP** {2009, 2016, 2010}
 - Not an NHM aim (key): **financial assistance** {2010}
 - Krishi Shramik Samajik Suraksha: **pension and insurance** {2001}
 - Small Farmers Development Agency: **1971** (no option, *) {2014}

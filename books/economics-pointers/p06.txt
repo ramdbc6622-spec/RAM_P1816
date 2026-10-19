@@ -16,7 +16,7 @@
 - Largest government trading company: **MMTC** {2008}
 - **HAL**: **aircraft** {2008}
 - Tourism and hotels: **ITDC** {2004}
-- **BSNL**: **2000** {2009}; **100%** government equity {2008}
+- **BSNL**: **2000**; **100%** government equity {2009, 2008}
 - GAIL pipeline: **Vijayawada to Vijaipur** {2008}
 - Oil prices now set by **oil companies** {2015}
 - **Navratna**: selected PSUs {2008}

@@ -1,0 +1,124 @@
+@chapter 25 | Urbanisation I: Concepts and Levels
+@meta Built from 61 UPPSC questions (1998–2023). Focus: what makes a town, phases of urban growth, the 2011 urban share, most and least urbanised states, and rural India.
+
+@hot
+- Urban share 2011: **31.16%** (about **37.7 crore**); 2001: **27.8%** {2002, 2008, 2009, 2010, 2010, 2014, 2014, 2017, 2023}
+- **Census town**: **5,000+** people, **75%** male workers in non-farm work, **400+** per sq km; **3,894** census towns (2011) {2008, 2009, 2010}
+- **Fastest urban growth**: **1971-81**; moderate phase **1931-61** {2001, 2002, 2003, 2003, 2007, 2009}
+- **Most urbanised**: **Goa** (Tamil Nadu among big states); **least**: **Himachal Pradesh** {1998, 2002, 2004, 2005, 2006, 2010, 2010, 2012, 2012, 2017, 2021, 2023}
+- **Largest urban population**: **Maharashtra**, then **UP** {2004, 2006, 2008, 2010}
+@end
+
+@section 25.1 | Village, Town and Urban Growth
+- City differs from village in **values, household make-up, way of living, economic activity** (all) {2004}
+- Urban growth shows **all of the above** (more urban people, more towns, more income) {2004}
+- Not an element of a rural community: **cultural diversity** {2021}
+- **T.K. Oommen** on urban families: **all of the above** {2014}
+- Causes of urbanisation: **migration, educational institutions, industrialisation** (1, 2, 3) {2015}
+- Not in inclusive development (per key): **semi-urban** people {2016}
+- Urban population by 2030 (key): **575 million** {2017}
+- India: a **moderately low** urbanised country {1998}
+- India is **not** over-urbanised; cities do lack infrastructure (A false, R true) {2017}
+- India less urbanised than China; poor planning is not the reason (A and R true, R does not explain A) {2010}
+- 2001 statements: urban 285 million, 27.78%, more than USA's population, self-reliant (all) {2002, 2003}
+- India's urban people outnumber the USA's; US urbanisation is higher (A and R true, R does not explain A) {2000}
+- India's urban population exceeds the USA's total (A and R true, R explains A, per key) {2002}
+- Urban India is a platform for **all of the above** {2015}
+- Fast urbanisation after 2001 and mobile revolution are unrelated (A and R true, R does not explain A) {2016}
+- Not true: urbanisation has been **uniform** across regions {2002}
+- Urbanisation and literacy both cut the **birth rate** (both) {2021}
+- Urbanisation **reduced both birth and death rates** {2007}
+
+@section 25.2 | Phases and Definitions
+- Moderate urbanisation phase: **1931-61** {2003}
+- Largest decadal urban growth: **1971-81** {2001, 2002, 2003, 2007, 2009}
+- Not a criterion for a town: **physical expansion** {2008}
+- Census-town tests: **5,000 people, 75% male non-farm workers, 400 per sq km** (1, 2, 3); no area test {2009}
+- Census towns (2011): **3,894** {2010}
+- Urban share 2011: **31.16%**, not in the options (none of the above) {2002, 2008, 2009, 2010, 2014, 2017, 2023}
+- Most urban religion: **Jains** {2022}
+- Fastest urban growth 2001-11 among options: **Sikkim** {2023}
+- City dwellers (2011): about **37 crore** {2014}
+
+@flow What makes a town (Census)
+Statutory town | Municipality, corporation, cantonment or notified area
+Census town test 1 | Population 5,000 or more
+Census town test 2 | 75% or more of male workers outside farming
+Census town test 3 | Density 400 or more per sq km
+Census 2011 | 4,041 statutory + 3,894 census towns
+@end
+
+@table
+Year | Urban share
+1901 | 10.8%
+1951 | 17.3%
+2001 | 27.8%
+2011 | 31.16% (37.7 crore)
+2030 (projected) | About 40%
+@end
+
+@section 25.3 | Urbanisation by State
+- Over a quarter of urban India: **Maharashtra and UP** {2004, 2008}
+- Top three (2001): **Maharashtra, UP, Tamil Nadu** {2006}
+- Urban population order: **Maharashtra, UP, Tamil Nadu, West Bengal** {2010}
+- Ascending urban population: **Sikkim, Arunachal, Nagaland, Mizoram** {2010}
+- Ascending (2001): **West Bengal, Tamil Nadu, UP, Maharashtra** {2005}
+- Correct: **Himachal Pradesh** is the least urbanised {2002}
+- **Most urbanised-Tamil Nadu, largest urban population-Maharashtra, densest-Delhi, least dense-Arunachal** (per key) {2009, 2013, 2016}
+- Most urbanised (2011): **Goa** {2010, 2023}
+- Most urbanised big state (key): **Tamil Nadu** {1998, 2005, 2006, 2010, 2012}
+- Two most urbanised: **Goa and Mizoram** {2008}
+- Then (key): **Maharashtra, Gujarat, Karnataka** {2001, 2003, 2004}
+- Order: **Tamil Nadu, Maharashtra, Gujarat, West Bengal** {2007}
+- Most urbanised landlocked state: **Punjab** {2013}
+- Key order **Maharashtra, West Bengal, AP, Gujarat** fits urban **numbers**, not percentage (*) {2017}
+- Least urbanised among options: **West Bengal** {2016}
+- Order: **Tamil Nadu, Kerala, Maharashtra, Gujarat** {2009}
+- Highest urban density among options: **West Bengal** {2013}
+- Least urbanised among options: **Bihar** {2017}
+- Least urbanised (2011): **Himachal Pradesh** {2004, 2012, 2017, 2021}
+- Least urbanised UT: **Andaman and Nicobar** {2017}
+- UT order: **Delhi, Chandigarh, Lakshadweep, Daman and Diu** {2010}
+
+@table
+Urbanisation (2011) | States / UTs
+Most urbanised | Goa 62.2%, Mizoram 52.1%, Tamil Nadu 48.4%
+Least urbanised | Himachal 10.0%, Bihar 11.3%, Assam 14.1%
+Largest urban population | Maharashtra 5.08 crore, UP 4.45 crore
+Most urbanised UT | Delhi 97.5%, Chandigarh 97.3%
+Least urbanised UT | Andaman and Nicobar 37.7%
+@end
+
+@section 25.4 | Rural India
+- Fewest villages (UT): **Daman and Diu** {2014}
+- Correct: urban increase exceeded rural, and 2001 urbanisation **27.81%** (1 and 3); 2011 rural share is **68.84%** {2010}
+- Rural share (2001): **72.2%** {2008}
+- Highest rural share: **Himachal Pradesh** {2015}
+- Largest rural population: **Uttar Pradesh** {2018}
+- Lowest rural child share: **Kerala** {2014}
+- Lowest child sex ratio in both rural and urban areas: **Haryana** {2018}
+- Most rural pucca houses (2001): **Punjab** {2008}
+- Traders and makers mark the village-town line; they do not wholly depend on villages (A true, R false) {2009}
+- **Occupational structure**: distribution of workers among **occupations** {2015}
+
+@trap
+- **Goa** = most urbanised state; **Tamil Nadu** = most urbanised **large** state; old keys often say Tamil Nadu.
+- **Maharashtra** = most urban **people**; **Delhi** = most urbanised UT.
+- Census town: no **area** test; 75% of **male** workers.
+- 2001-11 = first decade when urban numbers grew more than rural.
+@end
+
+@up UP link: UP had the **second-largest urban population** (4.45 crore, 2011) but only **22.3%** urbanisation; it has the **largest rural population** (15.5 crore); UP has **17 municipal corporations** and many census towns around Noida-Ghaziabad.
+
+@last
+- Urban **31.16%** (2011); 27.8% (2001); 37.7 crore
+- Census town: **5,000**, **75%** male non-farm, **400**/sq km
+- **3,894** census towns; moderate phase **1931-61**
+- Fastest urban growth **1971-81**
+- Jains most urban; India = moderately low, not over-urbanised
+- **Goa** most urbanised; **Himachal** least; Bihar next lowest
+- **Maharashtra** largest urban population, then UP
+- **Delhi** most urbanised UT; **Andaman** least
+- Rural share **68.84%**; UP largest rural population
+- Punjab = most urban among landlocked states
+@end

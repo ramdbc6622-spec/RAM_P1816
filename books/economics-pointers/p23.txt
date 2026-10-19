@@ -1,0 +1,121 @@
+@chapter 23 | Population Density and Literacy
+@meta Built from 59 UPPSC questions (1991–2023). Focus: densest and sparsest states and UTs, literacy rates (2001, 2011), female literacy and gender gaps, UP district literacy.
+
+@hot
+- **Densest state**: **Bihar**; order **Bihar, West Bengal, Kerala, UP** {2000, 2004, 2009, 2010, 2012, 2014, 2016, 2017, 2019, 2023, 2023}
+- **Sparsest state**: **Arunachal Pradesh**; UTs: densest **Delhi** (Puducherry among options), sparsest **Andaman and Nicobar** {2001, 2017, 2017, 2021}
+- **Literacy 2011**: **74.04%**; male 82.14, female 65.46; gap **16.68**; counted from **age 7** {2004, 2010, 2011, 2012, 2014}
+- **Kerala** first, **Mizoram** second; **Bihar** lowest but the **biggest rise** (2001-11) {2006, 2008, 2010, 2011, 2014, 2015, 2016, 2017}
+- **Female literacy**: highest **Kerala**, lowest **Rajasthan** (2011 provisional); smallest gap **Meghalaya** {2009, 2010, 2013, 2016, 2017}
+@end
+
+@section 23.1 | Population Density
+- Kerala dense and highly literate; literacy does not explain density (A and R true, R does not explain A) {2001}
+- India's density: **has steadily increased** {2014}
+- Highest density (2011): **Bihar** {2004, 2012, 2014, 2016, 2017, 2023}
+- Order: **Bihar, West Bengal, Kerala, Uttar Pradesh** {2009, 2010, 2019, 2023}
+- Densest BIMARU state: **Bihar** {2000}
+- Lowest density: **Arunachal Pradesh** {2001, 2021}
+- Ascending (density): **Odisha, AP, Tripura, Punjab** {2003}
+- Lowest-density order (2001): **Arunachal, Mizoram, Sikkim, Nagaland** {2006}
+- Sparsest in 1991 options: **Jammu and Kashmir** {1991}
+- Below 100 per sq km (2011): **Mizoram** {2010}
+- Densest UT among options: **Puducherry** (Delhi overall) {2017}
+- Sparsest UT: **Andaman and Nicobar** {2017}
+- Lowest density among options: **Rajasthan** {2010}
+- Ascending: **Gujarat, Karnataka, Assam, Haryana** {2010}
+- True: UP has **more than twice** India's density {2005}
+
+@table
+Density (2011) | Persons per sq km
+India | 382 (325 in 2001; 117 in 1951)
+Bihar, West Bengal, Kerala, UP | 1,106; 1,028; 860; 829
+Arunachal, Mizoram, Sikkim | 17; 52; 86
+Delhi, Chandigarh, Puducherry | 11,320; 9,258; 2,547
+Andaman and Nicobar | 46
+@end
+
+@section 23.2 | Literacy in India
+- **Effective literacy**: population aged **7 and above** {2014}
+- Biggest rise in literacy: **1991-2001** {2006}
+- Literacy 2011 (provisional): **74.04%** {2004, 2012}
+- Most literate district (provisional 2011): **Serchhip** (Mizoram) {2010}
+- First fully literate district outside Kerala: **Bardhaman** (West Bengal) {2008}
+- Biggest literacy rise 2001-11: **Bihar** {2011, 2016}
+- Highest literacy among options: **Manipur** {2017}
+- Second in female literacy after Kerala: **Mizoram** {2014}
+- Second in literacy and in urbanisation: **Mizoram** {2017}
+- Highest literacy among options (2001): **Mizoram**; top in the North-East {2004, 2006, 2008}
+- 2001 order: **Kerala, Himachal, Tamil Nadu, Manipur** {2006}
+- Order: **Kerala, Mizoram, Goa, Maharashtra** {2002}
+- Lowest four (ascending, 2011): **Bihar, Arunachal, Rajasthan, Jharkhand** {2010}
+- 2001 ascending: **Bihar, UP, Rajasthan, MP** {2002}
+- Highest UT literacy (2001): **Lakshadweep** {2013}
+- 2011 order: **Tripura, Himachal, Sikkim, Nagaland** {2010}
+- Male-female gap (2011): **16.68** points {2010}
+- Female literacy (2011): about **65.5%** {2011}
+
+@table
+Literacy (2011) | Figure
+India | 74.04% (M 82.14, F 65.46)
+Highest states | Kerala 94.0, Mizoram 91.3, Goa 88.7, Tripura 87.2
+Lowest states | Bihar 61.8, Arunachal 65.4, Rajasthan 66.1, Jharkhand 66.4
+Highest UT | Lakshadweep 91.8
+Lowest UT | Dadra and Nagar Haveli 76.2
+@end
+
+@section 23.3 | Female Literacy and Gaps
+- Smallest male-female gap (2011): **Meghalaya** {2013, 2016}
+- Largest gap among options: **Uttar Pradesh** (Rajasthan overall) {2015}
+- Top male and female literacy statements (UTs and states): none fits exactly (*) {2010}
+- Highest female literacy among options (2001): **Chhattisgarh** {2005}
+- Highest and lowest female literacy (2011): **Kerala and Rajasthan** {2010}
+- Highest female literacy among options (2001): **Mizoram** {2013}
+- Lowest female literacy (2001): **Bihar** {2002, 2003}
+- Lowest female literacy (2011): **Rajasthan** {2009, 2017}
+- Highest female literacy among UTs: **Lakshadweep** {2013}
+- Highest literacy among options: **Uttarakhand** {2009}
+- Lowest literacy (2011): **Bihar** {2010, 2015}
+- Highest UT literacy (2011): **Lakshadweep** {2023}
+- Lowest UT literacy: **Dadra and Nagar Haveli** {2017}
+- Highest rural literacy among options: **Goa** {2010}
+
+@section 23.4 | Literacy in Uttar Pradesh
+- UP literacy 2011: **67.7%**, not among the options (*) {2015}
+- UP rank in literacy (2001): **31st** {2010}
+- District order: **Gautam Buddha Nagar, Kanpur Nagar, Auraiya, Etawah** {2012, 2017}
+- Most literate UP district: **Gautam Buddha Nagar** {2012}
+- Lowest female literacy among options: **Rampur** {2012}
+- Correct: lowest literacy **Shravasti**, lowest density **Lalitpur** (1 and 3); highest sex ratio is **Jaunpur**, most populous city **Lucknow** {2012}
+
+@table
+UP (2011) | Fact
+Literacy | 67.7% (M 77.3, F 57.2)
+Highest district | Gautam Buddha Nagar (80.1%)
+Lowest district | Shravasti (46.7%)
+Highest sex ratio | Jaunpur
+Lowest density | Lalitpur
+Most populous city | Lucknow
+@end
+
+@trap
+- Densest state = **Bihar**, not West Bengal or Kerala; densest UT = **Delhi**.
+- Literacy is counted from **age 7**, not age 6 or 5.
+- Female literacy lowest: **Bihar** in 2001, **Rajasthan** in 2011 (provisional).
+- UP: lowest literacy **Shravasti**; highest sex ratio **Jaunpur**, not Deoria.
+@end
+
+@up UP link: UP's density (829) is more than twice India's (382); literacy rose to **67.7%** (2011) but the male-female gap stayed about **20 points**; **Gautam Buddha Nagar** tops and **Shravasti** trails; the **ULLAS** scheme now targets adult literacy in UP.
+
+@last
+- Density India **382**; rises every census
+- **Bihar** densest; **Arunachal** sparsest
+- Delhi densest UT; **Andaman** sparsest UT
+- Literacy from **age 7**; 2011 = **74.04%**
+- Male 82.14, female 65.46; gap **16.68**
+- Kerala > **Mizoram** > Goa; Bihar lowest
+- Biggest rise 1991-2001; Bihar biggest rise 2001-11
+- Meghalaya = smallest gap; Rajasthan = lowest female literacy (2011)
+- Lakshadweep = top UT; Serchhip = top district; Bardhaman = first outside Kerala
+- UP: **GB Nagar** top, **Shravasti** bottom
+@end

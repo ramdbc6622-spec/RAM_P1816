@@ -80,5 +80,5 @@ SDG | Goal
 - EKC = inverted U
 - Human capital = education, health, skills
 - Irrigation is not human capital
-- UP: Performer → Front Runner
+- UP: Performer to Front Runner
 @end

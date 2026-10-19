@@ -37,8 +37,8 @@ GST Council | Union FM chairs; 3/4 weighted vote
 - Income tax introduced by **James Wilson** (1860) {2014}
 - Does not raise the buyer's price: **income tax** {1995}
 - Tax on imports and exports: **customs duty** {2006}
-- Direct: **income tax** {1991}; **wealth tax** {2014}
-- Not indirect: **income tax** {1993}; not direct: **sales tax** {1993}
+- Direct: **income tax**; **wealth tax** {1991, 2014}
+- Not indirect: **income tax**; not direct: **sales tax** {1993, 1993}
 
 @section 8.3 | Who Levies What
 - 15% surcharge (2016-17): income **above Rs. 1 crore** {2016}
@@ -72,7 +72,7 @@ CGST, IGST | SGST, road tax | Water charges
 - Service tax: **indirect**, from **1994-95** (2 and 3) {2013}
 
 @section 8.5 | Finance Commission
-- FC fixes States' share of taxes and grants {2003, 2007, 2017}; primary duty: tax distribution {2021}
+- FC fixes States' share of taxes and grants; primary duty: tax distribution {2003, 2007, 2017, 2021}
 - Not correct: PC and FC advice **binding** {2009}
 - Not shared with UP: **agricultural income tax** {2000}
 - 16th FC: chaired by **Arvind Panagariya** (true); set up 31 Dec 2024 (false; **2023**) (only II) {2023}
@@ -94,7 +94,7 @@ FC | Chairman | States' share
 @end
 
 @section 8.6 | Reforms and Local Finance
-- **Kelkar Task Force**: **taxes** {2004}; latest tax committee then {2004}
+- **Kelkar Task Force**: **taxes**; latest tax committee then {2004, 2004}
 - Abolish Section 88 rebates: **Kelkar** {2008, 2016}
 - Early-1990s tax reform: **R.J. Chelliah** {1995}
 - Different for tax relief: **Indira Vikas Patra** {1997}

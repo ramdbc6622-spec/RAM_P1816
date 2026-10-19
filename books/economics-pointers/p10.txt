@@ -39,8 +39,8 @@ M3 | M1 + time deposits (broad money)
 - Common measure: **CPI** (WPI earlier) {2004, 2008, 2012}
 - Headline inflation: **CPI (Combined)** {2021}
 - CPI: covers goods and services; used by RBI (1 and 3); not compiled by OEA {2019}
-- CPI-IW base shifted from 1982 to **2001** {2008}; earlier 1960 to **1982** {1990}
-- Central employees' wages compensated by **CPI-IW** {2001}; DA based on **CPI** {2008}
+- CPI-IW base shifted from 1982 to **2001**; earlier 1960 to **1982** {2008, 1990}
+- Central employees' wages compensated by **CPI-IW**; DA based on **CPI** {2001, 2008}
 - WPI published by the **Ministry of Commerce and Industry** {2021}
 - WPI's largest weight: **manufactured products** {2008}
 - WPI 2004-05 series released **14 September 2010** {2009}
@@ -75,21 +75,21 @@ Core | Headline − food − fuel
 - Not an RBI function: **credit creation** (commercial banks do it) {2008}
 - Monetary policy **complements** fiscal policy {2016}
 - Not a monetary aim: **equitable distribution of income** {2011}
-- Monetary policy by the **RBI** {2006}; money and credit controlled by the RBI {2010}
+- Monetary policy by the **RBI**; money and credit controlled by the RBI {2006, 2010}
 - Not quantitative control: **credit rationing** {2017}
-- **OMO**: trading in securities {2008, 2010}; a **quantitative** tool {2017}
+- **OMO**: trading in securities; a **quantitative** tool {2008, 2010, 2017}
 - **Operation Twist**: sell short-term, buy long-term to boost long-term investment (R explains A) {2016}
 - Anti-inflation steps: **raise bank rate, CRR, SLR** (1, 2, 3); not buying securities {2016}
 - Cash and liquid assets ratio: **SLR** {2007}
 - Not set by the RBI: **PLR** {2008}
 - Since reforms **both SLR and CRR reduced** {1999}
 - Deposits kept with RBI: **CRR** {2013}
-- CRR rise: **less liquidity** {2010}; **less credit creation** {2004}
+- CRR rise: **less liquidity**; **less credit creation** {2010, 2004}
 - Repo rate: **monetary policy** {2017}
 - "Repurchase option" (key): **none of the above** {1998}
 - RBI's short-term lending rate: **repo** {2008}
 - Banks lend to RBI at **reverse repo** {2008}
-- **Bank rate**: RBI's rediscount rate {2008}; charged by RBI {2009, 2011}
+- **Bank rate**: RBI's rediscount rate; charged by RBI {2008, 2009, 2011}
 - Repo-reverse repo gap (2010-11): **1%** {2010}
 - 5 Dec 2019: repo **5.15%**, reverse repo **4.9%** {2014, 2019}
 - Repo regulated by the **RBI** {2002}
@@ -122,6 +122,6 @@ OMO | Buy or sell G-secs
 - RBI **1935**, Mumbai; nationalised 1949
 - RBI year April-March from 2020-21
 - Repo: RBI lends; reverse repo: RBI borrows
-- CRR up → liquidity down; OMO = securities
+- CRR up means liquidity down; OMO = securities
 - Operation Twist: buy long, sell short
 @end

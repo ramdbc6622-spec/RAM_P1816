@@ -1,0 +1,122 @@
+@chapter 15 | Welfare Schemes II: Rural Development, Employment and Basic Services
+@meta Built from 65 UPPSC questions (2001–2025). Focus: early rural programmes, the order of employment schemes, MGNREGA, Jan Dhan and energy schemes, sanitation, housing and urban missions.
+
+@hot
+- **SGSY**: **1999**; did not include JRY; became **NRLM** (2011) {2001, 2002, 2002, 2003, 2004, 2006, ?}
+- **MGNREGA**: **100 days** a year per household; 200 districts first, whole country **1 April 2008** {2005, 2006, 2006, 2008, 2008}
+- **Sangam Yojana** = welfare of the **disabled** {2004, 2006, 2008, 2021}
+- Scheme-year matching: **JRY 1989, EAS 1993, SGSY 1999, PMGY 2000, SGRY 2001, KSSY 2001, NRHM 2005, NSAP 1995, SJSRY 1997** {2002, 2016, 2022}
+- **Swachh Bharat (Gramin)**: **October 2014**, target **2019** {2014, 2015, 2017}
+@end
+
+@section 15.1 | Early Rural Development
+- **Etawah Pilot Project**: **Albert Mayer**; started **1948** {2016, 2023, 2013}
+- Order: **Key Village Scheme, CDP, democratic decentralisation, DRDA** {2021}
+- **CDP**: **2 October 1952**; architect **S.K. Dey** {2011, 2014}
+- Order: **CDP, Drought Prone Area Programme, Food for Work, TRYSEM** {2025}
+- **TRYSEM**: **rural development** programme {2014}
+- Order: **IRDP, NREP, DWCRA, JRY** {2025}
+- Wrong: **JRY-April 1995** (JRY began **1989**) {2005}
+- Not in SGSY: **JRY** {2001, 2002, 2003}
+- SGSY: **1999**; became **NRLM** (June 2011) {2002, 2004, 2006, ?}
+- Two wrong pairs: Bharat Nirman (infrastructure), SJSRY (urban) (*) {2015}
+- Order: **PM Rozgar Yojana (1993), REGP (1995), PMGY (2000), VAMBAY (2001)** {2024}
+- Order: **IRDP, SGSY, NREGA, Jan Dhan** {2024}
+- **Krishi Shramik Samajik Suraksha-2001, SGSY-1999, EAS-1993, PM Gramodaya-2000** {2002}
+- **SGSY-1999, SJSRY-1997, JRY-1989, NRHM-2005** {2016}
+- **NRHM-2005, NSAP-1995, SGSY-1999, SGRY-2001** {2022}
+- Wrong: **MGNREGA-2003** (Act 2005, scheme 2006) {2015}
+- Not employment-related: **RMSA** {2015}
+
+@flow Rural employment schemes in order
+1952 CDP | 1973 DPAP | 1977 Food for Work
+1979 TRYSEM | 1980 IRDP, NREP | 1982 DWCRA
+1989 JRY | 1993 EAS | 1999 SGSY
+2001 SGRY | 2006 NREGA | 2011 NRLM
+2025 | VB-G RAM G Act (125 days)
+@end
+
+@section 15.2 | MGNREGA
+- Extended (2007-08) to **330 districts** {2008}
+- First in **200 districts** {2006}
+- Whole country from **1 April 2008** {2006}
+- Guarantee: **100 days** a year {2005, 2008}
+- Budget 2020-21 cut: **Ayushman** (per key) {2016}
+- Budget 2023-24 statements on MGNREGA and JJM: **neither** correct {2023}
+- NREGA does not guarantee 100 days to **every adult member** (it is per household) {2008}
+- MGNREGA gains: **more purchasing power, less migration** (1 and 3) {2015}
+
+@section 15.3 | Inclusion and Energy
+- **Aspirational Districts Programme**: **January 2018** {2021}
+- **Saubhagya**: **free electricity** connections for poor households {2017}
+- **PM Jan Dhan**: **28 August 2014** {2015}
+- Order: Jan Dhan, Make in India, Sukanya, Atal Pension (no code, *) {2017}
+- Order: **Jan Dhan, Digital Gender Atlas, Mudra, PMSBY** {2017}
+- Guinness-record DBT: **PAHAL** {2019}
+- **Ujjwala** launched at **Ballia** (UP), 1 May 2016 {2016}
+- DDU Gram Jyoti: rural electricity (no single option, *) {2015}
+- **RIDF**: under **NABARD**; administered by NABARD {2014, 2013}
+- Not under RIDF: **rural industries** {2010, 2013}
+
+@section 15.4 | Water and Sanitation
+- National Rural Drinking Water Programme: part of **Bharat Nirman** {2015}
+- **Jal Jeevan Mission**: Budget **2019-20** {2022}
+- **PMAY-G-November 2016, JJM-August 2019, SBM-G-October 2014, Ujjwala-May 2016** {2024}
+- Order: **Swachh Bharat, PMKVY, PM Garib Kalyan, Mahila Shakti Kendra** {2024}
+- Wrong: **Swachh Bharat-safe drinking water** (it is sanitation) {2017}
+- Clean India target: **2019** {2014}
+- SBM (Grameen): **October 2014** {2015}
+- Rural Sanitation Strategy: **2019-2029** {2019}
+- SBM is about community behaviour; open defecation tied to routine (both) {2019}
+- Not in the top three (Swachh Survekshan 2021): **Tirupati** (Indore, Surat, Vijayawada were) {2021}
+- UP in Swachh Survekshan 2021: **sixth** {2021}
+- People did not see open defecation as a threat; purity norms kept toilets out (both true, R not the explanation) {2019}
+- Nirmal Bharat Abhiyan: none of the options (key) {2012}
+- Nirmal Gram Puraskar: **sanitation** (ODF villages) {2008}
+- Toilet revolution: **subsidy and loans for flush toilets** {2001}
+- ILCS: shared funding; **75% central subsidy** (I and II) {2016}
+
+@table
+Scheme | Launch
+Swachh Bharat | 2 Oct 2014
+PM Jan Dhan | 28 Aug 2014
+PMAY (Urban) / AMRUT | 25 June 2015
+Ujjwala | 1 May 2016 (Ballia)
+PMAY (Gramin) | 20 Nov 2016 (Agra)
+Saubhagya | Sept 2017
+Jal Jeevan Mission | Aug 2019
+@end
+
+@section 15.5 | Housing and Urban Missions
+- Wrong: **Rurban Mission-2015** (it began **2016**) {2023}
+- AMRUT: covers about **60%** of urban people (true); 400 cities (false, **500**) (only 2) {2016}
+- Order: **JNNURM (2005), Urban Housing Policy (2007), AMRUT (2015), JJM (2019)** {2025}
+- **Sugamya Bharat**: **persons with disabilities** {2021}
+- **Sangam Yojana**: **welfare of the handicapped** {2004, 2006, 2008, 2021}
+- **Sankalp**: **HIV/AIDS** {2008, 2012}
+- **PM Gramodaya**: rural infrastructure (schools, health, roads, housing, water) {2004, 2013}
+- **AMRUT**: **urban infrastructure** {2015, 2016}
+- PMAY span: Housing for All by 2022, since extended to 2029 (*) {2016}
+- **Rajiv Awas Yojana**: **slum-free India** {2010}
+
+@trap
+- NREGA guarantee is per **household**, not per adult.
+- **Swachh Bharat** = sanitation, not drinking water.
+- **AMRUT** = **500** cities.
+- **Ujjwala** began at **Ballia**, UP.
+@end
+
+@up UP links: the **Etawah Pilot Project** (1948) was the seed of community development; **Ujjwala** began at **Ballia** (2016) and **PMAY-Gramin** at **Agra** (2016); UP ranked **sixth** in Swachh Survekshan 2021.
+
+@last
+- Etawah 1948 = Albert Mayer; CDP 2 Oct 1952 = S.K. Dey
+- TRYSEM 1979; IRDP 1978-80; JRY 1989; EAS 1993
+- SGSY 1999 (not JRY) to NRLM 2011
+- NREGA: 200 districts (2006) to all India 1 Apr 2008; 100 days/household
+- Jan Dhan **28 Aug 2014**; PAHAL = Guinness DBT
+- Ujjwala Ballia 2016; Saubhagya = electricity
+- RIDF = NABARD; JJM 2019
+- SBM Oct 2014, target 2019; strategy 2019-29
+- AMRUT 500 cities; Rurban 2016; RAY = slum-free
+- Sangam & Sugamya = disabled; Sankalp = HIV
+@end

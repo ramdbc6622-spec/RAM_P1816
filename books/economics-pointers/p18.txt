@@ -1,0 +1,119 @@
+@chapter 18 | Trade Policy, SEZs and Export Promotion
+@meta Built from 45 UPPSC questions (1993–2023). Focus: trade terms, globalisation, Foreign Trade Policy, EPZs and SEZs, export bodies, tourism and trade facts.
+
+@hot
+- **SEZ**: policy **April 2000**; Act passed **2005**, in force **2006** {2007, 2009, 2010, 2014, 2015, 2017}
+- **First EPZ in Asia**: **Kandla, 1965**; first private EPZ: **Surat** {2005, 2009, 2011}
+- **Free trade zones**: to promote **export industries** {2002, 2003, 2007}
+- **Invisible export** = **services**; **entrepot trade** = goods imported for re-export {2002, 2006, 2007}
+- **ECGC** = export credit insurance; **EXIM Bank** = **1982** {2001, 2005, 2009}
+@end
+
+@section 18.1 | Trade Concepts
+- **Invisible export**: export of **services** {2006, 2007}
+- **Entrepot trade**: goods **imported for export** {2002}
+- A **tariff** **reduces the volume of trade** {2017}
+- **Duty drawback**: **refund of import duty** to exporters {2011}
+- Slow growth of exports: **all of the above** causes {2017}
+
+@table
+Term | Meaning
+Invisible exports | Services (IT, tourism, shipping) and remittances
+Entrepot trade | Imports for re-export (Singapore, Dubai)
+Duty drawback | Refund of import duty on inputs of exports
+RoDTEP (2021) | Refund of embedded taxes on exports; replaced MEIS
+Anti-dumping duty | On imports sold below home price; India is a top user
+Super 301 | US law against countries with unfair trade barriers
+@end
+
+@section 18.2 | Globalisation and Trade Policy
+- **Globalisation**: **dismantling barriers** to international trade {2017}
+- Globalisation of India: **minimum restrictions** on economic ties with other countries {2017}
+- Not correct about globalisation: it created **optimism among small entrepreneurs** {2010}
+- More MNCs serve **all of the above** policies (liberalisation, privatisation, globalisation) {2004}
+- After 1991: export share, **FDI** and **forex reserves** rose; agriculture's share did **not** (2, 3 and 4) {2017}
+- **Free trade policy**: **absence of tariffs** {2005}
+- FTP 2004-09 target: **1.5%** of world trade by 2009 {2007}
+- High-performing exporters: **Star Trading Houses** {2011}
+- Towns of Export Excellence: all four options were named (*) {2013}
+
+@flow Status holders under the FTP
+One Star Export House | Entry level, by export value
+Two Star to Four Star | Rising export thresholds
+Five Star Export House | Top tier
+FTP 2023 | From 1 April 2023, no end date; US$ 2 trillion target by 2030
+@end
+
+@section 18.3 | EPZs and SEZs
+- Free trade zones: for **export industries**, free of excise, mainly export production {2002, 2003, 2007}
+- SEZ policy announced: **April 2000** {2014, 2015, 2017}
+- SEZ Act passed **2005**; in force **2006** (10 February) {2007, 2009, 2010}
+- Not an SEZ aim: **discouraging foreign investment** {2009}
+- First EPZ in Asia: **Kandla, 1965** {2011}
+- City without an SEZ, place without an FTZ: no option fits (*) {1999, 2001}
+- First EPZ 1965, SEZ policy 2000 and Patola-Vadodara correct per key (1, 2, 3); Panna is **diamonds**, not gold (Patola is chiefly Patan) {2009}
+- An EPZ: **Falta** (West Bengal) {2023}
+- First private EPZ: **Surat** {2005}
+- Highest SEZ export growth: **2007-08** {2007}
+- Most SEZs (June 2012): **Andhra Pradesh** {2012}
+- SEZ India app (2017): **Ministry of Commerce and Industry** {2017}
+
+@table
+EPZ / SEZ fact | Detail
+First EPZ in Asia | Kandla (Gujarat), 1965
+Other EPZs | SEEPZ Mumbai, Falta, Noida, Chennai, Kochi, Visakhapatnam
+First private EPZ | Surat
+SEZ policy | April 2000
+SEZ Act | 2005; in force 10 February 2006
+Most SEZs (2012) | Andhra Pradesh
+@end
+
+@section 18.4 | Export-Promotion Bodies
+- Channel exports and imports: **MMTC, EXIM Bank, STC, FCI** (all four) {1999}
+- **EXIM Bank**: **1982** {2005}
+- Promote foreign trade: **all of the above** {2011}
+- **ECGC**: **export financing and insurance** against risks {2001, 2009}
+- **India Brand Equity Fund**: **1996** {1997}
+- **MPEDA**: set up **1972**; HQ is **Kochi**, not Kolkata (only 1) {2023}
+
+@table
+Body | Year | Role
+STC | 1956 | State trading
+ECGC | 1957 | Export credit insurance
+MMTC | 1963 | Minerals and metals
+MPEDA | 1972 | Marine exports; HQ Kochi
+EXIM Bank | 1982 | Export-import finance
+IBEF | 1996 | Brand India
+@end
+
+@section 18.5 | Tourism and Trade Relations
+- Most-visited country: **France** {2006, 2013}
+- Favourite destination of Indian tourists (2010): **Singapore** {2013}
+- Foreign tourist arrivals fell in **2009-10** {2010}
+- Best tourist city (Travel and Leisure, 2009): **Udaipur** {2010}
+- **Nathu La** reopened (2006) for border trade with **China** {2006}
+- Most anti-dumping measures (1995-2005): **India** {2005}
+- **Super 301**: against **barriers to free trade** {1993}
+- IITF 2021: theme **Atmanirbhar Bharat**; held in **New Delhi**, not Jaipur (only 2) {2021}
+
+@trap
+- **Invisible** = services; **entrepot** = re-export; duty drawback = **refund**, not a tax.
+- SEZ: policy **2000**, Act **2005**, in force **2006**; do not mix the three.
+- **Kandla** = first EPZ in Asia; **Surat** = first private EPZ; **Falta** = EPZ in West Bengal.
+- MPEDA HQ = **Kochi**; IITF = **Pragati Maidan, New Delhi**.
+@end
+
+@up UP link: **Noida EPZ** (1985) is now the **Noida SEZ**; UP's **ODOP** (2018) and the **Districts as Export Hubs** plan push exports from districts such as Bhadohi (carpets) and Moradabad (brass); the **UP International Trade Show** is held at Greater Noida.
+
+@last
+- Invisible = **services**; entrepot = **import for export**
+- Tariff **reduces** trade; duty drawback = refund of import duty
+- Free trade = **no tariffs**; globalisation = dismantling barriers
+- SEZ policy **April 2000**; Act **2005**; in force **2006**
+- **Kandla 1965** = first EPZ in Asia; **Surat** = first private EPZ
+- **Falta** = EPZ; AP had most SEZs (2012)
+- EXIM Bank **1982**; ECGC = export insurance; IBEF **1996**
+- MPEDA **1972**, Kochi
+- Nathu La = **China** trade (2006); France = most visited
+- India = most anti-dumping cases; Super 301 = USA
+@end

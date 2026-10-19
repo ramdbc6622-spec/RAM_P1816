@@ -7,7 +7,7 @@
 - Deficit order: **fiscal > revenue > primary** {2002, 2003, 2004, 2008}
 - Largest outlay in Budget 2011-12 (key): **energy** {2001, 2002, 2009, 2010, 2011}
 - **Economic Survey** and fiscal policy: **Ministry of Finance** {2010, 2010, 2012, 2015}
-- **Deficit financing** → more money → **inflation** {1993, 2003, 2016}
+- **Deficit financing** adds money and leads to **inflation** {1993, 2003, 2016}
 @end
 
 @section 7.1 | Fiscal Policy
@@ -17,7 +17,7 @@
 - Response to supply shocks: **cut taxes on fuel and imports** (only 3) {2024}
 - Subsidy a big deficit source (true); farm subsidy higher than rich countries (false) {2002, 2004}
 - Survey 2015-16 "Chakravyuha": from socialism with limited entry to **marketism without exit** {2017}
-- Economic Survey prepared by the **Ministry of Finance** {2010}; published by it {2010, 2015}
+- Economic Survey prepared by the **Ministry of Finance**; published by it {2010, 2010, 2015}
 
 @section 7.2 | The Budget
 - Not among 2017-18's ten themes: **export performance** {2017}
@@ -55,7 +55,7 @@ Plan / non-plan ended | Revenue / capital only
 - Revenue deficit minus capital-asset grants: **effective revenue deficit** {2015}
 - Fiscal deficit mostly met by **domestic borrowing** {2005}
 - Deficit financing causes inflation by raising money supply (R explains A) {2003}
-- Failed deficit financing: **inflation** {1993}; raises **money supply** {2016}
+- Failed deficit financing: **inflation**; raises **money supply** {1993, 2016}
 - **FRBM Act**: **2003** {2008}
 
 @table
@@ -88,6 +88,6 @@ Primary | Fiscal deficit − interest
 - Effective revenue = revenue − capital grants
 - Interest = biggest revenue spend
 - FRBM **2003**
-- Deficit financing → inflation
+- Deficit financing leads to inflation
 - ZBB & performance budget = USA
 @end

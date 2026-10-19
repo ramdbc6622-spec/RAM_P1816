@@ -11,7 +11,7 @@
 
 @section 12.1 | Insurance and Savings
 - Order: **LIC (1956), UTI (1964), IDBI (1964), SEBI (1988/92)** (no exact code, *) {2004}
-- Insurance regulator: **IRDA** {2002}; IRDAI regulates **insurance companies** {2005, 2007}
+- Insurance regulator: **IRDA**; IRDAI regulates **insurance companies** {2002, 2005, 2007}
 - **Actuaries**: **insurance** {2008}
 - Indemnity does not apply to **life insurance** {2009}
 - Provident fund: **contractual savings** {1998}
@@ -70,8 +70,8 @@ Broker | Agent; not a speculator
 - Market tendency leads to **consumerism** {2013}
 - **Buyer's market**: supply exceeds demand {2010}
 - Vegetables: **very short-term** market {2013}
-- Total product constant → marginal product **zero** {2013}
-- Fixed demand, more supply → price **falls** {2016}
+- Total product constant means marginal product **zero** {2013}
+- Fixed demand, more supply: price **falls** {2016}
 - Businessmen profit from price rise; buyers cut needs (both true, R not the explanation) {2002, 2003}
 - Profit-volume ratio improved by **all** listed means {2017}
 - **Shadow prices** for public goods: **J. Tinbergen** {2010}
@@ -85,7 +85,7 @@ Broker | Agent; not a speculator
 @trap
 - Life insurance has **no indemnity**.
 - **Sensex 30**; Greenex **25**; Nifty **50**.
-- **CRISIL → ICRA → CARE**.
+- Order: **CRISIL, ICRA, CARE**.
 - **Buyer's market** = supply > demand.
 @end
 
@@ -99,7 +99,7 @@ Broker | Agent; not a speculator
 - Sensex 30; Greenex 25; Nikkei Tokyo; Brent oil
 - Bull buys; bear sells; broker not speculator
 - Gilt-edged = govt securities; CP = corporates
-- CRISIL 1987 → ICRA 1991 → CARE 1993
+- CRISIL 1987, ICRA 1991, CARE 1993
 - Buyer's market: supply > demand
 - Shadow prices: Tinbergen
 @end
