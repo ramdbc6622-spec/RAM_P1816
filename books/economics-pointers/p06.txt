@@ -1,0 +1,101 @@
+@chapter 6 | Industry II: Public Sector, Major Industries and Services
+@meta Built from 48 UPPSC questions (1990–2023). Focus: PSUs and Ratna status, refineries, steel plants, industry-centre matching, services sector.
+
+@hot
+- **Service sector** = largest source of national income {2004, 2010, 2014, 2017, 2021}
+- Tertiary sector: **trade, transport, finance, real estate**; not forestry and fishing {2002, 2003, 2004, 2008, 2015, 2017}
+- Centre-industry matching: **Visakhapatnam-ships, Muri-aluminium, Gurgaon-cars, Panki-fertiliser, Coimbatore-cotton, Kapurthala-coaches, Barauni-refinery, Titagarh-jute, Ludhiana-hosiery, Bhadohi-carpets** {1994, 1999, 2001, 2003}
+- **UP** = largest sugar producer {2011, ?}
+@end
+
+@section 6.1 | Public Sector
+- PSU roles: utilities, overhead capital, balanced growth, equality (all) {2019}
+- Odd one out (private): **Essar Oil** {1997}
+- **ONGC**: **1956** {2014}
+- **OIL**: **oil exploration** {2001}
+- Largest government trading company: **MMTC** {2008}
+- **HAL**: **aircraft** {2008}
+- Tourism and hotels: **ITDC** {2004}
+- **BSNL**: **2000** {2009}; **100%** government equity {2008}
+- GAIL pipeline: **Vijayawada to Vijaipur** {2008}
+- Oil prices now set by **oil companies** {2015}
+- **Navratna**: selected PSUs {2008}
+- Not Maharatna in 2013: **Oil India** (Maharatna since 2024, *) {2010, 2013}
+- Navratna then: **MTNL** {2012}
+- Not Navratna: **Indian Aluminium Company** {2006}
+- Navratna aluminium firm: **NALCO** {2013}
+
+@table
+Status | Examples
+Maharatna | ONGC, NTPC, SAIL, IOCL, Coal India, BHEL, GAIL, Oil India
+Navratna | HAL, BEL, NALCO
+Fully government | BSNL (2000)
+@end
+
+@section 6.2 | Refineries
+- Private sector (1998): Mangalore and Essar then (*) {1998}
+- Private among Digboi, Barauni, Numaligarh, Mathura: none (*) {2004}
+- **Barauni-Bihar, Bongaigaon-Assam, Bina-MP, Koyali-Gujarat** {2023}
+- Ideal for petrochemicals: **Gujarat** {2002}
+- Coastal Gujarat an industrial workshop (R explains A) {2001}
+
+@section 6.3 | Major Industries
+- Steel plant not on a river: **Bhilai** {2021}
+- **Rourkela**: with **Germany** {2012}
+- **Bokaro**: **Soviet Union** {1991}
+- **Bhilai-Chhattisgarh, Bokaro-Jharkhand, Durgapur-West Bengal, Rourkela-Odisha** {2001}
+- **Indian Diamond Institute**: **Surat** {2012}
+- **Visakhapatnam-shipbuilding, Muri-aluminium, Gurgaon-automobiles, Panki-fertiliser** {2003}
+- **Coimbatore-cotton, Rourkela-steel, Kapurthala-rail coaches, Barauni-refining** {1999}
+- **Singrauli-coal, Kajarhat-cement, Koyali-oil, Anand-milk** {1994}
+- Largest sugar producer: **UP** {2011}
+- Wrong: **Katni-paper** (Katni = cement) {1990}
+- **Jute-Titagarh, silk-Bangalore, woollen hosiery-Ludhiana, carpets-Bhadohi** {2001}
+- Sugar order: **UP, Maharashtra, Karnataka, Tamil Nadu** {?}
+- Wrong: **MALCO-Chennai** (MALCO is at **Mettur**) {2022}
+- **Nepanagar**: **newsprint** {2001}
+- **Hazira** fertiliser: **natural gas** {1991}
+
+@flow Public steel plants and partners
+Bhilai | Chhattisgarh; USSR
+Rourkela | Odisha; West Germany
+Durgapur | West Bengal; UK
+Bokaro | Jharkhand; USSR
+@end
+
+@section 6.4 | History and Companies
+- Order (key): **Indian sugar industry, Rishra jute mill, Bombay textile mill, first steel** {2021}
+- MNCs (of options): **Samsung and LG** {2014}
+- KVIC HQ: **Mumbai** {2014}
+- Not FMCG: **automobiles** {2012}
+- Largest software company: **TCS** {2011}
+
+@section 6.5 | Tertiary Sector
+- Tertiary: **trade and transport, finance and real estate** (1 and 2) {2002, 2003, 2004, 2008, 2015, 2017}
+- Largest source of national income: **services** {2004, 2010, 2014, 2017, 2021}
+- Largest services share in GSDP (2008-09): **Delhi** {2010}
+- Steady growth 2001-05: **services** {2007}
+- Not correct (Survey 2023): fashion, grocery, merchandise two-thirds of e-commerce by 2030 {2023}
+- Tertiary share **rises** as economies develop {2006}
+- **TRAI**: **telecom** {2017}
+
+@trap
+- **Bhilai** is not on a river; Rourkela = Germany, Durgapur = UK.
+- **MALCO** = Mettur; **Katni** = cement.
+- Forestry and fishing are **primary**, not tertiary.
+@end
+
+@up UP centres: **Panki** (fertiliser), **Bhadohi** (carpets), **Renukoot** (aluminium), **Singrauli** (coal and power), **Churk** (cement), **Mathura** (IOCL refinery); UP is India's **top sugar** producer.
+
+@last
+- ONGC **1956**; BSNL **2000**, 100% govt
+- MMTC = largest govt trader; HAL = aircraft; ITDC = hotels
+- NALCO = Navratna; Oil India = Maharatna (2024)
+- Barauni Bihar; Bongaigaon Assam; Bina MP; Koyali Gujarat
+- Rourkela Germany; Bokaro USSR; Bhilai not on a river
+- Surat = diamonds; Muri = aluminium; Panki = fertiliser
+- Titagarh jute; Ludhiana hosiery; Bhadohi carpets
+- UP = top sugar producer
+- Services = largest share of GDP
+- TRAI = telecom; KVIC = Mumbai
+@end

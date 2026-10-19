@@ -1,0 +1,141 @@
+@chapter 11 | Banking in India
+@meta Built from 83 UPPSC questions (1992–2024). Focus: bank history and nationalisation, types of banks, development banks, financial inclusion, NPAs and safety, cooperative and rural banking, NABARD, RRBs.
+
+@hot
+- **14 banks** nationalised in **July 1969**; 6 more on **15 April 1980** {1996, 2004, 2006, 2007, 2014}
+- **NABARD**: **1982**; apex rural credit; runs **RIDF** {2003, 2004, 2004, 2005, 2008, 2009, 2014, 2014}
+- **SBI** = largest commercial bank; first Indian bank in China {2003, 2004, 2005, 2006, 2007}
+- **SIDBI**: small industry; HQ **Lucknow** {2004, 2012, 2014, 2016, 2021}
+- **Land Development Bank** = long-term farm loans; part of the cooperative structure {1992, 2008, 2008, 2016}
+- **Lead Bank Scheme** (December 1969) handles **district credit planning** {2002, 2003, 2007, 2022, ?}
+@end
+
+@section 11.1 | History and Nationalisation
+- **Allahabad Bank-1865, PNB-1894, Awadh Commercial-1881, Alliance Bank of Shimla-1874** {2023}
+- Earliest event: **Banking Regulation Act** (1949) {2016}
+- 14 banks nationalised: **July 1969** {1996, 2006, 2007, 2014}
+- Gorwala committee led to SBI; 6 banks nationalised 15 April 1980 (both) {2004}
+- Number of PSBs (2011): depends on IDBI count; **12** now (*) {2011}
+- Bank mergers: scale, capital, reach, global size (all) {2019}
+- **EASE Index**: measures **PSB performance** (only 1) {2021}
+
+@flow Bank nationalisation and mergers
+1949 | Banking Regulation Act; RBI nationalised
+1 July 1955 | SBI from the Imperial Bank
+19 July 1969 | 14 banks nationalised
+15 April 1980 | 6 more banks
+2019-2020 | Mega-mergers → 12 PSBs
+@end
+
+@section 11.2 | Types of Banks
+- Public sector bank: **Indian Overseas Bank** {2006}
+- Private bank: **Bank of Punjab** {2001}
+- Not nationalised: **ICICI Bank** {2004}
+- Largest commercial bank: **SBI** {2003, 2004, 2005}
+- "Farmers' clubs": **SBI** {2008, 2010}
+- SBI chairman from April 2011: **Pratip Chaudhuri** {2006, 2012}
+- "Simply Click" card: **SBI** {2016}
+- First Indian bank branch in China: **SBI** {2006, 2007}; first private: **Axis Bank** {2014}
+- First moving ATM: **ICICI** {2014}
+- Merged with PNB: **New Bank of India** (1993; OBC in 2020) {2010}
+- Long-term industrial finance: **all** listed {1998}
+- **Indian Bank-public, ICICI-private, Citibank-foreign, Saraswat-cooperative** {2016}
+- Foreign bank with most branches: **Standard Chartered** {2008}
+
+@section 11.3 | Development Banks and Inclusion
+- Order: **1st nationalisation, RRBs, 2nd nationalisation, NABARD** {2023}
+- Order: **SBI, Lead Bank Scheme, RRBs, NABARD** {2005}
+- **LBS**: **Lead Banking Scheme** {2022}; started **December 1969** {?}
+- Lead bank functions by a **designated bank** {2007}
+- District credit planning: **lead bank** {2002, 2003}
+- Small-industry bank: **SIDBI** {2012}; HQ **Lucknow** {2016, 2021}; finances small industry {2004}
+- Wrong: **SIDBI-Mumbai** (Lucknow) {2014}
+- **ICICI-1955, IDBI-1964, IFCI-1948, SIDBI-1990** {2010}
+- **IFCI**: a **development bank** {2012}
+- Marketing institution (key): **SAIL** {2002}
+- Not an apex institution: **SBI** {2008}
+- Financial inclusion helped by **all** listed {2008}
+- Not an inclusion aim: **shrinking banking infrastructure** {2016}
+- Hindrances: **all** listed {2013}
+- Inclusion steps: **nationalisation, RRBs, village adoption** (all) {2024}
+- Financial inclusion committee (2005): **C. Rangarajan** {2013, 2014}
+- Payment banks: **Nachiket Mor** {2014}
+- **Shadow banking**: non-bank financial intermediaries {2014}
+- Microfinance committee: **Y.H. Malegam** {2010, 2014}
+
+@table
+Institution | Year | HQ / role
+IFCI | 1948 | First development bank
+ICICI | 1955 | Industrial credit
+IDBI | 1964 | Industrial finance
+NABARD | 1982 | Rural credit (Mumbai)
+EXIM Bank | 1982 | Trade finance
+SIDBI | 1990 | MSMEs (Lucknow)
+@end
+
+@section 11.4 | Balance Sheets and Safety
+- Bank asset: **credit to farmers** {2007}
+- Largest liability: **time deposits** {2008, 2009}
+- **NPA**: loans with unpaid interest or principal (90 days) {2009}
+- Under RBI control (then): NABARD; now fully government-owned (*) {1998}
+- **Basel II**: **capital adequacy** standards {2005}
+- **DICGC**: RBI subsidiary; insures up to **Rs. 5 lakh** (both) {2016}
+
+@section 11.5 | Cooperative and Rural Banking
+- First Land Development Bank (1920): **Jhang** {2016}
+- LDB: **long-term farm loans** {1992, 2008}; part of the **cooperative credit structure** {2008}
+- Central Cooperative Bank: **district level** {2004, 2008}
+- Urban cooperative banks (2012): 1,618 (no option, *) {2012}
+- Consumer cooperative stores set up **by members** {2016}
+- **NABARD**: **1982** {2003, 2014}; set up by an Act (true), only farm credit (false) (only 1) {?}
+- NABARD refinances **agriculture and rural development** {2004}; apex farm-credit body {2005}
+- NABARD does not refinance the **EXIM Bank** {2002}
+- RIDF nodal agency: **NABARD** {2004, 2008, 2009, 2014}
+- RRBs: **1975** {2010}
+- Not an RRB function: **take over ARDC's work** {2005}
+- Order: **RRB, NABARD, SHG linkage, KCC** {2020}
+- Does not implement SHG linkage (it promotes it): **NABARD** {2015}
+- **Narasimham**: **banking reforms** {2008}
+- **Raghuram Rajan**: **financial sector reforms** {2007}
+- **Bimal Jalan** panel: **new bank licences** {2014}
+- First Disinvestment Commission chairman: **G.V. Ramakrishna** {2004}
+- **Swabhimaan**: banks to the **rural poor's doorstep** {2010}; rural banking {2012}
+- KCC covers **consumption and investment credit** {2010}; KCC from **1998-99** {2014}
+
+@table
+Tier | Level
+State Cooperative Bank | State
+Central Cooperative Bank | District
+PACS | Village
+Land Development Bank | Long-term (first at Jhang, 1920)
+@end
+
+@section 11.6 | Instruments
+- **Negotiable Instruments Act**: **1882** {2016}
+- IFSC set up at **Gandhinagar** (GIFT City) {2016}
+- "Smart money": **credit card** {2008}
+- "Plastic money": **bank credit cards** {2006}
+- Not prepaid: **credit card** {2014}
+- **PIN**: Personal Identification Number {2023}
+
+@trap
+- **NPA** = overdue **90 days**.
+- **DICGC** insures **Rs. 5 lakh** per depositor per bank.
+- **SIDBI** HQ = Lucknow, not Mumbai.
+- NABARD **promotes** SHG linkage; banks implement it.
+@end
+
+@up UP links: **SIDBI** is headquartered in **Lucknow**; the first RRB group included **Prathama Bank, Moradabad** (1975); **Allahabad Bank** (1865, Prayagraj) merged into Indian Bank in 2020; UP's RRBs merged into one under "One State, One RRB".
+
+@last
+- Allahabad Bank **1865**; PNB 1894
+- Banking Regulation Act **1949**; SBI **1955**
+- 14 banks **19 July 1969**; 6 banks **1980**
+- Lead Bank Scheme **Dec 1969**
+- IFCI 1948; ICICI 1955; IDBI 1964
+- RRB 1975 → NABARD 1982 → SHG 1992 → KCC 1998
+- SIDBI **1990**, Lucknow
+- Rangarajan = inclusion; Nachiket Mor = payment banks; Malegam = MFIs
+- NPA 90 days; DICGC Rs. 5 lakh; Basel = capital
+- First LDB **Jhang 1920**; District = Central Coop Bank
+@end

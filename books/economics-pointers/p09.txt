@@ -1,0 +1,110 @@
+@chapter 9 | Economic Planning and NITI Aayog
+@meta Built from 57 UPPSC questions (1990–2024). Focus: Planning Commission, NDC, NITI Aayog, pre-independence plans, the twelve Five Year Plans and their themes.
+
+@hot
+- **NDC** = approval of Five Year Plans; formed **6 August 1952** {2001, 2003, 2004, 2008, 2008, 2014, 2016}
+- 11th Plan: **2007-12**, "faster and more inclusive growth", 9% target {2006, 2008, 2008, 2011, 2015}
+- **Fifth Plan** = poverty removal (Garibi Hatao), self-reliance, zero net aid {2007, 2014, 2016}
+- **Economic planning** = **Concurrent List** {2002, 2006}
+- **NITI Aayog**: no full-time chairman; first Vice-Chairman **Arvind Panagariya** {2015, 2017, 2018}
+@end
+
+@section 9.1 | Planning Bodies
+- Planning: **Concurrent List** {2002, 2006}
+- **DMEO**: attached to **NITI Aayog** {2020}
+- "Economic Cabinet" (Ashok Chanda): **Planning Commission** {2018}
+- NDC: **approval of Five Year Plans** {2001, 2003, 2004, 2008}; formed **6 August 1952** {2008, 2014, 2016}
+- Planning Commission set up: **1950** {2009}; by a **Cabinet resolution** {?}
+- Planning Commission: a **quasi-political** body {2014}
+- Not correct of NITI: **full-time chairman** (PM chairs) {2015}
+- SDG nodal institution: **NITI Aayog** {2019}
+- First NITI Vice-Chairman: **Arvind Panagariya** {2017, 2018}
+- India Innovation Index 2019 top: **Karnataka** {2019}
+- Fastest-growing State 2014-15: **Bihar** {2016}
+
+@section 9.2 | Ideas Behind Planning
+- Planning for balanced development, even spread, regional equity, resource use (all four) {2009, 2016}
+- Gadgil-Mukherjee formula: highest weight to **population** {2008}
+- **Gandhian Plan** (1944): **Shriman Narayan Agarwal** {2015}
+- Opposed planned development: **Mahatma Gandhi** {2019}
+- Rolling plan: annual, multi-year and perspective features (all four) {2016}
+- Rolling plan in operation: **1978-79** {2007}
+
+@table
+Early plan | Year | By
+Planned Economy for India | 1934 | M. Visvesvaraya
+National Planning Committee | 1938 | Congress (Nehru)
+Bombay Plan | 1944 | Industrialists
+Gandhian Plan | 1944 | Shriman Narayan Agarwal
+People's Plan | 1945 | M.N. Roy
+Sarvodaya Plan | 1950 | Jayaprakash Narayan
+@end
+
+@section 9.3 | Five Year Plans
+- 12th Plan: **2012-17** {2012}; agriculture growth about **4%** {2014}
+- 12th Plan vision target: **9%** {2012}
+- Sustainable growth focus: **12th Plan** {2018}
+- Largest 12th Plan allocation: **social services** {2013, 2014}
+- 11th Plan: **2007-12** {2008, 2011, 2015}; largest spend: **social sector** {2010}
+- 11th Plan industry target: **10.5%** {2008}; agriculture **4%** {2007, 2009}; GDP **9%** {2006}
+- 10th Plan mid-term growth target: **7%** {2004}; original target **8%** {2002}
+- Largest 10th Plan outlay: **energy** {2005}
+- 10th Plan investment rate **higher than** savings rate {2008}
+- Growth with social justice and equity: **9th Plan** {2015}; 9th target **6.5%** {1996}
+- Women's Component Plan: **9th Plan** {2016}
+- April 1992-March 1997: **8th Plan** {1998}
+- Human development at the core: **8th Plan** {2016}
+- IRDP in the 7th Plan: **total household approach** {1994}
+- Self-reliance and zero net foreign aid: **5th Plan** {2014}
+- Poverty abolition slogan: **5th Plan** {2007}; Garibi Hatao programmes: **5th** {2016}
+- Order: **Green Revolution, bank nationalisation, Garibi Hatao** {2016}
+- Growth Centre approach: **4th Plan** {1996}
+- Industrialisation strategy: **2nd Plan** {1991}
+- First Plan priority: **agriculture** {2011}
+- **1st-Harrod-Domar, 2nd-Mahalanobis, 3rd-Chakravarty, 4th-Ashok Rudra** {2021}
+- **1st-community development, 2nd-rapid industrialisation, 3rd-basic industries, 4th-growth with stability and self-reliance, 5th-minimum needs** {1994}
+- **1st-1951-56, 3rd-1961-66, 4th-1969-74, 6th-1980-85** {2014}
+- 11th Plan approach: **faster and more inclusive growth** {2008}
+- Years outside any plan: **7** {1999}
+- "Jobless growth" decade: **1991-2000** {2014}
+- Twenty Point Programme: **1975** {2008, 2009}
+- Bottom-up planning still a goal; village a viable unit (R explains A) {1998}
+- Order: **IMF membership, first devaluation (1949), First Plan to Parliament, NDC** {2003}
+
+@flow Five Year Plans in one line each
+1st 1951-56 | Agriculture; Harrod-Domar
+2nd 1956-61 | Heavy industry; Mahalanobis
+3rd 1961-66 | Self-reliance; failed (wars, drought)
+4th 1969-74 | Growth with stability
+5th 1974-78 | Garibi Hatao; Minimum Needs
+6th-7th 1980-90 | Poverty; food, work, productivity
+8th 1992-97 | Human development
+9th 1997-2002 | Social justice and equality
+10th-11th 2002-12 | 8% target; inclusive growth
+12th 2012-17 | Sustainable growth; last plan
+@end
+
+@section 9.4 | Planned Cities and Yojana
+- **Kanchipuram-ancient, Jaisalmer-medieval, Kodaikanal-colonial, Bhilai-post-independence** {2024}
+- *Yojana* magazine: **Publications Division** {1990}
+
+@trap
+- Planning Commission **1950** (Cabinet resolution); NDC **1952**; NITI **2015**.
+- **Garibi Hatao** = 5th Plan; **human development** = 8th; **social justice** = 9th.
+- **7** plan-free years: 1966-69, 1978-80 (rolling), 1990-92.
+@end
+
+@up UP links: UP's **State Transformation Commission** (2023) replaced the State Planning Commission on NITI lines; UP's planning department prepares SDG and district plans.
+
+@last
+- Planning = Concurrent List
+- Planning Commission 15 Mar **1950**; NDC 6 Aug **1952**
+- NITI Aayog 1 Jan **2015**; first VC Panagariya
+- Gandhian Plan = Shriman Narayan Agarwal
+- 1st Harrod-Domar; 2nd Mahalanobis
+- 5th = Garibi Hatao, self-reliance
+- 8th = human development; 9th = social justice
+- 11th = inclusive growth, 9%; 12th = sustainable, last plan
+- Rolling plan **1978-80**; 7 plan-free years
+- Twenty Point Programme **1975**
+@end
