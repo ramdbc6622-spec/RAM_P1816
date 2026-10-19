@@ -1,0 +1,84 @@
+@chapter 11 | Soils
+@meta Built from 29 UPPSC questions (1998–2024). Focus: black (regur) soil, laterite, usar and saline soils, erosion.
+
+@hot
+- **Black (regur)** soil: from **Deccan basalt**, best for **cotton**, holds moisture; it is **not** rich in humus {1998, 1999, 2004, 2010, 2010, 2013, 2014, 2015, 2016, 2018}
+- **Laterite**: heavy rain and leaching; **poor in lime**; Malabar coast, Maharashtra {2000, 2001, 2006, 2023}
+- **Alkaline (usar)** soil: largest area in **UP**; **saline** soil: largest in **Gujarat** {2007, 2012, 2017, 2019}
+@end
+
+@section 11.1 | Black (Regur) Soils
+- Formed from weathered **basaltic lava**: **regur** {2015}
+- Black cotton soil = **regur** {2016}
+- Regur is **black**, but **not** because of humus (A true, R false) {1999}
+- Best for cotton: **regur** {2014}; good for cotton, not rich in humus {2004, 2013}
+- Lava soils: **Malwa plateau** {1998}; Malwa's main soil: **black** {2010}
+- Needs little irrigation because it **retains water**: **black** {2010}
+- Wrong statement: "black soil is found in the **Himalaya**" {2018}
+
+@section 11.2 | Red, Laterite and Alluvial Soils
+- **Red soil**: second-largest group; it surrounds the black soil (both true, R not the explanation) {2024}
+- Red colour comes from **diffused iron**, not high iron content; poor in N, P and humus (both true, R not the explanation) {2023}
+- Laterite: only statement 1 correct {2023}
+- Laterite is **not rich in lime** {2001}
+- Laterite found in **Maharashtra** {2006}; mainly on the **Malabar coast** {2000}
+- Most productive soil: **alluvial** {2014}
+- Match: **Alluvial-UP, Black-Maharashtra, Red-Andhra Pradesh, Desert-Rajasthan** {2021}
+- Tea needs **acidic** soil {2002}
+- Most deficient micronutrient: **zinc** {2004}
+- Himalayan soils are **not** rich in humus overall (A false, R true) {2004}
+- Particle under **0.002 mm**: **clay** {2016}
+
+@table
+Soil | Rich in | Poor in | Crop
+Alluvial | Potash, lime | N, P | Wheat, rice, sugarcane
+Black | Lime, iron, potash | N, P, humus | Cotton, soybean
+Red | Iron (spread thin) | N, P, humus | Millets, groundnut
+Laterite | Iron, aluminium | **Lime**, N, potash | Tea, coffee, cashew
+Desert | Salts, phosphate | N, humus | Bajra
+Saline/alkaline | Sodium salts | Calcium, N | Salt-tolerant crops
+@end
+
+@flow Soil particle sizes, finest to coarsest
+Clay | Below 0.002 mm
+Silt | 0.002-0.05 mm
+Sand | 0.05-2 mm
+Gravel | Above 2 mm
+@end
+
+@section 11.3 | Saline and Alkaline (Usar) Soils
+- Usar soil: **pH above 7**; **paddy can grow** after reclamation; it is reclaimed with **gypsum**, not lime {2019}
+- Largest **alkali** area: **Uttar Pradesh** {2007}
+- Largest **saline** area: **Gujarat** {2012, 2017}
+- Saline soils are unfit for crops because of **dry climate and poor drainage** (R explains A) {2023}
+
+@trap
+- **Saline** = Gujarat (Rann of Kutch). **Alkaline / usar** = Uttar Pradesh. **Gypsum** reclaims usar, not lime.
+@end
+
+@section 11.4 | Soil Erosion
+- Soil loss, smallest to largest: **splash, sheet, rill, gully** {2023}
+- Critical erosion: **Shiwalik foothills** {2004}; worst affected: **Chambal valley** (ravines) {2004}
+- Erosion is prevented by **afforestation** {2014}
+
+@flow Erosion stages (least to most soil loss)
+Splash | Raindrops loosen soil
+Sheet | A thin layer washes off evenly
+Rill | Small channels form
+Gully | Deep ravines (Chambal, Yamuna)
+@end
+
+@up UP has India's largest **usar (alkaline)** area: Raebareli, Unnao, Pratapgarh, Kanpur, Etawah. It is reclaimed with **gypsum**. The **Chambal-Yamuna ravines** (Etawah, Agra, Jalaun) are UP's worst gully-erosion zone. Most of UP is **alluvial** (Bhangar and Khadar); Bundelkhand has red and mixed soils.
+
+@last
+- **Regur** = basalt = cotton = holds water; not humus
+- Lava soil = **Malwa**
+- Red colour = **diffused** iron
+- **Laterite** = no lime; Malabar
+- **Alluvial** = most productive; UP
+- Tea = **acidic** soil; **zinc** most deficient
+- **Usar** = UP, pH > 7, gypsum
+- **Saline** = Gujarat
+- Erosion: splash, sheet, rill, **gully** (Chambal)
+- Clay < 0.002 mm
+@end

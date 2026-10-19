@@ -1,0 +1,99 @@
+@chapter 15 | Agriculture and the Green Revolution
+@meta Built from 33 UPPSC questions (1994–2024). Focus: colour revolutions, Green Revolution facts, agricultural regions, Pantnagar.
+
+@hot
+- **Yellow Revolution** = **oilseeds** {2002, 2004, 2014, 2017}
+- **Colour revolutions** (match): Green-food grains, White-milk, Blue-**fish** (not poultry), Grey-fertilisers, Pink-onion {2010, 2010, 2014, 2015, 2016}
+- **Wheat** gained most from the Green Revolution {1994, 2001, 2015}
+- India has **20 agro-ecological regions** {2010, 2013, 2016}
+- First agricultural university: **Pantnagar** (GBPUAT, **1960**) {2010, 2013, 2014, 2023}
+@end
+
+@section 15.1 | Regions, Scholars and Institutions
+- *The History of Indian Agriculture*: **M.S. Randhawa** {2015}
+- Agro-ecological regions: **20** {2010, 2013, 2016}
+- Sengupta and Sdasyuk (1968): **60** micro agricultural regions {2017}
+- First agricultural university: **Pantnagar, 1960** (true); the "six colleges in 1901-05" claim is treated as false {2023}
+- Year: **1960** {2013}; name: **GBPUAT, Pantnagar** {2014}
+- **Zero-till seed-cum-fertiliser drill** was developed at **Pantnagar** {2010}
+
+@table
+Scheme | By | Number
+Agro-ecological regions | NBSS&LUP (ICAR) | **20**
+Agro-climatic zones | Planning Commission (1989) | **15**
+Micro agricultural regions | Sengupta and Sdasyuk | **60**
+NARP zones | ICAR | 127
+@end
+
+@section 15.2 | Structure and Problems
+- Indian agriculture is mainly **a means of livelihood** {2004}
+- True: India has more **cultivated area** than the USA, China, Japan; tropical monsoon allows **year-round cropping** {2024}
+- Low productivity has **all the given causes** (small holdings, rain dependence, old methods) {2007}
+- **Cooperative farming** is **not** a cause of low productivity {2003}
+- Largest average holding among the options: **Punjab** (Nagaland largest overall) {2010}
+- Dry zone is agrarian; it has second Green Revolution potential (both true, R not the explanation) {2010}
+- High productivity in the south: **Tamil Nadu coast** {2004}
+- Richest in replenishable **groundwater**: **Uttar Pradesh** {2006}
+- Pioneer in **contract farming**: **Punjab** {2005}
+
+@section 15.3 | Fertilisers and Green Manure
+- Largest fertiliser users (at that time): **UP and Andhra Pradesh**; per hectare: **Punjab** {2009}
+- **Balanced fertilisers** serve all the stated purposes {2008}
+- Green manure with the most nitrogen among the options: **cowpea (lobia)** {2016, 2008}
+- **Green agriculture** = integrated pest management, nutrient supply and resource management {2016}
+
+@section 15.4 | The Green Revolution
+- New Agricultural Strategy: **1966-67** (key says "seventies", meaning the seventh decade) {2015}
+- World "Father of the Green Revolution": **Norman Borlaug** {2015}
+- "**Evergreen Revolution**": **M.S. Swaminathan** {2015}
+- Green Revolution = **wheat** production {2015}
+- Biggest gain in output and yield: **wheat** {1994, 2001}
+- Wheat yield reached about **2,000 kg per hectare** {2003}
+- It modernised farming; the claim of little social or environmental cost is debatable (key: both true) {2014}
+
+@flow Green Revolution in brief
+1966-67 | High-yielding variety (HYV) programme starts
+Inputs | HYV seeds + fertiliser + irrigation + credit
+Crop | Wheat first, rice later
+Regions | Punjab, Haryana, western UP
+People | Borlaug (world); M.S. Swaminathan, C. Subramaniam (India)
+Costs | Falling water tables, salinity, chemicals, regional gaps
+@end
+
+@section 15.5 | Colour Revolutions
+- Match: **food grains-Green, milk-White, fisheries-Blue, fertilisers-Grey** {2014}
+- **Pink** Revolution: **onion** (UPPSC key) {2010}
+- **Blue-poultry** is wrong; Blue = **fish** {2015, 2016}; Blue Revolution = **fisheries** {2010}
+- **Yellow** = **oilseeds** {2002, 2004, 2014, 2017}
+
+@table
+Revolution | Product
+Green | Food grains
+White | Milk
+Blue | Fish
+Yellow | Oilseeds
+Golden | Fruits, honey
+Silver | Eggs, poultry
+Pink | Onion, prawns, meat
+Red | Meat, tomato
+Grey | Fertilisers
+Brown | Leather, cocoa
+Black | Petroleum
+Round | Potato
+Sweet | Honey
+@end
+
+@up **Pantnagar** university (GBPUAT, 1960) was set up in UP (now Uttarakhand). **Western UP** was a Green Revolution core region with Punjab and Haryana. UP is the largest fertiliser consumer and the richest in **replenishable groundwater**. Average holding in UP: about **0.73 ha**.
+
+@last
+- **20** agro-ecological regions; **15** agro-climatic zones; **60** micro regions
+- **Pantnagar 1960** = first agricultural university; zero-till drill
+- **Randhawa** = History of Indian Agriculture
+- Green Revolution: **1966-67**, **wheat**, Punjab-Haryana-west UP
+- **Borlaug** (world), **Swaminathan** (India; Evergreen Revolution)
+- **Yellow** = oilseeds; **Blue** = fish; **Grey** = fertilisers; **Pink** = onion
+- **UP** richest in groundwater; **Punjab** largest holdings, contract farming pioneer
+- Green manure: **cowpea (lobia)**
+- Cooperative farming is not a cause of low yield
+- Tamil Nadu coast = high productivity in the south
+@end

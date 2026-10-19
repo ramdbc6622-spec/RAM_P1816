@@ -1,0 +1,116 @@
+@chapter 14 | Multipurpose River Valley Projects and Hydropower
+@meta Built from 52 UPPSC questions (1991–2025). Focus: dam-river and dam-state matches, Nagarjuna Sagar, Sardar Sarovar, Indus projects, UP projects.
+
+@hot
+- **Nagarjuna Sagar** is on the **Krishna** (not the Godavari or Kaveri), in **Andhra Pradesh-Telangana** {1991, 1993, 2004, 2004, 2008, 2011, 2012}
+- **Dam-river matches**: **Hirakud-Mahanadi, Matatila-Betwa, Pochampad-Godavari, Idukki-Periyar, Gandhi Sagar-Chambal, Ukai and Kakrapar-Tapi, Rihand-Rihand** {1995, 2002, 2003, 2014, 2016, 2017, 2019}
+- **Tulbul** = **Jhelum**; **Baglihar** = **Chenab** (both raised by Pakistan) {2000, 2007, 2008, 2009, 2016, 2025}
+- **Sardar Sarovar** (Narmada): benefits **Gujarat, MP, Maharashtra, Rajasthan**; MP gets the largest share of power {1992, 1993, 1999, 2004}
+- First hydropower station: **Sidrapong, Darjeeling** (1897); **Sivasamudram** (Karnataka, 1902) is the oldest big one {1998, 2008, 2008, 2009, 2011, 2013}
+@end
+
+@section 14.1 | Hydropower
+- Huge hydro potential in the Himalaya; the Nepal border does **not** stop eastern UP and Bihar (only statement 1 true) {2025}
+- Oldest hydropower station among the options: **Sivasamudram** {2008}
+- Oldest power plant: **Sidrapong** {1998}; first station at **Darjeeling** {2013}
+- **Sivasamudram** is in **Karnataka** (not Kerala) {2008, 2009, 2011}
+- Bhutan plant opened by PM Modi (2019): **Mangdechhu** {2019}
+
+@section 14.2 | Bhakra and the Indus Projects
+- **Bhakra-Nangal**: joint project of **Punjab, Haryana and Rajasthan** {1994}
+- **Kol Dam** is on the **Satluj** {2017}
+- **Siul (Baira Siul)** project: **Himachal Pradesh** {2010}
+- **Baglihar** is on the **Chenab** {2008, 2009}
+- **Tulbul** is on the **Jhelum** (Wular barrage) {2000, 2007, 2016}
+- Wrong pairs: **Pandoh-Ravi** (it is on the Beas) and **Srisailam-Tungabhadra** (it is on the Krishna) {2025}
+
+@table
+Project | River
+Bhakra, Nangal, Kol, Nathpa Jhakri | Satluj
+Pong, Pandoh | Beas
+Ranjit Sagar, Baira Siul | Ravi (system)
+Baglihar, Dulhasti, Salal | Chenab
+Tulbul, Kishanganga | Jhelum
+@end
+
+@section 14.3 | The Narmada Projects
+- **Sardar Sarovar** beneficiaries: **Gujarat, Maharashtra, MP, Rajasthan** {1999, 2004}
+- Sardar Sarovar is on the **Narmada** {1992}
+- Most benefit (by water and power share): **Madhya Pradesh** {1993}
+- **Harsud** town was submerged by the **Indira Sagar** reservoir {2003}
+- **Tawa project-Krishna** is wrong; the Tawa is a **Narmada** tributary {2015}
+
+@section 14.4 | Chambal, Damodar and Others
+- **Gobind Sagar** (Bhakra) and **G.B. Pant Sagar** (Rihand) are **not** Chambal projects {2011}
+- **Govind Ballabh Pant Sagar** is in **Uttar Pradesh** (Sonbhadra) {2013}
+- Benefits shared by more than one state: **Chambal Valley** (MP and Rajasthan) {2007, 2009}
+- **Kaveri dispute**: **Tamil Nadu, Karnataka, Kerala, Puducherry** {2010}
+- **Damodar** was Bengal's "River of Sorrow": fast upstream, sluggish downstream (R explains A) {2010}
+- **Tilaiya-Konar** is wrong; Tilaiya is on the **Barakar** {2013}
+- Match: **Tilaiya-Barakar, Panchet-Damodar, Rana Pratap Sagar-Chambal, Matatila-Betwa** {2014}
+- All true: Rihand on a **Son** tributary; Hirakud on the **Mahanadi**; Tungabhadra is **AP-Karnataka**; Maithon on the **Barakar** {2016}
+
+@flow Chambal Valley Project, upstream to downstream
+Gandhi Sagar | Madhya Pradesh
+Rana Pratap Sagar | Rawatbhata, Rajasthan
+Jawahar Sagar | Rajasthan
+Kota Barrage | Kota, Rajasthan (irrigation canals)
+@end
+
+@trap
+- **Rana Pratap Sagar** is in **Rajasthan**, not MP; **Gandhi Sagar** is in MP.
+- **Tilaiya and Maithon** = Barakar; **Panchet** = Damodar; **Konar** = Konar.
+@end
+
+@section 14.5 | Peninsular Projects
+- **Nagarjuna Sagar**: **Andhra Pradesh** {1993}; on the **Krishna** {1991, 2004, 2008, 2011}; not Godavari {2012}; not Kaveri {2004}
+- Match: **Bhakra-Satluj, Hirakud-Mahanadi, Idukki-Periyar, Nagarjuna Sagar-Krishna** {1995}
+- Match: **Idukki-Periyar, Matatila-Betwa, Nagarjuna Sagar-Krishna, Pochampad-Godavari** {2002, 2003}
+- Match: **Rihand-Rihand, Nagarjuna Sagar-Krishna, Pochampad-Godavari, Matatila-Betwa** {2016}
+- Match: **Mettur-Tamil Nadu, Mayurakshi-West Bengal, Nagarjuna Sagar-AP, Hirakud-Odisha** {2008}
+- Match: **Farakka-WB, Ghataprabha-Karnataka, Hirakud-Odisha, Kakrapar-Gujarat** {2003}
+- Match: **Dulhasti-Chenab, Gandhi Sagar-Chambal, Ukai-Tapi, Tawa-Tawa** {2017}
+- Match: **Betwa-Matatila, Mahanadi-Hirakud, Chambal-Gandhi Sagar, Tapi-Kakrapar** {2014}
+- Match: **Bhadra-Karnataka, Bhavani Sagar-Tamil Nadu, Gandhi Sagar-MP, Rana Pratap Sagar-Rajasthan** {2006}
+- **Rana Pratap Sagar-MP** is wrong (Rajasthan) {2004}
+- **Ukai-Tapi, Jayakwadi-Godavari, Khadakwasla-Mutha** {2019}
+- **Telugu Ganga**: joint project of **TN, AP, Karnataka** {1999}; supplies **Chennai** {1996}
+- **Babli** project (Godavari dispute): **Maharashtra** {2012}
+- **Teesta Low Dam III**: **West Bengal** {2003}
+- **Kalpong** hydro project: **Andaman and Nicobar** {2002}
+- **Kalpasar** freshwater reservoir: **Gujarat** (Gulf of Khambhat) {2010}
+- **Malampuzha** dam is on the **Malampuzha** river {2017}; **Cheruthoni** dam on the **Periyar** {2017}
+
+@table
+Project | River | State
+Hirakud | Mahanadi | Odisha
+Nagarjuna Sagar, Srisailam | Krishna | AP-Telangana
+Pochampad, Jayakwadi, Polavaram | Godavari | Telangana, Maharashtra, AP
+Mettur, Krishna Raja Sagar | Kaveri | TN, Karnataka
+Idukki, Cheruthoni | Periyar | Kerala
+Ukai, Kakrapar | Tapi | Gujarat
+Bhadra | Bhadra | Karnataka
+Bhavani Sagar | Bhavani | Tamil Nadu
+Mayurakshi | Mayurakshi | West Bengal
+@end
+
+@section 14.6 | UP and Neighbourhood Projects
+- **Tehri** dam is on the **Bhagirathi** {2002}
+- Ramganga project: the **825.8 m length** pair is wrong (about 715 m) {2024}
+- Match: **Rihand-Son, Rani Laxmibai (Rajghat)-Betwa, Tehri-Bhagirathi, Ramganga-Ramganga** {2010}
+- **Singrauli** small hydro project: **Uttar Pradesh** {2017}
+
+@up UP projects: **Rihand dam** (G.B. Pant Sagar, Sonbhadra) on the Rihand, a **Son** tributary; **Obra**; **Rajghat** (Rani Laxmibai Sagar) and **Matatila** on the **Betwa** (UP-MP); **Ramganga (Kalagarh)** irrigates western UP; **Tehri** was built when Uttarakhand was part of UP.
+
+@last
+- **Nagarjuna Sagar** = Krishna, AP-Telangana
+- **Hirakud** = Mahanadi; **Pochampad** = Godavari; **Idukki** = Periyar
+- **Matatila, Rajghat** = Betwa; **Rihand** = Son tributary (UP)
+- **Tulbul** = Jhelum; **Baglihar** = Chenab; **Pandoh** = Beas
+- **Bhakra** = Satluj; Punjab, Haryana, Rajasthan
+- **Sardar Sarovar** = Narmada; MP most power; Indira Sagar drowned Harsud
+- **Gandhi Sagar** MP; **Rana Pratap Sagar** Rajasthan
+- **Tilaiya, Maithon** = Barakar; Damodar = Sorrow of Bengal
+- **Telugu Ganga** = water to Chennai
+- **Sidrapong** (Darjeeling) first; **Sivasamudram** Karnataka
+@end

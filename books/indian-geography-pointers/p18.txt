@@ -1,0 +1,91 @@
+@chapter 18 | Silk, Plantation Crops and Spices
+@meta Built from 34 UPPSC questions (1994–2023). Focus: silk types and states, tea, coffee, rubber, spices, commodity boards.
+
+@hot
+- **Karnataka** = largest **coffee** producer (over 70%) and largest coffee area {2002, 2002, 2004, 2006, 2010, ?}
+- **Kerala** = largest **rubber** producer; rubber is never Himachal {2004, 2014, 2017, 2022}
+- **Karnataka** leads in **mulberry silk**, silk yarn and fabric {2010, 2013, 2017, 2017}
+- **Kerala** = "**Garden of Spices**"; leads in cardamom and pepper {2010, 2011, 2013, 2018}
+- **Muga** silk comes only from **Assam** (India); **Eri** = Assam {2008, 2008, 2010}
+@end
+
+@section 18.1 | Silk
+- Over three-quarters of raw silk came from **Karnataka and AP** in 2006 (no longer true, *) {2006}
+- Leading **mulberry** silk state: **Karnataka** {2017}
+- **Eri silk-Assam** is correct {2008}
+- True: Karnataka = largest raw silk producer; **Jharkhand** = largest **tasar** producer {2010}
+- **Muga** silk is found only in India, in **Assam** {2008}
+- Largest silk **fabric** producer: **Karnataka** {2013}; most silk **yarn**: **Karnataka** {2017}
+
+@table
+Silk | Silkworm food | Leading state
+Mulberry (70%) | Mulberry | Karnataka
+Tasar | Arjun, sal | Jharkhand
+Eri | Castor | Assam
+Muga (golden) | Som, soalu | Assam (India only)
+@end
+
+@section 18.2 | Tea
+- Largest tea producer: **Assam** {1994}
+- Over 200 cm rain on sloping hills: ideal for **tea** {2010}
+- India was **first** in tea output and use in 2007-08; **China** leads now, India second {2008}
+- India exports much tea, but home consumption is **not** poor (A true, R false) {2007}
+- "**Green Gold**" = **tea** {2008}
+- Tea is a **stimulant** crop {2017}
+
+@section 18.3 | Coffee and Rubber
+- Largest coffee producer: **Karnataka** {2002, 2004, 2006, 2010}; over **70%** of output {2016}
+- Largest coffee **area**: **Karnataka** {2002}
+- Largest rubber producer: **Kerala** {2004, 2014}; **Kerala-Rubber** correct {2022}
+- **Rubber-Himachal** is wrong {2017}
+
+@section 18.4 | Plantations, Tobacco and Coconut
+- Main plantation crops: **tea, rubber, coconut, coffee** {2001}
+- True: **tea = Assam**, **tobacco = Andhra Pradesh**; coffee is not Tamil Nadu's main crop; jute is not Chhattisgarh's {2001}
+- Over a third of tobacco: **Andhra Pradesh** (then); **Gujarat** now {2006}
+- Largest tobacco producer per the 2007 key: **Uttar Pradesh** {2007}
+- Largest tobacco area (2010): **Andhra Pradesh**; **Gujarat** now {2012}
+- Largest coconut producer: **Kerala** (then); **Karnataka** since 2023-24 {2006, 2014}
+
+@section 18.5 | Spices, Cashew and Boards
+- India leads in **ginger** (and turmeric, chilli); not in cardamom or cloves now (*) {2010}
+- **Odisha** is **not** a cardamom state {2014}
+- "**Garden of spices**": **Kerala** {2010, 2011, 2013}
+- Largest cardamom and pepper producer: **Kerala** {2018}
+- Biggest spice producer (2012 key): **Madhya Pradesh** {2012}
+- Cloves grow in Tamil Nadu, Kerala, Karnataka (*) {2007}
+- Major **cashew** producer among the options: **Maharashtra** {2013}
+- **Coffee Board-Hyderabad** is wrong; it is in **Bengaluru** {2023}
+- **National Horticulture Board**: **1984** {2014}
+
+@table
+Board | Headquarters
+Tea Board | Kolkata
+Coffee Board | Bengaluru
+Rubber Board | Kottayam
+Spices Board | Kochi
+Coconut Board | Kochi
+Central Silk Board | Bengaluru
+Tobacco Board | Guntur
+National Horticulture Board | Gurugram (1984)
+@end
+
+@trap
+- Leaders that **changed**: coconut (Kerala to **Karnataka**), tobacco (AP to **Gujarat**), world tea (India to **China**).
+- Leaders that **did not change**: coffee **Karnataka**, rubber **Kerala**, tea **Assam**, mulberry silk **Karnataka**, muga **Assam**.
+@end
+
+@up UP is not a plantation state. It appears in tobacco questions (an old key named UP) and in silk weaving: **Varanasi (Banarasi)** silk sarees use mulberry silk mostly from Karnataka.
+
+@last
+- **Assam** = tea, muga, eri; **Jharkhand** = tasar
+- **Karnataka** = coffee, mulberry silk, silk yarn and fabric
+- **Kerala** = rubber, cardamom, pepper; Garden of Spices
+- Tea = Green Gold, stimulant; 200 cm rain on slopes
+- Coconut: Kerala, now **Karnataka**
+- Tobacco: AP, now **Gujarat**
+- India leads world in **ginger**, turmeric, chilli
+- **Coffee Board = Bengaluru**; Rubber Board = Kottayam; Tea Board = Kolkata
+- National Horticulture Board **1984**
+- **Maharashtra** = major cashew producer
+@end

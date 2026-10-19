@@ -1,0 +1,69 @@
+@chapter 12 | Natural Vegetation and Forests
+@meta Built from 12 UPPSC questions (1991–2023). Focus: forest types and their trees, tree line, mangroves.
+
+@hot
+- **Teak and sal** belong to **tropical deciduous** forests (central India, Tarai) {1992, 2007, 2012}
+- Forest-region matching: **moist deciduous-Tarai, dry deciduous-middle Ganga plain, alpine-Arunachal, evergreen-Sahyadri** {2001, 2017}
+- Mangroves: **Coringa = Godavari delta**; **Sundarbans** = Ganga-Brahmaputra delta {2017, 2021}
+@end
+
+@section 12.1 | Forest Types and Trees
+- **Teak and sal**: **tropical dry deciduous** forests {2007}
+- Teak grows in **MP** (largest), Karnataka, Maharashtra, UP; more than one option fits (*) {2012}
+- **Deodar-Nilgiri hills** is wrong; deodar grows in the **Himalaya** {2023}
+- Match: **Teak-central India, Deodar-high Himalaya, Sundari-Sundarbans, Cinchona-Himalayan Tarai** (per key) {1992}
+- **Cinchona** does **not** grow in **Chhattisgarh** {2010}
+- Match: **moist deciduous-Tarai, dry deciduous-middle Ganga plain, alpine-Arunachal, evergreen-Sahyadri** {2001}
+- Match: **tropical-Silent Valley, conifer-Himachal, mangrove-Sundarbans, deciduous-Rajasthan** (per key) {2017}
+- Plant with **no flowers**: **fern** {1991}
+
+@flow Forest belts, wettest to driest
+Tropical evergreen | Over 200 cm: Western Ghats, north-east, Andamans
+Moist deciduous | 100-200 cm: Tarai, sal belt
+Dry deciduous | 70-100 cm: teak; middle Ganga plain, Deccan
+Thorn forest | Below 70 cm: khejri, babool; Rajasthan
+@end
+
+@section 12.2 | The Himalayan Tree Line
+- The tree line is **lower** in the **Western** Himalaya than in the Eastern (cooler and drier in the west) {2005}
+
+@flow Himalayan vegetation with altitude
+Foothills | Tropical moist deciduous: sal
+1,000-2,000 m | Subtropical pine (chir), oak
+1,500-3,000 m | Temperate: deodar, blue pine, fir, spruce
+3,000-3,600 m | Birch, rhododendron, juniper (tree line)
+Above 3,600 m | Alpine meadows (bugyals)
+@end
+
+@section 12.3 | Social Forestry and Mangroves
+- Multipurpose tree for **social forestry**: **khejri** {2002}
+- **Vembanad-Karnataka** is wrong; Vembanad is in **Kerala** {2002}
+- Mangrove in the **Godavari** delta: **Coringa** {2021}
+
+@table
+Mangrove | State | Delta / setting
+Sundarbans | West Bengal | Ganga-Brahmaputra; largest
+Bhitarkanika | Odisha | Brahmani-Baitarani
+Coringa | Andhra Pradesh | Godavari
+Pichavaram | Tamil Nadu | Kaveri (Coleroon)
+Gulf of Kutch | Gujarat | Second largest
+@end
+
+@trap
+- **Coringa** = Godavari; **Pichavaram** = Kaveri; **Bhitarkanika** = Brahmani. **Vembanad** is a Kerala lake.
+@end
+
+@up UP's forests are mostly **tropical dry deciduous** (sal and teak) in the **Tarai** (Dudhwa, Pilibhit) and the **Vindhyan** south (Sonbhadra, Mirzapur). UP has a small forest cover (about 6-7% of its area); **Sonbhadra** has the most forest.
+
+@last
+- **Teak, sal** = tropical deciduous
+- **Deodar** = Himalaya, not Nilgiris
+- Evergreen = **Sahyadri** / Silent Valley
+- Moist deciduous = **Tarai**
+- Tree line **lower in the west**
+- **Khejri** = social forestry
+- **Coringa** = Godavari delta
+- **Sundarbans** = largest mangrove
+- Cinchona not in Chhattisgarh
+- Fern = no flowers
+@end
