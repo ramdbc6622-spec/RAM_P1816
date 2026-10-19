@@ -1,0 +1,118 @@
+@chapter 7 | Drainage II: Peninsular Rivers and River Cities
+@meta Built from 39 UPPSC questions (1992–2025). Focus: rift valleys and estuaries, river sources, Godavari, cities on rivers.
+
+@hot
+- **Narmada and Tapi** flow west through **rift valleys** and form **estuaries**, not deltas {1999, 2002, 2005, 2006, 2010, 2012, 2013, 2017}
+- Western Ghat rivers form **no deltas**: short, fast courses over hard rock {2010, 2013, 2014}
+- **Godavari** = longest Peninsular river with the largest basin {2009, 2013, 2014}
+- **Bhubaneswar is not on the Mahanadi**; **Hyderabad is on the Musi**, not the Krishna {1996, 1999, 2010, 2016}
+@end
+
+@section 7.1 | West-flowing Rivers and Rift Valleys
+- Western Ghat rivers make **no delta**: short, swift, hard rock (A and R true, R explains A) {2010, 2013, 2014}
+- Narmada and Tapi reach the **Arabian Sea** because they flow in **rift valleys** {1999, 2002}
+- The Narmada forms **no delta** (A false, R true) {2005}
+- River in a **fault trough**: **Narmada** {2010}; rift valley: **Tapi** {2013, 2017}
+- **Narmada** flows **between two ranges** (Vindhya and Satpura) {2012}
+- **Tapti** forms an **estuary** {2006}
+- **Damodar** is famous for **fault-valley (rift) drainage** on the east side {2019}
+- Of Periyar, Pennar and Palar, only the **Periyar** falls into the Arabian Sea {2025}
+- **Luni**: fresh in the upper course, **saline** lower down {2019}
+
+@flow Which way do they flow?
+West to the Arabian Sea | Narmada, Tapi, Mahi, Sabarmati, Luni, Periyar
+Form estuaries | Narmada, Tapi (rift valleys)
+East to the Bay of Bengal | Mahanadi, Godavari, Krishna, Kaveri, Pennar
+Form deltas | Mahanadi, Godavari, Krishna, Kaveri
+@end
+
+@section 7.2 | Sources of the Rivers
+- **Amarkantak**: source of the **Narmada** (and Son) {2008}
+- **Son**'s actual source: **Son Bachharwar**, Bilaspur district {2007}
+- **Tapti** does **not** rise in the Western Ghats (it rises at **Multai**, Satpura) {2018}; it falls into the **Arabian Sea** {1992}
+- Sources: **Yamuna-Yamunotri, Krishna-Mahabaleshwar, Godavari-Nashik, Mahanadi-Sihawa** {2023}
+- **Kaveri** rises in the **Brahmagiri** hills (Talakaveri) {2011, 2013}
+
+@table
+River | Source
+Narmada, Son | Amarkantak (MP)
+Tapi | Multai, Betul (MP)
+Mahanadi | Sihawa, Dhamtari (Chhattisgarh)
+Godavari | Trimbakeshwar, Nashik
+Krishna | Mahabaleshwar
+Kaveri | Talakaveri, Brahmagiri
+Luni | Near Ajmer (Aravalli)
+@end
+
+@section 7.3 | Basins and Tributaries
+- Longest Peninsular river: **Godavari** {2013, 2014}; largest catchment: **Godavari** {2009}
+- Largest basin among the options: **Mahanadi** {2021, 2022}
+- "Ganga of the South": **Kaveri** in the UPPSC key (NCERT calls the Godavari Dakshin Ganga) {2015}
+- **Pranhita** joins the **Godavari**, not the Mahanadi {2023}
+- **Tel** is a Mahanadi tributary, **not** the Krishna's {2010}
+- **Hagari** is a tributary of the **Tungabhadra** {2009}
+- South Indian rivers are mainly **dendritic** {2014}
+- **Mahanadi** forms its delta in **Odisha** {2014}
+- **Krishna dispute**: Maharashtra, Karnataka, AP (and Telangana); no option complete (*) {2013}
+- Water-deficient basins: options 1 and 2 (per the source key) {2002}
+
+@table
+River | Main tributaries
+Mahanadi | Seonath, Hasdeo, Ib, **Tel**, Jonk
+Godavari | Manjra, Penganga, Wardha, Wainganga, **Pranhita**, Indravati
+Krishna | Koyna, Bhima, Tungabhadra, Musi
+Tungabhadra | Tunga, Bhadra, **Hagari**
+Kaveri | Hemavati, Kabini, Bhavani, Amaravati
+@end
+
+@section 7.4 | The Damodar and Others
+- **Indravati** is **not** a Damodar tributary (it joins the Godavari) {2019}
+- Damodar joins the **Hooghly** {2006, 2008}
+- **Eden Canal** is taken from the **Damodar** {2015}
+- Most polluted among the options: **Damodar** ("Sorrow of Bengal", coal belt) {2013}
+- Mumbai's **Mithi** river rises from **Vihar Lake** {2014}
+
+@section 7.5 | Cities on River Banks
+- **Leh** is on the **right bank of the Indus** {2013}
+- **Bhubaneswar-Mahanadi** is wrong (Cuttack is on the Mahanadi) {1999, 2010}
+- **Hyderabad-Krishna** is wrong; Hyderabad is on the **Musi** {1996, 2016}
+- **Cuttack-Mahanadi, Ludhiana-Satluj, Nashik-Godavari, Ujjain-Kshipra** {1992}
+- **Ujjain** is on the **Kshipra** {2008}
+- **Govindghat** is **not** on the Mandakini (it is on the Alaknanda) {2013}
+
+@table
+City | River
+Leh | Indus
+Srinagar | Jhelum
+Ludhiana | Satluj
+Jabalpur | Narmada
+Surat | Tapi
+Ahmedabad | Sabarmati
+Ujjain | Kshipra
+Nashik, Rajahmundry | Godavari
+Vijayawada | Krishna
+Hyderabad | Musi
+Cuttack, Sambalpur | Mahanadi
+Tiruchirappalli | Kaveri
+Kota | Chambal
+@end
+
+@up UP river cities: **Lucknow, Jaunpur-Gomti**; **Kanpur, Varanasi-Ganga**; **Agra, Mathura-Yamuna**; **Ayodhya-Saryu**; **Gorakhpur-Rapti**; **Bareilly, Moradabad-Ramganga**. **Amarkantak** (source of the Son) feeds Sonbhadra's river.
+
+@trap
+- **Bhubaneswar** is not on any big river; **Cuttack** is the Mahanadi city.
+- **Tapi** rises in the **Satpura** (Multai), not the Western Ghats.
+@end
+
+@last
+- Narmada, Tapi: **rift valley**, west, **estuary**
+- Western Ghat rivers: **no delta**
+- **Damodar**: rift on the east; joins the Hooghly; Eden Canal
+- **Amarkantak** = Narmada, Son; **Sihawa** = Mahanadi
+- **Mahabaleshwar** = Krishna; **Nashik** = Godavari; **Brahmagiri** = Kaveri
+- **Godavari** = longest Peninsular river
+- Pranhita to Godavari; Tel to Mahanadi; Hagari to Tungabhadra
+- Hyderabad = **Musi**; Ujjain = **Kshipra**; Leh = **Indus**
+- **Luni**: fresh above, saline below
+- **Periyar** = the Arabian-Sea river among Periyar, Pennar, Palar
+@end

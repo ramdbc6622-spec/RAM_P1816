@@ -1,0 +1,115 @@
+@chapter 1 | India: Location, Extent and Standard Time
+@unit UNIT I · INDIA: POSITION, LAND AND COAST
+@meta Built from 26 UPPSC questions (1990–2022). Focus: Tropic of Cancer, IST and time sums, border states, boundary lines.
+
+@hot
+- **Tropic of Cancer** crosses **8 states**: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram; **not UP, not Manipur** {1990, 2008, 2017}
+- Town **nearest the Tropic**: **Gandhinagar** (Jabalpur when Gandhinagar is absent) {1999, 2002, 2010, 2017}
+- **IST = 82°30' E**; passes through **Mirzapur** near Prayagraj; 5 states (UP, MP, Chhattisgarh, Odisha, AP); not Maharashtra {2006, 2010, 2013}
+- **Time sums**: 1° = 4 minutes, 15° = 1 hour; **east is ahead** {1992, 2001, 2002, 2010}
+@end
+
+@section 1.1 | Size and Extent
+- India is the **7th** largest country (not 5th or 6th) and has about **2.4%** of world land {2006, 2022}
+- **Tropic of Cancer** divides India into two nearly equal halves; India is **not wholly** in the torrid zone {2006, 2022}
+- India is now the **most populous** country (passed China, April 2023) {2016}
+- Mainland: **8°4' N to 37°6' N**, **68°7' E to 97°25' E**; area **32.87 lakh sq km**
+
+@section 1.2 | The Tropic of Cancer
+- States crossed: **Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram** (west to east) {1990, 2017}
+- **Manipur** lies wholly **north** of the Tropic {2008}
+- Of Tripura, Mizoram, WB and Manipur, the Tropic does **not** cross **Manipur** {?}
+- Nearest to the Tropic (23°26' N): **Gandhinagar** {1999, 2002, 2010}; next option set: **Jabalpur** {2017}
+- **Mahi** is the river that crosses the Tropic **twice** {2016}
+
+@flow Tropic of Cancer, west to east (8 states)
+Gujarat | Kutch, Gandhinagar
+Rajasthan | Banswara (southern tip)
+Madhya Pradesh | Ujjain, Bhopal, Jabalpur
+Chhattisgarh | Ambikapur
+Jharkhand | Ranchi
+West Bengal | Krishnanagar
+Tripura | Near Agartala
+Mizoram | Champhai
+@end
+
+@trap
+- **UP never touches the Tropic** (its southern tip is about 23°52' N). Strike out UP first.
+- "Nearest town" answers change with the option set: Gandhinagar first, then Jabalpur.
+@end
+
+@section 1.3 | Longitude and Indian Standard Time
+- IST meridian is **82°30' E** (GMT + 5:30) {2013}
+- It does **not** pass through **Maharashtra** {2010}
+- IST is taken near **Prayagraj (Mirzapur)** {?}
+- Gujarat to Arunachal (Walong): about 29° of longitude = about **2 hours** {1992}
+- Noon at IST, local time at 120° E: 37°30' × 4 = 150 min ahead = **14:30** {2001}
+- Midnight at IST, 6 a.m. at a place: 6 h = 90° east, so **172°30' E** {2002}
+- Sunrise 5 a.m. at **Tirap**: Kandla sees it about **7 a.m.** {2010}
+
+@flow How to solve any time question
+Find the gap | Subtract the two longitudes
+Convert | 1° = 4 minutes; 15° = 1 hour
+Decide direction | East = ahead (add); West = behind (subtract)
+Check IST | 82°30' ÷ 15 = 5.5 h, so GMT + 5:30
+@end
+
+@section 1.4 | Extreme Points
+- Southernmost point of **India**: **Indira Point**, **Great Nicobar** {2002, ?}
+- Southernmost point of the **mainland**: **Kanyakumari**
+
+@table
+Direction | Point | State / UT
+North | Indira Col (Siachen) | Ladakh
+South | Indira Point | Andaman and Nicobar
+South (mainland) | Kanyakumari | Tamil Nadu
+East | Kibithu / Dong | Arunachal Pradesh
+West | Guhar Moti (Sir Creek) | Gujarat
+@end
+
+@section 1.5 | Neighbours and Border States
+- **Manipur** does **not** border Bangladesh {2002, 2004}
+- **Nagaland** does **not** border Bangladesh {?}
+- **Assam** does **not** border Myanmar {2012}
+- Border with Pakistan: **Gujarat, Rajasthan, Punjab, J&K** (now UTs J&K and Ladakh) {1990, 2001}
+- **Tripura** has an international border on **three sides** (Bangladesh) {2008}
+
+@table
+Neighbour | Border (km) | Indian states / UTs
+Bangladesh | 4,097 (longest) | WB, Assam, Meghalaya, Tripura, Mizoram
+China | 3,488 | Ladakh, HP, Uttarakhand, Sikkim, Arunachal
+Pakistan | 3,323 | Gujarat, Rajasthan, Punjab, J&K, Ladakh
+Nepal | 1,751 | Uttarakhand, **UP**, Bihar, WB, Sikkim
+Myanmar | 1,643 | Arunachal, Nagaland, Manipur, Mizoram
+Bhutan | 699 | Sikkim, WB, Assam, Arunachal
+Afghanistan | 106 (shortest) | Ladakh (PoK area)
+@end
+
+@up UP borders only **Nepal**, through 7 districts: Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj. The IST meridian passes through **Mirzapur**.
+
+@section 1.6 | Boundary Lines
+- India-Pakistan boundary: **Radcliffe Line** (1947) {1996}
+- **Durand Line**: with **Afghanistan** (1893) {2006}
+- **McMahon Line**: **India-China** (1914, Simla) {2018}
+
+@table
+Line | Year | Between
+Radcliffe | 1947 | India-Pakistan, India-Bangladesh
+Durand | 1893 | British India-Afghanistan
+McMahon | 1914 | India-China (Arunachal)
+LoC | 1972 | India-Pakistan (J&K)
+Maginot | 1930s | France-Germany (never Indian)
+@end
+
+@last
+- India: **7th** largest, **2.4%** of land, **most populous** since 2023
+- Tropic of Cancer: **8 states**; not UP, not Manipur
+- **Gandhinagar** nearest the Tropic; **Mahi** crosses it twice
+- IST **82°30' E**, **Mirzapur**; 5 states; not Maharashtra
+- **1° = 4 min**; east is ahead
+- Southernmost: **Indira Point**; mainland: **Kanyakumari**
+- Longest border **Bangladesh**; shortest **Afghanistan**
+- **Tripura**: Bangladesh on three sides
+- Assam does not touch Myanmar; Manipur does not touch Bangladesh
+- **Radcliffe**-Pakistan, **Durand**-Afghanistan, **McMahon**-China
+@end

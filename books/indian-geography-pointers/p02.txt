@@ -1,0 +1,168 @@
+@chapter 2 | Physical Divisions: Structure, Mountains, Peaks, Passes and Glaciers
+@meta Built from 77 UPPSC questions (1990–2025), the biggest geography chapter. Focus: passes and their states, peaks, hills, Himalayan ranges, glaciers.
+
+@hot
+- **Passes and states** are asked almost every year: **Nathu La, Jelep La = Sikkim**; **Bomdi La, Se La, Bum La = Arunachal**; **Lipulekh, Niti, Mana = Uttarakhand**; **Shipki La, Rohtang = HP**; **Zoji La = Ladakh** {1998, 2001, 2004, 2006, 2008, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2023}
+- **Highest peak of each state** (match): Anaimudi-Kerala, Doddabetta-TN, Saramati-Nagaland, Guru Shikhar-Rajasthan, Dhupgarh-MP, Nanda Devi-Uttarakhand {2018, 2021, 2025}
+- **Anaimudi** (2,695 m) = highest peak of **South India / the Peninsula** {2005, 2012, 2013, ?}
+- **Aravalli** = **oldest** and a **residual** mountain {1991, 2005, 2010, 2017}
+- Largest glacier: **Siachen** (Gangotri if Siachen is not offered) {1995, 2013, 2017}
+@end
+
+@section 2.1 | Geology and Rock Systems
+- Palaeomagnetism shows the Indian landmass moved **northward** {1998}
+- The **western coast** is not depositional; it is a **faulted (emergent-submergent)** coast {2004}
+- Latest of the old rock systems: **Gondwana** (98% of India's coal) {2016}
+- Deccan Trap intertrappean beds have **freshwater** (not sea) fossils {2024}
+
+@flow Rock systems, oldest to youngest
+Archaean | Gneiss, schist; no fossils
+Dharwar | Metals: iron, gold (Kolar), manganese
+Cuddapah, Vindhyan | Sandstone (Red Fort), Panna diamonds
+Gondwana | About 98% of India's coal
+Deccan Trap | Basalt; black soil
+Tertiary, Quaternary | Himalaya, petroleum; alluvial plains
+@end
+
+@section 2.2 | The Himalaya
+- Himalaya is **still rising**: the Indian plate is pushing into the Eurasian plate (A and R true, R explains A) {2024}
+- Most seismic zones are in the Himalaya because of **longitudinal thrusts** {2019}
+- **Lesser Himalaya**: marine fossils; **Shiwalik**: remains of early humans; Greater Himalaya sediments are not fossil-less {2019}
+- **Himachal** = the **Lesser Himalaya** {2008}
+- Youngest range: **Shiwalik** {2010}; if only Himalayan vs Peninsular ranges are offered: **Himadri** {2020}
+- **Kumaon Himalaya** lies between the **Satluj and Kali** {2016}
+
+@flow Himalayan ranges, north to south
+Trans-Himalaya | Karakoram, Ladakh, Zaskar; K2
+Greater Himalaya (Himadri) | Highest peaks, about 6,100 m
+Lesser Himalaya (Himachal) | Pir Panjal, Dhauladhar; hill stations
+Shiwalik (Outer) | Youngest; duns such as Dehradun
+@end
+
+@flow Regional divisions, west to east (Burrard)
+Punjab Himalaya | Indus to Satluj
+Kumaon Himalaya | Satluj to Kali
+Nepal Himalaya | Kali to Tista
+Assam Himalaya | Tista to Dihang (Brahmaputra)
+@end
+
+@section 2.3 | Ranges, Valleys and Tunnels
+- **Pir Panjal** range is in **Jammu and Kashmir** {2007}
+- **Atal Tunnel** (Rohtang): BRO, Manali to Lahaul-Spiti, under the **Pir Panjal** {2016}
+- Atal Tunnel is the longest highway tunnel **above 10,000 ft**, not the world's longest (only statement 2 true) {2025}
+- **Kashmir valley**: between the **Pir Panjal and Great Himalaya** {2020}
+- **Kullu valley**: between the **Dhauladhar and Pir Panjal** {1999, 2002}
+- **Nelang valley** is in **Uttarakhand** (Uttarkashi) {2016}
+- **Imphal basin** is a **lacustrine plain** {2019}
+- **Aksai Chin** is part of the **Ladakh plateau** {1995}
+- **Shaksgam valley**: PoK area given by Pakistan to China (1963); India protests China's construction {2024}
+- **Tripura** does not lie along the **Patkai** hills {2015}
+
+@section 2.4 | The Northern Plains
+- Gravelly plain at the foot of the Shiwalik: **Bhabar** {2007}; it is a **piedmont** region {1994}
+- **Kuttanad** (Kerala) is India's **lowest** region, below sea level {2015}
+
+@flow Northern plain belts, from the hills southward
+Bhabar | Pebbles; streams vanish underground
+Tarai | Streams reappear; marshy forest (Dudhwa)
+Bhangar | Older alluvium above flood level; kankar
+Khadar | New alluvium renewed by floods
+@end
+
+@section 2.5 | Old Mountains and Peninsular Hills
+- **Aravalli** = oldest mountains {1991, 2010, 2017}; a **residual** mountain {2005}; mainly in **Rajasthan** {?}
+- **Satpura** lies between the **Narmada and Tapti** {2007}
+- Central India hills, **west to east**: **Satpura, Mahadeo, Maikal, Chotanagpur** {2019}
+- **Nilgiri** hills: junction of **Karnataka, Kerala and Tamil Nadu** {2015}
+- **Cardamom hills** (**Yela Mala**): **Kerala-Tamil Nadu** border {2008, 2010, 2023}
+- **Mandav hills** are in **Gujarat**, not Maharashtra {2011, 2011}
+- Hills match: **Garo-Meghalaya, Miri-Arunachal, Kollimalai-Tamil Nadu, Dalma-Jharkhand** {2017}
+- Hills match: **Bateshwar-Bihar, Bilari-Karnataka, Chin-Manipur, Dhosi-Haryana** {2022}
+- **Western Ghats**: a **block mountain**, gentle eastern slope, **basalt** in the north {2017}
+- **Kodaikanal** is in the **Palani** hills, not the Anaimalai {2013}
+
+@section 2.6 | Peaks
+- Highest peak of the **Peninsula**: **Anaimudi** {2005, 2012, 2013, ?}
+- Highest peak claimed by India: **K2** (PoK); highest in Indian control: **Kanchenjunga**; wholly in India: **Nanda Devi** {1990, 2009}
+- Peaks east to west: **Namcha Barwa, Kanchenjunga, Everest, Nanda Devi** {2008}
+- **Cho Oyu, Lhotse** are Himalayan; Annamalai, Sirumalai are not {2022}
+- Not in India: **Gosainthan** (Tibet) {2005}; **Gurla Mandhata, Namcha Barwa** {2019}
+- **Trishul** peak: Uttarakhand (Garhwal) {2021}
+- State peaks: **Kerala-Anaimudi, Nagaland-Saramati, Uttarakhand-Nanda Devi, TN-Doddabetta** {2018}
+- State peaks: **TN-Doddabetta, Rajasthan-Guru Shikhar, Nagaland-Saramati, MP-Dhupgarh** {2021, 2025}
+- First Indian woman on Everest: **Bachendri Pal** (1984) {1996}
+
+@table
+State | Highest peak (m)
+Sikkim | Kanchenjunga (8,586)
+Uttarakhand | Nanda Devi (7,816)
+Himachal | Reo Purgyil (6,816)
+Nagaland | Saramati (3,826)
+Kerala | Anaimudi (2,695)
+Tamil Nadu | Doddabetta (2,637)
+Karnataka | Mullayanagiri (1,930)
+Rajasthan | Guru Shikhar (1,722)
+Odisha | Deomali (1,672)
+MP / Jharkhand | Dhupgarh / Parasnath (1,350)
+@end
+
+@section 2.7 | Mountain Passes
+- **Se La** is in **Arunachal**, not Uttarakhand {2015}
+- **Bhor Ghat** is in **Maharashtra**, not HP {1998}
+- Western Ghat passes north to south: **Thal Ghat, Bhor Ghat, Pal Ghat** {2023}
+- **Khyber** is not a Western Ghats pass (it is in Pakistan-Afghanistan) {2016}
+- **Niti** = **Uttarakhand** {2023}; **Lipulekh** = **Uttarakhand** (not UP or Ladakh) {2001, 2008, 2014, ?}
+- **Nathu La** = **Sikkim** (not Meghalaya or Arunachal) {2010, 2013, 2017, ?}
+- **Zoji La** leads to **Leh** (now in Ladakh, not Arunachal) {2016, 2023}
+- **Rohtang** = **Himachal Pradesh** {?}
+- Match: **Banihal-J&K, Nathu La-Sikkim, Niti-Uttarakhand, Shipki-HP** {2004, 2011}
+- Match: **Bum La-Arunachal, Jelep La-Sikkim, Muling La-Uttarakhand, Shipki La-HP** {2006}
+- Match: **Mana-Uttarakhand, Nathu La-Sikkim, Zoji La-J&K (Ladakh), Shipki La-HP** {2016}
+- Heights: **Debsa 5,360, Bara-lacha 4,850, Rohtang 3,978, Banihal 2,832 m** {2024}
+
+@flow Himalayan passes, west to east
+Zoji La, Banihal | Ladakh; J&K
+Shipki La, Rohtang | Himachal Pradesh
+Mana, Niti, Lipulekh | Uttarakhand
+Nathu La, Jelep La | Sikkim
+Bum La, Se La, Bomdi La | Arunachal Pradesh
+@end
+
+@trap
+- Order asked in 2009: **Shipki La, Lipulekh, Nathu La, Bomdi La** (west to east).
+- **Bomdila** is the town; the pass is **Bomdi La**. **Jelep La** and Nathu La both lead to the Chumbi valley.
+@end
+
+@section 2.8 | Glaciers
+- Largest: **Siachen** {2013, 2017}; without Siachen in the options: **Gangotri** {1995}
+- **Chaurabari** glacier is **north of Kedarnath** {2004, 2010}
+- **Milam** glacier is in **Kumaon** (Pithoragarh) {2014}
+
+@table
+Glacier | Where | Feeds
+Siachen (76 km) | Karakoram, Ladakh | Nubra
+Gangotri (30 km) | Uttarkashi | Bhagirathi
+Zemu | Sikkim | Tista
+Milam, Pindari | Kumaon | Gori Ganga, Pindar
+Chaurabari | Kedarnath | Mandakini
+@end
+
+@section 2.9 | The Peninsular Plateau
+- **Meghalaya plateau** is part of the **Peninsular plateau** {2013}
+- **Dhanbad** is densely populated because of **mining and industry** {2007}
+- **Dandakaranya** lies in **Chhattisgarh and Odisha** {2008}
+
+@up **Bundelkhand** plateau (Jhansi, Banda, Chitrakoot) is the Peninsular part of UP. The **Tarai** of Pilibhit, Lakhimpur Kheri and Bahraich holds **Dudhwa National Park**. UP has no high peaks or passes; **Lipulekh** is often wrongly given as UP but is in Uttarakhand.
+
+@last
+- **Nathu La, Jelep La** = Sikkim; **Se La, Bum La, Bomdi La** = Arunachal
+- **Lipulekh, Niti, Mana** = Uttarakhand; **Shipki La, Rohtang** = HP; **Zoji La** = Ladakh
+- **Anaimudi** = highest in the Peninsula; **Doddabetta** = Tamil Nadu
+- **Aravalli** oldest; **Shiwalik** youngest
+- **Kumaon** Himalaya: Satluj to Kali
+- **Kullu**: Dhauladhar-Pir Panjal; **Kashmir**: Pir Panjal-Great Himalaya
+- **Bhabar** at the foot of the hills, then Tarai
+- **Satpura** between Narmada and Tapti; **Mandav** in Gujarat
+- **Siachen** largest glacier; **Chaurabari** above Kedarnath
+- **Gondwana** = coal; Kuttanad = lowest land
+@end

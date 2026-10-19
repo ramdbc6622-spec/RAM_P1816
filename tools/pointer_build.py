@@ -182,6 +182,7 @@ def years_tag(text):
     years = [y.strip() for y in m.group(1).split(",") if y.strip()]
     body = inline(text[:m.start()].rstrip())
     n = len(years)
+    years = ["one-liner" if y == "?" else y for y in years]
     col = "#b03a2e" if n >= 3 else "#8b6914"
     tag = (f' <font name="Cal-B" size="7.6" color="{col}">{n}×</font>'
            f' <font size="7.2" color="#5b6475">{", ".join(years)}</font>')
@@ -206,7 +207,7 @@ def lines_to_pointers(lines, st):
 
 
 def parse(path):
-    ch = {"no": 0, "title": "", "blocks": []}
+    ch = {"no": 0, "title": "", "blocks": [], "unit": None, "points": 0}
     lines = open(path, encoding="utf-8").read().split("\n")
     i = 0
     while i < len(lines):
@@ -214,6 +215,8 @@ def parse(path):
         if l.startswith("@chapter"):
             no, title = l[8:].split("|", 1)
             ch["no"], ch["title"] = int(no), title.strip()
+        elif l.startswith("@unit"):
+            ch["unit"] = l[5:].strip()
         elif l.startswith("@meta"):
             ch["blocks"].append(("meta", l[5:].strip()))
         elif l.startswith("@section"):
@@ -232,14 +235,15 @@ def parse(path):
             ch["blocks"].append((kind, (ttl, body) if kind in ("flow", "join") else body))
         elif l.startswith("- "):
             ch["blocks"].append(("pt", l[2:]))
+            ch["points"] += 1
         elif l.strip():
             ch["blocks"].append(("para", l.strip()))
         i += 1
     return ch
 
 
-def chapter_flowables(ch):
-    out = [NextPageTemplate("cols"), PageBreak(),
+def chapter_flowables(ch, pages):
+    out = [NextPageTemplate("cols"), PageBreak(), tb.Marker(f"ch{ch['no']}", pages),
            Paragraph(f"Chapter {ch['no']}", S["chapno"]),
            Paragraph(inline(ch["title"]), S["chaptitle"])]
     legend = ('<font name="Sym" color="#b03a2e">■</font> asked 3 or more times &nbsp;&nbsp; '
@@ -358,11 +362,77 @@ def build(folder, out_path):
     doc.addPageTemplates([PageTemplate("cover", [full], onPage=cover_page),
                           PageTemplate("full", [full], onPage=content_page),
                           PageTemplate("cols", [left, right], onPage=content_page)])
-    story = cover(title, chapters)
+    pages = {}
+
+    def story():
+        st = cover(title, chapters)
+        if len(chapters) > 1:
+            st += [NextPageTemplate("full"), PageBreak()] + contents(title, chapters, pages)
+        st += [NextPageTemplate("full"), PageBreak()] + how_to_use()
+        for ch in chapters:
+            st += chapter_flowables(ch, pages)
+        return st
+
+    doc.build(story())
+    first = dict(pages)
+    doc.build(story())
+    if pages != first:
+        doc.build(story())
+    print(f"{out_path}: {len(chapters)} chapter(s), {sum(c['points'] for c in chapters)} pointers")
+
+
+def contents(title, chapters, pages):
+    hdr = ParagraphStyle("cth", fontName="Helvetica", fontSize=6.5, leading=8, textColor=tb.MUTED)
+    num = ParagraphStyle("ctn", fontName="Cal-B", fontSize=11, leading=13, textColor=tb.GOLD_DEEP)
+    ttl = ParagraphStyle("ctx", fontName="Cal", fontSize=10, leading=12.5, textColor=tb.INK)
+    rt = ParagraphStyle("ctr", fontName="Cal", fontSize=8, leading=10, textColor=tb.MUTED, alignment=2)
+    pge = ParagraphStyle("ctp", fontName="Cal-B", fontSize=10, leading=12.5, textColor=tb.NAVY, alignment=2)
+    unit = ParagraphStyle("ctu", fontName="Helvetica-Bold", fontSize=7.2, leading=9, textColor=tb.GOLD_DEEP)
+    data = [[Paragraph("NO.", hdr), Paragraph("CHAPTER", hdr),
+             Paragraph("POINTERS", ParagraphStyle("h2", parent=hdr, alignment=2)),
+             Paragraph("PAGE", ParagraphStyle("h3", parent=hdr, alignment=2))]]
+    units = []
     for ch in chapters:
-        story += chapter_flowables(ch)
-    doc.build(story)
-    print(f"{out_path}: {len(chapters)} chapter(s)")
+        if ch["unit"]:
+            units.append(len(data))
+            data.append([Paragraph(inline(ch["unit"]), unit), "", "", ""])
+        data.append([Paragraph(f"{ch['no']:02d}", num), Paragraph(inline(ch["title"]), ttl),
+                     Paragraph(str(ch["points"]), rt), Paragraph(str(pages.get(f"ch{ch['no']}", "")), pge)])
+    W = tb.FULL_W
+    t = Table(data, colWidths=[40, W - 40 - 60 - 45, 60, 45], repeatRows=1)
+    cmds = [("LINEBELOW", (0, 0), (-1, 0), 0.9, tb.GOLD), ("LINEBELOW", (0, 1), (-1, -1), 0.4, tb.HAIR),
+            ("VALIGN", (0, 0), (-1, -1), "MIDDLE"), ("TOPPADDING", (0, 1), (-1, -1), 3),
+            ("BOTTOMPADDING", (0, 1), (-1, -1), 3)]
+    for k in units:
+        cmds += [("SPAN", (0, k), (-1, k)), ("BACKGROUND", (0, k), (-1, k), tb.ROW_ALT)]
+    from reportlab.platypus import TableStyle
+    t.setStyle(TableStyle(cmds))
+    return [Paragraph("Contents", ParagraphStyle("ct", fontName="Cal-B", fontSize=22, leading=26,
+                                                 textColor=tb.NAVY)), Spacer(1, 10), t]
+
+
+def how_to_use():
+    H = ParagraphStyle("hh", fontName="Cal-B", fontSize=20, leading=24, textColor=tb.GOLD_DEEP, spaceAfter=10)
+    rows = [
+        ("Every pointer is a real question.", "Each pointer is the answer to a UPPSC question asked between "
+         "1990 and 2025, written as a fact you can revise in seconds, with the related fact you need for the "
+         "next variation."),
+        ("Frequency marks.", '<font name="Sym" color="#b03a2e">\u25a0</font> and a red count (e.g. '
+         '<font name="Cal-B" color="#b03a2e">4×</font>) mark a fact asked 3 or more times. '
+         '<font color="#8b6914">•</font> and a gold count mark facts asked once or twice. The years follow; '
+         '"one-liner" means a short starred question in the source with no year given.'),
+        ("Asked Most box.", "Each chapter opens with the facts UPPSC repeats most. Revise these first."),
+        ("Diagrams.", "Flowcharts and river diagrams turn sequences (river courses, confluences, processes, "
+         "orders from west to east) into one picture."),
+        ("Trap Alerts.", "The places where the obvious answer is wrong or two facts are commonly swapped."),
+        ("Last-Minute 10.", "The ten lines to read on the morning of the exam."),
+        ("Pairs with the Masterbook.", "Use this book for revision after the TATTVA PYQ Masterbook, which has "
+         "the full questions, options and explanations."),
+    ]
+    out = [Paragraph("How to Use This Book", H)]
+    for a, b in rows:
+        out.append(Paragraph(f"<b>{a}</b> {b}", S["body"]))
+    return out
 
 
 if __name__ == "__main__":

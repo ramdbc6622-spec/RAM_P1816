@@ -1,4 +1,5 @@
 @chapter 6 | Drainage I: The Himalayan Rivers
+@unit UNIT II · DRAINAGE, CLIMATE AND NATURAL ENVIRONMENT
 @meta Built from 36 UPPSC questions (1990–2025). Focus: the Ganga system, Satluj, Bundelkhand rivers, Brahmaputra and Indus.
 
 @hot
