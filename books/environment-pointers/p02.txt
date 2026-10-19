@@ -1,0 +1,94 @@
+@chapter 2 | Food Chain, Energy Flow and Ecosystem Concepts
+@meta Built from 32 UPPSC questions (2001–2025). Focus: trophic levels, producers, 10% law, energy flow, ecological pyramids, productivity, ecotone and footprint.
+
+@hot
+- **Solar energy** = driving force of ecosystems; energy flow is **one-way** {2015, 2015, 2016, 2019}
+- Energy **decreases** at each step; **10% law** by **Lindeman** {2017, 2019, 2023, 2025}
+- Producers = **green plants**; **phytoplankton** in the sea {2005, 2013, 2017}
+- **Eucalyptus** is not eco-friendly {2005, 2010, 2011}
+@end
+
+@section 2.1 | Food Chains
+- Trophic levels: **organisms linked in a food chain** {2023}
+- Order: **grass, grasshopper, frog, snake** {2010}
+- Primary consumers: **ants and deer** {2006}
+- Man: **primary and secondary** consumer {2016}
+- Producers: **green plants** {2013}
+- Main marine producers: **phytoplankton** {2005}
+- Link between biotic and abiotic: **producers** {2017}
+- Primary productivity = autotrophs; secondary = heterotrophs (both) {2017}
+- Correct: **green plants-ecosystem** (producers) {2015}
+
+@section 2.2 | Aquatic Ecosystems
+- **Lotic**: **rivers** (flowing water) {2023}
+- Phytoplankton thrive in the **limnetic** (open-water) zone (R explains A) {2022}
+
+@section 2.3 | Energy Flow
+- Primary energy source: **solar**; driving force {2015, 2016, 2019}
+- Energy flow is **unidirectional** {2015}
+- Energy **decreases** up the levels {2017, 2019}
+- **Ten Percent Rule**: **Lindeman** {2023}
+- Plants capture about **1%** of sunlight; about **10%** passes up (both) {2025}
+- Highest level (key): **omnivores** (top carnivores in most texts) {2002}
+
+@flow 10% law of energy
+Sun | Plants capture about 1%
+Producers | 10,000 units
+Herbivores | 1,000 units
+Carnivores | 100 units
+Top carnivores | 10 units
+@end
+
+@section 2.4 | Pyramids and Productivity
+- Inverted biomass pyramid: **pond** {2010}
+- Equatorial forest densest biomass; rain and heat all year (R explains A) {2023}
+- Least biomass production: **deep sea** {2002}
+- Decreasing productivity: **mangroves, grasslands, lakes, oceans** {2021}
+
+@table
+Pyramid | Inverted?
+Numbers | Yes in a tree ecosystem
+Biomass | Yes in pond and ocean
+Energy | Never
+@end
+
+@section 2.5 | Terms and Thinkers
+- Bionomics: synonymous with ecology; values natural systems (2 and 3) {2001}
+- Land needed to sustain a person: **ecological footprint**; measured in **global hectares** {2012, 2016}
+- Zone between two communities: **ecotone** {2012}
+- "Deep ecology": **Arne Naess** {2014}
+- Monoclimax theory: **F.E. Clements** {2021}
+- Niche concept: **Grinnell** {2005}
+- Not eco-friendly: **eucalyptus** {2005, 2010, 2011}
+- "Ecology is permanent economy": **Chipko**; Chipko = **plant (tree) conservation** {2007, 2015}
+
+@table
+Term | Thinker
+Ecology | Haeckel (1866)
+Ecosystem | Tansley (1935)
+Niche | Grinnell
+10% law | Lindeman
+Monoclimax | Clements
+Deep ecology | Arne Naess
+@end
+
+@trap
+- **Energy flows** one way; **nutrients cycle**.
+- Energy pyramid **never** inverts; pond biomass pyramid does.
+- **Lotic** = flowing; **lentic** = still.
+@end
+
+@up UP link: **Chipko** began in the Garhwal hills (then in UP, now Uttarakhand) with Sunderlal Bahuguna and Chandi Prasad Bhatt; slogan "Ecology is permanent economy".
+
+@last
+- Sun = energy source; flow is one-way
+- 10% law = **Lindeman**; plants catch ~1%
+- Producers: green plants; phytoplankton at sea
+- Grass → grasshopper → frog → snake
+- Man = primary + secondary consumer
+- Pond = inverted biomass pyramid
+- Mangroves most productive; deep sea least
+- Ecotone = transition zone; footprint = global hectares
+- Deep ecology = **Arne Naess**; niche = **Grinnell**
+- Eucalyptus not eco-friendly; Chipko = permanent economy
+@end

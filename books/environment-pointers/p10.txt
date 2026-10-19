@@ -1,0 +1,82 @@
+@chapter 10 | Forest and Wildlife Conservation Efforts
+@meta Built from 26 UPPSC questions (1998–2025). Focus: Forest Policy and the 33% goal, Wildlife and Forest Acts, schemes and operations, institutions, wildlife facts.
+
+@hot
+- Forest goal: **33%** (one-third) of area {2002, 2014}
+- **Wildlife (Protection) Act 1972**; **Forest (Conservation) Act 1980** {2013, 2015, 2017, 2021}
+- Order: **Wildlife Act (1972), Project Tiger (1973), Project Elephant (1992), Biodiversity Act (2002)** {2019, 2020}
+- **Forest Research Institute**: **Dehradun** {2008, 2016}
+- WWF symbol: **giant panda** {2001, 2002, 2003}
+@end
+
+@section 10.1 | Forest Policy
+- Forest area for ecological balance: **33%**; one-third {2014, 2002}
+- Not a forest class in the 1952 policy: **national park** {2016}
+- Policy aims (key): **ecological balance, people's participation** (1 and 4) {2001}
+
+@flow Forest policies
+1894 | Colonial; timber and revenue
+1952 | Protected, national, village forests; one-third goal
+1988 | Ecology first; 33% (two-thirds in hills); people's role
+1990 | Joint Forest Management
+@end
+
+@section 10.2 | Laws
+- Wildlife Protection Act: **1972** {2015}
+- Forest (Conservation) Act: **1980** {2013, 2017}
+- **Forest Conservation-1980, Environment Protection-1986, Air-1981, Water-1974** {2021}
+- Order: **Wildlife Act, Project Tiger, Project Elephant, Biodiversity Act** {2019, 2020}
+- Wildlife Act protects only animals (false); Project Elephant only Asian elephants (false): **neither** {2023}
+
+@section 10.3 | Schemes and Operations
+- **MISHTI**: restores mangroves (true); begun 2019 (false, **2023**) {2025}
+- **Operation Olivia**: Coast Guard guards olive ridleys off Odisha (true); in August (false) {2025}
+- "Apna Van Apna Dhan": **Himachal Pradesh** {2012}
+- Plantation town: **Valparai** {2013}
+- **SAVE** (India-Nepal): **vultures** {2011}
+- New Forest Inventory (2016) revisit: **5 years** {2017}
+
+@section 10.4 | Institutions
+- **Forest Research Institute**: **Dehradun** {2008, 2016}
+- **NBPGR**: **New Delhi** {2013}
+- Rajiv Gandhi Wildlife Conservation Award: **all** listed {1998}
+
+@table
+Institution | Location
+FRI, FSI, Wildlife Institute of India | Dehradun
+Forest Management Institute | Bhopal
+NBPGR | New Delhi
+BSI, ZSI | Kolkata
+NBA | Chennai
+SACON | Coimbatore
+@end
+
+@section 10.5 | Wildlife Facts
+- India's share of world wildlife: about **6.5-7.5%** (*) {2008}
+- India's largest fish: **whale shark** {2008}
+- Not a major extinction cause (key): **fast population growth** {2020}
+- **Pugmark** technique: **counting wild animals** {2008}
+- WWF symbol: **giant panda** {2001, 2002, 2003}
+- Statements 1, 2, 4 correct; eucalyptus is not eco-friendly {2002}
+- Largest forest share (of options): **Suriname**; **Japan** {2009, 2013}
+
+@trap
+- **MISHTI = 2023**; olive ridleys nest **Jan-March**.
+- Wildlife Act also protects **plants**.
+- National parks are a Wildlife Act category, not a 1952 forest class.
+@end
+
+@up UP links: **Project Tiger** covers **Dudhwa, Pilibhit, Amangarh** and **Ranipur** tiger reserves; UP runs the giant one-day **Van Mahotsav** plantation drives.
+
+@last
+- Forest goal **33%**; hills two-thirds
+- Wildlife Act **1972**; Forest Conservation Act **1980**
+- Water **1974**, Air **1981**, EPA **1986**
+- Project Tiger **1973**; Elephant **1992**; Biodiversity Act **2002**
+- MISHTI (2023) = mangroves
+- Operation Olivia = olive ridleys, Odisha
+- SAVE = vultures
+- FRI = **Dehradun**; NBPGR = **New Delhi**
+- Pugmark = animal census
+- WWF symbol = **giant panda**
+@end

@@ -1,0 +1,72 @@
+@chapter 7 | The Ozone Layer
+@meta Built from 19 UPPSC questions (1996–2023). Focus: stratospheric ozone, UV protection, CFCs and other depleters, the ozone hole, Ozone Day.
+
+@hot
+- Ozone layer: **stratosphere** {2008, 2010, 2012, 2018, 2018, 2023}
+- Ozone absorbs **ultraviolet** rays; protects life {2004, 2006, 2010, 2013, 2014}
+- **CFCs** deplete ozone {2009, 2014, 2016}
+- Ozone Day: **16 September** (Montreal Protocol, 1987) {1996, 2014, 2015, 2022}
+@end
+
+@section 7.1 | Ozone and Location
+- UV light forms **O3** {2018}
+- Ozone layer: **stratosphere** {2008, 2010, 2012, 2018, 2023}
+- Wrong: **ozone layer-troposphere** {2018}
+- Natural regulator of stratospheric ozone (per key): **nitrogen dioxide** (NOx) {2016}
+
+@section 7.2 | What Ozone Does
+- Absorbs **ultraviolet** radiation; protects from **UV rays** {2013, 2014}
+- Shields life from UV {2004, 2006}
+- Ozone essential for life; blocks high-energy radiation (R explains A) {2010}
+- UV causes **skin cancer** {2014}
+
+@section 7.3 | Depleting Substances
+- Main depleter: **CFCs** {2009, 2014, 2016}
+- Not true: CFCs are **not** greenhouse gases (they are) {2004}
+- Depleters: **CFCs, halons, carbon tetrachloride** (all) {2012}
+- Not a depleter (key): **methyl chloroform** (actually it is one) {2002}
+- Wrong: **CFC-automobile** (CFCs from refrigerants, sprays) {2017}
+- Does not deplete ozone: **carbon monoxide** {2008}
+
+@table
+Substance | Use
+CFCs | Refrigerators, ACs, aerosols
+Halons | Fire extinguishers
+Carbon tetrachloride | Solvent
+Methyl bromide | Fumigant
+HFCs | No ozone harm; strong GHGs (Kigali 2016)
+@end
+
+@section 7.4 | The Ozone Hole
+- Antarctic ozone hole found by a **British team** (Farman, 1985) {2013}
+- Ozone "halo" over Tibet (2005): **G.W. Kent Moore** {2013}
+- Ozone Day: **16 September** {1996, 2014, 2015, 2022}
+
+@flow Saving the ozone layer
+1974 | Molina and Rowland warn about CFCs
+1985 | Vienna Convention; British Antarctic Survey finds the hole
+16 Sept 1987 | Montreal Protocol (Ozone Day)
+2016 | Kigali Amendment: HFC phase-down
+~2066 | Antarctic hole expected to heal
+@end
+
+@trap
+- Ozone absorbs **UV**, not infrared.
+- Ground-level ozone is a **pollutant**; stratospheric ozone protects.
+- CFCs **are** greenhouse gases too.
+@end
+
+@up UP's refrigeration and foam industries (Noida, Ghaziabad) switched from CFCs under India's **Montreal Protocol** phase-out; HCFCs end by 2030.
+
+@last
+- Ozone layer = **stratosphere** (15-35 km)
+- Absorbs **UV-B**; UV causes skin cancer, cataract
+- CFCs, halons, CCl4 deplete ozone
+- CFCs also greenhouse gases
+- CO does not deplete ozone
+- Ozone hole: British team, 1985
+- Tibet ozone halo: Kent Moore
+- Montreal Protocol **1987**
+- Ozone Day **16 September**
+- Kigali **2016** = HFCs
+@end

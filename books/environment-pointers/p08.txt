@@ -1,0 +1,74 @@
+@chapter 8 | Forests and Their Types
+@unit UNIT IV · FORESTS AND PROTECTED AREAS
+@meta Built from 17 UPPSC questions (2002–2023). Focus: forest types and their regions, tropical rainforest records, mangroves, forests as a resource.
+
+@hot
+- Most plant diversity and biomass: **tropical evergreen / rain forest** {2017, 2017}
+- Mangroves: **Sundarbans**; **Bhitarkanika** is in **Odisha** {2004, 2016, 2016}
+- **Western Ghats** = evergreen forests {2015}
+- Forest types: **tropical-Silent Valley, coniferous-Himachal, mangrove-Sundarbans, deciduous/thorn-Rajasthan** {2017}
+@end
+
+@section 8.1 | Types and Productivity
+- Maximum plant diversity: **tropical evergreen forests** {2017}
+- Maximum plant biomass: **tropical rainforest** {2017}
+- Lowest net primary productivity: **temperate grasslands** {2015}
+- Tropical deciduous forests most extensive in **Asia** {2014}
+- Evergreen forest: **Western Ghats** {2015}
+- Wrong: **Eastern Deccan Plateau-moist forests** (dry deciduous) {2013}
+- **Tropical forest-Silent Valley, coniferous-Himachal Pradesh, mangroves-Sundarbans, deciduous-Rajasthan** {2017}
+
+@table
+Forest type | Rainfall | Example region
+Tropical evergreen | Over 200 cm | Western Ghats, NE, A&N
+Moist deciduous | 100-200 cm | Sal, teak belt
+Dry deciduous | 70-100 cm | Central India, UP
+Thorn | Under 70 cm | Rajasthan, Gujarat
+Montane coniferous | Altitude | Himalaya (deodar, pine)
+Mangrove | Tidal deltas | Sundarbans, Bhitarkanika
+@end
+
+@section 8.2 | Mangroves
+- Famous for mangroves: **Sundarbans** {2004}
+- Protected mangrove region (of options): **Goa** {2016}
+- Bhitarkanika: not Vansadhara-Subarnarekha delta, not West Bengal (**neither**; it is Brahmani-Baitarani, Odisha) {2016}
+- Coastal Odisha cyclone-prone; mangrove loss in Mahanadi delta (key: R explains A) {2006, 2010}
+
+@section 8.3 | Forests as a Resource
+- Forests renewable; improve the environment (both true, R not the explanation) {2002, 2004}
+- Hydrological cycle controlled by **forests** (per key) {2023}
+- Natural resources usable later; development depends on technology (both true, R not the explanation) {2016}
+- Aluminium a green metal (true); substitutes wood (false) {2009}
+
+@section 8.4 | Causes of Loss
+- Forest loss linked to demographic transition; inverse to population (R explains A) {2016}
+- Main cause (key): **industrial development** (FAO: farm expansion) {2011}
+
+@flow Mangrove belts of India
+Sundarbans | West Bengal; largest
+Bhitarkanika | Odisha (Brahmani-Baitarani)
+Godavari-Krishna | Andhra Pradesh
+Gulf of Kutch | Gujarat; second largest
+Andaman and Nicobar | Islands
+@end
+
+@trap
+- **Bhitarkanika** = Odisha, not West Bengal.
+- **Evergreen** = Western Ghats; **coniferous** = Himalaya.
+- Lowest NPP of options = **temperate grassland**.
+@end
+
+@up UP's forests are mostly **tropical dry and moist deciduous** (sal in the Terai; teak, tendu in Bundelkhand and Sonbhadra); UP has no mangroves.
+
+@last
+- Tropical evergreen: most plant diversity and biomass
+- Western Ghats = evergreen
+- Coniferous = Himalaya; thorn = Rajasthan
+- Mangroves: **Sundarbans** largest; Bhitarkanika = Odisha
+- Gulf of Kutch = 2nd mangrove area
+- Asia = most tropical deciduous forest
+- Temperate grassland = lowest NPP
+- Forests control the water cycle
+- Aluminium = green metal
+- Forest loss rises with population
+@end
