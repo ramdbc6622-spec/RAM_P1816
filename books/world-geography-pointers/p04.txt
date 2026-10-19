@@ -1,0 +1,81 @@
+@chapter 4 | Geological History, Volcanoes and Earthquakes
+@unit UNIT II · THE LITHOSPHERE
+@meta Built from 25 UPPSC questions (2004–2021). Focus: Pangaea and Gondwana, active volcanoes and their countries, Ring of Fire, epicentre and seismograph.
+
+@hot
+- **Volcano-country matching**: **Etna-Sicily (Italy), Vesuvius-Italy, Erebus-Ross Island, Cotopaxi-Ecuador, Merapi and Krakatoa-Indonesia, Colima and Paricutin-Mexico, Apo-Philippines, Rainier-USA** {2010, 2015, 2016, 2021}
+- Active volcanoes: **Cotopaxi, Etna, Fuji, Vesuvius**; Aconcagua and Kilimanjaro are not {2007, 2011}
+- **Mauna Loa, Kilauea** = Hawaii; Kilauea most active {2005, 2006, 2009, 2014}
+- **Ring of Fire** = earthquakes, volcanoes, **Pacific** {2008}
+@end
+
+@section 4.1 | Geological History
+- Age of the Earth: **uranium (radiometric) dating** {2006}
+- Oldest fossils: about **3.5 billion** years (all options wrong, *) {2005}
+- Original landmass: **Pangaea** {2016}
+- Not part of Gondwana: **North America** {2016}
+- Order: **shelled animals, insects, reptiles, mammals** {2018}
+- Little Ice Age: **1650-1870 AD** {2015}
+- Son valley formations order: **Sihawal, Patpara, Baghor, Khetaunhi** {2017}
+- Thar desert: **Pleistocene and recent deposits** {2018}
+
+@flow Pangaea breaks up
+Pangaea | One supercontinent (Wegener, 1912)
+Laurasia | North America, Europe, Asia
+Gondwana | S. America, Africa, India, Australia, Antarctica
+Tethys Sea | Between them; sediments became the Himalayas and Alps
+@end
+
+@section 4.2 | Volcanoes
+- Highest volcano among options: **Cotopaxi** (overall: Ojos del Salado) {2015}
+- **Mauna Loa**: **Hawaii** {2005, 2014}
+- Most active: **Kilauea** {2006, 2009}
+- Active: **Cotopaxi, Etna, Fujiyama** (not Aconcagua) {2007}
+- Active: **Etna and Vesuvius** {2011}
+- **Kilimanjaro**: **Tanzania** {2009}
+- "Lighthouse of the Mediterranean": **Stromboli** {2004}
+- **Etna-Sicily, Vesuvius-Italy, Erebus-Ross Island, Cotopaxi-Ecuador** {2010}
+- **Kinabalu-Malaysia, Elburz-Iran, Aconcagua-Argentina, Kilimanjaro-Tanzania** {2015}
+- **Sabancaya-Peru, Etna-Italy, Colima-Mexico, Merapi-Indonesia** {2015}
+- **Krakatoa**: **Indonesia** {2016}
+- **Rainier-USA, Etna-Italy, Paricutin-Mexico, Apo-Philippines** {2021}
+
+@table
+Volcano | Place
+Etna / Vesuvius / Stromboli | Sicily / Naples / Aeolian Is. (Italy)
+Kilauea, Mauna Loa | Hawaii
+Cotopaxi, Chimborazo | Ecuador
+Paricutin, Colima, Popocatepetl | Mexico
+Krakatoa, Merapi, Tambora | Indonesia
+Pinatubo, Taal, Apo | Philippines
+Erebus | Ross Island, Antarctica
+Barren Island | India (only active)
+@end
+
+@section 4.3 | Earthquakes
+- Ring of Fire: **earthquakes, volcanoes, Pacific** (1, 2, 3) {2008}
+- Measured on the **Richter scale** {2015}
+- Recorded by a **seismograph** {2017}
+- First to record: **epicentre** (surface point above focus) {2017}
+- NW India quake-prone due to **plate tectonics** {2005}
+
+@trap
+- **Etna** is on **Sicily**; Vesuvius on the mainland.
+- **Aconcagua, Kilimanjaro** are volcanic but **not active**.
+- Focus = inside the Earth; **epicentre** = surface above it.
+@end
+
+@up The **Son valley** formations (Sihawal, Patpara, Baghor, Khetaunhi) lie in the middle Son basin just south of UP; India's seismic Zone IV covers western UP and the Terai.
+
+@last
+- **Pangaea** (Wegener); Gondwana + Laurasia
+- North America not in Gondwana
+- Little Ice Age **1650-1870**
+- Kilauea most active; Mauna Loa = Hawaii
+- **Stromboli** = lighthouse of the Mediterranean
+- Etna = Sicily; Erebus = Antarctica
+- Krakatoa, Merapi = Indonesia; Paricutin = Mexico
+- Ring of Fire = **Pacific**
+- Richter scale; seismograph; epicentre
+- Barren Island = India's active volcano
+@end

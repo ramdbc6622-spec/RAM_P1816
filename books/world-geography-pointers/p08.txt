@@ -1,0 +1,120 @@
+@chapter 8 | Capital Cities, Towns and Geographical Sobriquets
+@meta Built from 50 UPPSC questions (1990–2024). Focus: capital matching by region, largest city vs capital, Central Asian and African capitals, nicknames.
+
+@hot
+- **Capital matching** is the format in almost every question here {1992, 1995, 1997, 2003, 2009, 2009, 2011, 2015, 2016, 2019, 2023}
+- **Central Asia**: **Tashkent, Dushanbe, Bishkek, Ashgabat, Astana**; Bishkek is **not** Tajikistan's {2007, 2009, 2011, 2019}
+- **Africa** wrong pairs: **Nigeria-Rabat, Cape Verde-Bamako, Khartoum-Ethiopia** {2007, 2020, 2024}
+- **Finland**: Helsinki; "land of a thousand lakes"; Oslo is **Norway's** {1993, 2001, 2012, 2015}
+@end
+
+@section 8.1 | Europe
+- Not capitals: **Rotterdam, Zurich** (Riga, Zagreb are) {2023}
+- All pairs correct; key took **Berlin-Germany** (*) {2008}
+- **Bulgaria-Sofia, Georgia-Tbilisi, Iceland-Reykjavik, Norway-Oslo** {2003}
+- **Helsinki**: **Finland** {1993}; **Finland-Oslo** is wrong {2001}
+- Wrong: **Christchurch-New Zealand** (capital **Wellington**) {2010}
+- Not a national capital: **Bonn** {2006}
+
+@section 8.2 | Asia
+- **Myanmar-Yangon (then; now Nay Pyi Taw), Cambodia-Phnom Penh, Vietnam-Hanoi, Laos-Vientiane** {2016}
+- Wrong: **Khartoum-Ethiopia** (Khartoum = Sudan; Ethiopia = Addis Ababa) {2024}
+- Wrong: **Bishkek-Tajikistan** (Bishkek = Kyrgyzstan) {2007}
+- **Uzbekistan-Tashkent, Tajikistan-Dushanbe, Kyrgyzstan-Bishkek, Turkmenistan-Ashgabat** {2019}
+- **Azerbaijan-Baku, Gambia-Banjul, Kazakhstan-Astana, Latvia-Riga** {2011}
+- Correct: **Lebanon-Beirut** {2010}
+- Wrong: **China-Shanghai** (Beijing) {2005}
+- **Sri Lanka-Colombo, Maldives-Male, Burma-Rangoon, Zimbabwe-Harare, Mauritius-Port Louis** {1992}
+- **Palestine-Ramallah, Kosovo-Pristina, Turkish Cyprus-Nicosia, Taiwan-Taipei** {2015}
+- Not in the Sunni Triangle: **Basra** {2022}
+- Not in Afghanistan: **Fergana, Samarkand** (Uzbekistan) {2023}
+- Highest of the options: **Lhasa** {1993}
+- Wrong: **Baikonur-Ukraine** (it is in **Kazakhstan**) {1992}
+
+@table
+Country | Capital
+Kazakhstan | Astana
+Uzbekistan / Tajikistan | Tashkent / Dushanbe
+Kyrgyzstan / Turkmenistan | Bishkek / Ashgabat
+Azerbaijan / Georgia / Armenia | Baku / Tbilisi / Yerevan
+Myanmar | Nay Pyi Taw (Yangon earlier)
+Laos / Cambodia / Vietnam | Vientiane / Phnom Penh / Hanoi
+@end
+
+@section 8.3 | Africa
+- Wrong: **Nigeria-Rabat** (Nigeria = Abuja; Rabat = Morocco) {2007}
+- **Windhoek-Namibia, Accra-Ghana, Nairobi-Kenya, Lusaka-Zambia** {2009}
+- **Burundi-Bujumbura (Gitega now), Kazakhstan-Astana, Laos-Vientiane, Mali-Bamako** {2009}
+- **Kampala-Uganda, Kigali-Rwanda, Kinshasa-DR Congo, Khartoum-Sudan** {2023}
+- **Brazil-Brasilia, Cuba-Havana, Kenya-Nairobi, Zambia-Lusaka** {1995}
+- **Australia-Canberra, Tajikistan-Dushanbe, Tanzania-Dodoma, Switzerland-Bern** {1997}
+- Wrong: **Cape Verde-Bamako** (Praia; Bamako = Mali) {2020}
+- Wrong: **Maldives-Malabo** (Male; Malabo = Equatorial Guinea) {2017}
+
+@section 8.4 | Americas and Oceania
+- Correct: **Cyprus-Nicosia** {2012}
+- Wrong: **Dominica-Santo Domingo** (Roseau; Santo Domingo = Dominican Republic) {2021}
+- **NSW-Sydney, Queensland-Brisbane, Victoria-Melbourne, Western Australia-Perth** {2021}
+
+@section 8.5 | Towns
+- **Pisa** (leaning tower): **Italy** {1993}
+- Mega cities on coasts as gateways to ocean routes (R explains A) {2005}
+- Not in Silicon Valley: **Santa Rosa** {2013}
+- Wrong: **Tasmania-Uganda** (Tasmania = Australia) {1990}
+- South of the Arctic Circle: **Iceland** {2013}
+- **Sun City**: **South Africa** {2011}
+- **Davos-Switzerland, Barcelona-Spain, Auckland-New Zealand, Kandy-Sri Lanka** {2014}
+
+@flow Largest city is not the capital
+Australia | Sydney vs Canberra
+Canada / USA | Toronto vs Ottawa / New York vs Washington
+Brazil / Turkiye | Sao Paulo vs Brasilia / Istanbul vs Ankara
+Nigeria / New Zealand | Lagos vs Abuja / Auckland vs Wellington
+Switzerland / Pakistan | Zurich vs Bern / Karachi vs Islamabad
+@end
+
+@section 8.6 | Sobriquets
+- Continent of birds: **South America** {1994}
+- Blue Grass State: **Kentucky** {2004}
+- Gateway to the West (Turkey): **Istanbul** {2005, 2010}
+- Land of the rising sun: **Japan** {1991}
+- Garden of lakes: **Finland** {2012}; thousand lakes: **Finland** {2015}
+- City of the Golden Gate: **San Francisco** {2013}
+- Manchester of the East: **Osaka** {2014}
+- Pearl of Siberia: **Lake Baikal** {2015}
+- Land of morning calm: **Korea** {2015}
+- Oil capital of Europe: **Aberdeen** {2017}
+- Land of Promise: **Mindanao** {2021}
+
+@table
+Nickname | Place
+Land of the Midnight Sun | Norway
+Land of the Thunder Dragon | Bhutan
+Land of White Elephants | Thailand
+Land of a Thousand Hills | Rwanda
+Sugar Bowl / Pearl of the Antilles | Cuba
+Playground of Europe | Switzerland
+Emerald Isle | Ireland
+Big Apple / Windy City | New York / Chicago
+@end
+
+@trap
+- **Dominica** (Roseau) vs **Dominican Republic** (Santo Domingo).
+- **Malabo** = Equatorial Guinea; **Bamako** = Mali; **Rabat** = Morocco.
+- **Baikonur** cosmodrome is in **Kazakhstan**.
+@end
+
+@up UP's own sobriquets: **Kanpur** = Manchester of the East (Indian usage; UPPSC keys use Osaka), **Varanasi** = oldest living city, **Agra** = city of the Taj, **Lucknow** = city of nawabs.
+
+@last
+- Tashkent, Dushanbe, **Bishkek** (Kyrgyzstan), Ashgabat, Astana
+- Oslo = Norway; Helsinki = Finland
+- Nicosia = Cyprus; Ramallah = Palestine; Pristina = Kosovo
+- Abuja = Nigeria; Rabat = Morocco; Bamako = Mali
+- Khartoum = Sudan; Addis Ababa = Ethiopia
+- Kampala, Kigali, Kinshasa, Dodoma, Windhoek, Accra
+- Baikonur = Kazakhstan; Basra not in Sunni Triangle
+- Osaka = Manchester of the East; Aberdeen = oil capital
+- Finland = thousand lakes; Korea = morning calm
+- Kentucky = Blue Grass; Mindanao = Land of Promise
+@end

@@ -1,0 +1,95 @@
+@chapter 1 | The Universe, the Solar System and the Sun
+@unit UNIT I · EARTH IN SPACE
+@meta Built from 43 UPPSC questions (1990–2019). Focus: Chandrasekhar and black holes, planet records, Venus, Saturn, the Sun's energy and distance.
+
+@hot
+- **Black hole** theory: **S. Chandrasekhar**; Chandrasekhar limit = collapse limit of stars {1996, 1997, 1997, 2001, 2003, 2015, 2016, 2019}
+- **Mercury**: nearest the Sun, shortest year, smallest planet now {1991, 2002, 2004}
+- **Venus**: Morning Star, Earth's twin; with Mercury has **no moons** {2007, 2008, 2015, 2016}
+- **Saturn**: rings, Titan, Cassini (2004) {1990, 2004, 2006, 2010}
+- Solar energy = **nuclear fusion** {1996, 2001, 2006}
+@end
+
+@section 1.1 | Universe, Galaxies, Stars
+- **Big Bang** explains the origin of the **universe** {2016}
+- Milky Way: a **spiral galaxy** {2001}
+- Group of stars in a shape: **constellation** {2013}
+- Hubble's first detailed image of a star's surface: **Betelgeuse** {1995}
+- Star-collapse limit: **Chandrasekhar limit** (1.4 solar masses) {1997}
+- Black hole theory: **S. Chandrasekhar** {1996, 2015, 2019}; first information {2016}
+- Star-related phenomenon: **black hole** {1997}
+- Black hole unseen because even **light cannot escape** (R explains A) {2001, 2003}
+- **Supernova**: a **dying star** {2015}
+- Not in space: **brittle star** (a sea animal) {1996}
+- Not a space term: **byte** {1997}
+
+@flow Life of a star
+Nebula | Gas and dust cloud
+Main-sequence star | Fuses hydrogen (the Sun now)
+Red giant | Swells near its end
+White dwarf | Below Chandrasekhar limit
+Supernova | Massive star explodes
+Neutron star or black hole | Super-dense remnant
+@end
+
+@section 1.2 | Planets
+- Number of planets: **8** since Pluto became a dwarf planet (2006); 9 then (*) {1992}
+- Planets **shine but are non-luminous** (reflect light) {1992}
+- Order from Sun: **Earth, Jupiter, Uranus, Pluto** {2002, 2003}
+- Between Earth and Sun: **Mercury and Venus** {2010}
+- Earth lies between **Venus and Mars** {2012}
+- Nearest the Sun: **Mercury** {2004}; shortest orbit: **Mercury** {2002}
+- Smallest planet: **Mercury** (Pluto then) {1991}
+- Largest: **Jupiter** {1990}
+- Wrong pair: slowest planet-**Mars** (it is **Neptune**) {2011}
+- Longest revolution among options: **Pluto** (Neptune among planets) {2004}
+- No satellites: **Mercury and Venus** {2016}
+- Morning Star: **Venus** {2015}; Earth's twin: **Venus** {2007, 2008}
+- **Magellan** spacecraft: **Venus** {1991}
+- Day and tilt like Earth's: **Mars** {2001}; possible life: **Mars** {2000}
+- Jupiter's ring: **silicates** (dust) {2004}
+- Rings: **Saturn** {1990}; Cassini orbited **Saturn** (2004) {2004}
+- Saturn is **warmer than Neptune** {2010}
+- **Titan**: Saturn's largest moon {2006}
+- **Nix and Hydra**: moons of **Pluto** {2010}
+- H, He, CH4 together: giant planets (no option exact, *) {2004}
+- **Asteroids**: between **Mars and Jupiter** {2008}
+
+@table
+Planet | Record
+Mercury | Nearest, smallest, 88-day year; no moon
+Venus | Brightest, hottest; spins backwards; no moon
+Mars | Red planet; Earth-like day and tilt
+Jupiter | Largest; fastest spin; Ganymede (largest moon)
+Saturn | Rings; least dense; Titan; most moons
+Uranus | Rolls on its side
+Neptune | Farthest; longest year (165 years)
+@end
+
+@section 1.3 | The Sun
+- Sun's core: **plasma** (no option exact, *) {2001}
+- Solar energy: **nuclear fusion** {1996, 2001, 2006}
+- Solar eclipse on **new moon** day {1991}; when the **Moon is between Earth and Sun** {1990}
+- Earth-Sun distance: **149.6 million km** {2010}
+- Nearest the Sun (perihelion): **3 January** {2010}
+
+@trap
+- **Hottest = Venus** (not Mercury); **largest moon = Ganymede** (not Titan).
+- Pluto options: check if the question is **before 2006**.
+- Solar eclipse = **new moon**; lunar eclipse = **full moon**.
+@end
+
+@up No UP item. Indian link: **Aditya-L1** (2023) studies the Sun from the L1 point; the Indian Standard Meridian passes near **Mirzapur**, UP.
+
+@last
+- Black hole, limit = **Chandrasekhar**
+- Supernova = dying star; Milky Way = spiral
+- 8 planets since **2006**
+- Mercury: nearest, smallest; Jupiter: largest
+- Venus: Morning Star, twin, hottest
+- No moons: **Mercury, Venus**
+- Mars: Earth-like day; Saturn: rings, **Titan**
+- Asteroids: **Mars-Jupiter**
+- Sun: **fusion**; 149.6 million km; perihelion **3 Jan**
+- Solar eclipse on new moon
+@end

@@ -1,0 +1,89 @@
+@chapter 5 | Continents, Mountains, Plateaus and Valleys
+@meta Built from 42 UPPSC questions (1992–2024). Focus: continent areas, mountain-country matching, mountain types, Death Valley and basins.
+
+@hot
+- **Mountain-country matching**: **Pyrenees-France/Spain, Apennines-Italy, Balkan-Bulgaria, Alps-Switzerland, Atlas and Toubkal-Morocco, Kilimanjaro-Tanzania, Elburz-Iran, Black Forest-Germany** {2004, 2004, 2010, 2012, 2014, 2014, 2020, 2023, 2024}
+- **Africa** has the **most countries**; largest is **Asia** (key once said Africa) {2014, 2015}
+- **Andes** = longest range {2008, 2016}
+- **Death Valley**: California, USA; rift valley; extreme heat {2005, 2009, 2012, 2014}
+@end
+
+@section 5.1 | Continents
+- Largest continent: **Africa** per key (actually **Asia**; Africa second) {2014}
+- Descending: **Africa, South America, Europe, Australia** {2015}
+- Descending: **Asia, Africa, North America, Europe** {2017}
+- Smallest: **Australia** {1992}; two smallest: **Australia and Europe** {2008}
+- Most countries: **Africa** (54) {2015}
+- Most plains by share: **Europe** {2013}
+
+@section 5.2 | Mountain Ranges
+- Longest range: **Andes** {2016}
+- Length order: **Andes, Rockies, Himalaya, Great Dividing Range** {2008}
+- **Andes-South America, Altai-Asia, Alps-Europe, Appalachian-North America** {2023}
+- West to east: **Pontic, Zagros, Hindu Kush, Karakoram** {2024}
+- Not Tertiary: **Appalachians** (old fold) {2014}
+- **Alps-folded, Vosges-block, Vindhya-residual, Fuji-volcanic** {2013}
+- "Sea of mountains": **British Columbia** {2015}
+- **White Mountains** {2001} and **Black Mountain** {2009}: **USA**
+- **Allegheny-USA, Cantabrian-Spain, Elburz-Iran, Mackenzie-Canada** {2010}
+- **Darling Range**: **south-western** coast of Australia {2020}
+- India-Myanmar ranges: none of the options (Patkai, Naga, Lushai/Arakan) {1998}
+- **Black Forest**: **Germany** {2004, 2012}; along the **Rhine** {2014}
+- **Titlis**: **Switzerland** {2004}
+- In Italy: **Apennines** {2014}
+- **Spain-France-Pyrenees, Switzerland-Alps, Bulgaria-Balkan, Italy-Apennine** {2024}
+- **Atlas-Morocco, Kilimanjaro-Tanzania, Chimborazo-Ecuador, Pyrenees-France/Spain** {2020}
+- **Kilimanjaro-Tanzania, Toubkal-Morocco, Stanley-Uganda, Hoggar-Algeria** {2023}
+- **Drakensberg**: **South Africa** {2007, 2008}
+
+@table
+Type | Examples
+Young fold | Himalaya, Alps, Andes, Rockies, Atlas
+Old fold | Appalachians, Urals, Aravalli
+Block | Vosges, Black Forest, Sierra Nevada
+Volcanic | Fuji, Kilimanjaro, Cotopaxi
+Residual | Vindhya, Nilgiri, Aravalli
+@end
+
+@section 5.3 | Plateaus
+- Tibetan Plateau average height: about **5 km** {2013}
+- Largest plateau among options: **Colorado** (per key) {2017}
+- Telegraphic Plateau: part of the **North Atlantic Ridge** {2019}
+
+@section 5.4 | Valleys and Basins
+- **Death Valley**: a **rift valley** {2012}; "Devil's Golf Course", **USA** {2014}; known for **heat** {2005}; in **California** {2009}
+- **Panjshir Valley**: **Afghanistan** {2002}
+- **Silicon Valley**: **California** {2002}
+- **Taylor Valley**: **Antarctica** {1998}
+- **Great Artesian Basin**: **Australia** {2002, 2003}
+- **Great Basin**: **USA** {2004}
+- **Valley of the Kings**: **Egypt** {1998}
+- **Blind valley**: **karst** region {2013}
+
+@flow West to east across West Asia
+Pontic | Northern Turkey
+Zagros | Iran (west)
+Hindu Kush | Afghanistan
+Karakoram | India-Pakistan-China
+@end
+
+@trap
+- **Great Basin** = USA; **Great Artesian Basin** = Australia.
+- **Darling Range** = WA coast; **Darling River** = NSW.
+- **Appalachians** are old fold, not Tertiary.
+@end
+
+@up UP links: the **Vindhyan** hills (residual mountains) reach Mirzapur and Sonbhadra; UP lies on the Indo-Gangetic **plain**, built from Himalayan alluvium.
+
+@last
+- Asia largest; **Africa** most countries; Australia smallest
+- **Andes** longest; then Rockies
+- Pyrenees = France-Spain; Apennines = Italy; Balkan = Bulgaria
+- Black Forest = Germany (Rhine); Titlis = Switzerland
+- Atlas, Toubkal = Morocco; Drakensberg = South Africa
+- Elburz = Iran; Mackenzie = Canada; Allegheny = USA
+- Appalachians = old fold; Vosges = block; Vindhya = residual
+- Death Valley = rift, hottest, California
+- Great Artesian Basin = **Australia**
+- Valley of the Kings = **Egypt**
+@end

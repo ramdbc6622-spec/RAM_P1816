@@ -1,0 +1,82 @@
+@chapter 6 | Deserts and Grasslands
+@meta Built from 31 UPPSC questions (1993–2025). Focus: desert-country matching, Atacama and Kalahari, temperate vs tropical grasslands, Pampas.
+
+@hot
+- **Pampas** = **Argentina** (temperate grassland, main farm belt) {2005, 2012, 2016, 2017, 2018}
+- **Grassland matching**: **Llanos-Venezuela/S. America, Steppe-Eurasia, Prairies-N. America, Veld-South Africa, Downs-Australia, Puszta-Hungary** {2002, 2010, 2014, 2015, 2016, 2017}
+- **Savanna** = tropical, mostly **Africa**, "land of big game" {1993, 2011, 2012, 2013, 2019}
+- **Kalahari** = Botswana, Namibia; Southern Hemisphere {2008, 2010, 2015}
+@end
+
+@section 6.1 | Definition and Location
+- Desert: rainfall under **25 cm** a year {2009}
+- Hot deserts on **western margins at 15°-30°**; trade winds lose moisture moving west (R explains A) {2019}
+- Deserts can supply solar energy; they get a year's human energy use in 6 hours of sun (R explains A) {2013}
+
+@section 6.2 | Deserts of the World
+- Biggest desert: **Sahara** (largest hot desert) {1994}
+- Smallest to largest: **Great Sandy, Gobi, Arabian, Sahara** {2023}
+- Most populated desert: **Thar** {2012}; largest in South Asia: **Thar** {1996}
+- **Gobi**: **Mongolia and China** only {1993, 2025}
+- **Taklamakan**: **China** {2008}
+- Wrong: **Gibson-Brazil** (Gibson is in **Australia**) {2016, 2018}
+- **Karakum**: **Turkmenistan** {2022}
+- **Dasht-e-Lut**: **Iran** {2015}
+- Not true: Atacama lies in **southern** Chile (it is **northern**) {2006}
+- Driest place: **Atacama** {2009}
+- Temperate desert: **Patagonian** {2011}
+- **Kalahari**: **Botswana and Namibia** {2008, 2010}; in the **Southern Hemisphere** {2015}
+
+@table
+Desert | Country
+Sahara | North Africa
+Arabian (Rub al Khali) | Saudi Arabia
+Gobi | Mongolia, China
+Taklamakan | China (Xinjiang)
+Karakum / Kyzylkum | Turkmenistan / Uzbekistan-Kazakhstan
+Dasht-e-Lut | Iran
+Thar | India, Pakistan
+Kalahari / Namib | Botswana, Namibia / Namibia
+Atacama | Northern Chile (driest)
+Patagonian | Argentina (temperate)
+Gibson, Great Sandy, Great Victoria | Australia
+@end
+
+@section 6.3 | Grasslands
+- Wrong: **Veld-Australia** (Veld = South Africa) {2015}
+- **Llanos-South America, Steppe-Europe/Eurasia, Prairies-North America, Veld-Africa** {2016}
+- **Pampas-Argentina, Puszta-Hungary, Veld-South Africa, Downs-Australia** {2017}
+- Wrong: **Downs-tropical** (Downs are **temperate**) {2002}
+- Not temperate: **Savanna** {2012, 2013}
+- Eurasian temperate grassland: **Steppes** {2014}
+- Savanna most widespread in **Africa** {1993, 2011}
+- "Land of big game": **tropical savanna** {2019}
+- Treeless South American plains: **Pampas** {2005}; in **Argentina** {2012, 2018}
+- Pampas main farm region: fertile soil, temperate climate (R explains A) {2016}
+- Correct: **Llanos-Venezuela** {2010}
+
+@flow Grasslands by type
+Temperate | Prairies, Steppes, Pampas, Veld, Downs, Puszta, Canterbury
+Tropical | Savanna (Africa), Llanos (Venezuela), Campos (Brazil)
+@end
+
+@trap
+- **Gibson** = Australia; **Atacama** = northern Chile.
+- **Downs** and **Veld** are temperate; **Llanos** and **Campos** are tropical.
+- Largest desert overall = **Antarctica**; largest hot = **Sahara**.
+@end
+
+@up No UP item. Indian link: the **Thar**, the most densely populated desert, is fed by the Indira Gandhi Canal, while UP's Bundelkhand faces semi-arid conditions.
+
+@last
+- Desert: under **25 cm** rain
+- Hot deserts on **west coasts**, 15°-30°
+- Sahara largest hot; Thar most populated
+- Gobi = Mongolia, China; Karakum = Turkmenistan
+- Gibson = **Australia**; Lut = **Iran**
+- Atacama = northern Chile, driest
+- Patagonian = temperate desert
+- Kalahari = Botswana, Namibia
+- Pampas = Argentina; Puszta = Hungary; Downs = Australia
+- Savanna = Africa, tropical; Llanos = Venezuela
+@end
