@@ -1,0 +1,132 @@
+@chapter 24 | The Supreme Court
+@unit UNIT VI · JUDICIARY AND THE STATES
+@meta Built from 56 UPPSC questions (1990–2025). Focus: strength, collegium, removal, Art 129 Court of Record, jurisdictions, Arts 32/137/142/143, judicial review, basic structure, PIL.
+
+@hot
+- **Basic structure**: **Kesavananda Bharati** (1973), a product of **judicial interpretation** {2010, 2012, 2013, 2014}
+- **Guardian of the Constitution**: **Supreme Court**; judicial review with HCs too {2015, 2015, 2017, 2019}
+- **Advisory opinion** (Art 143): sought only by the **President** {1998, 2010, 2012, 2016}
+- Fundamental Rights enforced by **both SC (Art 32) and HCs (Art 226)** {2004, 2004, 2006, 2010, 2023}
+- **Court of Record** (Art 129): power to punish for contempt; SC and HCs both {2008, 2008, 2023}
+- **PIL**: judicial initiative; idea from the **USA**; core of judicial activism {2004, 2008, 2011, 2014, 2025}
+@end
+
+@section 24.1 | Strength (Art 124)
+- Sanctioned strength changed: 26 (2004), 31 (2015), 34 (2019), 38 per the 2026 law cited in the masterbook (*) {2004, 2015}
+- Strength fixed by **Parliament by law**, not by amendment
+
+@section 24.2 | Appointment and Oath
+- Collegium: CJI + **4** senior-most judges {2010}
+- President's reference on appointments: **Art 143(1)** (Third Judges case, 1998) {1998}
+- Executive, legislature and CJI in appointments: **2nd ARC** {2014}
+- Oath quoted ("true faith and allegiance… uphold the Constitution"): **Chief Justice of India** {2004}
+
+@section 24.3 | Tenure and Removal
+- Resignation to the **President** {2014, 2023}
+- Retirement age: **65** {1990}
+- Salaries determined by **Parliament** {2008}
+- Retired SC judges may practise in **no court** {1997}
+
+@flow Removing an SC judge (Art 124(4))
+Motion | 100 LS or 50 RS members
+Speaker / Chairman | Admits; three-member inquiry committee
+Each House | Majority of total + two-thirds present and voting
+President | Order of removal (proved misbehaviour or incapacity)
+@end
+
+@section 24.4 | Acting CJI, Ad hoc, Seat, Benches
+- Acting CJI appointed by the **President** {2000, 2001}
+- **Ad hoc judges**: only for the **Supreme Court** (Art 127) {2004, 2010}
+- Can sit elsewhere with the **President's approval** (Art 130) {2008}
+- Constitutional cases: at least **five** judges {2012, 2012}
+- English in SC proceedings: **Art 348** {2013}
+
+@section 24.5 | Court of Record (Art 129)
+- Court of Record: can **punish for its contempt** {2008}
+- Wrong pair: **Art 124-Court of Record** (it is **Art 129**) {2023}
+- Courts of Record: **High Courts and Supreme Court** {2008}
+
+@section 24.6 | Jurisdiction
+- Has **original, appellate and advisory** jurisdiction {2010, 2013}
+- Not true: **exclusive** power to issue writs for FRs {2017}
+- Appeal in constitutional cases: **Art 132 with 134A** {2002, 2004}
+- Interpretation cases come under **appellate** jurisdiction {2013}
+- TDSAT judgments challenged in **High Court and SC** {2003}
+
+@section 24.7 | Writs (Art 32)
+- FRs safeguarded under **Art 32** {2010}
+- FR enforcement: **High Court and Supreme Court** {2004, 2004, 2006}
+- SC issues five writs; Parliament may empower other courts (Art 32(3)) (both) {2023}
+
+@section 24.8 | Advisory (Art 143)
+- Advisory opinion sought by the **President** {2010, 2012}
+- Advice to the President on law or fact of public importance {2016}
+
+@section 24.9 | Review and Curative
+- Curative petition rests on **Art 142** (per key) {2014}
+- Review: **Art 137** {2009}; SC **can review** {2011} and **change** its judgment {2005}
+
+@section 24.10 | Judicial Review
+- Declares laws **unconstitutional** {1994}
+- Enjoyed by **SC and High Courts** {2017}
+- SC has **no exclusive** power over Central laws (Art 131A removed 1977); guardian (A false, R true) {2019}
+- Judicial review in **India and USA** {2013}
+- Review limited; "bag of borrowings" (both true, R not the explanation) {2017}
+- Guardian of the Constitution: **Supreme Court** {2015, 2015}
+
+@section 24.11 | Basic Structure and Benches
+- Basic structure: **Kesavananda Bharati** {2012, 2013, 2014}
+- Source: **judicial interpretation** {2010}
+- Inviolable: **Arts 32, 226, 227** (judicial review) {1999}
+- "FRs let a man chalk out his life": **Golaknath** {2012}
+- Second largest bench (11): Golaknath, R.C. Cooper, T.M.A. Pai; Minerva was 5 (*) {2004}
+
+@table
+Case | Year | Point
+Golaknath | 1967 | 11 judges; FRs not amendable
+Kesavananda Bharati | 1973 | 13 judges; basic structure
+Minerva Mills | 1980 | Limited amending power
+S.R. Bommai | 1994 | Secularism, Art 356 limits
+Navtej Johar | 2018 | Section 377 read down
+@end
+
+@section 24.12 | PIL
+- PIL era CJI: Y.V. Chandrachud; architect **P.N. Bhagwati** (*) {2018}
+- PIL introduced by **judicial initiative** {2008}
+- PIL lets public-minded citizens act for those who cannot (R explains A) {2004}
+- PIL "essential" for rule of law (false per source); access to justice (true) {2025}
+- PIL originated in the **USA** {2011}
+- Judicial activism relates to **PIL** {2014}
+
+@section 24.13 | Landmark Judgments
+- IMDT Act struck down under **Art 355** (Sarbananda Sonowal, 2005) {2002}
+- Glorified women's status (Sept 2003): **Supreme Court** {2009}
+- CBI a "**caged parrot**": **Coalgate** case {2015}
+- Homosexuality ruling: **Section 377 IPC** {2018}
+
+@section 24.14 | Judges in the News
+- **Fathima Beevi**: first woman SC judge; first Muslim woman in higher judiciary (1 and 3); she was Governor of **Tamil Nadu** {2024}
+- Fourth woman SC judge (April 2010): **Gyan Sudha Misra** {2008}
+- Not earlier an HC judge (direct from Bar): **L. Nageswara Rao** {2016}
+
+@trap
+- **Ad hoc** judges = SC (Art 127); **additional/acting** = HC (Art 224).
+- Writs are **not exclusive** to the SC; Art 131 federal disputes are.
+- Art 141 binds all courts **except** the SC.
+- Retired HC judges can practise in SC and other HCs; retired SC judges nowhere.
+@end
+
+@up UP's link: **Indira Gandhi v. Raj Narain** began in the **Allahabad High Court** (Justice Jagmohanlal Sinha, 1975) and reached the SC, which struck down part of the 39th Amendment, applying basic structure.
+
+@last
+- Basic structure = **Kesavananda** (13 judges), judicial interpretation
+- Ad hoc judges = **SC only** (Art 127)
+- Constitution Bench = **5** judges
+- Retirement **65**; resign to **President**; no practice after
+- Art **129** Court of Record; **137** review; **142** complete justice
+- Art **143** advisory: President only
+- Art **32** with HC's **226** for FRs
+- Collegium = CJI + **4**
+- PIL = **USA** idea; Bhagwati; judicial activism
+- Caged parrot = **Coalgate**; Fathima Beevi = first woman judge
+@end

@@ -1,0 +1,98 @@
+@chapter 32 | Lokpal and Important Commissions
+@meta Built from 37 UPPSC questions (1991–2024). Focus: Lokpal and UP Lokayukta, NHRC, minorities bodies, CVC, Mandal, Venkatachaliah, UPSC and State PSCs.
+
+@hot
+- **Lokpal**: Indian ombudsman; first recommended by the **ARC (1966-67, Morarji Desai)**; first Bill **1968** {1998, 2014, 2017}
+- **UPSC/PSC**: constitutional; annual report to the **President**; State PSC member removed only by the **President** after SC inquiry {2010, 2013, 2014, 2020, 2021, 2022}
+- **NHRC** is **statutory** (1993), not constitutional {2004, 2007, 2007, 2015}
+- **Mandal Commission**: set up by **Morarji Desai** (1979), report **1980** {1991, 2008}
+@end
+
+@section 32.1 | Lokpal
+- Indian ombudsman: **Lokpal** {2014}
+- ARC that first proposed Lokpal and Lokayukta: headed by **Morarji Desai** {2017}
+- First Lokpal Bill: **1968** {1998}
+- 2011 Bill: introduced 4 Aug 2011, sent to Standing Committee, called "weak" (1, 3, 4) {2010}
+- Civil society drafters: **Anna Hazare, Santosh Hegde, Shanti Bhushan** {2010}
+- Selection committee: **PM, CJI (or nominee), Speaker, LoP**, eminent jurist; not RS Chairman {2024}
+
+@section 32.2 | Lokayukta
+- First Lokayukta: **Maharashtra** (1971) {2015}
+- First to pass a Lokayukta Bill in 2011: **Uttarakhand** {2012}
+- UP Lokayukta reports to the **Governor** {2007}
+- UP Lokayukta tenure: **5 years** (or 70) per current law; 8 years in 2017 {2017}
+
+@section 32.3 | Minorities
+- "Minority" undefined; Minority Commission not constitutional (both true, R not the explanation) {1991}
+- Special Officer for Linguistic Minorities: one for India (not each State), **Art 350B** by the **7th** Amendment (neither) {2024}
+
+@section 32.4 | Human Rights
+- Human rights stress the **dignity of man** {2014}
+- Second-generation rights: **right to work** and education {2010}
+- NHRC head need not be ex-CJI; term 3 years or 70 since 2019 (both false now) {2015}
+- NHRC Chairperson: former **CJI or SC judge** (2019 law) {2007}
+- Not constitutional: **NHRC** {2007}; status different from the others: **NHRC** (statutory) {2004}
+
+@table
+Body | Basis
+UPSC, State PSCs, FC, EC, CAG | Constitutional
+NCSC (338), NCST (338A), NCBC (338B) | Constitutional
+Linguistic minorities officer | Constitutional (350B)
+NHRC, NCM, NCW, CVC, Lokpal | Statutory
+CBI, NITI Aayog | Executive
+@end
+
+@section 32.5 | Vigilance and Years
+- CVC in no Article (**statutory**, 2003 Act) {2020}
+- Wrong pairs: Prevention of Corruption Act (**1988**), Enforcement Directorate (**1956**) {2017}
+- Politician-criminal nexus: **Vohra Committee** (1993) {1995}
+- Wrong: **NDC-1954** (it is **1952**) {2016}
+
+@section 32.6 | Review and Mandal
+- Constitution review commission: recommendatory, chaired by **M.N. Venkatachaliah** (1 and 3) {2002, 2003}
+- Chairman (2000): **M.N. Venkatachaliah** {2002}
+- Mandal set up by **Morarji Desai** {2008}; report **1980** {1991}
+
+@section 32.7 | UPSC
+- UPSC: **constitutional** body {2014}
+- First PSC provided by the **GoI Act, 1919** (set up 1926) {2008}
+- UPSC functions come from the **Constitution, laws, rules and conventions** (all) {2024}
+- Annual report to the **President** {2010, 2013}
+- P.C. Hota Committee on civil services: **2004** {2021}
+
+@section 32.8 | PSCs (Arts 315-323)
+- State PSC member removed by the **President after SC inquiry** {2021}
+- Parliament plays **no** role in removing the **UPSC Chairman** (only 3) {2020}
+- Joint PSC: by **Parliament** on States' request {2022}
+- UPSC can serve a State on the **President's** approval {2014}
+- UPPSC functions extended by the **UP Legislature** (Art 321) {2021}
+- UPPSC expenses charged on the **State Consolidated Fund** {2010}
+
+@flow Who appoints, who removes (PSCs)
+UPSC member | President appoints and removes
+State PSC member | Governor appoints; President removes
+Ground: misbehaviour | After Supreme Court inquiry
+Terms | 6 years; UPSC to 65, State PSC to 62
+@end
+
+@trap
+- RS Chairman is **not** on the Lokpal panel.
+- Linguistic minorities officer: **Art 350B** (7th Amendment), one for India.
+- Mandal: **set up** by Morarji Desai, **implemented** by V.P. Singh (1990).
+- State PSC member: Governor appoints, **President removes**.
+@end
+
+@up **UPPSC** (Prayagraj, 1937) is a State PSC: its members are appointed by the UP Governor, removed by the President; its expenses are charged on UP's Consolidated Fund. The **UP Lokayukta** (1975 Act) reports to the Governor.
+
+@last
+- Lokpal: ARC (**Morarji Desai**); first Bill **1968**; Act 2013
+- Lokpal panel: PM, CJI, Speaker, LoP, jurist
+- First Lokayukta **Maharashtra** (1971); UP Lokayukta → Governor
+- NHRC, CVC = **statutory**; UPSC = constitutional
+- NHRC head: ex-CJI or SC judge (2019)
+- **Vohra** = crime-politics nexus
+- Mandal: Morarji set up; report **1980**
+- **Venkatachaliah** = Constitution review (2000)
+- First PSC: **1919 Act**, set up 1926
+- State PSC: President removes after SC inquiry
+@end

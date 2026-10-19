@@ -1,0 +1,95 @@
+@chapter 25 | The Governor
+@meta Built from 26 UPPSC questions (1992–2024). Focus: appointment and pleasure tenure, qualifications, oath, discretion, Arts 200 and 213, immunity, first woman Governor.
+
+@hot
+- Governor holds office at the **pleasure of the President**; no impeachment {1992, 1997, 2004, 2004, 2004, 2009, 2010}
+- Appointed by the **President** (Art 155) {2012, 2015}
+- Oath given by the **Chief Justice of the High Court** {2013, 2014}
+- Ordinance: **Art 213**; reserve Bill for President: **Art 200** {2004, 2016, 2017}
+- One person can be Governor of **two or more States** (7th Amendment) {1996, 2016, 2024}
+@end
+
+@section 25.1 | Appointed, Not Elected
+- Elected Governor dropped: **another election, rivalry with the CM, parliamentary system** (1, 3, 4) {2002, 2003}
+
+@section 25.2 | Article Map
+- **Art 155-removal** is wrong (155 = appointment; tenure is Art 156) {2024}
+- Same person can be Governor of two States (A false); Art 153 says a Governor for each State (R true) {2024}
+- Two-State Governor's pay shared as the **President** decides {2016}
+
+@section 25.3 | Appointment and Qualifications
+- Appointed by the **President** {2012}; under **Art 155** {2015}
+- True: **35 years**; can govern two or more States (2 and 4); no "by birth", no LS-eligibility test {1996}
+- Oath by the **High Court Chief Justice** {2013, 2014}
+
+@section 25.4 | Term and Removal
+- Appointed by President, at his pleasure, head of State executive, normally 5 years (all four) {2004, 2010}
+- Not true: removed by the **State Legislature** {1997, 2004}
+- Responsible to the **President** {1992}
+- In office as long as the President wishes: **Governor** {2004}
+- No impeachment provision: **Governor** {2009}
+- Rajasthan Governor dismissed (1981): **Raghukul Tilak** {2003}
+
+@section 25.5 | Discretion (Art 163)
+- Acts on his own: **testing majority, dismissing CM, reserving a Bill, returning a Bill** (not HC consultation) {2006}
+
+@flow Governor and a State Bill (Art 200)
+Assent | Bill becomes law
+Withhold assent | Bill falls
+Return (not Money Bill) | Assembly may re-pass; then must assent
+Reserve for President | Art 201; mandatory if it endangers the HC
+@end
+
+@section 25.6 | Bills and Ordinances
+- Reserve a Bill for the President: **Art 200** {2004}
+- Ordinance: **Art 213** {2016, 2017}; approved by the **State Legislature** {2008}
+
+@section 25.7 | Legislative and Judicial Powers
+- True: does **not appoint HC judges**; **nominates MLCs** (1 and 3); he is part of the Legislature and has pardon powers {2017}
+- Not true: Governor can **pardon a death sentence** (only commute/suspend) {2005}
+
+@section 25.8 | Immunity (Art 361)
+- "Cannot be sued for any act" false; President impeached, Governors dismissed (A false, R true) {2004}
+- Not true: courts can inquire into **ministers' advice** to the Governor (barred by Art 163(3)) {2016}
+
+@section 25.9 | J&K and UTs
+- Sadar-e-Riyasat renamed Governor (1965): **6th Amendment of the J&K Constitution** {2007}
+- UTs administered by the **President** {1995}
+
+@section 25.10 | Firsts
+- First woman Governor: **Sarojini Naidu** (UP, 1947) {2013}
+- 13 February (her birthday) is **National Women's Day** {2002}
+
+@table
+Governor | Article
+Office | 153
+Executive power | 154
+Appointment / tenure | 155 / 156
+Qualifications / oath | 157 / 159
+Council of Ministers aid | 163
+Pardon | 161
+Assent / reservation | 200 / 201
+Ordinance | 213
+Immunity | 361
+@end
+
+@trap
+- President's oath from **CJI**; Governor's from the **HC Chief Justice**.
+- Governor can't pardon a **death** sentence; President can (Art 72).
+- **Art 200** = Governor reserves; **Art 201** = President decides.
+@end
+
+@up **Sarojini Naidu**, India's first woman Governor, governed the **United Provinces** (1947-49) and died in office at Lucknow. The UP Governor is chancellor of State universities and nominates **10** UP MLCs.
+
+@last
+- Appointed by **President** (155); tenure at pleasure (156)
+- Qualifications: citizen, **35** years (157)
+- Oath by **HC Chief Justice** (159)
+- No impeachment; responsible to President
+- One Governor for two or more States (7th)
+- Pardon **161** (not death); ordinance **213**
+- Reserve Bill **200**; President decides **201**
+- Immunity **361**; advice not examined (163(3))
+- **Raghukul Tilak** dismissed (Rajasthan)
+- First woman Governor **Sarojini Naidu** (UP)
+@end

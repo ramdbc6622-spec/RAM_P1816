@@ -1,0 +1,71 @@
+@chapter 33 | Temporary Special Provisions
+@meta Built from 9 UPPSC questions (1997–2020). Focus: Art 370, Arts 371-371J state map, J&K constitutional history.
+
+@hot
+- **Art 371**: special provisions for **Maharashtra and Gujarat**; series 371A-371J for other States {1997, 2011}
+- **Art 370**: **Jammu and Kashmir**; made inoperative in August 2019 {2010, 2014, 2016}
+- **371B** = Assam; **371J** = Hyderabad-Karnataka region {2010, 2020}
+@end
+
+@section 33.1 | Article Map
+- Special provisions for States: **Art 371** {1997}
+- **Art 370**: **Jammu and Kashmir** {2010}
+
+@section 33.2 | Arts 371-371J
+- Art 371: **Maharashtra and Gujarat** {2011}
+- Art 371-B: **Assam** {2010}
+- Art 371-J: **Hyderabad-Karnataka** region {2020}
+
+@table
+Article | State
+371 | Maharashtra, Gujarat
+371A | Nagaland
+371B | Assam
+371C | Manipur
+371D, 371E | Andhra Pradesh (Telangana)
+371F | Sikkim
+371G | Mizoram
+371H | Arunachal Pradesh
+371I | Goa
+371J | Karnataka (Hyderabad-Karnataka)
+@end
+
+@section 33.3 | Art 370 and Its End
+- State with its own Constitution in 2014: **J&K** (none now) (*) {2014}
+- Articles applying to J&K on their own: **Arts 1 and 370** (then) (*) {2016}
+
+@flow J&K timeline
+26 Oct 1947 | Instrument of Accession (Hari Singh)
+26 Jan 1950 | Constitution of India in force
+1954 | Accession ratified; Presidential Order; Art 35A
+26 Jan 1957 | J&K Constitution in force
+1965 | Sadr-e-Riyasat renamed Governor
+5 Aug 2019 | Art 370 inoperative (C.O. 272, 273)
+31 Oct 2019 | UTs of J&K and Ladakh
+Dec 2023 | SC upholds abrogation
+@end
+
+@section 33.4 | J&K History
+- Order: **Instrument of Accession, Constitution of India, ratification by J&K Assembly, J&K Constitution** {2019}
+- Sadr-e-Riyasat became Governor in **1965** (none of options) (*) {1997}
+
+@trap
+- **371A** = Nagaland; **371B** = Assam (do not swap).
+- Art 370 is **inoperative**, not deleted; Art 35A was never in the main text.
+- Sadr-e-Riyasat change = **1965**, not 1952.
+@end
+
+@up No UP item. Related: Article 371 provisions never covered UP; but **Uttarakhand** (carved from UP) has no 371 clause either; its hill areas are protected by State law.
+
+@last
+- Art **370** = J&K; inoperative Aug **2019**
+- Art **371** = Maharashtra, Gujarat
+- **371A** Nagaland; **371B** Assam; **371C** Manipur
+- **371D** Andhra/Telangana; **371F** Sikkim
+- **371G** Mizoram; **371H** Arunachal; **371I** Goa
+- **371J** Hyderabad-Karnataka
+- Accession **26 Oct 1947**
+- J&K Constitution **1957**
+- Sadr-e-Riyasat to Governor **1965**
+- UTs from **31 Oct 2019**
+@end

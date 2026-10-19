@@ -1,0 +1,78 @@
+@chapter 27 | The High Court and Subordinate Courts
+@meta Built from 13 UPPSC questions (1997–2016). Focus: HC judges' appointment and pension, number of High Courts, March 2013 courts, writs, Art 226 vs Art 32.
+
+@hot
+- **Acting and additional judges** exist only in **High Courts** (Art 224) {2016}
+- Retired HC judge's **pension**: **Consolidated Fund of India** (salary from the State fund) {2013}
+- New High Courts in **March 2013**: **Meghalaya, Manipur, Tripura** {2005, 2013}
+- **Certiorari** = transfer/quash a lower court's record; **Prohibition** = case pending {2008, 2008, 2010}
+- **Art 226** is wider than **Art 32** (covers legal rights too) {1997, 2004}
+@end
+
+@section 27.1 | Appointment and Tenure
+- Not correct: the **Governor** appoints HC judges (the **President** does) {2016}
+- Acting judges: **High Court** {2016}
+
+@section 27.2 | Salary and Pension
+- HC judge's pension: **Consolidated Fund of India** {2013}
+
+@section 27.3 | Number and Benches
+- High Courts: 21 in 2008; **25** now (*) {2008}
+- No own HC in 2005: **Manipur** (got one in 2013) (*) {2005}
+- Established March 2013: **Meghalaya and Tripura** (and Manipur) {2013}
+- Most benches: **Bombay** now; Gauhati had six in 2007 {2007}
+
+@table
+High Court | Covers
+Gauhati | Assam, Nagaland, Mizoram, Arunachal
+Bombay | Maharashtra, Goa, Dadra-Nagar Haveli and Daman-Diu
+Calcutta | West Bengal, Andaman and Nicobar
+Kerala | Kerala, Lakshadweep
+Madras | Tamil Nadu, Puducherry
+Punjab and Haryana | Punjab, Haryana, Chandigarh
+J&K and Ladakh | Both UTs
+@end
+
+@section 27.4 | Jurisdiction
+- Not a main HC jurisdiction: **advisory** {2007}
+
+@section 27.5 | Writs
+- Certiorari: superior court calls up the **record** from an inferior court {2008}
+- Examines subordinate courts' work: **certiorari** {2008}
+- While a case is **pending**: **prohibition** {2010}
+
+@flow Which writ, when
+Unlawful detention | Habeas corpus
+Duty not done | Mandamus
+Case pending below | Prohibition
+Order already passed | Certiorari
+Office held illegally | Quo warranto
+@end
+
+@section 27.6 | Art 226 vs Art 32
+- HC writ power covers FRs, legal rights and more (all) {1997}
+- HCs better placed: SC's Art 32 covers only FRs (R explains A) {2004}
+
+@section 27.7 | Subordinate Courts
+- District judges appointed by the **Governor** in consultation with the HC (Art 233); HC controls them (Art 235)
+
+@trap
+- **Governor** gives the HC judge's **oath** (Art 219), but the **President** appoints.
+- Salary: **State** fund; pension: **Union** fund.
+- Gauhati HC still serves **four** States.
+@end
+
+@up The **Allahabad High Court** (est. Agra 1866, Allahabad 1869) is India's largest HC by sanctioned strength (160), with a **Lucknow Bench** (1948). UP district judges are appointed by the **UP Governor** with the HC.
+
+@last
+- President appoints HC judges; Governor gives oath
+- Acting and additional judges = **HC only** (Art 224)
+- Retirement **62**; resign to President
+- Pension from **Consolidated Fund of India**
+- 25 High Courts; **Manipur, Meghalaya, Tripura** in 2013
+- Gauhati HC = 4 States
+- Certiorari = record; Prohibition = pending
+- **Art 226** wider than Art 32
+- No advisory jurisdiction for HCs
+- District judges: **Governor** + HC (233)
+@end

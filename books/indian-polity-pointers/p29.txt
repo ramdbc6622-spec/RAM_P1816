@@ -1,0 +1,75 @@
+@chapter 29 | Emergency Provisions
+@meta Built from 16 UPPSC questions (1992–2024). Focus: three emergencies, Art 352 grounds and approval, Arts 358-359, President's Rule, Art 360 never used.
+
+@hot
+- **Three** types of emergency: Arts **352, 356, 360** {2007, 2009, 2010, 2010, 2014}
+- Art 352 grounds: **war, external aggression, armed rebellion** (not internal disturbance since 44th) {2016, 2016, 2017}
+- Parliament approves a National Emergency within **one month** {2003, 2004, 2006}
+- **Art 360** (Financial Emergency) **never used** {2006, 2015, 2016}
+- **Arts 20 and 21** cannot be suspended (44th Amendment) {2009, 2015}
+@end
+
+@section 29.1 | Three Types
+- Types: **three** {2009, 2014}
+- Duty to protect States from aggression and disturbance: **Art 355** {2001}
+- Grounds for an emergency: **external aggression, breakdown in a State, financial crisis** (1, 3, 4) {2007, 2010, 2010}
+
+@section 29.2 | National Emergency (Art 352)
+- Art 352 deals with emergency; it can come any time (both true, R not the explanation) {2024}
+- Grounds: **war, external aggression, armed rebellion** {2016, 2016, 2017}
+- Parliament's approval: **one month** {2003, 2004, 2006}
+
+@flow National Emergency after the 44th Amendment
+Cabinet's written advice | President proclaims
+Within 1 month | Both Houses approve by special majority
+Every 6 months | Fresh approval needed
+Revocation | President, or LS resolution (simple majority)
+@end
+
+@section 29.3 | FRs in Emergency
+- Suspend enforcement of FRs (except 20, 21): **Art 359** {2008}
+- What the President can suspend: disputed (*); Art 21 can never be {2015}
+- Cannot be suspended: **Arts 20 and 21** {2009, 2015}
+
+@section 29.4 | Lok Sabha Term
+- Can be extended **one year at a time** during Emergency (6 months after it ends) {2010}
+
+@section 29.5 | President's Rule (Art 356)
+- Maximum: **3 years** {1992}
+- First use (among options): **PEPSU** (1953); Punjab 1951 was the very first {2010}
+- Governor's Rule (old J&K Section 92): historical only (*) {2015}
+
+@table
+Feature | Art 352 | Art 356 | Art 360
+Approval | 1 month | 2 months | 2 months
+Majority | Special | Simple | Simple
+Maximum | Indefinite (6-monthly) | 3 years | Indefinite
+Used | 1962, 1971, 1975 | 100+ times | Never
+@end
+
+@section 29.6 | Financial Emergency (Art 360)
+- Never used: **Art 360** {2015, 2016}; declared **never** {2006}
+
+@section 29.7 | Constituent Assembly
+- "Emergency power is a fraud on the Constitution": **K.M. Nambiar** (per key) {2004}
+
+@trap
+- "Internal disturbance" is in **Art 355**, not a ground under Art 352.
+- **Art 358** suspends Art 19 only in **external** emergency; **Art 359** suspends enforcement.
+- Art 352 approval **1 month**; Arts 356 and 360 **2 months**.
+@end
+
+@up UP has had President's Rule **10 times** (first in 1968; last in 2002). The 1975 Emergency followed the **Allahabad High Court** verdict in *Indira Gandhi v. Raj Narain*.
+
+@last
+- Three emergencies: **352, 356, 360**
+- Art **355**: Union protects States
+- Grounds: war, external aggression, **armed rebellion**
+- Approval **1 month**; special majority
+- Art **358** suspends 19; Art **359** enforcement
+- **Arts 20, 21** never suspended
+- LS term extended **1 year** at a time
+- President's Rule max **3 years**; first **Punjab 1951** (PEPSU 1953)
+- Art **360** never used
+- Emergencies: 1962, 1971, 1975
+@end
