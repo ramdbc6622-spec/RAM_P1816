@@ -1,0 +1,131 @@
+@chapter 13 | Scientists, Inventions and Physics Miscellany
+@meta Built from 66 UPPSC questions (1990–2024). Focus: inventor-invention matching, Indian scientists, lasers, nanotechnology and MRI, magnets and cells, labs and polar stations.
+
+@hot
+- **National Science Day (28 February)** marks the **Raman effect** (1928) {1990, 1993, 2002, 2003, ?}
+- **Discoverer matching**: **radium-Curie, penicillin-Fleming, X-ray-Roentgen, dynamite-Nobel, evolution-Darwin, revolver-Colt** {1992, 2005, 2009, 2010, 2011}
+- Antarctic stations: **Dakshin Gangotri** (first), **Bharati** (latest) {2006, 2009, 2010}
+- **Aluminium** is not attracted by an ordinary magnet; copper is non-magnetic {1990, 2002, ?}
+- **J.C. Bose** worked in biology and physics; he won **no Nobel** {2006, 2008}
+@end
+
+@section 13.1 | Inventions and Discoveries
+- Machine gun: **James Puckle** {2014}
+- Telescope (astronomical use): **Galileo** {1994}
+- Biggest "telescope": **IceCube** (a neutrino detector at the South Pole) {2010}
+- X-ray machine: **Wilhelm Roentgen** {2005}
+- Gas engine: **Daimler** {1995}
+- Wrong pair: **J. Perkins-penicillin** (Fleming found penicillin) {2011}
+- **Radium-Curie, penicillin-Fleming, X-ray-Roentgen, measles vaccine** (smallpox: Jenner) {1992}
+- Radioactivity: **Becquerel** {2003}
+- Order: **diode, transistor, IC, SMD** {2016}
+- **Nobel-dynamite, Fleming-penicillin, Darwin-evolution, Curie-radium** {2010}
+- **Revolver-Colt, dynamite-Nobel, law of cooling-Newton, law of pressure-Pascal** {2009}
+- Laws of planetary motion: **Kepler** {2010}
+- Photoelectric effect discovered by **Hertz** {2003}
+- National Science Day: **Raman effect** {1990, 1993, 2002, 2003}
+
+@table
+Discovery | Scientist
+Radioactivity | Henri Becquerel
+Radium, polonium | Marie Curie
+X-rays | Wilhelm Roentgen
+Penicillin | Alexander Fleming
+Smallpox vaccine | Edward Jenner
+Dynamite | Alfred Nobel
+Planetary laws | Johannes Kepler
+Photoelectric effect | Hertz (found), Einstein (explained)
+@end
+
+@section 13.2 | Indian Scientists
+- Birth centenary in 1988: **C.V. Raman** {1991}
+- New theory of relativity (Hoyle-Narlikar): **J.V. Narlikar** {2016}
+- **Homi Bhabha Award**: **nuclear energy** {2012}
+- Biology and physics both: **J.C. Bose** {2008}
+- Designed Aryabhata: **U.R. Rao** {2017}
+- **Vinod Dham** (Padma Bhushan 2025): father of the **Pentium chip** {2023}
+- India's atom bomb: **Raja Ramanna** {2002, 2004}
+- Not a Nobel winner: **J.C. Bose** {2006}
+- **Thermal ionisation**: **M.N. Saha** {2014}
+- Einstein's Nobel: **photoelectric effect** {?}
+- National Science Day: **28 February** {?}
+
+@section 13.3 | Modern Physics and Devices
+- "God particle": **Higgs boson** {2013}
+- Laser gives **stimulated** radiation {2012}
+- Lasers treat cancer, heart, eye and kidney problems (*) {2002}
+- First ruby laser gave **red** pulses (only 2) {2023}
+- Miniaturisation: **nanotechnology** {2004}
+- **Nano plug**: a tiny **hearing aid** {2015}
+- Carbon nanotubes: **Sumio Iijima** {2008}
+- **Nano Hummingbird**: pocket US **spy drone** {2010}
+- Space-based solar power as a national goal: supply is nearly uninterrupted (A and R true, R explains A) {2010}
+- Most accurate clock (1 s in 300 million years): **strontium** atoms {2008}
+- Carbon microphone: **telephone** {2009}
+- **MRI**: **nuclear magnetic resonance** {2008}
+
+@section 13.4 | Magnetism, Cells and Everyday Devices
+- Not attracted by a magnet: **aluminium** (weakly paramagnetic) {2002, ?}
+- Non-magnetic element among options: **copper** {1990}
+- Tape-recorder tape: coated with **ferromagnetic powder** {1998}
+- Torch cell terminals: **zinc and carbon** {2010}
+- Automatic watches run on **hand movements** {2007}
+- Correct: liquid crystals in displays, modem on phone lines (1 and 2); NIO is in **Goa** {2009}
+- Liquid crystals: **all of the above** uses {1996}
+- **Soleckshaw**: a **solar rickshaw** {2008}
+- **Cytotron**: makes **artificial climate** {2016}
+- Water jet technology: **drilling mines** {1998, 2004}
+- Engine cooling: **radiator** {2014}
+
+@section 13.5 | Laboratories and Institutions
+- **National Physical Laboratory**: **New Delhi** {2009}
+- **National Chemical Laboratory**: **Pune** {2015}
+- Not a science body: **ICSSR** (social science) {2008}
+- Wrong pair: **Antarctic Study Centre-Bangalore** (NCPOR is in **Goa**) {2004}
+- Naturopathy and Yogic Science institute: **Bengaluru** {2002}
+- **Hi-Tec City-Hyderabad, Science City-Kolkata, rocket centre-Thumba, CDRI-Lucknow** {1999}
+- "Nuclear Reactor Time Bomb": **Takashi Hirose** {2011}
+
+@section 13.6 | Polar and Ocean Missions
+- First Antarctic station: **Dakshin Gangotri** {2006}
+- Latest Antarctic station: **Bharati** {2009, 2010}
+- First manned deep-ocean mission: **Samudrayaan** {2023}
+- Wrong: **isohaline-snowfall** (isohalines join equal salinity) {2001}
+- Correct: **pycnocline-sea water density** {2024}
+- Salinity gradient: **halocline** {?}
+
+@flow India's polar and ocean stations
+Dakshin Gangotri | 1983-84; first Antarctic base
+Maitri | 1989; Schirmacher Oasis
+Himadri | 2008; Arctic (Svalbard)
+Bharati | 2012; Larsemann Hills
+Samudrayaan | Matsya-6000; 6,000 m crewed dive (planned)
+@end
+
+@section 13.7 | Technology and Society
+- **Dry ice-solid CO2, gene therapy-blood diseases, cryonics-freezing bodies, cobalt-60-cancer** {1997, 2004}
+- iPhone 4S: 8 hours 3G talk time and **Siri** (2 and 3) {2009}
+- Mobiles and vehicles changed rural **mobility and connectivity** (1 and 2) {2010}
+- **GPS** = Global Positioning System {2015}
+
+@trap
+- Galileo improved the telescope; **Hertz found** and **Einstein explained** the photoelectric effect.
+- **Jenner** = smallpox vaccine; Fleming = penicillin; Becquerel = radioactivity.
+- **J.C. Bose** has no Nobel; Raman (1930) does.
+- NCPOR (polar research) and NIO are both in **Goa**.
+@end
+
+@up UP link: the **Central Drug Research Institute (CDRI)**, **NBRI**, **CIMAP** and **IITR** (toxicology) are CSIR labs in **Lucknow**; **Shanti Swarup Bhatnagar**, the first CSIR director-general, was born in Bhera (now Pakistan) but studied in Lahore, while **Birbal Sahni Institute of Palaeosciences** is also at Lucknow.
+
+@last
+- National Science Day **28 February** = Raman effect
+- Roentgen = X-ray; Becquerel = radioactivity; Curie = radium
+- Fleming = penicillin; Nobel = dynamite; Colt = revolver
+- Kepler = planetary laws; Hertz = photoelectric effect
+- J.C. Bose = biology + physics, no Nobel; M.N. Saha = thermal ionisation
+- Raja Ramanna = atom bomb; U.R. Rao = Aryabhata; Vinod Dham = Pentium
+- Higgs boson = God particle; MRI = NMR
+- Aluminium not attracted by magnets; torch cell = zinc-carbon
+- NPL = Delhi; NCL = Pune; CDRI = **Lucknow**
+- Dakshin Gangotri first, Bharati latest; Samudrayaan = deep ocean
+@end

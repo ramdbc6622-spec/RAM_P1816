@@ -1,0 +1,136 @@
+@chapter 11 | Space Technology
+@meta Built from 79 UPPSC questions (1990–2025). Focus: India's early satellites, ISRO centres, Chandrayaan, Mangalyaan and Aditya-L1, astronauts, geostationary satellites, rockets and cryogenic engines.
+
+@hot
+- Rockets and jet engines work on **conservation of momentum** {2007, 2009, 2013, 2014, 2021, 2023}
+- **Cryogenic engine**: **liquid hydrogen** fuel with **liquid oxygen**; used in rockets {2004, 2006, 2006, 2010, ?}
+- Satellites run on **solar cells** {2000, 2006, 2014}
+- **Black box** of an aircraft is **orange** {1996, 2004, 2009}
+- **ISRO places**: **Thumba-rocket launching (Kerala), Sriharikota-satellite launches (near Pulicat lake), SAC-Ahmedabad, Hassan-Master Control** {1998, 2003, 2004, 2010, 2016}
+@end
+
+@section 11.1 | India's Early Satellites and Programmes
+- First Indian satellite: **Aryabhata** (1975) {2006, 2009}
+- Order: **SITE, STEP, APPLE, IGMDP** {1998}
+- India's telecom is satellite-linked; not for "star war" (A true, R false) {1990}
+- **IRS-1A** launched from **Baikonur** {1994}
+- **Kalpana-1** = renamed **METSAT** (September 2002) {2004, ?}
+- Not a satellite: **SLV-3** (a launch vehicle) {2004, 2010}
+- GSLV-D2 is a launch vehicle, not a satellite (*) {2001}
+- **EDUSAT**: launched **20 September 2004** {2004}
+- PSLV-C12 (2009): RISAT-2 for border watch and **ANUSAT** by Anna University (all four correct) {2008}
+- Launched 22 December 2005: **INSAT-4A** {2004}
+- **INSAT-3C** and **GSAT-8** launched from **Kourou** {2002, 2010}
+- INSAT-4C (failed) weighed **2,168 kg** {2005}
+- Launched 29 September 2012: **GSAT-10** {2012}
+- Launch vehicle order: **SLV, ASLV, PSLV, GSLV** {2004}
+- **BHUVAN**: ISRO's **3-D geoportal** {2008}
+
+@flow Indian launch vehicles
+SLV-3 | 1980; Rohini; first Indian launch
+ASLV | 1990s; augmented SLV
+PSLV | 1994 onwards; workhorse; 104 satellites in 2017
+GSLV / LVM3 | Cryogenic upper stage; Chandrayaan-2, 3
+SSLV | Small satellites, 2022-23
+@end
+
+@section 11.2 | ISRO and Its Centres
+- Master Control Facility (Hassan): **Karnataka** {2010}
+- **IIRS**: **Dehradun** {2006}
+- **ISRO-Bengaluru, IUCAA-Pune, IUAC-New Delhi, VSSC-Thiruvananthapuram** {2010}
+- Wrong: **ISRO Satellite Centre-Sriharikota** (it is Bengaluru) {2010}
+- **Space Applications Centre**: **Ahmedabad** {1998}
+- **Thumba**: **Kerala** {2004}
+- **Sriharikota** lies near **Pulicat lake** {2003}
+- **Kakrapar-nuclear plant, Pokhran-bomb test, Thumba-rocket launching, Sriharikota-satellite launching** {2016}
+- VSSC works on **propellants and launch vehicles** (1 and 4) {2004}
+- **PraVaHa** CFD software: a VSSC feat for aerodynamic design (both) {2024}
+- Tenth ISRO Chairman (January 2022): **S. Somanath** {2021}
+
+@table
+Centre | Place | Work
+ISRO HQ, URSC | Bengaluru | Satellites
+VSSC | Thiruvananthapuram | Launch vehicles
+SDSC-SHAR | Sriharikota (AP) | Launch pad
+SAC | Ahmedabad | Payloads, applications
+MCF | Hassan, Bhopal | Satellite control
+IIRS | Dehradun | Remote sensing
+@end
+
+@section 11.3 | Moon, Mars and Sun Missions
+- **Chandrayaan-3: 14 July 2023; Aditya-L1: 2 September 2023; INSAT-3DS: 17 February 2024; RLV-LEX-01: 2 April 2023** {2025}
+- Chandrayaan-2 project director: **M. Annadurai** (per key) {2010}
+- Chandrayaan-2 launcher: **GSLV Mk III-M1** {?}
+- Chandrayaan-3 soft landing made India the **fourth** country to land on the Moon {2023}
+- Chandrayaan-3 payload for soil elements: **APXS** {2023}
+- LUPEX: India-Japan Moon mission; JAXA builds the **rover**, ISRO the **lander** (only 1) {2024}
+- Luna-25 aimed at Moon access; Russia-China lead the ILRS (A and R true, R explains A) {2023}
+- **Mangalyaan**: launched **November 2013** (both) {2023}
+- Evidence of life on Mars: **water, gypsum, methane** {2009}
+- Planet that may suit life: **Mars** {2018}
+- Methane in the atmosphere of **Mars** (and Jupiter) {2010, 2016}
+- Saturn's atmosphere has much **methane** (per key) {2022}
+- Water on the Moon confirmed by NASA's **SOFIA** {2016}
+- Underground lake (2018): **Mars** {2018}
+- **DAVINCI+** and **VERITAS**: **Venus** {2021}
+- **NISAR**: **ISRO and NASA** {2023}
+- **Kepler** telescope: **Earth-like planets** {2008}
+
+@section 11.4 | Astronauts and Human Spaceflight
+- First woman in space: **Valentina Tereshkova** {2001, 2004}
+- "I am a citizen of the Milky Way": **Kalpana Chawla** {2010}
+- Longest single NASA flight: none of the options (Frank Rubio, 371 days) {2022}
+- Wilmore and Williams returned (March 2025) on SpaceX **Dragon** {2023}
+- **Tim Peake**: astronaut (UK) {2015}
+- NASA's last space shuttle: **Atlantis** {2009}
+- Not correct of Shenzhou-7: **four** astronauts (it had three) {2008}
+- **Micius**: China's **quantum satellite** communication system {2016}
+- **Gravity Tractor**: craft to deflect **asteroids** {2009}
+- Apollo 8 (21 December 1968): no option correct (*) {1999}
+
+@section 11.5 | Satellites, Black Holes and Comets
+- **Geostationary**: moves with Earth's rotation and stays fixed over one place; period **24 hours** {2005, ?}
+- Satellites tracked by the **Doppler effect** {2017}
+- Radio blackout during re-entry: heat ionises the air (A and R true, R explains A) {2002, 2003}
+- Communication satellites lie in the **exosphere** {2004}
+- Satellite power: **solar cells** {2000, 2006, 2014}
+- No candle flame in space: flames need **gravity** (convection) (A and R true, R explains A) {2009}
+- Black hole idea: **S. Chandrasekhar** {2011}
+- Black hole: a **collapsed star** {2019}
+- Comet's tail points **away from the Sun** {2011}
+
+@section 11.6 | Rockets, Jets and Cryogenics
+- Jet engine uses air's oxygen; a rocket carries **liquid** oxidiser, not gas (only 1) {2007, 2009}
+- Jet engine: **conservation of linear momentum** {2013}
+- Rocket: **conservation of momentum** {2014, 2021, 2023}
+- Jets fly in the lower stratosphere: **no clouds, no vertical winds** (both) {2013}
+- Wing is convex above; faster air on top gives **lower** pressure there (A true, R false) {2013}
+- **Black box**: **orange** {1996, 2004, 2009}
+- **Stratellite**: high-altitude **airship** in the stratosphere {2016}
+- Liquid oxygen and hydrogen technology: **cryogenics** {2010}
+- Cryogenic engine: **rocket** technology; LOX oxidiser, LH2 fuel {2004, 2006, ?}
+- Rocket propellants: all options are used (*) {2010}
+- Discovery's tank (2006): **liquid hydrogen and oxygen** {2006}
+- **Curiosity-Mars rover, Messenger-Mercury probe, Rustom-1-DRDO UAV, Aakash-2-tablet** {2013}
+
+@trap
+- **SLV-3, PSLV, GSLV** are rockets, not satellites.
+- ISRO Satellite Centre = **Bengaluru**; Sriharikota = launches; Thumba = sounding rockets.
+- Black box is **orange**, not black.
+- Chandrayaan-3 made India the **4th** to land and **1st** near the lunar south pole.
+@end
+
+@up UP link: **Shubhanshu Shukla** of **Lucknow** flew on **Axiom-4** (June-July 2025), the first Indian on the **International Space Station**; ISRO's space technology incubation centre and Gaganyaan training links include **IIT Kanpur** (soft detail).
+
+@last
+- Aryabhata = first satellite (1975); Kalpana-1 = METSAT
+- SLV, ASLV, PSLV, GSLV in order
+- Thumba = Kerala; Sriharikota = Pulicat lake; SAC = Ahmedabad
+- Chandrayaan-3: 14 July 2023; India **4th** on the Moon; APXS
+- Aditya-L1: 2 September 2023; NISAR = ISRO + NASA
+- Tereshkova = first woman in space; Atlantis = last shuttle
+- Geostationary period **24 h**; satellites run on solar cells
+- Comet tail away from the Sun; Chandrasekhar = black holes
+- Rocket = conservation of momentum; cryogenic = LH2 + LOX
+- Black box = **orange**
+@end

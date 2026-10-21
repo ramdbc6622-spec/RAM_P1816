@@ -1,0 +1,110 @@
+@chapter 12 | Defence Technology
+@meta Built from 49 UPPSC questions (1995–2025). Focus: IGMDP missiles and their types, Agni ranges, BrahMos, Israeli systems, Tejas and drones, ships and submarines, joint exercises.
+
+@hot
+- **Missile matching**: **Prithvi-surface to surface, Trishul-surface to air, Agni-intermediate range, Nag-anti-tank, Pinaka-rocket launcher, Nishant-UAV** {2001, 2002, 2007, 2012, 2013, ?}
+- **BrahMos** = **India and Russia** (Brahmaputra + Moskva) {2003, 2004, 2016, 2018, ?}
+- **Israel** partner: **Phalcon radar, Barak-8, Iron Dome**, naval pilotless helicopter {2004, 2008, 2016, 2025}
+- **Astra** = **air-to-air** missile {2004, 2010, ?}
+- **Agni-I** about **700 km**; **Agni-II** above 2,000 km {2003, 2006, 2008, 2011}
+@end
+
+@section 12.1 | The Integrated Guided Missile Programme
+- **Prithvi-surface to surface, Trishul-surface to air, Pinaka-multi-barrel rocket launcher, Nishant-remote battlefield vehicle** {2002}
+- Correct pair: **Nag-anti-tank missile** {2012, 2013}
+- Surface-to-surface: **Prithvi** {?}
+- **Trishul-short-range SAM, Prithvi-surface to surface, Agni-intermediate range, Nag-anti-tank** {2001, 2007}
+- Short-range missile (key): **Nag** {1996}
+- Not correct of Astra: kills planes up to **90 km** (per key) {2010}
+- Air-to-air missile tested in Balasore (May 2003): **Astra** {2004, ?}
+- **Agni-I** range: **700-2,000 km** band; about **700 km** (March 2010) {2003, 2008}
+- **Dhanush** range: **350 km** {2008}
+- Long-range missile above 2,000 km: **Agni-II** (an IRBM, not a true ICBM) {2006, 2011}
+- Agni launch statements (2002): no clean answer (*) {2002}
+- Agni-II launched from **Chandipur** (per key) {2004}
+- Not correct of Agni-5: "**not exclusively indigenous**" (it is indigenous) {2015}
+- **Nirbhay** (7 November 2017): nuclear-capable, **1,000 km**, land-attack cruise missile, counters Babur (1, 2, 3); it is **subsonic** {2017}
+- Tested 27 January 1996 at Chandipur: **Prithvi-II** {1995, 2006}
+- Not correct of **Shaurya**: range **900 km** (it is about 700 km); a surface-to-surface missile {2011, ?}
+
+@table
+Missile | Type | Note
+Prithvi | Surface to surface | Short range; first IGMDP missile
+Agni series | Ballistic | Agni-V about 5,000 km; Agni-P new generation
+Akash | Surface to air | Medium range
+Trishul | Surface to air | Short range (closed)
+Nag | Anti-tank | Fire and forget
+Astra | Air to air | Beyond visual range
+BrahMos | Supersonic cruise | India-Russia
+Nirbhay | Subsonic cruise | 1,000 km
+@end
+
+@section 12.2 | BrahMos
+- Developed by **India and Russia** {2003, 2004, 2018, ?}
+- Test of 18 October 2020: **BrahMos naval version** {2016}
+- Not correct of BrahMos: options (c) and (d) per key; base range was **290 km** {2008, 2009}
+- Tested March 2009 at **Pokhran** {2007}
+- Delivered to the **Philippines** (April 2024); its range is **290 km**, not 490 (A true, R false) {2024}
+
+@section 12.3 | Air Defence and Foreign Partners
+- **Iron Dome**: **Israel** (only 3) {2025}
+- **RudraM-II**: an **air-to-surface** missile tested off Odisha, not Rajasthan (neither) {2024}
+- **Phalcon radar**: from **Israel** {2004}
+- **Barak-8**: with **Israel** {2016}
+- Navy's pilotless helicopter: with **Israel** {2008}
+
+@section 12.4 | Aircraft and Drones
+- **Hansa-2**: a **trainer aircraft** {1996}
+- **Tejas**: indigenous **light combat aircraft** {2004, ?}
+- **INDRA**: a **radar** {2003, 2004}
+- **FWD-200B**: India's first indigenous **bomber UAV**; 100 kg payload (both) {2024}
+- **NETRA**: a mini **UAV** that flies up to 300 m {2009}
+- Not true of F-18 Super Hornet: used by **eight** air forces {2002}
+- Not an aircraft: **Sarath (BMP-II)**, an infantry combat vehicle {2009}
+
+@section 12.5 | Ships and Submarines
+- **Arihant-nuclear submarine, AWACS-Israeli Phalcon, Atlas Centaur-US cryogenic rocket, Nag-anti-tank** {2010}
+- **Admiral Gorshkov**: aircraft carrier (now **INS Vikramaditya**) {2012}
+- Scorpene submarine commissioned January 2023: **INS Vagir** {2023}
+- **Sarthak** (2020): Coast Guard **offshore patrol vessel** {2020}
+- Coast Guard OPV (March 2010): **Vishwast** {2008}
+- **INS Shakti**: a fleet tanker built in Italy, so no option fits (*) {2010}
+- Incorrect: a virus **cannot** reduce pollution {2004}
+
+@section 12.6 | Exercises and Operations
+- **SLINEX II**: India-**Sri Lanka** naval exercise {2011}
+- **Operation Pawan**: **IPKF** in Jaffna {1998}
+- **KHANJAR-XII** (March 2025): India-**Kyrgyzstan** {2025}
+- 2024 dates: **Dustlik April 15-28, Shakti May 13-26, Tiger Triumph March 18-25, MILAN February 19-27** {2024}
+
+@table
+Exercise | With
+SLINEX | Sri Lanka
+Khanjar | Kyrgyzstan
+Dustlik | Uzbekistan
+Shakti | France
+Tiger Triumph | USA (tri-service)
+Malabar | USA, Japan, Australia
+@end
+
+@trap
+- **Trishul** = surface to air; **Prithvi** = surface to surface; **Nag** = anti-tank; **Astra** = air to air.
+- BrahMos = **India-Russia**; Phalcon, Barak, Iron Dome = **Israel**.
+- Nirbhay is **subsonic**; BrahMos is **supersonic**.
+- INDRA = radar; Tejas = LCA; Sarath = infantry vehicle, not aircraft.
+@end
+
+@up UP link: the **UP Defence Industrial Corridor** has nodes at Lucknow, Kanpur, Agra, Aligarh, Jhansi and Chitrakoot; the **BrahMos integration and testing facility** at **Lucknow** opened in May 2025, and HAL Lucknow and Kanpur make aircraft parts.
+
+@last
+- Prithvi = SSM; Trishul = SAM; Nag = anti-tank; Astra = AAM
+- Agni-I 700 km; Agni-II above 2,000 km; Dhanush 350 km
+- Shaurya = surface to surface, about 700 km
+- Nirbhay = subsonic cruise, 1,000 km
+- BrahMos = India + Russia; to Philippines (2024)
+- Israel: Phalcon, Barak-8, Iron Dome
+- Tejas = LCA; Hansa = trainer; INDRA = radar; NETRA = UAV
+- Arihant = nuclear submarine; Gorshkov = Vikramaditya
+- Vagir = Scorpene (2023)
+- Khanjar = Kyrgyzstan; SLINEX = Sri Lanka; Pawan = IPKF
+@end

@@ -1,0 +1,97 @@
+@chapter 1 | Units and Measurement
+@unit UNIT I · PHYSICS
+@meta Built from 27 UPPSC questions (1990–2023). Focus: SI units and unit-quantity matching, light year and parsec, small lengths, odd units such as barrel, cusec and Dobson.
+
+@hot
+- **Unit-quantity matching**: **joule-work, newton-force, watt-power, pascal-pressure, newton second-impulse** {1990, 2001, 2002, 2005, 2006, 2013}
+- **Light year** and **parsec** are units of **distance**, not time {1997, 2010, 2010, 2013, 2023, ?}
+- **Celsius and centigrade** are temperature scales, **not units of heat** {2001, 2004, 2017}
+- Small lengths: **1 nm = 10^{-7} cm = 10^{-9} m**; **1 micron = 10^{-4} cm**; smallest: **fermi** {2005, 2011, 2013, 2023}
+@end
+
+@section 1.1 | Work, Power and Energy Units
+- Unit of power: **watt** {2010}
+- Unit of work: **joule** {1996}
+- Megawatt measures power **generated** {1998}
+
+@section 1.2 | Astronomical and Small Lengths
+- **Light year**: distance light travels in **one year**; a unit of **distance** {2010, 2013, ?}
+- **Parsec**: unit of **distance** {1997}
+- Distance at which Earth's orbit radius subtends **1 arc second**: **1 parsec** {2023}
+- Multiply by 0.39 to get inches: **centimetre** {2010}
+- **1 nanometre = 10^{-7} cm** {2013}
+- Correct: **1 metre = 10^{9} nanometre** {2023}
+- 5 feet in nanometres: none of the options (about 1.524 x 10^{9} nm) {2023}
+- **1 micron = 10^{-4} cm** {2011}
+- Smallest unit of length: **fermi** (femtometre, 10^{-15} m) {2005}
+
+@table
+Unit | Value | Use
+Light year | 9.46 x 10^{12} km | Stars, galaxies
+Astronomical unit | About 1.5 x 10^{8} km | Solar system
+Parsec | 3.26 light years | Largest of the three
+Angstrom | 10^{-10} m | Wavelength, atomic size
+Nanometre | 10^{-9} m | Nanotechnology
+Micron | 10^{-6} m (10^{-4} cm) | Cells, dust
+Fermi | 10^{-15} m | Nuclear size
+@end
+
+@section 1.3 | SI Units and Matching
+- **Acceleration-m/s^{2}, force-newton, work-joule, impulse-newton second** {2001, 2005}
+- Wrong SI pair: **pressure-dyne** (dyne is a CGS unit of force) {2013}
+- **Watt-power, knot-speed of a ship, nautical mile-navigation, calorie-heat** {2002}
+- **Joule-work, ampere-current, watt-power, volt-potential, calorie-heat** {1990}
+- Wrong pair: **light year-time** (it is distance) {2010}
+- **Mach-high speed, angstrom-wavelength, pascal-pressure, joule-energy** {2006}
+- **Decibel**: **sound intensity** {2011}
+- Wrong pair: **Celsius-unit of heat** {2001, 2004}
+- Not a unit of heat: **centigrade** {2017}
+- Wrong SI pair: **radioactivity-curie** (SI unit is the **becquerel**) {2022}
+- Electric potential is a **scalar** quantity (only 1) {2021}
+
+@table
+Quantity | SI unit | Older units
+Force | Newton | Dyne, kg-wt
+Work, energy, heat | Joule | Erg, calorie (4.18 J), kWh
+Power | Watt | Horsepower (746 W)
+Pressure | Pascal | Bar, atmosphere, mm of Hg
+Temperature | Kelvin | Celsius, Fahrenheit
+Radioactivity | Becquerel | Curie
+Power of lens | Dioptre | -
+Illuminance | Lux | Phot
+@end
+
+@section 1.4 | Odd Units
+- **1 barrel** of oil = **159 litres** {2009}
+- **Cusec-rate of flow, byte-computer, Richter-earthquake, bar-pressure** {2008}
+- **Dobson unit**: **ozone** concentration {2021}
+
+@flow Distance units, small to large
+Fermi | Size of a nucleus
+Angstrom | Size of an atom
+Astronomical unit | Earth-Sun distance
+Light year | About 63,000 AU
+Parsec | 3.26 light years
+@end
+
+@trap
+- **Parsec > light year > AU**; all three measure **distance**.
+- **1 micron = 10^{-4} cm**, not 10^{-6} cm (that is in metres).
+- SI unit of radioactivity = **becquerel**; curie is older. Dyne is force, not pressure.
+- **Knot** = speed (nautical mile per hour); **nautical mile** = distance at sea.
+@end
+
+@up UP link: **Indian Standard Time** is reckoned from **82.5 E**, which passes near **Mirzapur** (UP); the time signal itself is kept by the **National Physical Laboratory**, New Delhi.
+
+@last
+- Watt = power; joule = work; newton = force; pascal = pressure
+- Light year, parsec = **distance**; parsec = 3.26 light years
+- **1 nm = 10^{-9} m = 10^{-7} cm**; 1 micron = 10^{-4} cm
+- Fermi = smallest length unit
+- Impulse = **newton second**
+- Decibel = sound intensity; Mach = high speed
+- Celsius, centigrade = temperature scales
+- Becquerel = SI unit of radioactivity
+- 1 barrel = **159 litres**; cusec = rate of flow
+- Dobson unit = ozone
+@end

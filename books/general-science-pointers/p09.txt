@@ -1,0 +1,103 @@
+@chapter 9 | Nuclear Physics
+@meta Built from 45 UPPSC questions (1992–2025). Focus: fission and fusion, atom and hydrogen bombs, moderators and coolants, thorium, breeder reactors, India's nuclear plants and tests.
+
+@hot
+- **Atom bomb = fission**; **hydrogen bomb = fusion** (of deuterium); H-bomb by **Edward Teller** {1994, 2007, 2015, 2016, 2021, ?}
+- **Moderators**: **heavy water, light water, graphite**; heavy water also a **coolant** {1993, 2011, ?, ?}
+- **Fast Breeder Test Reactor** (Kalpakkam) coolant: **liquid sodium** {1997, 2008, 2010}
+- **Kalpakkam** = nuclear power (IGCAR, Tamil Nadu) {2001, 2002, 2023, ?}
+- **Plant-state matching**: **Narora-UP, Kakrapar-Gujarat, Kaiga-Karnataka, Rawatbhata-Rajasthan, Kudankulam-TN** {2004, 2009, 2010, 2025}
+@end
+
+@section 9.1 | Discoveries and Basic Ideas
+- Wrong pair: **transuranic synthesis-Enrico Fermi** (per key; Seaborg made most) {2001, 2002, 2003}
+- Not correct: **splitting a nucleus is fusion** (it is fission) {1999}
+- Rutherford doubted nuclear power ("moonshine") (A and R true, R explains A, per key) {1994}
+- Particle claimed to rebut relativity: **microwave photon** (per key) {2009}
+- Cyclotrons accelerate **protons** (charged particles) {1997}
+- Most energetic radiation among options: **X-rays** (gamma rays are higher still) {2005, 2018}
+
+@section 9.2 | Energy of the Stars
+- Stars shine by **nuclear fusion and gravitational contraction** (1 and 2) {2000}
+- Star energy: **hydrogen turns into helium** {2009}
+
+@section 9.3 | Reactors and Bombs
+- Nuclear reactor: a "**molecular furnace**" (per key) {1992}
+- Fusion reactors: **tokamak** design, **very high temperature** (ii and iii); not fission {2016}
+- Reactor vs bomb: the reactor's chain reaction is **controlled** {1999}
+- Radioactivity is a **nuclear property**; H-bomb is **not** fission (only 1) {2016, 2021}
+- Atom bomb: **nuclear fission** {2007}
+- H-bomb: **fusion of deuterium**; uncontrolled fusion {1994, ?}
+- H-bomb developed by **Edward Teller** {2015}
+- Nuclear medicines are **radioisotopes** {1998}
+
+@flow Fission versus fusion
+Fission | Heavy nucleus (U-235, Pu-239) splits; reactors, atom bomb
+Chain reaction | Controlled in a reactor, uncontrolled in a bomb
+Fusion | Light nuclei (H, deuterium) join; Sun and stars
+Hydrogen bomb | Uncontrolled fusion; a fission bomb triggers it
+Tokamak | Fusion reactor design (ITER, France)
+@end
+
+@section 9.4 | Fuel, Moderators and Coolants
+- Nuclear fuel abundant in India: **thorium** {2003}
+- Not a nuclear fuel: **calcium** {2014}
+- **Enriched uranium**: natural uranium with more **U-235** {2009}
+- Moderator: **heavy water** (and light water); **graphite** too {2011, ?}
+- Heavy water: **coolant** and moderator; ordinary water too {1993, ?}
+- Heavy water made at **Trombay** (among options) {2015}
+- First heavy water plant: **Nangal** {2010}
+- **Breeder reactor**: makes **more fissile material than it burns** {2009}
+- Kalpakkam breeder statements: **1 and 3** per key {2005}
+- FBTR coolant: **liquid sodium** {1997, 2008, 2010}
+
+@table
+Part | Material | Job
+Fuel | U-235, Pu-239, (Th-232 via U-233) | Fission
+Moderator | Heavy water, light water, graphite | Slows neutrons
+Control rods | Cadmium, boron | Absorb neutrons
+Coolant | Heavy water, water, liquid sodium, CO2 | Removes heat
+Shield | Concrete, lead | Stops radiation
+@end
+
+@section 9.5 | India's Nuclear Map
+- **Dhruva, Purnima, Cirus**: Indian **research reactors** {2004}
+- **Kalpakkam**: nuclear power plant {2001, 2002, 2023}
+- **IGCAR**: **Tamil Nadu** (Kalpakkam) {?}
+- Wrong pair: **Harish-Chandra Research Institute-Chennai** (it is in **Prayagraj**) {2010}
+- **Kudankulam-TN, Kakrapar-Gujarat, Kaiga-Karnataka, Rawatbhata-Rajasthan** {2025}
+- **Kalpakkam-TN, Narora-UP, Kakrapar-Gujarat, Trombay-Maharashtra** {2010}
+- Wrong: **Rajasthan Atomic Power-Udaipur** (it is **Rawatbhata**, near Kota) {2009}
+- Plants at **Narora and Kalpakkam** (1 and 3) {2004}
+- In seismic zone IV: **Narora** {2010}
+- Recently active (2000): **Kaiga** {2000}
+- Russia to build **6** units at Kudankulam {2009}
+- Highest installed capacity: **Kudankulam** {2014}
+- Nuclear share of power: about **3%** (*) {2008}
+
+@section 9.6 | Nuclear Tests and Security
+- Pokhran 1974 code name: **Smiling Buddha** {2009}
+- **Operation Shakti**: Pokhran tests of **1998** {1999}
+- ICONS-2024: India rebuilt the **Counter Nuclear Smuggling Team** (only 2) {2024}
+
+@trap
+- Atom bomb = **fission**; H-bomb = **fusion**; reactors = **controlled** fission.
+- Heavy water is both **moderator and coolant**; FBTR uses **liquid sodium**.
+- Rajasthan plant = **Rawatbhata** (Kota), not Udaipur; Harish-Chandra Institute = **Prayagraj**.
+- Gamma rays carry the most energy; X-rays only if gamma is not in the options.
+@end
+
+@up UP link: **Narora Atomic Power Station** (Bulandshahr, 1991) lies in **seismic zone IV**; the **Harish-Chandra Research Institute** (physics and mathematics) is at **Jhunsi, Prayagraj**.
+
+@last
+- Fission = splitting; fusion = joining (stars: H to He)
+- Atom bomb = fission; H-bomb = fusion, **Edward Teller**
+- Reactor = controlled chain reaction; fusion reactor = tokamak
+- India rich in **thorium**; enriched U = more U-235
+- Moderators: heavy water, light water, graphite
+- FBTR coolant = **liquid sodium**; breeder makes more fuel
+- Nangal = first heavy water plant; Dhruva, Cirus = research reactors
+- Narora = UP, zone IV; Kudankulam = largest, Russian
+- Rawatbhata = Rajasthan; Kakrapar = Gujarat; Kaiga = Karnataka
+- Smiling Buddha **1974**; Operation Shakti **1998**
+@end
