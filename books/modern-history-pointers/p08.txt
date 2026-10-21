@@ -1,0 +1,69 @@
+@chapter 8 | Development of Education in Modern India
+@unit UNIT III · EDUCATION, PRESS AND SOCIAL REFORM
+@meta Built from 23 UPPSC questions (2002–2024). Focus: the Calcutta Madrasa and Fort William College, the Asiatic Society, the Charter Act of 1813 and Macaulay, education commissions, early colleges, Deccan Education Society, Karve, BHU.
+
+@hot
+- **Asiatic Society of Bengal** founded by **William Jones** (1784, Warren Hastings' time); Jones translated **Shakuntala** {2004, 2006, 2010, 2017, 2019, 2021}
+- **Charter Act 1813**: first **Rs 1 lakh** for education; **Macaulay** (1835, Bentinck) = English education, **filtration theory** {2007, 2009, 2011, 2013}
+- **Women's university**: **D.K. Karve**; **Deccan Education Society**: **Tilak** {2002, 2006, 2010, 2010, 2013}
+- **BHU**: grew from **Annie Besant's Central Hindu College**; foundation stone by **Hardinge**; first central university {2003, 2011, 2023}
+@end
+
+@section 8.1 | Early Institutions
+- First British madrasa: **Calcutta** (1781) {2006}
+- Fort William College: to teach Indian languages to British officers (only 2) {2021}
+- Asiatic Society: **William Jones** {2004, 2006, 2017, 2021}
+- Asiatic Society came under Warren Hastings, who backed Oriental learning (A and R true; source keys R as explanation) {2019}
+- First English translation of **Shakuntala**: **William Jones** {2010}
+- Offered membership of the Royal Asiatic Society of Paris: **Michael Madhusudan Dutt** {2007}
+
+@section 8.2 | Policy
+- First Rs 1 lakh for education: **Charter Act 1813** {2009}
+- **Macaulay**: **English education** {2007}
+- English education introduced under **William Bentinck** {2011}
+- **Filtration theory**: **Macaulay** {2013}
+- Order: **Wood's Despatch, Hunter, Sadler, Sargent** {2018}
+- **Hunter Commission**: **primary education** {2004, 2004}
+- **Sadler Commission**: **education** {2010}
+
+@flow Education policy milestones
+1813 | Charter Act: Rs 1 lakh a year
+1835 | Macaulay's minute; English medium (Bentinck)
+1854 | Wood's Despatch (Magna Carta of English education)
+1857 | Universities of Calcutta, Bombay, Madras
+1882 | Hunter Commission: primary education
+1917-19 | Sadler Commission: Calcutta University
+1944 | Sargent Plan
+@end
+
+@section 8.3 | Colleges and Universities
+- Founded first: **Hindu College, Calcutta** (1817, David Hare) {2012, 2021}
+- **MAO College, Aligarh**: **1875** {2016}
+- Not correct of Archbold: principal of **Lahore College** (he was at **MAO College**) {2024}
+- **Deccan Education Society**: **Tilak** (with Agarkar, Chiplunkar) {2010, 2013}
+- First women's university: **D.K. Karve** {2002, 2006, 2010}
+- **Central Hindu College**, Banaras: **Annie Besant** {2023}
+- BHU foundation stone: **Lord Hardinge** (1916) {2003}
+- Advocated religious education in universities: **Madan Mohan Malaviya** {2005}
+- First central university among options: **BHU** {2011}
+
+@trap
+- Calcutta Madrasa (**Warren Hastings**, Muslim law) vs Fort William College (**Wellesley**, officers).
+- Three universities came in **1857** (Canning), from Wood's Despatch (1854).
+- Hunter Commission (education, 1882) is not the Hunter Committee on Jallianwala (1919).
+@end
+
+@up UP link: **BHU** (1916, Malaviya and Besant's Central Hindu College) at Varanasi, **MAO College** (1875, Aligarh, Syed Ahmad Khan), **Muir Central College** (Allahabad) and **Thomason College, Roorkee** (then in the North-Western Provinces) were UP's landmark institutions.
+
+@last
+- Calcutta Madrasa 1781 (Warren Hastings)
+- Fort William College (Wellesley) for officers
+- William Jones = Asiatic Society, Shakuntala
+- Charter Act 1813 = Rs 1 lakh
+- Macaulay 1835 = English education, filtration theory
+- Wood, Hunter, Sadler, Sargent
+- Hindu College 1817; MAO College 1875
+- Tilak = Deccan Education Society
+- Karve = first women's university
+- BHU = Besant's college; Hardinge laid the stone
+@end

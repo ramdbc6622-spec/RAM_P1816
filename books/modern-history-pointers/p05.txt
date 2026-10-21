@@ -1,0 +1,60 @@
+@chapter 5 | Economic Impact of British Rule on India
+@unit UNIT II · COLONIAL ECONOMY AND EARLY RESISTANCE
+@meta Built from 18 UPPSC questions (1991–2023). Focus: Permanent, Ryotwari and Mahalwari settlements, the village service systems, plantations, the drain of wealth, military spending, deindustrialisation.
+
+@hot
+- **Permanent Settlement (1793)**: **Cornwallis** {1991, 2007, 2010, 2010}
+- **Ryotwari**: **Thomas Munro**; **Madras and Bombay** (south and west India) {2000, 2001, 2008, 2014, 2016}
+- **Drain of wealth**: **Dadabhai Naoroji**, "**Poverty and Un-British Rule in India**" (1901) {1995, 2004, 2004, 2007, 2021}
+@end
+
+@section 5.1 | Land Settlements
+- Permanent Settlement: **Cornwallis**, **1793** {1991, 2007, 2010, 2010}
+- **Munro**: **Ryotwari** settlement (Madras) {2000, 2008}
+- Ryotwari in **west and south India**; in **Madras and Bombay**; first in **Madras** {2001, 2014, 2016}
+- Different systems in different regions (A and R true, R explains A) {2020}
+- Wrong pair: **taluqdari-Bombay** (taluqdari was in **Awadh**) {2023}
+- **Jajmani-North India, Bara Balute-Maharashtra, Mirasi-Tamil Nadu, Adade-Karnataka** {2020}
+
+@table
+System | Year | Where | With whom
+Permanent (Zamindari) | 1793 | Bengal, Bihar, Odisha, Banaras | Zamindars
+Ryotwari | 1792 (Read), 1820 (Munro) | Madras, Bombay, Assam | Cultivators
+Mahalwari | 1822 (Holt Mackenzie), 1833 | North-West Provinces (UP), Punjab | Village community
+@end
+
+@section 5.2 | Drain, Finance and Industry
+- First tea company in Assam: **1839** {2016}
+- **Drain theory**: **Dadabhai Naoroji** {1995, 2004}
+- "**Poverty and Un-British Rule in India**": **1901**, by **Naoroji** {2004, 2007, 2021}
+- Favourable trade balance was the form the drain took (A and R true, R explains A) {2017}
+- Central revenue on the army: about **40%** {2021}
+- **Deindustrialisation** began around **1813**, hastened by ending the EIC monopoly (both) {2017}
+
+@flow How the drain worked
+Home charges | Pensions, India Office, interest on debt
+Salaries | British officials' savings sent home
+Profits | Company and private trade
+Export surplus | Paid for nothing in return (the drain)
+@end
+
+@trap
+- Mahalwari belongs to the **North-West Provinces (UP)** and Punjab, not Bengal.
+- Taluqdari = **Awadh**, not Bombay.
+- Ryotwari's pioneer was Read, but the standard answer is **Munro**.
+@end
+
+@up UP link: the **Mahalwari** system was first applied in the **North-Western Provinces** (Agra region of UP) under Holt Mackenzie (1822) and R.M. Bird; **Awadh** had the taluqdari system, and the **Banaras** region came under the Permanent Settlement.
+
+@last
+- Permanent Settlement 1793 = Cornwallis
+- Ryotwari = Munro; Madras, Bombay
+- Mahalwari = North-West Provinces (UP), Punjab
+- Taluqdari = Awadh
+- Jajmani = North India; Bara Balute = Maharashtra
+- First Assam tea company 1839
+- Drain theory = Dadabhai Naoroji
+- Poverty and Un-British Rule 1901
+- About 40% of revenue on the army
+- Deindustrialisation from 1813
+@end

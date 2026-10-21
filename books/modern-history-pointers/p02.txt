@@ -1,0 +1,50 @@
+@chapter 2 | East India Company and Nawabs of Bengal
+@meta Built from 11 UPPSC questions (1990–2021). Focus: Murshid Quli Khan, Plassey and Clive, Mir Qasim and Buxar, the Diwani of 1765, Awadh's Hindu officials, and resistance to the Company.
+
+@hot
+- **Buxar (1764)** = the most decisive battle for British supremacy {1990, 2002, 2003, 2012, 2016}
+- **Diwani** of Bengal, Bihar, Odisha granted by **Shah Alam II** in **Clive's** time (1765) {2003, 2004, 2006, 2010}
+- **Plassey (1757)**: **Clive** defeated **Siraj-ud-Daula**; Clive = "heaven-born general" {2005, 2009}
+@end
+
+@section 2.1 | Bengal
+- Last Governor of Bengal appointed by the Mughal emperor: **Murshid Quli Khan** {2013, 2021}
+- Siraj-ud-Daula lost at **Plassey** {2005}
+- "**Heaven-born general**": **Robert Clive** {2009}
+- Capital moved from Murshidabad to **Munger**: **Mir Qasim** {2003}
+- Most decisive battle: **Buxar** {1990, 2002, 2003, 2012, 2016}
+- Nawab of Bengal during Buxar: **Mir Jafar** (restored) {2016}
+- Diwani granted by **Shah Alam II** (Mughal emperor), under **Clive** {2003, 2004, 2006, 2010}
+
+@flow From Plassey to Diwani
+1757 | Plassey: Clive beats Siraj-ud-Daula; Mir Jafar Nawab
+1760 | Mir Qasim made Nawab; moves to Munger
+1764 | Buxar: Company beats Mir Qasim, Shuja-ud-Daula, Shah Alam II
+1765 | Treaty of Allahabad: Diwani of Bengal, Bihar, Odisha
+1765-72 | Dual government in Bengal
+@end
+
+@section 2.2 | Awadh and Resistance
+- Hindu ministers of Awadh: **Tikait Rai** was finance minister; Hindu castes held high posts (both) {2016}
+- Opposed the British most vigorously (among options): **Marathas** {1993}
+
+@trap
+- Buxar is in **Bihar**, opposite Ballia (UP).
+- Diwani came from **Shah Alam II**; Clive was Governor at the time.
+- Mir Jafar was Nawab during Buxar (Mir Qasim had been deposed).
+@end
+
+@up UP link: **Shuja-ud-Daula** of Awadh fought at Buxar, and the **Treaty of Allahabad (1765)** was signed at Prayagraj, giving the Company the Diwani and returning Awadh to Shuja (minus Kora and Allahabad).
+
+@last
+- Murshid Quli Khan = last Mughal-appointed governor
+- Plassey 1757: Clive vs Siraj-ud-Daula
+- Clive = heaven-born general
+- Mir Qasim moved the capital to Munger
+- Buxar 1764 = most decisive battle
+- Mir Jafar was Nawab during Buxar
+- Treaty of Allahabad 1765
+- Diwani from Shah Alam II
+- Tikait Rai = Awadh finance minister
+- Marathas resisted most (among options)
+@end

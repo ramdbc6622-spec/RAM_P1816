@@ -1,0 +1,80 @@
+@chapter 1 | The Advent of European Companies
+@unit UNIT I · EUROPEANS AND BRITISH EXPANSION
+@meta Built from 28 UPPSC questions (1990–2021). Focus: the order of arrival, Vasco da Gama and Albuquerque, European factories in Bengal, the English charters and Surat, the French and Danes, the Carnatic wars, why the English won.
+
+@hot
+- **Portuguese** came first; **Vasco da Gama** reached **Calicut** in **1498** (welcomed by the **Zamorin**) {1990, 1992, 1993, 2000, 2004, 2004, 2007, 2013}
+- Order of entry into trade: **Portuguese, Dutch, English, French** {1997}
+- First English factory: **Surat** (1613), in **Akbar's** time the EIC was formed (1600) {1990, 2004, 2010, 2011, 2012}
+- **Carnatic wars**: **English vs French**; **Wandiwash (1760)** settled it {1995, 2015, 2016, 2017}
+- **Settlement matching**: **Pondicherry-French, Goa-Portuguese, Tranquebar-Danish, Sadras-Dutch** {2016}
+@end
+
+@section 1.1 | The Portuguese and the Dutch
+- Order of entry: **Portuguese, Dutch, English, French** {1997}
+- First Europeans to trade: **Portuguese** {1990, 1993, 2000, 2004, 2004, 2007}
+- Vasco da Gama came in **1498**, welcomed by the **Zamorin** of Calicut {1992, 2013}
+- Real founder of Portuguese power: **Albuquerque** {2003}
+- First Portuguese fort: **Cochin** {2010}
+- Dutch trade centres: **all the above** {2017}
+- Portuguese Bengal factory: **Hooghly**; Dutch: **Chinsurah** {2004, 2010}
+
+@table
+Company | Founded | First factory | Main base
+Portuguese | 1498 (voyage) | Calicut, Cochin | Goa
+Dutch | 1602 | Masulipatnam (1605) | Pulicat, Nagapattinam
+English | 1600 | Surat (1613; Masulipatnam 1611) | Bombay, Madras, Calcutta
+Danish | 1616 | Tranquebar (1620) | Serampore
+French | 1664 | Surat (1668) | Pondicherry
+@end
+
+@section 1.2 | The English, French and Danes
+- First English charter: **Levant Company** {2014}
+- EIC formed in the reign of **Akbar** {2004, 2012}
+- First factory at Surat: **the British** (English) {2011}
+- First EIC factory: **Surat** {1990, 2010}
+- **Calcutta** founded by **Job Charnock** {2004}
+- First municipal corporation: **Madras** (1688) {2021}
+- British control of the Prayagraj fort: question erroneous (*); ceded in **1798** {2021}
+- French company under **Louis XIV**; founded by **Colbert** {2003, 2013, 2014}
+- Pondicherry: Portuguese did not occupy it first; only 1 per key {2006}
+- **Pondicherry-French, Goa-Portuguese, Tranquebar-Danish, Sadras-Dutch** {2016}
+
+@section 1.3 | Carnatic Wars and English Success
+- Carnatic wars: **English vs French** {1995}
+- Wrong pair: **Second Carnatic War 1750-52** (it ran 1749-54) {2017}
+- **First Carnatic-Treaty of Aix-la-Chapelle, Second-inconclusive, Third-Treaty of Paris, First Mysore War-British lost** {2016}
+- Aix-la-Chapelle (1748): ended the first war; Madras returned to the English {2020}
+- **Wandiwash** (1760): **British defeated the French** {2015}
+- EIC's success: **all the above three** {1994}
+- French failed in the Deccan: the English had a **strong army** {1998}
+- English won through Bengal's wealth and **naval superiority** (both) {2016}
+
+@flow Carnatic wars
+First (1746-48) | Dupleix took Madras; Aix-la-Chapelle returned it
+Second (1749-54) | Succession fights; Clive at Arcot (1751)
+Third (1756-63) | Wandiwash (1760): Eyre Coote beat Lally
+Result | Treaty of Paris (1763); French power ends
+@end
+
+@trap
+- By **formation** English (1600) precede Dutch (1602); by **entry** Dutch precede English.
+- First Portuguese fort and capital = **Cochin**; Goa from 1530.
+- **Sadras** was Dutch, not English; Tranquebar and Serampore were Danish.
+- Plassey fell during the Third Carnatic War but was not a Carnatic battle.
+@end
+
+@up UP link: the **Allahabad fort** passed to the Company in **1798** when Nawab **Saadat Ali Khan II** of Awadh ceded it; Agra and Lucknow were early sites of English trade agents under Jahangir.
+
+@last
+- Portuguese first; Vasco da Gama 1498 at Calicut
+- Zamorin = ruler of Calicut
+- Albuquerque = real founder of Portuguese power
+- Cochin = first Portuguese fort
+- Hooghly = Portuguese; Chinsurah = Dutch
+- EIC 1600 under Akbar; Surat first factory
+- Job Charnock = Calcutta; Madras = first corporation
+- French company under Louis XIV; Colbert
+- Pondicherry French; Tranquebar Danish; Sadras Dutch
+- Wandiwash 1760: English beat French
+@end

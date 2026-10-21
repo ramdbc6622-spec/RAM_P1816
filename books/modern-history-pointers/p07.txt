@@ -1,0 +1,75 @@
+@chapter 7 | Other Civil Uprisings
+@meta Built from 28 UPPSC questions (1994–2025). Focus: the order and dates of revolts, Sanyasi and Anandamath, chiefs' risings, Wahabi, Faraizi and Kuka, Santhal and Munda, north-east risings, peasant movements, early mutinies.
+
+@hot
+- **Revolt-year matching**: **Santhal 1855-56, Indigo 1859-60, Jaintia 1860-63, Pabna 1873-76 (to 1885), Rampa 1879-80, Moplah 1921, Eka 1922, Tana Bhagat 1914, Kol 1831-32, Ahom 1828** {2016, 2016, 2017, 2018, 2019, 2019}
+- **Anandamath** (Bankim Chandra) is based on the **Sanyasi revolt** {1998, 2015, 2017}
+- **Wahabi** centre **Patna**; **Faraizi** leader **Dadu Miyan**; **Kuka** in **Punjab** {1994, 1999, 2017}
+- **Birsa Munda** led the Munda ulgulan; **Moplah** revolt (1921) in **Malabar** {1998, 2010, 2016}
+@end
+
+@section 7.1 | Chronology and Early Risings
+- Order: **Sanyasi, Indigo, Kuka, Pabna** {2025}
+- Year pairs: Sanyasi and Kol pairs wrong (*) {2017}
+- **Anandamath**: on the **Sanyasi revolt**; made famous by **Bankim Chandra** {1998, 2015, 2017}
+- **Paika-Jagabandhu, Bareilly-Mufti Muhammad Aiwaz, Malabar-Edachena Kungan, Sylhet-Radharam** {2024}
+- **Velu Thampi**: **Kerala** (Travancore) {2002}
+- **Gadkari** rebellion: **Kolhapur** {1999}
+- **Kallar**: **Madurai** {2017}
+
+@section 7.2 | Religious and Tribal Movements
+- Wahabi centre: **Patna** {1994}
+- **Faraizi** leader: **Dadu Miyan** {1999}
+- **Kuka** movement: **Punjab** {2017}
+- **Pagal Panthi**: rising of the **Garos** {1999}
+- Santhal Hul: Major Burroughs lost near Bhagalpur; Gokko of Godda; Mahajan Deen Dayal Rai (1, 2, 3) {2017}
+- Munda leader: **Birsa** {1998}
+- Wrong pair: **Nayak-Tana Bhagat** {2008}
+- In Maharashtra: **Bhil** uprising {1998}
+- Wrong pair: **Chuar-** (and partly Koli) region {2015}
+- **Kuki-Tripura, Kuka-Punjab, Pabna-Bengal, Birsa-Bihar** {2010}
+- **Ahom-1828, Kol-1831-32, Santhal-1855-56, Moplah-1921** {2017}
+- Wrong pair: **Ahom-1815** {2018}
+- Revolt-year pairs: Kuka pair wrong (*) {2019}
+
+@table
+Rising | Region | Leader
+Sanyasi-Fakir | Bengal | Majnu Shah
+Paika | Odisha | Bakshi Jagabandhu
+Kol | Chotanagpur | Buddhu Bhagat
+Santhal | Rajmahal hills | Sidhu, Kanhu
+Munda (Ulgulan) | Ranchi | Birsa Munda
+Kuka | Punjab | Ram Singh
+Rampa | Andhra | Alluri Sitarama Raju (1922-24)
+@end
+
+@section 7.3 | Peasant Revolts and Mutinies
+- **Nil Darpan**: **Dinabandhu Mitra** {2015}
+- **Rampa-1879-80, Pabna-1873-76, Indigo-1859-60, Jaintia-1860-63** {2016}
+- Tebhaga-Moplah-Pabna-Indigo: Pabna date wrong (*) {2016}
+- **Pabna-1873-85, Eka-1922, Santhal-1855-56, Tana Bhagat-1914** {2019}
+- **Eka** movement: farmers of **Hardoi, Barabanki** (UP) {2007}
+- **Moplah** revolt (1921): **Malabar** {2010, 2016}
+- **Barrackpore-1824, Berhampur-February 1857, Santhal-1855-56, Vellore-July 1806** {2006}
+
+@trap
+- **Kuka** = Punjab (Sikh reform); **Kuki** = north-east (Tripura, Manipur).
+- Sanyasi revolt is **18th century**, not 1894.
+- Nil Darpan = **Dinabandhu Mitra**; Anandamath = **Bankim Chandra**.
+- Vellore mutiny = **1806**; Barrackpore mutiny = **1824** (and 1857).
+@end
+
+@up UP link: the **Eka (unity) movement** (1921-22) of **Hardoi, Barabanki, Bahraich, Sitapur** was led by **Madari Pasi**; **Mufti Muhammad Aiwaz** led the **Bareilly** revolt of 1816 against a house tax.
+
+@last
+- Sanyasi, Indigo, Kuka, Pabna (order)
+- Anandamath = Sanyasi revolt (Bankim)
+- Paika = Jagabandhu; Bareilly 1816 = Mufti Aiwaz
+- Wahabi = Patna; Faraizi = Dadu Miyan; Kuka = Punjab
+- Pagal Panthi = Garos; Kallar = Madurai
+- Santhal 1855-56 (Sidhu, Kanhu); Birsa = Munda
+- Ahom 1828; Kol 1831-32
+- Indigo 1859-60 (Nil Darpan); Pabna 1873-76
+- Eka 1922 (Hardoi, Barabanki); Moplah 1921 (Malabar)
+- Vellore 1806; Barrackpore 1824
+@end
