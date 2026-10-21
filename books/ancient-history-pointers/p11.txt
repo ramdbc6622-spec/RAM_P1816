@@ -1,0 +1,125 @@
+@chapter 11 | Gupta and Post-Gupta Period
+@meta Built from 69 UPPSC questions (1990–2024). Focus: Gupta kings and titles, the Prayag Prashasti, Chandragupta II, coins and inscriptions, the Hunas, administration and trade, Harsha, Chinese travellers, court poets, the six schools of philosophy.
+
+@hot
+- **Samudragupta**: **Prayag Prashasti** (Allahabad pillar, by Harishena), "**Napoleon of India**", Parakramanka {1990, 2004, 2004, 2009, 2009, 2015, 2015, 2016}
+- **Harsha**: capital **Kannauj**; assemblies at **Kannauj and Prayag**; defeated by **Pulakeshin II**; **Hiuen Tsang** came in his reign {1990, 1992, 1993, 2001, 2004, 2012, 2016}
+- **Skandagupta** beat the **Hunas** (**Bhitari** pillar); **Yashodharman** beat Mihirakula {1993, 2006, 2014, 2015, 2016}
+- **Six schools**: **Sankhya-Kapila, Yoga-Patanjali, Nyaya-Gautama** {1997, 1998, 2002, 2003, 2005, 2005, 2007, 2010, 2023}
+- **Coins**: gold **dinara**, silver **rupaka**; first coins **Chandragupta I**, first silver **Chandragupta II** {1992, 2002, 2010, 2010, 2011, 2017}
+@end
+
+@section 11.1 | The Gupta Rulers
+- **Chandragupta I-Kumaradevi, Samudragupta-Dattadevi, Chandragupta II-Kuberanaga, Kumaragupta I-Anantadevi** {2019}
+- **Ashoka-Priyadarshi, Samudragupta-Parakramanka, Chandragupta II-Vikramaditya, Skandagupta-Kramaditya** {2015}
+- **Devagupta**: **Chandragupta II** {2007}
+- Vikram 58 BCE, Saka 78 CE, Gupta 319 CE, Muslim rule 1192 (all four per key) {2011}
+
+@section 11.2 | Samudragupta and Chandragupta II
+- Allahabad pillar: reign of **Samudragupta**; **Prayag Prashasti** = his campaigns {2004, 2004}
+- Also on the pillar: an inscription of **Jahangir** {2016}
+- **Dhananjaya-Kusthalapura, Nilaraja-Avamukta, Ugrasena-Palakka, Vishnugopa-Kanchi** {2018}
+- **Napoleon of India**: **Samudragupta** {1990, 2009}
+- First "Parama Bhagavata": **Samudragupta** (Commission accepted Chandragupta II) {2009, 2015}
+- "Prithivyah Pratham Veer": **Samudragupta** (question dropped) {2016}
+- Four Ashvamedhas: **Pravarasena I** (Vakataka) {2003, 2011}
+- **Shaka conqueror**: **Chandragupta II**; his silver coins (about 33 grains) prove it (both) {2010, 2022}
+- Delhi iron pillar: **Chandra** (Chandragupta II) {2002}
+- Navaratna linked with astrology: **Kshapanaka** {2008}
+
+@flow Imperial Guptas
+Chandragupta I (319) | Gupta era; married Kumaradevi (Licchavi); first coins
+Samudragupta | Prayag Prashasti; Napoleon of India
+Chandragupta II | Vikramaditya; Shaka conquest; Fa-Hien; first silver coins
+Kumaragupta I | Founded Nalanda; Mandsaur prashasti
+Skandagupta | Beat the Hunas (Bhitari)
+@end
+
+@section 11.3 | Coins and Inscriptions
+- Gold coin: **dinara**; silver coin: **rupaka** {1992, 2002, 2017}
+- First Gupta coins: **Chandragupta I**; first silver: **Chandragupta II** {2010, 2010, 2011}
+- **Mandsaur** prashasti: **Kumaragupta I** {2021}
+- Wrong pair: **Prabhavati Gupta-Udayagiri cave** {2017}
+- First record of sati: **Eran** (510 CE) {2010}
+- Most hurt by the Huna invasions: **Guptas** {1993}
+- Hunas came under **Skandagupta**, who defeated them (**Bhitari** pillar) {2006, 2014, 2015}
+- Defeated Mihirakula: **Yashodharman** {2016}
+
+@section 11.4 | Administration, Economy and Society
+- Order: **bhukti, vishaya, vithi, grama** {2023}
+- Lawful tax: **one-sixth** of produce {1992}
+- Irrigation tax: **bidakabhagam** {2009}
+- North Indian port: **Tamralipti** {2014}
+- River ports and large entrepots existed (both) {2024}
+- **Warangal** (3rd century): **iron implements** {2001}
+- **Kausheya**: **silk** {2008}
+- "Golden Age": **Guptas** {2004}
+- Women equal to men: **none** of the ages {1994}
+- Post-Gupta feudalism: landlords and dependent peasants (A and R true, R explains A) {2004}
+- Gupta Ayurveda author: no option fits (*) {2002}
+- Chess began in **India** {2004}
+
+@section 11.5 | Harsha and the Post-Guptas
+- Wrong pair: **Sarvavarman-Gaya copper plate** {2022}
+- Harsha's capital: **Kannauj** (moved from **Thanesar**) {1992, 1993}
+- Harsha's sources (key): **Kalhana** (main ones: Bana, Hiuen Tsang) {1995}
+- Assemblies at **Kannauj and Prayag**; Buddhist assembly in UP at **Prayag** {2001, 2004}
+- Harsha was defeated by **Pulakeshin II** {2016}
+- **Kushans-Devaputra, Pulakeshin II-Dakshinapatheshwara, Harsha-Sakalottarapathanatha** {2023}
+- Hiuen Tsang came under **Harsha**; his book **Si-Yu-Ki**; studied at **Nalanda** {1990, 1995, 2012, 2016}
+- Who sent Hiuen Tsang to Harsha: **none** (he came on his own) {2007}
+- Chinese name for India: **Yin-tu** {2013}
+- Travellers' dates: two pairs wrong (*) {2021}
+
+@table
+Traveller | Came under | Note
+Fa-Hien | Chandragupta II | 399-414 CE; Fo-Kuo-Ki
+Hiuen Tsang | Harsha | Si-Yu-Ki; studied at Nalanda
+I-Tsing | Post-Harsha | 671-695 CE; Nalanda
+@end
+
+@section 11.6 | Poets, Religion and Philosophy
+- Wrong pair: **Harishena-Harsha** (Harishena = Samudragupta) {1997}
+- **Amir Khusrau-Alauddin, Kalidasa-Chandragupta II, Harishena-Samudragupta, Banabhatta-Harsha** {2003}
+- Multan sun temple and Sambapur pilgrimage (both) {2020}
+- Not true of Shankaracharya: he named **Prayag Tirtharaj** {2005}
+- Shankaracharya: born in **Kerala**; maths at **Joshimath, Dwarka, Puri, Sringeri** {1999, 2006}
+- Chief seat of the lunar dynasty: **Pratishthanpur** (Jhunsi, Prayagraj) {2009}
+- **Sankhya**: **Kapila** {1998, 2010}
+- **Yoga**: **Patanjali** {1997, 2002, 2003, 2007}
+- **Nyaya**: **Gautama** {2005, 2005, 2023}
+- **Nyaya-logic, Mimamsa-Vedic rites, Sankhya-real knowledge, Vedanta-self-knowledge** {2019}
+- Theory of karma: **Mimamsa** {1997}
+- Navya-Nyaya founder: **Gangesha** (Udayana also accepted) {1995}
+
+@table
+School | Founder
+Sankhya | Kapila
+Yoga | Patanjali
+Nyaya | Gautama (Akshapada)
+Vaisheshika | Kanada
+Mimamsa | Jaimini
+Vedanta | Badarayana
+@end
+
+@trap
+- Harishena wrote for **Samudragupta**, not Harsha.
+- First coins = Chandragupta I; first **silver** = Chandragupta II.
+- Skandagupta beat the first Hunas; **Yashodharman** beat Mihirakula.
+- Four Ashvamedhas = **Pravarasena I**, not Samudragupta.
+@end
+
+@up UP link: the **Allahabad pillar** (Prayag Prashasti, plus Ashoka and Jahangir), **Bhitari** (Ghazipur, Skandagupta's pillar), the **Deogarh Dashavatara temple** (Lalitpur), **Kannauj** as Harsha's capital, Harsha's **Prayag assembly**, and **Pratishthanpur** (Jhunsi) are all in UP.
+
+@last
+- Chandragupta I = Kumaradevi; first coins; Gupta era 319
+- Samudragupta = Prayag Prashasti, Napoleon, Parakramanka
+- Chandragupta II = Vikramaditya, Shaka conqueror, iron pillar, first silver
+- Kumaragupta = Mandsaur; Skandagupta = Bhitari, Hunas
+- Dinara gold; rupaka silver; Eran = first sati record
+- Bhukti, vishaya, vithi, grama
+- Harsha: Kannauj; Prayag assembly; beaten by Pulakeshin II
+- Hiuen Tsang = Si-Yu-Ki, Nalanda; Fa-Hien = Chandragupta II
+- Harishena = Samudragupta; Bana = Harsha; Kalidasa = Chandragupta II
+- Kapila Sankhya; Patanjali Yoga; Gautama Nyaya
+@end

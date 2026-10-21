@@ -1,0 +1,87 @@
+@chapter 1 | Stone Age
+@unit UNIT I · PREHISTORY AND THE HARAPPAN CIVILISATION
+@meta Built from 26 UPPSC questions (1997–2023). Focus: Foote and the three-age system, Bhimbetka, the Mesolithic sites of the Vindhyas and Pratapgarh, Lahuradewa and Mehrgarh, Burzahom, Chalcolithic and OCP.
+
+@hot
+- **Mesolithic Ganga plain (Pratapgarh)**: **Mahadaha** bone tools, **Damdama** triple burial, **Lekhahia** most skeletons (Vindhyas) {2010, 2013, 2016, 2016, 2016, 2021}
+- **Earliest agriculture**: **Lahuradewa** (UPPSC key, rice); **Mehrgarh** = earliest settled life {2004, 2007, 2008, 2008, 2008, 2010}
+- **Domestication of animals** began in the **Mesolithic** (Bagor, Adamgarh); **cereals** in the **Neolithic** {2005, 2006, 2008}
+- **Bhimbetka** = prehistoric rock paintings; found by **V.S. Wakankar** {2011, ?, ?}
+- **Burzahom**: **dog buried with humans**, **pit dwellings** {2008, ?}
+@end
+
+@section 1.1 | Discovery of Indian Prehistory
+- **Robert Bruce Foote** (first Palaeolithic tool, Pallavaram 1863): a **geologist** and archaeologist (both accepted) {2015}
+- Three-age system (stone, bronze, iron), Copenhagen Museum: **Thomsen** ("Thomson") {2010}
+
+@section 1.2 | Palaeolithic Sites and Rock Art
+- **Nevasa-Maharashtra, Isampur-Karnataka, Didwana-Rajasthan, Gudiyam cave-Tamil Nadu** {2023}
+- Prehistoric paintings: **Bhimbetka** {2011}
+- Most rock paintings: **Bhimbetka**; first noticed by **V.S. Wakankar** {?, ?}
+
+@section 1.3 | Mesolithic: Microliths and Domestication
+- Domestication of animals began in the **Mesolithic** {2006}
+- Mesolithic animal husbandry: **Bagor and Adamgarh** {2008}
+- West to east: **Mahadaha, Lekhahia, Paisra, Birbhanpur** {2021}
+- Bone implements: **Mahadaha** (and Sarai Nahar Rai) {2010, 2013}
+- Three skeletons in one grave: **Damdama** {2016}
+- Most human skeletons in a Vindhyan rock shelter: **Lekhahia** {2016}
+- Vindhyan people moved to the Ganga valley in a **dry phase** at the end of the Pleistocene (A and R true, R explains A) {2016}
+
+@flow Stone Age to metal
+Palaeolithic | Hunting, handaxes; Pallavaram, Nevasa, Isampur, Didwana
+Mesolithic | Microliths, first domestication; Bagor, Adamgarh, Mahadaha
+Neolithic | Polished tools, farming; Mehrgarh, Burzahom, Koldihwa
+Chalcolithic | Copper and stone; Ahar, Kayatha, Malwa, Jorwe
+@end
+
+@section 1.4 | Neolithic: Farming and Settled Life
+- Cereals first cultivated in the **Neolithic Age** {2005}
+- First cereal used by man: **barley** {1997}
+- Earliest agriculture (key): **Lahuradewa** (rice; date disputed) {2004, 2007, 2008, 2010}
+- Earliest settled life: **Mehrgarh** {2008}
+- Stone Age to Harappan remains at one site: **Mehrgarh** {2008}
+- Dog buried with human: **Burzahom** {2008}
+- Pit dwellings: **Burzahom** {?}
+- Ash mounds: **Sanganakallu** (Karnataka; Budihal also) {2009}
+
+@section 1.5 | Chalcolithic, OCP and Megaliths
+- **Navdatoli** excavated by **H.D. Sankalia**; it is in **Madhya Pradesh** {2009, ?}
+- Chalcolithic Maharashtra burials: **north-south** under house floors {1997}
+- **Ochre-Coloured Pottery** named at **Hastinapur** {2006}
+- **Megaliths**: **burial sites** {2005}
+
+@table
+Site | Known for
+Pallavaram (TN) | First Palaeolithic tool (Foote, 1863)
+Bhimbetka (MP) | Rock paintings
+Bagor, Adamgarh | Earliest animal domestication
+Mahadaha, Damdama, Sarai Nahar Rai (UP) | Mesolithic burials, bone tools
+Lahuradewa (UP) | Early rice (UPPSC key)
+Mehrgarh (Pakistan) | Earliest settled farming village
+Burzahom (Kashmir) | Pit dwellings, dog burials
+Koldihwa (UP) | Neolithic rice
+Hastinapur (UP) | OCP named
+@end
+
+@trap
+- Animals were domesticated in the **Mesolithic**; cereals came in the **Neolithic**.
+- Earliest rice in UPPSC keys = **Lahuradewa**; earliest settled village = **Mehrgarh**.
+- **Mahadaha** = double burials; **Damdama** = triple burial.
+- Megaliths are **burials**, not temples.
+@end
+
+@up UP link: UP is rich in Mesolithic sites: **Sarai Nahar Rai, Mahadaha, Damdama** (Pratapgarh), **Lekhahia** and **Baghor** in the Vindhyas (Mirzapur-Sonbhadra), **Koldihwa** (Prayagraj, Neolithic rice), **Lahuradewa** (Sant Kabir Nagar) and **Hastinapur** (Meerut, OCP).
+
+@last
+- Foote = father of Indian prehistory (Pallavaram 1863)
+- Thomsen = three-age system
+- Bhimbetka paintings; Wakankar found them
+- Domestication: Mesolithic (Bagor, Adamgarh)
+- Mahadaha bone tools; Damdama triple burial; Lekhahia most skeletons
+- Barley = first cereal; cereals in Neolithic
+- Lahuradewa = earliest rice (key); Mehrgarh = earliest settled life
+- Burzahom = dog burial, pit houses
+- Navdatoli = Sankalia (MP); OCP = Hastinapur
+- Megaliths = burial sites
+@end

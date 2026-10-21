@@ -1,0 +1,126 @@
+@chapter 3 | Vedic Age
+@unit UNIT II · VEDIC AGE AND RELIGIOUS MOVEMENTS
+@meta Built from 56 UPPSC questions (1991–2023). Focus: the term Arya, Boghazkoi, Rig Vedic rivers, the four Vedas and their layers, Upanishads, assemblies, cattle economy, Indra and Agni, the Later Vedic shift.
+
+@hot
+- **Satyameva Jayate** from the **Mundaka Upanishad** {1991, 2004, 2004, 2014}
+- **Upanishads** = **philosophy** and **moksha**; Nachiketa-Yama in the **Katha** Upanishad {1998, 1999, 2002, 2002, 2003, 2004}
+- **Aghanya** = **cow**; cow = most valuable property; **yava** = barley {2008, 2008, 2010, 2015, 2017}
+- **Indra** = most hymns (about 250), war god, thunder and rain; **Agni** next {2002, 2010, 2011, 2017, ?}
+- **Rivers**: **Asikni-Chenab, Parushni-Ravi, Shutudri-Sutlej, Kubha-Kabul, Sadanira-Gandak**; Saraswati = "Naditama" {2008, 2010, 2010, 2012, ?}
+@end
+
+@section 3.1 | The Aryans and Their Home
+- "Aryan" denotes a **speech group** (key: noble; never a race) {1999}
+- Classical meaning of "Arya": a **noble man** {1998}
+- Wrote on the Aryans' original home (Arctic): **Bal Gangadhar Tilak** {1996}
+- **Boghazkoi** (Turkey, 14th century BCE): inscription naming **Vedic gods** {1996, ?, ?}
+- Avesta resembles the Rig Veda; it is from **Iran** {2004}
+
+@section 3.2 | Rig Vedic Geography and Tribes
+- **Asikni** = **Chenab** {2010}
+- Rivers linking the Aryans with Afghanistan: **Kubha, Kramu** {2010}
+- **Kubha** is in **Afghanistan** (Kabul river) {?}
+- **Kubha-Kabul, Parushni-Ravi, Sadanira-Gandak, Shutudri-Sutlej** {2012}
+- "Matetama, Devitama, Naditama": **Saraswati** {2008}
+- Not in the Panchajana: **Kikata** {2009}
+- **Battle of Ten Kings**: on the **Parushni** (Ravi); Sudas won with Vasishtha {2008}
+
+@table
+Vedic name | Modern river
+Sindhu | Indus
+Vitasta | Jhelum
+Asikni | Chenab
+Parushni | Ravi
+Vipas | Beas
+Shutudri | Sutlej
+Kubha | Kabul
+Gomati | Gomal
+Sadanira | Gandak
+@end
+
+@section 3.3 | The Four Vedas and Their Layers
+- Oldest Veda: **Rig Veda** (a collection of **hymns**) {1995, ?}
+- **Trayi**: the **three Vedas** (Rig, Sama, Yajur) {2010}
+- **Rig-hymns and prayers, Yajur-hymns and rituals, Sama-musical hymns, Atharva-charms and spells** {2002, 2003}
+- Compiled from the Rig Veda: **Samaveda** {1997}
+- **Ayurveda** first appears in the **Atharvaveda** {1994}
+- Rig Veda's "basic script" (key): **Brahmi** (it was oral) {2004}
+- **Hota** priest: **Rig Veda** {?}
+- **Gayatri Mantra**: **Rig Veda** (3rd Mandala, Vishvamitra) {2013}
+- Order: **Samhitas, Brahmanas, Aranyakas, Upanishads** {2014}
+- **Gopatha Brahmana**: **Atharvaveda** {2014}
+- 800-600 BCE: the **Brahmana** era {2002}
+
+@table
+Veda | Content | Priest | Upaveda
+Rig | Hymns and prayers | Hota | Ayurveda (often)
+Yajur | Rituals (prose) | Adhvaryu | Dhanurveda
+Sama | Melodies | Udgata | Gandharvaveda
+Atharva | Charms, medicine | Brahma | Shilpaveda (Ayurveda first appears here)
+@end
+
+@section 3.4 | Upanishads
+- Upanishads: **philosophy** {1998, 2002, 2004}
+- Talks of **moksha**: **Upanishads** {2003}
+- **Nachiketa and Yama**: **Katha Upanishad** {1999, 2002}
+- **Satyameva Jayate**: **Mundaka Upanishad** {1991, 2004, 2004, 2014}
+- King **Ashvapati** ruled **Kekaya** {1999}
+
+@section 3.5 | Polity, Economy and Society
+- **Sabha and Samiti** as daughters of Prajapati: **Atharvaveda** {2009}
+- **Bhagadugha**: **revenue collector** {2023}
+- Aryans' chief livelihood (key): **agriculture** (Rig Vedic life was mainly pastoral) {1993}
+- **Yava** = **barley** {2008}
+- Most valuable early Rig Vedic property: **cow** {2015}
+- **Aghanya** = **cows** (not to be killed) {2008, 2010, 2017}
+- **Nishka**: a **neck** ornament {2005, 2007}
+- **Indus-urban, Rig Vedic-pastoral, Later Vedic-agrarian, medieval-landlordism** {2020}
+- **Gotra** first appears in the **Rig Veda** {2005}
+
+@section 3.6 | Rig Vedic Religion
+- People believed mainly in **sacrifice and rituals** {1993}
+- Rig Vedic religion: **polytheistic** {2014}
+- Most hymns: **Indra** (2010 key: Agni) {2002, 2010}
+- War god and most popular deity: **Indra** {2011, ?}
+- Indra: god of **thunder and rain** (1 and 4); Varuna guards moral order {2017}
+- Priest of the gods: **Brihaspati** {2013}
+
+@flow Early to Later Vedic
+Rig Vedic (1500-1000 BCE) | Sapta Sindhu; pastoral; tribal; Indra, Agni
+Later Vedic (1000-600 BCE) | Ganga-Yamuna doab; Kuru-Panchala heartland
+Economy | Agriculture, iron (PGW), settled villages
+Society | Varna hardens; women's status declines
+Religion | Prajapati, Vishnu, Rudra rise; rituals grow
+@end
+
+@section 3.7 | Later Vedic Age, Puranas and Epics
+- Axis of Later Vedic culture: **Kuru-Panchala** {2007}
+- Earliest iron (classic key): **Atranjikhera** {1998}
+- Videgha Mathava's priest: **Gautama Rahugana** {2015}
+- **Purushamedha**: in several texts (*) {2008}
+- Sarga, pratisarga, vamsha, manvantara, vamshanucharita: **Puranas** {2015}
+- Number of Puranas: **18** {2009, 2010}
+- Mahabharata's original name: **Jaya Samhita**; also "**Shatasahasri Samhita**" {2014, ?}
+
+@trap
+- **Asikni = Chenab**; **Parushni = Ravi** (students swap them).
+- Gayatri = **Rig Veda**, 3rd Mandala; Satyameva Jayate = **Mundaka**, not Mandukya.
+- Ayurveda first in the **Atharvaveda**; Samaveda is drawn from the Rig Veda.
+- Sabha and Samiti = Prajapati's daughters in the **Atharvaveda**.
+@end
+
+@up UP link: the Later Vedic heartland, **Kuru-Panchala**, lay largely in western UP (**Hastinapur, Ahichchhatra, Kampilya**); **Atranjikhera** (Etah) gave early iron with Painted Grey Ware, and **Naimisharanya** (Sitapur) is linked with the telling of the Puranas.
+
+@last
+- Arya = speech group (no race); Tilak = Arctic home
+- Boghazkoi = Vedic gods, 14th century BCE
+- Asikni = Chenab; Parushni = Ravi (Ten Kings); Kubha = Kabul
+- Saraswati = Naditama; Rig Veda oldest
+- Gayatri = Rig Veda; Ayurveda = Atharvaveda
+- Samhita, Brahmana, Aranyaka, Upanishad
+- Satyameva Jayate = Mundaka; Nachiketa = Katha
+- Aghanya = cow; yava = barley; nishka = neck ornament
+- Indra = most hymns; Brihaspati = gods' priest
+- Kuru-Panchala = Later Vedic axis; 18 Puranas; Jaya Samhita
+@end

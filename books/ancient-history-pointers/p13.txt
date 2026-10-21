@@ -1,0 +1,100 @@
+@chapter 13 | South India: Chola, Chalukya, Pallava and Sangam Period
+@meta Built from 47 UPPSC questions (1991–2025). Focus: southern dynasties and capitals, Sangam literature and ports, Arikamedu, Pallavas, Pulakeshin II and Aihole, Rashtrakutas, Rajaraja I and Rajendra I, Chola village government, Nataraja bronzes.
+
+@hot
+- **Rajendra I**: Bay of Bengal a "**Chola lake**", founded **Gangaikondacholapuram**, built the **Cholagangam** tank; **Rajaraja I** took northern Sri Lanka {2008, 2008, 2014, 2016, 2023}
+- **Arikamedu** (Poduke) = Roman trade and settlement; amphora jars {1997, 2001, 2002, 2003, 2009, 2014}
+- **Chola** special feature: **village autonomy**; famed for **naval power**; Nataraja bronze = **Chola art** {1991, 1992, 1995, 2004, 2006}
+- **Chalukyas of Badami**: capital **Vatapi**; greatest **Pulakeshin II**; **Aihole** inscription mentions **Kalidasa** {1991, 1991, 2004, 2013}
+- **Sangam**: third Sangam at **Madurai**; **Tolkappiyam** = grammar; Silappadikaram by **Ilango**; Pallavas were **not** a Sangam dynasty {1997, 2002, 2006, 2010, 2014}
+@end
+
+@section 13.1 | Dynasties and Capitals
+- **Mahendravarman I-Pallava, Kadungon-Pandya, Amoghavarsha I-Rashtrakuta, Rajaraja I-Chola** {2025}
+- **Chalukyas-Badami, Pallavas-Kanchipuram, Harsha-Kannauj, Pandyas-Madurai** {2004}
+
+@table
+Dynasty | Capital
+Chalukyas of Badami | Vatapi (Badami)
+Eastern Chalukyas | Vengi
+Pallavas | Kanchipuram
+Rashtrakutas | Manyakheta
+Cholas | Thanjavur, then Gangaikondacholapuram
+Pandyas | Madurai
+Kadambas | Vanavasi
+Kakatiyas | Warangal
+@end
+
+@section 13.2 | The Sangam Age
+- Third Sangam: **Madurai** {2006}
+- Not a Sangam dynasty: **Pallava** {2010}
+- Pandya lifeline (key printed "Vengi"): the **Vaigai** {2010}
+- **Meenakshi** temple: **Madurai** {1991, 1992, 2004}
+- **Tolkappiyam**: **Tamil grammar** {1997, 2014}
+- **Silappadikaram**: **Ilango Adigal** {2002}
+- **Tirukkural-philosophy, Tolkappiyam-grammar, Silappadikaram-love story, Manimekalai-merchant's tale** {2014}
+- "Laghuveda": **Kural** {2013}
+- Tamil Ramayana (Ramavataram): **Kamban** {2010}
+- Roman trade: **Arikamedu** (Periplus' **Poduke**), a **Roman settlement** {1997, 2001, 2002, 2003, 2009}
+- **Amphora**: tall **two-handled jar** {2014}
+- West-coast Sangam ports: **Tondi and Muziris** (3 and 4) {2012}
+
+@section 13.3 | Pallavas, Chalukyas and Rashtrakutas
+- Pallava order: **Mahendravarman I, Narasimhavarman I, Parameshvaravarman I, Nandivarman II** {2019}
+- Two naval expeditions to Ceylon (642): **Narasimhavarman I** {2016}
+- Chalukya capital: **Vatapi**; greatest king: **Pulakeshin II** {1991, 1991}
+- Kalidasa named in Pulakeshin II's **Aihole inscription** {2013}
+- Gave women high office: **Chalukyas** {2007}
+- China-India relations under the Chalukyas: **Ma Tuan-lin** {2014}
+- Sent ministers to stop cruelty to animals in Kashi: **Kumarapala** (Gujarat Chalukya) {2016}
+- **Kadamba** capital: **Vanavasi** {2005}
+- **Takkolam** (949): **Cholas vs Rashtrakutas** {2001}
+
+@section 13.4 | The Imperial Cholas
+- Chola empire: **Coromandel coast and part of the Deccan** {1991}
+- Capital: **Thanjavur** {2009}
+- More known about Cholas: their rule left many records (A and R true, R explains A) {2020}
+- Naval power: **Cholas** {1992, 2004}
+- Northern Sri Lanka conquered by **Rajaraja I**; he also beat the Chera navy at Kandalur {2014, 2023}
+- "Chola lake", **Gangaikondacholapuram**, **Cholagangam**: **Rajendra I** {2008, 2008, 2016}
+- Freed Sri Lanka and married his daughter to a Sinhala prince: **Kulottunga I** {2012}
+- Heir named in the king's lifetime: unclear (*) {2001}
+- Who ended the Cholas: unclear (*); the Pandyas and Hoysalas {2004}
+- Special feature: **village self-government** {1991, 1995}
+- Garden committee: **Thotta Variyam** {2013}
+- Overseas guilds: **Nanadesis, Manigramam** {2018}
+- 72 merchants to China: **Kulottunga I** {1992}
+- **Nataraja** bronze: **Chola art** {2006}
+- Nataraja: four hands; a man's earring right, a woman's left (both) {2021}
+- **Dakshinamurti**: Shiva as **teacher** {2013}
+- **Rudramadevi** (Kakatiya): fourth ruler; beat Pandyas, Gangas and Yadavas (both) {2023}
+
+@flow Chola greatness
+Vijayalaya (850) | Takes Thanjavur
+Parantaka I | Uttaramerur inscriptions (village sabhas)
+Rajaraja I (985) | Brihadishvara; northern Sri Lanka; Maldives
+Rajendra I | Ganga expedition; Srivijaya raid; Chola lake
+Kulottunga I | Joins Eastern Chalukya line; 72 merchants to China
+@end
+
+@trap
+- Pallavas are **post-Sangam**; the Sangam kingdoms are Chera, Chola, Pandya.
+- Northern Sri Lanka = **Rajaraja I**; whole island and Ganga raid = **Rajendra I**.
+- Kalidasa is named in the **Aihole** inscription (Ravikirti) of Pulakeshin II.
+- Takkolam was a **Chola defeat** by the Rashtrakuta Krishna III.
+@end
+
+@up UP link: Rajendra I's northern campaign reached the **Ganga** (in Bengal), and Kumarapala's ministers acted in **Kashi**; Varanasi also remained the great learning centre that southern scholars like Shankaracharya visited.
+
+@last
+- Mahendravarman = Pallava; Amoghavarsha = Rashtrakuta
+- Third Sangam = Madurai; Tolkappiyam = grammar
+- Silappadikaram = Ilango; Kural = Laghuveda; Kamban = Tamil Ramayana
+- Arikamedu = Poduke, Roman trade
+- Narasimhavarman I = Ceylon expeditions, Mamalla
+- Vatapi; Pulakeshin II; Aihole names Kalidasa
+- Takkolam = Chola vs Rashtrakuta
+- Rajaraja I = north Sri Lanka; Rajendra I = Chola lake
+- Chola = village autonomy; Thotta Variyam = gardens
+- Nataraja = Chola bronze; Dakshinamurti = teacher
+@end
