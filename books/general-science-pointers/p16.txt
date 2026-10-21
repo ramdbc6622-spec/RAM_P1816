@@ -1,0 +1,117 @@
+@chapter 16 | Non-Metals, Gases, Acids, Bases and Salts
+@meta Built from 53 UPPSC questions (1993–2025). Focus: carbon's allotropes and fullerene, dry ice, heavy water, gases for divers, balloons and tyres, laughing gas, pH and aqua regia, common salts.
+
+@hot
+- **Fullerene** is a carbon cage (C-60), **not** a fluorine compound {2001, 2002, 2003, 2006, 2010, 2017}
+- **Dry ice** = **solid carbon dioxide** {2009, 2013, 2014}
+- **Heavy water**: **deuterium** in place of hydrogen; molecular weight **20** {1993, 2007, 2015, 2016}
+- **Divers** breathe **oxygen and helium** {2004, 2014, 2016}
+- **Hypo (sodium thiosulphate)** = photographic fixer; plates coated with **silver bromide** {2010, 2014, 2015, ?, ?}
+@end
+
+@section 16.1 | Carbon and Its Allotropes
+- Most compounds formed by **carbon** {2016}
+- Most stable form of carbon: **graphite** {2022}
+- Made of carbon only: **graphene**, a carbon **nanostructure** and the **strongest** material {2015, 2015, 2018}
+- Not a carbon allotrope: **oxocarbon** {2010}
+- Fundamental element among options: **diamond** (pure carbon) {1995}
+- Hardest natural substance: **diamond** {2016}
+- Pencil "lead": **graphite** {1994, 2006}
+- Not in the fullerene Nobel team: **"Faimen"**; winners were **Kroto, Curl, Smalley** {2009}
+- **Buckminsterfullerene**: **60 carbon atoms** in pentagons and hexagons {2010}
+- Wrong pair: **fullerene-fluorine compound** {2001, 2002, 2003, 2006, 2017}
+- First made in labs: **Kevlar, fullerene, graphene, black gold** {2019}
+- No carbon: **sand** (silica) {2013}
+- Contains carbon: **lignite**; highest-carbon coal: **anthracite** {1993, ?}
+- Most carbon among options: **pig iron** {2014}
+- **1 carat = 200 mg** {2013}
+- True: calcium sulphate makes water hard; diamond is harder than copper and iron (1 and 2) {2001}
+- **Dry ice**: **solid CO2** {2009, 2013, 2014}
+
+@table
+Form of carbon | Note
+Diamond | Hardest natural substance; poor conductor
+Graphite | Most stable; pencil lead, lubricant, moderator
+Fullerene (C-60) | Football cage; Kroto, Curl, Smalley (Nobel 1996)
+Graphene | One-atom sheet; strongest material (Geim, Novoselov, 2010 Nobel)
+Carbon nanotube | Rolled graphene (Iijima, 1991)
+@end
+
+@section 16.2 | Hydrogen and Water
+- Commonest element in the universe: **hydrogen** {2007}
+- Cleanest fuel: **hydrogen** {2015}
+- **Heavy water**: **deuterium** in place of hydrogen {1993, 2007, 2016}
+- Heavy water molecular weight: **20** {2015}
+- Salty to pure water: **reverse osmosis** {2013}
+- Vanaspati ghee: oil hardened with **hydrogen** {2013}
+
+@section 16.3 | Noble Gases and Nitrogen
+- Not a noble gas: **actinium** {2023}
+- Divers' breathing gas: **oxygen and helium** {2004, 2014, 2016}
+- Very soluble in water: **ammonia** {1993}
+- Laughing gas: **nitrous oxide** (N2O) {2010, 2011, ?}
+- Not correct: **nitric oxide is laughing gas** {2010}
+- Nitrogen cycle keeps nitrogen in land and air **unchanged** {2008}
+- Aircraft tyres: **nitrogen** {2014}
+- Helium over hydrogen in balloons: **no explosive mix** with air {2011}
+- Lighter than air: **helium** only (HCl and SO2 are heavier) {2025}
+- Liquid non-metal at room temperature: **bromine** {2017}
+
+@table
+Gas | Use
+Helium | Balloons, divers' mix (with oxygen), MRI cooling
+Neon | Advertising signs
+Argon | Bulbs, tube lights, welding
+Nitrogen | Aircraft tyres, food packing
+Nitrous oxide | Laughing gas, anaesthetic
+Hydrogen | Vanaspati, cleanest fuel
+@end
+
+@section 16.4 | Acids, Bases and pH
+- Acids have pH **below 7**, bases **above 7** (neither statement right) {2025}
+- **Aqua regia**: concentrated **HCl and HNO3** (3:1); dissolves gold {2014, 2023}
+
+@section 16.5 | Common Salts and Their Uses
+- **Washing soda-sodium carbonate, caustic soda-sodium hydroxide, neela thotha-copper sulphate, hypo-sodium thiosulphate** {2002}
+- **Bleaching powder-calcium oxychloride, baking soda-sodium bicarbonate, washing soda-sodium carbonate, Plaster of Paris-calcium sulphate hemihydrate** {2016, 2021}
+- Baking soda: **sodium hydrogen carbonate**, used in **fire extinguishers** (both) {2025}
+- Baking soda formula: **NaHCO_{3}** {2024}
+- Bleaching powder: **calcium oxychloride** {2010}
+- Salt not for the dining table: all options are edible (*) {2014}
+- Photography and antichlor: **sodium thiosulphate** {2010}
+- Photographic fixer: **sodium thiosulphate** (hypo) {2014, ?}
+- Photographic plate: **silver bromide** {2015, ?}
+- Wrong pair: **silver bromide-artificial photosynthesis** {2019}
+
+@table
+Common name | Chemical
+Baking soda | Sodium bicarbonate (NaHCO3)
+Washing soda | Sodium carbonate
+Caustic soda | Sodium hydroxide
+Bleaching powder | Calcium oxychloride
+Plaster of Paris | Calcium sulphate hemihydrate
+Neela thotha | Copper sulphate
+Hypo | Sodium thiosulphate
+@end
+
+@trap
+- **Nitrous** oxide (N2O) = laughing gas; nitric oxide (NO) is not.
+- Fullerene is **pure carbon**, not fluorine.
+- Acid pH < 7; base pH > 7.
+- **Baking soda** = bicarbonate; **washing soda** = carbonate.
+@end
+
+@up UP link: **Phulpur** (IFFCO) and other UP fertiliser plants make **ammonia** from natural gas; **Rae Bareli** (Unchahar) and other UP plants use nitrogen and hydrogen gases in industry (soft detail).
+
+@last
+- Carbon forms most compounds; graphite = most stable
+- Graphene = strongest; diamond = hardest natural
+- Fullerene = C-60; Kroto, Curl, Smalley
+- 1 carat = **200 mg**; anthracite = most carbon
+- Dry ice = solid **CO2**; heavy water = **D2O**, weight 20
+- Divers: **O2 + He**; aircraft tyres: **N2**
+- Laughing gas = **N2O**; helium safer than hydrogen
+- Bromine = liquid non-metal; aqua regia = HCl + HNO3
+- Bleaching powder = **calcium oxychloride**
+- Hypo = fixer; silver bromide = photographic plate
+@end
