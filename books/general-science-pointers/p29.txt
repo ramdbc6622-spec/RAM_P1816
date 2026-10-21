@@ -1,0 +1,192 @@
+@chapter 29 | Biology Miscellaneous
+@meta Built from 133 UPPSC questions (1990–2024). Focus: health days and programmes, body chemistry, microbes in industry, medical tests and devices, animals and breeds, herbicides, and research institutes (many in UP).
+
+@hot
+- **UP institutes**: **CDRI, CIMAP-Lucknow; IVRI-Bareilly; vegetable research-Varanasi; goat research-Makhdoom (Mathura); ALIMCO-Kanpur** {1991, 2001, 2013, 2016, 2017, 2017, 2017, 2021, 2021}
+- **Health days**: **World AIDS Day 1 December, TB Day 24 March, Anti-Leprosy Day 30-31 January, Environment Day 5 June, Food Day 16 October** {1992, 1999, 1999, 2002, 2009}
+- **Medical tests**: **EEG-brain, ECG-heart, EOG-eyes, EMG-muscle, audiogram-ear, mammogram-breast** {2009, 2012}
+- **Endoscope** works by **total internal reflection** {2008, 2009, 2010, 2014, 2014}
+- **Rayon** is regenerated **cellulose**, not modified starch {2015, 2022}
+- **Three-chambered heart**: **frog** (amphibians) {2013, 2016}
+@end
+
+@section 29.1 | Science News and Scientists
+- Nobel Medicine 2024 (Ambros, Ruvkun): **microRNAs** {2023}
+- **Birbal Sahni-palaeobotany, K.C. Mehta-plant pathology, P. Maheshwari-embryology, M.S. Swaminathan-Green Revolution** {2021}
+- Science and Technology Policy 2003 aims: **all four** {2008}
+- Not a science (Narlikar): **astrology** {2018}
+- Science needs commitment to ideals and **honesty** (both) {2024}
+
+@section 29.2 | Health Programmes and Days
+- **Red Ribbon Express**: **AIDS awareness** {2010}
+- **Mission Indradhanush**: immunising children against **seven** preventable diseases (now 12) {2014, 2015, 2017}
+- **SANRAKSHA**: AIDS research and control project (Bengaluru) {2014}
+- **NACO**: **AIDS** {2006}
+- WHO Global Traditional Medicine Centre: **Jamnagar** {2022}
+- Indian Biological Data Centre: **Haryana** (Faridabad) {2023}
+- **1 December**: **World AIDS Day** {2009}
+- Calendar order: **Anti-Leprosy (30 Jan), TB (24 Mar), Alzheimer's (21 Sep), AIDS (1 Dec)** {2002}
+- **5 June-Environment, 1 December-AIDS, 5 September-Teachers, 16 October-Food** {1992}
+- **TB-24 March, AIDS-1 December, Anti-Leprosy-30/31 January, Ozone-16 September** {1999}
+- Minority Rights, AIDS, Animal, Food days: dates printed did not fit (*) {1999}
+- Order: **Maritime (5 Apr), Health (7 Apr), Athletics (7 May), Red Cross (8 May)** {2024}
+- Order: **Heritage (18 Apr), Light (16 May), Thyroid (25 May), No Tobacco (31 May)** {2024}
+
+@table
+Day | Date
+Anti-Leprosy Day | 30 January
+World TB Day | 24 March
+World Health Day | 7 April
+World Environment Day | 5 June
+Ozone Day | 16 September
+World Food Day | 16 October
+World AIDS Day | 1 December
+@end
+
+@section 29.3 | Body Chemistry
+- **Cholesterol**: a **steroid** {2005, 2021}
+- Trans fat lowers **HDL** (good cholesterol) {2012}
+- Wrong pair: **mustard oil-lubricant** {2023}
+- Yellow urine: **urochrome** {2008}
+- **Antioxidants** protect cells from **free radicals** {2012}
+- Silk, hair, nails, claws: **keratin** (per key; silk is fibroin) {2009}
+- Lost in dehydration: **sodium chloride** {1998, 2009}
+- Dehydrated person must not drink **sea water** {2015}
+- Discomfort in humid heat: **sweat cannot evaporate** {1995}
+- Most abundant organic compound: **cellulose** {2012, 2014}
+- Fruit sweetness: **fructose** {2017}
+- Wrong pair: **pasteurisation-tea** {2019}
+- **Acetic-vinegar, lactic-milk, butyric-butter, citric-lemon** {2013}
+- **Bones-calcium phosphate, vinegar-acetic acid, souring milk-lactic acid, ripening-ethylene** {2016}
+- **Vinegar-acetic, sour milk-lactic, bones-calcium phosphate, gastric juice-HCl** {2016}
+- Wrong pair: **lactose-sour milk** (that is lactic acid) {2015}
+- **Skin cancer-UV, noise-decibel, global warming-CO2, ozone hole-CFCs** {2015}
+- Wrong pair: **antibiotic-quinine** (quinine is an antimalarial) {2010}
+
+@section 29.4 | Microbes and Fermentation
+- **Lactobacillus-curd, Rhizobium-nitrogen fixation, yeast-alcohol, Aspergillus-citric acid** {2003}
+- Toddy fermentation: **Saccharomyces** (yeast) {2010, ?, ?}
+- Microbe-made nanoparticle diode (India): **yeast** {2002}
+
+@section 29.5 | Medical Devices and Medicine
+- **EEG-brain, ECG-heart, EOG-eyes, EMG-muscle** {2009}
+- **Audiogram-ear, ECG-heart, EEG-brain, mammogram-breast** {2012}
+- Internal organs examined by **endoscope** {2014}
+- Endoscope: **total internal reflection** {2008, 2009, 2010}
+- What an endoscope is: **none of these** (per key) {2014}
+- **Tetraplegia**: paralysis of **both arms and both legs** {2015}
+- Electron beam therapy: **certain cancers** {2008}
+- Dentist's mirror: **concave** {2009, ?}
+- Foetal growth monitored by **ultrasonics** {2006}
+- First heart transplant: **Christiaan Barnard** (1967) {2004, 2021}
+- **Jarvik-7**: **artificial heart** {2007}
+- **Pacemaker**: regulates heartbeat; natural one = **SA node** {1999, 2007}
+- **Biojector**: painless **needleless injector** {1997}
+- Wrong pairs: **antiseptic-aspirin**, **antiseptic-phenolphthalein** {2003, 2006}
+- **Myoglobin-muscle, sarpagandha-tranquiliser, carcinoma-radiotherapy, haemoglobin-oxygen transport** {2004}
+- **Bulimia-eating disorder, cholesterol-egg yolk, atropine-alkaloid, insulin-pancreas** {2004}
+- Anaesthetics: **chloroform and nitrous oxide** (1 and 2) {2002, ?}
+- **Cardiologist-heart, nephrologist-kidney, urologist-urinary tract, oculist-eye** {2010}
+- Correct pair: **neurology-nervous system** {2015}
+- Not banned for athletes: **colostrum** {2003}
+- **Testosterone-hormone, codeine-sedative, caoutchouc-rubber, eugenol-clove oil** {2008}
+- **Anthrax-biowarfare toxin, thalassaemia-defective gene, surrogacy-womb renting, transgenics-altering genomes** {2003}
+- **Saheli**: CDRI's non-steroidal weekly **contraceptive pill** {2017}
+
+@section 29.6 | Animals
+- Dog that cannot bark: **dingo** (per key; basenji also) {2010}
+- **Pheromones**: mostly **insects** {2015}
+- Iodine from **Laminaria** (kelp) {2004, ?}
+- **Cuckoo-no nest, lizard-sheds tail, blue whale-largest, chimpanzee-most intelligent** {2004}
+- Stem fibre: **sunn hemp** {2010}
+- Frog metamorphosis: **intestine shortens** {2010}
+- Bull semen stored in **liquid nitrogen** {2007}
+- High-yield cow: **Holstein** {2006}
+- Wrong pairs: **sheep-Gir**, **sheep-Tharparkar** (both are cattle breeds) {2021, 2021}
+- Three-chambered heart: **frog** (amphibians) {2013, 2016}
+- Animals without a gall bladder: several fit (*) {2004}
+- First animal in space (key): a **dog** (Laika, 1957) {2010}
+- **Angora wool**: **rabbit** {2010}
+- Street-performing bear: **sloth bear** {2008}
+- Largest brain for body size: **ant** {2017}
+- Landmine detection: **bees** {2002}
+- Cannot digest fibre well: **pig** {1991}
+- Insect secretion: **lac** {1996}
+- Light from living bodies: **bioluminescence** {2014}
+- Mosquito-eating fish: **Gambusia** {2011}
+- **Prallethrin**: mosquito repellent {2017}
+
+@section 29.7 | Plants and Agriculture
+- Herbicides spare crops as uptake rates differ (A and R true, R explains A) {2002}
+- **2,4-D**: a **herbicide**; used in paddy {1999, 2015}
+- Herbicide: **butachlor** {2017}
+- Largest flower: **Rafflesia** {1998}
+- Not needed for germination: **light** {1990}
+- Mustard seed adulterant (per key): **poppy seeds**; argemone seeds cause dropsy {2008}
+- Used in World War I: **mustard gas** {2009}
+- Wax emulsion on fruit: **longer storage life** {2010}
+- Clay holds most water, but its pores are **small** (A true, R false) {2017}
+- **Eutrophication**: nutrient enrichment that **cuts dissolved oxygen** (both) {2019, 2020}
+- Biodegradable: **wool** {2022}
+- **Auxanometer**: rate of **growth** {2010}
+- Tree age: **annual rings** {2000}
+- Green Revolution seeds needed **more fertiliser and water** {2001}
+- Paddy fields emit **methane** {2006}
+- **Dapog** rice nursery: **Philippines** {2010}
+- **Destructive Insects and Pests Act**: **1914** {2023}
+- **Silicon carbide-artificial diamond, carbon fibre-aircraft, CO2-photosynthesis, CFC-refrigerator** {2009}
+- Wrong pair: **rayon-modified starch** {2015, 2022}
+- Wrong pair: **biological clock-biomass** {2010}
+
+@section 29.8 | Research Institutes
+- Indian Institute of Vegetable Research: **Varanasi**; not Gorakhpur {2017, 2021}
+- **IVRI**: **Bareilly** (Izatnagar) {2013, 2016}
+- **CDRI**: **Lucknow** {1991}
+- **CIMAP**: **Lucknow** {2021}
+- Wrong pair: **CECRI-Kolkata** (it is Karaikudi) {2004}
+- High Security Animal Disease Laboratory: **Bhopal** {2005}
+- Non-CSIR Lucknow institute: **BSIP** (DST) {2005}
+- Institute for the mentally handicapped: **Hyderabad** (Secunderabad) {2013}
+- **CDRI-Lucknow, Central Leprosy Institute-Agra, MNNIT-Allahabad, Sugar Technology-Kanpur** {2001}
+- Wrong pair: **subtropical horticulture-Srinagar** (it is Lucknow) {2017}
+- **ALIMCO** (artificial limbs): **Kanpur** {2017}
+- **CDFD** (DNA fingerprinting): **Hyderabad** {2013}
+- **FAO-Rome, Agmark lab-Nagpur, rice institute-Cuttack, potato institute-Shimla** {2009}
+- International Potato Centre: **Lima, Peru** {2021}
+- Mismatch: **NBRI-Kolkata** (it is Lucknow) {2005}
+- **NBPGR**: **New Delhi** {2013}
+- Goat research: **Makhdoom, Mathura** {2017}
+- First dinosaurium: **Hyderabad** (per key) {2004}
+
+@table
+Institute | Location (UP)
+CDRI, CIMAP, NBRI, IITR, BSIP | Lucknow
+IVRI | Izatnagar, Bareilly
+Indian Institute of Vegetable Research | Varanasi
+Central Institute for Research on Goats | Makhdoom, Mathura
+ALIMCO | Kanpur
+National Sugar Institute | Kanpur
+Central JALMA (leprosy) Institute | Agra
+@end
+
+@trap
+- **Gir** and **Tharparkar** are **cattle** breeds, not sheep.
+- CECRI = **Karaikudi**; NBRI = **Lucknow**; vegetable research = **Varanasi**, not Gorakhpur.
+- Quinine is an antimalarial, not an antibiotic; aspirin is a painkiller, not an antiseptic.
+- Frog = 3-chambered heart; fish = 2; birds and mammals = 4.
+@end
+
+@up UP link: Lucknow alone hosts **CDRI** (Saheli pill), **CIMAP**, **NBRI**, **IITR**, **BSIP** and **NBFGR**; add **IVRI** (Bareilly), **IIVR** (Varanasi), **CIRG** (Makhdoom), **ALIMCO** and **NSI** (Kanpur), and **JALMA** (Agra).
+
+@last
+- AIDS Day **1 Dec**; TB Day **24 Mar**; Anti-Leprosy **30 Jan**
+- Mission Indradhanush = child immunisation
+- WHO traditional medicine centre = **Jamnagar**
+- Cholesterol = steroid; trans fat lowers HDL; urochrome = urine colour
+- EEG brain, ECG heart, EMG muscle, EOG eyes
+- Endoscope = TIR; Barnard = first heart transplant; Jarvik-7 = artificial heart
+- Saheli = CDRI pill; Gambusia eats larvae
+- Frog = 3-chambered heart; Angora = rabbit; Holstein = high-yield cow
+- 2,4-D, butachlor = herbicides; Rafflesia = largest flower
+- CDRI, CIMAP = Lucknow; IVRI = Bareilly; IIVR = Varanasi; ALIMCO = Kanpur
+@end

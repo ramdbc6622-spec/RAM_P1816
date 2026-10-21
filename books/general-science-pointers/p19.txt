@@ -1,5 +1,5 @@
 @chapter 19 | Food Chemistry, Fertilisers and Chemistry Miscellany
-@meta Built from 65 UPPSC questions (1992–2025). Focus: food preservatives, urea and DAP, pesticides and rat poison, silver iodide for artificial rain, chemical-use matching, phosphorus in matches, battery acid.
+@meta Built from 65 UPPSC questions (1992–2021). Focus: food preservatives, urea and DAP, pesticides and rat poison, silver iodide for artificial rain, chemical-use matching, phosphorus in matches, battery acid.
 
 @hot
 - **Preservatives**: **sodium benzoate**, benzoic acid; chips packed in **nitrogen** {1992, 1996, 2010, 2013, 2016, ?}
