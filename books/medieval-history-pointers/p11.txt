@@ -1,0 +1,66 @@
+@chapter 11 | Provincial Dynasties of North India and the Deccan
+@meta Built from 24 UPPSC questions (1995–2023). Focus: Zain-ul-Abidin of Kashmir, the Sharqis of Jaunpur, Rana Kumbha, the Bahmanis and Deccan sultanates, provincial architecture, southern kingdoms and officer titles.
+
+@hot
+- **Jaunpur**: founded by **Firuz Tughluq** in memory of **Muhammad bin Tughluq**; "**Shiraz of India**" (a centre of learning); last ruler **Hussain Shah** {2001, 2002, 2003, 2004, 2004, 2005, 2006, 2017, 2023}
+- **Rana Kumbha**: built the victory tower (Kirti/Vijay Stambh) at **Chittor**; wrote on **music** {2007, 2008, 2010, 2011}
+- **Bahmani kingdom**: **1347**, founded by **Hasan Gangu**; **Adil Shahi-Bijapur, Qutb Shahi-Golconda, Nizam Shahi-Ahmadnagar** {1995, 2002, 2004, 2005}
+- **Southern capitals**: **Hoysala-Dwarasamudra (Halebid), Yadava-Devagiri, Kakatiya-Warangal, Pandya-Madurai** {2003, 2003, 2008, 2014, 2018, 2019}
+@end
+
+@section 11.1 | Kashmir, Jaunpur and Mewar
+- Abolished jizya and cow slaughter in Kashmir: **Zain-ul-Abidin** (real name **Shahi Khan**) {2023, ?}
+- Jaunpur founded in memory of **Muhammad bin Tughluq**, by **Firuz Shah Tughluq** {2002, 2003, 2004, 2006}
+- "**Shiraz of India**": **Jaunpur** {2001, 2004, 2005}
+- Jaunpur was "Shiraz-i-Hind" as a great centre of learning (A and R true, R explains A) {2023}
+- Last ruler of Jaunpur: **Hussain Shah** Sharqi {2017}
+- Wrong pair: **Malik Sarwar Khwaja Jahan-Malwa** (he founded the Jaunpur Sharqi state) {2021}
+- Victory tower of Chittor: **Rana Kumbha** {2008, 2010, 2011}
+- Rajput ruler who wrote on music: **Rana Kumbha** {2007}
+
+@section 11.2 | The Deccan
+- Bahmani kingdom: **1347**, founder **Hasan Gangu** (Alauddin Bahman Shah) {1995, 2005}
+- **Adil Shahi-Bijapur, Qutb Shahi-Golconda, Nizam Shahi-Ahmadnagar, Sharqi-Jaunpur** {2002}
+- **Kitab-i-Nauras**: **Ibrahim Adil Shah II** {2020}
+- Wrong pair: **Yusuf Adil Shah-Ahmadnagar** (he founded Bijapur) {2004}
+
+@table
+Deccan sultanate | Capital | Dynasty
+Bijapur | Bijapur | Adil Shahi
+Ahmadnagar | Ahmadnagar | Nizam Shahi
+Golconda | Golconda | Qutb Shahi
+Berar | Ellichpur | Imad Shahi
+Bidar | Bidar | Barid Shahi
+@end
+
+@section 11.3 | Architecture, the South and Officers
+- Wrong pair: **Adina Masjid-Mandu** (it is at **Pandua**, Bengal) {2018}
+- **Atala Masjid-Ibrahim Shah Sharqi, Chhota Sona Masjid-Wali Muhammad, Qadam Rasul-Nusrat Shah, Adina Masjid-Sikandar Shah** {2021}
+- Correct: **Hoysala-Dwarasamudra**, Pandya-Madurai {2003, 2008}
+- **Pallava-Kanchi, Pandya-Madurai, Yadava-Devagiri, Kakatiya-Warangal** {2019}
+- Wrong pair: **Warangal-Ramachandra Dev** (Ramachandra ruled Devagiri) {2018}
+- **Dwarasamudra** = modern **Halebid**; capital of the **Hoysalas** {2003, 2014}
+- **Polygars**: territorial **administrative and military** chiefs {2015}
+- **Talar-night guard, Pattakila-village tax collector, Sahasadhipati-dacoity officer, Baladhipa-octroi guard** {2022}
+
+@trap
+- Jaunpur founder = **Firuz**; Sharqi state founder = **Malik Sarwar** (Khwaja Jahan).
+- Zain-ul-Abidin **abolished** jizya; Sikandar Shah (Kashmir) imposed it.
+- Yadava = **Devagiri**; Kakatiya = **Warangal** (often swapped).
+- Adina Masjid = **Pandua** (Bengal), not Mandu.
+@end
+
+@up UP link: the **Sharqi Sultanate of Jaunpur** (1394-1479) was UP's great medieval regional state; its **Atala Masjid** and **Jama Masjid**, and its fame as the "Shiraz of India", come from Ibrahim Shah Sharqi's patronage of learning.
+
+@last
+- Zain-ul-Abidin (Shahi Khan) = Budshah of Kashmir
+- Jaunpur = Firuz, for MBT; Shiraz of India
+- Malik Sarwar founded the Sharqis; Hussain Shah the last
+- Rana Kumbha = Chittor tower, music treatise
+- Bahmani 1347; Hasan Gangu
+- Bijapur = Adil Shahi; Golconda = Qutb Shahi; Ahmadnagar = Nizam Shahi
+- Ibrahim Adil Shah II = Kitab-i-Nauras
+- Atala Masjid = Ibrahim Sharqi; Adina = Sikandar Shah (Pandua)
+- Dwarasamudra = Halebid (Hoysala)
+- Polygars = military chiefs in the south
+@end

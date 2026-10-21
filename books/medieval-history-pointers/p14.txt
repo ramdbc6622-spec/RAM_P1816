@@ -1,0 +1,65 @@
+@chapter 14 | Humayun and Sher Shah
+@meta Built from 15 UPPSC questions (1993–2023). Focus: Humayun's family, Chausa and Kannauj, Sher Shah's rise, death at Kalinjar and tomb at Sasaram, the Purana Qila, revenue and the rupiya.
+
+@hot
+- **Sher Shah**: died at **Kalinjar** (1545), buried at **Sasaram** {1993, 2002, 2015, 2016}
+- **Patta and qabuliyat**: **Sher Shah** {2004, 2008, 2009}
+- **Kannauj (Bilgram), 17 May 1540**: **Sher Shah beat Humayun** {2019}
+- **Purana Qila** in its present form and its **Qila-i-Kuhna** mosque: **Sher Shah** {2009, 2016, 2021}
+@end
+
+@section 14.1 | Humayun
+- Wrong pair: **Hamida Banu-wife of Alauddin** (she was Humayun's wife) {2023}
+- Not Humayun's brother: **Usman** (brothers: Kamran, Askari, Hindal) {2008}
+- Kannauj, 17 May 1540: **Sher Shah vs Humayun** {2019}
+- Order: **Daurah, Chausa, Kannauj, Samugarh** {2017}
+
+@flow Humayun and the Afghans
+1532 | Daurah: Humayun beats the Afghans
+1539 | Chausa: Sher Khan beats Humayun
+1540 | Kannauj (Bilgram): Humayun loses; exile
+1545 | Sher Shah dies at Kalinjar
+1555 | Humayun returns (Machhiwara, Sirhind)
+1556 | Humayun dies falling from his library stairs
+@end
+
+@section 14.2 | Sher Shah
+- Highly educated ruler: **Sher Shah** (studied at Jaunpur) {2010}
+- **Jaita and Kumpa** of **Marwar** impressed Sher Shah {2022}
+- "Lost the empire for a handful of millet": **Sher Shah** {2007}
+- Died at **Kalinjar**, his last campaign; buried at **Sasaram** {1993, 2002, 2015, 2016}
+- **Purana Qila** in present form: **Sher Shah**; **Qila-i-Kuhna** mosque too {2009, 2016, 2021}
+- Brilliant administrator (only 1) {2021}
+- **Patta and qabuliyat**: **Sher Shah** {2004, 2008, 2009}
+- Rupiya to dam: **1 : 64** (Sher Shah) {2006}
+
+@table
+Sher Shah's reform | Detail
+Land revenue | Measured land; one-third of produce
+Patta, qabuliyat | Title deed and acceptance
+Coinage | Silver rupiya, copper dam
+Roads | Sarak-i-Azam (Grand Trunk Road), sarais
+Dak | Horse post at sarais
+@end
+
+@trap
+- Died at **Kalinjar** (UP); buried at **Sasaram** (Bihar).
+- Chausa (1539) came **before** Kannauj (1540).
+- Jaita and Kumpa were of **Marwar**, not Mewar.
+- Rupiya:dam = 1:64 (Sher Shah) but 1:40 under Akbar.
+@end
+
+@up UP link: **Chausa** lies on the UP-Bihar border near Buxar; **Kannauj (Bilgram)** in UP saw Humayun's final defeat (1540), and **Kalinjar fort** (Banda) is where Sher Shah died in 1545; he had studied at **Jaunpur**.
+
+@last
+- Hamida Banu = Humayun's wife (Akbar's mother)
+- Humayun's brothers: Kamran, Askari, Hindal
+- Daurah 1532; Chausa 1539; Kannauj 1540
+- Sher Shah educated at Jaunpur
+- Jaita and Kumpa = Marwar
+- Handful of millet = Sher Shah
+- Died at Kalinjar; buried at Sasaram
+- Purana Qila, Qila-i-Kuhna = Sher Shah
+- Patta, qabuliyat = Sher Shah
+- Rupiya:dam = 1:64
+@end

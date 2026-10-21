@@ -1,0 +1,82 @@
+@chapter 24 | Maratha State and Confederacy
+@meta Built from 25 UPPSC questions (1990–2025). Focus: why the Marathas rose, Shivaji's campaigns and coronation, Ashtapradhan, chauth and coins, the successors and Tarabai, the Peshwas, Third Panipat.
+
+@hot
+- **Ashtapradhan** = Shivaji's council of eight ministers {1991, 1995, 1997, 2013}
+- **Third Panipat (1761)**: Marathas beaten by the **Afghans** under **Ahmad Shah Abdali**; Najib Khan Rohilla his ally {1993, 1994, 2004, 2006, 2012}
+- **Peshwa order**: **Balaji Vishwanath, Baji Rao I, Balaji Baji Rao, Madhav Rao I, Narayan Rao, Raghunath Rao** {2004, 2023, 2024, 2025}
+- Shivaji's capital: **Raigarh**, crowned there in **1674** {1990, 2015, 2016}
+- **Tarabai** led the Marathas at Aurangzeb's death {2008, 2012, 2013}
+@end
+
+@section 24.1 | Shivaji
+- Reasons for the Maratha rise: **all of the above** {1992}
+- Big Deshmukhs opposed Shivaji as they wished to stay Bijapur's vassals (A and R true, R explains A) {2024}
+- Born **1627** (key; 1630 is also used), crowned **1674** {2015}
+- Bijapur sent **Afzal Khan** (1659) {1999}
+- Order: **Chakan, Afzal Khan, clash with the Mughals, sack of Surat** {2016}
+- Shivaji beat the Mughals at **Salher** {2005}
+- Capital and coronation: **Raigarh** {1990, 2016}
+
+@section 24.2 | Administration
+- **Ashtapradhan**: **Maratha** council {1991, 1995, 2013}
+- **Sar-i-Naubat**: **military** {2014}
+- Ministers advised Shivaji but did **not** hold independent charge (A true, R false) {1997}
+- Not a silver coin: **ruka** {2016}
+- Protection levy: **chauth** {2018}
+
+@table
+Ashtapradhan | Duty
+Peshwa | Prime minister
+Amatya (Majumdar) | Finance
+Sachiv | Correspondence
+Mantri (Waqianavis) | Records, intelligence
+Sar-i-Naubat | Army
+Sumant (Dabir) | Foreign affairs
+Panditrao | Religion
+Nyayadhish | Justice
+@end
+
+@section 24.3 | Successors and Peshwas
+- Order: **Sambhaji, Rajaram, Shivaji II, Shahu** {2005}
+- At Aurangzeb's death the leader was **Tarabai** {2008, 2012, 2013}
+- Peshwa order: **Balaji Vishwanath, Baji Rao I, Balaji Baji Rao, Madhav Rao I** {2004, 2025}
+- Order: **Balaji Vishwanath, Baji Rao I, Madhav Rao I, Narayan Rao** {2023}
+- Order: **Balaji Vishwanath, Balaji Baji Rao, Narayan Rao, Raghunath Rao** {2024}
+- By 1750 a confederacy under the Peshwa (A and R true, R explains A) {1997}
+- Peshwa became the real ruler under **Balaji Baji Rao** {2007}
+- Strongest native power after the Mughals, but the reason over-claims (A true, R false) {2016}
+
+@section 24.4 | Third Panipat
+- Marathas lost to the **Afghans** {1993, 1994, 2012}
+- Fought between **Marathas and Ahmad Shah Abdali** {2004}
+- Abdali's Rohilla confidant: **Najib Khan** {2006}
+
+@flow Maratha timeline
+1674 | Shivaji crowned at Raigarh
+1689 | Sambhaji executed
+1700-07 | Tarabai leads the war
+1713 | Balaji Vishwanath first Peshwa
+1761 | Third Panipat (Balaji Baji Rao's time)
+@end
+
+@trap
+- Chauth = **one-fourth** (protection); sardeshmukhi = **one-tenth**.
+- Shahu ruled **after** Rajaram and Shivaji II (he was a Mughal prisoner).
+- Balaji Vishwanath (first Peshwa) is not Balaji Baji Rao (Panipat).
+@end
+
+@up UP link: the Marathas raided the **Doab** and **Rohilkhand**; **Najib Khan** of the Rohillas (Najibabad, Bijnor) and **Shuja-ud-Daula** of **Awadh** sided with Abdali at Third Panipat; Shivaji escaped from **Agra** in 1666.
+
+@last
+- Shivaji crowned 1674 at Raigarh
+- Afzal Khan (Bijapur) 1659; Salher victory
+- Ashtapradhan = eight ministers
+- Chauth = protection; sardeshmukhi = hereditary 10%
+- Sambhaji, Rajaram, Shivaji II, Shahu
+- Tarabai led after 1700
+- Balaji Vishwanath, Baji Rao I, Balaji Baji Rao, Madhav Rao I
+- Peshwa supreme under Balaji Baji Rao
+- Third Panipat 1761: Abdali (Afghans)
+- Najib Khan = Rohilla ally of Abdali
+@end

@@ -1,0 +1,54 @@
+@chapter 23 | Sikh Sect
+@unit UNIT VI · SIKHS, MARATHAS AND MUGHAL DECLINE
+@meta Built from 10 UPPSC questions (1996–2021). Focus: Guru Nanak, succession and the ten Gurus, Gurmukhi and Amritsar, the executions of Arjan Dev and Tegh Bahadur, Gobind Singh and the Khalsa, Banda Bahadur.
+
+@hot
+- Gurus executed by the Mughals: **Arjan Dev** (Jahangir) and **Tegh Bahadur** (Aurangzeb) {2001, 2002}
+- **Guru Gobind Singh** founded the **Khalsa** (1699); his samadhi is at **Nanded** {2002, 2006}
+- **Guru Nanak**: born at **Nankana**; founded Sikhism under **Sikandar Lodi**; successor **Lehna (Angad)** {2007, 2008, 2021}
+@end
+
+@section 23.1 | The Gurus
+- Guru Nanak's birthplace: **Nankana** (Talwandi) {2007}
+- Founded Sikhism under **Sikandar Lodi** {2008}
+- Nanak's successor: **Lehna** (Guru Angad) {2021}
+- **Gurmukhi** started by **Guru Angad** {2017}
+- **Amritsar** founded by **Guru Ram Das** {1996}
+- Put to death: **Arjan Dev and Tegh Bahadur** (2 and 4) {2002}
+- Helped rebel prince **Khusrau**: **Guru Arjan Dev** {2001}
+- **Khalsa** founded by **Guru Gobind Singh** {2006}
+- **Nanded**: samadhi of **Guru Gobind Singh** {2002}
+- Banda Bahadur's original name: **Lachhman Dev** {2014}
+
+@table
+Guru | Known for
+Nanak | Founder; Kartarpur
+Angad | Gurmukhi script
+Amar Das | Langar, manjis
+Ram Das | Founded Amritsar
+Arjan Dev | Adi Granth (1604); executed under Jahangir
+Hargobind | Akal Takht; militarised the Sikhs
+Tegh Bahadur | Executed under Aurangzeb (1675)
+Gobind Singh | Khalsa (1699); died at Nanded
+@end
+
+@trap
+- Amritsar = **Ram Das**; Harmandir and Adi Granth = **Arjan Dev**.
+- Hargobind was imprisoned at Gwalior but **not** executed.
+- Gobind Singh: born at **Patna**, Khalsa at **Anandpur**, died at **Nanded**.
+@end
+
+@up UP link: Guru Nanak visited **Varanasi, Ayodhya** and **Prayag**; Guru Tegh Bahadur stayed at **Prayagraj** (Pakki Sangat) and Agra, where he was arrested before his execution in Delhi (1675).
+
+@last
+- Nanak born at Nankana
+- Sikhism under Sikandar Lodi
+- Lehna = Guru Angad; Gurmukhi
+- Amritsar = Ram Das
+- Arjan Dev executed (Jahangir); helped Khusrau
+- Tegh Bahadur executed (Aurangzeb, 1675)
+- Gobind Singh = Khalsa 1699
+- Nanded = Gobind Singh's samadhi
+- Banda Bahadur = Lachhman Dev
+- Hargobind = Akal Takht
+@end

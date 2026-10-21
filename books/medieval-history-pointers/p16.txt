@@ -1,0 +1,58 @@
+@chapter 16 | Jahangir
+@meta Built from 14 UPPSC questions (1991–2023). Focus: the revolts of the reign, Nur Jahan's junta, the Mewar treaty, Hawkins and Thomas Roe, Pelsaert, the Tuzuk-i-Jahangiri, Mughal tombs.
+
+@hot
+- **Thomas Roe** (envoy of James I) met Jahangir at **Ajmer**; **Hawkins** came first ("English Khan") {1993, 2007, 2008, 2013, 2015, 2023}
+- **Treaty with Mewar (1615)** with Amar Singh: under **Jahangir** {2008, 2008}
+- **Pelsaert** (Dutch) wrote on Jahangir's reign {2010, 2017}
+- Jahangir wrote his autobiography (**Tuzuk-i-Jahangiri**) in **Persian** {2001, 2010}
+@end
+
+@section 16.1 | Revolts and Nur Jahan
+- Rewarded the killer of Abul Fazl (Bir Singh Bundela): **Jahangir** {2003}
+- Rebels against Jahangir: **Khurram, Mahabat Khan, Khusrau** (2, 3, 4) {2013}
+- Not in Nur Jahan's junta: **Jahangir** (junta: Itimad-ud-Daula, Asaf Khan, Khurram) {2015}
+- Treaty with Mewar: **Jahangir** (1615) {2008, 2008}
+
+@section 16.2 | Europeans at Court
+- First EIC man at Jahangir's court: **Hawkins** {1993}
+- "**English Khan**": **William Hawkins** {2015}
+- Hawkins knew **Turkish** well; he came in 1608, not 1611 (only 2) {2023}
+- **Thomas Roe** came under **Jahangir**, sent by **James I** {2008, 2013}
+- Roe met Jahangir at **Ajmer** {2007}
+- Dutch account of Jahangir's reign: **Francisco Pelsaert** {2010, 2017}
+
+@table
+Visitor | Ruler | Note
+William Hawkins | Jahangir (1608) | English Khan; first EIC envoy
+Thomas Roe | Jahangir (1615-19) | James I's envoy; Surat factory rights
+Francisco Pelsaert | Jahangir | Dutch; Remonstrantie
+Peter Mundy, Manucci | Shah Jahan | Travel accounts
+Bernier, Tavernier | Shah Jahan, Aurangzeb | French
+@end
+
+@section 16.3 | Memoirs and Tombs
+- Autobiography in Persian: **Jahangir** (Tuzuk-i-Jahangiri) {2001, 2010}
+- No mausoleum in India: **Babur** (Kabul) and **Jahangir** (Shahdara, Lahore) {1991, 2016}
+
+@trap
+- Hawkins = **first**; Roe = official royal envoy (James I).
+- Roe's audience was at **Ajmer**, not Agra.
+- "Baby Taj" = Itimad-ud-Daula (Agra); "Second Taj" = Bibi ka Maqbara.
+- Asaf Khan never rebelled; Mahabat Khan did (1626).
+@end
+
+@up UP link: Nur Jahan built the tomb of her father **Itimad-ud-Daula** ("Baby Taj") at **Agra**; Jahangir completed **Akbar's tomb at Sikandra** and set up his "chain of justice" at the **Agra fort**.
+
+@last
+- Bir Singh Bundela killed Abul Fazl; Jahangir rewarded him
+- Khurram, Mahabat Khan, Khusrau rebelled
+- Nur Jahan's junta: Itimad-ud-Daula, Asaf Khan, Khurram
+- Mewar treaty 1615 (Amar Singh)
+- Hawkins first; English Khan
+- Thomas Roe at Ajmer; James I's envoy
+- Pelsaert = Dutch account
+- Tuzuk-i-Jahangiri in Persian
+- Jahangir buried at Shahdara (Lahore)
+- Itimad-ud-Daula = Baby Taj (Agra)
+@end

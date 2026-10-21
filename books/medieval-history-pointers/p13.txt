@@ -1,0 +1,58 @@
+@chapter 13 | Mughal Dynasty: Babur
+@unit UNIT IV · THE GREAT MUGHALS
+@meta Built from 15 UPPSC questions (1990–2025). Focus: Chaghtai Turk origins, Kabul and the Padshah title, Daulat Khan's invitation, Panipat, Khanwa, Chanderi and Ghaghra, the Baburnama, the Babri mosque.
+
+@hot
+- **First Panipat (1526)**: **Babur vs Ibrahim Lodi**; won by **skilled generalship**; first big use of **artillery** {1990, 1996, 1996, 2012, 2016}
+- **Khanwa (1527)**: Babur declared **jihad**, beat **Rana Sanga** {2004, 2009, 2010}
+- Babur wrote the **Baburnama** in **Turki**; the court language was **Persian** (A true, R false) {2025}
+@end
+
+@section 13.1 | Rise of Babur
+- Mughals were **Chaghtai Turks** {2010}
+- Babur lost at **Sar-i-Pul** to **Shaibani Khan** {2015}
+- Took the title **Padshah** at **Kabul** {2015}
+- Invited to India by **Daulat Khan** Lodi {2021}
+
+@section 13.2 | Battles
+- **First Panipat**: **Babur vs Ibrahim Lodi**, **1526** {1996, 2012, 2016}
+- Babur's victory: **skilled generalship** (key; many guides say artillery) {1990}
+- First use of artillery among options: **First Panipat** (Bajaur 1519 was earlier) {1996}
+- **Jihad** declared at **Khanwa** {2009}
+- **Rana Sanga** fought Babur at **Khanwa** (1527) {2004, 2010}
+- Wrong pair: **Chanderi-1530** (it was **1528**) {2015}
+
+@flow Babur's battles
+1526 | Panipat: Ibrahim Lodi (tulughma, artillery)
+1527 | Khanwa: Rana Sanga (jihad; title Ghazi)
+1528 | Chanderi: Medini Rai
+1529 | Ghaghra: Afghans under Mahmud Lodi and Nusrat Shah of Bengal
+1530 | Dies at Agra; buried at Kabul
+@end
+
+@section 13.3 | Baburnama and Babri Mosque
+- Babur wrote in **Turki**, but the court language was **Persian** (A true, R false) {2025}
+- Hindu state named in the Baburnama: **Mewar** (Vijayanagara also named) {1995}
+- **Babri mosque** (Ayodhya) built by **Mir Baqi** {1992}
+
+@trap
+- Mughals = **Chaghtai Turks**, not Mongols or Persians.
+- Jihad was declared at **Khanwa**, not Panipat.
+- Chanderi = **1528**; Ghaghra = **1529**.
+- Babur died at Agra but lies at **Kabul**.
+@end
+
+@up UP link: **Mir Baqi** built the mosque at **Ayodhya** (1528) in Babur's name; Babur died at **Agra** (1530), and the **Battle of Ghaghra** (1529) was fought in eastern UP.
+
+@last
+- Mughals = Chaghtai Turks
+- Shaibani Khan beat Babur at Sar-i-Pul
+- Padshah title at Kabul
+- Daulat Khan invited Babur
+- Panipat 1526: Ibrahim Lodi
+- Khanwa 1527: Rana Sanga; jihad
+- Chanderi 1528; Ghaghra 1529
+- Baburnama in Turki
+- Mewar named in the Baburnama
+- Mir Baqi built the Babri mosque
+@end
