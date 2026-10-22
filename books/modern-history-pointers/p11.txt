@@ -1,6 +1,6 @@
 @chapter 11 | Political Organisations Established Before Congress
 @unit UNIT IV · EARLY NATIONALISM AND THE REVOLUTIONARIES
-@meta Built from 16 UPPSC questions (2007–2024). Focus: the first Bengal associations, London bodies, the Indian Association and Indian National Conference, the presidency associations, the United Indian Patriotic Association.
+@meta Built from 16 UPPSC questions (2006–2024). Focus: the first Bengal associations, London bodies, the Indian Association and Indian National Conference, the presidency associations, the United Indian Patriotic Association.
 
 @hot
 - **Indian Association** (1876): **Surendranath Banerjee** (with Anand Mohan Bose); its **Indian National Conference** merged into the Congress (1886) {2007, 2008, 2017}

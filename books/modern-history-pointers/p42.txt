@@ -1,0 +1,204 @@
+@chapter 42 | Modern History: Miscellaneous
+@meta Built from 136 UPPSC questions (1990–2025). Focus: wars and treaties, famines and commissions, Acts in sequence, chronology drills from 1905 to 1947, famous quotations, Tagore, Nehru, Ambedkar, leaders and organisations, spot-the-error items.
+
+@hot
+- Order of mass movements: **Khilafat, Non-Cooperation, Civil Disobedience, Quit India** {2000, 2008, 2012}
+- **Communal Award (16 August 1932)** came before the **Poona Pact (24 September 1932)** {2010, 2016, 2017, 2019}
+- Wartime plans: **August Offer (1940), Cripps (1942), C.R. Formula (1944), Wavell Plan and Shimla (1945), Cabinet Mission (1946), Mountbatten Plan (1947)** {2000, 2002, 2011, 2016, 2023, 2025}
+- 1919-22 order: **Champaran, Rowlatt Satyagraha, Jallianwala, Moplah, Chauri Chaura** {2004, 2007, 2008, 2023}
+@end
+
+@section 42.1 | Wars, Treaties and Company Rule
+- Anglo-Afghan policy driven by fear of **Russia** {2004}
+- Order: **Second Anglo-French (Carnatic) War, First Anglo-Mysore, First Anglo-Afghan, First Anglo-Sikh** {?}
+- Second Anglo-Mysore **1780-84**; Second Anglo-French **1750-54**; Second Anglo-Maratha **1803-05**; Second Anglo-Afghan **1878-80** {2021}
+- Treaty of Allahabad **1765**; Aix-la-Chapelle **1748**; La Bourdonnais takes Madras **1746**; Dupleix recalled **1754** {2016}
+- Order: **death of Nana Fadnavis (1800), Wellesley recalled (1805), Vellore Mutiny (1806), Anglo-Nepal War (1814)** {2024}
+- Occurred first among the options: **First Anglo-Sikh War** {2017}
+- Wrong pair: **end of slavery, Malcolm** {2013}
+- "Paternalism in governance": **Thomas Munro** {2016}
+- Child marriage **Ranade**; Thuggee **Sleeman**; widow remarriage **Vidyasagar**; Pindaris **Lord Hastings** {1990}
+
+@section 42.2 | Famines and Commissions
+- "Sea of calamity": **Orissa famine, 1866-67** {2013}
+- Famine Code (1883) from the **Strachey Commission** {2015}
+- Wrong pair (per key): **famine in western UP, 1871-72** {2017}
+- Bengal famine with millions dead: **1943** {2013}
+- Andrew Fraser **Police**; MacDonnell **Famine**; Scott-Moncrieff **Irrigation**; Robertson **Railway** commission {2019}
+
+@section 42.3 | Acts and Constitutional Steps
+- Order: **Dramatic Performances Act (1876), Vernacular Press Act (1878), Bengal Tenancy Act (1885), NWP and Oudh Act (1890)** {2016}
+- Order: **Lex Loci (1850), Bengal Tenancy (1885), Age of Consent (1891), Indian Universities Act (1904)** {2023}
+- Order: **Sati ban (1829), Wood's Despatch (1854), Vernacular Press Act (1878), Rowlatt Act (1919)** {2017}
+- Indirect election began in **1892** {2009}
+- 1909 Act **Minto**; 1919 Act **dyarchy**; Lucknow Pact **1916**; 1935 Act **provincial autonomy** {2010}
+- Separate electorates **1909**; Congress-League pact **1916**; Communal Award **1932**; Deliverance Day **1939** {1999}
+- MacDonald **Communal Award**; Linlithgow **August Offer**; Dalhousie **Doctrine of Lapse**; Chelmsford **dyarchy** {2002}
+- Simon Commission **1927**; Quit India **1942**; Congress formed **1885**; Morley-Minto **1909** {2008}
+- August Declaration **Montagu**; August Offer **Linlithgow**; August Resolution **Gandhi**; Direct Action Day **Jinnah** {1997}
+
+@section 42.4 | Press and Scholarship
+- Order: **Hicky's Bengal Gazette (1780), Asiatic Society (1784), Servants of India Society (1905), Ghadar Party (1913)** {2021}
+- Order: **Kesari (1881), Khudiram executed (1908), Curzon Wyllie shot (1909), Al-Hilal (1912)** {2021}
+- Imperial Gazetteer compiled by **W.W. Hunter** {2016}
+
+@section 42.5 | Chronology, 1905 to 1922
+- Order: **partition decided, Swadeshi declared, Swaraj made the goal, Surat split** {2010}
+- Order: **Regulating Act, Partition of Bengal, Muslim League, Surat split** {1992}
+- Order: **Surat split, Simon Commission, Civil Disobedience** {1992}
+- Order: **Partition of Bengal, Lucknow Pact, Rowlatt Act, dyarchy** {1998}
+- Order: **Swadeshi, Home Rule, Non-Cooperation, Civil Disobedience** {1998}
+- Order: **Home Rule, Non-Cooperation, Civil Disobedience, Quit India** {1998}
+- Order: **Swadeshi, Jallianwala, Dandi, Quit India** {2002}
+- Third in order: **Dandi March** {1996}
+- Order: **Champaran, Non-Cooperation, Dandi, Quit India** {1994}
+- Order: **Champaran, Jallianwala, Non-Cooperation, Civil Disobedience** {2010}
+- Order: **Khilafat, Non-Cooperation, Civil Disobedience, Quit India** {2000, 2008, 2012}
+- Order: **Non-Cooperation, Simon Commission, Nehru Report, Quit India** {1990}
+- Non-Cooperation **1920**; Civil Disobedience **1930**; Congress ministries **1937**; Quit India **1942** {2009}
+- Took some women out of seclusion: **Swadeshi, Home Rule, Non-Cooperation, Civil Disobedience** (all four) {2012}
+- Order: **Home Rule, Champaran, Rowlatt Satyagraha, Jallianwala** {2004}
+- Order: **Home Rule, Champaran, Jallianwala, Amritsar session** {2003}
+- Order: **Lucknow Pact, Champaran, Jallianwala, Khilafat** {2013}
+- Last among the options: **Moplah Revolt** {2023}
+- Order: **Champaran, Rowlatt Satyagraha, Jallianwala, Chauri Chaura** {2004}
+- Order: **Champaran, Jallianwala, Moplah, Chauri Chaura** {2008}
+- Order: **Champaran, Amritsar case, Moplah, Chauri Chaura** {2007}
+
+@section 42.6 | Chronology, 1919 to 1934
+- Order: **Congress report on Jallianwala, peace terms to Turkey, Tilak's death, Calcutta special session** (all 1920) {2014}
+- Order: **Rowlatt Act, Jallianwala, Amritsar session, Tilak's death** {2014}
+- Order: **Rowlatt Act, Rowlatt Satyagraha, Jallianwala, Amritsar session** {2010}
+- Rowlatt Satyagraha, Jallianwala, Khilafat, Amritsar session: question marked (*) {2013}
+- Order: **Simon Commission set up, Nehru Report, Sharda Act, Dandi** {2021}
+- Order: **Pherozeshah Mehta's death (1915), Jallianwala, Simon Commission, Dandi** {2019}
+- Order: **Home Rule, Rowlatt Act, Simon Commission, Gandhi-Irwin Pact** {1994}
+- Deepavali Declaration (1929) was about **dominion status** {2015}
+- Order: **Purna Swaraj, Civil Disobedience, Gandhi-Irwin Pact, Poona Pact** {2016}
+- Order: **Nehru Report, Civil Disobedience, Gandhi-Irwin Pact, Poona Pact** {2002}
+- Order: **Azad's death, Gandhi-Irwin Pact, Bhagat Singh's execution, Karachi session** {2007}
+- Order: **Lahore session, Gandhi-Irwin Pact, Rajguru's execution, Karachi session** {2011}
+- Order: **Gandhi-Irwin Pact, Second RTC, Poona Pact, end of Civil Disobedience** {2025}
+- Last among the options: **Communal Award** {2017}
+- Order: **Simon Commission, Dandi, Gandhi-Irwin Pact, Poona Pact** {2015}
+- Order: **Dandi, Gandhi-Irwin Pact, Communal Award, Poona Pact** {2010, 2016}
+- Order: **Nehru Report, Gandhi-Irwin Pact, Second RTC, Communal Award** {2017}
+- Order: **Communal Award, Poona Pact, Third RTC, August Offer** {2017}
+- Order: **Lucknow Pact, Gandhi-Irwin Pact, Poona Pact, Civil Disobedience withdrawn** {2008}
+- Wrong pair: **Communal Award, 1933** (it was 1932) {2019}
+
+@section 42.7 | Chronology, 1930 to 1947
+- Order: **Civil Disobedience, Gandhi-Irwin Pact, Poona Pact, Cripps** {2019}
+- Order: **Simon Commission, Gandhi-Irwin Pact, Cripps, Partition** {2009}
+- Order: **Simon Commission, Poona Pact, Cripps, Cabinet Mission** {2009}
+- Order: **Poona Pact, Quit India, Simla Conference, Cabinet Mission** {2005}
+- Order: **August Offer, Cripps, C.R. Formula, Wavell Plan** {2016}
+- Order: **August Offer, Cripps, Quit India, Desai-Liaquat Pact** {2017}
+- Order: **Nehru Report, August Offer, Cripps, Wavell Plan** {2017, 2017}
+- Order: **Civil Disobedience, Individual Satyagraha, Cripps, Quit India** {2004}
+- Order: **Cripps, Wavell Plan, Shimla Conference, Cabinet Mission** {2025}
+- Order: **Cripps, Wavell Plan, Cabinet Mission, Mountbatten Plan** {2000}
+- Order: **Cripps, Quit India, Wavell Offer, Cabinet Mission** {2010}
+- Order: **August Offer, Cripps, Wavell Plan, Cabinet Mission** {2011}
+- Order: **August Offer, Cripps, Shimla Conference, Cabinet Mission** {2023}
+- Order: **C.R. Formula, Wavell Plan, Cabinet Mission, Mountbatten Plan** {2002}
+- Order: **Cripps, Quit India, Cabinet Mission, Mountbatten Plan** {2023}
+- Order: **Shimla Conference wrecked, Cabinet Mission arrives, Direct Action, Interim Government** {2010}
+
+@table
+Event | Date
+August Offer | August 1940
+Individual Satyagraha | October 1940
+Cripps Mission | March 1942
+Quit India | August 1942
+C.R. Formula | 1944
+Desai-Liaquat Pact | January 1945
+Wavell Plan, Shimla Conference | June 1945
+Cabinet Mission | March to June 1946
+Direct Action Day | 16 August 1946
+Interim Government | 2 September 1946
+Mountbatten Plan | 3 June 1947
+@end
+
+@section 42.8 | Famous Statements
+- "The British Government is not responsible for partition": **Attlee** {2009}
+- Imperialism dead like the dodo: **Attlee** {2008}
+- "A revolution is going to occur here; we should leave at once": **Cripps** {2007}
+- "Kings are made for the public": **Dadabhai Naoroji** {2015}
+- "Political freedom is the life-breath of a nation": **Aurobindo Ghosh** {2004}
+- "I am an Indian tom-tom": **Annie Besant** {2019}
+- "Freedom is almost within reach, we have to seize it": **Gandhi** {2002, 2004}
+- "India's salvation will not come under Gandhi's leadership": **Subhas Bose** {2014}
+
+@section 42.9 | Tagore, Nehru, Ambedkar
+- Tagore's Nobel Prize: **1913** {2017}
+- Called Tagore "the Great Sentinel": **Gandhi** {2010}
+- Tagore became a painter at about **seventy** {2001}
+- Not correct of Tagore: "**he favoured the economic side of Swadeshi**" {2013}
+- "I am a socialist and a republican...": **Nehru** {2011}
+- "Everything else can wait, but not agriculture": **Nehru** {2006}
+- Nehru had no faith in the Upanishads (A false); scientific outlook (R true) {2006}
+- "High priest of communism in India" (per key): **Nehru** {2013}
+- Chaired the first All India Socialist Youth Congress: **Nehru** {2013}
+- Nehru's biographer: **Frank Moraes** {2014}
+- Ambedkar statements: question marked (*); **Siddharth College** and **Mook Nayak (1920)** are correct {2005}
+- Said Ambedkar's leadership was "thrust upon him" by the British: **B.S. Moonje** {2000}
+- Ambedkar died on **6 December 1956** {1990}
+
+@section 42.10 | Leaders and Organisations
+- Lajpat Rai first opposed then joined Non-Cooperation, and helped form the Swaraj Party: **both correct** {2019}
+- Served social regeneration (per key): **Gandhi, Tilak** {1992}
+- "Bombay Trimurti": **Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji** {2017}
+- Workers' delegate at the ILO, Washington 1919: **N.M. Joshi** (official key gave B.P. Wadia, his adviser) {2020}
+- Samadhis of Kasturba and Mahadev Desai: **Aga Khan Palace, Poona** {2008, 2011}
+- Azad Muslim Conference **Allah Baksh**; Khaksar **Allama Mashriqi**; Khudai Khidmatgar **Ghaffar Khan**; Krishak Praja **Fazlul Haq** {2002}
+- All Parties Muslim Conference (Delhi, 31 December 1928): **Aga Khan** {2015}
+- Home Rule League **Tilak**; Nationalist Party **Malaviya**; National Liberal Federation **Sapru**; Swaraj Party **C.R. Das** {1998}
+- Organisation-founder pairs: question marked (*); all four pairs held correct {2014}
+- Event-year pairs: question marked (*); several pairs wrong {2016}
+- Wrong pair: **People's Plan, Vinoba Bhave** (it was M.N. Roy's) {2017}
+- Vinoba **Individual Satyagraha**; Tilak **Home Rule**; Aruna Asaf Ali **Quit India**; Sarojini **Dharasana** {2014}
+- Bardoli **Patel**; Champaran **Gandhi**; Kuka **Ram Singh**; Lal Kurti **Ghaffar Khan** {1992}
+- Home Rule **Besant**; Bardoli **Patel**; Non-Cooperation **Gandhi**; Swaraj Party **C.R. Das** {2010}
+- Besant **Home Rule**; Rajendra Prasad **Champaran**; Nehru **Lahore session**; A.C. Mazumdar **Lucknow session** {2007}
+- Bose **Haripura**; Patel **Operation Polo**; Iqbal **Allahabad League session**; B.K. Dutt **Assembly bomb** {2013}
+- Khilafat **Ali brothers**; Home Rule **Tilak**; Civil Disobedience **Khan brothers**; Quit India with **Ambedkar** wrong: question marked (*) {2002}
+- Wrong pair: **Jinnah, Khilafat Movement** {2015}
+
+@section 42.11 | Spot the Wrong Fact
+- True: Asaf Ali had Railways; Ancient Monuments Act under Curzon; Shraddhanand's no-tax idea. False: "**Haripura presided by C.R. Das**" {2013}
+- Kunwar Singh, Khan Bahadur Khan, Deliverance Day: only **1 and 2** correct; question marked (*) {2002}
+- True (per key): Arya Samaj 1875, Al-Hilal by Azad, Hindu College by Ram Mohan Roy. False: "**Lajpat Rai not linked with The People**" {2013}
+- Wrong pair: Governor-General at Pitt's Act was "**Lord Minto**" (it was Warren Hastings) {2013}
+- Not correct: "**Lajpat Rai was never Congress president**" (he presided at Calcutta, 1920) {2013}
+
+@section 42.12 | After 1947 and General
+- Operation Polo: **military action in Hyderabad** (1948) {2013}
+- Order: **Khrushchev and Bulganin visit (1955), Dalai Lama flees (1959), Zhou Enlai visits (1960), Goa liberated (1961)** {2007}
+- "Writers' Building": **West Bengal** secretariat {2013}
+- Kisan Diwas: **23 December** (Charan Singh's birthday) {2005, 2010}
+- Good Friday: **crucifixion of Jesus** {1990}
+- Not true of Mother Teresa: "**not an Indian citizen at her death**" {2004}
+- Pope Benedict XVI: German, first Pope to resign in 600 years: **both correct** {2023}
+
+@trap
+- **Communal Award (Aug 1932)** comes before the **Poona Pact (Sep 1932)**; 1933 is the White Paper.
+- **Moplah (1921)** comes before **Chauri Chaura (1922)**.
+- **Shimla Conference (1945)** comes before the **Cabinet Mission (1946)**; Direct Action (16 Aug) before the Interim Government (2 Sep 1946).
+- **Vellore (1806)** came after Wellesley's recall (1805).
+@end
+
+@up UP link: **Kisan Diwas** (23 December) marks the birthday of **Chaudhary Charan Singh** of Meerut; the **NWP and Oudh Act** (1890) and the **Agra Presidency** shaped today's UP.
+
+@last
+- Khilafat, NCM, CDM, QIM
+- Moplah 1921 before Chauri Chaura 1922
+- Communal Award before Poona Pact
+- August Offer, Cripps, C.R. Formula, Wavell, Cabinet Mission
+- Shimla 1945 before Cabinet Mission 1946
+- Strachey = Famine Code 1883
+- Attlee = "imperialism dead like dodo"
+- Besant = "Indian tom-tom"
+- Bombay Trimurti = Mehta, Telang, Tyabji
+- Operation Polo = Hyderabad 1948
+@end
