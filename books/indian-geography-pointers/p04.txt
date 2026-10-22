@@ -1,0 +1,83 @@
+@chapter 4 | States and Union Territories
+@meta Built from 18 UPPSC questions (1990–2019). Focus: area ranks, shared borders, capitals, NCR, Union Territories.
+
+@hot
+- Area ranks: **Rajasthan > MP > Maharashtra > UP**; UP is **4th** by area {2016, 2019, ?}
+- **NCR** includes parts of **Haryana, UP and Rajasthan** only; not Punjab or MP {2011, 2017, ?}
+- **Sonbhadra** touches **four states** (MP, Chhattisgarh, Jharkhand, Bihar) {2015}
+@end
+
+@section 4.1 | Places and their States
+- **Palanpur** is in **Gujarat** {2004}
+- **Malnad** belongs to **Karnataka**, not Andhra Pradesh {2000}
+
+@section 4.2 | Size, Population and Districts
+- UP is **4th** by area {2016}
+- About **30%** of India's area lies in **Rajasthan, MP and Maharashtra** {?}
+- **Maharashtra**: **2nd** in population, **3rd** in area (2011) {2019}
+- Most districts: **Uttar Pradesh** (75) {2006}
+- **Thar**: densely populated desert, about 10,000 years old, spreading partly through human misuse; less grazing land as farming spreads (all four true) {2008}
+
+@table
+Rank | By area | By population (2011)
+1 | Rajasthan | Uttar Pradesh
+2 | Madhya Pradesh | Maharashtra
+3 | Maharashtra | Bihar
+4 | **Uttar Pradesh** | West Bengal
+Smallest | Goa | Sikkim
+@end
+
+@section 4.3 | Shared Borders
+- In 1993 undivided MP touched **7 states**; today MP touches **5** {1993}
+- **Chhattisgarh** does **not** border **Bihar** {2013}
+- **Sonbhadra** touches the boundaries of **four states** {2015}
+- **Telangana** borders **AP, Karnataka, Maharashtra, Chhattisgarh** {2015}
+
+@up UP borders **8 states + Delhi**, the most of any state: Uttarakhand, **Himachal** (Saharanpur), Haryana, Rajasthan, MP, **Chhattisgarh** and Jharkhand (both via Sonbhadra), Bihar. It does **not** border Punjab or Gujarat. It has **75 districts**, the most in India.
+
+@section 4.4 | Capitals and the NCR
+- **Manipur-Aizawl** is wrong; Manipur's capital is **Imphal** (Aizawl is Mizoram's) {1990}
+- **Assam-Dispur, Nagaland-Kohima, Arunachal-Itanagar, Meghalaya-Shillong** {1994}
+- NCR towns among the options: **Khurja, Karnal, Rohtak** (not Ambala) {2011}
+- NCR does **not** include **Punjab** or **Madhya Pradesh** {?, 2017}
+
+@table
+North-east state | Capital
+Assam | Dispur
+Arunachal Pradesh | Itanagar
+Meghalaya | Shillong
+Nagaland | Kohima
+Manipur | Imphal
+Mizoram | Aizawl
+Tripura | Agartala
+Sikkim | Gangtok
+@end
+
+@section 4.5 | Union Territories
+- Largest UT among the options in 2014: **Delhi**; now **Ladakh** is the largest UT {2014}
+- **Puducherry** is spread over **Tamil Nadu, Kerala and Andhra Pradesh** (Puducherry, Karaikal, Mahe, Yanam) {2006}
+
+@flow Union Territories since 2019 (now 8)
+31 October 2019 | J&K state split into UTs J&K and Ladakh (UTs: 9)
+26 January 2020 | Dadra and Nagar Haveli merged with Daman and Diu (UTs: 8)
+UTs with a legislature | Delhi, Puducherry, Jammu and Kashmir
+Largest / smallest UT | Ladakh / Lakshadweep
+@end
+
+@trap
+- The NCR question repeats with different wrong options: **Punjab**, **Himachal**, **MP**. Only Haryana, UP and Rajasthan are in the NCR.
+- Older keys call **Delhi** the largest UT; after 2019 it is **Ladakh**.
+@end
+
+@last
+- Area: Rajasthan, MP, Maharashtra, **UP (4th)**
+- Population: **UP** first; Maharashtra 2nd (and 3rd by area)
+- UP: most districts (75); borders 8 states + Delhi
+- **Sonbhadra** touches 4 states
+- Chhattisgarh does not touch Bihar
+- **Imphal** (Manipur), **Aizawl** (Mizoram), **Dispur** (Assam)
+- NCR = Haryana, UP, Rajasthan
+- **Ladakh** largest UT; 8 UTs today
+- Puducherry in TN, Kerala, AP
+- **Malnad** = Karnataka; **Palanpur** = Gujarat
+@end

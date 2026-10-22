@@ -1,0 +1,52 @@
+@chapter 2 | Delhi Sultanate: Slave Dynasty
+@meta Built from 14 UPPSC questions (1990–2024). Focus: Aibak and Lahore, Iltutmish and Delhi, Genghis Khan on the Indus, Razia and the Turkish nobles, Balban's kingship.
+
+@hot
+- **Iltutmish** made **Delhi** the capital; "slave of a slave"; Genghis Khan came in his reign {1993, 2002, 2004, 2007, 2010, 2012, 2014, 2016, 2016, 2016}
+- **Balban**: "**blood and iron**"; centralised power {2009, 2013, 2014, 2024}
+- **Razia Sultan**: first woman ruler; removed by the **Turkish** nobles {2004, 2004, 2010}
+@end
+
+@section 2.1 | Aibak and Iltutmish
+- Founder of the Slave dynasty: **Qutbuddin Aibak** {1990}
+- Aibak's capital: **Lahore** {1990}
+- Made Delhi the capital: **Iltutmish** {2004, 2012, 2014, 2016, 2016}
+- First Muslim ruler of Delhi (key): **Iltutmish** (many books say Aibak) {2002}
+- "**Slave of a slave**": **Iltutmish** {2016}
+- Genghis Khan reached the Indus under **Iltutmish** {1993, 2007, 2010}
+- Genghis Khan's original name: **Temujin** {2015}
+
+@section 2.2 | Razia and Balban
+- First woman ruler: **Razia Sultan** {2004, 2010}
+- Razia was overthrown by the **Turkish** nobles (the Forty) {2004}
+- "**Blood and iron**": **Balban** {2009}
+- Balban centralised power; the reason given does not explain it (A and R true, R does not explain A) {2013, 2024}
+- Called himself "helper of the Caliph" at **Garhmukteshwar**: **Balban** {2014}
+
+@flow Slave (Mamluk) dynasty
+Qutbuddin Aibak (1206-10) | Lahore capital; Lakh Bakhsh; Qutb Minar begun
+Iltutmish (1211-36) | Delhi capital; iqta; tanka and jital; Chahalgani
+Razia (1236-40) | First woman ruler
+Balban (1266-87) | Sijda and paibos; blood and iron; broke the Forty
+@end
+
+@trap
+- Aibak's capital was **Lahore**; Delhi became the capital under **Iltutmish**.
+- Genghis Khan came under **Iltutmish** (1221), not Alauddin.
+- Razia was removed by **Turkish**, not Afghan, nobles.
+@end
+
+@up UP link: **Garhmukteshwar** (Hapur, on the Ganga) has Balban's inscription calling himself helper of the Caliph; **Badaun** was Iltutmish's iqta before he became Sultan.
+
+@last
+- Aibak = founder; capital Lahore
+- Iltutmish = Delhi capital; slave of a slave
+- Genghis Khan (Temujin) came under Iltutmish
+- Razia = first woman ruler; ousted by Turks
+- Balban = blood and iron; helper of the Caliph
+- Chahalgani = the Forty (Iltutmish); Balban broke them
+- Iltutmish = silver tanka, copper jital
+- Aibak = Lakh Bakhsh
+- Balban = sijda, paibos
+- Slave dynasty 1206-1290
+@end

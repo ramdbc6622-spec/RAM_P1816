@@ -1,0 +1,1012 @@
+@chapter 14 | Welfare Schemes I: Health, Education, Women and Social Security
+
+@intro
+Government schemes form the largest block of social-development questions, so they are split into two chapters. This one covers **health and nutrition** (NRHM, ICDS, Ayushman Bharat, Poshan), **skills and innovation** (Skill India, AIM, NIDHI), schemes for **women and girls** (Beti Bachao, Swadhar, Janani Suraksha), **social security and insurance** (AABY, RSBY, PMJJBY, PMSBY, APY), the **National Social Assistance Programme**, and **education** (SSA, RTE, Mid-day Meal, Saakshar Bharat, UP's schemes). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 14.1 | Health and Nutrition
+
+@pyq U.P. P.C.S. (Pre) 2020
+With reference to 'Ayushman Bharat Yojana' which of the following statement(s) is/are correct?
+1. This Yojana provides free health insurance of Rs. five lakh per person.
+2. The expenses incurred in this Scheme (Yojana) is shared between the Centre and State in 60 : 40 ratio.
+Select the correct answer from the codes given below.
+Codes:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Rashtriya Swasthya Bima Yojana launched under Social Security Act, 2008 covers :
+(a) only organized sector workers
+(b) only rural workers
+(c) only unorganized sector workers
+(d) all category of workers
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P.P.C.S. (Mains) 2006; U.P.P.C.S. (Spl.) (Mains) 2008
+The National Rural Health Mission was launched on :
+(a) August 15, 2002
+(b) March 31, 2003
+(c) June 18, 2004
+(d) April 12, 2005
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2010
+Which one of the following is not correct about the 'National Rural Health Mission' ?
+(a) The programme was launched during the Eleventh Plan.
+(b) Focus of the programme is a functional health system at all levels from village to district.
+(c) Drinking water and sanitation are main components of the programme.
+(d) Departments of Health and Family Welfare in the States have been merged with the programme.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Under the National Rural Health Mission (NRHM) Scheme, a village level health worker is known as :
+(a) USHA
+(b) ASHA
+(c) AMW
+(d) PUJA
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+National Health Policy was announced in :
+(a) 1983
+(b) 1987
+(c) 1976
+(d) 1980
+@ans (a)
+@end
+
+
+@one U.P. U.D.A./L.D.A. (Pre) 2013
+During which Five Year Plan was the National Rural Health Mission launched?
+@ans Tenth
+@end
+
+@table
+Health scheme | Year | Key point
+**National Health Policy** | **1983**, 2002, **2017** | 2017: public health spending **2.5% of GDP** by 2025
+**National Rural Health Mission** | **12 April 2005** (Tenth Plan) | Village health worker **ASHA**; merged with the urban mission into the **National Health Mission** (2013)
+**Rashtriya Swasthya Bima Yojana** | 2008 | Health cover for **unorganised sector** BPL workers, under the Unorganised Workers' Social Security Act 2008
+**Ayushman Bharat PM-JAY** | **23 September 2018** | **Rs. 5 lakh per family** (not per person) a year; Centre-State **60:40** (90:10 in the north-east and Himalayan states); since 2024 all people **70+** are covered
+PM Ayushman Bharat Health Infrastructure Mission | 2021 | Health infrastructure (Budget 2021-22)
+@end
+
+@pyq U.P.U.D.A. / L.D.A. (Pre) 2013
+Which one of the following is the public expenditure on health as a percentage of GDP in 2009-10 in India?
+(a) 0.59%
+(b) 1.09%
+(c) 1.59%
+(d) 2.09%
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+According to the National Family Health Survey-3, private medical sector is the primary source of healthcare in India for :
+(a) 50% households in urban areas
+(b) 60% households in urban areas
+(c) 70% households in urban areas
+(d) 80% households in urban areas
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008
+As per Family Welfare Statistics for 2009 released recently by the Union Health Ministry, life expectancy at birth in India for 2006-2010 is :
+(a) Males 75.2 and Females 78.6
+(b) Males 72.4 and Females 76.3
+(c) Males 69.8 and Females 72.3
+(d) Males 65.8 and Females 68.1
+@ans (d)
+@end
+
+
+India's public health spending was about **1.1% of GDP** in 2009-10 and is under **2%** now. Life expectancy at birth is about **70 years**, a little higher for women than men.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+'Shabri Sankalp Abhiyan' is associated with :
+(a) To help those poor people who are below the poverty line
+(b) Empowerment of Women
+(c) A scheme for self help groups
+(d) National Nutrition Mission
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which one of the following is NOT covered under Integrated Child Development Programme?
+(a) Supplementary Nutrition
+(b) Immunization
+(c) Nutrition and Health Education
+(d) Family Planning
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which among the following services is not provided under Integrated Child Development Services (ICDS) scheme?
+(a) Supplementary feeding
+(b) Immunization
+(c) Distribution of freebooks and school dress to the children
+(d) Health and Nutrition education to 3-6 year old children
+@ans (c)
+@end
+
+
+@table
+Nutrition / child scheme | Detail
+**ICDS** | **2 October 1975**; supplementary nutrition, **immunisation**, health check-ups, pre-school education, **nutrition and health education**; run through **anganwadis**; no family planning or free books
+**POSHAN Abhiyaan** (National Nutrition Mission) | **8 March 2018**, Jhunjhunu; the **Shabri Sankalp Abhiyan** is linked to it
+**Mission Indradhanush** | **25 December 2014**; full immunisation
+**Muskaan** | **2021**
+**PM Garib Kalyan Package** | **March 2020** (COVID relief)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2019
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List-I (Programme) | List-II (Launch Year)
+A. National Programme for Control of Blindness | 1. 1975
+B. Integrated Child Development Scheme | 2. 1976
+C. National Leprosy Eradication Programme | 3. 2005
+D. National Rural Health Mission | 4. 1983
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 4 1 3
+(c) 2 1 4 3
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I (Scheme) | List-II (Launching Year)
+A. PM Jan Arogya Abhiyan | 1. 2015
+B. PM Vaya Vandan Yojana | 2. 2018
+C. PM Rojgar Protsahan Yojana | 3. 2017
+D. Swachh Bharat Abhiyan | 4. 2014
+@endmatch
+Codes : A B C D
+(a) 2 3 1 4
+(b) 1 2 3 4
+(c) 2 3 4 1
+(d) 2 4 3 1
+@ans (*)
+@note The Commission accepted (a), but **PM Rozgar Protsahan Yojana** began in **August 2016**, not 2015. The other years are PM-JAY **2018**, **PM Vaya Vandana Yojana** (pension for people 60+) **2017** and Swachh Bharat **2014**. The source marks it (*).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List-I (Schemes) | List-II (Launching Year)
+A. P.M. Garib Kalyan Package | 1. 2014
+B. Muskan Scheme | 2. 2020
+C. Mission Indradhanush | 3. 2018
+D. Pradhan Mantri Jan Arogya Yojana | 4. 2021
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 4 1 3
+(d) 3 1 4 2
+@ans (c)
+@end
+
+@section 14.2 | Skills and Innovation
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following schemes are related to the skill development?
+1. STRIDE
+2. STRIVE
+3. SANKALP
+4. SHREYAS
+Select the correct answer using the codes given below:
+(a) 1 and 2 only
+(b) 3 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+‘Skill Development Initiative’ has been operationalized in ?
+(a) February 2005
+(b) February 2005
+(c) May 2007
+(d) April 2010
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+With reference to the Skill India Campaign, which of the following statement(s) is/are correct?
+1. P rime Minister had launched the Skill India Campaign in July, 2015.
+2. The main objective of this campaign was to train India's youths in information technology.
+Select the correct answer from the codes given below.
+Codes :
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+According to the Union Budget 2023-24, how many Skill India International Centres are to be set up across different States to skill youth for international opportunities?
+(a) 50
+(b) 40
+(c) 20
+(d) 30
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2017
+The foundation of what is being claimed as India’s biggest Global Skill Park was laid in July 2017 in :
+(a) Lucknow
+(b) Bengaluru
+(c) Bhopal
+(d) Jaipur
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+What is the theme of World Youth Skills Day, 2021?
+(a) Young People and Skills
+(b) Skills Development and Employment
+(c) Young People and Entrepreneurship
+(d) Reimagining Youth Skills Post-Pandemic
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The National Programme launched on October 10, 2019 by the Indian Government to encourage talented children to enrich their skills is :
+(a) LAKSHYA
+(b) PRATIBHA
+(c) DHRUV
+(d) PARIVARIAN
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+The Atal Innovation Mission (AIM) is a flagship initiative set up by :
+(a) Ministry of Human Resource Development
+(b) NITI Aayog
+(c) Ministry of Social Justice and Empowerment
+(d) Ministry of Science and Technology
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+With reference to the programme ‘NIDHI’ which of the following statement(s) is/are correct?
+1. The programme of ‘NIDHI’ was started for students to begin startups.
+2. Its aim is to financially support 20 students for startup in each year.
+Select the correct answer from the codes given below.
+Codes:
+(a) 1 Only
+(b) 2 Only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@table
+Scheme | Detail
+**Skill Development Initiative** | **May 2007**; modular skill courses
+**Skill India Mission** | **15 July 2015** (World Youth Skills Day); trains youth in **many trades**, not only IT; **PMKVY** is its flagship
+**SANKALP, STRIVE** | World Bank-aided skill programmes (2017-18)
+**SHREYAS** | Skills with degrees (2019)
+**STRIDE** | **UGC research** scheme, not skills
+Skill India International Centres | **30**, announced in Budget 2023-24
+**Global Skill Park** | **Bhopal** (foundation 2017; with Singapore's ITE)
+**DHRUV** | **10 October 2019**; talented students (ISRO, Bengaluru)
+**Atal Innovation Mission** | **NITI Aayog**, 2016; Atal Tinkering Labs
+**NIDHI** | DST, 2016; helps **students** turn ideas into start-ups through incubators
+World Youth Skills Day | **15 July**; 2021 theme "Reimagining Youth Skills Post-Pandemic"
+@end
+
+@section 14.3 | Women and Girls
+
+@pyq U.P. P.C.S. (Mains) 2015
+‘Beti Bachao Beti Padhao’ scheme has been launched in India in :
+(a) April, 2015
+(b) March, 2015
+(c) February, 2015
+(d) January, 2015
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2014
+Which State has launched ‘Bhagyashree’ scheme for girl child?
+(a) Delhi
+(b) Punjab
+(c) Maharashtra
+(d) Haryana
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+“Swavalambini”, a women entrepreneurship programme for the North-East is launched by which of the following ministries ?
+1. Ministry of Skill Development and Entrepreneurship
+2. Ministry of Women and Child Development
+3. Ministry of Micro, Small and Medium Enterprises
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+Swawlamban Scheme fulfills which of the following objectives?
+(a) Employment to rural women
+(b) Employment to urban women
+(c) Employment to handicapped people
+(d) Providing skill and training to the women
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+In which one of the following years ‘Swavalamban Scheme’ was launched?
+(a) 2010 A.D.
+(b) 2011 A.D.
+(c) 2012 A.D.
+(d) 2014 A.D.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P. U.D.A./L.D.A. (Pre) 2010; U.P.P.C.S. (Mains) 2013
+‘Swadhar’ is the scheme for :
+(a) Unique identification of citizens
+(b) Self-employment for males
+(c) Women in difficult circumstances
+(d) Common home of senior citizens
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Recently (in 2013) Government of India has approved the proposal of providing loans to Women Self Help Groups at a lower interest rate to eradicate poverty through women empowerment. The interest rate is :
+(a) 7%
+(b) 6.5%
+(c) 7.5%
+(d) 8%
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following is not correctly matched?
+(a) Mahila Samridhi Yojana – 1993
+(b) Women Self-Empowerment Plan – 1998
+(c) Mahila Samakhya Programme – 1989
+(d) National Posahar Mission Plan – 2003
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Mahila Samriddhi Yojana was started in India in :
+(a) 1992
+(b) 1993
+(c) 1994
+(d) 1995
+@ans (b)
+@end
+
+
+@table
+Women's scheme | Year | For
+**Beti Bachao Beti Padhao** | **22 January 2015**, Panipat | Child sex ratio, girls' education
+**Sukanya Samriddhi** | 22 January 2015 | Savings for girls
+**Bhagyashree** | 2015 | **Maharashtra**'s girl-child scheme
+**Swadhar** (Swadhar Greh) | 2001-02 | **Women in difficult circumstances** (widows, survivors)
+**Swavalamban** | **2010** | Pension co-contribution (NPS Lite); earlier **NORAD** was a training scheme for women
+**Swavalambini** | **February 2025** | **Women entrepreneurs in the north-east**, by the **Ministry of Skill Development and Entrepreneurship** with NITI Aayog
+**Mahila Samakhya** | **1988-89** | Women's education and empowerment
+**Mahila Samriddhi Yojana** | **2 October 1993** | Savings for rural women
+SHG loans at **7%** | 2013 | Under NRLM (Aajeevika)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The proposed ‘Janani Suraksha Scheme’ will replace:
+(a) Maternity and Child Health Scheme
+(b) National Maternity Benefit Scheme
+(c) Mahila Samakhya
+(d) Reproductive and Child Health Scheme
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which one of the following is the main objective of Janani Suraksha Yojana?
+(a) Reduction in maternal and neo-natal mortality rate
+(b) Reduction in maternal mortality rate only
+(c) Reduction in infant mortality rate only
+(d) Reduction in neo-natal mortality rate only
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010, 2011
+The ambitious scheme launched in June, 2011 by the Government of India to provide free healthcare facilities to pregnant women and infants has been named as :
+(a) Indira Gandhi Matritva Sahyog Yojna
+(b) Janani Suraksha Yojna
+(c) Janani Shishu Suraksha Karyakram
+(d) Integrated Child Development Scheme
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Which of the following is not an income generating program for women ?
+(a) Integrated Rural Development Programme
+(b) Integrated Rural Energy Programme
+(c) Development of Women and Children in Rural Areas
+(d) None of the above
+@ans (b)
+@end
+
+
+@table
+Mother-child scheme | Year | Aim
+**Janani Suraksha Yojana** | **12 April 2005** (NRHM) | Cash for **institutional delivery**; cuts **maternal and neonatal mortality**; replaced the **National Maternity Benefit Scheme**
+**Janani Shishu Suraksha Karyakram** | **June 2011** | **Free** delivery and care for mother and newborn
+PM Matru Vandana Yojana | 2017 | Rs. 5,000 for the first child (Rs. 6,000 with JSY)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014, 2018
+ABC index announced by the Government of India is associated with which of the following?
+(a) Agriculture
+(b) Communication
+(c) Health
+(d) Education
+@ans (c)
+@end
+
+
+The **ABC Index** (Achievements of Babies and Children) by **Jean Drèze and Reetika Khera** measures child **health** (survival, nutrition, schooling). The **Integrated Rural Energy Programme** is an energy plan, not an income scheme for women.
+
+@section 14.4 | Social Security and Insurance
+
+@pyq U.P.P.C.S. (Pre) 2020
+Under which of the following conditions can an educated unemployed youth/businessperson obtain assistance under the National Pension Scheme?
+(a) He should be 18 to 40 years of age
+(b) His annual income should not exceed Rs. 1.5 crore
+(c) He should be a member of the National Pension Scheme
+(d) He should receive a guaranteed pension of Rs. 3000 under the scheme
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Ashraya Bima Yojana aims to provide :
+(a) allotment of house
+(b) housing loan
+(c) employment to the unemployed
+(d) social security to such workers who got unemployed
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P. Lower Spl. (Pre) 2008
+Aam Aadmi Bima Yojana provides social security to :
+(a) all labourers in rural areas
+(b) all landless labourers living below the poverty line in rural areas
+(c) all labourers in urban areas
+(d) all labourers in rural as well as urban areas
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012, 2015
+In which one of the following years the Unorganised Workers’ Social Security Act was passed?
+(a) 2004
+(b) 2006
+(c) 2008
+(d) 2010
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following is not a social security programme?
+(a) Aam Aadmi Bima Yojana (AABY)
+(b) National Health Insurance Scheme
+(c) Swarnajayanti Shahari Rozgar Yojana (SJSRY)
+(d) Unorganised Workers’ Social Security Act
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following is not a recent measure for social protection ?
+(a) Rashtriya Swasthya Bima Yojana
+(b) Skill Development Programme
+(c) Aam Aadmi Bima Yojna
+(d) Unorganised Workers’ Social Security Act, 2008
+@ans (b)
+@end
+
+
+@one U.P. U.D.A./L.D.A. (Pre) 2013
+Aam Aadmi Bima Yojana (AABY) was launched on
+@ans 2 October, 2007
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following statements is not true about Pradhan Mantri Suraksha Bima Yojna?
+(a) It is a personal accident cover
+(b) It is open to anyone between the age of 18 and 50 years
+(c) It is open to anyone between the age of 18 and 70 years
+(d) Premium payable is Rs. 12 per annum
+@ans (b) & (d)
+@note The source accepts **both (b) and (d)**: PMSBY is for ages **18-70** (so b is false), and its premium is now **Rs. 20** a year (Rs. 12 when launched), so (d) is false today.
+@end
+
+
+
+@pyq U.P. P.C.S. (Mains) 2014
+Which of the following is not an Employment Generation and Poverty Alleviation Programme of Government of India?
+(a) MGNREGA
+(b) NRLM (National Rural Livelihoods Mission)
+(c) SJSRY (Swarnajayanti Shahari Rozgar Yojna)
+(d) NSSF (National Social Security Fund)
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2021
+Match List-I with List-II:
+@match
+List-I (Scheme) | List-II (Year of Launch)
+A. Aam Aadmi Bima Yojana | 1. 2021
+B. P.M. Aatmanirbhar Swasth Bharat Yojana | 2. 2016
+C. Pradhan Mantri Jan Aarogya Yojana | 3. 2007
+D. Pradhan Mantri Suraksha Bima Yojana | 4. 2018
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 1 4 2
+(d) 2 4 1 3
+@ans (*)
+@note A = 2007, B = 2021 and C = 2018 are right in (c), but **PMSBY began on 9 May 2015**, not 2016, so no code is fully correct and the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Social Security Programme) | List-II (Beneficiary's Contribution)
+A. Pradhan Mantri Shram Yogi Maan Dhan Yojana | 1. Beneficiary's choice
+B. Pradhan Mantri Jeevan Jyoti Bima Yojana | 2. Rs. 55-Rs. 200 per month
+C. Pradhan Mantri Suraksha Bima Yojana | 3. Rs. 436 per year
+D. Atal Pension Yojana | 4. Rs. 20 per year
+@endmatch
+Codes: A B C D
+(a) 2 3 4 1
+(b) 2 4 1 3
+(c) 1 2 3 4
+(d) 3 2 1 4
+@ans (a)
+@end
+
+@table
+Social security scheme | Year | Feature
+**Unorganised Workers' Social Security Act** | **2008** | Basis of RSBY and AABY; now part of the **Code on Social Security 2020**
+**Aam Aadmi Bima Yojana** | **2 October 2007** | Life and disability cover for **rural landless households**; merged into PMJJBY/PMSBY
+**Aashray Bima Yojana** | **2001** | Relief to workers who **lose their jobs**
+**PM Jeevan Jyoti Bima** | **9 May 2015** | Life cover Rs. 2 lakh, ages 18-50, **Rs. 436** a year
+**PM Suraksha Bima** | **9 May 2015** | Accident cover Rs. 2 lakh, ages **18-70**, **Rs. 20** a year
+**Atal Pension Yojana** | 9 May 2015 | Pension Rs. 1,000-5,000; contribution by age and chosen pension
+**PM Shram Yogi Maan-dhan** | 2019 | Rs. 3,000 pension at 60 for unorganised workers; **Rs. 55-200** a month
+NPS for traders (PM-LVM) | 2019 | Traders with turnover **up to Rs. 1.5 crore**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+National Social Assistance Programme does not include the following scheme for ‘Below Poverty Line’ households
+(a) National Family Benefit Scheme
+(b) Annapurna
+(c) Mahila Kisan Sashaktikaran Pariyojna
+(d) All of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) (Spl.) 2004
+The concept of ‘Minimum Needs programme' is synonymous of which one of the following?
+(a) Antyodaya approach
+(b) Freedom from hunger approach
+(c) Investment in human approach
+(d) Infrastructure development approach
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following is not under the Minimum Needs Programme?
+(a) Rural Water Supply
+(b) Social Forestry
+(c) Rural Education
+(d) Improvement of urban slums
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P.P.C.S. (Mains) 2006
+Which of the following is not a measure of reducing inequalities?
+(a) Minimum Needs Programme
+(b) Liberalization of economy
+(c) Taxation
+(d) Land reforms
+@ans (b)
+@end
+
+
+@one U.P. Lower Sub. (Spl.) (Pre) 2008
+'National social assistance programme' is aimed at
+@ans Old age pension to very poor
+@end
+
+The **National Social Assistance Programme** (**15 August 1995**) has old-age, widow and disability pensions, the **National Family Benefit Scheme** and **Annapurna** (free grain to old people without pension). The **Minimum Needs Programme** (Fifth Plan) means investing in people: elementary education, rural health, water, roads, housing and **urban slum improvement**, not social forestry.
+
+@section 14.5 | Education
+
+@pyq U.P. P.C.S. (Mains) 2016
+Kasturba Gandhi Balika Vidyalaya Yojana was started in :
+(a) 2004
+(b) 2010
+(c) 2005
+(d) 2012
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Sarva Shiksha Abhiyan for universalization of elementary education was launched by Government of India in the year :
+(a) 1996
+(b) 2001
+(c) 2006
+(d) 2011
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 2016; U.P.P.C.S. (Pre) 2015; U.P. Lower Sub. (Spl.) (Pre) 2008; U.P. U.D.A./L.D.A. (Pre) 2006
+Which age groups is eligible for enrolment under ‘Sarva Shiksha Abhiyan’?
+@ans 6 – 14 years
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+The focus of Saakshar Bharat Programme is on :
+(a) Female literacy
+(b) Male literacy
+(c) Infant literacy
+(d) Secondary education
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+The Right to Education Act, 2009 aims at making a free and compulsory education a right for children upto :
+(a) Elementary level
+(b) Secondary level
+(c) Higher Secondary level
+(d) Graduation level
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not a social development programme of Indian Government?
+(a) Mid-day Meal Scheme
+(b) Sarva Shiksha Abhiyan
+(c) Look East Policy
+(d) Rural Health Mission
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Mid-day Meal Scheme was launched in 1995 to promote :
+(a) Adult literacy
+(b) Universalization of primary education
+(c) Secondary education
+(d) None of the above
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2006
+'Mid-day Meal' scheme was started in the year
+@ans 1995
+@end
+
+@one U.P. P.C.S (Mains) 2016
+When was the National Programme of Nutritional Support to Primary Education launched?
+@ans 1995
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+In which year, 'Mid-day Meal Scheme' was renamed as 'P.M. Poshan Scheme'?
+(a) 2020
+(b) 2019
+(c) 2018
+(d) 2021
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Mid-day Meal Scheme is financed and managed by :
+(a) Food and Civil Supply Department of State Governments
+(b) Department of Consumer Affairs and Welfare
+(c) Ministry of Programme implementation
+(d) Ministry of Human Resource Development
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which of the following does not initiate and organize the Mid-day Meal Scheme?
+(a) School Management
+(b) Panchayati Raj Institution
+(c) Self Help Groups
+(d) Contractor
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Akshay Patra Foundation in India is associated with :
+(a) Mid-day meal for primary schools students
+(b) Nutrition for rural pregnant women
+(c) Nutrition for rural children
+(d) Nutrition for rural old people
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+In Uttar Pradesh when ‘Go to School Campaign’ for primary education was started ?
+(a) In the Year 1999
+(b) In the Year 2000
+(c) In the Year 2001
+(d) In the Year 2002
+@ans (b)
+@end
+
+@pyq U.P. U.D.A/L.D.A. (Pre) 2001
+Kalp Yojana is related to :
+(a) Primary Education
+(b) Secondary Education
+(c) Higher Education
+(d) Technical Education
+@ans (a)
+@end
+
+@one U.P.P.S.C. (GIC) 2010
+Kalp Yojana is a
+@ans Educational Plan
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Consider the following statements and find out the correct answer using the code given below :
+Assertion (A) : In Uttar Pradesh, ‘Shiksha Mitra Yojana’ provides an opportunity to village youth-force to serve their own village education.
+Reason (R) : Its purpose is to maintain teacher-student ratio according to norms.
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+District Primary Education Programme was initiated in the year :
+(a) 1991
+(b) 1994
+(c) 1996
+(d) 1999
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Prarambhik Shiksha Kosh (PSK) was constituted in 2005 to receive the proceeds of the :
+(a) Donation from Public and NGOs
+(b) Revenues generated by Gram Sabhas for the development of primary education
+(c) Education cess imposed by the Centre
+(d) Contribution from the World Bank for the development of primary education
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Operation Black Board is related to :
+(a) Rural Education
+(b) Adult Education
+(c) Urban Education
+(d) Primary Education
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+In India, ‘Inclusive Education for the Disabled at Secondary Stage’ scheme launched in the year 2009-10 is being provided under :
+(a) Saakshar Bharat
+(b) Sarva Siksha Abhiyan
+(c) Rashtriya Madhyamik Siksha Abhiyan
+(d) Skill India Programme
+@ans (c)
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013; U.P.P.C.S. (Pre) 2014
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I | List-II
+A. Sarva Shiksha Abhiyan | 1. 1987
+B. Sakshar Bharat Mission | 2. 1988
+C. Operation Black Board | 3. 2001
+D. National Literacy Mission | 4. 2009
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 1 2 4 3
+@ans (a)
+@end
+
+@table
+Education scheme | Year | Detail
+**Operation Blackboard** | **1987** | Basic facilities in **primary schools**
+**National Literacy Mission** | **1988** | Adult literacy
+**District Primary Education Programme** | **1994** | World Bank-aided
+**Mid-day Meal** (NP-NSPE) | **15 August 1995** | For **universal primary education**; Ministry of Education (HRD); renamed **PM POSHAN** in **September 2021**
+**Sarva Shiksha Abhiyan** | **2001** | Ages **6-14**; merged into **Samagra Shiksha** (2018)
+**Kasturba Gandhi Balika Vidyalaya** | **2004** | Residential schools for girls of deprived groups
+**Prarambhik Shiksha Kosh** | **2005** | Fund for the **education cess**
+**RTE Act** (Article 21A) | **2009**, in force **1 April 2010** | Free, compulsory **elementary** education, 6-14
+**Saakshar Bharat** | **8 September 2009** | **Female literacy** (adult)
+**RMSA** | 2009 | Secondary education; includes the disabled-inclusive scheme (IEDSS)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Recently (in 2013) a term ‘Roshni’ was in the news. It is related to :
+(a) Cataract eradication programme
+(b) Skill development and training programme for tribal youths
+(c) Skill development programme for tribal women
+(d) An NGO working for the upliftment of slum workers
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P.P.C.S. (Pre) (Re-exam) 2015
+The ‘Nalanda Project’ is a programme of which of the following ministries ?
+(a) Ministry of Culture
+(b) Ministry of Human Resource Development
+(c) Ministry of Minority Affairs
+(d) Ministry of External Affairs
+@ans (c)
+@end
+
+
+@section 14.6 | Other Welfare Bodies
+
+@pyq U.P.P.C.S. (Pre) 2002
+In which year did the Bonded Labour (Abolition) Act come into force?
+(a) 1971
+(b) 1975
+(c) 1979
+(d) 1981
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1993
+National Children's Fund was set up in :
+(a) 1983
+(b) 1980
+(c) 1974
+(d) 1979
+@ans (d)
+@note The **National Children's Fund** was set up in **1979**, the **International Year of the Child**, to support voluntary work for children.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+CAPART is associated with :
+(a) Computer hardware
+(b) Consultancy to increase export
+(c) Controlling pollution in large industries
+(d) Helping and evaluating rural welfare schemes
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+CAPART is an autonomous organization under
+@ans Ministry of Rural Development
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S (Mains) 2009
+‘AADHAAR’ is a programme :
+(a) to help senior citizens
+(b) to provide nutritional support to adolescent women
+(c) to provide identity to Indian Residents
+(d) to train people for social defence
+@ans (c)
+@end
+
+@one U.P.P.C.S (Mains) 2009
+The brand name of 12 digit unique identification number to be assigned to each individual in the country will be
+@ans Aadhaar
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008; U.P. U.D.A./L.D.A. (Pre) 2010
+With which of the following would you associate village Tembhli, which was in the news in September 2010?
+(a) Mass suicide of farmers
+(b) Project JUGNU
+(c) Project Aadhaar
+(d) None of these
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+Which one villages is the first Aadhaar gaon under UID scheme
+@ans Tembhli (Nandurbar, Maharashtra)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+PURA (Providing Urban Amenities in Rural Areas), an ambitious programme on Rural Development was introduced by :
+(a) A.P.J. Abdul Kalam
+(b) Manmohan Singh
+(c) M.S. Swaminathan
+(d) Atal Bihari Vajpayee
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+Prime Minister’s Shram Awards are given to the employees of :
+(a) public sector undertakings of State Governments only.
+(b) public sector undertakings of Central Government only.
+(c) public sector undertakings of State and Central Governments only.
+(d) public sector undertakings of State and Central Governments and selected manufacturing units of Private sector.
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The Government of India has established National Handicapped Finance Corporation under which of the following ministries?
+(a) The Ministry of Human Resource Development
+(b) The Ministry of Rural Development
+(c) The Ministry of Women and Child Development
+(d) The Ministry of Social Justice and Empowerment
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+The National Institute for the Visually Handicapped is situated at :
+(a) Kolkata
+(b) Dehradun
+(c) Mumbai
+(d) Hyderabad
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+At which of the following place first Open University established?
+(a) Delhi
+(b) Andhra Pradesh
+(c) Maharashtra
+(d) Bhuvneshwar
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+The voluntary institution ‘Tarun Bharat Sangh’ for rural youth is functioning in which of the following States?
+(a) Gujarat
+(b) Karnataka
+(c) Madhya Pradesh
+(d) Rajasthan
+@ans (d)
+@end
+
+
+**Bonded labour** was abolished by ordinance in **1975** (Act 1976). **CAPART** (1986, Ministry of Rural Development) funds voluntary rural development work. **Aadhaar** (UIDAI) is a 12-digit identity number; the first was given at **Tembhli** (Nandurbar, Maharashtra) on 29 September 2010. **PURA** came from **A.P.J. Abdul Kalam**. The first open university was **Andhra Pradesh Open University** (Hyderabad, 1982), now Dr. B.R. Ambedkar Open University. **Tarun Bharat Sangh** (Rajendra Singh, "Waterman of India") works in **Rajasthan**.
+
+@up UP link: UP ran the **School Chalo Abhiyan** (2000), the **Kalp Yojana** (primary education) and the **Shiksha Mitra** scheme (2000) to fill teacher gaps with local youth. UP has among the most **Ayushman card** holders, and the **Kasturba Gandhi Balika Vidyalayas** are run in every block.
+
+@trap
+**NRHM 12 April 2005 (Tenth Plan); ASHA.** **ICDS 1975; blindness programme 1976; leprosy 1983.** **PM-JAY: Rs. 5 lakh per family, 60:40.** **Skill India 15 July 2015.** **STRIDE is not a skill scheme.** **Global Skill Park: Bhopal.** **AIM: NITI Aayog.** **BBBP 22 January 2015.** **Swadhar = women in difficulty.** **Swavalambini 2025 = MSDE, north-east.** **JSY replaced National Maternity Benefit Scheme.** **PMSBY Rs. 20, 18-70; PMJJBY Rs. 436.** **NSAP 1995.** **Operation Blackboard 1987 → NLM 1988 → SSA 2001 → Saakshar Bharat 2009.** **Mid-day Meal 1995 → PM POSHAN 2021.** **National Children's Fund 1979.**
+@end
+
+@heatmap
+
+@pattern
+Scheme-year matches dominate: the **2019-2025** papers asked at least two each year (health, insurance, skill, education). Recent papers also ask **contribution amounts** (PMJJBY, PMSBY, APY) and the ministry behind a scheme.
+@end
+
+@next
+Likely next angles: **Ayushman Vay Vandana** cards for 70+, **U-WIN** immunisation, **POSHAN 2.0**, **PM-SHRI** schools, **NEP 2020** structure (5+3+3+4), **APAAR ID**, **PM Vishwakarma**, **Lakhpati Didi** (3 crore target) and **e-Shram** registration.
+@end

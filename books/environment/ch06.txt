@@ -1,0 +1,315 @@
+@chapter 6 | Climate Change Conferences, Treaties and Action Plans
+
+@intro
+This chapter covers the international and national response to climate change: the Earth Summit and **Agenda 21**, the **UNFCCC** and its COPs (Kyoto, Paris), climate finance (**Green Climate Fund**, **GEF**), market mechanisms (**CDM**, carbon credits, carbon tax), the match-the-treaty questions (Cartagena, Stockholm, Montreal, Kyoto), and India's **National Action Plan on Climate Change** with its eight missions. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 6.1 | Earth Summits and the UNFCCC
+
+@pyq U.P.P.C.S. (Mains) 2016
+The Earth Summit + 5 was held in?
+(a) 2005
+(b) 2000
+(c) 1999
+(d) 1997
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Which one of the following is the correct definition of "Agenda 21"?
+(a) It is an action plan of U.N.O. for protecting human rights.
+(b) It is a book of 21st chapters on nuclear disarmament.
+(c) It is an action plan for the conservation of the global environment in the 21st century.
+(d) It is an agenda for the election of the President in the next meeting of SAARC.
+@ans (c)
+@end
+
+@one U.P. P.C.S. (Pre) 2023; U.P.R.O./A.R.O. (Pre) 2014; U.P.P.C.S. (Pre) 2014
+The "Agenda 21" of Rio Summit, 1992 is related to
+@ans Sustainable development
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following is not correctly matched?
+(a) First World Climate Conference - 1979
+(b) First Earth Summit - Agenda-21
+(c) Earth Summit Plus 5 - 1997
+(d) Carbon Trading - Montreal Protocol
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+The United Nations Convention on Climate Change ratified by more than 50 countries became effective on –
+(a) March 21, 1994
+(b) May 21, 1995
+(c) June 21, 1996
+(d) June 21, 1999
+@ans (a)
+@end
+
+The **UNFCCC** was signed at **Rio (1992)** and came into force on **21 March 1994**. It has **198 parties**, and its secretariat is in **Bonn**. It divides countries into **Annex I** (industrialised), **Annex II** (rich countries that must provide finance) and **non-Annex I** (developing, including India), under the principle of "**Common But Differentiated Responsibilities**" (CBDR).
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following United Nation's Climate Change Conferences was held in Paris?
+(a) 25th
+(b) 23rd
+(c) 22nd
+(d) 21st
+@ans (d)
+@end
+
+@one U.P. P.C.S. (Pre) 2018
+United Nations Conference on climate change, COP21 was held in
+@ans Paris
+@end
+
+@table
+COP | Year / place | Outcome
+COP1 | 1995, Berlin | Berlin Mandate
+**COP3** | **1997, Kyoto** | **Kyoto Protocol**: binding cuts for developed countries (in force 2005)
+COP13 | 2007, Bali | Bali Action Plan
+COP15 | 2009, Copenhagen | Copenhagen Accord; $100 billion a year pledge
+**COP16** | **2010, Cancun** | **Green Climate Fund** set up
+COP17 | 2011, Durban | Durban Platform (path to Paris)
+**COP21** | **2015, Paris** | **Paris Agreement**: well below 2 °C, aim 1.5 °C; NDCs
+COP26 | 2021, Glasgow | Glasgow Pact; coal "phase-down"; India's Panchamrit and net zero by 2070
+COP27 | 2022, Sharm el-Sheikh | **Loss and Damage** fund agreed
+COP28 | 2023, Dubai | First **Global Stocktake**; "transition away from fossil fuels"; triple renewables
+COP29 | 2024, Baku | "Finance COP": $300 billion a year by 2035 (NCQG)
+COP30 | 2025, Belem (Brazil) | Held in the Amazon; forests and adaptation focus
+@end
+
+@section 6.2 | Protocols, Funds and Mechanisms
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is not correctly matched?
+(a) Cartagena Protocol - Biosafety
+(b) Stockholm Convention - Persistent organic pollutant
+(c) Montreal Protocol - Ozone Layer
+(d) Kyoto Protocol - Save water
+@ans (d)
+@end
+
+@one U.P. P.C.S. (Mains) 2017
+Kyoto Protocol is related to
+@ans Climate change
+@end
+
+@table
+Treaty | Subject
+Ramsar (1971) | Wetlands
+CITES (1973) | Trade in endangered species
+Vienna Convention (1985) / **Montreal Protocol** (1987) | **Ozone layer**
+Basel (1989) | Movement of hazardous waste
+CBD (1992) / **Cartagena** (2000) / Nagoya (2010) | Biodiversity / **biosafety** (GMOs) / benefit-sharing
+UNFCCC (1992) / **Kyoto** (1997) / **Paris** (2015) | **Climate change**
+UNCCD (1994) | Desertification
+Rotterdam (1998) | Prior informed consent on hazardous chemicals
+**Stockholm** (2001) | **Persistent organic pollutants** (POPs)
+Minamata (2013) | Mercury
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following statements is incorrect for 'Green Climate Fund" (GCF)?
+(a) It was established in the Durban Conference on Climate change.
+(b) It would support programs and policies in developing nations.
+(c) The developed nations would provide the fund.
+(d) The fund will start operating from, 2014.
+@ans (a)
+@end
+
+The **Green Climate Fund** was agreed at **Cancun (COP16, 2010)**. Its governing instrument was approved at Durban (2011), and its headquarters is at **Songdo, South Korea**.
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to Global Environment Facility, which of the following statements is/are correct ?
+1. It was established in 1991.
+2. Only the developed countries are donors to it.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+The **Global Environment Facility** (1991, run with the **World Bank**) funds projects in developing countries under the CBD, UNFCCC, UNCCD, Stockholm and Minamata conventions. Developing countries such as **India** and China also contribute to it.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following statement is not true about C.D.M.?
+(a) It controls Greenhouse emission.
+(b) It reduces global warming.
+(c) Kyoto Protocol suggests for assessment of the sustainable development of it.
+(d) It prohibits developed countries from investing in projects in developing countries.
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2021
+The concept of carbon credit' originated from
+@ans Kyoto protocol
+@end
+
+The **Kyoto Protocol** set up three market mechanisms: **Emissions Trading**, **Joint Implementation** and the **Clean Development Mechanism (CDM)**. Under the CDM, rich countries **invest** in clean projects in developing countries and earn **Certified Emission Reductions** (1 credit = 1 tonne of CO2). The Paris Agreement's **Article 6** replaces them. India launched its own **Carbon Credit Trading Scheme** in **2023**.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following statements regarding the Emission Reduction Purchase Agreement signed with the World Bank in May, 2011 is not correct?
+(a) The agreement has been signed between the World Bank and the Government of India.
+(b) The agreement shall be valid for ten years.
+(c) The agreement is for securing carbon credits for a project of Himachal Pradesh.
+(d) As per the agreement, one ton of carbon-di-oxide will be equivalent to one credit unit.
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which among the following countries has announced to impose 'Carbon Tax' from 2019 to cut its greenhouse gas emission?
+(a) Thailand
+(b) China
+(c) Singapore
+(d) Malaysia
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+United Nations Climate Action Summit, 2019 was held at which of the following cities?
+(a) Paris
+(b) Geneva
+(c) Doha
+(d) New York
+@ans (d)
+@end
+
+@section 6.3 | India's National Action Plan on Climate Change
+
+@pyq U.P. P.C.S. (Pre) 2018; U.P.R.O./A.R.O. (Mains) 2021; U.P.P.C.S. (Pre) 2016
+When was India's first National Action Plan on Climate Change released?
+(a) 2000
+(b) 2008
+(c) 2012
+(d) 2015
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010; U.P.P.C.S. (Mains) 2016
+Which of the following is not listed under eight action of the climate action plan of Government of India?
+(a) Solar power
+(b) Afforestation
+(c) Nuclear power
+(d) Conversion of waste into energy
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from codes given below :
+@match
+List – I (Mission) | List – II (Starting Year)
+A. National Mission for Enhanced Energy Efficiency (NMEEE) | 1. 2009
+B. National Water Mission | 2. 2011
+C. National Mission on Sustaining Himalayan Ecosystem (NMSHE) | 3. 2014
+D. National Mission for Sustainable Agriculture | 4. 2008
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 1 2 3 4
+(c) 2 3 1 4
+(d) 1 3 4 2
+@ans (*)
+@note The missions were announced together in the **2008 NAPCC**, but each was approved or launched in a different year, and sources differ on these years. No code matches a single agreed set, so the source marks the question (*).
+@end
+
+@table
+NAPCC (30 June 2008): 8 national missions | Focus
+**National Solar Mission** (Jawaharlal Nehru NSM) | Solar power (now 280 GW solar in the 500 GW non-fossil target for 2030)
+National Mission for Enhanced Energy Efficiency | PAT scheme, energy saving
+National Mission on Sustainable Habitat | Cities, buildings, waste-to-energy, transport
+National Water Mission | 20% better water-use efficiency
+National Mission for Sustaining the Himalayan Ecosystem | Glaciers, Himalayan ecology
+**National Mission for a Green India** | **Afforestation** (5 million ha)
+National Mission for Sustainable Agriculture | Climate-resilient farming
+National Mission on Strategic Knowledge for Climate Change | Research
+@end
+
+**Nuclear power** is part of India's energy plans but is **not** one of the eight NAPCC missions. Later additions proposed include missions on wind, health, coastal areas, waste-to-energy and the **Green Hydrogen Mission** (2023), which is a separate scheme.
+
+@section 6.4 | Miscellaneous
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to the 'Great Barrier Reef', which of the following statements is/are correct?
+1. It is located on the north-eastern coast of Australia.
+2. Its length is more than 2500 kilometres.
+Select the correct answer from the code given below:
+(a) Neither 1 nor 2
+(b) Only 1
+(c) Both 1 and 2
+(d) Only 2
+@ans (b)
+@note The Commission's key is (b). The **Great Barrier Reef** (Queensland, Coral Sea) is usually said to stretch **about 2,300 km**, so "more than 2,500 km" is taken as false. Some sources give up to 2,600 km, which makes statement 2 debatable.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+With reference to Deep Carbon Observatory (DCO) which of the following statements is/are correct?
+1. It is a Global Research Programme to outreach role of Carbon on Earth.
+2. It conducts field observations of deep microbial ecosystem.
+Select the correct answer using codes given below:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Scientists of Manchester University recently suggested controlling global warming by cloud brightening over the Pacific Ocean through geo-engineering. Which of the following substances is used for this?
+(a) Silver salt
+(b) Iron powder
+(c) Sea water
+(d) Gypsum
+@ans (c)
+@end
+
+**Geo-engineering** ideas include **marine cloud brightening** (spraying sea-water droplets to make clouds whiter), **stratospheric aerosol injection** (sulphate particles to reflect sunlight), **ocean iron fertilisation** (to grow plankton) and **direct air capture** of CO2.
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to the 'ozone layer', which of the following statements is/are correct?
+1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
+2. Ozone depletion has been linked to chlorofluorocarbons.
+Select the correct answer from the code given below:
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of the following countries does not have a global atmosphere watch station to collect data on world temperatures?
+(a) Algeria
+(b) Brazil
+(c) Kenya
+(d) India
+@ans (d)
+@note At the time of the question India had no **global** GAW station, only regional ones. The source notes that stations existed in Algeria, Brazil and Kenya.
+@end
+
+@pyq U.P.P.C.S. (Pre), 2018
+Who of the following inaugurated SAFAR (System of Air Quality and Weather Forecasting) in July 2018?
+(a) Ravishankar Prasad
+(b) Piyush Goyal
+(c) Dr. Harshvardhan
+(d) None of the above.
+@ans (c)
+@end
+
+@trap
+**Kyoto = 1997 (COP3)**, **Paris = 2015 (COP21)**, **GCF = Cancun 2010**, not Durban. **Earth Summit + 5 = 1997** (New York). **Carbon trading = Kyoto**, not Montreal, which is about the ozone layer. **Nuclear power is not an NAPCC mission.** **Cartagena = biosafety**, **Stockholm = POPs**.
+@end
+
+@heatmap
+
+@pattern
+Conference questions have moved from **dates and places** (Rio, Kyoto, Paris, COP numbers) towards **mechanisms** (GCF, GEF, CDM, carbon credits, net zero), with recent papers (2019-2025) asking statement-type questions. NAPCC questions ask about the **year (2008)** and **which mission is not included** (nuclear power).
+@end
+
+@next
+Likely next angles: **COP29 Baku** finance goal ($300 billion), **COP30 Belem** and the **Tropical Forests Forever Facility**, the **Loss and Damage Fund** (hosted by the World Bank), India's bid to host **COP33 (2028)**, the **Global Stocktake**, India's **updated NDC** and **Carbon Credit Trading Scheme**, and the **US withdrawal** from the Paris Agreement (2025).
+@end

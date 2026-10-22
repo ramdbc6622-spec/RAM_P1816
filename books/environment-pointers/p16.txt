@@ -1,0 +1,123 @@
+@chapter 16 | Organisations, Awards, Days and Miscellaneous
+@meta Built from 54 UPPSC questions (2000–2025). Focus: institute-city matching, UN body headquarters, environment awards, important days, Mission LiFE, environmental movements.
+
+@hot
+- **NEERI**: **Nagpur** (1958) {2004, 2005, 2011, 2012, 2014, 2017}
+- **World Environment Day**: **5 June** {2004, 2011, 2012, 2014, 2025}
+- Day matching: **Wetlands 2 Feb, Wildlife 3 March, Water 22 March, Health 7 April, Heritage 18 April, Biodiversity 22 May, No Tobacco 31 May, Population 11 July, Tiger 29 July, Ozone 16 Sept, Soil 5 Dec** {2008, 2017, 2018, 2022, 2023, 2023, 2025}
+- HQs: **UNEP-Nairobi, WMO-Geneva, IMO-London, Greenpeace-Amsterdam** {2005, 2010, 2010, 2016}
+- **CAZRI**: **Jodhpur** {2008, 2010}
+@end
+
+@section 16.1 | Organisations
+- NEERI: **Nagpur**; set up **1958** {2004, 2005, 2011, 2012, 2014, 2017}
+- **WMO**: **Geneva** {2010}
+- **UNEP**: **Nairobi** {2010}
+- **Greenpeace International**: **Amsterdam** {2005}
+- **IMO**: **London** {2016}
+- **Nutrition-Hyderabad, Wildlife Institute-Dehradun, Ayurveda-Jaipur, Naturopathy-Pune** {2004}
+- Wrong: **IIFM-Kolkata** (it is **Bhopal**) {2012}
+- ICFRE pairs: Arid-Jodhpur, Rain-Jorhat, Tropical-Jabalpur right; Himalayan is **Shimla**, not Dehradun (3 correct) {2023}
+- **CAZRI**: **Jodhpur** {2008, 2010}
+- Indian Institute of Ecology and Environment: **New Delhi** {2014, 2016}
+- ENVIS centre on population and environment: **IIPS Mumbai** {2017}
+- India's working Antarctic stations: **Bharati and Maitri** {2021}
+- First National Centre for Marine Biodiversity: **Jamnagar** {2018, 2023}
+
+@table
+Body | HQ
+UNEP | Nairobi
+WMO, IPCC | Geneva
+IMO | London
+IUCN, WWF | Gland
+Greenpeace | Amsterdam
+UNFCCC | Bonn
+ISA | Gurugram
+@end
+
+@section 16.2 | Awards
+- **Indira Gandhi Paryavaran Puraskar**: contribution to the **environment** {2004}
+- **Rajiv Gandhi Environment Award**: **clean technology** {2006}
+- **Borlaug Award**: **agriculture**; Borlaug's Nobel: **Peace** (1970) {2001, 2018}
+- **Tyler Prize**: **environmental protection** {2004}
+- World Biodiversity Day: **22 May** {2018}
+- **Global 500**: **environment conservation** {2019}
+- **Champions of the Earth** 2018: **Narendra Modi** (with Macron) {2017}
+
+@section 16.3 | Days
+- World Habitat Day: first Monday of October (*) {2000}
+- Anti-Tobacco Day: **31 May**; "5 May" is wrong {2008, 2017}
+- **19 November**: **World Toilet Day** {2015}
+- World Environment Day: **5 June** {2004, 2011, 2012, 2014}
+- WED 2018 theme: **Beat Plastic Pollution** (India host) {2017}
+- World Wetlands Day: **2 February** {2023}
+- Wrong: **World Wildlife Day-22 March** (it is **3 March**) {2025}
+- **Population-11 July, Wildlife-3 March, Ozone-16 September, Health-7 April** {2023}
+- **18 April-Heritage, 22 May-Biodiversity, 29 July-Tiger, 5 December-Soil** {2022}
+- National Dolphin Day: **5 October** {2022}
+- Cleanliness Day on the last Saturday monthly: **Sierra Leone** {2002, 2003}
+
+@flow Environment calendar
+2 Feb | Wetlands
+3 Mar / 22 Mar | Wildlife / Water
+22 Apr / 22 May | Earth / Biodiversity
+5 Jun | Environment
+29 Jul | Tiger
+16 Sep | Ozone
+5 Oct | Dolphin (India)
+5 Dec | Soil
+@end
+
+@section 16.4 | Miscellany
+- **Mission LiFE**: launched June 2022 (true); proposed at COP25 (false; **COP26**) (only 1) {2025}
+- Eco-friendly lifestyle initiative: **Mission LiFE** {2023}
+- India's World Heritage sites by Aug 2010: **28** {2009}
+- Newly listed (2002): **Mahabodhi Temple** {2002}
+- Wrong: **Silent Valley-Baba Amte** (Narmada) {2009}
+- **Appiko**: Karnataka (key also Kerala) {2025}
+- "Rally for the Valley": **resettlement** (Narmada) {2003}
+- **Mitti Bachao**: **Hoshangabad**, MP {2020}
+- Land degradation neutrality by **2030** {2019}
+- Anthropogenic biome: **cropland** {2018}
+- Collects and releases water: **watershed** {2022}
+- Not eco-friendly: **eucalyptus** {2022}
+- Dust-pollution tree: **Sita Ashok** {2007}
+- Evergreen fruit plant: **loquat** {2008}
+- Mega-diverse country: **Australia** {2015}
+- **SODAR**: **Kaiga and Kalpakkam** {2004}
+- **Skin cancer-UV, noise-decibel, global warming-CO2, ozone hole-CFC** {2015}
+- "Father of Economic Ecology" (UNEP): **M.S. Swaminathan** {2007}
+- Peninsular glaciation: **Pleistocene** {2010}
+- India's largest charkha: **Noida**, made of **plastic waste** (both) {2019}
+
+@table
+Movement | Leader / place
+Chipko (1973) | Bahuguna, Bhatt; Chamoli (then UP)
+Appiko (1983) | Panduranga Hegde; Karnataka
+Silent Valley | KSSP, Sugathakumari; Kerala
+Narmada Bachao | Medha Patkar, Baba Amte
+Bishnoi (1730) | Amrita Devi; Khejarli
+Mitti Bachao (1977) | Hoshangabad, MP
+@end
+
+@trap
+- **UNEP** = Nairobi, not Geneva.
+- **IIFM** = Bhopal; **Himalayan FRI** = Shimla.
+- **Wildlife Day 3 March**; Water Day 22 March.
+- **Borlaug** won the Nobel **Peace** Prize.
+@end
+
+@up UP links: **Chipko** began in Chamoli when it was part of UP; ICFRE's **Forest Research Centre for Eco-Rehabilitation** is at **Prayagraj**; India's largest **charkha** of plastic waste stands in **Noida**.
+
+@last
+- NEERI = **Nagpur** (1958); CAZRI = **Jodhpur**
+- UNEP = Nairobi; WMO = Geneva; IMO = London
+- Greenpeace = Amsterdam; IIFM = Bhopal
+- NCMB = **Jamnagar**; Antarctic: Bharati, Maitri
+- Environment Day **5 June**; Ozone Day **16 Sept**
+- Wildlife Day **3 March**; Tobacco Day **31 May**
+- Dolphin Day **5 Oct**; Toilet Day **19 Nov**
+- Tyler Prize = environment; Champions of the Earth 2018 = Modi
+- Mission LiFE = June 2022 (proposed COP26)
+- Swaminathan = Father of Economic Ecology
+@end

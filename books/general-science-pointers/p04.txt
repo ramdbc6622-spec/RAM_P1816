@@ -1,0 +1,75 @@
+@chapter 4 | Properties of Matter
+@meta Built from 23 UPPSC questions (1992–2023). Focus: surface tension, pressure in bubbles and at height, water's maximum density at 4 C, Archimedes' principle and flotation.
+
+@hot
+- **Surface tension**: spherical raindrops, floating needle, oil spreading on water {1994, 2005, 2010, 2012}
+- Water is **densest at 4 C** (277 K); fish survive under ice {1997, 2005, 2008, ?, ?}
+- A ship **rises a little** on entering the sea; sea water is denser {1992, 2002, 2004, ?}
+- Pressure inside a soap bubble is **more than** outside {1995, 2014}
+@end
+
+@section 4.1 | Elasticity and Surface Tension
+- Rubber's Young's modulus is **less** than steel's; coil stretching depends on **shear modulus** (only 2) {2023}
+- Raindrops are spherical due to **surface tension** {2005}
+- Oil spreads on water: its surface tension is **less** than water's {1994, 2010}
+- Pressure inside a soap bubble: **more than atmospheric** {1995, 2014}
+- Charging a soap bubble: its **radius increases** {2019}
+- Iron needle floats due to **surface tension** {2012}
+
+@section 4.2 | Pressure and Flow
+- Pen leaks in a plane: **lower air pressure** {1992}
+- Sudden fall in barometer reading: **stormy** weather {1996}
+- Streamlined flow in a pipe: **slowest near the walls, fastest along the axis** {2003}
+
+@section 4.3 | Density and Water at 4 C
+- More of a substance does not change its **density** {1992}
+- Cooling water from 9 C to 3 C: volume **first decreases, then increases** {1997}
+- Maximum density of water: **4 C** (277 K) {2008, ?}
+- Aquatic life survives freezing: water is **densest at 4 C**, so liquid water stays below the ice {2005, ?}
+
+@flow Anomalous expansion of water
+Above 4 C | Cooling makes water contract
+At 4 C | Maximum density; sinks to the bottom
+0-4 C | Water expands on cooling
+0 C | Ice forms on top, less dense; floats
+Result | Lake bottom stays liquid; fish survive
+@end
+
+@section 4.4 | Archimedes' Principle and Flotation
+- Iron nail floats on mercury, sinks in water: iron is **denser than water, lighter than mercury** {1994}
+- Needle sinks, iron ship floats: needle's density is **greater than the water it displaces** {2004}
+- Bucket feels **heavier above the water surface** {2009}
+- 200 g of water in a weightless balloon weighs **zero** in water {2014}
+- Iceberg above the sea: about **1/9** {2005}
+- Easier to swim in the sea: sea water is **salty** (denser) {2002}
+- Ship from river to sea: it **rises a little**; sea water is denser (A and R true, R explains A) {1992, 2004, ?}
+
+@table
+Principle | Everyday example
+Surface tension | Raindrops, floating needle, soap bubbles
+Capillarity | Lamp wick, ink in blotting paper, sap in plants
+Archimedes | Ships, submarines, hydrometer, icebergs
+Bernoulli | Aircraft lift, roofs blown off, atomiser
+Pascal's law | Hydraulic lift, brakes, press
+@end
+
+@trap
+- Water's density peak is **4 C**, not 0 C; ice is **less** dense and floats.
+- Soap bubble pressure is **higher** inside; oil spreads because its surface tension is **lower**.
+- Steel is **more** elastic (higher Young's modulus) than rubber.
+@end
+
+@up UP link: the **Ganga** at Prayagraj meets sea water nowhere, so river barges on **NW-1** float lower than they would at sea (fresh water is less dense), a direct case of Archimedes' principle.
+
+@last
+- Raindrops spherical = surface tension
+- Needle floats = surface tension
+- Oil spreads: lower surface tension
+- Bubble pressure **more** inside
+- Pen leaks in a plane = low pressure
+- Barometer falls fast = storm
+- Water densest at **4 C** (277 K)
+- 1/9 of an iceberg above water
+- Ship rises in the sea; sea swimming easier
+- Iron floats on mercury, sinks in water
+@end

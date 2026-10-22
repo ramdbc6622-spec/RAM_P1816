@@ -1,0 +1,116 @@
+@chapter 4 | Buddhism
+@meta Built from 66 UPPSC questions (1991–2023). Focus: Buddha's life and the UP circuit, symbols, doctrine, Triratna, the Tripitaka, the four councils, sects, stupas, chaityas and art schools.
+
+@hot
+- **Kushinagar**: **Mahaparinirvana**, capital of the **Mallas** {2004, 2005, 2011, 2015, ?}
+- **Sarnath**: first sermon (**Dharmachakrapravartana**); deer and wheel symbol {2002, 2004, 2015, ?, ?}
+- **Lumbini** birthplace, proved by Ashoka's **Rummindei** pillar (Mauryan) {2004, 2006, 2007, 2011, ?, ?, ?}
+- **Councils**: **Rajgriha** (Ajatashatru, Mahakashyapa), **Vaishali** (Kalashoka), **Pataliputra** (Ashoka), **Kundalavana** (Kanishka) {2000, 2002, 2010, 2015, ?, ?, ?, ?, ?}
+- **Sanchi** = best stupa, not linked with any event of Buddha's life; built by **Ashoka** {2008, 2008, 2011, ?}
+@end
+
+@section 4.1 | Life of the Buddha
+- **Mahabhinishkramana**: his **departure from home** {2014}
+- Mother's clan: **Koliya** {?}
+- Born at **Lumbini** {?}
+- Lumbini proven by **Mauryan** inscriptions: Ashoka's **Rummindei pillar**, marking the **birth** {2004, 2006, 2007, 2011, ?, ?}
+- **Alara Kalama**: Buddha's **teacher** {2010}
+- On the **Niranjana**: **Bodh Gaya** {2012}
+- First sermon: **Sarnath** (Dharmachakrapravartana) {2004, 2015, ?, ?}
+- Born in Kapilavastu (home town), enlightened at Bodh Gaya, rejected the Vedas, preached noble truths (all four per key) {2010}
+- Wheel with deer: **first sermon** {2002}
+- **Birth-lotus, first sermon-wheel, enlightenment-Bodhi tree, great departure-horse** {2005}
+- Most sermons: **Shravasti** {2011}
+- Visited Kaushambi under **Udayana** {2010}
+- **Mahaparinirvana**: **Kushinagar** (Malla republic) {2005, 2011, ?}
+- Kushinagar was the Malla capital; the parinirvana there does not explain that (A and R true, R does not explain A) {2004}
+- **Mahaparinirvana Temple**: **Kushinagar** {2015}
+- Last disciple: **Subhadda** {2013, 2016}
+- Last rainy season: **Vaishali** {2015}
+
+@flow Eight great places
+Lumbini | Birth (Rummindei pillar)
+Bodh Gaya | Enlightenment (Niranjana river)
+Sarnath | First sermon
+Shravasti | Most rainy seasons and sermons
+Kaushambi, Sankisa, Rajgir, Vaishali | Ministry
+Kushinagar | Mahaparinirvana
+@end
+
+@section 4.2 | Doctrine and the Sangha
+- Noble truths in order: **suffering, its cause, its cessation, the path** {2006}
+- Buddha's teachings: **purity of conduct** {1991}
+- "World is unstable and transient": **Buddhism** {1992}
+- Buddha on karma, rebirth, nirvana and God: no option accepted (*) {1992}
+- Buddhism **accepts rebirth**; the "no soul" idea is true (A false, R true) {2006}
+- Jainism and Buddhism both accept **karma and transmigration** {1996}
+- **Triratna**: **Buddha, Dhamma, Sangha** {2017}
+- Wanted to lead the Sangha: **Devadatta** {1999}
+- Women admitted as nuns at **Vaishali** {2010}
+
+@section 4.3 | Texts
+- **Tripitaka**: collection of Buddha's **teachings** {2003, 2004}
+- Monastic rules: **Vinaya Pitaka** {?}
+- **Vinaya-monastic rules, Sutta-teachings, Abhidhamma-philosophy, Mahavamsa-regional history** {2023}
+- **Milindapanha**: Menander and **Nagasena** {2023}
+- "Light of Asia": **Gautama Buddha**; Edwin Arnold's book draws on the **Lalitavistara** {2010, 2014}
+
+@section 4.4 | The Four Councils
+- First council presided by **Mahakashyapa**, under **Ajatashatru**, at **Rajgir** (Saptaparni cave) {2000, 2010, ?, ?, ?}
+- Order: **Rajgriha, Vaishali, Pataliputra, Kundalavana** {2002}
+- Second council: **Vaishali**; fourth under **Kanishka** {?, ?}
+- Third council (Ashoka) in the **Dipavamsa and Mahavamsa** {1999}
+- **Ashokarama** monastery: **Pataliputra** {2015}
+
+@table
+Council | Place | Patron | President
+First | Rajgriha (Saptaparni) | Ajatashatru | Mahakashyapa
+Second | Vaishali | Kalashoka | Sabakami
+Third | Pataliputra | Ashoka | Moggaliputta Tissa
+Fourth | Kundalavana (Kashmir) | Kanishka | Vasumitra
+@end
+
+@section 4.5 | Sects, Spread and Decline
+- Hinayana vs Mahayana: **worship of god and goddess** (images, Bodhisattvas) {1996}
+- **Shunyata** (void): **Nagarjuna** {1998}
+- Karmapa Lama: **Kagyupa** sect {2000}
+- Buddhism kept caste, challenged Brahmins and called some jobs low (1, 2, 3) {1998}
+- Spread by simplicity, appeal to the lowly, missionary zeal, local language (1, 2, 3, 4) {2009}
+
+@section 4.6 | Stupas, Caves and Art
+- Not linked with Buddha's life: **Sanchi** {2008, 2011}
+- Sarnath pillar: **Ashoka** {2008}
+- **Kaushambi-Ghositarama, Kushinagar-Ramabhar stupa, Sarnath-Dhamekh, Shravasti-Sahet-Mahet** {2010}
+- Stupa chronology: no option accepted (*) {2014}
+- **Amaravati** stupa: **Satavahanas** {2023}
+- Best stupa: **Sanchi**, built by **Ashoka** {2008, ?}
+- Largest stupa: **Kesariya** (Bihar) {2023}
+- **Chaitya** = worship hall; **vihara** = dwelling {2001}
+- Largest Hinayana chaitya: **Karle** {2014}
+- Eleven-headed Bodhisattva: **Kanheri** {2017}
+- **Valabhi** university: **Gujarat** {2014}
+- Laid the base of idol worship (key): **Buddhism** {2008}
+- Standing Buddha statue: **Kushana** period {1992}
+- Sarnath Bhumisparsha Buddha: **Gupta** period {2009, 2010, 2010}
+
+@trap
+- Most sermons = **Shravasti**; last rainy season = **Vaishali**; death = **Kushinagar**.
+- Buddhist Triratna = Buddha, Dhamma, Sangha; Jain Triratna = right faith, knowledge, conduct.
+- Sanchi is **not** connected with any event of Buddha's life.
+- Amaravati = **Satavahana**, not Mauryan; Kesariya is the largest stupa.
+@end
+
+@up UP link: four of the eight great places are in UP: **Sarnath** (Dhamekh stupa), **Shravasti** (Sahet-Mahet, Jetavana), **Kushinagar** (Mahaparinirvana temple, Ramabhar stupa) and **Sankisa**; **Kaushambi** has the Ghositarama monastery, and **Piprahwa** (Siddharthnagar) is identified with Kapilavastu.
+
+@last
+- Mahabhinishkramana = leaving home; mother = Koliya
+- Lumbini = birth (Rummindei pillar)
+- Bodh Gaya on the Niranjana; Sarnath = first sermon
+- Shravasti = most sermons; Kushinagar = Malla, parinirvana
+- Subhadda = last disciple; Vaishali = last rainy season, nuns admitted
+- Triratna = Buddha, Dhamma, Sangha; Devadatta = rival
+- Councils: Rajgriha, Vaishali, Pataliputra, Kundalavana
+- Nagasena + Milinda; Nagarjuna = shunyata
+- Sanchi = Ashoka; Amaravati = Satavahana; Kesariya = largest
+- Karle = biggest chaitya; Sarnath Buddha = Gupta
+@end

@@ -1,0 +1,95 @@
+@chapter 3 | Mechanics and Motion under Gravity
+@meta Built from 27 UPPSC questions (1990–2024). Focus: vectors, inertia and friction, energy conversion, weight at the poles, pendulum clocks, inverse-square gravity, satellites and escape velocity.
+
+@hot
+- Weight is **maximum at the poles** (g is largest there) {2006, 2009, 2015}
+- Heavy and light balls dropped together **reach the ground together** {1992, 2015}
+- Pendulum clocks **lose time in summer**: the pendulum lengthens {1994, 2012}
+- **Inertia of rest**: a passenger's head falls back as the train starts {2010}
+- Satellite stays in orbit by **centripetal force** supplied by **Earth's gravity** {2006, 2013}
+@end
+
+@section 3.1 | Quantities, Motion and Inertia
+- Vector quantity: **displacement** {2014}
+- Man inhaling deeply on a sensitive balance: reading **increases** (per key) {2013}
+- Acceleration: **a = (v - u)/t** {2003}
+- Average speed for two equal halves: **2v_{1}v_{2}/(v_{1} + v_{2})** {2024}
+- Washing machine dryer works on **centrifugation** {2004}
+- Head leans back as a train starts: **inertia of rest** {2010}
+- Hard to walk on ice: **less friction** than on a road {1994}
+- Harder to start a loaded cart than keep it moving: **less friction once moving** (static > kinetic) {2013}
+
+@section 3.2 | Energy
+- Not from the Sun: **nuclear** (and **geothermal**) energy {2022}
+- Wind power converts **kinetic energy** into electricity {2016}
+- Non-conventional sources are **renewable** {2023}
+- **Light to electric-solar cell, electric to sound-loudspeaker, mass to heat-nuclear reactor, chemical to heat and light-fuel combustion** {2002}
+- Kinetic energies 4 : 9 (same mass): velocities **2 : 3** {2017}
+
+@table
+Device | Energy change
+Solar cell | Light to electrical
+Loudspeaker | Electrical to sound
+Microphone | Sound to electrical
+Nuclear reactor | Mass to heat
+Dynamo / generator | Mechanical to electrical
+Electric motor | Electrical to mechanical
+Battery | Chemical to electrical
+@end
+
+@section 3.3 | Gravity, Weight and Mass
+- Leaning Tower of Pisa stands: the vertical through its **centre of gravity falls within the base** {2009}
+- 10 kg and 1 kg balls dropped from 20 m: **land together** {1992, 2015}
+- Weight of a body: **maximum at the poles** {2006, 2009, 2015}
+- Apparent weight highest in **hydrogen** (least buoyancy among the options) {2017}
+- Weight feels more in a lift **accelerating upward** {1990}
+- Pendulum clocks lose time in summer: **longer pendulum, longer period** {1994, 2012}
+- Earth-Sun distance doubled: gravity becomes **one-fourth** {2009}
+- We do not feel Earth's orbital speed: our **relative speed** is zero {2013}
+- If gravity vanished: **weight zero, mass unchanged** {2012}
+
+@flow Weight versus mass
+Mass | Amount of matter; same everywhere (kg)
+Weight | Force = mg (newton); changes with g
+Poles | g largest; weight maximum
+Equator | g smaller (bulge and rotation)
+Free fall / orbit | Apparent weight zero
+@end
+
+@section 3.4 | Satellites and Escape Velocity
+- Astronauts cannot stand erect: key says **no gravity**; the real reason is **weightlessness** in free fall {2007}
+- Apple released from an orbiting spaceship: **moves along with it** {2010}
+- Geosynchronous satellite: centripetal force from **Earth's gravity** {2006}
+- Satellite kept in orbit by **centripetal force** {2013}
+- No atmosphere on the Moon: **escape velocity is less than** the gas molecules' rms speed {2012}
+
+@table
+Fact | Value
+Earth's escape velocity | 11.2 km/s
+Moon's escape velocity | About 2.4 km/s
+Orbital speed near Earth | About 7.9 km/s
+Geostationary height | About 35,786 km; period 24 h
+g on the Moon | About one-sixth of Earth's
+@end
+
+@trap
+- **Displacement, velocity, force, weight** = vectors; distance, speed, work = scalars.
+- Average speed over equal distances is the **harmonic**, not simple, mean.
+- Gravity follows the **inverse square**: double the distance, one-fourth the force.
+- Orbit "weightlessness" is **free fall**, not zero gravity.
+@end
+
+@up UP link: **IIT Kanpur** built and launched **Jugnu** (2011), a nano-satellite on PSLV-C18, among the first student satellites from India.
+
+@last
+- Displacement = vector; a = (v - u)/t
+- Inertia of rest: head goes back as the train starts
+- Washing machine = centrifugation; ice = low friction
+- Nuclear and geothermal energy are not from the Sun
+- Weight **maximum at poles**; mass never changes
+- Heavy and light balls fall together
+- Pendulum clock **loses** time in summer
+- Double distance = **1/4** gravity
+- Satellite orbit = centripetal force by gravity
+- Escape velocity **11.2 km/s**; Moon has no air
+@end

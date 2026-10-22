@@ -1,0 +1,100 @@
+@chapter 20 | World Transport and Miscellaneous
+@meta Built from 41 UPPSC questions (1991–2024). Focus: sea routes, railways and tunnels, ports, geographers and their ideas, HQs of organisations, assorted facts.
+
+@hot
+- **North Atlantic** = busiest sea route; links two industrial zones {1998, 2002, 2003, 2004}
+- **Bermuda Triangle** = **North Atlantic** {2001, 2002, 2003, 2008, 2015}
+- Busiest port by cargo: **Shanghai**; Japan's busiest: **Yokohama** {2004, 2010, 2015}
+- Geographers: **Taylor-neo-determinism, Sauer-planting hearths, Engler-floral regions, Lee-migration, Spencer and Thomas-11 cultural worlds** {1994, 2016, 2017, 2024}
+@end
+
+@section 20.1 | Routes, Railways, Tunnels
+- North Atlantic busiest; joins two industrial zones (R explains A) {2002, 2003}
+- Busiest sea route: **North Atlantic** {1998, 2004}
+- Not on the Trans-Siberian: **Sochi** {2019}
+- Rail length: **USA**, China, Russia, India, Canada (no code fits, *) {2008, 2014}
+- Longest rock tunnel: Delaware Aqueduct, USA (none of options, *) {2013}
+- **Seikan** rail tunnel: **Japan** {2012}
+
+@section 20.2 | Ports and Shipbuilding
+- Busiest seaport by cargo: **Shanghai**; second biggest (of options): **Shanghai** {2010, 2004}
+- Japan's busiest port: **Yokohama** {2015}
+- **Alexandria**: **Egypt** {2007}
+- **Port Diamond**: **South Africa** {2010}
+- **Gwadar**: **Balochistan** {2021}
+- Wrong: **Igarka-China** (Igarka = Russia, Yenisei) {2016}
+- Largest shipbuilder by value: **China** {2010}
+
+@section 20.3 | Geographers and Concepts
+- **Planting hearths-C.O. Sauer, cryophyte steppe-Arctic tundra, world floral regions-Adolf Engler, Puszta-Hungary** {2024}
+- **Neo-determinism**: **Griffith Taylor** {1994}
+- Spencer and Thomas: **11** cultural worlds {2016}
+- Migration theory: **Lee** {2017}
+- **Umland**: the **area surrounding a town** {2017}
+- **Isogonic** lines: equal **magnetic declination** {1998}
+
+@flow Schools of thought
+Determinism | Ratzel, Semple
+Possibilism | Vidal de la Blache, Febvre
+Neo-determinism | Griffith Taylor ("stop and go")
+Cultural landscape | Carl Sauer
+@end
+
+@section 20.4 | Places and Facts
+- **Grand Banks**: **eastern coast of North America** (Newfoundland) {2010}
+- **Bermuda Triangle**: **North Atlantic** {2001, 2002, 2003, 2008}
+- **Golden Triangle-opium (SE Asia), Bermuda Triangle-North Atlantic, rice bowl of the Far East-Myanmar, Red Basin-China** {2015}
+- Correct: **Morocco-Atlas** {2002}
+- Wrong: "Queen of the Adriatic"-**Rome** (it is **Venice**) {2015}
+- "Country of 40 tribes": **Kyrgyzstan** {2015}
+- True: Cuba sugar bowl, Hong Kong SAR, Australia federal (1, 2, 4); USA not top milk producer {2005}
+- Two wrong: Bosnia not Baltic; Nova Scotia = Canada (*) {2013}
+- Not true: species diversity **increases** towards the poles (it decreases) {2019}
+- Indian Ocean bases due to geopolitical value (key b; source a) {2019}
+
+@section 20.5 | Organisations, Energy, History
+- **IMO**: **London** {2016}
+- Wrong: **FAO-New York** (FAO = **Rome**) {2002}
+- Not in OPEC: **China** {2002}
+- Nuclear plant count order: USA, France, Japan, Russia then (*) {2013}
+- 99% energy from hydro: **Norway** {2021}
+- **Chernobyl**: **Ukraine** {2013}
+- Great Leap Forward famine: **China** {2013}
+- US launch centre: **Cape Kennedy** (Canaveral) {1991}
+- Largest wine producer: **Italy** {2010}
+- Asia's biggest gold market (then): **China** {2017}
+- Tree age: **counting rings** {2006}
+
+@table
+Body | HQ
+IMO | London
+FAO, WFP, IFAD | Rome
+WHO, WTO, ILO | Geneva
+ICJ | The Hague
+UNESCO, OECD | Paris
+IAEA, OPEC | Vienna
+UNEP | Nairobi
+ISA | Gurugram
+@end
+
+@trap
+- **FAO** = Rome, not New York; **IMO** = London.
+- **Igarka** = Russia; **Gwadar** = Balochistan (Pakistan).
+- Species diversity is highest at the **Equator**.
+- Queen of the Adriatic = **Venice**.
+@end
+
+@up UP links: the **Golden Quadrilateral** and **NW-1 (Prayagraj-Haldia)** are India's busiest land and inland water routes; **Jewar** airport and the **Eastern Dedicated Freight Corridor** put UP on new trade routes.
+
+@last
+- North Atlantic = busiest sea route
+- Shanghai = busiest port; Yokohama = Japan's busiest
+- Seikan tunnel = Japan; Sochi not on Trans-Siberian
+- Gwadar = Balochistan; Igarka = Russia
+- Taylor = neo-determinism; Sauer = planting hearths
+- Engler = floral regions; Lee = migration
+- Bermuda Triangle = N. Atlantic; Golden Triangle = opium
+- Kyrgyzstan = 40 tribes; Venice = Queen of the Adriatic
+- IMO = London; FAO = Rome
+- Norway = 99% hydro; Chernobyl = Ukraine
+@end

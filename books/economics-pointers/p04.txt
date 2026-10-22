@@ -1,0 +1,126 @@
+@chapter 4 | Agriculture II: Food Security, Revolutions, Prices and Credit
+@meta Built from 70 UPPSC questions (1992–2025). Focus: NFSA and NFSM, colour revolutions, ICAR and institutes, crop insurance, NAFED and MSP, farm credit and KCC.
+
+@hot
+- **Kisan Credit Card** = **1998-99** {2008, 2010, ?, ?}
+- **Commercial banks** = largest source of farm credit; foreign banks the least {2004, 2006, 2010}
+- **NFSA 2013**: 75% rural, 50% urban; focus on women and children {2019, 2024}
+- Revolutions: **blue-fish, yellow-oilseeds, golden-horticulture, grey-fertilisers, black-petroleum; Operation Flood-milk** {1992, 1997, 2007, 2012, 2022}
+- **CACP** recommends MSP; **CCEA** approves FRP {2002, 2019, ?}
+- **NAFED** = apex agricultural marketing cooperative {1995, 2007}
+@end
+
+@section 4.1 | Food Security
+- Food security needed even in surplus years; starvation from unequal access (R explains A) {2025}
+- Not a dimension: **accountability** {2025}
+- Entitlement concept: **Amartya Sen** {2025}
+- NFSA: 75% rural, 50% urban; nutrition for women and children (1 and 2); not enforced in 2010 {2024}
+- NFSA: coverage, nutrition, **eldest woman** head of household (all) {2019}
+- First e-ration card: **Delhi** {2021}
+- Not an NFSM aim: **credit facilities** {2016}
+- NFSM crops: coarse cereals added later (*) {2010}
+- NFSM began **rabi 2007-08**; covers **wheat, pulses, rice, coarse cereals** {2008, 2013}
+- PDS price rise: to **cut subsidy burden** {1995}
+- FCI's economic cost = MSP + bonus + **procurement incidentals and distribution cost** {2019}
+
+@section 4.2 | Revolutions
+- **Operation Flood**: **milk** {1992}
+- Nandini Krishak Samriddhi (UP): Sahiwal, Gir, Tharparkar, Gangatiri only (true); experience rule (false) {2023}
+- Largest fish producer: **China** {2021}
+- **Blue revolution**: **fish** {1997}
+- **Yellow revolution**: **oilseeds**; **rapeseed-mustard** {2007, 2012}
+- **Golden-horticulture and honey, Grey-fertilisers, Yellow-oilseeds, Black-petroleum** {2022}
+- Green Revolution gains: **Punjab, Haryana, western UP** {2008}
+- Eco-friendly practice: **organic farming** {2008}
+- NATP funded by the **World Bank** {2002}
+
+@table
+Revolution | Product
+Green | Foodgrains
+White | Milk (Operation Flood, Kurien)
+Blue | Fish
+Yellow | Oilseeds
+Golden | Horticulture, honey
+Grey | Fertilisers
+Black | Petroleum
+Pink | Meat, prawns
+Round | Potato
+@end
+
+@section 4.3 | Research and Institutes
+- First KVK: **1974** (Puducherry) {2017}
+- ICAR order: **KVK (1974), Lab to Land (1979), NATP (1998), NAIP (2006)** {2016}
+- *Handbook of Agriculture*: **ICAR** {2012}
+- Kisan Call Centre: **Ministry of Agriculture** (2004) {2023}
+- IIVR: **Varanasi** {2015}
+- CFTRI: **Mysore** {2012}
+- NAARM: **Hyderabad** {2012}
+- IGFRI: **Jhansi** {2012}
+- International Potato Centre: **Lima, Peru** {2021}
+- **Neeru-Meeru**: **Andhra Pradesh** (2000) {2016}
+
+@section 4.4 | Crop Insurance and Schemes
+- Crop insurance began: **1985** {2012}
+- NAIS: **1999-2000** {2003}
+- NAIS extended to kharif in Budget **2004-05** {2004, 2005}
+- Weather-based insurance first in **Karnataka** {2010}
+- Crop insurance monopoly: none now (*) {2008}
+- True: insurance 1985, UP has 9 agro-climatic zones, Food for Work 1977 (1, 2, 3) {2010}
+- **Hariyali Yojana**: **water management** (watersheds) {2010, 2016}
+- Rainfed Area Development: **2011-12** {2015}
+- Vishesh Krishi and Gram Udyog Yojana: **farm exports** {2010, ?, ?}
+- NLRMP: **2008** {2016}
+
+@flow Crop insurance
+1985 | Comprehensive Crop Insurance Scheme
+1999-2000 | National Agricultural Insurance Scheme
+2003 / 2007 | Weather-based insurance (Karnataka pilot)
+2016 | PM Fasal Bima Yojana
+@end
+
+@section 4.5 | Marketing and Prices
+- **NAFED**: **agricultural marketing**; apex marketing cooperative {1995, 2007}
+- Not an agri-export agency: **IFFCO** {2017}
+- Markets regulated by State **APMC Acts** {2011}
+- Farm demand is **inelastic** {2013}
+- Sugarcane FRP approved by the **CCEA** {2019}
+- Agricultural Prices Commission: **1965** {2002}
+- MSP: fixed price, helps food security (II and III) {2016}
+- Wheat MSP 2013: **Rs. 1,350**; paddy MSP 2018-19: **Rs. 1,750** {2013, 2018}
+- MSP for fruits and vegetables: **Kerala** {2016}
+- Groundnut MSP 1995-96: **Rs. 900** {1995}
+- Government buying price: **procurement price** {2008}
+- MSP recommended by **CACP** {?}
+- Price Stabilisation Fund crop: **potato** {2021}
+
+@section 4.6 | Credit
+- Effective farm interest (2011-12): **4%** {2011}
+- Not running cost: **land revenue** {2014}
+- Not helping rural economy: **private money-lending** {2013}
+- Agri-finance principles: **all** {2016}
+- Long-term farm credit: **Land Development Bank** {2014}
+- Largest source: **commercial banks** {2004, 2006}
+- Least: **foreign private banks** {2010}
+- KCC: **1998-99**; gives timely crop credit (only 2) {2008, 2010, ?, ?}
+- Order: **RRB (1975), NABARD (1982), SHG linkage (1992), KCC (1998)** {2020, 2021}
+
+@trap
+- NFSA came in **2013**, not 2010; women 18+ head the card.
+- **CACP** recommends MSP; **CCEA** approves.
+- **KCC = 1998-99**, not 2001.
+@end
+
+@up UP links: **western UP** gained from the Green Revolution; **Nandini Krishak Samriddhi Yojana** (UP) supports desi cow breeds (Sahiwal, Gir, Tharparkar, Gangatiri); UP has **9 agro-climatic zones**; **IIVR (Varanasi)** and **IGFRI (Jhansi)** are in UP.
+
+@last
+- NFSA 2013: 75% rural, 50% urban
+- NFSM from rabi 2007-08
+- Operation Flood = milk; blue = fish; yellow = oilseeds
+- Grey = fertilisers; black = petroleum; golden = horticulture
+- First KVK **1974**; IIVR Varanasi; IGFRI Jhansi
+- Crop insurance 1985; NAIS 1999; PMFBY 2016
+- NAFED = marketing; APMC = mandis
+- CACP 1965; CCEA approves FRP
+- Commercial banks = largest farm lenders
+- Order: RRB, NABARD, SHG, KCC (1998-99)
+@end

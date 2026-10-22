@@ -1,0 +1,395 @@
+@chapter 2 | Sustainable Development and Human Capital
+
+@intro
+This chapter covers the **Sustainable Development Goals** (17 goals for 2030), NITI Aayog's **SDG India Index**, the history of the idea (Club of Rome, Brundtland Report, Kuznets curve), and **human capital and inclusive growth**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 2.1 | The Sustainable Development Goals
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following is not a sustainable development goal targeted to be achieved by 2030?
+(a) Gender Equality
+(b) Zero Hunger
+(c) Good health and well being
+(d) Space Research
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which measures are essential to achieve Goal 4 of the Sustainable Development Targets, 2030?
+1. Making education free and compulsory
+2. Improving basic school infrastructure and embracing digital transformation
+3. Expansion of agricultural programmes
+4. Increasing investment in technology
+Select the correct answer from the codes given below:
+(a) 1 and 2
+(b) 1, 2, 3 and 4
+(c) Only 1
+(d) 1, 2 and 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List – I with List – II and select the correct answer from the code given below the lists.
+List-I List-II (Sustainable (Area of Goal) Development Goals)
+A. Goal 1
+1. Clean water and sanitation
+B. Goal 3
+2. Quality education
+C. Goal 4
+3. To end poverty in all forms
+D. Goal 6
+4. Good health and well-being
+Code : A B C D
+(a) 4 3 1 2
+(b) 3 4 2 1
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following Sustainable Development Goal (SDG) will target to water availability for all and its permanent management upto 2030 in India?
+(a) SDG - 6
+(b) SDG - 7
+(c) SDG - 8
+(d) SDG - 9
+@ans (a)
+@end
+
+
+@pyq
+Match list-I with list-II and select the correct answer using the code given below the lists :
+@match
+List-I (Sustainable Development Goal) | List-II (Related With)
+A. SDG-10 | 1. Climate Action
+B. SDG-13 | 2. Life on Land
+C. SDG-14 | 3. Reduced inequalities
+D. SDG-15 | 4. Life below Water
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 2 3 1 4
+(c) 3 1 4 2
+(d) 1 2 3 4
+@ans (c)
+@note The source prints no exam tag for this question.
+@end
+
+@table
+SDG | Goal
+1 | **No poverty**
+2 | **Zero hunger**
+3 | **Good health and well-being**
+4 | **Quality education**
+5 | Gender equality
+6 | **Clean water and sanitation**
+7 | Affordable and clean energy
+8 | Decent work and economic growth
+9 | Industry, innovation and infrastructure
+10 | **Reduced inequalities**
+11 | Sustainable cities and communities
+12 | Responsible consumption and production
+13 | **Climate action**
+14 | **Life below water**
+15 | **Life on land**
+16 | Peace, justice and strong institutions
+17 | Partnerships for the goals
+@end
+
+The 17 SDGs with 169 targets were adopted by the UN in **September 2015** for **2030**, replacing the eight Millennium Development Goals (2000-2015). There is no goal on space research.
+
+@pyq U.P. P.C.S. (Pre) 2023
+Consider the following statements about sustainable development :
+1. Based on the global indicator framework and data produced by National Statistical Systems and information collected at regional level, the United Nations Secretary General presents an Annual Sustainable Development Goal Report.
+2. Global Sustainable Development Report is produced to inform the quadrennial sustainable development goal review deliberations at the UN General Assembly once every quarter.
+Select the correct answer using the code given below :
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+
+@section 2.2 | SDGs in India
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
+(a) Planning Commission
+(b) Disinvestment Commission
+(c) NITI Aayog
+(d) Finance Commission
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+What is India’s rank in the 2017 Sustainable Development Goal Index?
+(a) 116th
+(b) 125th th
+(c) 108
+(d) 95th
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+According to the Report released by NITI Aayog in December 2019 on 'Sustainable Development Goals India Index 2019-20', the Uttar Pradesh is grouped under which of the following categories?
+(a) Aspirant
+(b) Performer
+(c) Front runner
+(d) Achiever
+@ans (b)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019; U.P.P.C.S. (Pre) 2021
+As per SDG India Index and Dashboard 2020-21 published by the NITI Aayog, which one of the following States was NOT among the top five States in their performance regarding SDGs in the country?
+(a) Gujarat
+(b) Andhra Pradesh
+(c) Goa
+(d) Tamil Nadu
+@ans (a)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+According to 'Sustainable Development Goal (SDG) India Index, 2019' recently released by NITI Aayog, which State holds the first position?
+(a) Uttar Pradesh
+(b) Bihar
+(c) Jharkhand
+(d) Kerala
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following city was not among the top three positions in the Sustainable Development Goal Urban Index and Dashboard 2021-22 declared by the NITI Aayog in November 2021?
+(a) Coimbatore
+(b) Chandigarh
+(c) Indore
+(d) Shimla
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following Department prepares the National Indicator Framework Progress Report related to Sustainable Development Goals in Uttar Pradesh?
+1. Department of Finance
+2. Department of Education
+3. Department of Planning
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 1 and 3
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Two statements are given below, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): India’s success is important for the global success of the Sustainable Development Goals.
+Reason (R): About one-sixth of the world’s total population resides in India.
+Select the correct answer from the code given below:
+Code:
+(a) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) (A) and (R) both are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+
+@table
+SDG India Index (NITI Aayog) | Highlights
+First edition | **2018**
+2019-20 | **Kerala** first; **UP** in "Performer"
+2020-21 | Kerala first; Himachal, Tamil Nadu, Andhra Pradesh, Goa, Uttarakhand next
+**2023-24** (July 2024) | **Kerala and Uttarakhand** joint first (79); national score 71; **UP** a **Front Runner** (67)
+Categories | Aspirant (0-49), Performer (50-64), Front Runner (65-99), Achiever (100)
+@end
+
+**NITI Aayog** is the **nodal body** for SDGs; **MoSPI** prepares the **National Indicator Framework**. In UP the **Planning Department** prepares the state's NIF progress report. India holds about **one-sixth (18%)** of humanity, so the world cannot meet the SDGs without India.
+
+@section 2.3 | History of the Idea
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): The concept of Sustainable Development was popularised by the Brundtland Report.
+Reason (R): The Brundtland Report is also known as "The Limits to Growth".
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Who has propounded the concept of 'Limits to Growth'?
+(a) Club of Rome
+(b) UNESCO
+(c) Brundtland Commission
+(d) Agenda 21
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The Environmental Kuznets Curve (EKC) shows the relationship between per capita GDP and environmental loss. What is the shape of Environmental Kuznets Curve?
+(a) Inverted ‘U’ shaped
+(b) Inverted ‘V’ shaped
+(c) Inverted ‘L’ shaped
+(d) None of these
+@ans (a)
+@end
+
+
+@table
+Milestone | Year | Idea
+Rachel Carson, *Silent Spring* | 1962 | Pesticide damage; start of the environmental movement
+**Club of Rome**, ***The Limits to Growth*** | **1972** | Finite resources limit growth
+Stockholm Conference | 1972 | First UN environment conference
+**Brundtland Report**, ***Our Common Future*** | **1987** | Defined **sustainable development**: meeting present needs without compromising future generations
+Rio Earth Summit (Agenda 21) | 1992 | Action plan
+UN SDGs | 2015 | 17 goals for 2030
+@end
+
+The **Environmental Kuznets Curve** is an **inverted U**: pollution rises with income at first, then falls after a turning point. The Brundtland Report is not *The Limits to Growth*, so (R) is false.
+
+@pyq U.P. P.C.S. (Pre) 2023
+What do we call balancing the need to use resources and also conserve them for the future?
+(a) Reducing consumption
+(b) Future resources
+(c) Resource conservation
+(d) Sustainable development
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Natural resources should be used by the present generation in such a way that if there is minimum degradation of natural resources, then what kind of development would it be called?
+(a) Economic Development
+(b) Organic Development
+(c) Social Development
+(d) Sustainable Development
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+‘Saving energy and other resources for the future without sacrificing people’s comfort in the present’ is the definition of which of the following concepts?
+(a) Economic growth
+(b) Economic development
+(c) Sustainable development
+(d) Human development
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Neemrana, a model of sustainable economic development, is located in
+(a) Haryana
+(b) Punjab
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+The main objective of sustainable tourism is :
+(a) To increase the number of tourists
+(b) To manage mass scale tourism and small scale travel
+(c) To manage tourism and environment while maintaining cultural integrity and ecological processes
+(d) None of the above
+@ans (c)
+@end
+
+
+**Neemrana** (Alwar, Rajasthan) was cited as a model of sustainable rural development. **Sustainable tourism** protects ecology and cultural integrity while serving visitors.
+
+@section 2.4 | Human Capital and Inclusive Growth
+
+@pyq U.P.P.C.S. (Mains) 2017
+Skill development programme enhances :
+(a) Human Capital
+(b) Physical Capital
+(c) Working Capital
+(d) Fixed Capital
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+Which one of the following will not have a direct impact on human capital formation?
+(a) Education
+(b) Medical Care
+(c) Training
+(d) Irrigation
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A) : Investment in human capital yields returns in the future.
+Reason (R) Education and health make people more productive.
+Select the correct answer from the code given below:
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam.) 2015
+Increasing investment in human capital leads to –
+(a) Proper use of resources
+(b) Increase in productivity
+(c) Skill development
+(d) All of the above
+@ans (d)
+@end
+
+
+**Human capital** is people's skills, knowledge and health. Spending on **education, health and training** raises productivity and yields returns in the future; irrigation builds physical capital instead. Schemes: **Skill India** (2015), PM Kaushal Vikas Yojana.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Inclusive growth would necessitate :
+(a) Development of infrastructural facilities
+(b) Revival of agriculture
+(c) Increased availability of social services such as education and health
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Inclusive growth is not expected to increase from which one of the following?
+(a) High growth rate of National Income
+(b) Rural development
+(c) Agriculture development
+(d) Adequate credit to farmers
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) ( Re- Exam) 2015
+A new chapter on sustainable development and climate change was first introduced in the Economic Survey of :
+(a) 2004-05
+(b) 2011-12
+(c) 2012-13
+(d) 2013-14
+@ans (b)
+@end
+
+
+**Inclusive growth** (the theme of the **11th Plan**, 2007-12) spreads benefits to all through agriculture, infrastructure and social services; high GDP growth alone does not ensure it. The Economic Survey **2011-12** first added a chapter on **sustainable development and climate change**.
+
+@trap
+**17 SDGs, 169 targets, 2030.** **SDG 1 = poverty, 4 = education, 6 = water, 10 = inequality, 13 = climate, 14 = life below water, 15 = life on land.** **NITI Aayog** is the nodal agency. **Kerala** tops the SDG index (with Uttarakhand in 2023-24). **Limits to Growth = Club of Rome (1972)**; **Brundtland = Our Common Future (1987)**. **EKC = inverted U.**
+@end
+
+@heatmap
+
+@pattern
+SDG questions have become frequent: the **2019-2025** papers asked about the SDG index, goal numbers, UP's status and departments, Brundtland and Kuznets. Learn the 17 goals by number and the latest index results.
+@end
+
+@next
+Likely next angles: **SDG India Index 2023-24** ranks, the **UN SDG Report 2025**, **Viksit Bharat** targets, the **Multidimensional Poverty Index**, **green growth** in the Budget, **LiFE**, and **UP's SDG dashboard** at district level.
+@end

@@ -1,0 +1,165 @@
+@chapter 21 | Miscellaneous Economy
+@unit UNIT IV · MISCELLANEOUS
+@meta Built from 84 UPPSC questions (1994–2025). Focus: committees and their subjects, economists and their books, Gandhi's trusteeship, institutes and their cities, quality marks, energy and steel facts.
+
+@hot
+- **Committee-subject matching**: **Dutt-licensing, Wanchoo-direct taxes, Rajamannar-Centre-State, Chakravarty-monetary policy**; **Tarapore** is not bank service; **Rekhi** is not export-import {2008, 2010, 2015}
+- **Trusteeship** = **Mahatma Gandhi**; basis of the Gandhian economy {2009, 2012, 2013, 2013}
+- **Book-author matching**: **Wealth of Nations-Adam Smith**; Myrdal, Hirschman, Kaldor; *Principles* is **Ricardo**, not Marx {2012, 2023, 2024}
+- **AGMARK**: quality mark for farm goods; Act **1937**; not issued by FCI {2002, 2004, 2009, 2013, 2023}
+- **Noida** institutes: **V.V. Giri National Labour Institute, NIESBUD**; agricultural economics institute (NIAP) = **New Delhi** {2013, 2015, 2017, 2023}
+@end
+
+@section 21.1 | Education and Society
+- UN year **2023**: International Year of **Millets** {2021}
+- **NEP 2020**: drafted under **K. Kasturirangan**; it replaced a **34-year** policy, not 38 (only 1) {2020}
+- NEP panel head (June 2017): **K. Kasturirangan** {2017}
+- Not part of NEP aims: **Bharat Nirman** (ULLAS and DIKSHA are) {2025}
+- Tamil Nadu corporal-punishment guidelines (2024): key says both; date of statement 1 is doubtful (*) {2024}
+- **Marginal man**: **Robert E. Park** {2020}
+- **Missing women**: **Amartya Sen** {2015}
+- **Global village**: based on **transport and communication** {2018}
+
+@section 21.2 | Institutions, People and Committees
+- **Competition Commission**: **2003** (Act 2002) {2004}
+- CCI chair (2010): **Ashok Chawla** {2010}
+- Milk marketing: **GCMMF** (Amul) {2009}
+- IMF Managing Director (2019): **Kristalina Georgieva** {2019}
+- Wrong pair: **A.M. Khusro-UPSC** (he chaired the 11th Finance Commission) {2008}
+- **Swaminathan-Green Revolution, L.K. Jha-administrative reforms, Kurien-milk, Morarji Desai-social control on banks** {2003, 2022}
+- Wrong: **Rekhi-export-import** (Rekhi = indirect taxes) {2008}
+- Wrong: **Tarapore-customer service** (that is Goiporia) {2010}
+- **Dutt-licensing, Wanchoo-direct taxes, Rajamannar-Centre-State, Chakravarty-monetary policy** {2015}
+- RBI Governor who became Finance Minister: **C.D. Deshmukh** {2008}
+- "From Dependence to Self Reliance": **Bimal Jalan** {2023}
+- Indians in Forbes top 50 (2000): **Azim Premji, Dhirubhai Ambani** (*) {2001}
+- **OGL, FOB-external trade; SJRY, TRYSEM-employment; WPI, CPI-index numbers; CRR, SLR-banking** {2007}
+- **Pressure group**: influences **policy decisions** {2004}
+
+@table
+Committee | Subject
+Goiporia (1990) | Customer service in banks
+Rekhi | Indirect taxes
+Goswami (1993) | Industrial sickness
+Janakiraman (1992) | Securities scam
+Malhotra (1993) | Insurance reform
+Tarapore (1997, 2006) | Capital account convertibility
+Dutt (1969) | Industrial licensing
+Wanchoo (1971) | Direct taxes
+Rajamannar (1969-71) | Centre-State relations
+Chakravarty (1985) | Monetary policy
+@end
+
+@section 21.3 | Books, Prizes and Indices
+- Nobel in Economics 2015: **Angus Deaton** {2015}
+- "India's Economic Policy: The Gandhian Blueprint": **Charan Singh** {2012}
+- PM when gold was pledged abroad (1991): **Chandra Shekhar** {2010}
+- Corruption Index ranks: **2010-87, 2011-95, 2012-94, 2014-85** {2014}
+- **RESIDEX** (residential prices, NHB): **2007**; tracks **land/housing prices** {2011, 2015}
+- Trade and Merchandise Marks Act: **1958** {2016}
+- Indian Patents Act in force: **1972** {2014}
+- Patents (Second Amendment): **2002** {2002}
+- "Bahini Darbar" women's paper: **Madhya Pradesh** {2014}
+- Most greenhouse gas emissions (2013-14): **China** {2014}
+
+@table
+Recent Nobel in Economics | Winners
+2015 | Angus Deaton
+2023 | Claudia Goldin
+2024 | Acemoglu, Johnson, Robinson
+2025 | Joel Mokyr, Philippe Aghion, Peter Howitt
+@end
+
+@section 21.4 | Institutes and Schemes
+- Indian Institute of Carpet Technology: **Bhadohi**, not in options (*) {2006}
+- **V.V. Giri National Labour Institute**: **Noida** {2017}
+- Agricultural Economics and Policy Research institute: **New Delhi** {2013, 2023}
+- None correct: Finance Commission is **constitutional**, Planning Commission was **non-statutory**, RBI nationalised **1 January 1949** {2009}
+- **Entrepreneurship Development Institute**: **Ahmedabad** {2011}
+- **NIESBUD**: **Noida** {2015}
+- Swadesh Darshan circuits: no option fits (*) {2017}
+- Portal for small traders: **e-lala** {2016}
+- **Project Arrow**: modernising **post offices** {2009, 2010}
+- Not economic infrastructure: **coal mines** {2004}
+- **Super Bazar**: retail-sale organisation {2003}
+
+@section 21.5 | Economic Thought
+- **Myrdal-Economic Theory and Underdeveloped Regions, Hirschman-Strategy of Economic Development, Kaldor-Strategic Factors, Adam Smith-Wealth of Nations** {2024}
+- "Wealth of Nations": **Adam Smith** {2012}
+- Wrong pair: **Karl Marx-Principles of Political Economy and Taxation** (that is **Ricardo**) {2023}
+- Not part of a country's wealth: **money supply** {2004}
+- Father of scientific management: **F.W. Taylor** {2017}
+- **Trusteeship** = **Gandhi**; Gandhian economy rests on it {2009, 2012, 2013}
+- Correct: trusteeship and UP Zamindari Act in the Ninth Schedule (1 and 2); voting age cut by the **61st** Amendment; Shetkari Sanghatana = **Sharad Joshi** {2013}
+- Not correct: **"age-quake"** means child population (it means **ageing**) {2013}
+- Not an achievement equated with women's empowerment: **strategic choices** {2013}
+- Most household waste per head: **USA** {2008}
+
+@table
+Book | Author
+The Wealth of Nations (1776) | Adam Smith
+Principles of Political Economy and Taxation | David Ricardo
+Das Kapital | Karl Marx
+General Theory (1936) | J.M. Keynes
+Asian Drama | Gunnar Myrdal
+The Strategy of Economic Development | Albert Hirschman
+Strategic Factors in Economic Development | Nicholas Kaldor
+@end
+
+@section 21.6 | Energy, Infrastructure and Industry
+- Infrastructure spending 2019-23: **UP 1st, Maharashtra 2nd, Tamil Nadu 3rd, Karnataka 4th** {2024}
+- Electricity generated order: changes yearly (*); without renewables now **UP, Maharashtra, Gujarat, Tamil Nadu** {2000}
+- Per capita electricity: a few hundred kWh then (*); about **1,460 kWh** now {1998}
+- Renewable share of capacity (Dec 2011): about **11%** {2012}
+- DISCOM interest relief: **UDAY** {2021}
+- Wrong pair: **primary energy-tidal power** (per key) {2021}
+- First PPP railway line: **Gujarat** {2015}
+- **Golden Triangle**: **Delhi, Agra, Jaipur** {2016}
+- Over a third (now over half) of world crude steel: **China** {2011, 2022}
+- **Kamaiya**: hereditary **bonded labour** in **Nepal** {2002}
+- Not correct: India **supplied manufactured goods** under British rule {2013}
+- Not true of the Arthashastra: it **describes the economic life** of the time (per key) {1994}
+- Non-domestic LPG cylinder: **19 kg** {2009}
+- PVR: **Priya Village Roadshow** {2011}
+
+@section 21.7 | Quality Marks and Miscellany
+- **AGMARK**: **quality**; a seal of quality guarantee {2002, 2004, 2013}
+- AGMARK Act: **1937** {2009}
+- AGMARK: quality of farm goods; **not** issued by FCI (only 1) {2023}
+- **ISO 14001**: certificate for an **environmental management** system {1999}
+- GI tag for black pottery in UP: **Nizamabad** (Azamgarh) {2021}
+- **Ecomark**: **environment-friendly** products (1991); **medicines** are not covered {2013, 2022}
+- Packaging matters for **all the above** reasons {2009}
+- Air India and Indian Airlines merged as **Air India** {2007}
+- **Universal Service Obligation Fund**: telecom liabilities (rural telecom) {2003}
+
+@table
+Mark | For
+AGMARK | Farm products (1937 Act; Directorate of Marketing)
+ISI | Industrial goods (BIS)
+Ecomark | Environment-friendly goods (1991)
+Hallmark | Gold and silver purity
+ISO 14001 | Environmental management
+@end
+
+@trap
+- *Principles of Political Economy and Taxation* = **Ricardo**, not Marx.
+- AGMARK is not issued by FCI; Ecomark does not cover medicines.
+- Voting age to 18 = **61st** Amendment; Shetkari Sanghatana = **Sharad Joshi**, not Medha Patkar.
+- Tarapore = convertibility; Goiporia = bank service; Rekhi = indirect taxes.
+@end
+
+@up UP link: **Nizamabad black pottery** (Azamgarh) has a GI tag; the **Indian Institute of Carpet Technology** is at **Bhadohi**; **V.V. Giri Labour Institute** and **NIESBUD** are in **Noida**; UP ranked **first** in infrastructure spending (2019-23) and leads in thermal power generation.
+
+@last
+- Year of Millets **2023**; NEP 2020 = **Kasturirangan**
+- Marginal man = **Park**; missing women = **Sen**
+- CCI **2003**; Khusro = Finance Commission
+- Morarji Desai = social control on banks; Kurien = milk
+- Deaton 2015; Charan Singh = Gandhian Blueprint; Jalan = Dependence to Self Reliance
+- Trusteeship = **Gandhi**; Taylor = scientific management
+- Ricardo = *Principles*; Hirschman = *Strategy*; Kaldor = *Strategic Factors*
+- V.V. Giri, NIESBUD = **Noida**; EDI = Ahmedabad
+- AGMARK **1937**; Ecomark **1991**; ISO 14001 = environment
+- Golden Triangle = Delhi, Agra, Jaipur; China = top steel
+@end

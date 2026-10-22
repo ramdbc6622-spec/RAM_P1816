@@ -1,0 +1,362 @@
+@chapter 11 | Soils
+
+@intro
+The **Indian Council of Agricultural Research (ICAR)** recognises eight major soil groups: **alluvial, black (regur), red and yellow, laterite, arid (desert), saline and alkaline, peaty and marshy, and forest and mountain** soils. **Alluvial** soils cover the largest area (about two-fifths of India) and are the most productive. Black soils come second in agricultural value, then red soils. UPPSC asks about soils through their parent rock, colour, crops and problems, especially **usar** (alkaline) land and ravine erosion, both important in Uttar Pradesh. This chapter covers the main soil groups, nutrients, saline and alkaline soils, and soil erosion. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 11.1 | Black (Regur) Soils
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015; U.P. Lower Sub. (Pre) 2015
+Which of the following soils of India has been formed due to weathering of basaltic lava?
+(a) Alluvial Soils
+(b) Laterite Soils
+(c) Red Soils
+(d) Regur Soils
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Black cotton soil is also known by which of the following?
+(a) Banger
+(b) Khadar
+(c) Bhur
+(d) Regur
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Assertion (A) : The Regur soils of the Deccan Trap are black in colour.
+Reason (R) : They are rich in Humus.
+Select the correct answer from the codes given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2014
+Which one of the soils of India is most suitable for cotton cultivation?
+@ans Regur soil
+@end
+
+@one U.P.P.C.S. (Pre) 2013; U.P.P.C.S. (Spl) (Mains) 2004
+Assertion (A) : Black soils are suitable for cotton cultivation. Reason (R) : They are rich in humus. Select the correct answer.
+@ans (A) is true but (R) is false.
+@end
+
+**Black soils** come from the weathering of **Deccan basalt**. Their colour comes mainly from **titaniferous magnetite** and iron compounds with clay, not from humus. They are rich in **lime, iron, magnesia and potash** but poor in **nitrogen, phosphorus and organic matter**. Their clay holds water for long, which suits **cotton** and is why they are called "black cotton soil".
+
+@pyq U.P.P.C.S. (Pre) 1998
+Lava soils are found in:
+(a) Chhattisgarh plains
+(b) Trans Saryu plains
+(c) Malwa plateau
+(d) Shillong Plateau
+@ans (c)
+@end
+
+@one U.P.P.S.C. (GIC) 2010
+The predominant soil of Malwa Plateau is
+@ans Black soil
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+Which soil needs little irrigation as it retains soil water?
+(a) Red
+(b) Black
+(c) Laterite
+(d) Alluvial
+@ans (b)
+@end
+
+Black soil swells and becomes sticky when wet and shrinks with deep **cracks** when dry. The cracks let air into the lower layers, so the soil is called **"self-ploughing"**.
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following statements is NOT correct?
+(a) Black soil is locally called 'regur'
+(b) According to Krebs, the regur soil is essentially a mature soil
+(c) Black soils are highly retentive to moisture
+(d) Black soil is found in the Himalayan region
+@ans (d)
+@end
+
+Black soils cover the **Deccan Trap**: Maharashtra (largest share), western Madhya Pradesh (Malwa), Gujarat (Saurashtra), and parts of Telangana, Karnataka and Andhra Pradesh. They are not found in the Himalaya.
+
+UP link: patches of black soil called **"mar"** and **"kabar"** occur in **Bundelkhand** (Jhansi, Lalitpur, Hamirpur, Banda), alongside the red **"parwa"** and **"rakar"** soils of the same region.
+
+@section 11.2 | Red, Laterite and Alluvial Soils
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Red soil denotes the second largest soil group of India.
+Reason (R): Red soil surrounds the black soil in the south, east and north directions.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Two statements are given below, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The red colour of red soil is due to the wide diffusion of iron rather than its high proportion.
+Reason (R): These soils generally lack nitrogen, phosphorus and humus.
+Code:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) (A) is true, but (R) is false.
+(c) (A) is false, but (R) is true.
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+@ans (d)
+@end
+
+**Red soils** form on old **granite and gneiss** in areas of low rainfall. They ring the black-soil region on the south, east and north (Tamil Nadu, Karnataka, Telangana, Odisha, Chhattisgarh, Jharkhand). Iron oxide coats the particles thinly but widely, giving the red colour; where the iron is hydrated, the soil is **yellow**. Lack of nitrogen and humus is true, but it has nothing to do with colour.
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following statements is correct about laterite soil?
+(1) This soil is developed in areas with high temperature and heavy rainfall.
+(2) It is poor in iron oxide and aluminium.
+Select the correct answer using the code given below:
+Code :
+(a) Neither 1 nor 2
+(b) Both 1 and 2
+(c) Only 1
+(d) Only 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which one of the following statements is not true for Laterite soils:
+(a) They are the soils of the humid tropical regions.
+(b) They are highly leached soils
+(c) Their fertility is low
+(d) They are rich in lime
+@ans (d)
+@end
+
+**Laterite** (Latin *later*, brick) forms where heavy rain alternates with a dry season and high heat. Rain washes out **silica, lime and bases** (leaching), and **iron and aluminium oxides** are left behind. The soil is poor in nitrogen, potash, lime and humus. It hardens on exposure and is cut into building bricks. With manure it supports **tea, coffee, cashew and rubber**.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Laterite soils is found in :
+(a) Uttar Pradesh
+(b) Himachal Pradesh
+(c) Punjab
+(d) Maharashtra
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2000
+Laterite soils are predominant in
+@ans Malabar Coastal Region
+@end
+
+Laterite caps the Western Ghats and coast of **Kerala** (largest extent), **Karnataka**, **Goa**, and Ratnagiri-Sindhudurg in **Maharashtra**, as well as the Eastern Ghats of Odisha, the Rajmahal hills and the Meghalaya plateau.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which one of the following is the most productive soil in India?
+(a) Red soil
+(b) Black soil
+(c) Alluvial soil
+(d) Calcareous soil
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Match List-I with List -II and select the correct answer using the code given below :
+@match
+List - I (Soil) | List - II (State)
+A. Alluvial | 1. Rajasthan
+B. Black | 2. Uttar Pradesh
+C. Red | 3. Maharashtra
+D. Desert | 4. Andhra Pradesh
+@endmatch
+Code : A B C D
+(a) 1 4 3 2
+(b) 2 3 4 1
+(c) 4 2 1 3
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@table
+Soil group | Parent material and climate | Rich in | Poor in | Typical crops
+Alluvial | River deposits (Bhangar old, Khadar new) | Potash, lime | Nitrogen, phosphorus | Wheat, rice, sugarcane
+Black (regur) | Deccan basalt, semi-arid | Lime, iron, magnesia, potash | Nitrogen, phosphorus, humus | Cotton, soybean, jowar
+Red and yellow | Granite, gneiss, low rainfall | Iron (thinly spread), potash | Nitrogen, phosphorus, humus | Millets, groundnut, pulses
+Laterite | Heavy rain and heat, leaching | Iron, aluminium oxides | Nitrogen, lime, potash, humus | Tea, coffee, cashew
+Arid (desert) | Wind-blown sand, dry | Soluble salts, phosphate | Nitrogen, humus | Bajra, guar (with irrigation)
+Saline and alkaline | Poor drainage, dry climate | Sodium salts | Calcium, nitrogen | Salt-tolerant rice, barley
+Peaty and marshy | Waterlogged, much organic matter | Organic matter | Phosphate, potash | Rice (Kerala, Sundarbans)
+Forest and mountain | Hill slopes, cool | Humus (upper layer) | Bases (acidic) | Tea, fruit, spices
+@end
+
+UP link: almost all of UP is **alluvial**. Local names: **bhangar** (old, higher alluvium with kankar), **khadar** (new floodplain alluvium), **bhur** (sandy soil of western UP river margins), and **matiyar** and **dumat** (clay and loam) in farmers' usage.
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which of the following soils is suitable for tea plantations?
+(a) Acidic
+(b) Alkaline
+(c) Alluvial (Kachhari)
+(d) Regur
+@ans (a)
+@end
+
+Tea needs **acidic** (pH 4.5 to 5.5), deep, well-drained soil rich in humus. That is why it grows on hill slopes of **Assam, Darjeeling and the Nilgiris** with heavy, well-spread rain.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The micronutrient maximum deficient in Indian soils, is :
+(a) Copper
+(b) Iron
+(c) Manganese
+(d) Zinc
+@ans (d)
+@end
+
+**Zinc** is the most widely deficient micronutrient in Indian soils (over a third of soil samples tested), followed by boron and sulphur. **Khaira disease** of rice is caused by zinc deficiency. The **Soil Health Card scheme** (2015) tests soil and advises nutrient doses.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Assertion (A) : The Himalayan soils are rich in humus.
+Reason (R) : The Himalayas have the largest area under forest cover.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which one of the following particles has less than 0.002 mm diameter?
+(a) Clay
+(b) Silt
+(c) Fine sand
+(d) None of the above
+@ans (a)
+@end
+
+@table
+Particle (USDA scale) | Diameter
+Clay | Below 0.002 mm
+Silt | 0.002 to 0.05 mm
+Sand | 0.05 to 2 mm
+Gravel | Above 2 mm
+@end
+
+@section 11.3 | Saline and Alkaline (Usar) Soils
+
+@pyq U.P. B.E.O. (Pre) 2019
+Following are the statements regarding the Usar soil:
+1. It is reclaimed by adding lime.
+2. This soil has pH more than seven.
+3. Paddy crop can be grown in this soil.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 and 2 are correct
+(b) 2 and 3 are correct
+(c) only 3 is correct
+(d) only 1 is correct
+@ans (b)
+@end
+
+**Usar** (also *reh* or *kallar*) is **alkaline (sodic)** land with pH often above 8.5 and a white salt crust. It is reclaimed with **gypsum** or **pyrite**, plus green manure of **dhaincha**. Lime is used for **acidic** soils, not alkaline ones. Salt-tolerant rice varieties (such as CSR 30, CSR 36) are the first crop after reclamation.
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India maximum alkali area is found in the State of—
+(a) Gujarat
+(b) Haryana
+(c) Punjab
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+UP link: **Uttar Pradesh** has India's largest **alkaline (sodic)** area, mostly in the central Ganga plain: Rae Bareli, Unnao, Lucknow, Kanpur, Sultanpur, Pratapgarh, Mainpuri, Etah and Aligarh. The **Central Soil Salinity Research Institute** has a regional station at **Lucknow**, and the UP Bhumi Sudhar Nigam has reclaimed lakhs of hectares since the 1990s.
+
+@one U.P.P.C.S. (Mains) 2012; U.P.P.C.S. (Mains), 2017
+In India, the largest area of Saline soil is found in the state of
+@ans Gujarat
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : Saline soils in India are not appropriate for cultivation of crops.
+Reason (R) : Saline soils have high proportion of salt, largely because of dry climate and poor drainage.
+Select the correct answer using the code given below :
+Code :
+(a) Both (A) and (R) are true but (R) is not correct explanation of (A).
+(b) (A) is false but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true but (R) is false.
+@ans (c)
+@end
+
+@trap
+Keep the two apart: **saline** soils (excess soluble salts, largest area in **Gujarat**, Rann of Kutch) and **alkaline/sodic** soils (excess sodium, high pH, largest area in **Uttar Pradesh**). Gypsum, not lime, reclaims usar.
+@end
+
+@section 11.4 | Soil Erosion and Conservation
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following types of erosion and arrange these in correct sequence in terms of the increasing order of soil loss from the field due to these types of erosion :
+I. Gully erosion
+II. Splash erosion
+III. Rill erosion
+IV. Sheet erosion
+Select the correct answer from the code given below :
+Code :
+(a) II, III, IV, I
+(b) IV, I, III, II
+(c) II, IV, III, I
+(d) III, II, I, IV
+@ans (c)
+@end
+
+Raindrops first dislodge particles (**splash**). Run-off then strips a thin uniform layer (**sheet**), cuts small channels (**rills**) and finally deep channels (**gullies**). Gullies that merge produce **ravines** (badlands).
+
+@pyq U.P.P.C.S. (Pre) 2004
+In which one of the following areas in India , the problem of soil erosion is critical?
+(a) Malwa Plateau
+(b) Foothill areas of Shivalik ranges
+(c) Dandkaranya
+(d) Meghalaya Plateau
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Which one of the following areas is most affected by soil erosion in India?
+(a) Malwa Plateau
+(b) Tarai area of Uttar Pradesh
+(c) Coastal area of Andhra
+(d) Chambal valley
+@ans (d)
+@end
+
+The **Shiwalik foothills** of Punjab and Himachal (where seasonal torrents called **choes** cut the slopes, as in Hoshiarpur) and the **Chambal ravines** are India's worst erosion zones. The Chambal, Yamuna and their tributaries have cut gullies up to 30 m deep across Madhya Pradesh, Rajasthan and Uttar Pradesh.
+
+UP link: UP's **ravine lands** lie along the Yamuna and Chambal in **Agra, Etawah, Auraiya, Jalaun and Hamirpur**. They are being reclaimed by afforestation, check dams and gully plugging.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Soil erosion can be prevented by –
+(a) Heavy rains
+(b) Deforestation
+(c) Afforestation
+(d) Overgrazing
+@ans (c)
+@end
+
+@table
+Conservation method | Where used
+Afforestation and shelter belts | Everywhere; shelter belts against wind in Rajasthan
+Contour ploughing and bunding | Gentle slopes of the plateau
+Terrace farming | Hill slopes (Himalaya, north-east)
+Strip cropping | Alternate strips of grass and crop on slopes
+Check dams and gully plugging | Ravines of the Chambal and Yamuna
+Mulching and cover crops | Bare fields between seasons
+@end
+
+@heatmap
+
+@pattern
+Soils are asked through a short list of facts: regur comes from basalt and suits cotton, laterite is leached and lacks lime, alluvial soil is the most productive, and tea needs acid soil. Recent papers (2023, 2024) favour **Assertion-Reason** on red, laterite and saline soils and a sequencing item on erosion. Uttar Pradesh brings two of its own topics: **usar** reclamation (gypsum, pH above 7, rice) and **ravine** erosion in the Chambal-Yamuna belt. Keep saline (Gujarat) and alkaline (UP) apart.
+@end

@@ -1,0 +1,126 @@
+@chapter 19 | Farming Practices, Horticulture and Livestock
+@meta Built from 67 UPPSC questions (1990–2024). Focus: crop-state matching, maize, seed classes, fruit varieties, livestock and milk.
+
+@hot
+- **Crop-state matching**: **jute-West Bengal, tea-Assam, rubber-Kerala, sugarcane-UP, groundnut-AP/Gujarat, mustard-Rajasthan, soybean-MP** {2008, 2008, 2010, 2011, 2014, 2016, 2017}
+- **Maize** is grown **all year round**; it is a **C4** plant; Shaktiman-I and II are maize {2006, 2007, 2014, 2015}
+- **West Bengal** = jute industry and largest jute area {2004, 2007}
+- **UP** = top in **milk**, foodgrains, potato (2013) {2008, 2014, 2014}
+- **Amrapali** = **Dasheri × Neelam** mango {2013, 2016}
+@end
+
+@section 19.1 | Shifting Cultivation
+- **Jhum** is practised mostly in **Nagaland** {2005}
+- Jhum is a problem in the hills of **Odisha and MP** (per the 1998 key) {1998}
+- Match: **Western Ghats-Kumari, SE Rajasthan-Waltre, North-east-Jhum, MP and Chhattisgarh-Dahiya** {2017}
+
+@section 19.2 | Seeds, Diseases and Weeds
+- Seed stages: **Nucleus, Breeder, Foundation, Certified** {2023}
+- **Certified** seed tag: **blue** {2016}
+- Match: **sugarcane-red rot, paddy-khaira, arhar-wilt, potato-late blight** {2014}
+- **Rice-green hair** is wrong {2015}
+- **Paddy-bathua** is wrong (bathua is a wheat weed) {2016}
+
+@flow Seed multiplication chain
+Nucleus seed | Original breeder; no tag
+Breeder seed | Research institute; golden-yellow tag
+Foundation seed | Seed corporations; white tag
+Certified seed | Sold to farmers; blue tag
+@end
+
+@section 19.3 | Fibre Crops
+- Jute industry: **West Bengal**; largest jute area: **West Bengal** {2004, 2007}
+- India was the largest jute producer (Bangladesh now leads); **Yellow Revolution** is about oilseeds, not jute (*) {2023}
+- Jute is **native to India** and a **kharif** crop (both true, R not the explanation) {2024}
+- Fibre crops: **cotton, jute, sunhemp** {2017}
+- Cotton is a **kharif** crop needing **50-75 cm** rain (both true) {2024}
+
+@section 19.4 | Maize, Saffron and Cropping
+- Grown **all year round**: **maize** {2007, 2015}
+- **C4 plant**: **maize** {2014}
+- Maize (then): **Karnataka, Bihar, Rajasthan, Andhra Pradesh** (descending) {2010}
+- **Shaktiman-I and II**: **maize** (quality protein) {2006}
+- **Saffron**: **Jammu and Kashmir** (Kashmir, Pampore) {1990, 2007}
+- Best crop cycle for **eastern UP**: **paddy-maize-wheat** {2008}
+- Subsistence crops: **coarse cereals and rice** {2007}
+- Cereal product: **oatmeal** {2002}
+- First fully **organic** state: **Sikkim** {2016}
+
+@section 19.5 | Leading States and Varieties
+- **Banana-Maharashtra** was the wrong pair then (Tamil Nadu led); now Maharashtra leads {2008, 2011}
+- Largest potato producer (2013): **UP**; "potato-MP" is wrong {2014, 2016}
+- Largest share of **foodgrains**: **UP** {2008}
+- **Gujarat** leads in **bajra** (with Rajasthan) {2008}
+- Match: **groundnut-AP, mustard-Rajasthan, soybean-MP, coconut-Kerala** {2008}
+- Match: **jute-WB, tea-Assam, rubber-Kerala, sugarcane-UP** {2010, 2014, 2017}
+- Season: **sunflower-all seasons, muskmelon-zaid, cotton-kharif, linseed-rabi** {2016}
+- **Paddy-Radhey** is wrong (Radhey is a gram variety) {2016}
+- **Wheat-Shusk Samrat** is wrong (it is a pea/lentil variety, not wheat) {2016}
+- Best potato for processing: **Kufri Chipsona-2** {2008}
+
+@section 19.6 | Horticulture
+- India is the largest producer of **mango and papaya** (2020-21) {2021}
+- India is **second** in vegetables; **China** is first {2006, 2015}
+- India gives about **15%** of world fruit {2013}
+- Top fruit in India by output: **banana**; top banana state: **Maharashtra** (per key) {2023, 2013}
+- National Research Centre for Banana: **Trichy** {2014}
+- Seedless mango: **Sindhu** {2007}
+- **Amrapali** = Dasheri × Neelam; regular-bearing variety: none of the options {2013, 2016, 2014}
+- **Lalit**: **guava**; **Kanchan**: **aonla** {2008, 2015}
+- "Ganga Varanasi" is not a listed variety (*) {2015}
+- **Sultana, Gulabi, Kali Champa**: **grapes** {2018}
+
+@table
+Variety | Crop
+Amrapali, Mallika, Sindhu | Mango
+Lalit, Allahabad Safeda | Guava
+Kanchan, Banarasi | Aonla
+Sultana, Gulabi | Grapes
+Kufri Chipsona | Potato
+Shaktiman | Maize
+Radhey | Gram
+@end
+
+@section 19.7 | Mixed Statements
+- Wrong: cotton fibre length 1-5 cm {2013}
+- Wrong: linseed grows all year {2013}
+- Wrong: Bihar is the largest lac producer (Jharkhand is) {2013}
+- Wrong: **Aman** rice is sown in March-April (it is June-July) {2013}
+- Rajma is the poor nitrogen fixer {2013}
+- More than one statement untrue (Kaushal is groundnut; MP leads in pulses) (*) {2013}
+- India is the largest producer of none of sugarcane, tobacco, coffee, oilseeds (*) {2010}
+
+@section 19.8 | Livestock, Milk and Fish
+- Stock farming = **breeding animals** {2005}
+- About one-third of cattle: **West Bengal, UP, MP** (2019 census) (*) {2006, 2009}
+- **UP** has the most **buffaloes**; WB the most cattle; Telangana the most sheep (*) {2008}
+- High-milk cow breed: **Sahiwal** {2004}
+- India is **first** in milk; top milk state (2011-12): **UP** {2008, 2014}
+- **White Revolution** = **milk** {2015}
+- West Bengal led in fish (mostly **inland**), now **Andhra Pradesh** leads (*) {2007, 2015}
+
+@table
+Livestock (2019 census) | Leading state
+Cattle | West Bengal
+Buffalo | Uttar Pradesh
+Sheep | Telangana
+Goat | Rajasthan
+Pig | Assam
+Poultry | Tamil Nadu
+Total livestock | Uttar Pradesh
+@end
+
+@up UP leads India in **milk, buffaloes, total livestock, foodgrains, potato, sugarcane and wheat**. Best eastern-UP cycle: **paddy-maize-wheat**. UP cattle breeds: **Ponwar**, **Gangatiri**; buffalo: **Bhadawari**. Guava **Allahabad Safeda** and **Lalit** come from UP.
+
+@last
+- Jhum = **Nagaland**; Kumari = Western Ghats; Dahiya = MP
+- Seeds: nucleus, breeder, foundation, **certified (blue tag)**
+- **Maize** = all year, C4, Shaktiman
+- Saffron = **Kashmir**; first organic state = **Sikkim**
+- Jute = **West Bengal**; native to India; kharif
+- **UP** = milk, buffalo, foodgrains, potato
+- **Sahiwal** = top milk cow; India first in milk
+- Banana = top fruit; NRC Banana = **Trichy**
+- **Amrapali** = Dasheri × Neelam; **Lalit** = guava; **Kanchan** = aonla
+- Fish: **Andhra Pradesh** now leads
+@end

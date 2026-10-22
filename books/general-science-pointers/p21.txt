@@ -1,0 +1,93 @@
+@chapter 21 | Cell, Heredity and Biofertilisers
+@meta Built from 30 UPPSC questions (1991–2024). Focus: cell organelles, Mendel and DNA, chromosome number, Azolla and blue-green algae, Rhizobium and other nitrogen fixers.
+
+@hot
+- **Azolla** (aquatic fern, with blue-green algae) = biofertiliser for **paddy** {2008, 2009, 2011, 2023, ?, ?}
+- **Blue-green algae** fix nitrogen, chiefly in **paddy** fields {2006, 2010, 2019, ?}
+- **Watson and Crick**: **double helix** of DNA; DNA sugar = **deoxyribose** {2012, 2016, 2018, ?}
+- Humans have **46** chromosomes {1991, 1992}
+- **Mitochondria** = power house; **cell wall** marks a plant cell {1991, 2013}
+@end
+
+@section 21.1 | The Cell
+- Plant cell differs from animal cell by its **cell wall** {1991}
+- Power house of the cell: **mitochondria** {2013}
+- Plasma membrane: **lipids and proteins** (both) {2008}
+- Not true: the nucleus has **no role** in reproduction (it does) {2024}
+
+@table
+Organelle | Job
+Nucleus | Controls the cell; holds DNA
+Mitochondria | Respiration; ATP (power house)
+Chloroplast | Photosynthesis (plants)
+Ribosome | Protein synthesis
+Lysosome | Digestion ("suicide bags")
+Golgi body | Packaging and secretion
+Cell wall | Plants only; cellulose
+@end
+
+@section 21.2 | Heredity and DNA
+- Mendel's laws: worked on the **garden pea** {2002}
+- **Genome mapping**: mapping **genes** {2002}
+- Change in a gene's base sequence: **mutation** {2020}
+- Unit of heredity: **gene** {2010}
+- Not a part of DNA among options: **tyrosine** (an amino acid) {1994}
+- DNA sugar: **deoxyribose** {2016}
+- Double helix: **Watson and Crick** (1953) {2012, 2018, ?}
+- Human chromosomes: **46** (23 pairs) {1991, 1992}
+- No sex chromosomes: **lizard** (per key) {2004}
+
+@flow From gene to protein
+DNA | Double helix; A-T, G-C base pairs; deoxyribose
+Transcription | DNA to mRNA (in the nucleus)
+Translation | mRNA to protein (on ribosomes)
+Mutation | Change in base sequence
+@end
+
+@section 21.3 | Biofertilisers
+- **Biofertilisers**: **cultures of micro-organisms** {2023}
+- Azolla and blue-green algae are biofertilisers; alfalfa is a crop (*) {2001, 2002}
+- Not a nitrogen fixer: **mycorrhiza** {2017}
+- Nitrogen-fixing bacteria live in roots of **pulses** {2019}
+- Wrong pair: **Azotobacter-bioinsecticide** (it fixes nitrogen) {2002, 2003}
+- Blue-green algae: biofertiliser for **paddy** {2006, 2010}
+- Biological nitrogen fixation: **blue-green algae** {2019}
+- Azolla works because of its partner **blue-green alga** (Anabaena) {2011}
+- Azolla is an **aquatic fern** {?, ?}
+- Biofertiliser microbes: **cyanobacteria** {?}
+- Water-logged rice fields: **Azolla** {2023}
+- Biofertiliser source: **Azolla** {2008, 2009}
+- Nitrogen-use efficiency improved by **all of the above** {2009}
+- Phosphate biofertiliser: **VAM** (vesicular arbuscular mycorrhiza) {2019}
+- Soybean nitrogen fixer: **Rhizobium japonicum** {2006}
+
+@table
+Biofertiliser | Use
+Rhizobium | Legume root nodules (pulses, soybean)
+Azotobacter | Free-living nitrogen fixer
+Blue-green algae (Anabaena, Nostoc) | Paddy fields
+Azolla + Anabaena | Paddy fields
+VAM / mycorrhiza | Phosphorus uptake
+@end
+
+@trap
+- Mycorrhiza helps with **phosphorus**, not nitrogen fixation.
+- Azotobacter is a nitrogen fixer, not a bioinsecticide.
+- DNA sugar = deoxyribose; RNA sugar = ribose.
+- Cell wall is in **plants**; centrioles are in **animals**.
+@end
+
+@up UP link: UP's paddy belt in the east (Gorakhpur, Basti, Deoria) is promoted for **Azolla** and blue-green algae; the **Indian Institute of Pulses Research** at **Kanpur** works on Rhizobium-rich pulse crops.
+
+@last
+- Cell wall = plant cell; mitochondria = power house
+- Mendel = garden pea; gene = unit of heredity
+- Watson-Crick = double helix (1953); DNA sugar = deoxyribose
+- Humans = **46** chromosomes
+- Mutation = change in base sequence
+- Biofertilisers = microbe cultures
+- Azolla = aquatic fern + Anabaena; paddy
+- Blue-green algae = paddy nitrogen
+- Rhizobium japonicum = soybean
+- VAM = phosphate; mycorrhiza does not fix N
+@end

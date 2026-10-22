@@ -1,0 +1,112 @@
+@chapter 5 | Industry I: Policy, MSMEs, Start-ups and Reforms
+@meta Built from 58 UPPSC questions (1990–2025). Focus: industrial policies, LPG 1991, disinvestment, MSME definitions, committees, Make in India, start-ups, infrastructure plans.
+
+@hot
+- First industrial policy **1948**; joint sector **1956**; licensing from **IDR Act 1951**; liberal policy **1991** {2004, 2007, 2008, 2008}
+- **Micro enterprise**: investment up to **Rs. 1 crore**, turnover up to **Rs. 5 crore** (2020 rule) {2011, 2016, 2021}
+- **Golden handshake** = **Voluntary Retirement Scheme** {1992, 2002, 2007}
+- **National Renewal Fund** = **social security** for displaced workers {2004, 2008, 2010}
+@end
+
+@section 5.1 | Industrial Policy
+- First policy of free India: **1948** {2008}
+- Joint sector: **IPR 1956** {2004}
+- Licensing based on the **Industries Act 1951** {2007}
+- Liberal policy: **1991** {2008}
+- Order: **Minimum Wages (1948), IDR (1951), MRTP (1969), FERA (1973)** {2017}
+- UP minimum wage for unskilled (April 2017): **Rs. 7,400** a month {2017}
+- ISO certifications and licence liberalisation (both true, R not the explanation) {1997}
+- 1991 licensing kept for **18** industries {2004}
+- LPG announced by PM **Narasimha Rao** {2013}
+- Disinvestment part of liberalisation; proceeds used per policy (both true, R not the explanation) {2002, 2004}
+- Disinvestment (true); PSUs created too few jobs (false as the reason) {2000}
+- Disinvestment began **1991-92** {2008}
+- National Renewal Fund: **social security** {2004, 2008, 2010}
+- Golden handshake: **VRS** {1992, 2002, 2007}
+
+@flow Industrial policies
+1948 | First IPR; mixed economy
+1951 | IDR Act; licensing
+1956 | IPR "economic constitution"; joint sector
+1969 / 1973 | MRTP Act / FERA
+24 July 1991 | New Industrial Policy (LPG)
+@end
+
+@section 5.2 | MSMEs
+- New MSME definition: announced in Atmanirbhar package; same formula for manufacturing and services (1 and 3) {2016}
+- Investment to Rs. 1 crore, turnover to Rs. 5 crore: **micro** {2011, 2016, 2021}
+- Most registered factories (2011): **Tamil Nadu** {2011}
+- Small and cottage units mainly **generate jobs** {2004}
+- UP's largest employer industry: **handloom** {2008}
+- SSI problems: **all** listed; not one: **strikes and lockouts** {1991, 2008}
+- Committee order: Karve, Nayak, Abid Hussain, Kohli (no code, *) {2019}
+- End SSI reservation: **Abid Hussain Committee** {2006}
+- Fast co-op growth: **cotton textile** {2007}
+- First industry in India: **cottage industry** {2008}
+- **Udyami** helpline: **MSMEs** {2015}
+- Wrong: **Tarapore-customer services** (Tarapore = convertibility) {2010}
+- **Meera Seth**: **handlooms** {1997}
+- **Sathyam**: **textile policy** {2000}
+- Unorganised sector commission: **Arjun Sengupta** {2005}
+
+@table
+MSME (2020 rule) | Investment | Turnover
+Micro | Rs. 1 crore | Rs. 5 crore
+Small | Rs. 10 crore | Rs. 50 crore
+Medium | Rs. 50 crore | Rs. 250 crore
+@end
+
+@section 5.3 | Make in India and Start-ups
+- **Make in India** logo: **lion** {2014}
+- Launched 2014; promotes manufacturing (both) {2022}
+- Start-up needs met by **all** listed {2017}
+- New-age financing for start-ups: **Pranab Mukherjee** {2016}
+- **Stand-Up India**: **women, SC and ST** {2021}
+- **PM Mudra**: **Ministry of Finance** {2025}
+- **e-Biz**: **single window** for government services {2016}
+
+@section 5.4 | Infrastructure and CSR
+- Biggest company (Fortune India 2019): **Reliance Industries** {2016, 2019}
+- CSR: Act is **2013** and spend is **2%** (neither statement right) {2019}
+- Railways: 100% electrification and net-zero by 2030 (both) {2021}
+- First rubber-tyre metro: **Nashik** {2021}
+- PPP revitalisation committee: **Vijay Kelkar** {2017}
+- NIP is 2019-25, not 2020-30 (A false); equitable access aim (R true) {2020}
+- Gati Shakti has **7 engines** (true); launched 2021, not 2022 (only 2) {2023}
+- India 2nd largest mobile gaming market (false); 950 million+ internet users (true) {2025}
+- Largest e-commerce firm (key): **M-junction** {2015}
+
+@section 5.5 | Statistics and Relations
+- Industry's GDP share 2006-07: **25-30%** {2006}
+- Not in IIP: **construction** {2016}
+- IIP base changed (2011) to **2004-05** (now 2011-12) {2010}
+- Apex industrial finance (then): **IDBI** {2017}
+- **BIFR**: sick units {2002}
+- **Mega Food Parks**: food-processing infrastructure {2009}
+- Social objective: **employment** {2016}
+- **Sole trader-unlimited liability, partnership-contract, co-operative-weaker sections, public company-many risk bearers** {2008}
+- **Kandla**: **export processing zone** {2013, 2015}
+- Labour-intensive: **employs more hands** {2006}
+- Not a party to industrial relations: **consumers** {2014}
+- Workers in management: **policy decisions** {1990}
+
+@trap
+- **1956** = joint sector; **1948** = first policy.
+- **Abid Hussain** ended SSI reservation; **Tarapore** = convertibility.
+- CSR = **2%** under the **2013** Act.
+@end
+
+@up UP links: **handloom** is UP's largest employer industry; UP's minimum wage for unskilled labour was **Rs. 7,400** (2017); **ODOP** (One District One Product, 2018) and the **Defence Corridor** are UP's MSME pillars.
+
+@last
+- IPR **1948**; IDR Act **1951**; IPR **1956** (joint sector)
+- New policy **1991**; licensing for 18 industries
+- Disinvestment from **1991-92**; VRS = golden handshake
+- NRF = social security
+- Micro: Rs. 1 cr / Rs. 5 cr
+- Abid Hussain = end SSI reservation
+- Make in India: lion, 2014; Stand-Up = women, SC, ST
+- Mudra under Finance Ministry
+- CSR 2% (2013 Act); IIP excludes construction
+- Gati Shakti 2021, 7 engines; NIP 2019-25
+@end

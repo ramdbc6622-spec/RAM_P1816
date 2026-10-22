@@ -1,0 +1,66 @@
+@chapter 14 | Cyclones, Tornadoes and Local Winds
+@meta Built from 18 UPPSC questions (1992–2021). Focus: names of tropical cyclones by region, tornado and hurricane scales, local winds and their countries.
+
+@hot
+- Cyclone names: **Willy-willy-Australia, Hurricane-USA, Typhoon-China, Baguio-Philippines, Cyclone-India** {2001, 2005, 2014, 2019, 2020}
+- Local wind wrong pairs: **Mistral-Australia, Shamal-Austria, Bora-Poland, Blizzard-Chile, Sirocco-France** {2005, 2013, 2016, 2019, 2021}
+- Tornadoes: **USA**, "Tornado Alley" in the **Mississippi plains**; **Fujita scale** {2005, 2009, 2009}
+@end
+
+@section 14.1 | Cyclones and Tornadoes
+- **Australia-Willy-willy, China-Typhoon, India-Cyclone, USA-Hurricane** {2005}
+- **Willy-willy-Australia, Hurricane-USA, Typhoon-China, Baguio-Philippines** {2014, 2019, 2020}
+- Willy-willy: cyclone of **NW Australia** {2001}
+- Tornado origin (key): **Caribbean Sea** {1996}
+- Tornadoes associated with the **USA** {2009}
+- **Tornado Alley**: **Mississippi plains** {2005}
+- Tornado intensity: **Fujita scale** {2009}
+- Hurricane damage: **Saffir-Simpson scale** {2016}
+- Did not hit India: **Nargis** (Myanmar, 2008) {2013}
+- Global warming raises frequency and severity of all listed extremes {2018}
+
+@table
+Region | Name
+Atlantic, Caribbean (USA) | Hurricane
+NW Pacific (China, Japan) | Typhoon
+Philippines | Baguio
+NW Australia | Willy-willy
+Indian Ocean | Cyclone
+@end
+
+@section 14.2 | Local Winds
+- Winds to the Mediterranean: westerlies (winter) or trades (summer) (*) {1992}
+- **Foehn**: **Switzerland** (Alps) {2010}
+- Wrong: **Bora-Poland** (Adriatic) {2016}
+- Wrong: **Blizzard-Chile** (Canada, USA) {2005}
+- "Blood rain" (Sirocco): **Italy** {1998}
+- Wrong: **Sirocco-France** only (Bora-Italy, Blizzard-Canada right) {2013}
+- Wrong: **Mistral-Australia** (France) {2019}
+- Wrong: **Shamal-Austria** (Iraq, Gulf) {2021}
+
+@flow Warm vs cold local winds
+Warm, descending | Foehn (Alps), Chinook (Rockies), Santa Ana (California)
+Hot, desert | Sirocco (Sahara to Italy), Khamsin (Egypt), Harmattan (W. Africa), Shamal (Iraq), Loo (N. India)
+Cold | Mistral (Rhone, France), Bora (Adriatic), Blizzard (Canada), Purga (Siberia)
+@end
+
+@trap
+- **Mistral** = Rhone valley, France; **Bora** = Adriatic.
+- **Sirocco** blows from the Sahara **to Italy**; red dust = "blood rain".
+- **Fujita** = tornadoes; **Saffir-Simpson** = hurricanes; **Richter** = earthquakes.
+@end
+
+@up UP's own local wind is the **Loo**, the hot dry westerly of May-June; pre-monsoon **dust storms** and **Norwesters** strike eastern India.
+
+@last
+- Willy-willy = Australia; Baguio = Philippines
+- Typhoon = China/Japan; Hurricane = USA
+- Tornado Alley = Mississippi plains
+- Fujita = tornado; Saffir-Simpson = hurricane
+- Nargis hit **Myanmar**
+- Foehn = Switzerland; Chinook = Rockies
+- Sirocco = blood rain, Italy
+- Mistral = France; Bora = Adriatic
+- Shamal = Iraq/Gulf; Blizzard = Canada
+- Loo = north India
+@end

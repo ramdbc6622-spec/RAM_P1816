@@ -1,0 +1,80 @@
+@chapter 6 | Revolt of 1857
+@meta Built from 35 UPPSC questions (1990–2024). Focus: causes, Barrackpore and Meerut, leaders at each centre, the British side, why it failed, its nature, the Queen's Proclamation.
+
+@hot
+- **Centre-leader matching**: **Delhi-Bakht Khan/Bahadur Shah, Kanpur-Nana Saheb (Tatya Tope, Azimullah), Lucknow-Begum Hazrat Mahal, Jhansi-Lakshmibai, Faizabad-Maulvi Ahmadullah, Bareilly-Khan Bahadur, Allahabad-Liyaqat Ali, Assam-Maniram Dutta** {1998, 2007, 2010, 2015, 2015, 2016, 2016, 2023}
+- Revolt began at **Meerut** (10 May 1857); **Mangal Pandey** at **Barrackpore** (29 March) {1990, 1994, 2008, 2010, 2023}
+- **Canning** was Governor-General; made **Allahabad** his emergency HQ; **Palmerston** was British PM {1990, 1991, 2005, 2012, 2013}
+- **Savarkar** called it the first war of independence; **R.C. Majumdar** said it was neither first, nor national, nor a war of independence {2010, 2015}
+@end
+
+@section 6.1 | Outbreak
+- Main cause: **British imperial policy** {1990}
+- **Mangal Pandey**: **Barrackpore** {2010}
+- Mangal Pandey's regiment (34th BNI) not in the options (*) {2014}
+- British officer at Barrackpore: **Hearsey** {2014}
+- Began at **Meerut** {1990, 1994}
+- First event: sepoys **marching to Delhi's Red Fort** {2008}
+- Wrong pair: **Jhansi-11 May 1857** {2023}
+
+@flow Spread of the revolt
+29 Mar 1857 | Barrackpore: Mangal Pandey
+10 May | Meerut rises; march to Delhi
+11 May | Delhi taken; Bahadur Shah proclaimed
+June | Kanpur, Lucknow, Jhansi, Bareilly, Allahabad
+Sept 1857 | Delhi recaptured
+June 1858 | Lakshmibai dies at Gwalior
+@end
+
+@section 6.2 | Leaders and Centres
+- "Sahib-i-Alam Bahadur": **Bakht Khan** {2016}
+- Recaptured by the English (key): **Delhi** {2015}
+- Nana Saheb's commander-in-chief: **Tatya Tope** (real name **Ramchandra Pandurang**) {2008, 2010, 2011}
+- Lucknow's leader: **Begum Hazrat Mahal** {2015}
+- Most rebel soldiers came from **Awadh** {2015}
+- Kunwar Singh of **Jagdishpur** led Bihar; Dalhousie did **not** recognise Lakshmibai's adopted son (only 1) {2024}
+- Lakshmibai born at **Varanasi** {2008}
+- Bareilly: **Khan Bahadur** {1998, 2023}
+- Allahabad: **Maulvi Liyaqat Ali** {2015}
+- Assam: **Maniram Dutta** {2007}
+- Not linked to 1857: **Udham Singh** {1996}
+- **Jhansi-Lakshmibai, Lucknow-Hazrat Mahal, Kanpur-Azimullah, Faizabad-Ahmadullah Shah** {2010}
+- **Nana Saheb-Kanpur, Hamid Ali Khan-Delhi, Ahmadullah-Lucknow, Maniram-Assam** {2016}
+
+@section 6.3 | British Side, Failure and Nature
+- Governor-General: **Canning** {1990, 2012, 2013}
+- Emergency HQ at **Allahabad**: **Canning** {2005}
+- British PM: **Palmerston** {1991}
+- Not linked with the revolt: **all of the above** {2017}
+- Died at Lucknow: **Neill, Havelock, Henry Lawrence** (2, 3, 4) {2008}
+- Failed for **all the above** reasons {1998}
+- Educated middle class: **stayed neutral** {1998}
+- **Mirza Ghalib**: originally of **Agra** {2002}
+- "First war of independence": **Savarkar** {2015}
+- Official historian of the freedom struggle: **S.N. Sen** (1857 volume) {2010}
+- First Indian-language work on its causes: **Syed Ahmad Khan** {2009}
+- "Neither first, nor national...": **R.C. Majumdar** {2010}
+- It ended **Company rule** {2010}
+- Proclamation promise kept: **end of annexation** {1994}
+
+@trap
+- **Barrackpore** came first, but the revolt is said to start at **Meerut**.
+- Lakshmibai died at **Gwalior**, not Jhansi; born at **Varanasi**.
+- Udham Singh (1940) has nothing to do with 1857; Kunwar Singh does.
+- Awadh was annexed for misrule; its sepoys formed the Bengal Army.
+@end
+
+@up UP link: UP was the heart of 1857: **Meerut** (start), **Kanpur** (Nana Saheb, Tatya Tope, Azimullah), **Lucknow** (Begum Hazrat Mahal, Residency siege), **Jhansi** (Lakshmibai), **Bareilly** (Khan Bahadur), **Allahabad** (Liyaqat Ali), **Faizabad** (Ahmadullah Shah); Canning ran the war from **Allahabad**.
+
+@last
+- Mangal Pandey = Barrackpore, 29 March 1857
+- Meerut, 10 May = start
+- Bakht Khan = Delhi commander
+- Nana Saheb = Kanpur; Tatya Tope = Ramchandra Pandurang
+- Begum Hazrat Mahal = Lucknow; Ahmadullah = Faizabad
+- Lakshmibai = Jhansi (born Varanasi, died Gwalior)
+- Khan Bahadur = Bareilly; Liyaqat Ali = Allahabad; Maniram = Assam
+- Canning (Allahabad HQ); Palmerston PM
+- Savarkar = first war of independence; Majumdar disagreed
+- Ended Company rule; Queen's Proclamation 1858
+@end

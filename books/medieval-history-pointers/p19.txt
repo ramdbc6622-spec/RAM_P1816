@@ -1,0 +1,72 @@
+@chapter 19 | Mughal Administration
+@unit UNIT V · MUGHAL STATE AND CULTURE
+@meta Built from 20 UPPSC questions (1992–2021). Focus: the central officers, subah-sarkar-pargana, mansabdari, land revenue terms, coins, Europeans in Mughal service and canals.
+
+@hot
+- **Mansabdari**: started by **Akbar**; **zat and sawar** ranks; **not hereditary**; sawar could **not** exceed zat {2009, 2010, 2010, 2019}
+- **Mir Bakhshi** = head of the **army** (pay and recruitment) {1992, 2004}
+- **Land revenue** = main income; **mal** = land revenue {1995, 2009}
+- **Coins**: Babur's silver **shahrukhi**; copper **dam**; Akbar's **Ram-Siya** coins {2008, 2011, 2017}
+@end
+
+@section 19.1 | Officers and Units
+- The Mughal state was first a **military state** (A and R true, R explains A) {2021}
+- Army head: **Mir Bakhshi**; also oversaw officials {1992, 2004}
+- Wazirs: **Akbar-Muzaffar Khan, Jahangir-Itimad-ud-Daula, Shah Jahan-Sadullah Khan, Aurangzeb-Asad Khan** {2021}
+- **Diwan-i-Tan**: jagirs and salaries (with other officers' duties) {2020}
+- District: **sarkar** {2009}
+- **Chakla**: unit **between subah and pargana**, not the same as a sarkar {2018}
+
+@flow Mughal administrative units
+Subah | Province (subahdar, diwan)
+Sarkar | District (faujdar, amalguzar)
+Pargana | Group of villages (shiqdar, amil, qanungo)
+Gram | Village (muqaddam, patwari)
+@end
+
+@section 19.2 | Mansabdari and Revenue
+- Mansabdars were the official nobility started by **Akbar**; **not hereditary** (only 1) {2019}
+- Not true: **sawar rank could exceed zat** {2009}
+- Zat and mansab granted; **three classes** (1 and 3) {2010, 2010}
+- Main income: **land revenue** {1995}
+- **Mal**: **land revenue** {2009}
+- Akbar's Deccan revenue: by the **number of ploughs** {2017}
+
+@table
+Land class | Fallow period
+Polaj | Cultivated every year
+Parauti | Fallow 1-2 years
+Chachar | Fallow 3-4 years
+Banjar | Fallow 5 years or more
+@end
+
+@section 19.3 | Coins, Europeans and Canals
+- Silver **shahrukhi**: **Babur** {2017}
+- Akbar regulated currency like Sher Shah; dam continued (A and R true, R explains A, per source) {2019}
+- Copper coin: **dam** {2008}
+- **Ram-Siya** coins: **Akbar** {2011}
+- Physician in Mughal service: **Manucci** {2008}
+- Banned tobacco: **Jahangir** {2005}
+- Canal restoring Firuz's Rajabwah: **Shahab Nahar** {2020}
+
+@trap
+- District = **sarkar**, not subah.
+- Mansabs were **not** hereditary; sawar never exceeded zat.
+- Mir Bakhshi = military paymaster; Diwan-i-Tan = jagirs and salaries.
+- Rupiya:dam = 1:40 under Akbar (1:64 under Sher Shah).
+@end
+
+@up UP link: the **subahs** of **Agra, Allahabad (Ilahabad)** and **Awadh** covered most of present UP; Akbar created the Allahabad subah and built its fort at the Sangam.
+
+@last
+- Mughal state = military state at first
+- Mir Bakhshi = army head
+- Subah, sarkar, pargana, village
+- Chakla = between subah and pargana
+- Mansabdari: Akbar; zat and sawar; not hereditary
+- Land revenue = main income; mal = revenue
+- Polaj, parauti, chachar, banjar
+- Shahrukhi = Babur; dam = copper; Ram-Siya = Akbar
+- Manucci = physician; Jahangir banned tobacco
+- Shahab Nahar restored Firuz's canal
+@end

@@ -1,0 +1,100 @@
+@chapter 26 | The State Legislature
+@meta Built from 32 UPPSC questions (2003–2023). Focus: Legislative Councils (Art 169, 171), Assembly size (Art 170), Speaker, Money and ordinary Bills, Contingency Fund, Chief Minister.
+
+@hot
+- Council created or abolished by **Parliament** after the **Assembly's resolution** (Art 169) {2008, 2007, 2018, ?}
+- **Madhya Pradesh** and **Rajasthan** have **no** Legislative Council {2006, 2008, 2008, 2013}
+- Assembly strength **60 to 500** (Art 170); **Sikkim** an exception; **UP** largest {2006, 2014, 2015, 2017}
+- Council detains ordinary Bills: **3 months** first time, **4 months** in all {2005, 2017}
+- State CoM: minimum **12** {2020}
+@end
+
+@section 26.1 | Creating a Council (Art 169)
+- Created or abolished by **Parliament on the Assembly's resolution** {2008}
+- Article: **169** {?}
+- Abolished but not dissolved: **State Legislative Councils** {2007, 2018}
+
+@section 26.2 | Bicameral States
+- No Council: **Rajasthan** {2013}
+- Not bicameral: **MP** {2006, 2008, 2008}
+- 1956 bicameral States: 7 (per source; none of options) (*) {2004}
+- Bicameral now (6): **UP, Bihar, Maharashtra, Karnataka, AP, Telangana**
+
+@section 26.3 | Council Composition (Art 171)
+- Not more than **one-third** of Assembly; at least **40** (both) {2023}
+- Nominated share: "none of the above" per key (about 1/6 by Art 171) {2017}
+
+@flow Legislative Council (Art 171)
+One-third | Elected by MLAs
+One-third | Local bodies
+One-twelfth | Graduates (3 years)
+One-twelfth | Teachers
+About one-sixth | Nominated by Governor
+@end
+
+@section 26.4 | Assembly (Art 170)
+- Minimum and maximum: **60 and 500**; maximum **500** {2017, 2014}
+- Exception to 60: **Sikkim** (32) {2015}
+- Largest Assembly: **UP** (403) {2006}
+- **Manipur-62** is wrong (it has **60**) {2022}
+
+@section 26.5 | Elections, Speaker, Quorum
+- Assembly elections conducted by the **Election Commission of India** {2008}
+- Final authority on MLA disqualification (Art 192): **Governor** (on EC opinion) {2016}
+- Speaker stays until **just before the new Assembly's first sitting** {2004}
+- Quorum: **10 members or one-tenth**, whichever is more {2021}
+
+@section 26.6 | Money and Ordinary Bills
+- State Money Bill only on the **Governor's** recommendation {2012}
+- Council may hold an Assembly Bill **3 months** first time {2017}
+- Total detention of ordinary Bills: **4 months** (3 + 1) {2005}
+
+@section 26.7 | State Contingency Fund
+- Established by the **State Legislature** {2014}
+- Operated by: none listed (at the Governor's disposal) (*) {2004}
+
+@section 26.8 | State Executive and CM
+- Art 162 heading: **extent of executive power of State** {2019}
+- Not correct: Governor acts on CM's advice in **all** functions {2010}
+- Not correct: CM is "normally selected" by the Governor {2010}
+- CM's duties: **Art 167** {2013}
+- First woman CM: **Sucheta Kripalani** (UP, 1963) {2004}
+
+@section 26.9 | State Ministers
+- Minimum CoM: **12** {2020}
+- Ministers' pay fixed by the **State Legislature** {2008}
+- J&K CM tenure: no fixed term (*) {2008}
+
+@section 26.10 | Reservation and Civil Code
+- Muslim quota proposed: **Andhra Pradesh** {2003}
+- Only common civil code (2009): **Goa**; Uttarakhand UCC since 2025 {2009}
+
+@table
+Item | Assembly | Council
+Size | 60-500 | Max 1/3 of Assembly, min 40
+Term | 5 years, dissolvable | Permanent; 1/3 retire every 2 years
+Age | 25 | 30
+Money Bill | Starts here | 14 days only
+Ordinary Bill | Final say | Can delay 4 months
+@end
+
+@trap
+- **MP** never got its Council; **J&K** Council ended in 2019.
+- Council: **3 months** first time, **4 months** total; Money Bill **14 days**.
+- MLA disqualification (non-defection) = **Governor** on EC's opinion; defection = **Speaker**.
+@end
+
+@up UP is **bicameral**: Vidhan Sabha **403**, Vidhan Parishad **100** (10 nominated). **Sucheta Kripalani** became India's first woman CM in UP (1963). UP has the largest Assembly in India.
+
+@last
+- Council by **Parliament** after Assembly resolution (169)
+- No Council: **MP, Rajasthan**; six bicameral States
+- Council max **1/3** of Assembly, min **40**
+- Assembly **60-500**; **Sikkim 32**; UP **403**
+- ECI runs Assembly polls
+- Speaker until first sitting of the new House
+- Quorum: 10 or 1/10
+- Council delays **3 + 1 months**
+- CoM minimum **12**; Art **167** CM's duties
+- First woman CM **Sucheta Kripalani**
+@end

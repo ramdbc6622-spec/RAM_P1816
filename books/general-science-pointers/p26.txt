@@ -1,0 +1,121 @@
+@chapter 26 | Viral, Bacterial and Parasitic Diseases
+@unit UNIT V · HEALTH, DISEASES AND BIOTECHNOLOGY
+@meta Built from 70 UPPSC questions (1990–2024). Focus: viral diseases (dengue, polio, AIDS, hepatitis, Nipah, Ebola), bacterial diseases (TB, tetanus, cholera), vaccines, malaria and other parasites.
+
+@hot
+- **Polio** vaccine: **Jonas Salk**; polio virus spreads through **polluted food and water** {1991, 1993, 1995, ?, ?, ?}
+- **AIDS**: a virus (**retrovirus**, RNA + protein); tested by **ELISA**; India's strain **HIV-1C** {2004, 2004, 2007, 2008, 2010, ?, ?}
+- **DPT** = **diphtheria, pertussis (whooping cough), tetanus**; not polio {1994, 2004, 2013, ?}
+- **Tuberculosis** is **bacterial**: **BCG** vaccine, **Mantoux** test {1990, 2010, 2015, 2016, 2017, ?, ?}
+- **Malaria** = **protozoan** (Plasmodium; **P. vivax** commonest in India) {1998, 2008, 2008, 2012, 2023}
+@end
+
+@section 26.1 | Basic Terms and COVID-19
+- Worldwide outbreak: **pandemic** {2015}
+- Disease-causing microbe: **pathogen** {?}
+- COVID-19 pause caused by **SARS-CoV-2** {2024}
+- mRNA vaccine: **Moderna** {2023}
+- **Sinovac**: **whole (inactivated) virus** vaccine {2022}
+
+@section 26.2 | Mosquito-borne Viral Diseases
+- Dengue lowers **platelets** {2012}
+- Dengue mosquito: **Aedes** {2022}
+- Not spread by tiger mosquitoes (Aedes): **Japanese encephalitis** (spread by **Culex**) {2013}
+- Japanese encephalitis: a **virus** {?}
+
+@table
+Mosquito | Disease
+Aedes (tiger mosquito) | Dengue, chikungunya, Zika, yellow fever
+Anopheles (female) | Malaria
+Culex | Filaria, Japanese encephalitis
+@end
+
+@section 26.3 | Other Viral Diseases
+- **Hydrophobia** (rabies): **virus** {2008}
+- Swelling of brain and spinal membranes: **meningitis** {2008}
+- Infant diarrhoea deaths: **rotavirus** {2010}
+- Polio virus enters through **polluted food and water** {1993, ?}
+- Polio vaccine: **Jonas Salk** (injected); Sabin = oral {1991, 1995, ?, ?}
+- Not viral: **tuberculosis** {2017}
+- Common cold: **rhinovirus** {1996}
+- **Hepatitis B**: a **DNA virus**; hits the **liver** {2011, ?}
+- AIDS: caused by a **virus** (Acquired Immunodeficiency Syndrome) {2010, ?}
+- HIV: **RNA + protein**; a **retrovirus** {2008, ?}
+- Dominant strain in India: **HIV-1C** {2004}
+- HTLV-III (HIV) discovered by **Robert Gallo** {1999}
+- **ELISA** test: **AIDS** {2004, 2007}
+- **Nipah** outbreak (2018): **Kerala** {2018}
+- Smallpox is viral; isolation helps (A and R true, R explains A) {1990}
+- Infectious cattle diseases: **FMD, anthrax, black quarter, cowpox** (all four) {2003}
+- 2011 marked by the eradication of **rinderpest** {2012}
+- Bird flu virus: **H5N1** {2004}
+- **Ebola**: a deadly virus named after a **river** (Congo) {2013, 2014}
+
+@section 26.4 | Bacterial Diseases
+- Femur is the longest bone; cholera is bacterial (1 and 2); athlete's foot is **fungal** {2008}
+- **Botulism** (food poisoning): **Clostridium** {2013, ?}
+- **Haemophilus influenzae** (Hib): a **meningitis** in young children {2022}
+- Bacterial disease: **tuberculosis** {2010, ?}
+- Wrong pair: **genetic disease-tuberculosis** {2016}
+- TB test: **Mantoux** test {2015}
+- **Tetanus** = **lockjaw** {2008}
+- Not from mosquitoes: **plague** (rat flea) {1997}
+- Correct pair: **pneumonia-lungs** {1996}
+- TB : lungs :: typhoid : **intestine** {2023}
+- **Air-TB, water-cholera, contact-syphilis, wound-tetanus** {1999}
+- Waterborne: **cholera** {2015}
+- **BCG** vaccine: **TB**; give right **after birth** {1990, ?}
+- Leprosy: **bacteria** {2010}
+- Not viral: **typhoid** {2008}
+
+@table
+Disease | Germ | Organ / note
+Tuberculosis | Mycobacterium tuberculosis | Lungs; BCG, Mantoux
+Typhoid | Salmonella typhi | Intestine; Widal test
+Cholera | Vibrio cholerae | Intestine; waterborne
+Tetanus | Clostridium tetani | Lockjaw; wounds
+Diphtheria | Corynebacterium | Throat; toxoid vaccine
+Leprosy | Mycobacterium leprae | Skin, nerves
+Plague | Yersinia pestis | Rat flea
+@end
+
+@section 26.5 | Vaccines and Antibiotics
+- **DPT**: **diphtheria, whooping cough, tetanus** {1994, 2004, 2013}
+- DPT does not protect against **polio** {?}
+- Diphtheria vaccine: a **toxoid** {2023}
+- **Sulpha drugs**: **antibacterial**; e.g. **Cibazole** {2017, 2022}
+- Antibiotics are mostly from **bacteria** (actinomycetes) and fungi (per key) {2021}
+
+@section 26.6 | Protozoan, Worm and Fungal Diseases
+- Not common to malaria and dengue: **mosquito species** {1998}
+- Protozoan disease: **malaria** {2008}
+- About 65% of India's malaria: **P. vivax** (per key) {2008}
+- **R21/Matrix-M**: malaria **vaccine** made by the **Serum Institute** {2024}
+- Nematode disease: **filaria** {1999}
+- Fungal (per key): **baldness** {2016}
+- **Plague-bacteria, AIDS-virus, baldness-fungus, malaria-protozoa** {2012}
+- **Peptic ulcer-bacteria, dengue-virus, elephant foot-worm, malaria-protozoa** {2023}
+- **Sleeping sickness**: **Trypanosoma** (tsetse fly), not mosquitoes {2007, ?}
+- Leander Paes's brain problem (2003): a **cyst** (neurocysticercosis) {2005}
+
+@trap
+- **Tetanus** = lockjaw; **typhoid** = intestine; **TB** = lungs (all bacterial).
+- **Japanese encephalitis** and filaria = Culex; dengue = **Aedes**; malaria = Anopheles.
+- Plague spreads by **rat fleas**, not mosquitoes.
+- Salk = injected polio vaccine; Sabin = oral.
+@end
+
+@up UP link: **Japanese encephalitis/AES** hit **Gorakhpur** and eastern UP for decades; JE vaccination and the **"Dastak"** campaign (from 2017) cut deaths sharply; UP was also the last big polio reservoir before India was declared **polio-free (2014)**.
+
+@last
+- Pandemic = worldwide; SARS-CoV-2 = COVID-19; Moderna = mRNA
+- Dengue = Aedes, low platelets; JE = Culex (Gorakhpur)
+- Polio = Salk; spreads via food and water
+- Hepatitis B = DNA virus, liver; common cold = rhinovirus
+- AIDS = retrovirus; ELISA; HIV-1C in India; Gallo
+- H5N1 = bird flu; Ebola = river name; Nipah = Kerala 2018
+- TB = BCG, Mantoux; tetanus = lockjaw; typhoid = intestine
+- DPT = diphtheria, pertussis, tetanus; diphtheria = toxoid
+- Malaria = protozoa (P. vivax); R21 = Serum Institute vaccine
+- Filaria = nematode; sleeping sickness = Trypanosoma
+@end

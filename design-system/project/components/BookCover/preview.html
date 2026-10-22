@@ -1,0 +1,144 @@
+<!-- @dsCard group="Covers" height=560 width=1040 subtitle="Flagship · Source Book · Test Series, A4 front covers" -->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,400;1,500&family=Source+Serif+4:ital,wght@0,400;1,400&family=Josefin+Sans:wght@600;700&family=Tiro+Devanagari+Hindi&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;background:var(--surface);font-family:var(--font-serif);}
+  .row{display:flex;gap:36px;justify-content:center;align-items:flex-start;padding:28px 20px 20px;}
+  .item{display:flex;flex-direction:column;align-items:center;gap:12px}
+  .cap{font:600 10px/1.3 var(--font-label);letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+  .book{position:relative;width:300px;height:424px;overflow:hidden;box-shadow:var(--shadow-book);border-radius:var(--radius-0);
+        display:flex;flex-direction:column;align-items:center;text-align:center;box-sizing:border-box}
+  .spaced{font:700 9px/1.2 var(--font-label);letter-spacing:.32em;text-transform:uppercase}
+  .title{font:700 34px/1.02 var(--font-display);margin:0}
+  .sub{font:italic 400 12.5px/1.35 var(--font-display);margin:0}
+  .hi{font:400 18px/1.3 var(--font-deva);margin:0}
+  .crest{border-radius:var(--radius-full);display:block}
+  .rule{height:1px;width:64px}
+
+  /* 1 · Flagship (navy) */
+  .flag{background:var(--navy);color:var(--cream);padding:30px 26px 0}
+  .flag .frame{position:absolute;inset:12px;border:1px solid var(--gold);pointer-events:none}
+  .flag .frame::after{content:"";position:absolute;inset:4px;border:1px solid var(--gold);opacity:.45}
+  .flag .brand{color:var(--gold-light)}
+  .flag .halo{margin:18px 0 16px;padding:5px;border-radius:var(--radius-full);background:var(--gold);}
+  .flag .halo img{width:118px;height:118px}
+  .flag .series{color:var(--gold-light);margin-bottom:10px}
+  .flag .hi{color:var(--gold-light);margin-top:8px}
+  .flag .rule{background:var(--gold-light);margin:14px auto 10px}
+  .flag .sub{color:var(--cream);opacity:.9}
+  .flag .band{position:absolute;left:0;right:0;bottom:0;height:54px;background:var(--gold-light);color:var(--navy-deep);
+              display:flex;flex-direction:column;justify-content:center;gap:3px}
+  .flag .band .tag{font:400 13px/1 var(--font-deva)}
+
+  /* 2 · Source Book (cream, TATTVA) */
+  .src{background:var(--cream);color:var(--ink);padding:34px 28px 0;--ink:#1a1a1a}
+  .src .frame{position:absolute;inset:12px;border:1px solid #d4c5a0;pointer-events:none}
+  .src .frame::before,.src .frame::after{content:"";position:absolute;left:-1px;right:-1px;height:3px;background:var(--gold)}
+  .src .frame::before{top:-1px}.src .frame::after{bottom:-1px}
+  .src img{width:92px;height:92px;margin-bottom:14px}
+  .src .brand{color:var(--red)}
+  .src .kind{color:#5b6475;margin-top:6px}
+  .src .rule{background:var(--gold);margin:16px auto}
+  .src .title{font-style:italic;font-weight:500;color:var(--navy)}
+  .src .hi{color:var(--navy);margin-top:6px}
+  .src .sub{color:#5b6475;margin-top:6px}
+  .src .stats{font:400 11px/1.6 var(--font-serif);color:var(--ink);margin-top:14px}
+  .src .stats b{color:var(--gold-deep);font-weight:400}
+  .src .foot{position:absolute;bottom:30px;left:0;right:0}
+  .src .foot .spaced{color:var(--gold-deep)}
+  .src .copy{font:400 8px/1.4 var(--font-serif);color:#5b6475;margin-top:6px}
+
+  /* 3 · Test Series (cream + red) */
+  .test{background:var(--cream);color:var(--navy);padding:0}
+  .test .top{width:100%;background:var(--navy);padding:16px 0 14px;display:flex;align-items:center;justify-content:center;gap:12px;box-sizing:border-box}
+  .test .top img{width:46px;height:46px;box-shadow:0 0 0 2px var(--gold)}
+  .test .top .spaced{color:var(--cream);text-align:left;line-height:1.6}
+  .test .top .spaced span{color:var(--gold-light);display:block}
+  .test .redband{width:100%;background:var(--red);color:var(--cream);padding:8px 0}
+  .test .body{padding:20px 26px 0}
+  .test .code{font:700 52px/1 var(--font-display);color:var(--navy)}
+  .test .code small{display:block;font:700 9px/1.2 var(--font-label);letter-spacing:.32em;text-transform:uppercase;color:var(--gold-deep);margin-bottom:6px}
+  .test .rule{background:var(--gold);margin:12px auto}
+  .test .title{font-size:22px;color:var(--navy)}
+  .test .hi{font-size:16px;color:var(--red);margin-top:6px}
+  .test .meta{display:flex;justify-content:center;gap:0;margin-top:14px;border:1px solid #d4c5a0}
+  .test .meta div{padding:8px 12px;font:400 10px/1.3 var(--font-serif);color:#1a1a1a}
+  .test .meta div+div{border-left:1px solid #d4c5a0}
+  .test .meta b{display:block;font:700 15px/1.2 var(--font-display);color:var(--navy)}
+  .test .bottom{position:absolute;bottom:0;left:0;right:0;border-top:3px solid var(--gold);padding:8px 0 10px;color:var(--gold-deep)}
+  .test .bottom .tag{font:400 12px/1 var(--font-deva);color:var(--navy);margin-top:5px}
+</style>
+</head>
+<body>
+<div class="row">
+
+  <div class="item">
+    <div class="book flag">
+      <div class="frame"></div>
+      <div class="spaced brand">Quantum IAS &amp; PCS</div>
+      <div class="halo"><img class="crest" src="../../assets/Logos/quantum-crest.png" alt="Quantum IAS & PCS crest"></div>
+      <div class="spaced series">UPPSC · BPSC · UPSC</div>
+      <h1 class="title">Indian Polity</h1>
+      <p class="hi">भारतीय राजव्यवस्था</p>
+      <div class="rule"></div>
+      <p class="sub">Complete concept notes with PYQ analysis</p>
+      <div class="band">
+        <div class="spaced">Prelims &amp; Mains 2026</div>
+        <div class="tag">छोटे कदम, बड़ी छलांग</div>
+      </div>
+    </div>
+    <div class="cap">Flagship · navy</div>
+  </div>
+
+  <div class="item">
+    <div class="book src">
+      <div class="frame"></div>
+      <img class="crest" src="../../assets/Logos/quantum-crest.png" alt="Quantum IAS & PCS crest">
+      <div class="spaced brand">Quantum IAS &amp; PCS</div>
+      <div class="spaced kind">UPPSC Prelims · Source Book</div>
+      <div class="rule"></div>
+      <h1 class="title">Indian Polity</h1>
+      <p class="hi">भारतीय राजव्यवस्था</p>
+      <p class="sub">PYQ-driven concept notes · TATTVA Series</p>
+      <div class="stats">PYQs <b>1990–2025</b><br>Concept · PYQ · Trap</div>
+      <div class="foot">
+        <div class="spaced">Prepared for UPPSC Prelims 2026</div>
+        <div class="copy">© 2026 Quantum IAS &amp; PCS. All rights reserved.</div>
+      </div>
+    </div>
+    <div class="cap">Source Book · cream</div>
+  </div>
+
+  <div class="item">
+    <div class="book test">
+      <div class="top">
+        <img class="crest" src="../../assets/Logos/quantum-crest.png" alt="">
+        <div class="spaced">Quantum IAS &amp; PCS<span>Prelims Test Series</span></div>
+      </div>
+      <div class="redband spaced">UPPSC Prelims 2026</div>
+      <div class="body">
+        <div class="code"><small>Mock Test</small>PT-08</div>
+        <div class="rule"></div>
+        <h1 class="title">General Studies Paper I</h1>
+        <p class="hi">सामान्य अध्ययन प्रश्न-पत्र I</p>
+        <div class="meta">
+          <div><b>150</b>Questions</div>
+          <div><b>200</b>Marks</div>
+          <div><b>2 hrs</b>Duration</div>
+        </div>
+      </div>
+      <div class="bottom">
+        <div class="spaced">Booklet Series · A</div>
+        <div class="tag">छोटे कदम, बड़ी छलांग</div>
+      </div>
+    </div>
+    <div class="cap">Test Series · red band</div>
+  </div>
+
+</div>
+</body>
+</html>

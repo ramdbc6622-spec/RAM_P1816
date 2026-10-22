@@ -1,0 +1,71 @@
+@chapter 13 | Irrigation and Canals
+@unit UNIT III · WATER, AGRICULTURE AND LIVESTOCK
+@meta Built from 17 UPPSC questions (1992–2024). Focus: tube wells in UP, Indira Gandhi Canal, UP canals, canal-river matches.
+
+@hot
+- **Uttar Pradesh** has the largest area under **tube-well** irrigation {1995, 2006, 2017, ?}
+- **Indira Gandhi Canal** (Rajasthan): from **Harike barrage**; water of the **Satluj, Beas and Ravi**; uses the **Pong** dam on the Beas {1992, 1999, 2010, 2013, 2024}
+- **Sharda Sahayak** project aims at more output, multiple cropping and better land management {2001, 2002, 2008}
+@end
+
+@section 13.1 | Sources of Irrigation
+- **Ponds (tanks)** are a major source in the Peninsula because its rivers are **seasonal** (R explains A) {2015}
+- Highest share of cropped area irrigated (2011) among the options: **Haryana** (Punjab tops overall) {2015}
+- Largest tube-well area: **Uttar Pradesh** {2006, 2017, ?}
+- Tube-well growth was most spectacular in the **Saryupar plain** (eastern UP) {1995}
+- Life-saving (protective) irrigation means **PWP irrigation** {2010}
+
+@table
+Source | Share | Leading states
+Tube wells and wells | About 64% | UP, Punjab, Haryana
+Canals | About 24% | Punjab, Haryana, UP, Rajasthan
+Tanks | About 3% | Tamil Nadu, Telangana, AP
+@end
+
+@trap
+- Highest **percentage** irrigated = **Punjab** (then Haryana). Largest **area** and **tube-well** area = **UP**. Tanks = the **south**.
+@end
+
+@section 13.2 | Canals and Projects
+- **Lower Ganga Canal** starts at **Narora** {2010}
+- **Sharda Sahayak** aims: more production, multiple cropping, land reform (all three) {2001, 2002, 2008}
+- Match: **Upper Bari Doab-Ravi, Sirhind-Satluj, Gurgaon-Yamuna, Indira Gandhi-Satluj, Ravi, Beas** {2024}
+- Indira Gandhi Canal: from **Beas and Satluj**; source at **Harike barrage**; water from **Beas, Ravi, Satluj** {1992, 1999, 2010}
+- Project using the **Pong** barrage on the Beas: **Indira Gandhi Canal** {2013}
+- **Jawai project-Tamil Nadu** is wrong; Jawai is in **Rajasthan** {2019}
+- **Mangalam** irrigation project: **Kerala** {1998}
+- **Garland Canal** was proposed by **Dinshaw J. Dastur** {1999}
+
+@flow Indira Gandhi Canal: where its water comes from
+Satluj + Beas meet | At Harike (Punjab)
+Harike barrage | Head of the Rajasthan Feeder
+Pong dam (Beas) | Stores extra water for the canal
+Indira Gandhi Canal | Runs into the Thar: Ganganagar, Bikaner, Jaisalmer
+@end
+
+@table
+UP canal | Takes off from
+Upper Ganga | Ganga at Haridwar (1854)
+Lower Ganga | Ganga at **Narora**
+Eastern Yamuna | Yamuna at Hathnikund
+Agra Canal | Yamuna at Okhla
+Sharda Canal | Sharda at Banbasa
+Sharda Sahayak | Ghaghara-Sharda link
+Saryu Nahar | Ghaghara-Saryu-Rapti (2021)
+Betwa Canal | Betwa at Parichha
+@end
+
+@up UP leads India in **tube-well** irrigation and has the **largest irrigated area**. Its big canal systems are the **Upper and Lower Ganga**, **Sharda Sahayak** (largest in UP) and the **Saryu Nahar** (completed 2021, nine eastern districts).
+
+@last
+- **UP** = largest tube-well area; **Saryupar** plain boom
+- **Punjab/Haryana** = highest % irrigated
+- Tanks = Peninsula (seasonal rivers)
+- **Lower Ganga Canal** = Narora; Upper = Haridwar
+- **Indira Gandhi Canal**: Harike; Satluj, Beas, Ravi; Pong dam
+- **Sirhind** = Satluj; **Upper Bari Doab** = Ravi; **Gurgaon** = Yamuna
+- **Jawai** = Rajasthan; **Mangalam** = Kerala
+- **Garland Canal** = Dastur
+- Protective irrigation = **PWP**
+- **Sharda Sahayak** = UP's largest canal
+@end

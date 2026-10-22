@@ -1,0 +1,66 @@
+@chapter 26 | Tourism and Miscellaneous
+@meta Built from 18 UPPSC questions (1996–2018). Focus: hill station-state matching, grasslands, temple hills, odd-one-out pairs.
+
+@hot
+- **Hill station-state matching**: **Chakrata, Auli-Uttarakhand; Kufri, Kasauli, Keylong, Khajjiar-HP; Gulmarg, Pahalgam-J&K; Haflong-Assam; Kalimpong-WB; Ooty-TN; Chikmagalur-Karnataka** {1997, 2002, 2003, 2015, 2017}
+- **Wrong-pair** traps: **Jaisalmer-City of Lakes, BARC-Karnataka, IGKV-Rajasthan, Swaminathan-geology** {1996, 2004, 2005, 2016}
+- Temple hills: **Biligiri Ranga** (Ranganatha, Karnataka); Tirupati = **Seshachalam** {2015, 2018}
+@end
+
+@section 26.1 | Hill Stations and Tourist Centres
+- **Chakrata-Uttarakhand, Haflong-Assam, Kalimpong-WB, Kufri-HP** {2003, 2015}
+- **J&K-Gulmarg, HP-Kasauli, Gujarat-Udvada, TN-Point Calimere** {1997}
+- **HP-Keylong, Uttarakhand-Auli, Karnataka-Chikmagalur, TN-Ooty** {2002}
+- **Banni-Gujarat, Bugyal-Uttarakhand, Khajjiar-HP, Pahalgam-J&K** {2017}
+- **Jaisalmer-City of Lakes** is wrong (that is **Udaipur**; Jaisalmer is the Golden City) {2005}
+- Tourism campaign: **Incredible India** {2010}
+- Not a ghost town: **Charkhari** (Mahoba, UP); ghost towns = Kuldhara, Dhanushkodi {2015}
+
+@table
+Hill station | State
+Chakrata, Auli, Mussoorie, Nainital | Uttarakhand
+Kufri, Kasauli, Keylong, Khajjiar | Himachal Pradesh
+Gulmarg, Pahalgam, Sonamarg | Jammu and Kashmir
+Haflong | Assam (only hill station)
+Kalimpong, Darjeeling | West Bengal
+Chikmagalur, Coorg | Karnataka
+Ooty, Kodaikanal, Yercaud | Tamil Nadu
+Mount Abu | Rajasthan (only hill station)
+Pachmarhi | Madhya Pradesh
+@end
+
+@section 26.2 | Temple Hills
+- Tirupati (Venkateswara) is on the **Seshachalam (Tirumala)** hills, AP; none of the options fitted (*) {2018}
+- Lord Ranganatha temple: **Biligiri Ranga** Hills (Karnataka) {2015}
+
+@section 26.3 | Miscellaneous
+- Both power and manure: **biogas plants** {2015}
+- **Speed Post** launched: **1986** {2013}
+- Locusts enter India from **Pakistan** (Thar side) {2010}
+- **BARC-Karnataka** is wrong (BARC is in **Mumbai**) {2004}
+- Himalayan Mountaineering Institute: **Darjeeling** {2008}
+- **Diamond Harbour, Salt Lake City**: **Kolkata** {1997}
+- **Jangal Mahal**: **West Bengal** (Jhargram, Purulia, Bankura) {2012}
+- **Indira Gandhi Krishi Vishwavidyalaya-Rajasthan** is wrong (it is in **Raipur, Chhattisgarh**) {2016}
+- **M.S. Swaminathan-geology** is wrong (he was an **agricultural** scientist) {1996}
+
+@trap
+- **Udaipur** = City of Lakes; **Jaisalmer** = Golden City; **Jodhpur** = Blue City; **Jaipur** = Pink City.
+- **Tirupati** = Seshachalam hills (AP); **BR Hills** = Karnataka; **Shevaroy** (Yercaud) and **Javadi** = Tamil Nadu.
+- **Haflong** (Assam) and **Mount Abu** (Rajasthan) are each the only hill station of their state.
+@end
+
+@up UP tourism links: **Charkhari** (Mahoba, "Kashmir of Bundelkhand"), the **Buddhist circuit** (Sarnath, Kushinagar, Kapilvastu-Piprahwa, Shravasti, Sankisa, Kaushambi), the **Ramayana circuit** (Ayodhya, Chitrakoot, Shringverpur), **Krishna circuit** (Mathura-Vrindavan), and the **Kashi Vishwanath Corridor**.
+
+@last
+- Chakrata, Auli = **Uttarakhand**; Bugyal = Uttarakhand meadows
+- Kufri, Kasauli, Keylong, **Khajjiar** = **HP**
+- Gulmarg, Pahalgam = **J&K**; **Haflong** = Assam
+- Kalimpong = WB; Ooty = TN; Chikmagalur = Karnataka
+- **Banni** grassland = Gujarat; Udvada = Gujarat
+- **Udaipur** = City of Lakes, not Jaisalmer
+- Tirupati = **Seshachalam**; Ranganatha = **BR Hills**
+- **BARC** = Mumbai; HMI = **Darjeeling**
+- **Jangal Mahal** = West Bengal; IGKV = Chhattisgarh
+- Speed Post **1986**; locusts from **Pakistan**
+@end

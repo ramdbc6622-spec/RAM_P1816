@@ -1,0 +1,95 @@
+@chapter 17 | Major Crops II: Cotton, Sugarcane, Oilseeds and Pulses
+@meta Built from 44 UPPSC questions (2001–2023). Focus: UP and sugarcane, the southward shift of the sugar industry, soybean, oilseed and pulse varieties.
+
+@hot
+- **UP** leads in sugarcane **area and production**; it is the **"Sugar Bowl"** of India {2008, 2013, 2014, 2015}
+- Sugar industry shifted **south**: higher cane yield, more sucrose, longer crushing season (R explains A) {2007, 2017}
+- **MP** = largest **soybean** area and (until 2023-24) production {2001, 2003, 2014, 2015}
+- **Mustard** varieties: **Varuna, Pusa Bold, Pitambari** {2007, 2013, 2015}
+- **Arhar** varieties: **Bahar, Malaviya Chamatkar**; Neelam is **not** arhar (it is a mango) {2008, 2008, 2013, 2014}
+@end
+
+@section 17.1 | Cotton
+- "**White gold**" of Maharashtra: **cotton** {2002}
+- Cotton fibre comes from the **seed** (seed hairs) {2009}
+
+@section 17.2 | Sugarcane and Sugar
+- Largest sugarcane area: **UP**; leading producer: **UP** {2015, 2013}
+- Production order (2013): **UP, Maharashtra, Karnataka, Haryana** {2014}
+- "**Sugar Bowl**" of India: **UP** {2008}
+- Crop with the highest **irrigated share** of its area: **sugarcane** {2013}
+- First sugar mill (1903): **Pratappur** (Deoria, UP) {2013}
+- Sugarcane breeding: **Coimbatore** (Sugarcane Breeding Institute) {2009, 2010}
+- **Adsali** cane takes about **18 months** to ripen {2010}
+- India: over 15% of world sugar, sugar is the 2nd largest agro-industry, India is the **largest consumer**; not the largest producer (Brazil) {2009}
+- Shift to the south: **higher yield, more sucrose, longer season** (not cheap labour) {2007}
+- South has more sugar industry because of **higher yield and juice** (R explains A) {2017}
+- **Sakkar Nagar** (Bodhan) was in AP, now **Telangana** (*) {2008}
+
+@flow Why sugar moved south
+Higher cane yield | 90-100+ t/ha vs about 80 in the north
+More sucrose | 11-12% recovery
+Longer crushing season | 6-7 months vs 4
+Strong cooperatives | Maharashtra
+@end
+
+@section 17.3 | Oilseeds
+- Leading soybean producer: **Madhya Pradesh** (Maharashtra in 2024-25) {2001, 2003, 2015}
+- Largest soybean **area**: **MP** {2014}
+- Largest oilseed producer (2006): **MP**; now **Rajasthan** {2006}
+- Largest **groundnut** producer: **Gujarat** {2006}
+- Low area but very high groundnut yield: **West Bengal** {2014}
+- **Pegging** happens in **groundnut**; groundnut needs much **gypsum** {2010, 2007}
+- **Kaushal**: groundnut {2002}
+- **Varuna**, **Pusa Bold**, **Pitambari**: **mustard** {2007, 2013, 2015}
+- Highest oil content: **sesame** {2017}
+- **Kusum** (safflower) = *Carthamus tinctorius* {2016}
+
+@table
+Oilseed | Oil % | Leading state
+Sesame | 46-52 (highest) | WB, Gujarat
+Groundnut | 45-50 | Gujarat
+Mustard | 38-42 | Rajasthan
+Soybean | 18-20 | MP, Maharashtra
+Safflower | 30-35 | Maharashtra
+Castor | 45-50 | Gujarat
+@end
+
+@section 17.4 | Pulses
+- India is the largest **producer and consumer** of pulses {2014}
+- India does **not** usually export **pulses** (it imports them) {2013}
+- Largest pulse producer: **Madhya Pradesh** {2004}
+- India lacks pulses but not protein (R explains A, per key) {2009}
+- **Green gram (moong)** is **not** a rabi pulse {2023}
+- **Legumes** fix nitrogen from the air {2006}
+- Nutrient essential for nodules: **cobalt** {2004}
+- Poor nitrogen fixer: **rajma** (*) {2009}
+- NPK ratio for legumes: **1:2:2** {2013}
+- Pulses complement cereals in intercropping (both true, R not the explanation per key; the real reason is nitrogen fixation) {2023}
+- **Red gram (arhar)** originated in **India** {2007}
+- **Malaviya Chamatkar**: **arhar**; **Bahar**: **arhar** {2014, 2008, 2013}
+- **Arhar-Neelam** is wrong {2008}
+- Leafless pea: **Aparna** {2013}
+
+@table
+Kharif pulses | Rabi pulses
+Arhar (tur) | Gram (largest pulse)
+Moong (green gram) | Masoor (lentil)
+Urad (black gram) | Pea
+Lobia (cowpea) | Rajma, khesari
+@end
+
+@up UP is the **Sugar Bowl**: top in cane area and output; India's first sugar mill was at **Pratappur** (Deoria, 1903). UP-bred varieties: arhar **Bahar** and **Narendra Arhar** (Ayodhya), **Malaviya Chamatkar** (BHU), pea **Azad** (Kanpur), groundnut **Kaushal, Chandra** (Kanpur).
+
+@last
+- Cotton = "white gold"; fibre from the **seed**
+- **UP** = Sugar Bowl; first mill **Pratappur 1903**
+- Cane breeding at **Coimbatore**; Adsali = **18 months**
+- Sugar moved south: yield, sucrose, longer season
+- **MP** = soybean and pulses; **Gujarat** = groundnut; **Rajasthan** = oilseeds now
+- **Sesame** = highest oil; groundnut = pegging, gypsum
+- **Varuna, Pusa Bold, Pitambari** = mustard
+- **Bahar, Malaviya Chamatkar** = arhar; **Aparna** = leafless pea
+- Moong is **not** rabi; legumes fix nitrogen; **cobalt** for nodules
+- India: largest producer, consumer and importer of pulses
+@end

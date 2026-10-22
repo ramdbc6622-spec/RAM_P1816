@@ -1,0 +1,68 @@
+@chapter 31 | The Planning Commission / NITI Aayog
+@meta Built from 17 UPPSC questions (1991–2023). Focus: extra-constitutional status, PM as chairman, NDC, NITI Aayog structure.
+
+@hot
+- **Planning Commission** is **not** a constitutional body; set up by a **Cabinet resolution** (1950) {1999, 2003, 2004, 2008, 2010, 2013, 2013, 2014}
+- **NITI Aayog** = extra-constitutional; set up by Cabinet resolution (1 Jan 2015) {2015, 2016, 2018}
+- **NDC** (1952) approved Five-Year Plans; linked Commission and States {2002, 2005, 2010, 2012, 2016}
+@end
+
+@section 31.1 | Status
+- Planning Commission set up by a **Cabinet resolution** {1999}
+- Not constitutional: **Planning Commission** {2003, 2004, 2008, 2010, 2013, 2013, 2014}
+- Extra-constitutional: **NITI Aayog** {2015, 2018}
+
+@section 31.2 | Planning Commission
+- Chairman: **Prime Minister** {2006}
+- Deputy Chairman: rank of **Cabinet Minister** {1991, 1994}
+- Never Deputy Chairman: **P. Chidambaram** {2015}
+- "Economic cabinet" for Union and States; makes Plans (both true, R not the explanation) {2010}
+
+@section 31.3 | NDC
+- Formed **6 August 1952** {2016}
+- Approves **Five-Year Plans** {2002}
+- Coordinator between the Commission and States: **NDC** {2012}
+- Not true: Planning Commission was the **highest** body for plans (NDC was) {2004}
+- NDC discusses progress, suggests ways, gives guidelines; **not** money allocation (1, 2, 3) {2005, 2010}
+
+@flow From planning to NITI
+Planning Commission | 15 March 1950; Cabinet resolution
+NDC | 6 August 1952
+Twelfth Plan | Last plan; ended 31 March 2017
+NITI Aayog | 1 January 2015; Cabinet resolution
+@end
+
+@section 31.4 | NITI Aayog
+- Planning Commission abolished by PM **Narendra Modi** {2015}
+- NITI set up by a **Union Cabinet resolution** {2016}
+- Not correct: NITI has a **full-time chairman** (PM is chairperson) {2015}
+- Not in Governing Council: **Governors** (CMs and LGs are) {2023}
+
+@table
+Body | Basis | Head
+Planning Commission | Cabinet resolution 1950 | PM
+NDC | Cabinet resolution 1952 | PM
+NITI Aayog | Cabinet resolution 2015 | PM; full-time Vice-Chairperson
+Finance Commission | Art 280 | Chairman appointed by President
+@end
+
+@trap
+- "Economic and social planning" is a **Concurrent List** subject, but the bodies are **executive**.
+- NITI has **full-time members** but no full-time chairman.
+- Governing Council: **CMs and LGs**, not Governors.
+@end
+
+@up UP's own **State Planning Institute** and the UP CM sits on NITI Aayog's **Governing Council**. UP launched its State-level think tank on NITI lines (State Transformation Commission).
+
+@last
+- Planning Commission: **15 March 1950**, Cabinet resolution
+- Chairman **PM**; Deputy Chairman = Cabinet rank
+- Not constitutional; extra-constitutional
+- NDC **6 Aug 1952**; approved plans
+- Allocation of plan money: Commission, not NDC
+- NITI Aayog **1 Jan 2015**; Cabinet resolution
+- PM chairs NITI; no full-time chairman
+- Governing Council: **CMs + LGs**
+- Last Plan: **Twelfth** (2012-17)
+- Chidambaram never Deputy Chairman
+@end

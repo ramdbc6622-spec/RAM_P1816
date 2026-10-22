@@ -1,0 +1,80 @@
+@chapter 14 | Atomic Structure, Matter and Solutions
+@unit UNIT III · CHEMISTRY
+@meta Built from 20 UPPSC questions (1992–2025). Focus: particles of the atom, isotopes, physical and chemical change, colloids and emulsions, osmosis and sublimation.
+
+@hot
+- Nucleus = **protons and neutrons**; neutron found by **Chadwick** {1995, 1996, 1996}
+- **Isotopes**: same **atomic number**, different mass; protium, deuterium, tritium are isotopes of **hydrogen** {2009, 2025, ?}
+- **Milk** = an **emulsion**; **honey** is not a colloid {2002, 2024, ?}
+@end
+
+@section 14.1 | Particles of the Atom
+- Nucleus holds **protons and neutrons** {1996}
+- Order of discovery: **electron, proton, neutron, pi meson** {2023}
+- Neutron discovered by **James Chadwick** (1932) {1995, 1996}
+- Not a sub-atomic particle: **deuteron** (a deuterium nucleus) {2007}
+- Particle-antiparticle pair: **electron-positron** {2005}
+- Zero charge: **neutrino** {2021}
+
+@table
+Particle | Discoverer | Charge
+Electron | J.J. Thomson (1897) | Negative
+Proton | Rutherford (1919) | Positive
+Neutron | Chadwick (1932) | None
+Positron | Anderson (1932) | Positive (antielectron)
+Neutrino | Predicted by Pauli (1930) | None
+@end
+
+@section 14.2 | Isotopes and Isobars
+- Isotopes: same atomic number, different mass; H isotopes are **not** of carbon (only 1) {2025}
+- Same protons, different neutrons: **isotopes** {2009, ?}
+
+@table
+Term | Same | Different | Example
+Isotopes | Atomic number | Mass number | Protium, deuterium, tritium
+Isobars | Mass number | Atomic number | Argon-40, calcium-40
+Isotones | Neutron number | Protons | C-14, N-15
+@end
+
+@section 14.3 | Physical and Chemical Changes
+- Water to vapour: a **physical** change {1992}
+- Wrong pair: **pasteurisation-tea** (it is for **milk**) {2019}
+
+@section 14.4 | Mixtures, Colloids and Solutions
+- Salt solution is homogeneous; a homogeneous mix has the **same** composition throughout (A true, R false) {2022}
+- Salt-ice mix goes below 0 C; salt **lowers**, not raises, the freezing point (A true, R false) {1998}
+- Milk: an **emulsion** {2024, ?}
+- Not a colloid: **honey** (a true solution) {2002}
+- Dissolving 100 g sugar in half a litre of water: **volume** stays the same (per key) {2017}
+- Osmosis: solvent flows from **pure solvent to solution**; reversing it is reverse osmosis (only 1) {2023}
+- Not used to purify solid impurities: **distillation** (it is for liquids) {2016}
+- Camphor, naphthalene, dry ice vanish: **sublimation** {2019}
+
+@flow Kinds of mixtures
+True solution | Particles under 1 nm; clear; salt or sugar in water, honey
+Colloid | 1-1000 nm; milk, blood, fog, smoke, jelly
+Emulsion | Liquid in liquid colloid; milk, butter, cream
+Suspension | Particles settle; muddy water, chalk in water
+@end
+
+@trap
+- Deuteron is a **nucleus**, not a fundamental sub-atomic particle.
+- Salt **lowers** freezing point (salt-ice freezing mixtures).
+- Honey is a true solution; milk is an emulsion.
+- Sublimation = solid straight to vapour (camphor, naphthalene, dry ice, iodine).
+@end
+
+@up UP link: **pasteurised milk** from UP's dairy cooperative **Parag** (PCDF, Lucknow) and the large private dairies of western UP; UP is India's top milk-producing state.
+
+@last
+- Nucleus = protons + neutrons; Chadwick = neutron
+- Electron, proton, neutron, pi meson: order of discovery
+- Electron-positron = particle-antiparticle; neutrino = no charge
+- Isotopes = same atomic number; isobars = same mass number
+- H isotopes: protium, deuterium, tritium
+- Water to vapour = physical change; pasteurise milk
+- Milk = emulsion; honey not a colloid
+- Salt lowers freezing point
+- Osmosis: solvent to solution
+- Camphor, naphthalene, dry ice = sublimation
+@end

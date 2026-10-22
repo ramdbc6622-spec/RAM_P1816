@@ -1,0 +1,131 @@
+@chapter 27 | World Population and Urbanisation
+@meta Built from 66 UPPSC questions (1998–2023). Focus: population milestones, India's share, density and sex ratio across countries, world urbanisation, migration, fertility and mortality.
+
+@hot
+- **World Population Day**: **11 July 1987**, when the world hit **5 billion** {2010, 2012, 2015}
+- **India's share** of world population: about **17.5%** (2011) {2010, 2012, 2016}
+- **Densest in SAARC**: **Maldives**; **lowest density**: **Mongolia** (Canada among options) {2002, 2003, 2008, 2009, 2013, 2017}
+- **World urbanisation**: about **55%** (2018); **70%** by **2050**; most urbanised continent **Australia** {2002, 2008, 2010, 2017, 2018}
+- **Population growth**: lowest in **Europe**, highest in **Africa** (1990-2000) {2002, 2003, 2008, 2014}
+@end
+
+@section 27.1 | Urban Sociology
+- **Folk-urban continuum**: studies in **Mexico** (Robert Redfield) {2013}
+- Primary urbanisation (Redfield and Singer): a **great tradition** {2013}
+- **Megalopolis**: **Jean Gottmann** {2023}
+
+@section 27.2 | World Population
+- World Population Report 2021: **UNFPA** {2021}
+- Seven-billionth baby (31 October 2011): the UN named no single child (*); UP's **Nargis** was one symbolic baby {2009}
+- World Population Day marks **5 billion**: **11 July 1987** {2010, 2012, 2015}
+- Theme 2017: **"Family Planning: Empowering People, Developing Nations"** {2017}
+- About half of humanity lives between **20 N and 40 N** {1998}
+- India's share (2011 estimate): **17.5%** {2010, 2012}
+- India's share (Census 2011): **17.31%** {2016}
+- World population in 2050 (key): **10 billion** (UN projection now about 9.7 billion) {2010}
+- Asia's share (2008): about **61%** {2008}
+- Largest population among options: **Indonesia** {2010}
+- Order Brazil, Indonesia, Nigeria, Pakistan: changed since (*) {2008}
+- Asian countries in the top ten (key): **5** (six when asked) {2008}
+- Only correct: **Brazil** is the most populous Southern Hemisphere country (only I) {2023}
+- Africa's most populous: **Nigeria** {2011}
+- Largest population among options (UN 2012): **Dominica** {2015}
+- Slowest growth 1990-2000: **Europe** {2002, 2003, 2014}
+- Fastest growth: **Africa** {2008}
+- Highest growth among options: **Philippines** {1999}
+
+@flow World population milestones
+5 billion | 11 July 1987; World Population Day
+6 billion | 12 October 1999
+7 billion | 31 October 2011
+8 billion | 15 November 2022
+India first | Passed China in April 2023
+@end
+
+@section 27.3 | Density, Sex Ratio and Religion
+- Low-density areas are **not** usually over-populated; their carrying capacity is low (A false, R true) {2010}
+- Lowest density among options: **Canada** {2013}
+- Lowest density: **Mongolia** {2017}
+- Densest SAARC country: **Maldives** {2002, 2003, 2008, 2009}
+- Densest South Asian country among options: **India** {2007}
+- Densest in East Asia: **South Korea** {2014}
+- Densest in South America: **Ecuador** {2010}
+- Most favourable sex ratio: **Finland** {2011}
+- Sex ratio order (2011): **Bangladesh, Pakistan, India, China** {2011}
+- Fear of falling sex ratio: **sex-determination tests** {2004}
+- Religions by size: **Christians, Muslims, Hindus, Buddhists** {2004}
+
+@table
+Density fact | Country
+Lowest density | Mongolia (Canada among big countries)
+Densest in SAARC | Maldives
+Densest in East Asia | South Korea
+Densest in South America | Ecuador
+@end
+
+@section 27.4 | World Urbanisation
+- Urban share (UN-DESA 2018): **55%** {2018}
+- Urban share (2016): **54.5%** {2017}
+- Acceleration stage: **second** stage of the urbanisation curve {2021}
+- 70% urban by **2050** {2008}
+- Not a city-prosperity test (UN-Habitat): **optimum population** {2013}
+- World turned half urban in **2008**, not in options (*) {2009}
+- Largest urban population: **China** {2008}
+- Most urbanised continent: **Australia** {2002, 2010}
+- Most urbanised region among options: **Europe** {2003}
+- Country bigger than India's urban population: USA then; none now (*) {2002}
+- Most urbanised country: **Singapore** {2002, 2005}
+- Most urbanised in South America: **Uruguay** {2008}
+- South Asia order: **Pakistan, India, Bangladesh, Sri Lanka** {2010, 2014}
+- Most urbanised in South Asia: **Bhutan** now (Pakistan when asked) {2008, 2014}
+- Most urbanised in West Asia: **Kuwait** {2011}
+- Largest urban agglomeration: **Tokyo-Yokohama** {2003}
+- Urbanisation follows industry; in developing nations it is a movement in itself (A and R true, R does not explain A) {2002, 2016}
+- Asian cities over-urbanised as growth outpaced the economy (A and R true, R explains A) {2010}
+- Western cities have more females (A and R true, R explains A, per key) {2016}
+
+@flow Urbanisation curve
+Stage 1: Initial | Slow, mostly rural society
+Stage 2: Acceleration | Fast shift to towns with industry
+Stage 3: Terminal | Over 70% urban; growth levels off
+@end
+
+@section 27.5 | Migration
+- Not 2% of people living abroad; **Oceania** has the highest migrant share (A false, R true) {1999}
+- Highest migrant share: **UAE** now (Australia when asked) {1999}
+- Largest migrant population: **Europe** {1999}
+
+@section 27.6 | Fertility, Mortality and Welfare
+- China's growth slowed due to the **one-child policy** (A and R true, R explains A) {1999, 2001}
+- Lowest fertility (UN, then): **Italy** {1998}
+- Lowest fertility now (key): **China** (Italy when asked) {2000}
+- Highest birth rate: **Afghanistan** {2007}
+- Highest life expectancy: **Japan** {2006}
+- More deaths than births in Asia: **Japan** {2008}
+- Highest maternal mortality in Asia (then): **Nepal** {2001}
+- Largest aged share in South Asia: **Sri Lanka** {2013}
+- About 80% of people lack **social security** {2010}
+- Poorest in South Asia (WDR 2006): **Bangladesh** {2005}
+- First official family planning programme: **India** (**1952**) {2011, 2012}
+
+@trap
+- World Population Day = **5 billion** (1987), not 6 or 7 billion.
+- **Maldives** is the densest SAARC country, not Bangladesh.
+- Most urbanised continent = **Australia/Oceania**; most urbanised region among options = **Europe**.
+- **India** was the first country with official family planning (**1952**).
+@end
+
+@up UP link: on 31 October 2011, baby **Nargis**, born in **Mal (Lucknow district)**, was symbolically named the world's seven-billionth baby by Plan India; UP alone (about 24 crore now) would be the world's 5th or 6th most populous country.
+
+@last
+- Folk-urban continuum = **Redfield, Mexico**; megalopolis = **Gottmann**
+- World Population Day: **11 July 1987** (5 billion)
+- 8 billion: 15 November 2022; UNFPA = population report
+- Half of humanity: **20-40 N**; Asia about **60%**
+- India = 17.5% of world; **Nigeria** = Africa's most populous
+- **Maldives** densest SAARC; **Mongolia** least dense
+- Urban: **55%** (2018); **70% by 2050**; China largest urban population
+- **Australia** most urbanised continent; **Singapore** country; **Uruguay** S. America
+- **Tokyo** = largest agglomeration; Japan = longest life, more deaths than births
+- India: first family planning programme, **1952**
+@end

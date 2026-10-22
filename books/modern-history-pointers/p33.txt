@@ -1,0 +1,55 @@
+@chapter 33 | Communal Award and Poona Pact (1932)
+@meta Built from 14 UPPSC questions (1994–2017). Focus: MacDonald's Award, the Poona Pact and who signed it, its effect, the Harijan Sevak Sangh, Dalit organisations, Karachi 1931.
+
+@hot
+- **Poona Pact** (1932) concerned the **depressed classes** {1996, 1997, 2007, 2008}
+- **Harijan Sevak Sangh** (1932): founded by **Gandhi**, president **G.D. Birla** {1994, 2006, 2011, 2017}
+- **Communal Award** issued by **Ramsay MacDonald** (August 1932) {1999, 2017}
+@end
+
+@section 33.1 | Award and Pact
+- Communal Award: **Ramsay MacDonald** {1999}
+- Not given separate electorates: **Buddhists** {2001}
+- Award announced in August 1932 (A); separate electorates for minorities (R): **both true, R explains A** {2017}
+- Poona Pact concerned **depressed classes** {1996, 1997, 2007, 2008}
+- "Signed between": question marked (*); intended **Gandhi and Ambedkar** {2004}
+- Pact that followed the Award: **Poona Pact** {2010}
+- Did not sign the Poona Pact: **Gandhi** (Ambedkar and Malaviya signed) {2001}
+- Poona Pact undid the Award (A); led to reserved seats for SC and ST (R): **both true, R explains A** {2005}
+
+@section 33.2 | Harijan Work and Dalit Bodies
+- Founded the Harijan Sevak Sangh: **Gandhi** {2017}
+- Its president: **G.D. Birla** {1994, 2006, 2011}
+- Former name: **All India Anti-Untouchability League** {2014}
+- "Gandhi like a fleeting phantom raises dust but not the level": **Ambedkar** {2004}
+- All India Depressed Classes League: **Jagjivan Ram** {2000}
+- "Gandhi may die, but Gandhism will remain": **Karachi, 1931** {2008, 2013}
+
+@flow From Award to Pact, 1932
+Communal Award, separate electorates for depressed classes | 16 August 1932
+Gandhi's fast unto death in Yerwada | 20 September 1932
+Poona Pact: reserved seats in joint electorates | 24 September 1932
+Harijan Sevak Sangh founded | 1932
+Harijan weekly started | 1933
+@end
+
+@trap
+- Award by the **Prime Minister** (MacDonald), not the Viceroy (Willingdon).
+- Poona Pact signed by **Ambedkar and Malaviya**; Gandhi did not sign.
+- Depressed Classes **League** = Jagjivan Ram; **Association** = M.C. Rajah; SC **Federation** = Ambedkar.
+@end
+
+@up UP link: **Madan Mohan Malaviya** signed the Poona Pact for the caste Hindus.
+
+@last
+- Communal Award = MacDonald, 1932
+- Buddhists = no separate electorate
+- Poona Pact = depressed classes
+- Gandhi fasted at Yerwada
+- Signed by Ambedkar, Malaviya
+- Reserved seats replace separate electorates
+- Harijan Sevak Sangh = Gandhi; Birla president
+- Former name = Anti-Untouchability League
+- Jagjivan Ram = Depressed Classes League
+- "Gandhism will remain" = Karachi 1931
+@end

@@ -1,0 +1,755 @@
+@chapter 27 | World Population and Urbanization
+
+@intro
+The last chapter looks beyond India: **urban sociology** (folk-urban continuum, megalopolis), **world population** (size, distribution, growth, the most populous countries), **density, sex ratio and religion** worldwide, **world urbanization**, **international migration**, and world **fertility and mortality**. Many keys depend on the year asked; the notes give current UN figures. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 27.1 | Urban Sociology
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+The idea of ‘Folk-Urban Continuum’ was developed on the basis of studies conducted in :
+(a) Mexico
+(b) Brazil
+(c) Indonesia
+(d) India
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+In the view of Redfield and Singer, the process of primary urbanization is characterized by the development of a:
+(a) Folk tradition
+(b) Elite tradition
+(c) Great tradition
+(d) Little tradition
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2023
+Who used the term “Megalopolis”?
+(a) Jean Gottmann
+(b) Taylor
+(c) Ogburn
+(d) None of these
+@ans (a)
+@end
+
+
+**Robert Redfield** built the **folk-urban continuum** from studies in **Mexico** (Yucatán); with **Milton Singer** he described **primary urbanization** (growth of a **great tradition**, orthogenetic cities) and secondary urbanization (heterogenetic cities). **Jean Gottmann** coined **megalopolis** (1961) for the Boston-Washington city chain.
+
+@section 27.2 | World Population
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which among the following organizations released the World Population Report, 2021?
+(a) International Monetary Fund
+(b) United Nations Population Fund
+(c) World Health Organization
+(d) United Nations Development Programme
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+As per the 'U.N. Population Fund', the seven-billionth baby was born on October 31, 2011 in :
+(a) India
+(b) Indonesia
+(c) Philippines
+(d) Russia
+@ans (*)
+@note Several babies born on **31 October 2011** were named the "seven-billionth" (**Nargis** in UP, India; **Danica Camacho** in the Philippines; one in Russia), but the UN gave the title to **no single child**, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012, 2015; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The World Population Day commemorates the day on which the estimated world population become five billion. That day was :
+(a) 11 July 1987
+(b) 11 Sept. 1994
+(c) 11 Nov. 1995
+(d) 11 July 1997
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+What has been the theme of the 2017 World Population Day?
+(a) Be counted : Say what you need
+(b) Investing in teenage girls
+(c) Vulnerable population in emergency
+(d) Family planning : Empowering People, Developing Nations
+@ans (d)
+@end
+
+
+
+@table
+World population milestone | Date
+5 billion | **11 July 1987** → **World Population Day (11 July)**, from 1989
+6 billion | 12 October 1999
+7 billion | **31 October 2011**
+**8 billion** | **15 November 2022**
+2025 | About **8.2 billion** (UNFPA)
+2050 projection | About **9.7 billion**; peak about **10.3 billion** in the mid-2080s
+**State of World Population** report | **UNFPA**
+World Population Day 2017 theme | "**Family Planning: Empowering People, Developing Nations**"
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+About 50% of the world population is concentrated between the latitudes of :
+(a) 5° N and 20° N
+(b) 20° N and 40° N
+(c) 40° N and 60° N
+(d) 20° S and 40° S
+@ans (b)
+@note The belt **20°-40° N** holds **China, India, Pakistan, Bangladesh**, much of the USA, North Africa and the Middle East, about half of humanity.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.P.C.S. (Mains) 2010
+What percentage of the total population of the world resides in India as estimated in the year 2011?
+(a) 16
+(b) 16.5
+(c) 17.5
+(d) 18
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+The percentage of India's population in the total population of the world as per 2011 Census is :
+(a) 17.31
+(b) 18.50
+(c) 18.90
+(d) 19.05
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+According to the United Nations, in 2050, the estimated population of the world will be :
+(a) 9.00 billion (kharab)
+(b) 9.25 billion (kharab)
+(c) 8.92 billion (kharab)
+(d) 10.00 billion (kharab)
+@ans (d)
+@note When asked (2010) the UN projection for 2050 was about **9.2 billion** (option b). The source keys **(d) 10 billion**; the current UN projection is **9.7 billion** for 2050.
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+As per World Statistics 2008, what approximate percentage of world population lives in Asia ?
+(a) 61%
+(b) 63%
+(c) 65%
+(d) 66%
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2010
+Which of the following countries has the largest population?
+(a) Brazil
+(b) Bangladesh
+(c) Indonesia
+(d) Pakistan
+@ans (c)
+@end
+
+
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Arrange the following countries of the world in descending order of their population size.
+1. Brazil
+2. Indonesia
+3. Nigeria
+4. Pakistan
+Select the correct answer from the codes given below :
+Codes :
+(a) 1, 2, 4, 3
+(b) 2, 1, 3, 4
+(c) 4, 1, 2, 3
+(d) 2, 1, 4, 3
+@ans (*)
+@note The order when asked was **Indonesia > Brazil > Pakistan > Nigeria** (d). By 2025 it is **Indonesia > Pakistan > Nigeria > Brazil**, which matches no option, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Among the world's ten most populous countries, in Asia are :
+(a) 3
+(b) 4
+(c) 5
+(d) 6
+@ans (c)
+@note When asked (2008), **six** of the ten most populous countries were in Asia (d). The source keys **(c) 5**: the 2025 top ten are India, China, USA, Indonesia, **Pakistan**, Nigeria, Brazil, **Bangladesh**, Russia, Mexico (Russia counted with Europe).
+@end
+
+
+
+
+@table
+Most populous countries (2025) | Population
+1. **India** | About 146 crore (passed China in **April 2023**)
+2. China | About 141 crore
+3. USA | About 35 crore
+4. **Indonesia** | About 28.6 crore
+5. Pakistan; 6. Nigeria; 7. Brazil; 8. Bangladesh | -
+India's share of the world | **17.5%** (2011); about **18%** now; on **2.4%** of the land
+Asia's share | About **60%**
+Most populous in Africa | **Nigeria**
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Consider the following statements in relation to world population— I. Among the countries of the Southern Hemisphere, Brazil has the highest population. II. The continent of Asia the highest population growth rate. III. Africa is the world's most densely populated continent.
+Which of the above statement(s) is/are correct?
+(a) I and II both
+(b) Only II
+(c) I and III both
+(d) Only I
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Mains) 2011
+Africa's most populous country is:
+(a) Egypt
+(b) Ethiopia
+(c) Nigeria
+(d) South Africa
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+According to United Nations Statistics 2012, which one of the following has the largest population?
+(a) Marshall Islands
+(b) Dominica
+(c) St. Kitts
+(d) Monaco
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002, 2003; U.P. R.O./A.R.O. (Mains) 2014
+In which of the following, population growth was minimum during the year 1990-2000?
+(a) Australia
+(b) Europe
+(c) North America
+(d) South America
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Highest percentage of population growth has been noticed in the countries of the continent of :
+(a) Africa
+(b) Asia
+(c) Latin America
+(d) Oceania
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which one of the following countries has highest population growth rate?
+(a) Indonesia
+(b) Japan
+(c) Philippines
+(d) Singapore
+@ans (c)
+@end
+
+
+**Brazil** is the most populous country wholly in the Southern Hemisphere. **Africa** has the fastest population growth and **Asia** the highest density among continents; **Europe** has the slowest growth (now falling).
+
+@section 27.3 | Density, Sex Ratio and Religion
+
+@pyq U.P.P.C.S. (Mains) 2010
+Assertion (A) : The areas of low density of population are often over populated.
+Reason (R) : Their carrying capacity is less.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following countries has the lowest density of population ?
+(a) Canada
+(b) Finland
+(c) Norway
+(d) Russia
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which country has the lowest density of population?
+(a) Mongolia
+(b) Saudi Arabia
+(c) Iraq
+(d) Afghanistan
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2009, 2008, 2003; U.P. Lower Sub. (Pre) 2002
+Most densely populated country among the SAARC countries is :
+(a) Bangladesh
+(b) India
+(c) Maldives
+(d) Sri Lanka
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one among the following South Asian countries has the highest population density?
+(a) Sri Lanka
+(b) India
+(c) Nepal
+(d) Pakistan
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+The most densely populated country in East Asia is :
+(a) China
+(b) Japan
+(c) North Korea
+(d) South Korea
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The most densely populated country of South America is:
+(a) Bolivia
+(b) Colombia
+(c) Ecuador
+(d) Venezuela
+@ans (c)
+@end
+
+
+@table
+Density fact | Country
+Lowest density (countries) | **Mongolia** (about 2 per sq km); among big northern countries **Canada**
+Densest in SAARC | **Maldives**, then Bangladesh
+Densest in East Asia (options) | **South Korea**
+Densest in South America | **Ecuador**
+Low density yet over-populated? | **No**: low-density areas are not usually over-populated, though their carrying capacity is low
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following countries has the most favourable sex-ratio ?
+(a) Sweden
+(b) Switzerland
+(c) The Netherlands
+(d) Finland
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following gives the correct sequence of the sex-ratio (2011) in decreasing order ?
+(a) India, China, Pakistan, Bangladesh
+(b) Bangladesh, India, Pakistan, China
+(c) China, Pakistan, Bangladesh, India
+(d) Bangladesh, Pakistan, India, China
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+There is a fear of decreasing sex-ratio of the world in future due to increasing :
+(a) Urbanization
+(b) Expectation of life
+(c) Sex determination tests
+(d) Women's status
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The Population of the world in descending order, on the basis of religion is :
+(a) Buddhists, Christians, Muslims, Hindus
+(b) Christians, Muslims, Hindus, Buddhists
+(c) Christians, Buddhists, Hindus, Muslims
+(d) Buddhists, Muslims, Christians, Hindus
+@ans (b)
+@end
+
+
+**Sex ratio** is most favourable in the Baltic states and much of Europe (Finland among the options); in 2011 the order was **Bangladesh > Pakistan > India > China**. Sex-determination tests threaten the world sex ratio. By religion, **Christians > Muslims > Hindus > Buddhists**.
+
+@section 27.4 | World Urbanization
+
+@pyq U.P.P.C.S.(Pre) 2018
+According to the UN Department of Economic and Social Affairs (UN-DESA), what percentage of world's total population is currently living in urban areas?
+(a) 25
+(b) 35
+(c) 45
+(d) 55
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following is known as acceleration stage in the urbanization curve?
+(a) First stage
+(b) Second stage
+(c) Third stage
+(d) Fourth stage
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+As per United Nations data, what percentage of world's population was estimated to live in urban settlements in 2016?
+(a) 53.5
+(b) 54.5
+(c) 55.5
+(d) 56.5
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+According to an estimate, seventy percent of the world’s population would be localized in urban areas by the year :
+(a) 2040
+(b) 2050
+(c) 2060
+(d) 2070
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+Which one of the following is not a criterion to determine prosperity of cities according to U.N. Habitat Report on the State of World's Cities?
+(a) Productivity
+(b) Optimum population
+(c) Quality of life
+(d) Equality
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The World's population increased from its rural population in the year :
+(a) 2001
+(b) 2004
+(c) 2009
+(d) 2010
+@ans (*)
+@note The UN said the world became **half urban in 2008** (UNFPA, *State of World Population 2007*); 2008 is not among the options, so the source marks it (*).
+@end
+
+
+
+@table
+World urbanization fact | Figure
+Urban share | **55% (2018)**, about **57-58%** now; **68-70% by 2050**
+Urbanization curve | **Initial → acceleration (second stage) → terminal**
+UN-Habitat city prosperity | **Productivity, infrastructure, quality of life, equity, environment**; not "optimum population"
+Largest urban population | **China**
+Most urbanized continent | **Australia-Oceania** (Australia/New Zealand 86%), then North America
+Most urbanized region (options) | **Europe**
+Most urbanized countries | **Singapore**, Monaco, Kuwait (100%); in South America **Uruguay**; in West Asia **Kuwait**
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which one of the following countries has the largest urban population in the world ?
+(a) China
+(b) India
+(c) Indonesia
+(d) U.S.A.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P. U.D.A./L.D.A. (Pre) 2002
+The most urbanized continent is:
+(a) Africa
+(b) Australia
+(c) North Amercia
+(d) Europe
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+Which of the following regions is most urbanized?
+(a) East Asia
+(b) South Asia
+(c) Europe
+(d) Oceania
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+The total population of which one of the following countries is more than the urban population of India?
+(a) Indonesia
+(b) Brazil
+(c) Russia
+(d) U.S.A.
+@ans (*)
+@note When asked (2002) the **USA**'s population exceeded India's urban population (d). Today India's **urban population** (over 50 crore) is larger than the total population of every listed country, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P. Lower Sub. (Pre) 2002
+At present, the most urbanized country of the world is:
+(a) Germany
+(b) Japan
+(c) Singapore
+(d) U.S.A.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The most urbanized country of South America is:
+(a) Argentina
+(b) Brazil
+(c) Uruguay
+(d) Venezuela
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010; U.P. R.O./ A.R.O. (Mains) 2014
+Which one of the following is the correct descending order of the percentage of urbanization of the following South Asian countries ?
+Select the correct answer from the codes given below:
+1. Bangladesh
+2. India
+3. Pakistan
+4. Sri Lanka
+Codes :
+(a) 2,3,1 and 4
+(b) 3,2,1 and 4
+(c) 2,1,4 and 3
+(d) 4,2,3 and 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008, 2014
+Which one of the following is the most urbanized country of South Asia ?
+(a) India
+(b) Bhutan
+(c) Sri Lanka
+(d) Pakistan
+@ans (b)
+@note **Pakistan** was the most urbanized of the options when asked. The source keys **(b) Bhutan**, about 43% urban in 2024 (Pakistan 39%, India 35-37%, Sri Lanka 19%).
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following is the most urbanized country of West Asia?
+(a) Israel
+(b) Kuwait
+(c) Qatar
+(d) Saudi Arabia
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003
+The Largest urban agglomeration of the world is :
+(a) Mexico city
+(b) New York
+(c) London
+(d) Tokyo-Yokohama
+@ans (d)
+@end
+
+
+
+
+Among the South Asian options the order in Q45 was **Pakistan > India > Bangladesh > Sri Lanka**. **Tokyo-Yokohama** is the world's largest urban agglomeration (about 37 million), though UN 2025 estimates now put **Jakarta** and **Dhaka** close behind or ahead.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016; U.P.P.C.S. (Pre) 2002
+Given below are two statements, one is labelled as
+Assertion (A) and other as Reason (R).
+Assertion (A) : Urbanization follows industrialization.
+Reason (R) : In developing countries, urbanization is a movement in itself.
+Choose the correct answer from the codes given below.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Assertion (A) : The Asian cities are over-urbanized.
+Reason (R) : Their growth has outpaced their economic development.
+Select the correct answer from the code given below :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Given below are two statements, one is labelled as
+Assertion (A) and other as Reason (R).
+Assertion (A) : Cities in western countries have more females as compared to male.
+Reason (R) : In western countries, agriculture work is done with new technology in which men have more participation.
+Choose the correct answer from the code given below.
+Code :
+(a) (A) and (R) both are true and (R) is the correct explanation of (A)
+(b) (A) and (R) both are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+
+Urbanization usually **follows industrialisation**; in developing countries it also moves on its own (push from villages), so the Reason is true but not the explanation. Asian cities are **over-urbanized** because their growth has outpaced economic development. Western cities have more **women** because farm work, now mechanised, draws men to the countryside.
+
+@section 27.5 | Migration
+
+@pyq U.P.P.C.S. (Pre) 1999
+Assertion (A) : Two percent of people of the world live outside their country of birth.
+Reason (R): Oceania has highest percentage of migrants.
+Code :
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true, but R is not the correct explanation of A
+(c) A is true, but R is false
+(d) A is false, but R is true
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+At present, the migrant population as percentage of total population is the highest in :
+(a) Australia
+(b) Guyana
+(c) U.A.E.
+(d) Saudi Arabia
+@ans (c)
+@note When asked (1999), **Australia** (a) was the answer the source accepts for then. The source keys **(c) UAE**, where about **88%** of residents are migrants (World Migration Report 2024).
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The largest migrant population is found in :
+(a) Oceania
+(b) Africa
+(c) Europe
+(d) USA and Canada
+@ans (c)
+@end
+
+
+
+About **3.6%** of the world's people (about **304 million**, 2024) live outside their country of birth. **Europe** hosts the most migrants, then Asia; **India** is the largest **country of origin** (about 18 million emigrants).
+
+@section 27.6 | Fertility, Mortality and Welfare
+
+@pyq U.P.P.C.S. (Pre) 1999; U.P. U.D.A./L.D.A. (Pre) 2001
+Assertion (A) : China’s growth of population has dramatically slowed down.
+Reason (R) : Its fertility rate has declined due to one child per family policy.
+Codes :
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true, but R is not the correct explanation of A
+(c) A is true, but R is false
+(d) A is false, but R is true
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+According to the U.N. Populations Division the lowest fertility rate is in :
+(a) Australia
+(b) France
+(c) Italy
+(d) Sweden
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+The lowest fertility rate in the world is that of:
+(a) China
+(b) Italy
+(c) Sweden
+(d) USA
+@ans (a)
+@note When asked (2000), **Italy** had the lowest fertility of the options. The source keys **(a) China**, whose TFR fell to about **1.0** by 2024.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following countries has the highest birth rate ?
+(a) Afghanistan
+(b) Bangladesh
+(c) India
+(d) Pakistan
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Which of the following countries has the highest life expectancy (in years) at birth?
+(a) Japan
+(b) Denmark
+(c) United States of America
+(d) Switzerland
+@ans (a)
+@end
+
+@pyq U.P. P.S.C. (GIC) 2008
+Which of the following countries of Asia, is witnessing higher number of deaths than births per year?
+(a) Bahrain
+(b) Israel
+(c) Japan
+(d) Singapore
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+The maternal mortality rate in Asia is highest in:
+(a) Bangladesh
+(b) India
+(c) Indonesia
+(d) Nepal
+@ans (d)
+@end
+
+
+
+@table
+Fact | Country
+China's one-child policy | **1979-2015**; two-child 2016, three-child 2021
+Lowest TFR now | **South Korea (about 0.75)**; China about 1.0
+Highest birth rate (South Asia) | **Afghanistan**
+Highest life expectancy | **Japan** (Hong Kong also high)
+More deaths than births | **Japan** (since 2005), also Italy, most of Eastern Europe
+Highest MMR in Asia (options, 2001) | **Nepal**
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+In South Asia, the country with the largest percentage of aged population is :
+(a) Bhutan
+(b) India
+(c) Nepal
+(d) Sri Lanka
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+About eighty percent of the world’s population is not protected by :
+(a) Economic security
+(b) Food security
+(c) Child security
+(d) Social security
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+According to the World Development Report 2006, the poorest country of South Asia is :
+(a) Bangladesh
+(b) India
+(c) Pakistan
+(d) Sri Lanka
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which one of the following countries was the first to adopt family planning programme officially?
+(a) Brazil
+(b) USA
+(c) India
+(d) China
+@ans (c)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2011
+In which year was Family Planning Programme started in India?
+@ans 1952
+@end
+
+**India (1952)** was the first country to adopt an official **national family planning programme**. **Sri Lanka** has South Asia's oldest population. About **80%** of the world's people lack adequate **social security** (ILO). The WDR 2006 ranked **Bangladesh** the poorest of the listed South Asian countries.
+
+@up UP link: The symbolic seven-billionth baby **Nargis** was born at **Mall village, near Lucknow** (31 October 2011). With about 23-24 crore people, UP would rank about **sixth** among the world's countries, just behind Pakistan.
+
+@trap
+**Folk-urban continuum: Redfield, Mexico.** **Megalopolis: Gottmann.** **5 billion: 11 July 1987 (World Population Day).** **8 billion: 15 November 2022.** **UNFPA = State of World Population.** **50% of people: 20°-40° N.** **India most populous since 2023; 17.5% of world (2011).** **Mongolia sparsest; Maldives densest in SAARC.** **World half urban in 2008; 55% (2018); 68% by 2050.** **Australia most urbanized continent; Singapore most urbanized country.** **UAE highest migrant share.** **Japan: highest life expectancy, deaths exceed births.** **India first family planning (1952).**
+@end
+
+@heatmap
+
+@pattern
+World population questions were frequent in 1998-2015 and keyed to their year, so many are now outdated. The **2017-2023** papers asked UN report publishers, World Population Day themes and density and growth statements.
+@end
+
+@next
+Likely next angles: the **UN World Population Prospects 2024** (peak 10.3 billion), **UNFPA SWOP 2025** ("the real fertility crisis"), India passing China, **World Urbanization Prospects 2025** (new city definitions), the **World Migration Report 2024**, and record-low TFRs in East Asia.
+@end

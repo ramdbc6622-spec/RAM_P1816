@@ -1,0 +1,866 @@
+@chapter 10 | Computer and Information Technology
+@unit UNIT II · SCIENCE AND TECHNOLOGY
+
+@intro
+The computer questions test **basic literacy**: full forms (WWW, RAM, ROM, SIM, UPS, ICT, ATM), units of memory (**bit, byte, KB, GB**), hardware (CPU, input and output devices, printers, ICs made of silicon, generations of computers), software (operating systems, languages, assembler), networks (internet, protocols, modem, OSI layers, Wi-Fi and **Li-Fi**), **Indian supercomputers** (PARAM, Anupam) and threats (virus, bug, **Stuxnet**). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 10.1 | History and Supercomputers
+
+@pyq U.P.P.C.S. (Pre) 2007
+The first Computer was made by :
+(a) Bill Gates
+(b) Bill Clinton
+(c) Charles Babbage
+(d) Marconi
+@ans (c)
+@end
+
+@one
+Who is called the father of the computer?
+@ans Charles Babbage
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The body of mouse used in computers was designed about 40 years back. Then it was made of –
+(a) Aluminum
+(b) Plastic
+(c) Steel
+(d) Wood
+@ans (d)
+@end
+
+
+**Charles Babbage** (1791-1871) designed the Difference Engine and the **Analytical Engine** (1837), the first plan for a general-purpose computer, and is called the **father of the computer**; **Ada Lovelace** wrote the first program for it. The first electronic general-purpose computer was **ENIAC** (1946). **Douglas Engelbart**'s first mouse (1964) had a **wooden** shell.
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which one of the following is the main electronic component of the third generation computer?
+(a) Electronic tube
+(b) Transistor
+(c) Optical fiber
+(d) Integrated circuit
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Miniaturization of present day computers has been possible due to the use of –
+(a) Transistors
+(b) Integrated Circuit Chips
+(c) Nano-materials
+(d) Super Conductors
+@ans (b)
+@end
+
+
+@table
+Generation | Period | Main component
+First | 1940-56 | **Vacuum tubes** (ENIAC, UNIVAC)
+Second | 1956-63 | **Transistors**
+Third | 1964-71 | **Integrated circuits (ICs)**
+Fourth | 1971-present | **Microprocessors** (VLSI)
+Fifth | Present and future | **Artificial intelligence**, parallel processing, quantum computing
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004, 2006; U.P.P.S.C. (R.I.) 2014; U.P.P.C.S. (Pre) 2002, 2004
+What is the material used in the manufacturing of IC chips in computers?
+(a) Leaf
+(b) Chromium
+(c) Silicon
+(d) Gold
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following is the newest substance being used in the production of computer chips ?
+(a) Carbon
+(b) Gallium Arsenide
+(c) Gallium Silicate
+(d) Silicon
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+ICs are classified on the basis of :
+(a) Number of transistors
+(b) Type of computers
+(c) Manufacturing Company
+(d) Number of diodes
+@ans (a)
+@end
+
+
+An **integrated circuit** (Jack Kilby, 1958) packs many transistors on one **silicon** chip; ICs are graded by the number of transistors: SSI, MSI, LSI, **VLSI**, ULSI. Silicon is cheap, abundant (from sand) and a good semiconductor; gallium arsenide is used for faster or optical chips.
+
+@pyq U.P.P.C.S. (Mains) 2004
+First indigenously developed Indian supercomputer is named as
+(a) Gati
+(b) Dharam
+(c) Shakti
+(d) Param
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006; U.P.P.C.S. (Pre) 1999, 2009
+Which one of the following pairs is not matched ?
+(a) Y2K - Computer
+(b) Arthritis - Uric acid
+(c) Noise pollution - Decibel
+(d) PARAM 10,000 - Land to land missile
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is a supercomputer project developed by Bhabha Atomic Research Centre ?
+(a) PARAM Padma
+(b) Chipps
+(c) Flosolver Mark
+(d) Anupam
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 1998
+The world's fastest computer has been able to perform (as of Dec. 1996) :
+(a) 10^{6} operations per second
+(b) 10^{9} operations per second
+(c) 10^{12} operations per second
+(d) 10^{15} operations per second
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+The fastest computer in the world is –
+(a) Param-10000
+(b) J-8
+(c) Yenha-3
+(d) T-3A
+@ans (*)
+@note None of the options was the world's fastest machine at the time (China's **Tianhe-1A** led the TOP500 in 2010), so the source marks the question (*). The fastest today is **El Capitan** (USA, about 1.7 exaflops, from November 2024).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Supercomputer ‘Magic Cube’ inaugurated recently has been prepared by which of the following countries?
+(a) U.S.A.
+(b) China
+(c) Germany
+(d) Japan
+@ans (b)
+@end
+
+
+@table
+Supercomputer | Developer | Note
+**PARAM 8000** (1991) | **C-DAC, Pune** | India's first indigenous supercomputer; PARAM 10000 (1998), PARAM Padma, PARAM Siddhi-AI, PARAM Rudra (2024)
+**Anupam** | **BARC** | Parallel supercomputers for nuclear research
+**Flosolver** | NAL, Bengaluru | Aerodynamics
+**Pratyush** and **Mihir** | IITM Pune / NCMRWF Noida | Weather and climate (2018)
+**AIRAWAT** | C-DAC | AI supercomputer under the National Supercomputing Mission
+**Arka** and **Arunika** (2024) | IITM / NCMRWF | New weather supercomputers
+@end
+
+The **teraflop** (10^{12} operations per second) mark was first passed by **ASCI Red** (Intel, USA) in December 1996. India's **National Supercomputing Mission** (2015) builds PARAM systems across institutes. **Magic Cube** (Dawning 5000A, 2008) was Chinese.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which of the following would be the smallest and fastest computer imitating brain working –
+(a) Supercomputer
+(b) Quantum computer
+(c) Param-10,000
+(d) IBM chips
+@ans (b)
+@end
+
+
+A **quantum computer** uses **qubits**, which can be 0 and 1 at once (superposition), and can be vastly faster for certain problems. India's **National Quantum Mission** (2023) aims at 50-1,000 qubit machines by 2031.
+
+@pyq U.P.P.C.S. (Pre) 2000
+Y2K problem relates to :
+(a) Finding out a solution to control computer virus.
+(b) To establish uniformity with the computers operating all over the world.
+(c) To find out a suitable replacement when the last two digits of the year become zero.
+(d) To make drastic change in the working of computers after an experience of sixty years experience.
+@ans (c)
+@end
+
+
+@section 10.2 | Hardware and Memory
+
+@pyq U.P.P.C.S.(Pre) 2012
+The most important part of a computer is –
+(a) C.P.U.
+(b) Keyboard
+(c) Disc
+(d) Printer
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Intel Core i9 is a type of _____.
+(a) Processor
+(b) Motherboard
+(c) Hard disk
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+After the double click of the mouse, the information goes to –
+(a) Documents
+(b) Video Card
+(c) C.P.U.
+(d) Hard Drive
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following groups have only input devices?
+(a) Mouse, Keyboard, Printer
+(b) Mouse, Keyboard, Projector
+(c) Mouse, Keyboard, Monitor
+(d) Mouse, Keyboard, Scanner
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+A word document, video or MP3 is a –
+(a) Folder
+(b) Template
+(c) File
+(d) Icon
+@ans (c)
+@end
+
+
+
+@table
+Input devices | Output devices | Both
+**Keyboard, mouse, scanner**, joystick, light pen, microphone, webcam, barcode reader, OCR, MICR (cheques) | **Monitor, printer, projector**, speaker, plotter | Touchscreen, modem, network card
+@end
+
+@one
+Which of the following statements is correct?
+@ans CPU refers to Central Processing Unit
+@end
+
+The **CPU** (the "brain") has the **ALU** (arithmetic and logic), the **control unit** and registers. Intel Core i3/i5/i7/i9 and AMD Ryzen are **processors**.
+
+@pyq U.P.P.C.S. (Mains) 2006
+The memory of the computer is measured by –
+(a) Bits
+(b) Ohms
+(c) Amperes
+(d) Volts
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The length of a word in computers is measured by –
+(a) Bits
+(b) Byte
+(c) Millimetre
+(d) Metre
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+One byte equals to how many bits ?
+(a) 8
+(b) 16
+(c) 24
+(d) 32
+@ans (a)
+@end
+
+
+@one
+Which of the following relation is correct?
+@ans 1 Gigabyte = 1024 Megabytes
+@end
+
+@one
+In the binary system, one kilobyte (KB) is equal to
+@ans 1024 bytes
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+The term bit is the short form of
+(a) Megabyte
+(b) Binary Language
+(c) Binary Digit
+(d) Binary Number
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+A MAC (Media Access Control) address is ________ bits long.
+(a) 128
+(b) 48
+(c) 64
+(d) 32
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Which of the following is a self complementing code ?
+(a) 8421 code
+(b) 5211 code
+(c) Gray code
+(d) Binary code
+@ans (b)
+@end
+
+
+@table
+Unit | Size
+**Bit** (binary digit) | 0 or 1, the smallest unit
+Nibble | 4 bits
+**Byte** | **8 bits** (one character)
+Kilobyte (KB) | 1,024 bytes
+Megabyte (MB) | 1,024 KB
+Gigabyte (GB) | 1,024 MB
+Terabyte (TB) | 1,024 GB
+Petabyte, exabyte, zettabyte | Each 1,024 times the one before
+@end
+
+A **MAC address** is a 48-bit (6-byte) hardware address fixed in a network card; an IPv4 address is 32 bits and IPv6 is 128 bits. **5211, 2421 and 3321** are *self-complementing* codes (the 9's complement of a digit is got by inverting its bits).
+
+@pyq U.P.P.C.S. (Mains) 2012
+In a computer, the permanent memory is called –
+(a) RAM
+(b) ROM
+(c) CPU
+(d) CDROM
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+The content of computer memory which is non-volatile, even when the power goes off is:
+(a) REM
+(b) RAM
+(c) ROM
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013; U.P.P.C.S. (Pre) 2002-2003
+In computer terminology, RAM stands for –
+(a) Recent and Ancient Memory
+(b) Random Access Memory
+(c) Read And Memorise
+(d) Recall All Memory
+@ans (b)
+@end
+
+@one
+Which short-term memory loses its data automatically when the power of the computer is turned off?
+@ans RAM
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Which of the following is the fastest memory ?
+(a) Hard disk
+(b) DVD ROMS
+(c) Cache memory
+(d) Static RAM
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not correct statement about 'Flash memory' ?
+(a) It is used for information storage in devices like digital cameras, laptops etc.
+(b) It can operate in extended temperature range of - 400C to + 85°C.
+(c) It is cheaper than the normal mechanical disk drives.
+(d) It consumes less power.
+@ans (c)
+@end
+
+
+@table
+Memory | Nature
+**RAM** (Random Access Memory) | Working memory; **volatile** (lost when power goes off)
+**ROM** (Read Only Memory) | **Non-volatile**, permanent; holds the start-up (BIOS) program
+**Cache** | Very small, **fastest**, between CPU and RAM
+Registers | Inside the CPU, faster still
+Hard disk, SSD | Secondary, permanent storage
+**Flash memory** | Non-volatile chip memory (pen drives, SSDs, cameras); faster and tougher, but costlier per GB than a hard disk
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Computer hardware, which can store a very large quantity of data, is called :
+(a) Magnetic tape
+(b) Disk
+(c) Both (a) and (b)
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Index hole is related to –
+(a) Hard Disk
+(b) Floppy Disk
+(c) Printer
+(d) CPU
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+IRQ 6 is commonly assigned to :
+(a) Sound Card
+(b) Com 1
+(c) Floppy Drive Controller
+(d) LPT 1
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+In which port do you plug-in the cable of your keyboard?
+(a) VGA Port
+(b) Ethernet Port
+(c) USB Port
+(d) Sanpedro Port
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S.(Pre) 2009
+Which of the following laser ray is used in laser printers?
+(a) Dye laser
+(b) Semiconductor laser
+(c) Excimer laser
+(d) Gas laser
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Daisy wheel printer is a type of –
+(a) Laser Printer
+(b) DOT Matrix Printer
+(c) Manual Printer
+(d) Impact Printer
+@ans (d)
+@end
+
+
+**Laser printers** use a **semiconductor laser** to draw the page on a drum; **inkjet** printers spray ink; **dot-matrix, daisy-wheel and line** printers strike a ribbon and are **impact** printers. The keyboard used to plug into a PS/2 port; today it uses **USB**.
+
+@section 10.3 | Software and Languages
+
+@pyq U.P. Lower Sub. (Mains) 2013
+A Program that controls a computer's basic functions?
+(a) Operating System
+(b) Motherboard
+(c) Hard Drive
+(d) CPU
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is not an Operating System ?
+(a) Microsoft Office
+(b) Linux
+(c) Windows
+(d) Unix
+@ans (a)
+@end
+
+
+The **operating system** (Windows, Linux, Unix, macOS, Android, iOS; India's **Maya OS** for defence, **BharOS** for phones) manages hardware and runs programs. **MS Office** is application software. **Multitasking** is running several applications at once.
+
+@pyq U.P. Lower Sub. (Mains) 2015
+The ability of an operating system to run more than one application at a time is called :
+(a) Multiuser computing
+(b) Time sharing
+(c) Multiprogramming
+(d) Multitasking
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2002, 2003
+Which one of the following is scientific computer language ?
+(a) BASIC
+(b) COBOL
+(c) FORTRAN
+(d) PASCAL
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Mains) 2013
+BASIC is a ......language ?
+(a) A procedural
+(b) An object oriented
+(c) Both (a) and (b)
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The work of assembler is –
+(a) Convert basic language into machine language
+(b) Convert high level language into machine language.
+(c) Convert assembly language into machine language
+(d) Convert assembly language into high level language.
+@ans (c)
+@end
+
+
+@table
+Language / tool | Use
+**FORTRAN** (1957, IBM) | Formula Translation: **scientific** computing
+**COBOL** | Business data processing
+**BASIC** | Beginners' **procedural** language
+**C** (Dennis Ritchie) | Systems programming, operating systems
+C++, **Java**, Python | **Object-oriented** programming
+**Assembler** | Assembly language → machine language
+**Compiler** | Whole high-level program → machine language at once
+**Interpreter** | High-level program → machine language line by line
+@end
+
+@pyq U.P.P.C.S (Pre) 1993, 2010
+Computer virus is a –
+(a) Fungus
+(b) Bacterium
+(c) IC 7344
+(d) Software program
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (GIC) 2010
+Which one of the following expresses error in computer data –
+(a) Chip
+(b) Byte
+(c) Bug
+(d) Bit
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+‘Stuxnet’ worm detected in the computers of Iran is –
+(a) A Hardware to speed up internet working.
+(b) A malicious program to sabotage nuclear centrifuges.
+(c) A software to off-set hacking.
+(d) A device to undertake BPO.
+@ans (b)
+@end
+
+
+A **virus** is a malicious program that copies itself into other files; a **worm** spreads by itself across networks; a **trojan** hides inside useful-looking software; **ransomware** locks data for payment. **Stuxnet** (found 2010) was a worm that damaged Iran's uranium-enrichment **centrifuges** at Natanz, the first known cyber-weapon. A **bug** is an error in a program. **CERT-In** is India's national cyber-security agency.
+
+@pyq UP.P.C.S. (Mains) 2004
+Talaash is :
+(a) a navy aircraft
+(b) a recently developed missile
+(c) a multimedia portal on Internet and an optical character recognition (OCR) software in Devanagari developed by C-DAC.
+(d) a low-cost PC-based super computing platform
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Mains) 2009
+To safeguard against cyber attacks and threats of data theft, the ‘Centre for Development of Advanced Computing’ has developed a new software called –
+(a) AVARODH
+(b) NAYAN
+(c) TRIKAL
+(d) None of these
+@ans (b)
+@end
+
+
+@section 10.4 | Internet and Networks
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004
+The computer system which links and stores information among different countries in the world through a satellite is known as –
+(a) Apollo
+(b) INSAT 2D
+(c) Internet
+(d) Nicnet
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Internet system uses which of the following topologies?
+(a) Bus
+(b) Ring
+(c) Star
+(d) Tree
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Mains) 2015
+The internet works on :
+(a) Circuit switching only
+(b) Packet switching only
+(c) Both circuit and packet switching
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+The layer between Physical and Network layer is known as?
+(a) Data Link Layer
+(b) Transport Layer
+(c) Session Layer
+(d) None of the above
+@ans (a)
+@end
+
+The internet breaks data into **packets** that travel by different routes and are rejoined (**packet switching**); the old telephone network kept a dedicated line open (**circuit switching**). The **OSI model** has seven layers, bottom to top: **Physical, Data Link, Network, Transport, Session, Presentation, Application** ("Please Do Not Throw Sausage Pizza Away").
+
+@pyq U.P. Lower Sub. (Mains) 2015
+A set of rules that governs data communication is called:
+(a) Protocols
+(b) Standards
+(c) RFCS
+(d) None of the above
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which one of the following is not infotech terminology –
+(a) Cyberspace
+(b) Upload
+(c) Optical storage
+(d) Modem
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is not an infotech terminology?
+(a) Login
+(b) Modem
+(c) Password
+(d) Pinaka
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following is a part of Infotech terminology?
+(a) Protocol
+(b) Login
+(c) Archie
+(d) All of the above
+@ans (d)
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which infotech terminology used to find out the User’s E-mail address ?
+(a) Login
+(b) Password
+(c) Finger
+(d) Archie
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P.P.C.S. (Pre) 2015
+The full form of www is –
+(a) Web Working Window
+(b) World Working Web
+(c) World Wide Web
+(d) Window World Wide
+@ans (c)
+@note The source prints the key as (d), an obvious misprint: WWW stands for **World Wide Web**, option (c).
+@end
+
+@one
+Who is considered the inventor of the World Wide Web (www)?
+@ans Tim Berners-Lee
+@end
+
+**Tim Berners-Lee** created the Web at **CERN** in 1989-91: web pages (HTML) linked by hyperlinks and fetched with **HTTP**. The internet itself grew from the US **ARPANET** (1969). A **protocol** is a set of rules for data communication (TCP/IP, HTTP, FTP, SMTP). **Archie** was the first internet search tool, and **Finger** looked up a user's details.
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P.P.C.S. (Mains) 2007; U.P.; Lower Sub. (Mains) 2015; U.P. Lower Sub. (Pre); 2013; U.P.U.D.A./L.D.A. (Pre) 2002
+The device by which data are transferred by telephone with the help of binary signals is –
+(a) Modem
+(b) Analog
+(c) Monitor
+(d) O.C.R.
+@ans (a)
+@end
+
+
+@one
+Which of the following is necessary for exchanging data among computers all over the world through telephone lines?
+@ans Modem
+@end
+
+@one
+Which system or arrangement connects a microcomputer to a telephone?
+@ans Modem
+@end
+
+A **modem** (*modulator-demodulator*) converts a computer's digital signals into analogue signals for a telephone line and back.
+
+@pyq U.P.P.C.S. (Mains) 2011
+'Bluetooth' technology allows –
+(a) Signal transmission on mobile phones only
+(b) Landline phone to mobile phone communication
+(c) Satellite television communication
+(d) Wireless communication between equipments
+@ans (d)
+@end
+
+
+@pyq U.P. Lower Sub. (Mains) 2015
+The first railway station in the country to provide Google's free public Wi-Fi service is :
+(a) New Delhi Railway Station
+(b) Mumbai Central Railway Station
+(c) Howrah Railway Station
+(d) Chennai Railway Station
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following statements is not true about Li-Fi?
+(a) The full form of Li-Fi is 'Light Fidelity'
+(b) The successful test of Li-Fi in India was done by Ministry of Information and Broadcasting on 29th January, 2018
+(c) Li-Fi can send 10 GB/sec. data up to 1 km circumference
+(d) It is operated by optical fibre network
+@ans (b) & (d)
+@note The source gives **(b) & (d)**. Li-Fi sends data through flickering **LED light**, not optical fibre, and India's first successful trial (January 2018) was by the **Ministry of Electronics and IT** with IIT Madras, not the I&B Ministry.
+@end
+
+**Bluetooth** is short-range wireless (radio, 2.4 GHz) between devices; **Wi-Fi** is wireless local networking by radio; **Li-Fi** (Harald Haas, 2011) uses **visible light**. Google and RailTel's free station Wi-Fi began at **Mumbai Central** in January 2016.
+
+@pyq U.P. Lower Sub. (Mains) 2013
+What kind of digital files can be attached to the e-mail?
+(a) Music
+(b) Documents
+(c) Photos
+(d) All of the above
+@ans (d)
+@end
+
+@one
+Which of the following types of files can be sent through e-mail attachment?
+@ans Text files, audio files, and video files, etc.
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2013
+'Sky Drive' is the name of Cloud Computing Service of which one of the following companies ?
+(a) Vodafone
+(b) BSNL
+(c) Microsoft
+(d) None of the above
+@ans (c)
+@end
+
+
+@section 10.5 | Full Forms and IT in Governance
+
+@pyq U.P.P.C.S.(Pre) 2012
+The full form of SIM is :
+(a) Subscriber Identity Module
+(b) Subscriber Identity Machine
+(c) Self Identity Machine
+(d) Self Identity Module
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+ICT stands for :
+(a) Information and Computer Technology
+(b) Information & Communications Technology
+(c) Information Code Techniques
+(d) Integrated Circuit Technology
+@ans (b)
+@end
+
+@pyq U.P.R.O/A.R.O. (Mains) 2014
+A.T.M. means –
+(a) Automatic Transaction Machine
+(b) Automatic Transfer Machine
+(c) Automated Teller Machine
+(d) Advance Transaction Machine
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The full form of UPS is
+(a) Uninterrupted Power Supply
+(b) Universal Power Supply
+(c) Universal Power Service
+(d) Universal Power Saving
+@ans (a)
+@end
+
+@table
+Short form | Full form
+**WWW** | World Wide Web
+**HTTP / HTTPS** | HyperText Transfer Protocol (Secure)
+**URL** | Uniform Resource Locator
+**RAM / ROM** | Random Access Memory / Read Only Memory
+**CPU / ALU** | Central Processing Unit / Arithmetic Logic Unit
+**SIM** | Subscriber Identity Module
+**UPS** | Uninterruptible Power Supply
+**ICT** | Information and Communication Technology
+**ATM** | Automated Teller Machine
+**OCR** | Optical Character Recognition
+**Modem** | Modulator-Demodulator
+**PDF** | Portable Document Format
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Bibliometry is :
+(a) Function of Library Network
+(b) Information Management Service
+(c) Information Management Tool
+(d) Library Service
+@ans (c)
+@end
+
+
+@pyq U.P. PCS (Mains) 2016
+World Computer Literacy Day is observed on :
+(a) 16th August
+(b) 2nd December th
+(c) 5 June
+(d) 24th October
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Vidya Vahini Project lays emphasis on which of the following ?
+(a) Computer Education
+(b) Value Education
+(c) Environmental Education
+(d) Skill Development
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following statements are correct regarding ICT based e-Governance?
+1. e-Governance reduces the transparency of Government.
+2. e-Governance reduces the cost of Government.
+3. e-Governance increases citizens input into Government.
+4. e-Governance increases bureaucratic red tapism.
+Select the correct answer from the codes given below:
+(a) 2 and 4
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) 2, 3 and 4
+@ans (b)
+@end
+
+
+E-governance makes government **cheaper, faster and more transparent** and lets citizens give more input; it reduces, not increases, red tape. Indian examples: **DigiLocker, UMANG, e-District, CoWIN, GeM**, the **Digital India** programme (2015) and **UPI**. **Vidya Vahini** (2002) was a scheme to give schools computers and connectivity.
+
+@up UP link: UP uses **e-District** for certificates, **IGRS (Jansunwai)** for grievances, and **Nivesh Mitra** for business approvals; **Noida** is the state's IT and electronics hub, with a large share of India's mobile-phone manufacturing.
+
+@trap
+**Charles Babbage** = father of the computer. **IC = third generation**, microprocessor = fourth. **1 byte = 8 bits**; 1 KB = **1,024** bytes. **RAM is volatile**, ROM is not; **cache** is fastest. **Microsoft Office is not an operating system.** **FORTRAN = scientific**, BASIC = procedural. An **assembler** converts assembly to machine code. Internet = **packet switching**. **Li-Fi uses light**, not fibre. **Stuxnet** attacked Iranian centrifuges.
+@end
+
+@heatmap
+
+@pattern
+Computer questions are the most numerous single block in General Science, driven by the **Lower Subordinate (Mains)** papers of 2013 and 2015, which asked basic terminology in bulk. The Prelims now ask one or two (2023-2024: MAC address, i9 processor, ROM, input devices, e-governance), mostly at a beginner level.
+@end
+
+@next
+Likely next angles: **AI** terms (LLM, generative AI, the **IndiaAI Mission** and its GPU compute), **quantum computing** (National Quantum Mission), **semiconductor fabs** (Dholera), **5G/6G**, **cyber-security** (CERT-In, ransomware, deepfakes, the **DPDP Act 2023**), **UPI** and digital public infrastructure, **blockchain**, and **cloud** services.
+@end

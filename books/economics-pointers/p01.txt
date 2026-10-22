@@ -1,0 +1,106 @@
+@chapter 1 | Nature of the Economy and National Income
+@unit UNIT I · ECONOMIC DEVELOPMENT
+@meta Built from 46 UPPSC questions (1990–2024). Focus: mixed economy, growth vs development, who estimates national income, growth records, savings.
+
+@hot
+- India = **mixed economy** (public and private sectors co-exist) {1990, 1990, 1999, 2006, 2006, 2013, 2013, 2016}
+- Highest growth year (in key): **2006-07** {1997, 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2008, 2013, 2014}
+- National income estimated by **CSO**, now the **NSO** (2019) {1995, 2004, 2006, 2008, 2010, 2012, 2023}
+- First per capita income estimate: **Dadabhai Naoroji**, Rs. 20 (1867-68) {2007, 2013}
+- **Hindu rate of growth** = growth of **national income** (~3.5%) {1996, 2004, 2006}
+- **Household sector** saves the most {1998, 2001, 2004}
+@end
+
+@section 1.1 | Nature of the Economy
+- Mixed economy: **public and private sectors co-exist** {1990, 1999, 2006, 2013}
+- India: **mixed economy** {1990, 2006, 2013, 2016}
+- India underdeveloped and mixed (true); Keynes "father of economics" (false; Adam Smith) {2024}
+- Underdeveloped economy: **low per capita income, low capital formation** {2017}
+- Developing signs: **agriculture, disguised unemployment, poor human capital** {2017}
+- India: a **developing** economy {2011}
+- Features: **agriculture dominant, low per capita income, mass unemployment** {2004}
+- Not a feature: **lack of natural resources** {2004}
+- Not a second-generation reform: **legal system reforms** {2009}
+- Indian model serves **state and person both** {2013}
+- Not an economic activity: **voluntary social service** {2023}
+
+@section 1.2 | Growth vs Development
+- Prices and money income both double: real income **unchanged** {2004}
+- Amartya Sen: **people-oriented**, security for the poorest, safeguards on global integration {1999}
+- "Plan for people, not commodities": **Amartya Sen** {2004}
+- Hindu rate of growth: **national income** growth {1996, 2004, 2006}
+- Labour's GNP share falls because **wages lag prices** {2008}
+- **Development-constructive change, growth-GDP, sustainable-environment, quality of life-health** {2010}
+- 1991 NEP strategy: **all** (LPG) {2015}
+- Not a growth factor: **technocrats and bureaucrats** {2021}
+- Best growth measure: **per capita product** {2013}
+- Development = better living; per capita income alone not enough (R explains A) {2024}
+- Standard of living: **per capita income** {2013}
+
+@table
+Term | Meaning
+GDP | Output within the country
+GNP | GDP + net factor income from abroad
+NNP | GNP - depreciation
+National income | NNP at factor cost
+Per capita income | National income ÷ population
+@end
+
+@section 1.3 | Who Measures
+- Rs. 20 per capita (1867-68): **Dadabhai Naoroji** {2007, 2013}
+- National Income Committee (1949): **P.C. Mahalanobis** {2015}
+- Estimated by **CSO** (now **NSO**); **NSO** {1995, 2004, 2006, 2008, 2010, 2012, 2023}
+- Capital formation data: **CSO/NSO** (with RBI) (*) {2008}
+- New base year (2015): **2011-12** {2015}
+- Development needs many angles (true); govt focuses on micro issues (false) {2015}
+
+@flow Measuring India's income
+1867-68 | Naoroji: Rs. 20 per head
+1931-32 | V.K.R.V. Rao: first scientific estimate
+1949 | National Income Committee (Mahalanobis)
+1951 | CSO set up
+2019 | CSO + NSSO = NSO
+2015 / next | Base 2011-12; new base 2022-23
+@end
+
+@section 1.4 | Growth and States
+- Per capita income 2009-10: about **Rs. 46,500** {2011, 2013}
+- Fastest 1990s year: **1999-2000** {2002, 2003}
+- Highest growth (key): **2006-07** {1997, 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2008, 2013, 2014}
+- RBI estimate for 2002-03: **5-5.5%** {2002}
+- ADB forecast for 2005: **6.9%** {2004}
+- Largest state economy: **Maharashtra** {2023}
+- Per capita 1998-99: **Punjab, Maharashtra, Gujarat, UP** {2004}
+- Lowest per capita income: **Bihar** {1993, 2004, 2008}
+- Highest per capita (then): **Punjab** {1994}
+- Highest GSDP growth 2010-11: **Bihar** {2009}
+
+@section 1.5 | Savings
+- Capital formation depends on savings and institutions; investment essential (both) {2021}
+- Slow per capita growth: **population, prices, slow farm and industry** (1, 2, 3) {2001}
+- Highest savings rate of the 2000s: **2007-08** {2009}
+- Savings ratio 2006-07: **above 32%** of GDP {2008}
+- Biggest saver: **household sector** {2001, 2004}
+- Household savings mostly in **physical assets** {2009}
+- Savings order: **household, private corporate, public enterprises, government** {1998}
+
+@trap
+- **Naoroji** = first estimate; **Mahalanobis** = 1949 committee.
+- **NSO** (2019) now estimates national income.
+- **Hindu rate** (Raj Krishna) = slow national income growth.
+@end
+
+@up UP is India's **third-largest state economy** (after Maharashtra and Tamil Nadu in recent data) and aims at a **USD 1 trillion** economy; its per capita income is still well below the national average.
+
+@last
+- India = mixed, developing economy
+- Growth = GDP; development = growth + change
+- Per capita income = living standard
+- Naoroji: Rs. 20 (1867-68)
+- 1949 committee: **Mahalanobis**
+- NSO (2019) estimates income; base **2011-12**
+- Hindu rate = national income (~3.5%)
+- Maharashtra = largest state economy; Bihar = lowest per head
+- Households save most; mostly physical assets
+- Amartya Sen: plan for people
+@end

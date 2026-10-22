@@ -1,0 +1,68 @@
+@chapter 39 | Special Provisions Relating to Certain Classes
+@unit UNIT IX · SPECIAL PROVISIONS AND MISCELLANY
+@meta Built from 8 UPPSC questions (1991–2023). Focus: Part XVI articles, SC/ST seats, Anglo-Indian lapse, National Commissions, who notifies SCs and Scheduled Areas.
+
+@hot
+- **Anglo-Indian** nomination to Lok Sabha: **Art 331**; lapsed **25 January 2020** {2010, 2013, 2015, 2015, 2017}
+- SC/ST seats in Lok Sabha: **Art 330**; no reservation in **Rajya Sabha** or Councils {1998, 2010}
+- **President** notifies SCs (Art 341) and Scheduled Areas {2006, 2016, 2023}
+@end
+
+@section 39.1 | Part XVI Map
+- Part XVI (Arts 330-342): **reservation for SCs, STs and Anglo-Indians** {2004}
+
+@table
+Article | Provision
+330 / 332 | SC-ST seats in Lok Sabha / Assemblies
+330A, 332A, 334A | Women's one-third (106th, 2023)
+331 / 333 | Anglo-Indians in LS / Assemblies (lapsed 2020)
+334 | Time limit (SC-ST seats till 2030)
+335 | SC-ST claims to services
+338 / 338A / 338B | NCSC / NCST (89th) / NCBC (102nd)
+340 | Backward classes commission (Kalelkar, Mandal)
+341 / 342 / 342A | President notifies SCs / STs / SEBCs
+@end
+
+@section 39.2 | Seats
+- ST seats in the Lok Sabha: **Art 330** {2010}
+- No caste reservation: **Rajya Sabha** and **Legislative Councils** {1998}
+
+@section 39.3 | Anglo-Indians
+- Anglo-Indian LS nomination: **Art 331** (lapsed 2020) (*) {2010, 2013, 2015, 2015, 2017}
+
+@section 39.4 | Commissions
+- National Commissions for SCs and STs: **Arts 338 and 338A** {2010, 2013}
+
+@flow Commissions for classes
+NCSC (Art 338) | Joint commission split in 2003
+NCST (Art 338A) | 89th Amendment, 2003
+NCBC (Art 338B) | Statutory 1993; constitutional 2018 (102nd)
+@end
+
+@section 39.5 | Who Decides
+- SC list specified by the **President** (Art 341) {2006, 2016}
+- Most STs by number: **Madhya Pradesh** {1991}
+
+@section 39.6 | Scheduled Areas
+- President notifies Scheduled Areas; States with them need a **Tribes Advisory Council** (both) {2023}
+
+@trap
+- **Rajya Sabha** has no SC/ST or women's reservation.
+- Art 331 is not deleted; it **lapsed** via Art 334 (104th Amendment).
+- TAC = **Fifth** Schedule; District Councils = **Sixth** Schedule.
+@end
+
+@up UP has **17 SC-reserved Lok Sabha seats** and the largest SC population of any State. UP's STs are few (Tharu, Buksa, Gond and others); Sonbhadra has the State's highest ST share.
+
+@last
+- Part XVI: Arts **330-342A**
+- **330** LS seats; **332** Assembly seats
+- **331** Anglo-Indians; lapsed **25 Jan 2020**
+- **334**: SC/ST seats till 2030
+- **338** NCSC; **338A** NCST; **338B** NCBC (2018)
+- **341** President notifies SCs; **342** STs
+- No reservation in RS or Councils
+- Most STs by number: **MP**
+- TAC with Fifth Schedule
+- Women's quota: **330A, 332A** (106th)
+@end

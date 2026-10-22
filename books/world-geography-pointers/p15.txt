@@ -1,0 +1,92 @@
+@chapter 15 | World Climate and Forests
+@meta Built from 37 UPPSC questions (1996–2025). Focus: forest types and trees, Mediterranean vegetation names, climate-region matching, Mediterranean and West European climates, records.
+
+@hot
+- **Mediterranean climate**: rain in **winter** from the **westerlies**; dry summer {2004, 2004, 2022, 2024}
+- Forest-tree matching: **monsoon-teak and sal, equatorial-mahogany, Mediterranean-olive, coniferous-pine and spruce** {2013, 2021}
+- Mediterranean scrub names: **maquis, chaparral (California), fynbos (S. Africa), matorral (Chile)** {2019}
+- Climate-region matching: **equatorial-Congo, Mediterranean-California, monsoon-Bangladesh, savanna-Sudan** {1999, 2002, 2003}
+- Records: wettest **Mawsynram**, coldest **Verkhoyansk** {1997, 1999, 2001, 2004}
+@end
+
+@section 15.1 | Forests
+- Highest forest share (of options): **Japan** {2010}
+- Constitution requires **60%** forest cover: **Bhutan** {2016}
+- Largest and densest forests: **Brazil** {2004}
+- Tropical rainforest: **Congo Basin** {1996}
+- Dense hot forest in Africa: **Ivory Coast** {1998}
+- **Selva**: **broadleaf evergreen** {2019}
+- Brazil: rainforests are **selvas**; fertile **terra roxa** (both) {2025}
+- Soil erosion a big problem in **tropical rainforests** {1998}
+- **Taiga**: **temperate (cold)** region {2016}
+- No conifers in **Amazonia** {2001}
+- **Monsoon-teak and sal, equatorial-mahogany and rosewood, Mediterranean-plum and olive, coniferous-pine and spruce** {2013}
+- Not Mediterranean: **teak** {2021}
+- **Maquis-Mediterranean coast, fynbos-southern Africa, chaparral-California, matorral-Chile** {2019}
+- **Epiphytes-equatorial, acacia-Sahara, baobab-savanna, cedars-Mediterranean** {2019}
+
+@table
+Forest | Trees
+Equatorial (selva) | Mahogany, rosewood, ebony, rubber
+Tropical monsoon | Teak, sal, bamboo
+Savanna | Acacia, baobab
+Mediterranean | Olive, cork oak, cedar, citrus
+Taiga | Pine, spruce, fir, larch
+@end
+
+@section 15.2 | Climate Types
+- Main factor: **latitude** {2010}
+- Rain depends on **humidity** {2017}
+- Largest share of land: **arid regions** {2002}
+- All climate zones: **Asia** {2016}
+- Not equatorial: **Ethiopia** (highland) {2013}
+- Equator suits plants not people; small annual range (both true, R not the explanation) {2010}
+- **California-Mediterranean, West Australia-hot desert, Bangladesh-monsoon, Siberia-cold temperate** {1999}
+- **Equatorial-Congo, Mediterranean-California, monsoon-Bangladesh, savanna-Sudan** {2002, 2003}
+- Interior Australia is desert (true); northern Australia temperate (false, it is **tropical**) {2025}
+- Linked to shifting pressure belts: **Mediterranean and monsoon** {2010}
+- Zaire to Netherlands: **equatorial, hot desert, Mediterranean, West European** {2002}
+
+@flow Zaire to the Netherlands
+Equatorial | Congo basin
+Hot desert | Sahara
+Mediterranean | North African coast, Italy
+West European | Netherlands
+@end
+
+@section 15.3 | Mediterranean and West European
+- Correct: **wet winter, dry summer-Italy** {2004}
+- Winter rain because of the **westerlies** (R explains A) {2004}
+- Winter rain (true); summer under dry trades (true, R not the explanation) {2022}
+- Winter rain; belts shift south in winter (both) {2024}
+- NW European ports open all year; SW winds all year (both true, R not the explanation; warm North Atlantic Drift) {2002}
+- Western Europe: rain in **all months**, in the **westerlies** (both) {2024}
+
+@section 15.4 | Records and El Nino
+- Wettest place: **Mawsynram** {1997, 2001}
+- Coldest place (key): **Verkhoyansk** {1999, 2004}
+- **El Nino** develops in the **Pacific** {2015}
+- El Nino statements: only 1 correct {2023}
+- **Hekistotherms**: plants of **very low temperature** {2013}
+- "Vegetation is the true index of climate": **Koppen** {2018}
+
+@trap
+- **Teak** is a monsoon tree, never Mediterranean.
+- Northern Australia is **tropical**, not temperate.
+- Open winter ports of NW Europe owe more to the **North Atlantic Drift** than to winds.
+@end
+
+@up UP has **tropical monsoon (deciduous)** forests of **sal** in the Terai and teak-dry deciduous in Bundelkhand; Dudhwa's sal forests are the State's best.
+
+@last
+- Bhutan: **60%** forest by Constitution
+- Selva = broadleaf evergreen; Amazon, Congo
+- Taiga = pine, spruce; no conifers in Amazonia
+- Maquis, chaparral, fynbos, matorral = Mediterranean scrub
+- Teak and sal = monsoon forest
+- Mediterranean: winter rain from **westerlies**
+- West Europe: rain all year; westerlies
+- Asia has every climate zone
+- Mawsynram wettest; Verkhoyansk coldest (key)
+- Koppen: vegetation indexes climate
+@end

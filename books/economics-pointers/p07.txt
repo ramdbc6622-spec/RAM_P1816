@@ -1,0 +1,93 @@
+@chapter 7 | Fiscal Policy, the Union Budget and Deficits
+@meta Built from 39 UPPSC questions (1993–2024). Focus: who frames fiscal policy, Budget facts, receipts and spending, the four deficits, FRBM, deficit financing, budgeting methods.
+
+@hot
+- Fiscal deficit target 2019-20: **3.3% of GDP** {1996, 2000, 2001, 2002, 2005, 2008, 2010, 2015, 2019}
+- **Primary deficit** = fiscal deficit − **interest payments** {2004, 2008, 2010}
+- Deficit order: **fiscal > revenue > primary** {2002, 2003, 2004, 2008}
+- Largest outlay in Budget 2011-12 (key): **energy** {2001, 2002, 2009, 2010, 2011}
+- **Economic Survey** and fiscal policy: **Ministry of Finance** {2010, 2010, 2012, 2015}
+- **Deficit financing** adds money and leads to **inflation** {1993, 2003, 2016}
+@end
+
+@section 7.1 | Fiscal Policy
+- Fiscal policy framed by the **Ministry of Finance** {2012}
+- Long-term fiscal policy (1985): **V.P. Singh** {2014}
+- Not a fiscal-policy aim: **regulating inter-State trade** {2006}
+- Response to supply shocks: **cut taxes on fuel and imports** (only 3) {2024}
+- Subsidy a big deficit source (true); farm subsidy higher than rich countries (false) {2002, 2004}
+- Survey 2015-16 "Chakravyuha": from socialism with limited entry to **marketism without exit** {2017}
+- Economic Survey prepared by the **Ministry of Finance**; published by it {2010, 2010, 2015}
+
+@section 7.2 | The Budget
+- Not among 2017-18's ten themes: **export performance** {2017}
+- Budget 2023: States allowed **3.5% of GSDP** fiscal deficit {2023}
+- AIDC (2021-22): on **29** products {2021}
+- Did not happen in 2017-18: **more centrally sponsored schemes** {2017}
+- Health Ministry 2023-24: about **Rs. 89,155 crore** {2023}
+- Not true of 2023-24 outlay shares: **subsidies 9%** {2023}
+- Largest outlay (2011-12): **energy** {2001, 2002, 2009, 2010, 2011}
+- 2018-19 allocations: **defence Rs. 2.82, food subsidy Rs. 1.69, rural development Rs. 1.38, agriculture Rs. 0.63 lakh crore** {2017}
+- PSB disinvestment target 2020-21: **Rs. 90,000 crore** {2021}
+- Railway research body (2016-17): **SRESTHA** {2016}
+- New luxury class (2013-14): **Anubhuti** {2014}
+
+@flow Budget reforms of 2017-18
+1 February | Budget date advanced
+Rail Budget merged | Bibek Debroy committee
+Plan / non-plan ended | Revenue / capital only
+@end
+
+@section 7.3 | Receipts and Spending
+- 2010-11: capital receipts **less than** revenue receipts {2009}
+- Not public revenue: **subsidy** {2009}
+- Current-account income: **corporation tax, PSU profits, excise** (I, II, V) {1998}
+- Largest Budget head (now): **revenue expenditure** (non-plan in 2006) {2006}
+- Largest revenue expenditure item: **interest payments** {2017}
+
+@section 7.4 | Deficits
+- Targets: 2017-18 at **3.5%**, 2018-19 at **3.3%** (1 and 2) {2017}
+- Fiscal deficit target 2019-20: **3.3%** {1996, 2000, 2001, 2002, 2005, 2008, 2010, 2015, 2019}
+- States' fiscal deficit record then: about Rs. 1 lakh crore (*) {2000}
+- Order: **fiscal, revenue, primary** {2002, 2003, 2004, 2008}
+- Fiscal deficit minus interest: **primary deficit** {2004, 2008, 2010}
+- Primary deficit 2010-11: **below 2%** of GDP {2009}
+- Revenue deficit minus capital-asset grants: **effective revenue deficit** {2015}
+- Fiscal deficit mostly met by **domestic borrowing** {2005}
+- Deficit financing causes inflation by raising money supply (R explains A) {2003}
+- Failed deficit financing: **inflation**; raises **money supply** {1993, 2016}
+- **FRBM Act**: **2003** {2008}
+
+@table
+Deficit | Formula
+Revenue | Revenue spending − revenue receipts
+Effective revenue | Revenue deficit − capital-asset grants
+Fiscal | Total spending − (revenue + non-debt capital receipts)
+Primary | Fiscal deficit − interest
+@end
+
+@section 7.5 | Budgeting Methods
+- Zero-based budgeting first in the **USA** {2017}
+- ZBB in India; reviews every scheme (R explains A) {2011}
+- Performance budget from the **USA** {2010}
+
+@trap
+- **Primary** = fiscal − interest; **effective revenue** = revenue − capital grants.
+- **Interest** is the biggest revenue spend.
+- **FRBM 2003**; fiscal policy = Finance Ministry, monetary = RBI.
+@end
+
+@up UP links: States may run a fiscal deficit of about **3-3.5% of GSDP**; UP passed its own **Fiscal Responsibility and Budget Management Act (2004)** and presents India's largest State Budget.
+
+@last
+- Fiscal policy & Survey = **Finance Ministry**
+- Long-term fiscal policy = **V.P. Singh** (1985)
+- Fiscal deficit target 2019-20 = **3.3%**
+- Fiscal > revenue > primary
+- Primary = fiscal − interest
+- Effective revenue = revenue − capital grants
+- Interest = biggest revenue spend
+- FRBM **2003**
+- Deficit financing leads to inflation
+- ZBB & performance budget = USA
+@end

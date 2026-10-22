@@ -1,0 +1,99 @@
+@chapter 6 | Schedules of the Constitution
+@meta Built from 30 UPPSC questions (1997–2025). Focus: Schedule-subject matching, Seventh Schedule lists, Sixth Schedule states, Ninth and Tenth Schedules.
+
+@hot
+- **7-8-9-10 match**: **7th-legislative lists, 8th-languages, 9th-validated Acts, 10th-defection** {2016, 2016, 2025}
+- **Seventh Schedule** questions dominate: lists, railway police (State), criminal procedure (Concurrent) {1997, 1997, 2001, 2004, 2006, 2009, 2010, 2011, 2021}
+- **Sixth Schedule** = **Assam, Meghalaya, Tripura, Mizoram** {2016, 2023, ?, ?}
+- **Education** moved to Concurrent by the **42nd Amendment** {2008, 2017}
+- **Fourth Schedule** = Rajya Sabha seats; not Second or Ninth {2015, 2019, 2022, 2023}
+@end
+
+@section 6.1 | Master Map
+- States and territories: **First Schedule**; new state needs amending the **First** {2014, 2008}
+- **Fourth Schedule**: seats in the **Council of States** {2015}
+
+@table
+Schedule | Subject
+1st | States and UTs
+2nd | Salaries and allowances
+3rd | Oaths and affirmations
+4th | Rajya Sabha seats
+5th | Scheduled Areas
+6th | Tribal areas of Assam, Meghalaya, Tripura, Mizoram
+7th | Union, State, Concurrent Lists
+8th | 22 languages
+9th | Protected laws (1st Amendment, 1951)
+10th | Anti-defection (52nd, 1985)
+11th | Panchayats, 29 subjects (73rd)
+12th | Municipalities, 18 subjects (74th)
+@end
+
+@section 6.2 | Schedule Matching
+- **7th-legislative distribution, 8th-languages, 9th-validation of Acts, 10th-disqualification for defection** {2016, 2016, 2025}
+- **3rd-oaths, 4th-RS seats, 7th-lists of subjects, 8th-languages** {2022}
+- **4th-Council of States, 6th-tribal areas, 8th-language, 9th-land reforms** {1999}
+- **Ninth-RS seats** is wrong; **RS seats-Second** is wrong {2023, 2019}
+
+@section 6.3 | Third Schedule
+- In the Third Schedule: oaths of a **Union Minister, SC Chief Justice, MP**; **not** the President (Art 60) {2017}
+
+@section 6.4 | Fifth and Sixth Schedules
+- Sixth Schedule: **Assam, Meghalaya, Tripura, Mizoram** {2016, 2023, ?}
+- Of Sikkim, Tripura, Nagaland: only **Tripura** {?}
+
+@section 6.5 | Seventh Schedule
+- Three lists: **VII Schedule** {2021}
+- **Union-census, State-police and public order, Concurrent-population control, residuary-space research** {2004}
+- **Stock exchange-Concurrent** is wrong (it is **Union**) {2009, 2010}
+
+@section 6.6 | State List
+- **Railway police**: State List {1997, 2001}
+- **Gas** (and gas-works) is not in the Union List (it is State) {1997}
+- **Criminal procedure**: Concurrent {2006, 2011}
+
+@section 6.7 | Concurrent List and 42nd Amendment
+- **Criminal matters**: Concurrent {2005}
+- **Economic planning**: Concurrent {2006}
+- **Marriage, divorce, adoption**: Concurrent {2010}
+- Concurrent includes **adulteration and succession** (trade and commerce taken as not) {2024}
+- **Education** to Concurrent: **42nd Amendment** {2008, 2017}
+
+@flow 42nd Amendment (1976): State to Concurrent
+Education | Asked twice
+Forests | Asked in pairs
+Wildlife and birds | Not yet asked
+Weights and measures | Not yet asked
+Administration of justice | Not yet asked
+@end
+
+@section 6.8 | Ninth Schedule
+- State land-reform laws protected in the **9th Schedule** {2003}
+- **Coelho case** (2007): **Ninth** Schedule; laws after 24 April 1973 open to basic-structure review {2017}
+
+@section 6.9 | Tenth Schedule
+- Anti-defection: **Tenth Schedule** {2013, ?}
+
+@section 6.10 | Eleventh and Twelfth
+- **Eleventh**: **Panchayati Raj**; it has **29** items {2014, 2015, 2019}
+
+@trap
+- **2nd** = salaries; **4th** = RS seats. **5th** = Scheduled Areas; **6th** = AMTM tribal areas.
+- President, VP, Governor oaths are in **Arts 60, 69, 159**, not the 3rd Schedule.
+- Railways = Union; **railway police = State**. Stock exchange = Union.
+@end
+
+@up UP has no Fifth or Sixth Schedule areas. UP has **31 Rajya Sabha** and **80 Lok Sabha** seats (Fourth Schedule for RS). UP Panchayats take the 29 Eleventh Schedule subjects.
+
+@last
+- 1st = States; 4th = **RS seats**; 3rd = oaths (not President)
+- 6th = **Assam, Meghalaya, Tripura, Mizoram**
+- 7th = three lists; 8th = languages
+- 9th = land reforms, **Coelho** (2007); 10th = **anti-defection**
+- 11th = Panchayats (**29**); 12th = Municipalities (18)
+- Railway police = **State**; criminal procedure = Concurrent
+- Marriage, planning, adulteration = Concurrent
+- Education to Concurrent by **42nd** (1976)
+- Space research = residuary (Union)
+- Stock exchange = **Union**
+@end

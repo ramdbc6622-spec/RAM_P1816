@@ -1,0 +1,69 @@
+@chapter 9 | Delhi Sultanate: Literature
+@meta Built from 24 UPPSC questions (1990–2023). Focus: Amir Khusrau, Amir Hasan, Persian translations, the chroniclers of the Sultanate and their books, regional histories and Hindavi poetry.
+
+@hot
+- **Amir Khusrau**: born at **Patiali** (Etah then, Kasganj now); "**Parrot of India**"; court poet of **Alauddin**; father of **Khari Boli**; first Persian poet to describe India {1990, 1995, 2002, 2002, 2003, 2005, 2008, 2012, 2013, 2017}
+- **Chronicler-book matching**: **Barani-Tarikh-i-Firozshahi and Fatawa-i-Jahandari, Hasan Nizami-Taj-ul-Maasir, Minhaj-Tabaqat-i-Nasiri, Yahya-Tarikh-i-Mubarakshahi, Isami-Futuh-us-Salatin, Khusrau-Khazain-ul-Futuh** {1997, 2009, 2019, 2023}
+- **Amir Hasan Sijzi** = "Sadi of India"; compiled **Fawaid-ul-Fuad** (Nizamuddin Auliya's talks) {2013, 2021}
+@end
+
+@section 9.1 | Amir Khusrau and Amir Hasan
+- Khusrau born at **Patiali** (Etah in 2002-03; now Kasganj) (*) {2002, 2003, ?}
+- "**Parrot of India**": **Amir Khusrau** {2013}
+- Court poet of **Alauddin Khalji** {1995}
+- Saw seven Sultans: **Amir Khusrau** and Nizamuddin both fit (*) {2005}
+- Father of Hindi **Khari Boli**; master of Hindi and Persian {1990, 2002, 2008, 2012}
+- First Persian poet to depict India: **Amir Khusrau** {2017}
+- **Tabla** introduced by **Amir Khusrau** (tradition) {2009}
+- "Sadi of India": **Amir Hasan** {2013}
+- **Fawaid-ul-Fuad**: compiled by **Amir Hasan Sijzi** {2021}
+
+@section 9.2 | Translations and Chronicles
+- Shukasaptati into Persian as **Tutinama**: **Ziya-uddin Nakhshabi** {2022}
+- Translated Firuz's 300 Nagarkot volumes: **Azizuddin Khan** (per key) {2023}
+- **Futuh-us-Salatin-Isami, Futuhat-i-Firozshahi-Firuz, Tarikh-i-Firozshahi-Barani, Khazain-ul-Futuh-Khusrau** {2023}
+- Sultan who wrote his memoirs: **Firuz Tughluq** {2008}
+- **Barani-Tarikh-i-Firozshahi, Hasan Nizami-Taj-ul-Maasir, Minhaj-Tabaqat-i-Nasiri, Yahya-Tarikh-i-Mubarakshahi** {1997}
+- **Taj-ul-Maasir-Hasan Nizami, Khazain-ul-Futuh-Khusrau, Tarikh-i-Mubarakshahi-Yahya, Fatawa-i-Jahandari-Barani** {2019}
+- **Tarikh-i-Hind-Al-Biruni, Tarikh-i-Delhi-Khusrau, Rihla-Ibn Battuta, Tabaqat-i-Nasiri-Minhaj** {2009}
+- Order: **Kitab-ul-Hind, Prithviraj Raso, Tabaqat-i-Nasiri, Fatawa-i-Jahandari** {2020}
+
+@table
+Book | Author
+Tabaqat-i-Nasiri | Minhaj-us-Siraj
+Taj-ul-Maasir | Hasan Nizami
+Tarikh-i-Firozshahi, Fatawa-i-Jahandari | Ziauddin Barani
+Futuhat-i-Firozshahi | Firuz Shah Tughluq
+Futuh-us-Salatin | Isami
+Khazain-ul-Futuh, Tughlaqnama | Amir Khusrau
+Tarikh-i-Mubarakshahi | Yahya bin Ahmad Sirhindi
+Rihla | Ibn Battuta
+@end
+
+@section 9.3 | Regional Histories and Hindavi
+- **Mirat-i-Sikandari** (Gujarat), **Burhan-i-Maasir** (Bahmanis), **Riyaz-us-Salatin** (Bengal), **Riyaz-ul-Insha** (Mahmud Gawan's letters) {2023}
+- Mirat-i-Sikandari describes Mahmud Begada's prosperity and security (both) {2023}
+- **Mulla Daud-Chandayan, Damodar-Padmavati Katha, Somnath-Raga Vibodh, Khusrau-Ashiqa** {2019}
+- Jain scholar among options: **Hemachandra Suri** {2009}
+
+@trap
+- Futuh-us-Salatin (**Isami**) vs Futuhat-i-Firozshahi (**Firuz**).
+- Fatawa-i-Jahandari is **Barani's**, not Firuz's.
+- Amir Hasan Sijzi (Sufi poet) is not Hasan Nizami (Aibak's historian).
+- Patiali was in Etah until 2008; it is now **Kasganj**.
+@end
+
+@up UP link: **Amir Khusrau** was born at **Patiali** (now Kasganj district, UP) in 1253; **Mulla Daud's Chandayan** (1379) was written at **Dalmau** (Rae Bareli), the first Sufi masnavi in Awadhi.
+
+@last
+- Khusrau = Patiali, Parrot of India, Alauddin's poet
+- Khusrau = Khari Boli; tabla by tradition
+- Amir Hasan = Sadi of India; Fawaid-ul-Fuad
+- Nakhshabi = Tutinama
+- Barani = Tarikh-i-Firozshahi, Fatawa-i-Jahandari
+- Hasan Nizami = Taj-ul-Maasir; Minhaj = Tabaqat-i-Nasiri
+- Isami = Futuh-us-Salatin; Firuz = Futuhat (memoirs)
+- Yahya = Tarikh-i-Mubarakshahi
+- Mirat-i-Sikandari = Gujarat; Burhan-i-Maasir = Bahmani
+- Mulla Daud = Chandayan
+@end

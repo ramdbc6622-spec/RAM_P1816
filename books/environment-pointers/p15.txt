@@ -1,0 +1,67 @@
+@chapter 15 | Water Conservation and River Cleaning
+@meta Built from 13 UPPSC questions (2002–2023). Focus: World Water Day, Water Act and Cess, chlorine, lake conservation, Ganga and Yamuna action plans.
+
+@hot
+- **Ganga Action Plan** and **Central Ganga Authority**: **1985**; aim: pollution-free water {2014, 2022}
+- **Water Act 1974**; Water Cess **1977** {2013, 2023}
+- **World Water Day**: **22 March** {2011}
+@end
+
+@section 15.1 | Water as a Resource
+- World Water Day: **22 March** {2011}
+- Not a biotic resource: **freshwater** {2016}
+- CGWA under the **Environment Protection Act**; India has the largest groundwater-irrigated area (2 and 3) {2005}
+
+@section 15.2 | Laws
+- Water (Prevention and Control of Pollution) Act: **1974** {2023}
+- Water Cess enforced: **1977** {2013}
+
+@section 15.3 | Treatment
+- Drinking-water purification gas: **chlorine** {2013}
+- Disinfectants: **all** listed (chlorine, ozone, UV) {2016}
+
+@section 15.4 | Lakes and Rivers
+- Urban lakes under NLCP: **Bhoj, Sukhna, Pichola** (not Chilika) {2002}
+- Added to NLCP (2010): **Bhimtal** {2010}
+- Central Ganga Authority: **1985** {2014}
+- Ganga Action Plan aim: **pollution-free water only** {2022}
+- **NGRBA**: **February 2009** {2010}
+- Yamuna Action Plan: **1993** {2016}
+
+@flow Cleaning the Ganga
+1985 | Central Ganga Authority; Ganga Action Plan I
+1993 | GAP-II; Yamuna and Gomti Action Plans
+2008 | Ganga declared National River
+2009 | NGRBA (Feb)
+2014 | Namami Gange (NMCG)
+2016 | National Ganga Council
+@end
+
+@table
+Day | Date
+World Wetlands Day | 2 February
+World Water Day | 22 March
+World Environment Day | 5 June
+Ozone Day | 16 September
+@end
+
+@trap
+- **Water Act 1974**; **Cess Act 1977**; Air Act 1981.
+- **NGRBA** = 2009; **Namami Gange** = 2014.
+- **Chilika** is not an urban lake in the NLCP list.
+@end
+
+@up The Ganga and its tributaries (**Yamuna, Gomti, Ramganga, Kali**) flow through UP; Kanpur's tanneries and Varanasi's ghats are the core of GAP and **Namami Gange**. The **Gomti Action Plan** (1993) covers Lucknow.
+
+@last
+- World Water Day **22 March**
+- Water Act **1974**; Cess **1977**
+- CGWA under **EPA 1986**
+- Chlorine purifies drinking water
+- Bhoj, Sukhna, Pichola = NLCP urban lakes
+- Ganga Action Plan & CGA **1985**
+- Yamuna Action Plan **1993**
+- NGRBA **Feb 2009**
+- Namami Gange **2014**
+- Freshwater = abiotic resource
+@end

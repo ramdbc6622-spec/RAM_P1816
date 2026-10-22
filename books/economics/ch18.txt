@@ -1,0 +1,504 @@
+@chapter 18 | Trade Policy, SEZs and Export Promotion
+
+@intro
+This chapter covers the **concepts and tools of trade policy** (invisible exports, entrepot trade, tariffs, duty drawback), **globalisation and liberalisation**, the **Foreign Trade Policy** and export houses, **Export Processing Zones and Special Economic Zones**, **export-promotion bodies** (EXIM Bank, ECGC, IBEF, MPEDA, STC, MMTC), **tourism earnings**, and trade disputes (anti-dumping, Super 301). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 18.1 | Trade Concepts
+
+@pyq U.P.P.C.S. (Mains) 2007; U.P.P.C.S. (Pre) 2006
+Invisible Export means export of :
+(a) Services
+(b) Prohibited goods
+(c) Unrecorded goods
+(d) Goods through smuggling
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Entrepot trade means :
+(a) Export trade
+(b) Import trade
+(c) Coastal trade
+(d) Goods imported for export
+@ans (d)
+@end
+
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+A tariff :
+(a) increases the volume of trade
+(b) reduces the volume of trade
+(c) has no effect on volume of trade
+(d) both (a) and (c)
+@ans (b)
+@note A **tariff** is a tax on imports (sometimes exports). It raises the price of imported goods and so **reduces the volume of trade**; it protects home industry and earns revenue.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Duty-Draw-Back implies :
+(a) Excess rate of import duty
+(b) Refund of import duty to exporters
+(c) Obstacles in the matter of exports
+(d) Refund of export duty to exporters
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+What is/are the cause/s of slow progress of India’s export?
+(a) High price
+(b) Foreign competition
+(c) Low level of goods
+(d) All of the above
+@ans (d)
+@end
+
+
+@table
+Term | Meaning
+**Invisible exports** | Exports of **services** (IT, tourism, shipping, banking) and remittances
+**Entrepot trade** | Goods **imported to be re-exported** (Singapore, Dubai)
+**Duty drawback** | **Refund of import duty** paid on inputs used in exported goods
+**RoDTEP** (2021) | Refund of embedded duties and taxes on exports (replaced MEIS)
+**Anti-dumping duty** | Duty on imports sold below their home price; **India** has been one of the **largest users**
+**Super 301** | US trade law section to act against countries with **unfair trade barriers**
+@end
+
+@section 18.2 | Globalisation and Trade Policy
+
+@pyq U.P.P.C.S. (Mains) 2017
+The process of Globalization refers to :
+(a) Creation of global trading blocks
+(b) Dismantling barriers in international trade
+(c) Introduction of single currency in the world
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Globalization of Indian Economy means :
+(a) Stepping up external borrowings
+(b) Establishing Indian business abroad
+(c) Having minimum possible restrictions on economic relations with other countries
+(d) Giving up programmes of import substitutions
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following statements about ‘Globalization’ is not correct ?
+(a) It has encouraged Indian industrialists to seek foreign investments.
+(b) It has motivated top industrialists in India to buy large ventures in foreign countries.
+(c) It has tempted foreign companies to buy Indian companies.
+(d) It has created a sense of optimism among small entrepreneurs in India.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Encouraging more multinational companies in India is to promote the policy of :
+(a) Privatization
+(b) Globalization
+(c) Liberalization
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which of the following has/have occurred in India after its liberalization of economic policies in 1991?
+1. Share of agriculture in GDP increased enormously.
+2. Share of India’s exports in world trade increased.
+3. FDI inflows increased.
+4. India’s foreign exchange reserves increased enormously.
+Select the correct answer using the codes given below:
+(a) 1 and 4 only
+(b) 2, 3 and 4 only
+(c) 2 and 3 only
+(d) 1, 2, 3 and 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Free Trade Policy refers to a policy where there is :
+(a) Absence of tariff
+(b) Restriction on the movement of goods
+(c) Existence of anti-dumping policy
+(d) Encouragement for balanced growth
+@ans (a)
+@end
+
+
+**Globalisation** means removing barriers to trade, investment and technology flows. After **1991** India's export share, **FDI** and **forex reserves** rose sharply, while agriculture's share of GDP **fell**. Big firms gained most; small firms faced tougher competition.
+
+@pyq U.P.P.C.S. (Mains) 2007
+The objective of the new Foreign Trade Policy is to increase India’s share in the World Trade by 2009 to :
+(a) 1.00%
+(b) 1.25%
+(c) 1.50%
+(d) 2.00%
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The registered exporters, whose export performance in several years is of high quality, are known as :
+(a) Export Houses
+(b) Trading Houses
+(c) Star Trading Houses
+(d) None of the above
+@ans (c)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+Which one of the following has not been named as ‘Towns of Excellence’ for exports upto March, 2014?
+(a) Panipat
+(b) Ludhiana
+(c) Tirupur
+(d) Madurai
+@ans (*)
+@note Under the **FTP 2009-14** all four (**Panipat, Ludhiana, Tirupur, Madurai**) were "Towns of Export Excellence", so no option fits and the source marks it (*). The list grew to **39** towns (FTP 2015-20) and FTP **2023** added Faridabad, Mirzapur, Moradabad and Varanasi.
+@end
+
+
+
+@table
+Foreign Trade Policy | Detail
+FTP 2004-09 | Target **1.5%** of world trade by 2009
+FTP 2015-20 | MEIS and SEIS incentives
+**FTP 2023** | From **1 April 2023**, **no end date**; target **US$ 2 trillion** exports by 2030; districts as export hubs
+Status holders | Export House → Star → Two Star → Three Star → Four Star → **Five Star** Export House (by export performance)
+@end
+
+@section 18.3 | EPZs and SEZs
+
+@pyq U.P.P.C.S. (Mains) 2002, 2003
+Free Trade Zones have been established in India for the :
+(a) Development of backward areas
+(b) Promotion of small scale industries
+(c) Promotion of export industries
+(d) Promotion of information technology
+@ans (c)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2007
+Free trade zone is one where
+@ans industries are free from excise duties and produce goods mainly for export
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015, 2017; U. P. R.O./A.R.O. (Mains) 2014
+In India, Special Economic Zone policy was announced in :
+(a) April, 2000
+(b) April, 2001
+(c) April, 2002
+(d) April, 2003
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Special Economic Zone (SEZ) Act became effective in:
+(a) 2004
+(b) 2005
+(c) 2006
+(d) 2007
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which one of the following is not the objective of SEZs (Special Economic Zones) ?
+(a) Creating additional employment opportunities
+(b) Use of modern technology
+(c) Generation of additional economic activities
+(d) Discouraging foreign investment
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Pre) 2007, 2009
+Special Economic Zone Act was passed by the Parliament, in the year
+@ans 2005
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which one of the following cities does not have the Special Economic Zone :
+(a) Chennai
+(b) Kandla
+(c) Kochi
+(d) Surat
+@ans (*)
+@note All four cities (**Chennai, Kandla, Kochi, Surat**) had EPZs that became **SEZs** in 2000, so no option fits and the source marks it (*).
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+The first Export Processing Zone of Asia was set up in 1965 in
+@ans Kandla
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which one of the following place does not have a free trade zone?
+(a) Kandla
+(b) Mumbai
+(c) Vishakhapatnam
+(d) Thiruvananthapuram
+@ans (*)
+@note **Kandla, Mumbai (SEEPZ), Visakhapatnam** and **Thiruvananthapuram** all have free trade or export zones today, so the source marks it (*).
+@end
+
+
+
+
+@pyq U.P.P.C.S. (Mains) 2009
+Consider the following statements :
+1. India’s first EPZ was set up in 1965.
+2. Special Economic Zone (SEZ) policy in India was formulated in 2000.
+3. Vadodara is famous for Patola Silk.
+4. Panna in Madhya Pradesh is famous for gold mines.
+Of these statements :
+(a) Only 1, 2 and 3 are correct
+(b) Only 2, 3 and 4 are correct
+(c) Only 3 and 4 are correct
+(d) All are correct
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following is an Export Processing Zone?
+(a) Bengaluru
+(b) Delhi
+(c) Kanpur
+(d) Falta SEZ
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The first Export Processing Zone of the Private Sector was established at :
+(a) Surat
+(b) Noida
+(c) Chennai
+(d) Mangalore
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In relation to the previous year, growth rate in exports from the functioning of Special Economic Zones was highest in which year ?
+(a) 2004-05
+(b) 2005-06
+(c) 2006-07
+(d) 2007-08
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following States has the largest no. of approved as well as operational Special Economic Zones as on June 2012 ?
+(a) Uttar Pradesh
+(b) Andhra Pradesh
+(c) Tamil Nadu
+(d) Maharashtra
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+SEZ India mobile app has been launched in January, 2017 by :
+(a) Ministry of Labour and Employment
+(b) Ministry of Finance
+(c) Ministry of Commerce and Industry
+(d) Ministry of Corporate Affairs
+@ans (c)
+@end
+
+
+@table
+EPZ / SEZ fact | Detail
+**First EPZ in Asia** | **Kandla** (Gujarat), **1965**
+Other EPZs | SEEPZ Mumbai (1973), **Falta** (West Bengal, 1984), **Noida** (UP), Chennai, Kochi, Visakhapatnam
+First private EPZ | **Surat**
+**SEZ policy** | **April 2000** (EPZs converted)
+**SEZ Act** | Passed **2005**, in force **10 February 2006**
+Numbers (June 2025) | About **276 operational** SEZs out of 370 notified; **Andhra Pradesh** had the most in 2012
+SEZ India app | **Ministry of Commerce and Industry**, 2017
+@end
+
+Statement 4 in Q67 is wrong: **Panna** (MP) is famous for **diamonds**, not gold. **Patola** silk is linked to Patan in Gujarat; the source accepts the Vadodara link.
+
+@section 18.4 | Export-Promotion Bodies
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which among the following organizations are responsible for channelizing export and import of India: I. Mineral and Metal Trading Corporation II. Exim Bank III. State Trading Corporation IV. Food Corporation of India
+Select the correct answer from the code given below:
+Code:
+(a) I, II, III and IV
+(b) II and IV
+(c) I and III
+(d) II, III and IV
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+In which year the Export-Import (EXIM) Bank of India was set up ?
+(a) 1980
+(b) 1982
+(c) 1981
+(d) 1989
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which organization promotes the foreign trade?
+(a) ECGC
+(b) MMTC
+(c) STC
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+ECGC is related to :
+(a) Export Promotion
+(b) Export Financing and Insurance
+(c) Export Quality and Certification
+(d) Publication of Export data
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2009
+Which organization is involved in providing the insurance against various risks to the exporters?
+@ans Export Credit and Guarantee Corporation
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+India Brand Equity Fund was established in :
+(a) 1992
+(b) 1995
+(c) 1996
+(d) 1997
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to the Marine Products Export Development Authority (MPEDA), which of the following statement/s is/are correct?
+1. MPEDA was established in 1972.
+2. It is headquartered in Kolkata.
+Select the correct answer using the code given below :
+Code :
+(a) Only 1
+(b) Neither 1 nor 2
+(c) Only 2
+(d) Both 1 and 2
+@ans (a)
+@end
+
+
+@table
+Body | Year | Role
+**STC** | 1956 | State trading
+**MMTC** | 1963 | Minerals and metals trade
+**ECGC** | 1957 | **Export credit insurance**
+**EXIM Bank** | **1 January 1982** | Export-import finance
+**India Brand Equity Foundation** | **1996** | Promotes the "Brand India" image
+**MPEDA** | **1972** | Marine exports; HQ **Kochi**
+FCI | 1965 | Grain trade (some exports and imports)
+@end
+
+@section 18.5 | Tourism and Trade Relations
+
+@pyq U.P.P.C.S. (Pre) 2006
+According to the 2006 Report of World Tourism Organization, maximum tourists visited that year to :
+(a) France
+(b) Switzerland
+(c) Germany
+(d) United States of America
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which of the following countries was the most favourite (in terms of total number of visitors) destination of Indian tourists in the year 2010 ?
+(a) Australia
+(b) Singapore
+(c) United States of America (U.S.A.)
+(d) United Kingdom (U.K.)
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+In which of the following years, Foreign Tourist Arrivals (FTAs) had registered decline over the previous year in the country ?
+(a) 2006-07
+(b) 2007-08
+(c) 2008-09
+(d) 2009-10
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+The city which has been selected by a famous International Magazine 'Travel and Leisure' in its survey 2009 as the best city from tourism point of view in the world is :
+(a) Udaipur
+(b) Hong Kong
+(c) Singapore
+(d) Dubai
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2013
+According to report of U.N. World Tourism Organization (2010) the most visited country in the world is
+@ans France
+@end
+
+**France** is still the most visited country. Indians travelled most to **Singapore** in 2010, but the **UAE** leads now (about 25% of Indian trips abroad). Foreign tourist arrivals fell in **2009** (global crisis) and in **2020-21** (COVID). **Udaipur** was voted the world's best city by *Travel + Leisure* in 2009.
+
+@pyq U.P.P.C.S. (Mains) 2006
+Nathu La was reopened in 2006 for trans-border trade between India and :
+(a) Bangladesh
+(b) China
+(c) Bhutan
+(d) Nepal
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which country among the following used maximum number of anti-dumping measures during 1995-2005?
+(a) USA
+(b) China
+(c) European Community Countries
+(d) India
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Super '301' is related to :
+(a) International Treaty
+(b) Atomic explosion
+(c) Human rights
+(d) Blockade in free trade
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to the India International Trade Fair2021, which of the following statements is/are correct?
+1. It was organised in November 2021 at Jaipur, Rajasthan.
+2. Main theme of the event was ‘Atmanirbhar Bharat’.
+Select the correct answer from the code given below :
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (b)
+@end
+
+
+**Nathu La** (Sikkim) reopened for border trade with **China** in **2006**. The **India International Trade Fair 2021** was held at **Pragati Maidan, New Delhi** (not Jaipur), with the theme "**Atmanirbhar Bharat**".
+
+@up UP link: **Noida SEZ** (1985) is one of India's original EPZs. Under FTP 2023, **Mirzapur** (carpets), **Moradabad** (handicrafts) and **Varanasi** (handlooms) became "Towns of Export Excellence". UP's ODOP products are the base of its district export plans.
+
+@trap
+**Invisible export = services.** **Entrepot = import for re-export.** **Tariff reduces trade.** **Duty drawback = refund of import duty.** **FTP 2023: no end date, US$ 2 trillion by 2030.** **Kandla 1965 first EPZ in Asia; Surat first private EPZ.** **SEZ policy April 2000; Act 2005, in force 2006.** **EXIM Bank 1982; ECGC = export insurance; IBEF 1996; MPEDA 1972, Kochi.** **France = most visited.** **Nathu La = China (2006).** **Panna = diamonds.**
+@end
+
+@heatmap
+
+@pattern
+SEZ and EPZ facts were asked repeatedly from 1999 to 2017; the **2021-2023** papers added promotion bodies (MPEDA, Falta EPZ) and trade fairs. Basic terms (tariff, entrepot, duty drawback) are perennial.
+@end
+
+@next
+Likely next angles: **FTP 2023** features, **RoDTEP**, the **Districts as Export Hubs** plan, the **Export Promotion Mission** (Budget 2025-26), the **India-UK CETA** and **India-EFTA TEPA** (in force 2025), and **anti-dumping** duties on Chinese steel.
+@end

@@ -1,0 +1,385 @@
+@chapter 2 | Food Chain, Energy Flow and Ecosystem Concepts
+
+@intro
+This chapter covers how energy and matter move through an ecosystem: **trophic levels**, producers, consumers and decomposers, **food chains** and webs, the **10% law** (Lindeman), **ecological pyramids** (and why the pond's biomass pyramid is inverted), **productivity**, and a set of ecosystem terms (ecotone, ecological footprint, deep ecology, monoclimax, niche) together with the Chipko movement. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 2.1 | Food Chains and Trophic Levels
+
+@pyq U.P.P.C.S. (Pre) 2023
+Trophic levels are formed by
+(a) Carnivorous animals
+(b) Plants only
+(c) Animals only
+(d) Organisms linked in food chain
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The correct order in the food chain of the various components of a terrestrial grass ecosystem is –
+(a) Grass, Grasshopper, Frog, Snake
+(b) Grass, Grasshopper, Snake, Frog
+(c) Grasshopper, Frog, Grass, Snake
+(d) Grasshopper, Snake, Frog, Grass
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which of the following are the primary consumers in an ecosystem? Select the correct answer from the codes given below:
+1. Ants
+2. Deer
+3. Fox
+4. Tiger
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) 2, 3 and 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+In a food chain, man is:
+(a) producer
+(b) only primary consumer
+(c) only secondary consumer
+(d) primary as well as a secondary consumer
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Among the biotic components of the ecosystem, the producer system is –
+(a) Cow
+(b) Peacock
+(c) Tiger
+(d) Green Plants
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+In the marine environment, the main primary producers are:
+(a) Phytoplanktons
+(b) Seaweeds
+(c) Marine angiosperms
+(d) Aquatic bryophytes
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+Who acts as an intermediary between the biotic and abiotic components?
+(a) Parasites
+(b) Decomposers
+(c) Producers
+(d) Consumers
+@ans (c)
+@end
+
+@table
+Trophic level | Role | Examples
+T1 Producers (autotrophs) | Make food by photosynthesis; link the abiotic and biotic worlds | Green plants, **phytoplankton** (in the sea), algae
+T2 Primary consumers | Herbivores | Deer, cow, grasshopper, ants, zooplankton
+T3 Secondary consumers | Carnivores that eat herbivores | Frog, fox, small fish
+T4 Tertiary / top consumers | Top carnivores | Snake, hawk, tiger, shark
+Omnivores | Eat at more than one level | **Humans**, bear, crow
+Decomposers | Break down dead matter and return nutrients | Bacteria, fungi
+@end
+
+A **grazing food chain** starts from living plants (grass, grasshopper, frog, snake, hawk). A **detritus food chain** starts from dead organic matter (leaf litter, earthworm, bird) and carries most of the energy in forests. Linked food chains form a **food web**, which gives an ecosystem stability.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Consider the following statements about eco-system:
+1. The production at the autotroph level is said to be primary productivity.
+2. The secondary productivity refers to the production at the heterotroph level.
+Of the above, the correct statement is/are:
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following pairs is correctly matched?
+(a) Mountain - Most stable ecosystem
+(b) Abiotic Component - Bacteria
+(c) Green plants - Ecosystem
+(d) Rainfall - Global Warming
+@ans (c)
+@end
+
+@section 2.2 | Aquatic Ecosystems
+
+@pyq U.P.P.C.S. (Pre) 2023
+Example of Lotic ecosystem is
+(a) Ponds
+(b) Swamps
+(c) Rivers
+(d) Marshy area
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Given below are two statements one of labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : Phytoplankton grow in abundance in the limnetic zone.
+Reason (R) : Limnetic zone is open water zone,
+Select the correct answer from the code given below:
+Codes :
+(a) (A) is true but (R) is false
+(b) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(c) (A) is false but (R) is true
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+@ans (b)
+@end
+
+@table
+Freshwater term | Meaning
+**Lotic** | Flowing water: rivers, streams, springs
+**Lentic** | Still water: ponds, lakes, swamps
+Littoral zone | Shallow edge with rooted plants
+**Limnetic zone** | Open, sunlit surface water; most phytoplankton
+Profundal zone | Deep, dark water below the light limit
+Benthic zone | The bottom (sediments)
+@end
+
+@section 2.3 | Energy Flow and the 10% Law
+
+@pyq U.P.P.C.S. (Mains) 2015
+The primary source of energy in Eco-body is –
+(a) Energy emitted by fermentation
+(b) Preserved vegetable sugar
+(c) Solar energy
+(d) None of the above.
+@ans (c)
+@end
+
+@one U.P.B.E.O. (Pre) 2019; U.P.R.O./A.R.O. (Re-Exam) (Pre) 2016
+Driving force of an ecosystem is
+@ans Solar energy
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following statement is correct?
+(a) The energy flow in the biospheric ecosystem is unidirectional.
+(b) The energy flows in the biospheric is cyclical.
+(c) Relative loss of energy in natural ecosystem decrease with increasing trophic levels.
+(d) Species at progressively higher trophic levels appear to be less efficient in using available energy
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre), 2017; U.P.P.C.S. (Pre) 2019
+The amount of energy during the transfer from one trophic level to another in an ecosystem–
+(a) Increases
+(b) Decreases
+(c) Remains constant
+(d) May increase or decrease
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+The name of the scientist who proposed the "Ten Percent Rule" of energy is :
+(a) Haeckel
+(b) Lindeman
+(c) Tansley
+(d) Odum
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Ecosystem', which of the following statements is/are correct?
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
+2. Around 10% of organic matter reaches to the next higher level of consumers.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+**Raymond Lindeman** (1942) showed that only about **10%** of the energy at one trophic level passes to the next. The rest is lost as heat in respiration, by the **second law of thermodynamics**. Plants fix only about **1-2%** of the sunlight that reaches them. That is why food chains rarely have more than **4-5 links**, and why energy flow is **one-way**, unlike the cycling of nutrients.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+The highest trophic level in an ecosystem is obtained by:
+(a) Herbivores
+(b) Carnivores
+(c) Omnivores
+(d) Decomposers
+@ans (c)
+@note The key follows the source. In most textbook food chains the **top carnivores** (option b) occupy the highest level. Omnivores such as humans *can* feed at the top as well as lower down, which is the reasoning behind the key.
+@end
+
+@section 2.4 | Ecological Pyramids and Productivity
+
+@pyq U.P.P.S.C. (GIC) 2010
+Biomass Pyramid is reversed in which type of ecosystem?
+(a) Forest
+(b) Pond
+(c) Grassland
+(d) Drylands
+@ans (b)
+@end
+
+@table
+Pyramid | Usually | Inverted when
+Pyramid of **numbers** | Upright (many grass plants, fewer deer, one tiger) | **Tree ecosystem** (one tree, many insects); parasite chains
+Pyramid of **biomass** | Upright on land | **Pond / ocean**: the small, fast-reproducing phytoplankton weigh less than the zooplankton and fish feeding on them
+Pyramid of **energy** | **Always upright** | Never, because energy is lost at every step
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R)
+Assertion (A) : The equatorial forest biome is the biome with the densest and highest biomass.
+Reason (R) : There is high rainfall and high temperature throughout the year in the equatorial forest region.
+Select the correct answer using the code given below:
+Code :
+(a) Both (A) and (R) are true but (R) is not correct explanation of (A).
+(b) (A) is true but (R) is false.
+(c) Both (A) and (R) are true and (R) is correct explanation of (A).
+(d) (A) is false but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+The annual production of biomass is minimal in which of the following environments?
+(a) Deep sea
+(b) Prairie
+(c) Deciduous forest
+(d) Taiga
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?
+(a) Oceans, lakes, grasslands, mangroves
+(b) Mangroves, oceans, grasslands, lakes
+(c) Mangroves, grasslands, lakes, oceans
+(d) Oceans, mangroves, lakes, grasslands
+@ans (c)
+@end
+
+Per unit area, **estuaries, mangroves, coral reefs and tropical rainforests** are the most productive ecosystems. The **open ocean** and **deserts** are the least productive. The ocean's total output is large only because it is so vast.
+
+@section 2.5 | Ecosystem Terms and Thinkers
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Which of the following statements is true about Bionomics?
+1. It means "management of life'.
+2. It is synonymous with ecology.
+3. It stresses the value of natural systems which influence human systems.
+Code :
+(a) Only 1
+(b) 1 and 2
+(c) 2 and 3
+(d) 1, 2 and 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+The minimum area of the land required to completely sustain the life of the person is called his –
+(a) Biota
+(b) Ecological footprint
+(c) Biome
+(d) Niche
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The measurement unit of the ecological footprint is:
+(a) Global hectares
+(b) Nanometer
+(c) Hoppus cubic foot
+(d) Cubic ton
+@ans (a)
+@end
+
+**Earth Overshoot Day**, set by the Global Footprint Network, marks the date each year when humanity's demand exceeds what the Earth can regenerate in that year. It falls in late **July** or early **August**.
+
+@pyq U.P.P.C.S.(Pre) 2012
+The transitional zone between two distinct communities is known as:
+(a) Ecotype
+(b) Arcade
+(c) Ecosphere
+(d) Ecotone
+@ans (d)
+@end
+
+An **ecotone** (for example forest-grassland, or mangroves between land and sea) often has more species than either community next to it, a pattern called the **edge effect**.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Who of the following used the term 'deep ecology' for the first time?
+(a) E.P. Odum
+(b) C. Raunkiaer
+(c) F.E. Clements
+(d) Arne Naess
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+The Monoclimax Theory was propounded by
+(a) F.E. Clements
+(b) C.C. Park
+(c) D.V. Ager
+(d) S.J. Gould
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The concept of the ecological niche was enunciated by:
+(a) Grinnell
+(b) Darwin
+(c) E.P. Odum
+(d) C.C. Park
+@ans (a)
+@end
+
+@table
+Term | Coined / proposed by
+Ecology | Ernst Haeckel (1866)
+Ecosystem | A.G. Tansley (1935)
+Niche | Joseph **Grinnell** (1917); Charles Elton (functional niche, 1927)
+10% law | Raymond **Lindeman** (1942)
+Monoclimax theory | F.E. **Clements**
+Deep ecology | **Arne Naess** (1973)
+Ecological transition | John W. **Bennett**
+Fundamentals of Ecology | E.P. Odum (father of modern ecosystem ecology)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P. U.D.A./L.D.A. (Mains) 2010; U.P.P.C.S. (Mains) 2011
+Which one of the following trees is not eco-friendly?
+(a) Babul
+(b) Eucalyptus
+(c) Neem
+(d) Pipal
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+"Ecology is permanent economy" is the slogan of which movement?
+(a) Appiko Movement
+(b) Narmada Bachao Andolan
+(c) Chipko Movement
+(d) None of the above
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2015
+Chipko movement is related to
+@ans Plant conservation
+@end
+
+@up UP link: The **Chipko movement** began in **1973** at **Mandal** and **Reni** villages of Chamoli, then in **Uttar Pradesh** and now in Uttarakhand. It was led by **Gaura Devi**, **Chandi Prasad Bhatt** and **Sunderlal Bahuguna**, whose slogan was "Ecology is permanent economy". **Appiko** (1983) was its Karnataka counterpart.
+
+@trap
+**Energy flows one way, while nutrients cycle.** The **pyramid of energy is never inverted**, and the **pond's biomass pyramid is**. **Lotic = flowing** (rivers), **lentic = still** (ponds, lakes). Ecological footprint is measured in **global hectares**. The **10% law** is Lindeman's, not Odum's or Tansley's.
+@end
+
+@heatmap
+
+@pattern
+Food chains and energy flow are tested **conceptually**: what forms a trophic level, the direction of energy flow, the 10% rule and its author, inverted pyramids and productivity order. About half of these PYQs come from **2017-2025**, often as statement or assertion-reason pairs. A small set of thinker-term matches (Grinnell, Naess, Clements, Lindeman) recurs.
+@end
+
+@next
+Likely next angles: **biomagnification** (DDT, mercury, microplastics up the food chain), **keystone species** and **trophic cascades** (wolves in Yellowstone, tigers in India), **blue carbon** ecosystems (mangroves, seagrass), **Earth Overshoot Day**, and **ecosystem services** valuation.
+@end

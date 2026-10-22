@@ -1,0 +1,103 @@
+@chapter 19 | Exchange Rate, FDI and External Debt
+@meta Built from 41 UPPSC questions (1991–2024). Focus: devaluation, rupee convertibility, FDI sources and limits, external debt, forex reserves, the euro and FEMA.
+
+@hot
+- **Devaluation**: cut in a currency's value; **exports cheaper, imports costlier**; India: **1949** (first), 1966, **1991** (twice) {1991, 1994, 1998, 2001, 2003, 2004, 2008, 2008, 2012}
+- Rupee **convertible on current account** (**1994**); capital account studied by **Tarapore** {2004, 2007, 2017}
+- **FDI source**: **Mauritius** earlier, **Singapore** now (tax treaty change) {2006, 2010, 2024}
+- **Forex reserves**: **foreign currency assets** are the largest part; **SDRs are included** {2001, 2002, 2023}
+- **FERA** replaced by **FEMA**; fully in force **2002** {2007, 2013}
+@end
+
+@section 19.1 | Exchange Rate and Convertibility
+- Flexible rate is set by demand and supply; that supply is **not** set by the central bank (A true, R false) {2024}
+- Rupee convertibility now: for **current account** transactions only {2004}
+- Fully convertible on current account: **1994** {2017}
+- Full capital account convertibility: **Tarapore** Committee {2007}
+- **Devaluation**: **reduction in value** against major currencies {1991, 1994, 1998}
+- First devaluation: **1949** {2008}
+- Devalued twice in **1991-92** {2012}
+- Devaluation may promote exports as prices abroad fall (A and R true, R explains A) {2001, 2004}
+- Effect: **imports costlier, exports cheaper** {2008}
+- Aim: to fix the **balance of trade** {2003}
+- Remittances 2022: **India 1st, Mexico 2nd, China 3rd, Philippines 4th** {2024}
+
+@flow Rupee convertibility steps
+1991 devaluation | Twice, 1 and 3 July 1991
+LERMS 1992 | Partial convertibility, dual rate
+March 1993 | Market-determined (managed float)
+August 1994 | Current account convertibility (IMF Article VIII)
+Tarapore 1997, 2006 | Capital account roadmap; not yet full
+@end
+
+@section 19.2 | Foreign Investment
+- Most FDI in the last decade: **services** sector (telecom was taken as the answer in 2006) {2006}
+- Large foreign investment came in **life insurance, banking, automobiles** (1, 2 and 3) {2009}
+- Forex earners: **tourism, medical care, garments, leather** (all four) {2008}
+- FPIs issue **participatory notes** to unregistered foreign investors {2019}
+- FPI limit in corporate bonds (Budget 2020-21): **15%** {2020}
+- Largest equity source: **Mauritius** when asked; **Singapore** now {2006, 2010}
+- Singapore top FDI source in 2023-24 because of the Mauritius treaty change (A and R true, R explains A) {2024}
+- FDI recently opened in **retail trade** {2010}
+- Insurance FDI (2012 proposal): **26% to 49%** {2012}
+- Foreign equity in small-scale units (1995-96): **24%** {1995}
+
+@table
+FDI fact | Detail
+Largest source now | Singapore, then Mauritius, USA
+Top sector | Services
+Insurance limit | 26% to 49% (2015) to 74% (2021) to 100% (Budget 2025-26)
+Multi-brand retail | 51% with conditions; single-brand 100%
+Banned | Lottery, gambling, chit funds, Nidhi, real estate business, atomic energy
+@end
+
+@section 19.3 | External Debt
+- External debt end-2010: over **US$ 300 billion** {2010}
+- Largest component of external debt: **commercial borrowings** {2017}
+- **ECBs** are regulated by the **RBI** {2010}
+- Most indebted (World Bank 2010): **Russia, China, Turkey, Brazil, India** {2011}
+- World Bank class for India: **less indebted** {2009}
+- Not true of green bonds: that they are **short-maturity** loans {2016}
+- **Oil Pool Account** closed: **1 April 2002** {2010}
+
+@section 19.4 | Forex Reserves, the Euro and FEMA
+- Not true: **SDRs are not included** (they are included) {2001}
+- Largest share of reserves: **foreign currency assets** {2002}
+- Reserves end-December 2024: **US$ 640.3 billion** {2023}
+- Rupee value hit by **inflation, fiscal deficit, crude prices** (all three) {2013}
+- New single European currency: **Euro** {1995}
+- Not true of the euro in 1999: **in circulation** (notes came in 2002) {1999}
+- Euro is the currency of **20** EU states (per key; 20 since Croatia joined, 2023) {2001}
+- FERA replaced by **FEMA** {2007}
+- FEMA finally implemented: **2002** (passed 1999, in force June 2000) {2013}
+- Sanctions forex for imports: **exchange bank** (authorised dealer) {2011}
+
+@table
+Forex reserves | Detail
+Parts | Foreign currency assets (largest), gold, SDRs, IMF reserve tranche
+Kept by | RBI
+End-December 2024 | US$ 640.3 billion
+Record | Over US$ 700 billion (September 2024)
+@end
+
+@trap
+- **Devaluation** = government act; **depreciation** = market fall.
+- **Current account** convertible since 1994; **capital account** still not full.
+- SDRs **are** part of forex reserves; ECBs are regulated by the **RBI**, not SEBI.
+- FEMA: passed **1999**, in force **2000**, FERA fully gone **2002**.
+@end
+
+@up UP link: UP draws FDI through **Noida-Greater Noida** (electronics, mobiles, data centres) and the **Defence Corridor**; UP Investors Summit 2023 drew pledges of over **Rs 33 lakh crore** (soft figure); remittances matter most in eastern UP districts with Gulf migrants.
+
+@last
+- Devaluation: **1949, 1966, 1991 (twice)**; exports cheaper
+- Current account convertible **1994**; **Tarapore** = capital account
+- India = **top remittance receiver** (2022)
+- **Services** = top FDI sector; **Singapore** = top source now
+- P-notes issued by **FPIs**; FPI bond limit **15%**
+- ECBs regulated by **RBI**; commercial borrowing = largest debt part
+- India = **less indebted** (World Bank)
+- Forex: FCAs largest; **SDRs included**; Dec 2024 = **US$ 640.3 bn**
+- Euro notes from 2002; **20** euro states
+- FEMA replaced FERA; final **2002**
+@end

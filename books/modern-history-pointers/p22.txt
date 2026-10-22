@@ -1,0 +1,117 @@
+@chapter 22 | Gandhi and his Early Movements
+@unit UNIT VI · GANDHI AND NON-COOPERATION
+@meta Built from 58 UPPSC questions (1991–2023). Focus: South Africa, Gokhale, Champaran, Ahmedabad and Kheda, titles, satyagraha, truth and non-violence, Gandhian politics and economics, Vaikom, Yerwada.
+
+@hot
+- First satyagraha in India: **Champaran (1917)**, for **indigo** workers under **tinkathia** (3/20 of land) {2004, 2009, 2011, 2012, 2013, 2015}
+- First hunger strike: **Ahmedabad mill strike (1918)**, for cotton mill workers {1998, 2002, 2010, 2015}
+- Political guru: **Gokhale**, who told Gandhi to keep "ears open, mouth shut" for a year {1991, 2014, 2015}
+- "Mahatma" first used by **Tagore** (Champaran period); "Father of the Nation" first by **Subhas Bose** {2001, 2002, 2008, 2010, 2010}
+@end
+
+@section 22.1 | Early Life and South Africa
+- Karamchand Gandhi Diwan of "all of these" (per key; really Porbandar, Rajkot, Wankaner) {2001}
+- True: schooled at **Rajkot**, married at 13, law at **Inner Temple**, influenced by **Unto This Last**: **all four** {2010}
+- Thrown off the train at **Pietermaritzburg** {2015}
+- Adopted "Seva Dharma" in **South Africa** {2015}
+- First Congress session attended: **Calcutta, 1901** {2003, 2004}
+- South Africa prepared him for leadership (A true); "Indians would be ready for militant struggle" (R false) {2023}
+- Paper in South Africa: **Indian Opinion** {2002}
+- Influences: **Ruskin, Thoreau, Tolstoy** (all) {2013}
+
+@table
+Thinker | Gave Gandhi
+Ruskin (Unto This Last) | Dignity of labour, good of all
+Thoreau (Civil Disobedience) | Civil disobedience, refusing taxes
+Tolstoy (The Kingdom of God Is Within You) | Non-violence; Tolstoy Farm
+@end
+
+@section 22.2 | Return to India (1915)
+- Political guru: **G.K. Gokhale** {1991}
+- "Ears open, mouth shut" for the first year: **Gokhale** {2014}
+- Advised a year as observer and student: **Gokhale** {2015}
+- First public speech in India: **Varanasi** (BHU, 1916) {2015}
+
+@section 22.3 | Champaran, Ahmedabad, Kheda
+- First successful satyagraha after return: **Champaran** {2011}
+- First satyagraha in India: **Champaran** {2004, 2009}
+- Mission to free bonded labour: question marked (*); intended **Champaran** {2015}
+- Tinkathia: **indigo on 3/20 of the land** {2013}
+- Champaran movement: problems of **indigo workers** {2012}
+- Tinkathia law: **Champaran, indigo** {2015}
+- Not correct: Champaran was "**the first all-India movement**" {2011}
+- Joined Gandhi at Champaran: **Rajendra Prasad and Anugrah Narayan Sinha** {1999}
+- Invited Gandhi to Champaran: **Raj Kumar Shukla** {2016}
+- Linked with Champaran Satyagraha: **Raj Kumar Shukla** {?}
+- Not on the Champaran Agrarian Enquiry Committee: **Anugrah Narayan Sinha** {2017}
+- Opposed Champaran (per key, by elimination): **N.G. Ranga** {2007}
+- First satyagraha (per key) against **low wages of workers** (Ahmedabad) {1998}
+- First hunger strike: **Ahmedabad strike** {2010}
+- Struggle of industrial workers: **Ahmedabad** {2002}
+- Ahmedabad satyagraha for **cotton mill workers** {2015}
+- Not led by Gandhi: **Bardoli** (1928, Vallabhbhai Patel) {2005}
+
+@flow First Three Satyagrahas
+Champaran, indigo cultivators | 1917
+Ahmedabad, mill workers, first hunger strike | 1918
+Kheda, peasants seeking revenue remission | 1918
+Rowlatt Satyagraha, first all-India | 1919
+@end
+
+@section 22.4 | Titles
+- "Mahatma" added during **Champaran** {2001, 2002}
+- First called him "Mahatma": **Tagore** {2010}
+- First called him "Father of the Nation": **Subhas Chandra Bose** {2008, 2010}
+- "One-man boundary force": **Mountbatten** {2015}
+
+@section 22.5 | Satyagraha and Ideas
+- Coined "Satyagraha": **Gandhi** {2015}
+- Best known for **passive resistance** for independence {2013}
+- Not Gandhian: "the aim of a satyagrahi is **to defeat the enemy**" {2013}
+- Last step in satyagraha (per key): **strike** {2013}
+- Twin principles of Ram Rajya: **truth and non-violence** {1993}
+- Non-violence is **a way to attain truth** {1994}
+- Cruelest violence: **persistence of poverty** {2015}
+- "Wrong means never lead to right ends": **Gandhi** {2015}
+- "Morally wrong can never be politically right": **Gandhi** {2015}
+- Supporter of **philosophical anarchism** {2009}
+- Not a feature of Gandhian politics: **authority** {2013}
+- Politics meant **activity for public welfare** {2013}
+- "An individualist among socialists..." (per key) {2013}
+
+@section 22.6 | Gandhian Economics and Swadeshi
+- Trusteeship propounded in **South Africa, 1903** (per key) {2013}
+- Not correct (per key): "he did not favour mechanisation in the USA" {2013}
+- Uplift of untouchables through **cottage industry** {2013}
+- "Gandhian innovation": **more from less for more people** {2015}
+- Opposed planned development: **Gandhi** {2019}
+- Favoured by Nehru, not Gandhi: **heavy industrialisation** {2006}
+- "Destruction is the best way to deal with foreign cloth": **Gandhi** {2010}
+- Boycott worked because India was a **market for manufactured goods** {2013}
+- Not related to Gandhi: **Swadeshi Movement (1905)** {1998}
+
+@section 22.7 | Other Points
+- Correct: worked for untouchables, launched Non-Cooperation, began Civil Disobedience: **all the above** {2013}
+- Vaikom: against untouchability, and Gandhi took part: **both correct** {2021}
+- Jail Gandhi called a "Mandir": **Yerwada** {2015}
+
+@trap
+- First in India = **Champaran**; first all-India = **Rowlatt**; first hunger strike = **Ahmedabad**.
+- Bardoli **1928** was Patel's; Gandhi's planned Bardoli campaign (1922) was dropped after Chauri Chaura.
+- Tagore called Gandhi **Mahatma**; Gandhi called Tagore **Gurudev**.
+@end
+
+@up UP link: Gandhi's first public speech in India was at the opening of **BHU, Varanasi** (February 1916); he first heard of Champaran at the **Lucknow** Congress (1916).
+
+@last
+- Indian Opinion = South Africa
+- Pietermaritzburg = thrown off train
+- Gokhale = political guru
+- BHU, Varanasi = first speech
+- Champaran 1917 = indigo, tinkathia
+- Raj Kumar Shukla = invited Gandhi
+- Ahmedabad 1918 = first hunger strike
+- Bardoli 1928 = Patel
+- Tagore = Mahatma; Bose = Father of the Nation
+- Yerwada = Mandir
+@end

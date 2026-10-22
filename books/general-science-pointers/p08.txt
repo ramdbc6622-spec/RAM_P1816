@@ -1,0 +1,107 @@
+@chapter 8 | Electricity and Conductivity
+@meta Built from 46 UPPSC questions (1990–2025). Focus: units of electricity, bulb resistance, dynamo, motor and transformer, fuse and earthing, lamps, conductors, lightning and semiconductors.
+
+@hot
+- **kWh sums**: units = watts x hours / 1000 (100 W for 4 h = **0.4**; 5 x 100 W for 20 h = **10**; 15 x 200 W for 24 h = **72**) {2006, 2009, 2017, 2023}
+- **Tungsten** filament in bulbs {1990, 2005, 2011}
+- **Dynamo** = mechanical to electrical (electromagnetic induction); **motor** = electrical to mechanical {2007, 2009, 2012, 2017, ?}
+- **Fluorescent tube**: **mercury vapour and argon** at low pressure {1990, 2006, 2009}
+- **Semiconductors**: **silicon and germanium**; resistance **falls** on heating {2005, 2015, 2015, 2015, 2016, ?}
+@end
+
+@section 8.1 | Electrical Energy and the Unit
+- **1 kWh = 3.6 x 10^{6} J** {2006}
+- 100 W bulb for 4 hours: **0.4 unit** {2009}
+- Five 100 W bulbs for 20 hours: **10 units** {2017}
+- Fifteen 200 W bulbs for 24 hours (Silkyara tunnel): **72 units** {2023}
+
+@section 8.2 | Resistance, Bulbs and Circuits
+- Of two bulbs, the **dim one has higher resistance** {2008, 2009, ?}
+- Maximum light from two identical bulbs: connect in **parallel** {2021}
+- 15 V across a brown-green-black resistor (15 ohm): **1 ampere** {2023}
+- No current between bodies at the **same potential** {2014}
+- n equal charged drops merge: potential becomes **n^{2/3} V** {2015}
+
+@section 8.3 | Dynamo, Motor and Transformer
+- Dynamo is a **converter of energy** {2009}
+- Works on electromagnetic induction: **dynamo** {2012, 2017}
+- Dynamo: **mechanical to electrical** {?}
+- Electrical to mechanical: **electric motor** {2007}
+- Motors burn at low voltage: they **draw more current** {2008}
+- Transformer: **steps AC voltage up or down** {2006}
+- Mobile charger: a **step-down transformer** {2017}
+- AC to DC: **rectifier** {2006}
+
+@table
+Device | Does
+Dynamo / generator | Mechanical to electrical (induction)
+Electric motor | Electrical to mechanical
+Transformer | Changes AC voltage (works only on AC)
+Rectifier | AC to DC
+Inverter | DC to AC
+Fuse | Melts on excess current
+@end
+
+@section 8.4 | Safety: Fuse, Earthing and Plugs
+- Bulb filament: **tungsten** {1990, 2005, 2011}
+- Longest pin of a 3-pin plug: **earth** {2007}
+- Earthing is for **safety** {2002}
+- Fuse wire: **high resistance, low melting point** {1993}
+- Fuse wire is lead-tin alloy; its melting point is **lower**, not higher, than copper's (A true, R false) {2025}
+
+@section 8.5 | Lamps and Lighting
+- **CFL** = Compact Fluorescent Lamp {2015}
+- Gas in advertising signs: **neon** {2001}
+- Fluorescent tubes: **mercury vapour and argon** {2006}
+- Tube light: **argon at low pressure** with mercury vapour {2009}
+- Gases in a fluorescent tube: **mercury and neon** (old key) {1990}
+- Why a tube over a bulb: **none of these** (per key) {2009}
+
+@section 8.6 | Solar Cells and the Earth's Magnetism
+- Ascending power use: **fan, TV, electric iron, electric kettle** {1992}
+- **Photovoltaic cells** = **solar cells**; they turn sunlight into electricity {2016, 2022}
+- Earth's magnetic field: **currents in the core** {2011}
+
+@section 8.7 | Conductors and Lightning
+- Best conductor: **silver** {2015}
+- Lightning conductors protect buildings by sending charge to earth (A and R true, R explains A) {1999}
+- Copper rods for lightning conductors: better conductor, does not rust (A and R true, R explains A) {2013}
+- Closed car is safe in lightning: it acts as a **hollow conductor** (A and R true, R explains A) {2023}
+
+@flow Conductors to insulators
+Silver | Best conductor
+Copper, aluminium | Wires and cables
+Germanium, silicon | Semiconductors; resistance falls when hot
+Glass, rubber, mica | Insulators
+@end
+
+@section 8.8 | Superconductors and Semiconductors
+- Superconductors would pay most at **room temperature** {2000}
+- Highest superconducting temperature: about **133-138 K** when asked (*) {2013}
+- High-temperature superconductors: **ceramic oxides** {2000}
+- Semiconductor resistance on heating: **decreases** {2015}
+- Transistor component: **germanium** {2016}
+- Commonest transistor material: **silicon** {2015}
+- Semiconductors: **silicon and germanium** (1 and 4) {2005, 2015, ?}
+
+@trap
+- The **dim** bulb has the **higher** resistance (P = V^{2}/R).
+- Metals' resistance rises with heat; **semiconductors' falls**.
+- Fuse = **low** melting point, **high** resistance; earth pin is the **longest and thickest**.
+- Transformers work only on **AC**; charger = step-down transformer + rectifier.
+@end
+
+@up UP link: the **Silkyara tunnel** sum (2023) was set in Uttarakhand; in UP, **Jewar** (Gautam Buddha Nagar) has an approved **semiconductor** assembly unit (HCL-Foxconn, 2025), and UP's largest solar parks are in **Bundelkhand**.
+
+@last
+- **1 kWh = 3.6 x 10^{6} J**; units = W x h / 1000
+- Dim bulb = **higher resistance**; parallel = more light
+- Tungsten filament; fuse = low melting point
+- Earth pin is longest; earthing = safety
+- Dynamo = mechanical to electrical; motor = reverse
+- Transformer = AC voltage; rectifier = AC to DC
+- Tube light = **mercury vapour + argon**; neon = signs
+- Silver = best conductor; copper lightning rods
+- Closed car = safe in lightning (hollow conductor)
+- Si, Ge = semiconductors; resistance falls on heating
+@end

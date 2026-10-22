@@ -1,0 +1,75 @@
+@chapter 12 | Indian National Congress
+@meta Built from 33 UPPSC questions (1995–2024). Focus: the 1885 session, viceroys' attitudes, first Muslim, European and woman presidents, Tilak, Amritsar and Nagpur, presidents of the 1920s-30s, Haripura and Tripuri, Azad.
+
+@hot
+- **First session (1885)**: **Bombay**, president **W.C. Bonnerjee**, general secretary **A.O. Hume**; under **Dufferin** {2004, 2006, 2010, 2010, 2011, 2012, 2014, 2015, 2015, 2017, 2023, 2023}
+- **First Muslim president**: **Badruddin Tyabji**; first woman: **Annie Besant (Calcutta 1917)**; first European: **George Yule** {1995, 2003, 2004, 2005, 2010, 2012, 2013, 2015, 2023}
+- **Tilak** never presided; of Lal-Bal-Pal only **Lajpat Rai** did {1997, 2006, 2008, 2021}
+- **Haripura (1938)**: **Subhas Bose**; **Gandhi** presided only at **Belgaum (1924)** {2008, 2011}
+@end
+
+@section 12.1 | Founding and British Attitude
+- Congress founded **1885**, first session at **Bombay** {2010, 2023}
+- First president: **W.C. Bonnerjee**; general secretary **A.O. Hume** {2004, 2010, 2014, 2015, 2015}
+- Absent at the founding: **Surendranath Banerjee** {1997}
+- Viceroy then: **Dufferin**; "microscopic minority" was his phrase {2006, 2011, 2012, 2012, 2017, 2018, 2023}
+- "Assist it to a peaceful demise": **Curzon** {2002, 2002}
+- Attended a Congress session: **Willingdon**, Bombay 1915 (as Governor) {2008}
+- Early nationalists saw British rule as providential {2024}
+
+@section 12.2 | Presidents and Firsts
+- First Muslim president: **Badruddin Tyabji** (1887) {1995, 2003, 2004, 2005}
+- Tyabji first Muslim; Sarojini Naidu first Indian woman president {2023}
+- First woman president: **Annie Besant**, **Calcutta 1917** {2010, 2012, 2015}
+- First European president: **George Yule** {2013}
+- Never president: **Tilak** {2006, 2008, 2021}
+- Of Lal-Bal-Pal, president: **Lala Lajpat Rai** (1920 special) {1997}
+- "Swaraj is my birthright": **Tilak** (Lucknow 1916) {2004, 2005, 2015}
+- Tilak's last session: **Amritsar 1919** {2014}
+- Drafting the new constitution with Gandhi (Amritsar resolution) {2014}
+- **C. Vijayaraghavachariar**: **Nagpur 1920** {2016}
+- First policy on princely states: **Nagpur** session {2015}
+- Gandhi presided only at **Belgaum (1924)** {2011}
+- Presidents in order and matches (Azad, Naidu, Motilal and others) {2002, 2004, 2012, 2014}
+- Nehru spoke of socialism at **Lucknow (1936)** {2015}
+- **Haripura (1938)**: **Subhas Bose** {2008}
+- **Jana Gana Mana** first sung at the **1911 Calcutta** session {2010}
+- Six years in a row: **Abul Kalam Azad** (1940-46) {2016}
+- Suggested winding up the Congress: **Gandhi** {2004}
+
+@table
+Session | Year | President / event
+Bombay | 1885 | W.C. Bonnerjee (first)
+Madras | 1887 | Badruddin Tyabji (first Muslim)
+Allahabad | 1888 | George Yule (first European)
+Calcutta | 1906 | Dadabhai Naoroji (Swaraj)
+Surat | 1907 | Split (Rash Behari Ghosh)
+Lucknow | 1916 | Pact; Tilak's "Swaraj" slogan
+Calcutta | 1917 | Annie Besant (first woman)
+Belgaum | 1924 | Gandhi (only time)
+Kanpur | 1925 | Sarojini Naidu (first Indian woman)
+Lahore | 1929 | Jawaharlal Nehru; Purna Swaraj
+Haripura, Tripuri | 1938, 1939 | Subhas Bose
+@end
+
+@trap
+- Hume was **general secretary**, never president.
+- First woman = **Besant (1917)**; first Indian woman = **Naidu (1925)**.
+- "Microscopic minority" = **Dufferin**; "peaceful demise" = **Curzon**.
+- Tilak never presided over a session.
+@end
+
+@up UP link: UP hosted key sessions: **Allahabad 1888** (George Yule) and 1892, **Lucknow 1916** (Lucknow Pact) and **1936** (Nehru's socialism), **Kanpur 1925** (Sarojini Naidu), and **Faizpur's** predecessor **Meerut 1946** (Kripalani).
+
+@last
+- 1885 Bombay; W.C. Bonnerjee; Hume secretary; Dufferin Viceroy
+- Dufferin = microscopic minority; Curzon = peaceful demise
+- Tyabji = first Muslim (1887); George Yule = first European (1888)
+- Besant = first woman (1917); Naidu = first Indian woman (1925)
+- Tilak never president; Lajpat Rai did (1920)
+- Tilak's last session = Amritsar 1919
+- Nagpur 1920 = Vijayaraghavachariar
+- Gandhi presided only at Belgaum 1924
+- Bose = Haripura 1938; Jana Gana Mana first sung 1911
+- Azad = president 1940-46
+@end

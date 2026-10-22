@@ -1,0 +1,100 @@
+@chapter 7 | Countries and their Borders
+@unit UNIT III · THE POLITICAL WORLD
+@meta Built from 42 UPPSC questions (1994–2023). Focus: areas and coastlines, regional groups, landlocked countries, dependent territories, boundary lines.
+
+@hot
+- **Landlocked**: **Laos** (only one in SE Asia), **Bolivia, Chad**, Afghanistan, Hungary, Switzerland; **Liberia** and **Azerbaijan** (per key) are not {2001, 2005, 2009, 2010, 2013, 2015, 2022}
+- **North America** has **no** landlocked country {2005}
+- Boundary lines: **Radcliffe-India/Pakistan, Durand-Afghanistan/Pakistan, Maginot-France/Germany, 38th parallel-Koreas, Rio Grande-USA/Mexico** {1994, 2005, 2008, 2014, 2015}
+- Longest land border with India: **Bangladesh** {2013}
+@end
+
+@section 7.1 | Size and Coastline
+- Largest country: **Russia** (not in options, *) {1996}
+- Ascending area: **Argentina, India, Australia, Brazil** {2012}
+- Not larger than India: **France** {2013}
+- Longest coastline: **Canada** {2015}
+- Longest border with India: **Bangladesh** {2013}
+
+@section 7.2 | Regions and Neighbours
+- Not in the Arabian Peninsula: **Syria** (only 4) {2023}
+- Not in the Middle East: none clearly (Turkiye least wrong, *) {2021}
+- Israel borders **Lebanon, Syria, Jordan, Egypt** {2017}
+- Gaza borders **Egypt and Israel** (both) {2023}
+- Horn of Africa: **Somalia, Ethiopia, Djibouti**; not **Sudan** {1999, 2009}
+- Not Scandinavian: **Finland** {2001}
+- No Baltic coast (per key): **Sweden and Norway** option (Norway has none) {2021}
+- Not Central American: **Sierra Leone** {2014}
+- Not in Africa: **Guyana** {2017}
+- Not on Africa's west coast: **Botswana** {2016}
+- Zambia borders all four, Botswana by 150 m (*) {2013}
+- Afghanistan does not border **Russia** {2002, 2012}
+
+@section 7.3 | South-East Asia and Islands
+- Indonesia has no land border with **Brunei** {2021}
+- Indonesia: over 15,000 islands, over 150 active volcanoes: key says neither {2021}
+- **Borneo** divided among **three** countries (key also says volcanic) {2022}
+- Galapagos: **volcanic** (true); part of Peru (false; **Ecuador**) {2021}
+- **Australia-Christmas Island, Denmark-Greenland, France-Martinique, Spain-Santa Cruz** {2000}
+- In America but politically European: **Greenland** {2002}
+- **Aleutian-USA, Bear Island-Norway, Greenland-Denmark, Franz Josef Land-Russia** {2014}
+
+@section 7.4 | Landlocked and Transcontinental
+- Not landlocked: **Liberia** {2005}
+- Landlocked in Africa: **Chad** {2010}
+- Only landlocked in SE Asia: **Laos** {2001, 2015}
+- Landlocked: **Bolivia** {2022}
+- No landlocked country: **North America** {2005}
+- Landlocked: **Afghanistan, Hungary, Switzerland** (not Malaysia) {2009}
+- Not landlocked (Caspian coast): **Azerbaijan** per key {2013}
+- Landlocked: **Armenia, Botswana, Ethiopia**; Montenegro is coastal (*) {2016}
+- South Sudan: **landlocked**, main river **White Nile** (I and III); capital Juba {2010}
+- Transcontinental: **Georgia and Turkey** {2009}
+- Zimbabwe was **Southern Rhodesia** {2004}
+
+@table
+Continent | Landlocked examples
+Africa (16, most) | Ethiopia, Chad, Niger, Mali, Zambia, Zimbabwe, Botswana, Uganda
+Asia | Afghanistan, Nepal, Bhutan, Laos, Mongolia, Central Asian states
+Europe | Switzerland, Austria, Hungary, Czechia, Serbia
+South America | Bolivia, Paraguay
+North America, Australia | None
+@end
+
+@section 7.5 | Boundary Lines
+- Wrong: **Durand Line-Bangladesh/India** (it is **Afghanistan-Pakistan**) {2015}
+- **Radcliffe Line**: **India and Pakistan** {2014}
+- **Maginot Line**: **France-Germany** {1994}
+- Rivers as borders: **Rio Grande** and Rhine (two right, *) {2002, 2003}
+- **Rio Grande**: **Mexico and USA** {2008}
+- Koreas divided at **38° N** {2005}
+
+@flow Famous lines
+Radcliffe 1947 | India-Pakistan, India-Bangladesh
+Durand 1893 | Afghanistan-Pakistan
+McMahon 1914 | India-China (east)
+Maginot 1930s | French wall facing Germany
+38th parallel | North-South Korea
+49th parallel | USA-Canada
+@end
+
+@trap
+- **Guyana** = South America; **Guinea** = Africa.
+- **Finland** is Nordic, not Scandinavian.
+- Uzbekistan and Liechtenstein are **doubly landlocked**.
+@end
+
+@up UP borders **Nepal** (open border, 1,751 km for India overall), with border districts such as Maharajganj, Siddharthnagar, Bahraich, Lakhimpur Kheri and Pilibhit.
+
+@last
+- Russia largest; India 7th; Canada longest coast
+- Bangladesh = longest border with India
+- Horn of Africa: Somalia, Ethiopia, Eritrea, Djibouti
+- Finland not Scandinavian; Guyana not African
+- Laos = only landlocked in SE Asia
+- Bolivia, Paraguay = landlocked in S. America
+- North America: no landlocked country
+- Greenland = Denmark; Christmas Island = Australia
+- Durand = Afghanistan-Pakistan; Radcliffe = India-Pakistan
+- 38° N = Koreas; Rio Grande = USA-Mexico
+@end

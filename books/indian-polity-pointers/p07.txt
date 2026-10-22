@@ -1,0 +1,91 @@
+@chapter 7 | The Preamble
+@meta Built from 27 UPPSC questions (1991–2025). Focus: 42nd Amendment words, order of words, types of justice and liberty, legal nature, cases, "soul".
+
+@hot
+- **42nd Amendment (1976)** added **Socialist, Secular, Integrity**; Sovereign and Republic were original {1991, 2006, 2008, 2009, 2010, 2010, 2013, 2017, 2025}
+- Preamble = "**soul**" of the Constitution {2006, 2008, 2008, 2013, 2015}
+- **Justice**: social, economic, political (3); **no** religious justice; **no** economic freedom under Liberty {2008, 2016, 2018, 2021, ?}
+- **Kesavananda Bharati** (1973): Preamble **is part** of the Constitution; Berubari (1960) said not {2014, 2017}
+- **Non-justiciable**, can be amended, cannot override specific provisions {2004, 2009, 2019}
+@end
+
+@section 7.1 | Text and Purpose
+- Preamble ideals elaborated in the **DPSP and FRs** {2002, 2004}
+- Constitution's objectives reflected in the **Preamble** {2013}
+
+@section 7.2 | Original Text and 42nd Amendment
+- Status on 26 January 1950: **Sovereign Democratic Republic** {2008, 2009}
+- Absent in 1949: **Socialist, Integrity, Secular** (Republic was present) {2009}
+- Not in the Preamble in 1975: **Integrity** {2006}
+- **Secular and Socialist** added by the **42nd Amendment**; Secular by the 42nd {2008, 2017, 1991, 2010, 2013}
+- Inserted by the 42nd: **Socialist and Secular** (not Sovereign, Republic) {2025}
+- Added: **Socialist and Secular**; "Gram Swarajya" is not in the Preamble {2010}
+- Balram Singh case (Nov 2024): SC upheld the insertion of Socialist and Secular
+
+@section 7.3 | Order and Absent Words
+- Order: **Sovereign, Socialist, Secular, Democratic (Republic)** {2023}
+- Not in the Preamble: **Federal** {2021}
+
+@flow Preamble at a glance
+Source | We, the people of India
+Nature | Sovereign Socialist Secular Democratic Republic
+Justice (3) | Social, economic, political
+Liberty (5) | Thought, expression, belief, faith, worship
+Equality (2) | Status and opportunity
+Fraternity (1) | Dignity, unity and integrity
+Date | 26 November 1949
+@end
+
+@section 7.4 | Secular
+- "Secular" in India: **no state religion** {2005}
+- India described as Secular in the **Preamble** {2005}
+
+@section 7.5 | Four Objectives
+- Justice, liberty, equality, fraternity: **3, 5, 2, 1** {2018}
+- Types of justice: **three**: **social, economic, political** {2016, 2021}
+- Not mentioned: **religious justice** {?}
+- Liberty not mentioned: **economic freedom** {2008}
+- Goals: justice, liberty of thought, equality of opportunity, dignity: **all** {1998}
+- **Social equality** is guaranteed {2008}
+
+@section 7.6 | Legal Nature
+- True: came from the **Objectives Resolution**, **non-justiciable**, **cannot override** provisions; false: cannot be amended {2009}
+- Legal nature: **not enforceable** {2019}
+- Not enforceable, useful, states aims, helps interpretation: all true (*) {2004}
+
+@section 7.7 | Cases
+- Preamble is **part** of the Constitution: **Kesavananda Bharati** {2014, 2017}
+- Preamble (secularism) part of basic structure: **S.R. Bommai** (1994) {2012}
+
+@table
+Case | Holding
+Berubari (1960) | Preamble **not** part of Constitution
+Kesavananda Bharati (1973) | Preamble **is** part; can be amended, not basic structure
+S.R. Bommai (1994) | Secularism part of basic structure
+LIC v. Consumer Education (1995) | Preamble integral part
+Balram Singh (2024) | 42nd Amendment words upheld
+@end
+
+@section 7.8 | Descriptions
+- "**Soul**" of the Constitution: the **Preamble** {2006, 2008, 2008, 2013, 2015}
+
+@trap
+- **Economic justice** is in; **economic freedom** is not. **Religious justice** is not; faith and worship are under Liberty.
+- **Berubari** = not part; **Kesavananda** = part.
+- Ambedkar's "heart and soul" = **Article 32**, not the Preamble.
+@end
+
+@up No UP-specific item. Note: the original handwritten Preamble page was illuminated by **Beohar Rammanohar Sinha** of Jabalpur at Santiniketan.
+
+@last
+- 42nd (1976) added **Socialist, Secular, Integrity**
+- 1950 status = **Sovereign Democratic Republic**
+- Order: Sovereign, Socialist, Secular, Democratic, Republic
+- Justice 3, Liberty 5, Equality 2, Fraternity 1
+- No **religious justice**, no **economic freedom**, no **Federal**
+- Secular = no state religion
+- Non-justiciable; amendable; cannot override
+- Berubari not part; **Kesavananda** part
+- **Bommai** = secularism basic structure
+- Preamble = **soul**; Art 32 = Ambedkar's heart and soul
+@end

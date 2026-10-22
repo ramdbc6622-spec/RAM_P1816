@@ -1,0 +1,103 @@
+@chapter 28 | Centre-State Relations
+@unit UNIT VII · FEDERAL RELATIONS AND COMMISSIONS
+@meta Built from 33 UPPSC questions (1991–2025). Focus: Part XI and the Seventh Schedule, residuary power, Art 249, Inter-State Council, Sarkaria, Part XII taxes.
+
+@hot
+- **Sarkaria Commission** = Centre-State relations; led to the **Inter-State Council** (1990) {2003, 2004, 2006, 2008, 2014, 2016, 2017, 2018, 2021}
+- **Inter-State Council**: **Art 263**, set up by the **President** {2000, 2009, 2017}
+- Legislative relations: **Part XI**, **Arts 245-246**, **Seventh Schedule** {1993, 2001, 2004, 2008, 2014}
+- **Residuary powers**: **Parliament** {1991, 1995}
+- Art 249 resolution lasts **one year** {2009, 2016, 2017}
+@end
+
+@section 28.1 | Basis
+- Rests on **provisions, conventions, judicial rulings, dialogue** (all four) {2009}
+- Federal polity: **Union-State, inter-State, cooperation, dispute settlement** (all) {2010}
+
+@section 28.2 | Legislative Relations
+- **Part XI** {2004, 2014}
+- Three lists regulated by **Arts 245 and 246** {2001}
+- **Seventh Schedule** {1993, 2008}
+- Both can legislate: **Concurrent List** {2006}
+- Economic and social planning, infants and minors: **both** Centre and States {2019}
+
+@section 28.3 | Residuary
+- Residuary powers: **Parliament**; with the **Union** {1991, 1995}
+
+@section 28.4 | Art 249
+- Art 249: Parliament legislates on a **State List** subject in national interest {2009}
+- Resolution in force up to **one year** (renewable) {2016, 2017}
+
+@flow Parliament on the State List
+Art 249 | RS resolution, two-thirds present and voting; 1 year
+Art 250 | During National Emergency
+Art 252 | Two or more States request
+Art 253 | To carry out treaties
+Art 356 | During President's Rule
+@end
+
+@section 28.5 | Administrative Relations
+- States execute Union laws; Centre may give directions (Art 256) (R explains A) {2016}
+
+@section 28.6 | Inter-State Council
+- Inter-State relations: **Art 263** {2009}
+- Source: the **Constitution** {2000}
+- Set up by the **President** {2017}
+- On recommendation of **Sarkaria Commission** {2021}
+
+@section 28.7 | Zonal Councils
+- Zonal councils formed by **law of Parliament** (SR Act 1956) {2000}
+- Not a feature: being a **constitutional** body {2017}
+- National integration has many dimensions (true); NIC set up in 1961 (key: false, 1962) {2025}
+
+@section 28.8 | River Waters (Art 262)
+- Wrong: **River Boards Act, 1970** (it is **1956**, like the Inter-State River Water Disputes Act) {2004}
+
+@section 28.9 | Commissions
+- Sarkaria reviewed **Union-State relations**; recommendations on Centre-State relations {2006, 2008, 2016, 2003, 2004, 2014, 2018}
+- Member: **Dr. S.R. Sen** (with B. Sivaraman) {2017}
+- Not on Centre-State: **Indrajit Gupta Committee** (state funding of elections) {2015}
+- Demand for review; States lack resources (R explains A) {2007}
+
+@table
+Body | Year | Note
+Rajamannar Committee | 1969 | Tamil Nadu's own
+Sarkaria Commission | 1983-87 | Led to Inter-State Council (1990)
+Punchhi Commission | 2007-10 | Second Union commission
+Zonal Councils | 1956 | Statutory (SR Act)
+Inter-State Council | 1990 | Art 263; Presidential order
+@end
+
+@section 28.10 | Financial Relations
+- **Part XII**; **Arts 268-281** {2019, 2014}
+- Union tax shared with States: all now (80th Amendment) (*) {2006}
+- Stock-exchange transaction taxes: **levied by the Union** (only 1) {2006}
+
+@section 28.11 | Borrowing and Disputes
+- States **cannot** take foreign loans directly {2012}
+- Fiscal disputes resolved by the **Supreme Court** (Art 131) {1995}
+- Constitutional cap: **profession tax** (Rs 2,500) {2002, 2004}
+
+@section 28.12 | Inter-State Trade
+- Freedom of trade: **Art 301** {1999}
+
+@trap
+- Inter-State Council: **in** the Constitution (Art 263) but **set up** by Presidential order; Zonal Councils are **statutory**.
+- Art 249 needs only the **Rajya Sabha**.
+- Profession tax ceiling **Rs 2,500** (60th Amendment).
+@end
+
+@up UP sits in the **Central Zonal Council** (with Uttarakhand, MP, Chhattisgarh). Under the 16th Finance Commission UP gets the largest share of devolved taxes (17.62% per the masterbook).
+
+@last
+- Part **XI** legislative; Part **XII** financial
+- Arts **245-246**; Seventh Schedule
+- Residuary = **Parliament**
+- Art **249** = 1 year; RS only
+- Art **263** Inter-State Council (1990); President sets up
+- Zonal Councils = **SR Act 1956**
+- **Sarkaria** = Centre-State; member S.R. Sen
+- Indrajit Gupta = election funding
+- Art **301** free trade; States no foreign loans
+- Profession tax cap **Rs 2,500**
+@end

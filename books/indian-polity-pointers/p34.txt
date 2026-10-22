@@ -1,0 +1,94 @@
+@chapter 34 | Election Commission
+@unit UNIT VIII · ELECTIONS, AMENDMENT AND LOCAL GOVERNMENT
+@meta Built from 29 UPPSC questions (1991–2025). Focus: Art 324, three-member Commission, CEC tenure and removal, functions, voting age, MCC, electoral reforms.
+
+@hot
+- Election Commission: **Art 324** {2010, 2016, 2017}
+- Voting age cut from 21 to 18 by the **61st Amendment (1988)**; first used in **1989** {2000, 2004, 2007, 2008, 2010, 2011}
+- Right to vote is a **legal right**; adult suffrage in **Art 326** {2010, 2013, 2015, 2017}
+- CEC removed **like an SC judge**; ECs on the CEC's recommendation {1991, 2002, 2006, 2014}
+- MP disqualification (non-defection): **President** on **EC's opinion** {2009, 2015}
+@end
+
+@section 34.1 | Art 324
+- Election Commission under **Art 324** {2010, 2016, 2017}
+
+@section 34.2 | Composition and Removal
+- Made three-member in **1989** (permanent from 1993) {2006}
+- CEC tenure: **6 years or 65** {2012}
+- CEC's status: like an SC judge (no option right, *) {2016}
+- Independent EC (true); executive removes ECs (false) {2006}
+- CEC removed like an **SC judge** {1991, 2002}
+- EC removed by the **President on CEC's recommendation** {2014}
+
+@flow Appointing the CEC and ECs (2023 Act)
+Search Committee | Law Minister + two secretaries; shortlist
+Selection Committee | PM, LoP (Lok Sabha), a Cabinet Minister
+President | Appoints
+Removal | CEC like SC judge; ECs on CEC's advice
+@end
+
+@section 34.3 | Functions
+- Functions: **conduct Parliament, Assembly, President, VP polls; electoral rolls** (I, II, IV); not recommending President's Rule {2001}
+- Not EC's: **making laws on elections** (Parliament does) {2009}
+- President's election conducted by the **Election Commission** {?}
+- EC does **none** of: Speaker's election, municipal polls, their disputes {2024}
+- Not EC's: **settling election validity** (courts do) {1992}
+- MP disqualification: **President in consultation with EC**; EC's opinion binding {2009, 2015}
+
+@section 34.4 | Model Code of Conduct
+- MCC applies from announcement (true); **not** enacted by Parliament (false) {2017}
+
+@section 34.5 | Voting
+- Right to vote and be elected: **legal right** {2010, 2013, 2015}
+- Adult suffrage: **Art 326** {2017}
+- Assembly elections: adult suffrage, one roll per seat, no religion bar, parties free (all four) {2011}
+- First general election with 18-year voters: **1989** {2011}
+- 21 to 18: **61st Amendment, 1988** {2004, 2007, 2008, 2010}
+- Voting age **18** (1989 law) {2000}
+
+@section 34.6 | Electors and Years
+- Electors in 2009: **714 million** {2004}
+- Wrong: **Seventh Lok Sabha-1982** (it was **1980**) {2022}
+
+@section 34.7 | Proportional Representation
+- PR helps minorities; represents all groups (R explains A) {2013}
+- PR ensures **minority representation** {2013, 2013}
+
+@section 34.8 | Reforms
+- Order: **EVM (1982), EPIC (1993), VVPAT (2013), NOTA (2013)** {2025}
+
+@table
+Reform | Year
+EVM first used | 1982 (Paravur, Kerala)
+EPIC (voter ID) | 1993
+EVM in all LS seats | 2004
+VVPAT first used | 2013 (Noksen, Nagaland)
+NOTA | 2013 (PUCL case)
+National Voters' Day | 25 January (from 2011)
+@end
+
+@section 34.9 | Firsts
+- **Sukumar Sen** first CEC; **V.S. Ramadevi** first woman CEC (both) {2021}
+- National Voters' Day: **25 January** {2015}
+
+@trap
+- **MCC** has no statutory backing.
+- Defection = Speaker/Chairman; other disqualification = **President on EC's opinion**.
+- Local body polls = **State Election Commission** (243K, 243ZA).
+@end
+
+@up UP's Panchayat and municipal polls are run by the **UP State Election Commission**, not the ECI. In 2025 the ECI extended the **Special Intensive Revision** of rolls to UP and other States.
+
+@last
+- EC: **Art 324**; multi-member since **1989**
+- CEC: 6 years or **65**; removed like SC judge
+- 2023 Act: PM, LoP, Cabinet Minister select
+- Adult suffrage **Art 326**; vote = legal right
+- **61st** (1988): voting age 18; first in **1989**
+- MCC: not a law
+- MP disqualification: President + EC opinion
+- EVM 1982; EPIC 1993; VVPAT, NOTA 2013
+- First CEC **Sukumar Sen**; woman CEC **Ramadevi**
+- National Voters' Day **25 Jan**
+@end

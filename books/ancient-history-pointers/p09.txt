@@ -1,0 +1,101 @@
+@chapter 9 | Maurya Empire
+@meta Built from 57 UPPSC questions (1990–2024). Focus: Chandragupta and Kautilya, Greek envoys, Megasthenes' Indica, the Junagadh inscription, Ashokan edicts and their decipherment, Dhamma, officials and revenue, Mauryan art.
+
+@hot
+- **James Prinsep** first read Brahmi and Ashoka's edicts (1837) {2006, 2008, 2010, 2014}
+- **Junagadh** inscription of **Rudradaman**: names Chandragupta (Sudarshana lake) and Ashoka; Ashoka's edicts are on the same rock {1996, 2002, 2004, 2006, 2007, 2010, 2016}
+- **Megasthenes' Indica**: seven classes, no slavery, city administration; he came under **Chandragupta** {2008, 2009, 2013, 2017}
+- **Rock Edict XIII** = Kalinga war; **RE XII** = religious tolerance; **RE II** = southern kingdoms {2005, 2008, 2016, 2016, 2022}
+- Name "Ashoka" appears at **Gujarra** (Datia, MP) and Maski {2008, 2015}
+@end
+
+@section 9.1 | Chandragupta and Kautilya
+- First Indian empire: **Chandragupta Maurya** {2002}
+- First to conquer Malwa, Gujarat, Maharashtra: **Chandragupta Maurya** {1991}
+- Defeated Seleucus: **305 BCE** {2014}
+- Mauryas: culture, provinces, rule up to the Hindu Kush (A, C, D); **no gold coins** {1990}
+- Kautilya: minister of **Chandragupta Maurya**; childhood name **Vishnugupta** {2002, 2002, 2006}
+- Arthashastra: a book on **governance**; compared with Machiavelli's **Prince** {1994, 2012}
+- Seventh limb of the Saptanga state: **Mitra** (ally) {2015}
+
+@section 9.2 | Greek Contacts and Megasthenes
+- Sandrokottos met Alexander: **Justin** {2008}
+- **Megasthenes**: under **Chandragupta**; **Deimachus**: under **Bindusara** {2015, 2017}
+- **Chandragupta-Sandrokottos, Bindusara-Amitraghata, Ashoka-Piyadasi, Chanakya-Vishnugupta** {2001}
+- No slavery in India: **Megasthenes' Indica** {2013}
+- Seven classes of society: **Indica** {2008}
+- City administration: **Indica** {2009}
+- **Kumrahar** and **Bulandibagh**: **Pataliputra** {2008, 2011}
+
+@section 9.3 | Inscriptions
+- Chandragupta's sway in the west: **Junagadh rock inscription of Rudradaman** {1996, 2010}
+- Water management at Girnar: **Chandragupta and Ashoka** (2 and 3) {2006}
+- First lake at Girnar (Sudarshana): **Chandragupta Maurya** {2002, 2007}
+- Names both Chandragupta and Ashoka: **Junagadh** inscription {2004}
+- Ashokan edicts also found at **Junagadh** (Girnar rock) {2016}
+- Earliest stone inscriptions: **Prakrit** {2009}
+- Brahmi deciphered from **stone** inscriptions {2008}
+- First to read Ashoka's edicts and Brahmi: **James Prinsep** {2006, 2008, 2010, 2014}
+- Pre-Ashokan Brahmi: **Anuradhapura** {2008}
+- Ashoka named: **Gujarra** (Datia, MP) {2008, 2015}
+- **Kalsi** (Uttarakhand): Ashoka's **rock edicts** {2008}
+
+@section 9.4 | Kalinga and Dhamma
+- Kalinga war known from **Rock Edict XIII** {2016}
+- Ashoka annexed Kalinga as it held the routes to the south (A and R true, R explains A) {2002}
+- Religious tolerance: **Rock Edict XII** {2008, 2022}
+- Southern kingdom not named: **Satavahana** {2005}
+- Southern kingdoms named in **Rock Edict II** {2016}
+- **Ptolemy Philadelphus**: king of **Egypt**; the **Mauryas** dealt with Syria and Egypt {2006, 2010, 2012}
+- Dhamma linked to Buddhist texts; **Dhamma Mahamattas** from the 14th year (both per key) {2024}
+- Rajdharma of patience, liberty and compassion: **Ashoka** {1993}
+- "All people should do good deeds...": **Ashoka** (initial key: Harsha) {2023}
+- First hospitals and herbal gardens: **Ashoka** {2015}
+- Pilgrimage route: **Lumbini, Kapilavastu, Gaya, Sarnath, Kushinagar, Shravasti** {1999}
+
+@table
+Edict | Subject
+Rock Edict I | Ban on animal sacrifice
+Rock Edict II | Medical care; Cholas, Pandyas, Satiyaputras, Keralaputras
+Rock Edict V | Dhamma Mahamattas
+Rock Edict XII | Religious tolerance
+Rock Edict XIII | Kalinga war; Greek kings
+Minor RE (Maski, Gujarra) | Name "Ashoka"
+Rummindei pillar | Lumbini, birth of Buddha
+@end
+
+@section 9.5 | Administration, Economy and Art
+- Revenue head: **Samaharta** {2008}
+- Weights and measures: **Pautavadhyaksha** {2012}
+- **Rajjukas**: Mauryan **officers** {1996}
+- **Agronomoi**: **road building** (per key) {2020}
+- **Bhaga and bali**: **revenue** {1996}
+- **Sita**: income from **crown land** {2013}
+- **Sarthavaha**: **merchants' caravan** {2008}
+- Mauryas gave no religious land grants; no peasant revolt (A true, R false) {2004}
+- Not true of Barabar caves: dated to the **6th century BCE** (they are Ashokan) {2017}
+- Correct: **Lothal dockyard, Sarnath sermon, Nalanda learning** (1, 2, 4); Rajgir has no lion capital {2004}
+- Remarriage prohibited: **Manusmriti** {2002, 2003}
+- Manu called foreigners **fallen Kshatriyas** {2014}
+
+@trap
+- Junagadh inscription is **Rudradaman's** (Shaka, 150 CE), not Mauryan.
+- **Megasthenes** = Chandragupta; **Deimachus** = Bindusara.
+- Prinsep read Brahmi (1837); the name Ashoka was found at **Maski** in 1915.
+- Mauryas issued **silver** punch-marked coins, not gold.
+@end
+
+@up UP link: Ashokan relics in UP include the **Sarnath lion capital** (national emblem), the **Allahabad (Kaushambi) pillar** with Samudragupta's later inscription, the **Meerut pillar** (now in Delhi) and Rummindei-area sites at **Piprahwa**; Kalsi was in UP until 2000.
+
+@last
+- Chandragupta = first empire; beat Seleucus 305 BCE
+- Kautilya = Vishnugupta; Arthashastra; Mitra = 7th limb
+- Megasthenes (Indica) under Chandragupta; Deimachus under Bindusara
+- Bindusara = Amitraghata; Ashoka = Piyadasi
+- Junagadh (Rudradaman) names Chandragupta and Ashoka
+- Prinsep read Brahmi; Gujarra and Maski name Ashoka
+- RE XIII = Kalinga; RE XII = tolerance; RE II = south kingdoms
+- Samaharta = revenue; Pautavadhyaksha = weights
+- Sita = crown land; sarthavaha = caravan
+- Kumrahar, Bulandibagh = Pataliputra
+@end

@@ -1,0 +1,49 @@
+@chapter 26 | Khilafat Movement
+@meta Built from 10 UPPSC questions (1993–2016). Focus: the Ali brothers, Hakim Ajmal Khan, Gandhi as Khilafat president, Congress motives, Jinnah and Malaviya, Hindu-Muslim unity.
+
+@hot
+- Khilafat started and led by the **Ali brothers** (Mohammad Ali, Shaukat Ali) {2008, 2016}
+- Warned Gandhi against it and denounced his part: **Jinnah**; did not support it: **Malaviya** {2002, 2008, 2010, 2010, 2011}
+@end
+
+@section 26.1 | Leaders
+- Started the movement: **Shaukat Ali and Mohammad Ali** {2008}
+- Prominent leaders: **Maulana Mohammad Ali and Shaukat Ali** {2016}
+- Renounced "Haziq-ul-Mulk": **Hakim Ajmal Khan** {2014}
+- President of the All India Khilafat Conference (1919): **Gandhi** {1993}
+- Congress backed it for **reinstating the Caliph** and **Muslim sympathy** {2000}
+
+@section 26.2 | Support and Opposition
+- Warned Gandhi against fanaticism: **Jinnah** {2002, 2010}
+- Denounced Gandhi's role: **M.A. Jinnah** {2011}
+- Did not support Khilafat: **Madan Mohan Malaviya** {2008, 2010}
+- Speech on unity from the Jama Masjid pulpit (4 April 1919): **Swami Shraddhanand** {2004}
+- Result: **Hindu-Muslim differences narrowed** {1996}
+
+@table
+Person | Title given up
+Hakim Ajmal Khan | Haziq-ul-Mulk
+Gandhi | Kaiser-i-Hind
+Tagore | Knighthood
+@end
+
+@trap
+- **Shariatullah** was a Faraizi reformer (1818), not a Khilafat leader.
+- The aim was to **restore** the Caliph; Turkey **abolished** the Caliphate in 1924 and the movement ended.
+- Jinnah opposed it; Azad backed it.
+@end
+
+@up UP link: The Ali brothers were from **Rampur**; the Khilafat drive found strong support in UP towns like **Lucknow** and **Aligarh**.
+
+@last
+- Ali brothers = Khilafat
+- Ajmal Khan = Haziq-ul-Mulk
+- Gandhi = Khilafat Conference president 1919
+- Aim = restore Caliph
+- Jinnah = warned Gandhi
+- Malaviya = did not support
+- Shraddhanand = Jama Masjid speech
+- Result = Hindu-Muslim unity
+- Caliphate abolished 1924
+- Khilafat merged into Non-Cooperation
+@end

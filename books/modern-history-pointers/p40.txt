@@ -1,0 +1,68 @@
+@chapter 40 | Partition of India and Independence
+@meta Built from 26 UPPSC questions (1990–2016). Focus: why Britain left, the Mountbatten Plan, the AICC vote on partition, the Partition Council and Radcliffe, the Independence Act, 15 August, first office-holders, princely states.
+
+@hot
+- Congress president at independence: **J.B. Kripalani** (Meerut 1946; Delhi AICC, June 1947) {1994, 2007, 2010, 2015}
+- Britain left in 1947 (A) because it was weakened by WWII (R): **R explains A**; Labour in power {2001, 2003, 2010, 2012}
+- **Indian Independence Act**: passed **July 1947**, Royal Assent **18 July 1947** {2012, 2014, 2014}
+- First Governor-General of free India: **Mountbatten** {2006, 2014}
+@end
+
+@section 40.1 | The Plan and the Partition Vote
+- Party in power in the UK: **Labour** {2012}
+- Britain freed India (A); weakened by WWII (R): **both true, R explains A** {2001, 2003, 2010}
+- Platform of independence: **Mountbatten Plan** {2006}
+- Mountbatten Plan was the basis for **transfer of power and partition** {2013}
+- Congress accepted it (A true); "believed in the two-nation theory" (R false) {1998}
+- Presided over the AICC that passed partition (15 June 1947): **J.B. Kripalani** {1994, 2007}
+- Congress president on 15 August 1947: **J.B. Kripalani** {2015}
+- Meerut session (1946): **J.B. Kripalani** {2010}
+- Seconded the partition resolution: **Maulana Azad** (Pant moved it) {2014}
+- "Surrender of nationalism to communalism": **Dr. Kitchlew** {2014}
+- Voted against partition: **Khan Abdul Ghaffar Khan** {2002}
+- Congress on the Partition Council: **Patel and Rajendra Prasad** (some keys: Nehru and Patel) {2009}
+- Boundary Commission head: **Radcliffe** {2015}
+
+@section 40.2 | Independence
+- Independence Act passed: **July 1947** {2012}
+- Came into force (per key): **18 July 1947** {2014}
+- Royal Assent: **18 July 1947** {2014}
+- Sang "Hindustan Hamara" and "Jana Gana Mana" at midnight: **Sucheta Kripalani** {2010}
+- Took no part in Independence Day celebrations: **Gandhi** (in Calcutta, fasting) {2016}
+- First PM appointed by the **Governor-General** {2001}
+- First Governor-General of free India: **Mountbatten** {2006, 2014}
+- First Law Minister: **B.R. Ambedkar** {2012}
+- Most princely states integrated in **1947** {1990}
+- Delayed accession: **Junagadh, Hyderabad, Jammu and Kashmir** {1998}
+- Standstill Agreement with India: **Hyderabad** {1997}
+- "Indian nationalism the child of British rule": **R. Coupland** {2010}
+- "Unification of India the notable British achievement": **K.M. Panikkar** {2004}
+
+@flow 1947
+Attlee: Britain to leave by June 1948 | 20 February 1947
+Mountbatten Plan | 3 June 1947
+AICC accepts partition | 14-15 June 1947
+Independence Act gets Royal Assent | 18 July 1947
+Independence; Mountbatten Governor-General | 15 August 1947
+@end
+
+@trap
+- Mountbatten headed the **Partition Council**; **Radcliffe** drew the boundaries.
+- First Governor-General of free India = **Mountbatten**; first Indian = **Rajagopalachari** (also the last).
+- At the AICC: **Pant** moved, **Azad** seconded, **Ghaffar Khan** opposed.
+@end
+
+@up UP link: **J.B. Kripalani** became Congress president at **Meerut** (1946); **Sucheta Kripalani**, who sang at midnight, later became UP's (and India's) first woman Chief Minister (1963).
+
+@last
+- Labour (Attlee) in power
+- Mountbatten Plan = 3 June 1947
+- Kripalani = Congress president 1947
+- Pant moved, Azad seconded
+- Radcliffe = boundaries
+- Act = 18 July 1947
+- Sucheta Kripalani sang at midnight
+- Mountbatten = first Governor-General
+- Ambedkar = first Law Minister
+- Hyderabad = Standstill Agreement
+@end

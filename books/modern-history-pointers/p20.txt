@@ -1,0 +1,40 @@
+@chapter 20 | Lucknow Session of Congress (The Lucknow Pact)
+@meta Built from 8 UPPSC questions (1992–2013). Focus: the 1916 sessions at Lucknow, A.C. Mazumdar, reunion of the two camps, Champaran, the Pact and its makers.
+
+@hot
+- Lucknow session (1916) president: **Ambika Charan Mazumdar** {2006, 2009, 2010, 2010, 2013}
+- **Lucknow Pact** (1916) between Congress and League; made by **Tilak** (with Jinnah) {2004, 2006, 2010}
+@end
+
+@section 20.1 | Lucknow 1916
+- Congress and League both met in December 1916 at **Lucknow** {2004}
+- President: **A.C. Mazumdar** {2006, 2009, 2010, 2013}
+- Chief architect of the Moderate-Extremist reunion: **Annie Besant** {2004}
+- Not correct: "**Mazumdar was not the president**" {2010}
+- Gandhi heard of Champaran's peasants at **Lucknow, 1916** (from Raj Kumar Shukla) {2013}
+
+@section 20.2 | The Pact
+- Lucknow Pact signed in **1916** {2006, 2010}
+- Agreement made by **Tilak** (for the Congress) {2004}
+- Period of Congress-League unity: **1916 to 1922** {1992}
+
+@trap
+- Lucknow 1916 = Mazumdar; Lucknow **1936** = Nehru.
+- Two reunions: Moderates and Extremists (**Besant, Tilak**); Congress and League (**Tilak, Jinnah**).
+- The Pact **accepted** separate electorates.
+@end
+
+@up UP link: **Lucknow** hosted both sessions in 1916; **Raj Kumar Shukla** met Gandhi there and took him to Champaran.
+
+@last
+- Lucknow 1916 = A.C. Mazumdar
+- Lucknow Pact = 1916
+- Tilak + Jinnah = Pact
+- Besant = reunion architect
+- Champaran told to Gandhi at Lucknow
+- Unity period = 1916-1922
+- Pact accepted separate electorates
+- Lucknow 1936 = Nehru
+- Raj Kumar Shukla = Champaran
+- Extremists rejoined in 1916
+@end

@@ -1,0 +1,91 @@
+@chapter 14 | Pre-Medieval Period
+@meta Built from 32 UPPSC questions (1994–2024). Focus: the tripartite struggle for Kannauj, Palas and Vikramashila, Senas, Gurjara-Pratiharas, Rashtrakutas, Chauhans, Chandelas, Gahadavalas, Paramara Bhoja, Solankis, jurists and travellers.
+
+@hot
+- **Vikramashila** (and Somapura) founded by the Pala **Dharmapala** {1994, 1999, 2002, 2004, 2005, 2008, 2008, 2015, 2016}
+- **Tripartite struggle** for **Kannauj**: **Palas, Gurjara-Pratiharas, Rashtrakutas** {2002, 2015, ?}
+- **Gurjara-Pratiharas**: founder **Nagabhata I**; greatest **Mihira Bhoja** ("Adivaraha") {2002, 2003, 2010, 2017, 2017}
+- **Gopala** (Pala founder) was chosen by the people (with Nandivarman Pallavamalla) {2015, 2021}
+- **Jejakabhukti** = **Bundelkhand** (Chandelas), not Kaushambi {2008, 2017, 2021}
+@end
+
+@section 14.1 | Kannauj, Palas and Senas
+- Tripartite struggle: **Palas, Gurjaras, Rashtrakutas** (2, 3, 4) {2002, 2015}
+- "Nagar Mahoday Shri": **Kannauj** {2015}
+- **Gaudavaho**: **Vakpati** (court of Yashovarman of Kannauj) {2014}
+- Pala founder: **Gopala** {2015}
+- Chosen by the people: **Gopala and Nandivarman Pallavamalla** (2 and 4) {2021}
+- **Vikramashila**: **Dharmapala** (Pala) {1994, 2002, 2004, 2005, 2008, 2008, 2015, 2016}
+- **Somapura Mahavihara**: **Dharmapala** {1999}
+- Sena order: **Hemanta, Vijaya, Ballala, Lakshmana** {2024}
+- New Samvat (Lakshmana era): **Lakshmana Sena** (Senas) {1999, 2005}
+- **Pundravardhana bhukti**: **North Bengal** {2012}
+
+@flow Tripartite struggle for Kannauj
+Palas (Bengal) | Dharmapala, Devapala
+Gurjara-Pratiharas (Ujjain, Kannauj) | Nagabhata II took Kannauj; Mihira Bhoja
+Rashtrakutas (Deccan) | Dhruva, Govinda III raided north
+Winner | Pratiharas held Kannauj (from about 836)
+@end
+
+@section 14.2 | Pratiharas, Rashtrakutas and Rajputs
+- Pratihara founder: **Nagabhata I** {2002, 2003}
+- Greatest Pratihara: **Mihira Bhoja**, titled **Adivaraha** {2010, 2017}
+- Order: **Vatsaraja, Nagabhata II, Mahendrapala, Mahipala** {2017}
+- **Hiranyagarbha** ritual: **Dantidurga** (Rashtrakuta) {2015}
+- Born in a military camp: **Amoghavarsha** {2013}
+- "Last sun of Indian glory": **Prithviraj** {2016}
+- Prithviraj Chauhan = **Prithviraja III** {2010}
+- Wrong pair: **Abdur Rahman-Hammir Raso** {2010}
+
+@table
+Raso | Poet
+Prithviraj Raso | Chand Bardai
+Alha Khand | Jagnik
+Bisaldev Raso | Narpati Nalha
+Hammir Raso | Sharangadhar (Jodhraj)
+@end
+
+@section 14.3 | Chandelas, Gahadavalas, Paramaras, Solankis
+- **Jejakabhukti**: **Bundelkhand** {2008}
+- Wrong pair: **Jejakabhukti-Kaushambi** {2021}
+- Chandela order: **Yashovarman, Dhanga, Vidyadhara, Kirtivarman** {2017}
+- Gahadavala queen **Kumaradevi** built the Dharmachakra Jina Vihara at **Sarnath** {2007}
+- Udaipur Prashasti praise: **Bhoja** (Paramara) {2023}
+- Book on mechanical devices: **Bhoja** (Samarangana Sutradhara) {2013}
+- **Bhojshala** deity: **Saraswati** {2001}
+- **Hemachandra** at **Kumarapala's** court {2010}
+- Aid to rebuild a Khambhat mosque: **Jayasimha Siddharaja** {1999}
+
+@section 14.4 | Jurists and Travellers
+- Jurists: **Vijnaneshvara, Hemadri, Jimutavahana** (1, 2, 4) {1995}
+- Order: **Fa-Hien, Hiuen Tsang, I-Tsing, Al-Biruni** {2024}
+
+@table
+Jurist | Work
+Vijnaneshvara | Mitakshara (Chalukya court)
+Jimutavahana | Dayabhaga (Bengal)
+Hemadri | Chaturvarga Chintamani (Yadavas)
+@end
+
+@trap
+- Mihira Bhoja (Pratihara, Adivaraha) is **not** Bhoja Paramara (Dhar, Udaipur Prashasti).
+- Vikramashila and Somapura = Dharmapala; Nalanda = **Kumaragupta I**.
+- Jejakabhukti is a **region** (Bundelkhand), not a city.
+- The Rashtrakutas raided Kannauj but never held it.
+@end
+
+@up UP link: **Kannauj** was the prize of the tripartite struggle and the Pratihara capital; **Kalinjar** and **Mahoba** were Chandela strongholds in Bundelkhand; the Gahadavalas ruled from **Kannauj and Varanasi**, and Kumaradevi's vihara stands at **Sarnath**.
+
+@last
+- Kannauj = tripartite prize (Pala, Pratihara, Rashtrakuta)
+- Gopala elected; Dharmapala = Vikramashila, Somapura
+- Lakshmana Sena = Lakshmana era
+- Nagabhata I founded the Pratiharas; Mihira Bhoja = Adivaraha
+- Dantidurga = Hiranyagarbha; Amoghavarsha born in camp
+- Prithviraj III = last sun of Indian glory
+- Jejakabhukti = Bundelkhand (Chandelas)
+- Kumaradevi = Sarnath vihara (Gahadavala)
+- Bhoja Paramara = Bhojshala, Samarangana Sutradhara
+- Hemachandra = Kumarapala's court
+@end

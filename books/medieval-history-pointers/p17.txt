@@ -1,0 +1,56 @@
+@chapter 17 | Shah Jahan
+@meta Built from 15 UPPSC questions (1992–2022). Focus: the move to Delhi and the end of sijda, the Red Fort and Jama Masjid, the Kohinoor, court poets and Sanskrit scholars, Dara Shikoh's Sirr-i-Akbar.
+
+@hot
+- **Upanishads** into Persian (**Sirr-i-Akbar**) by **Dara Shikoh** under **Shah Jahan** {1992, 2000, 2002, 2004, 2006, 2009}
+- **Shah Jahan** moved the capital to **Delhi**, built the **Red Fort** and **Jama Masjid** {2002, 2004, 2008, 2010}
+- Abolished **sijda**: **Shah Jahan** (Balban began it) {2010, 2010}
+@end
+
+@section 17.1 | Court and Buildings
+- Capital moved from Agra to **Delhi**: **Shah Jahan** {2008}
+- Abolished **sijda**: **Shah Jahan** {2010, 2010}
+- **Lal Qila** (Delhi): **Shah Jahan** {2002, 2010}
+- **Jama Masjid**, Delhi: **Shah Jahan** {2004}
+- **Kohinoor** given by **Mir Jumla** {2015}
+- Poet laureate: **Kalim** {2015}
+- Patronised **Kavindracharya Saraswati** of Banaras: **Shah Jahan** {2022}
+- Led Banaras pandits to end the pilgrim tax: **Kavindracharya** {2000}
+- Deccan governor for most of the reign: **Aurangzeb** {2009}
+
+@section 17.2 | Dara Shikoh
+- Upanishads into Persian under **Shah Jahan** {1992, 2006, 2009}
+- Title: **Sirr-i-Akbar**, by **Dara Shikoh** {2000, 2002, 2004}
+- "**Shah Buland Iqbal**": **Dara Shikoh** {2014}
+- First Muslim to study Hindu scriptures (key): **Dara Shikoh** {2003}
+- Dara is buried in **Delhi** (Humayun's tomb) {2017}
+
+@table
+Shah Jahan's buildings | Place
+Taj Mahal | Agra
+Moti Masjid (Agra fort), marble palaces | Agra
+Red Fort, Jama Masjid, Shahjahanabad | Delhi
+Peacock Throne | Delhi court
+@end
+
+@trap
+- Sijda began under **Balban**, ended under **Shah Jahan**.
+- Agra fort = Akbar; Delhi Red Fort = Shah Jahan.
+- Moti Masjid: Agra = Shah Jahan; Delhi Red Fort = **Aurangzeb**.
+- Sirr-i-Akbar (Dara) has nothing to do with Emperor Akbar.
+@end
+
+@up UP link: the **Taj Mahal** at **Agra** is Shah Jahan's tomb for Mumtaz Mahal; **Kavindracharya** of **Banaras** won relief from the pilgrim tax on Banaras and Allahabad, and Shah Jahan spent his last years captive in the **Agra fort**.
+
+@last
+- Capital to Delhi; Red Fort, Jama Masjid
+- Abolished sijda
+- Mir Jumla gave the Kohinoor
+- Kalim = poet laureate
+- Kavindracharya of Banaras
+- Aurangzeb = Deccan governor
+- Dara = Sirr-i-Akbar (Upanishads)
+- Dara = Shah Buland Iqbal
+- Dara buried in Delhi
+- Taj Mahal = Agra
+@end

@@ -1,0 +1,553 @@
+@chapter 9 | Nuclear Physics
+
+@intro
+Nuclear questions fall into three groups: **physics** (fission and fusion, the Sun's energy, atom bomb vs hydrogen bomb vs reactor, discoverers of particles), **reactor technology** (fuel, enrichment, **moderators and coolants**, breeder reactors, heavy water) and **India's nuclear map** (Tarapur to Kudankulam, Kalpakkam and the three-stage programme with **thorium**, research reactors, and the Pokhran tests). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 9.1 | Discoveries and Basic Ideas
+
+@pyq U.P. P.C.S. (Pre) 2001, 2003; U.P. U.D.A./L.D.A. (Pre) 2002
+Which one of the following pairs is not correctly matched :
+(a) Discovery of Meson – Hideki Yukawa
+(b) Discovery of Positron – C.D. Anderson and U.F. Hess
+(c) Theory of energy production in the sun and stars – H.A. Bethe
+(d) Synthesis of transuranic elements – Enrico Fermi
+@ans (d)
+@end
+
+**Yukawa** predicted the meson (1935); **Anderson** found the positron (1932) and shared the 1936 Nobel with **Hess**, the discoverer of cosmic rays; **Bethe** explained stellar fusion (1938-39). The transuranium elements (beyond uranium) were made mainly by **Glenn Seaborg**'s team, although Fermi's 1934 neutron experiments started the search.
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which one of the following is not correct :
+(a) Theory of evolution was propounded by Charles Darwin.
+(b) The breaking apart of the nucleus of an atom is called fusion.
+(c) 'Dry ice' is nothing but solid carbon dioxide.
+(d) Telephone was invented by Graham Bell.
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1994
+Read the following statements–
+Statement (A) : Ernest Rutherford said in Royal Society that a man will never be able to get nuclear energy.
+Reason (R) : He was confident that the Law of Einstein will fail and the volume will not be converted to energy.
+Select your answer in the code given below :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is correct but (R) is not correct.
+(d) (R) is correct but (A) is not correct.
+@ans (a)
+@note The source prints option (a) with "(A) is the correct explanation of (A)", a misprint for (R). Rutherford famously called the idea of extracting power from atoms "moonshine" (1933); the stated Reason is the source's reading of his view.
+@end
+
+**Fission** splits a heavy nucleus (U-235, Pu-239) into lighter ones; **fusion** joins light nuclei (hydrogen isotopes) into a heavier one. In both, a little mass turns into a lot of energy by Einstein's **E = mc^{2}**.
+
+@pyq U.P.P.C.S. (Pre) 2009
+One of these particles is claimed to have invented which rebut the Einstein's theory of relativity :
+(a) Microwave photon
+(b) Neutrino
+(c) Liquid crystal
+(d) Light emitting diode
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Cyclotrons are used to accelerate :
+(a) Neutrons
+(b) Protons
+(c) Atoms
+(d) Ions
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2005; U.P. P.C.S. (Pre) 2018
+Which of the following electromagnetic radiations has the maximum energy?
+(a) Visible light
+(b) Infrared rays
+(c) Ultraviolet rays
+(d) X-rays
+@ans (d)
+@end
+
+
+A **cyclotron** accelerates **charged** particles (protons, deuterons, alpha particles) in a spiral using a magnetic field and alternating voltage; it cannot accelerate neutrons, which have no charge. Among the options, **X-rays** carry the most energy because they have the highest frequency (E = hν); gamma rays would be higher still.
+
+@section 9.2 | Energy of the Stars
+
+@pyq U.P.P.C.S. (Pre) 2000
+Stars obtain their energy from :
+1. Nuclear fusion
+2. Gravitational contraction
+3. Chemical reaction
+4. Nuclear fission
+Select your answer from the codes given below:
+Code :
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 1 and 4
+(d) 2 and 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2009
+Which one of the following is the source of renewable energy in stars?
+(a) Hydrogen changes into helium
+(b) Helium changes into hydrogen
+(c) Decay of radioactive material
+(d) Excess of oxygen which is helpful in burning and generating energy.
+@ans (a)
+@end
+
+In the Sun's core (about **1.5 × 10^{7} K**), four hydrogen nuclei fuse into one **helium** nucleus, turning about 0.7% of the mass into energy (about 4 million tonnes of mass every second). **Gravitational contraction** heats a young star before fusion starts, and helps again in old age. There is no chemical burning or fission in stars.
+
+@section 9.3 | Reactors and Bombs
+
+@pyq U.P.P.C.S. (Pre) 1992
+What is a Nuclear Reactor?
+(a) Place where atomic bomb is built
+(b) Heavy water pond
+(c) The emitter of U238
+(d) Molecular furnace
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Consider the following statements about nuclear fusion reactors :
+i. They work on the principle of fission of heavy nuclei.
+ii. They usually have Tokamak design.
+iii. They operate at very high temperature.
+Of these
+(a) Only i and iii are correct
+(b) Only i and ii are correct
+(c) Only ii and iii are correct
+(d) All three i, ii and iii are correct
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The difference between nuclear reactor and atom bomb is that :
+(a) There is no chain reaction in nuclear reactor whereas this happens in atom bomb
+(b) The chain reaction in nuclear reactor is controlled
+(c) The chain reaction in nuclear reactor is not controlled
+(d) Atomic bomb is based on nuclear fusion whereas in nuclear reactor, nuclear fission occurs.
+@ans (b)
+@end
+
+
+@table
+Item | Atom bomb | Hydrogen bomb | Nuclear reactor
+Process | **Fission** (U-235 / Pu-239) | **Fusion** of deuterium and tritium, triggered by a fission bomb | **Controlled fission**
+Chain reaction | Uncontrolled | Uncontrolled | **Controlled** by control rods (boron, cadmium)
+First used / built | 1945 (Hiroshima, Nagasaki) | 1952 (USA, **Edward Teller**) | 1942 (Fermi, Chicago Pile-1)
+@end
+
+**Fusion reactors** (still experimental) heat hydrogen plasma to over 100 million °C inside a doughnut-shaped magnetic chamber called a **tokamak**. **ITER** in France is the international project (India is a member); India's own tokamaks are **Aditya** and **SST-1** at the Institute for Plasma Research, Gandhinagar.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016; U.P. P.C.S. (Pre) 2021
+With reference to the radioactivity, which of the following statements is/are correct ?
+1. Radioactivity is a nuclear property.
+2. Hydrogen bomb is prepared on the principle of nuclear fission.
+Select the correct answer using the codes given below.
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2007
+The principle of atom bomb is based on
+(a) Nuclear fission
+(b) Nuclear fusion
+(c) Nuclear spallation
+(d) None of these
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+The working principle of atom bomb is nuclear fission of uranium and the working principle of hydrogen bomb is –
+(a) nuclear fusion of deuterium.
+(b) nuclear fission of thorium.
+(c) explosion of bomb involving hydrogen gas
+(d) explosion involving dynamite and T.N.T.
+@ans (a)
+@end
+
+@one
+Hydrogen bomb is based on which of the following principles?
+@ans Uncontrolled fusion reaction
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Hydrogen bomb was developed by :
+(a) Edward Teller
+(b) Bernor Bon Bron
+(c) J.Robert Oppenheimer
+(d) Samuel Cohen
+@ans (a)
+@end
+
+
+**Radioactivity** (Becquerel, 1896) is a property of the **nucleus**, unaffected by temperature, pressure or chemical state. Fission was discovered by **Otto Hahn and Fritz Strassmann** (1938) and explained by Lise Meitner. **J. Robert Oppenheimer** led the Manhattan Project (the atom bomb).
+
+@pyq U.P. Lower Sub. (Pre) 1998
+In the modern days, nuclear medicines play a vital role in Medical Science, they are exactly –
+(a) They are drugs
+(b) They are infusion of herbs
+(c) They are radioisotopes
+(d) They are chlorofluorocarbon
+@ans (c)
+@end
+
+
+**Nuclear medicine** uses **radioisotopes**: iodine-131 (thyroid), cobalt-60 (cancer radiotherapy), technetium-99m (scans), carbon-14 (dating), phosphorus-32 (leukaemia). In India, BRIT (Board of Radiation and Isotope Technology) supplies them.
+
+@section 9.4 | Fuel, Moderators and Coolants
+
+@pyq U.P. Lower Sub. (Pre) 2003
+The important nuclear fuel available in India in abundance is :
+(a) Uranium
+(b) Thorium
+(c) Iridium
+(d) Plutonium
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following can not be used as a nuclear fuel?
+(a) Uranium
+(b) Thorium
+(c) Calcium
+(d) Plutonium
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2009
+Enriched Uranium is
+(a) Uranium sticks laid in particular shell.
+(b) Natural uranium in which radioactive U235 isotope is increased artificially.
+(c) mixture of natural uranium and thorium.
+(d) chromium coated uranium sticks.
+@ans (b)
+@end
+
+Natural uranium is 99.3% U-238 and only **0.7% U-235**, the fissile isotope. Power reactors need **3-5% U-235** (low-enriched); weapons need about 90%. India's **PHWRs** run on **natural uranium** with heavy water, which is why India could build them without enrichment. **Thorium-232** is not fissile but turns into fissile **U-233** in a reactor.
+
+@pyq U.P.P.C.S (Pre) 2011; U.P.P.C.S. (Mains) 2011
+Which one of the following is used as moderator in a nuclear reactor ?
+(a) Thorium
+(b) Heavy Water
+(c) Radium
+(d) Ordinary Water
+@ans (b) & (d)
+@note The source gives **(b) & (d)**: heavy water and ordinary (light) water both act as moderators, as does graphite.
+@end
+
+@one
+Graphite is used in nuclear plants
+@ans As a moderator
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Heavy water is a type of –
+(a) Coolant
+(b) Moderator
+(c) Ore
+(d) Fuel
+@ans (a) & (b)
+@note The source gives **(a) & (b)**: heavy water serves as both moderator and coolant in India's pressurised heavy-water reactors.
+@end
+
+@one
+The material used in nuclear reactors both as moderator and coolant is
+@ans ordinary water and heavy water
+@end
+
+
+
+
+@table
+Reactor part | Job | Materials
+**Fuel** | Fissions to release heat | U-235 (natural or enriched), Pu-239, U-233 (from thorium)
+**Moderator** | **Slows** fast neutrons so they can cause more fission | **Heavy water (D_{2}O)**, ordinary water, **graphite**
+**Control rods** | **Absorb** neutrons to control the chain reaction | **Boron**, **cadmium**, hafnium
+**Coolant** | Carries heat to make steam | Heavy water, ordinary water, CO_{2}, **liquid sodium** (fast reactors)
+Shield | Stops radiation | Concrete, lead
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Heavy water is manufactured in India at
+(a) Trombay
+(b) Assam
+(c) Delhi
+(d) Bhilai
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The first heavy water plant was established in
+(a) Bangalore
+(b) Bhopal
+(c) Nangal
+(d) Hyderabad
+@ans (c)
+@end
+
+**Heavy water** (D_{2}O, deuterium oxide) is about 11% denser than ordinary water. India's first heavy water plant came up at **Nangal** (Punjab, 1962) with the fertiliser plant there; the **Heavy Water Board** (Mumbai) now runs plants at Kota, Manuguru, Thal, Hazira, Tuticorin and Talcher, and India is one of the largest producers and an exporter.
+
+@pyq U.P.P.C.S. (Mains) 2009
+A breeder reactor is that which –
+(a) Does not require fissionable material at all
+(b) Uses only heavy water
+(c) Produces more fissionable material than it burns
+(d) None of these
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2005
+What is true for Kalpakkam Fast Breeder Reactor?
+1. In it, natural uranium will be used as a fuel.
+2. In it, Plutonium carbide and natural uranium carbide mixture will be used as a fuel.
+3. More than 200 MW atomic electricity will be produced from it.
+Choose the correct answer from the following alternatives.
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 1, 2 and 3
+@ans (b)
+@note The 500 MWe **Prototype Fast Breeder Reactor** at Kalpakkam is designed to use **mixed oxide (MOX)** fuel of plutonium and uranium, while the small **Fast Breeder Test Reactor** (1985) uses a **plutonium-uranium carbide** fuel. The source keys (b), statements 1 and 3.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997; U.P. Lower (Spl.) (Pre) 2008; U.P.P.C.S. (Mains) 2010
+Which one of the following coolants is used in the ‘Fast Breeder Test Reactor’ at Kalpakkam ?
+(a) Carbon dioxide
+(b) Heavy water
+(c) Sea water
+(d) Liquid sodium
+@ans (d)
+@end
+
+
+
+A **breeder reactor** makes more fissile fuel than it burns by turning U-238 into Pu-239 (or Th-232 into U-233) with **fast neutrons**, so it needs no moderator and uses **liquid sodium** as coolant. Core loading of the PFBR at Kalpakkam began in **March 2024**.
+
+@section 9.5 | India's Nuclear Map
+
+@pyq U.P.P.C.S. (Mains) 2004
+What are the links between Dhruva, Purnima and Cirus?
+(a) They are Indian research reactors
+(b) They are stars
+(c) These are names of famous books
+(d) They are power plants
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023; U.P. Lower Sub. (Pre) 2002; U.P.U.D.A./L.D.A. (Pre) 2001
+Kalpakkam is famous–
+(a) Due to nuclear power plant
+(b) Due to defence laboratory
+(c) Due to rocket launching center
+(d) Due to space center.
+@ans (a)
+@end
+
+
+@table
+India's three-stage programme (Homi Bhabha, 1954) | Reactor type | Fuel
+Stage 1 | **Pressurised Heavy Water Reactors** (PHWR) | Natural uranium → produces plutonium
+Stage 2 | **Fast Breeder Reactors** (PFBR, Kalpakkam) | Plutonium + uranium; breeds more fuel, starts thorium conversion
+Stage 3 | Advanced thorium reactors (AHWR) | **Thorium** → U-233 (India has about a quarter of world thorium, in **monazite sands** of Kerala, Tamil Nadu, Odisha)
+@end
+
+**Research reactors** at **BARC, Trombay**: **Apsara** (1956, Asia's first), **CIRUS** (1960, closed 2010), **Dhruva** (1985), **Purnima**; and **Kamini** (Kalpakkam, uses U-233).
+
+@one
+Indira Gandhi Centre for Atomic Research is located in
+@ans Tamil Nadu
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following is not correctly matched?
+(a) Indira Gandhi Centre for Atomic Research – Kalpakkam
+(b) Atomic Minerals Directorate for Exploration and Research – Hyderabad
+(c) Harishchandra Research Institute – Chennai
+(d) Saha Institute of Nuclear Physics – Kolkata
+@ans (c)
+@end
+
+@up UP link: The **Harish-Chandra Research Institute** (mathematics and theoretical physics) is at **Jhunsi, Prayagraj**. The **Narora Atomic Power Station** (2 × 220 MW PHWR, 1991) is in **Bulandshahr** district on the Ganga, UP's only nuclear plant.
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List-I with List-II and choose the correct answer using the code given below the lists.
+@match
+List-I (Atomic Power Plant) | List-II (State)
+A. Kudankulam | 1. Karnataka
+B. Kakrapar | 2. Tamil Nadu
+C. Kaiga | 3. Rajasthan
+D. Rawatbhata | 4. Gujarat
+@endmatch
+Code: A B C D
+(a) 4 2 1 3
+(b) 2 4 3 1
+(c) 2 4 1 3
+(d) 4 2 3 1
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match List-I with List-II and select the correct answer by using the codes given below :
+@match
+List-I (Atomic Power Station) | List-II (State of Situation)
+A. Kalpakkam | 1. Uttar Pradesh
+B. Narora | 2. Gujarat
+C. Kakrapara | 3. Tamil Nadu
+D. Trombay | 4. Maharashtra
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 2 4
+(c) 3 1 4 2
+(d) 2 3 4 1
+@ans (b)
+@end
+
+@pyq U.P.Lower Sub. (Pre) 2009
+Which one of the following is not correctly matched?
+(a) Rajasthan Atomic Power - Udaipur Station
+(b) Narora Atomic Power - Uttar Pradesh Station
+(c) Madras Atomic Power - Kalpakkam Plant
+(d) Kaiga Atomic Power Plant - Karnataka
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+The atomic power plants are located at
+1. Narora
+2. Ghatshila
+3. Kalpakkam
+4. Nangal
+Select the correct answer from the codes given below:
+Code :
+(a) 2 and 4
+(b) 1 and 3
+(c) only 4
+(d) only 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following atomic plants of India is located in the IV Seismic Zone ?
+(a) Kaiga
+(b) Kalpakkam
+(c) Narora
+(d) Tarapur
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+The atomic power plant which became active recently is located at :
+(a) Kalpakkam
+(b) Narora
+(c) Tarapore
+(d) Kaiga
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Russia has agreed recently to construct how many units of nuclear reactors at Kudankulam in Tamil Nadu ?
+(a) 2
+(b) 4
+(c) 5
+(d) 6
+@ans (d)
+@end
+
+
+@table
+Nuclear power station | State | Note
+**Tarapur** (TAPS) | Maharashtra | First (1969), boiling water reactors from the USA
+**Rawatbhata** (RAPS) | Rajasthan | Near **Kota**; units 7 and 8 are 700 MW PHWRs
+**Kalpakkam** (MAPS) | Tamil Nadu | Also IGCAR and the PFBR
+**Narora** (NAPS) | **Uttar Pradesh** | Bulandshahr; **seismic zone IV**
+**Kakrapar** (KAPS) | Gujarat | First indigenous 700 MW PHWR (2023)
+**Kaiga** | Karnataka | Uttara Kannada district
+**Kudankulam** (KKNPP) | Tamil Nadu | Russian VVER-1000 units; **largest** installed (2,000 MW), 6 units planned
+Gorakhpur (GHAVP) | Haryana | Under construction (Fatehabad district, not the UP city)
+Jaitapur | Maharashtra | Planned French EPR site
+@end
+
+Nuclear power gives only about **3%** of India's electricity from about **8.8 GW** of capacity. The 2025 Budget launched a **Nuclear Energy Mission** for small modular reactors, with a target of **100 GW by 2047**.
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following nuclear power plants has the highest total installed capacity?
+(a) Kakrapar
+(b) Kaiga
+(c) Kudankulam
+(d) Tarapur
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2008
+The percentage of nuclear energy in India's total energy generation is –
+(a) 60%
+(b) 27%
+(c) 10%
+(d) 3%
+@ans (*)
+@note The share was about **3%** when asked and is still about 3% of electricity generation, so (d) is the best answer; the source marks the question (*) because the figure changes over time.
+@end
+
+@section 9.6 | Nuclear Tests and Security
+
+@pyq U.P.P.C.S. (Mains) 2009
+The official code name of the Pokhran nuclear test 1974, was –
+(a) Smiling Buddha
+(b) Thunder Bolt
+(c) Flying Garud
+(d) Agni Pareeksha
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1999
+'Operation Shakti'-98 is the name :
+(a) Given to the nuclear test carried out at Pokharan in 1998
+(b) Given to air exercises carried out by Indian Air Force SU-30 planes
+(c) Given to the pro-active programme of the Union Home Minister to contain terrorism in J& K
+(d) Given to military action against terrorists in Tripura
+@ans (a)
+@end
+
+India's first test, **Smiling Buddha** (Pokhran-I), was on **18 May 1974**. **Operation Shakti** (Pokhran-II) was five tests on **11 and 13 May 1998**; 11 May is celebrated as **National Technology Day**. India follows **no first use** and a voluntary test moratorium.
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to the International Conference on Nuclear Security (ICONS-2024), which of the following statements is/are correct?
+1. This conference was held on 25th May, 2024.
+2. India has recently reconstituted an inter-ministerial Counter Nuclear Smuggling Team (CNST) to strengthen the nuclear security.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (a)
+@end
+
+
+@trap
+**Fission splits, fusion joins.** The **Sun** runs on **hydrogen → helium** fusion. **Atom bomb = fission, H-bomb = fusion**, reactor = **controlled** fission. Moderators **slow** neutrons (heavy water, graphite); control rods **absorb** them (boron, cadmium). Fast breeders use **liquid sodium**. **Harish-Chandra Research Institute is in Prayagraj**, not Chennai. **Kudankulam** has the highest capacity; **Narora** is in zone IV.
+@end
+
+@heatmap
+
+@pattern
+Nuclear questions split between **concept** (fission/fusion, moderator, breeder) and **places** (plant-state matching, Kalpakkam, Trombay). Plant matching returned in **2025**, and current affairs entered with **ICONS-2024**. Expect one location match and one concept question.
+@end
+
+@next
+Likely next angles: the **Nuclear Energy Mission** and **Bharat Small Modular Reactors**, private participation in nuclear power, **PFBR criticality**, **Rawatbhata units 7-8** (700 MW), the **Kudankulam** expansion, **ITER** progress, the **Civil Liability for Nuclear Damage Act**, and **IAEA** safeguards.
+@end

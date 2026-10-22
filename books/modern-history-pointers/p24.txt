@@ -1,0 +1,53 @@
+@chapter 24 | Trade Union and Communist Party
+@meta Built from 10 UPPSC questions (1997–2023). Focus: the first trade union, AITUC and its presidents, the Kanpur and Meerut cases, M.N. Roy and Soumyendranath Tagore.
+
+@hot
+- First president of **AITUC** (Bombay, 1920): **Lala Lajpat Rai** {1997, 2002, 2006, 2011, 2023}
+- AITUC at **Nagpur (1929)** presided by **Jawaharlal Nehru** {2013, 2021}
+@end
+
+@section 24.1 | Trade Unions
+- First trade union (1918, Madras Labour Union): **B.P. Wadia** {2007}
+- First AITUC president: **Lala Lajpat Rai** {1997, 2002}
+- Presided over the first AITUC session in Bombay: **Lala Lajpat Rai** {2023}
+- First AITUC session (Bombay, 1920): **Lajpat Rai** {2006, 2011}
+- Presided over AITUC at Nagpur, 1929: **Nehru** {2013}
+- AITUC president in 1929: **Nehru** {2021}
+
+@section 24.2 | Communists and the Left
+- Kanpur conspiracy case: against **communist** leaders {2001, 2010}
+- World-wide sympathy (Einstein, H.G. Wells, Laski): **Meerut Conspiracy Case** {2017}
+- Radical Democratic Party (1940): **M.N. Roy** {2007}
+- Party of Soumyendranath Tagore: **Revolutionary Communist Party** {2015}
+
+@table
+Event | Year | Key name
+Madras Labour Union | 1918 | B.P. Wadia
+AITUC, Bombay | 1920 | Lajpat Rai (president), N.M. Joshi
+CPI at Tashkent | 1920 | M.N. Roy
+Kanpur Bolshevik case | 1924 | Dange, Muzaffar Ahmad, Shaukat Usmani
+CPI conference, Kanpur | 1925 | Satyabhakta
+Meerut case | 1929-33 | 31 trade union and communist leaders
+AITUC, Nagpur | 1929 | Nehru; split
+@end
+
+@trap
+- AITUC founder **N.M. Joshi**; first president **Lajpat Rai**.
+- Ahmedabad 1918 = Gandhi's strike; first union 1918 = **Wadia** (Madras).
+- Meerut case drew world sympathy; the Lahore case (1929-30) was Bhagat Singh's.
+@end
+
+@up UP link: **Kanpur** gave its name to the 1924 Bolshevik case and hosted the 1925 communist conference; **Meerut** gave its name to the 1929 trial.
+
+@last
+- Wadia = first union, Madras 1918
+- AITUC = Bombay 1920
+- Lajpat Rai = first AITUC president
+- N.M. Joshi = founder
+- Nehru = AITUC Nagpur 1929
+- Bose = AITUC 1931
+- Kanpur case = communists
+- Meerut case = world sympathy
+- M.N. Roy = Radical Democratic Party 1940
+- Soumyendranath Tagore = Revolutionary Communist Party
+@end

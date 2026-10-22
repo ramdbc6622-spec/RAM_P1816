@@ -1,0 +1,46 @@
+@chapter 8 | Delhi Sultanate: Art and Architecture
+@meta Built from 5 UPPSC questions (2002–2022). Focus: the first Indo-Islamic tomb, the Qutb Minar's builders, early Sultanate monuments, Aibak's mosques at Delhi and Ajmer.
+
+@hot
+- **Qutb Minar**: begun by **Aibak**, raised by **Iltutmish**, fifth storey by **Firuz Tughluq**; **Alauddin** did not build it {2002, 2003, 2004, 2013}
+- **Sultan Ghari-Iltutmish, Red Palace-Balban, Jamaat Khana Masjid-Alauddin, Adhai Din ka Jhonpra-Aibak** {2022}
+@end
+
+@section 8.1 | Monuments
+- First Indo-Islamic tomb (key): **Balban's tomb** (first true arch) {2004}
+- Did not build the Qutb Minar: **Alauddin Khalji** {2002, 2003, 2013}
+- Fifth storey: **Firuz Shah Tughluq** {2004}
+- **Sultan Ghari-Iltutmish, Red Palace-Balban, Jamaat Khana Masjid-Alauddin Khalji, Adhai Din ka Jhonpra-Aibak** {2022}
+- Wrong pair: **Ajmer-Quwwat-ul-Islam** (that is Delhi; Ajmer has the Adhai Din ka Jhonpra) {2011}
+
+@table
+Monument | Builder
+Quwwat-ul-Islam mosque (Delhi) | Aibak
+Adhai Din ka Jhonpra (Ajmer) | Aibak
+Qutb Minar | Aibak, Iltutmish, Firuz (repairs)
+Sultan Ghari | Iltutmish
+Alai Darwaza, Siri | Alauddin Khalji
+Tughlaqabad | Ghiyasuddin Tughluq
+Atala Masjid (Jaunpur) | Sharqis
+@end
+
+@trap
+- Alauddin built the **Alai Darwaza** and began the unfinished Alai Minar, not the Qutb Minar.
+- Delhi = Quwwat-ul-Islam; Ajmer = Adhai Din ka Jhonpra.
+- Balban's tomb has the first **true arch**.
+@end
+
+@up UP link: the Sharqi sultans built the **Atala, Jhanjhri and Jama mosques** in **Jaunpur**, the finest regional Sultanate style in UP.
+
+@last
+- Balban's tomb = first true arch
+- Qutb Minar: Aibak, Iltutmish, Firuz
+- Alauddin not a Qutb Minar builder
+- Sultan Ghari = Iltutmish
+- Red Palace = Balban
+- Jamaat Khana Masjid = Alauddin
+- Adhai Din ka Jhonpra = Aibak (Ajmer)
+- Quwwat-ul-Islam = Aibak (Delhi)
+- Alai Darwaza = Alauddin
+- Atala Masjid = Jaunpur (Sharqi)
+@end

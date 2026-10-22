@@ -1,0 +1,65 @@
+@chapter 34 | Congress Socialist Party, 1937 Elections and World War II
+@unit UNIT VIII · TOWARDS INDEPENDENCE
+@meta Built from 19 UPPSC questions (1992–2024). Focus: the Congress Socialist Party, the 1937 elections and ministries, the UP ministry, League reports, Haripura and Tripuri, the war and the resignations.
+
+@hot
+- **Tripuri (1939)**: Bose re-elected by defeating **Pattabhi Sitaramayya**; after he resigned, **Rajendra Prasad** became president {1997, 2004, 2007, 2010, 2011}
+- **Haripura (1938, Gujarat)**: **S.C. Bose** presided {2000, 2006}
+- 1937: no full Congress majority in **Punjab**; no ministry in **Bengal and Punjab** {1992, 2004, 2016}
+- Congress ministries lasted **28 months** (1937-39) {2010, 2013, 2013}
+@end
+
+@section 34.1 | Congress Socialist Party (1934)
+- "Formed January 1934" and "Nehru formally joined": **neither correct** {2024}
+- Prominent CSP leader: **Acharya Narendra Dev** {1996}
+- Organised by **Jayaprakash Narayan and Narendra Dev** {2008}
+- Convenor at Patna (1934): **Jayaprakash Narayan** {2008}
+
+@section 34.2 | Elections of 1937
+- No full majority: **Punjab** {1992, 2004}
+- No Congress ministry: **Bengal and Punjab** {2016}
+- No absolute majority: question marked (*); both **Bombay and Assam** fit {2003, 2004, 2004, 2008}
+- Number of Congress ministries: question marked (*); 6 in July 1937, 8 later {2015}
+- Finance in the UP ministry: **G.B. Pant** himself (some keys give Rafi Ahmad Kidwai) {2012}
+- League reports in order: **Pirpur, Shareef, Muslim Sufferings under Congress Rule** {2013}
+
+@section 34.3 | Haripura, Tripuri and the War
+- Haripura president: **S.C. Bose** {2006}
+- Haripura is in **Gujarat** {2000}
+- Bose's second presidency: **Tripuri** {2011}
+- Bose defeated **Pattabhi Sitaramayya** {?}
+- Defeated Sitaramayya at **Tripuri, 1939** {2004, 2010}
+- After Bose resigned: **Rajendra Prasad** {1997, 2007}
+- Congress policy in WWII: **cooperation if complete independence was assured** {1993}
+- "Congress helped Britain in the war, expecting independence": **both false** {1992}
+- Tenure of the 1937 ministries: **28 months** {2010, 2013, 2013}
+
+@table
+Session | Year | President
+Lucknow | 1936 | Jawaharlal Nehru
+Faizpur (first village session) | 1936 | Jawaharlal Nehru
+Haripura | 1938 | Subhas Chandra Bose
+Tripuri | 1939 | Bose, then Rajendra Prasad
+Ramgarh | 1940 | Maulana Azad
+@end
+
+@trap
+- Haripura 1938 = Bose **unopposed**; Tripuri 1939 = Bose **by contest**, then resigned.
+- CSP worked **inside** the Congress; it is not the CPI or the Forward Bloc.
+- Ministries resigned in **October-November 1939** over India being dragged into the war.
+@end
+
+@up UP link: **G.B. Pant** led the UP Congress ministry (July 1937) with **Rafi Ahmad Kidwai** in charge of revenue; Narendra Dev, a CSP founder, came from **Faizabad**.
+
+@last
+- CSP = 1934, Patna, JP and Narendra Dev
+- Nehru never joined CSP
+- 1937 = no ministry in Bengal, Punjab
+- Pant = UP Premier 1937
+- Pirpur Report = first League report
+- Haripura 1938 = Bose, Gujarat
+- Tripuri 1939 = Bose beat Sitaramayya
+- Rajendra Prasad = after Bose
+- Ministries = 28 months
+- Ramgarh 1940 = Azad
+@end

@@ -1,0 +1,145 @@
+@chapter 14 | Welfare Schemes I: Health, Education, Women and Social Security
+@meta Built from 93 UPPSC questions (1992–2025). Focus: health missions and launch years, ICDS, skills, women's schemes, insurance and pensions, education schemes, Aadhaar and welfare bodies.
+
+@hot
+- **NRHM**: **12 April 2005** (Tenth Plan); village worker **ASHA** {2005, 2006, 2008, 2010, 2013, 2017}
+- **Mid-day Meal**: **1995**, for universal primary education; renamed **PM POSHAN** (2021) {2006, 2008, 2010, 2016, 2023}
+- **Sarva Shiksha Abhiyan**: **2001**, ages **6-14** {2006, 2008, 2014, 2015, 2016}
+- **Aadhaar**: identity for residents; first Aadhaar village **Tembhli** {2008, 2008, 2009, 2009, 2010, 2011}
+- **Swadhar** = women in difficult circumstances {2010, 2013}
+- Launch years: **ICDS 1975, blindness 1976, leprosy 1983, NRHM 2005; OBB 1987, NLM 1988, SSA 2001, Saakshar Bharat 2009** {2013, 2014, 2019}
+@end
+
+@section 14.1 | Health and Nutrition
+- **Ayushman Bharat**: Rs. 5 lakh per **family** (not person); Centre-State **60:40** (only 2) {2020}
+- **RSBY** (2008 Act): **unorganised sector workers** {2017}
+- **NRHM**: **12 April 2005**; not launched in the 11th Plan; **Tenth Plan** {2005, 2006, 2008, 2010, 2013}
+- NRHM village worker: **ASHA** {2017}
+- National Health Policy: **1983** {1993}
+- Public health spend 2009-10: **1.09%** of GDP {2013}
+- NFHS-3: private sector primary for **70% of urban** households {2017}
+- Life expectancy 2006-10: **males 65.8, females 68.1** {2008}
+- **Shabri Sankalp Abhiyan**: **National Nutrition Mission** {2021}
+- Not under ICDS: **family planning**; **free books and uniforms** {2020, 2017}
+- **Blindness control-1976, ICDS-1975, leprosy eradication-1983, NRHM-2005** {2019}
+- **PM Jan Arogya-2018, PM Vaya Vandana-2017, PM Rojgar Protsahan-2015 (key), Swachh Bharat-2014** {2020}
+- **PM Garib Kalyan Package-2020, Muskaan-2021, Mission Indradhanush-2014, PM-JAY-2018** {2023}
+
+@section 14.2 | Skills and Innovation
+- Skill schemes: **STRIVE, SANKALP, SHREYAS** (not STRIDE) {2021}
+- Skill Development Initiative: **May 2007** {2010}
+- Skill India launched **July 2015** (true); only IT training (false) (only 1) {2020}
+- Skill India International Centres (Budget 2023-24): **30** {2023}
+- Biggest Global Skill Park: **Bhopal** {2017}
+- World Youth Skills Day 2021 theme: **Reimagining Youth Skills Post-Pandemic** {2021}
+- **DHRUV** (10 Oct 2019): talented children {2019}
+- **Atal Innovation Mission**: **NITI Aayog** {2020}
+- **NIDHI**: student start-ups; supports 20 students a year (both) {2020}
+
+@section 14.3 | Women and Girls
+- **Beti Bachao Beti Padhao**: **January 2015** {2015}
+- **Bhagyashree**: **Maharashtra** {2014}
+- **Swavalambini**: **Ministry of Skill Development** (only 1) {2025}
+- **Swawlamban**: **skills and training for women** (per key); launched **2010** {2006, 2016}
+- **Swadhar**: **women in difficult circumstances** {2010, 2013}
+- SHG loans (2013): **7%** {2013}
+- Wrong: **Mahila Samakhya-1989** (it was 1988-89) {2021}
+- **Mahila Samriddhi Yojana**: **1993** {2015}
+- **Janani Suraksha** replaced the **National Maternity Benefit Scheme** {2005}
+- JSY aim: cut **maternal and neonatal mortality** {2023}
+- Free care for pregnant women and infants (June 2011): **Janani Shishu Suraksha Karyakram** {2010, 2011}
+- Not a women's income programme: **Integrated Rural Energy Programme** {2013}
+- **ABC index**: **health** {2014, 2018}
+
+@section 14.4 | Social Security
+- NPS for traders: turnover **up to Rs. 1.5 crore** {2020}
+- **Ashraya Bima**: workers who **lost jobs** {2001}
+- **Aam Aadmi Bima**: **rural landless BPL labour**; launched **2 October 2007** {2008, 2013}
+- Unorganised Workers' Social Security Act: **2008** {2012, 2015}
+- Not social security: **SJSRY** {2013}
+- Not a social-protection measure: **skill development** {2009}
+- Not true of PMSBY: age 18-50 (it is **18-70**); premium now Rs. 20 {2015}
+- Not an employment programme: **NSSF** {2014}
+- **AABY-2007, PM Aatmanirbhar Swasth Bharat-2021, PM-JAY-2018, PMSBY-2016 (key; launched 2015)** {2021}
+- **Shram Yogi Maan-dhan-Rs. 55-200/month, PMJJBY-Rs. 436/year, PMSBY-Rs. 20/year, Atal Pension-beneficiary's choice** {2024}
+- NSAP does not include **Mahila Kisan Sashaktikaran Pariyojana** {2019}
+- Minimum Needs Programme: **investment in human resources** {2004}
+- Not under MNP: **social forestry** {2013}
+- Not reducing inequality: **liberalisation** {2006, 2009}
+- **NSAP**: **old-age pension** for the very poor {2008}
+
+@table
+Insurance / pension | Premium | Cover
+PMJJBY (2015) | Rs. 436/year | Life Rs. 2 lakh, 18-50
+PMSBY (2015) | Rs. 20/year | Accident Rs. 2 lakh, 18-70
+Atal Pension (2015) | By age and pension | Rs. 1,000-5,000
+PM-SYM (2019) | Rs. 55-200/month | Rs. 3,000 pension at 60
+PM-JAY (2018) | Free | Rs. 5 lakh per family
+@end
+
+@section 14.5 | Education
+- **Kasturba Gandhi Balika Vidyalaya**: **2004** {2016}
+- **SSA**: **2001**; ages **6-14** {2014, 2006, 2008, 2015, 2016}
+- **Saakshar Bharat**: **female literacy** {2015}
+- RTE: free education up to **elementary level** {2015}
+- Not a social programme: **Look East Policy** {2015}
+- Mid-day Meal (1995) for **universal primary education**; started **1995** {2008, 2006, 2016}
+- Renamed **PM POSHAN** in **2021** {2023}
+- Run by the **Ministry of HRD** (Education) {2010}
+- Does not run mid-day meals: **contractor** {2013}
+- **Akshaya Patra**: **mid-day meals** {2015}
+- UP "Go to School" campaign: **2000** {2012}
+- **Kalp Yojana**: **primary education** {2001, 2010}
+- UP **Shiksha Mitra**: village youth teach (true); teacher-pupil norms (true, not the explanation) {2012}
+- **DPEP**: **1994** {2004}
+- **Prarambhik Shiksha Kosh**: receives the **education cess** {2005}
+- **Operation Blackboard**: **primary education** {1993}
+- IEDSS (2009-10) under **RMSA** {2016}
+- **SSA-2001, Saakshar Bharat-2009, Operation Blackboard-1987, NLM-1988** {2013, 2014}
+- **Roshni**: skills for **tribal youth** {2013}
+- **Nalanda Project**: **Ministry of Minority Affairs** {2014, 2015}
+
+@flow Education schemes in order
+1987 | Operation Blackboard
+1988 | National Literacy Mission
+1994 | DPEP
+1995 | Mid-day Meal (PM POSHAN 2021)
+2001 | Sarva Shiksha Abhiyan (6-14)
+2004 | Kasturba Gandhi Balika Vidyalaya
+2009 | RTE Act; Saakshar Bharat; RMSA
+@end
+
+@section 14.6 | Other Bodies
+- **Bonded Labour (Abolition) Act**: **1975** (Ordinance; Act 1976) {2002}
+- **National Children's Fund**: **1979** {1993}
+- **CAPART**: helps and evaluates rural welfare schemes; under **Rural Development Ministry** {1997, 2006}
+- **Aadhaar**: identity for residents; 12-digit number brand {2008, 2009, 2009}
+- **Tembhli**: first Aadhaar village {2008, 2010, 2011}
+- **PURA**: **A.P.J. Abdul Kalam** {2014}
+- PM's Shram Awards: **PSU and selected private-unit employees** {2013}
+- National Handicapped Finance Corporation: **Social Justice Ministry** {2015}
+- National Institute for the Visually Handicapped: **Dehradun** {2012}
+- First open university: **Andhra Pradesh** (1982) {1992}
+- **Tarun Bharat Sangh**: **Rajasthan** {2003}
+
+@trap
+- PM-JAY = **Rs. 5 lakh per family**, not per person.
+- **STRIDE** is a UGC research scheme, not skills.
+- **ICDS** has no family planning or free books.
+- Mid-day Meal = **PM POSHAN** since 2021.
+@end
+
+@up UP schemes asked: **Shiksha Mitra** (village youth as teachers), **School Chalo / Go to School** campaign (2000), **Kalp Yojana**; UP is the biggest user of PM-JAY and mid-day meals by numbers.
+
+@last
+- NRHM **12 Apr 2005**; ASHA; NHP 1983
+- ICDS 1975; Indradhanush 2014; POSHAN Abhiyaan 2018
+- PM-JAY 2018: Rs. 5 lakh per family, 60:40
+- Skill India **15 July 2015**; Global Skill Park Bhopal
+- BBBP **Jan 2015**; Swadhar = women in difficulty
+- JSY replaced Maternity Benefit Scheme; JSSK 2011
+- PMSBY Rs. 20; PMJJBY Rs. 436; AABY 2007
+- Mid-day Meal 1995 to PM POSHAN 2021
+- SSA 2001 (6-14); RTE 2009; Saakshar Bharat = women
+- Aadhaar village Tembhli; PURA = Kalam
+@end

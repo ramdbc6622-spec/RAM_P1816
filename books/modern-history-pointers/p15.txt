@@ -1,0 +1,61 @@
+@chapter 15 | Revolutionary Activities Outside India
+@meta Built from 18 UPPSC questions (2002–2019). Focus: Shyamji Krishna Varma and India House, Dhingra and Udham Singh, Madame Cama, the Ghadar Party, Komagata Maru, the Kabul government, Rash Behari Bose.
+
+@hot
+- **Ghadar Party**: **Sohan Singh Bhakna** (first chairman), Lala Hardayal; HQ **San Francisco**, USA {2004, 2008, 2008, 2013, 2014, 2015}
+- **Shyamji Krishna Varma**: Indian Home Rule Society and India House, **London 1905** {2002, 2004, 2007, 2014, 2014}
+- **Bhikaji Cama**: "Mother of Indian Revolution"; first to unfurl the tricolour abroad {2002, 2003, 2010}
+@end
+
+@section 15.1 | London
+- Indian Home Rule Society started by **Shyamji Krishna Varma** {2002, 2007}
+- Indian Home Rule Society set up in **London** {2004}
+- Year of the Indian Home Rule Society: **1905** {2014}
+- India House, London: **Shyamji Krishna Varma** {2014}
+- Hanged for killing British officers in England: **Madan Lal Dhingra and Udham Singh** {2004}
+
+@table
+Revolutionary | Act in England | Year
+Madan Lal Dhingra | Shot Curzon Wyllie | 1909
+Udham Singh | Shot Michael O'Dwyer | 1940
+@end
+
+@section 15.2 | Madame Cama
+- "Mother of Indian Revolution": **Bhikaji Rustam Cama** {2002, 2003}
+- First woman to unfurl the Indian tricolour (Stuttgart, 1907): **Bhikaji Cama** {2010}
+
+@section 15.3 | The Ghadar Party (1913)
+- Founded the Ghadar Party: **Lala Hardayal** {2008}
+- Ghadar movement founded by **Sohan Singh Bhakna** {2004}
+- First chairman: **Sohan Singh Bhakna** {2015}
+- Not linked with Ghadar: **Khudiram Bose** {2019}
+- Headquarters: **San Francisco** {2014}
+- Founded in the **USA** {2008, 2013}
+- Komagata Maru episode: **Baba Gurdit Singh** {2014}
+- Komagata Maru was **a ship** {2015}
+
+@section 15.4 | Governments and Leagues Abroad
+- Republican government abroad: **Raja Mahendra Pratap** {2008}
+- Provisional Government (WWI) in **Afghanistan** (Kabul, 1915) {2010, 2012}
+- Indian Independence League: **Rash Behari Bose** {2008, 2008, 2010}
+
+@trap
+- Home Rule **Society** (Shyamji, London 1905) is not the Home Rule **League** (Tilak and Besant, 1916).
+- Udham Singh shot **O'Dwyer** (Punjab Lt. Governor), not General Dyer.
+- Kabul 1915 = Mahendra Pratap (President), Barkatullah (PM); Singapore 1943 = Subhas Bose.
+@end
+
+@up UP link: **Raja Mahendra Pratap** came from **Mursan (Hathras)** and founded Prem Mahavidyalaya at **Vrindavan**; the state university at **Aligarh** is named after him.
+
+@last
+- Shyamji = India House, Home Rule Society, London 1905
+- Dhingra 1909, Udham Singh 1940
+- Cama = Mother of Indian Revolution, Stuttgart 1907
+- Ghadar = 1913, San Francisco, USA
+- Sohan Singh Bhakna = first chairman
+- Hardayal = Ghadar founder
+- Komagata Maru = ship, Gurdit Singh
+- Mahendra Pratap = Kabul 1915
+- Rash Behari Bose = Indian Independence League
+- Khudiram Bose not in Ghadar
+@end

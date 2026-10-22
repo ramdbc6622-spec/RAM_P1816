@@ -1,0 +1,73 @@
+@chapter 4 | Endangered Species, Ramsar Convention and Biodiversity Miscellany
+@meta Built from 21 UPPSC questions (2002–2021). Focus: Red Data Book, vultures and diclofenac, Ramsar wetlands, CBD Nagoya, Biodiversity Act and NBA.
+
+@hot
+- Vultures nearly wiped out by **diclofenac** given to cattle {2008, 2015, 2018}
+- **Ramsar Convention** = **wetlands**; World Wetlands Day **2 February** {2008, 2008, 2016}
+- **Red Data Book** lists endangered species {2002, 2013}
+- **Biological Diversity Act**: **December 2002**; **NBA** 2003, **Chennai** {2010, 2014}
+@end
+
+@section 4.1 | Endangered Species
+- Endangered species listed in the **Red Data Book**; species facing extinction {2013, 2002}
+- Highly endangered Indian bird: **Great Indian Bustard** {2005}
+- Wrong: **desert cat-endangered** {2014}
+- Extinct if unseen for **50 years** (old rule; IUCN now has no fixed period) {2005}
+- Vulture killer: **diclofenac**; painkillers to cattle {2008, 2018, 2015}
+
+@table
+IUCN category | Meaning
+Critically Endangered | Extremely high risk
+Endangered | Very high risk
+Vulnerable | High risk
+Near Threatened | Close to threatened
+Least Concern | Widespread
+@end
+
+@section 4.2 | Ramsar and Wetlands
+- Ramsar Convention (1971): **wetlands** {2008, 2016}
+- Wetlands Day: **2 February** {2008}
+- Ramsar sites: **Chilika, Keoladeo, Wular, Loktak** (all) {2013}
+- Ramsar site of the options: **Sundarbans** {2015}
+- Ramsar site in a State: **Point Calimere** (Tamil Nadu) {2021}
+- Wetlands useful for **all** listed services {2012}
+
+@section 4.3 | Laws and Institutions
+- CBD COP10: **Nagoya** (2010) {2010}
+- Biodiversity Act passed: **December 2002** {2010}
+- NBA set up: **2003, Chennai** {2014}
+- Centre for Biodiversity Policy and Law (with Norway): **Chennai** {2017}
+
+@flow CBD timeline
+1992 Rio | Convention on Biological Diversity
+2000 | Cartagena Protocol (biosafety)
+2010 Nagoya | Nagoya Protocol; Aichi Targets
+2022 Kunming-Montreal | 30x30 framework
+@end
+
+@section 4.4 | Miscellany
+- Not a cause of extinction: **broad niche** {2014}
+- **Sea buckthorn**: **Ladakh** {2004}
+- Largest ecosystem: **biosphere** {2017}
+- "Tomorrow's Biodiversity": **Vandana Shiva** {2004, 2005}
+
+@trap
+- Wetlands Day **2 Feb**; Environment Day **5 June**.
+- **CBD COP10 = Nagoya**; climate COP15 = Copenhagen.
+- A **broad** niche protects; a narrow one endangers.
+@end
+
+@up UP's Ramsar sites include **Nawabganj, Parvati Agra, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga (Brijghat-Narora)**, **Bakhira** and **Haiderpur** wetlands.
+
+@last
+- Red Data Book = endangered species
+- Diclofenac killed vultures
+- Great Indian Bustard = highly endangered
+- Ramsar = wetlands (1971); Wetlands Day **2 Feb**
+- Chilika, Keoladeo, Wular, Loktak = Ramsar sites
+- Point Calimere = Tamil Nadu
+- CBD COP10 = **Nagoya**
+- Biodiversity Act **2002**; NBA **2003 Chennai**
+- Sea buckthorn = Ladakh
+- Tomorrow's Biodiversity = **Vandana Shiva**
+@end

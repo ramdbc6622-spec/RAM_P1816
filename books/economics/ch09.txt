@@ -1,0 +1,629 @@
+@chapter 9 | Economic Planning and NITI Aayog
+
+@intro
+This chapter covers **planning in India**: its constitutional place, the **Planning Commission** and **National Development Council**, pre-independence plans, the **twelve Five Year Plans** (their models, slogans, targets and periods), plan holidays and the **rolling plan**, and the change to **NITI Aayog** in 2015. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 9.1 | Planning Bodies
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006; U.P. Lower Sub. (Pre) 2002
+Under the Constitution of India, Economic Planning is a subject :
+(a) In the State List
+(b) In the Union List
+(c) In the Concurrent List
+(d) Not specified in any list
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+The Development, Monitoring and Evaluation Office, which monitors the progress of long term policies is an attached office under :
+(a) Prime Minister Office
+(b) Ministry of Home Affairs
+(c) Cabinet Secretariat
+(d) NITI Aayog
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following was called as Economic Cabinet of India by Ashok Chandra?
+(a) Planning Commission
+(b) Finance Commission
+(c) Central Cabinet
+(d) Administrative Reform Commission
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001, 2003; U.P.P.C.S. (Mains) 2004, 2008
+The National Development Council is mainly concerned with :
+(a) Implementing plans
+(b) Approval of Five Year Plans
+(c) Approving and assessing major development projects in India
+(d) Implementing community development programmes
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Spl.) (Pre) 2008; U.P.P.S.C. (R.I.) 2014; U.P.P.C.S. (Mains) 2016
+National Development Council was constituted on
+@ans 6 August 1952
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+In which year was the 'Planning Commission' set up in India?
+(a) 1950
+(b) 1947
+(c) 1948
+(d) 1951
+@ans (a)
+@end
+
+
+@one
+The Planning Commission in India was created by
+@ans a Cabinet Resolution
+@end
+
+@one U.P.P.C.S. (Mains) 2014
+Planning Commission of India is a
+@ans Quasi-Political body
+@end
+
+@table
+Body | Fact
+**Economic and social planning** | **Concurrent List** (Entry 20)
+**Planning Commission** | **15 March 1950**, by a **Cabinet resolution**; non-constitutional, advisory; PM as chairman; Ashok Chanda called it the "**economic cabinet**"; abolished **1 January 2015**
+**National Development Council** | **6 August 1952**; PM, Union ministers, all **Chief Ministers**; gave **final approval to Five Year Plans**
+**NITI Aayog** (National Institution for Transforming India) | **1 January 2015**; PM as chairman, full-time **Vice-Chairman**; **cooperative federalism**; Governing Council of all CMs; think tank, no power to allot funds
+NITI Vice-Chairmen | **Arvind Panagariya** (first), Rajiv Kumar, **Suman Bery** (since 2022)
+**DMEO** | Development Monitoring and Evaluation Office, attached to **NITI Aayog**
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following is not correct about NITI Aayog?
+(a) It was set up to replace the Planning Commission.
+(b) It has a full-time Chairman.
+(c) It was set up in January, 2015.
+(d) It is based on the principle of Cooperative Federalism.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India?
+(a) Planning Commission
+(b) Disinvestment Commission
+(c) NITI Aayog
+(d) Finance Commission
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018; U.P.P.C.S. (Mains) 2017
+Who was the first Vice-Chairman of the NITI Aayog?
+(a) Arvind Panagariya
+(b) Raghuram Rajan
+(c) Chandrashekhara Subramanyam
+(d) Rajiv Kumar
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+According to NITI Aayog which of the following States is at the top in the India Innovation Index 2019?
+(a) Tamil Nadu
+(b) Maharashtra
+(c) Haryana
+(d) Karnataka
+@ans (d)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+As per the latest report of the NITI Aayog, which of the following States has emerged as the fastest growing economy in India in 2014-15?
+(a) Madhya Pradesh
+(b) Maharashtra
+(c) Bihar
+(d) Goa
+@ans (c)
+@end
+
+
+NITI Aayog is the **nodal body for the SDGs** and publishes the **SDG India Index**, the **India Innovation Index** (Karnataka has topped every edition), the **Export Preparedness Index** and the **Fiscal Health Index**. Its first Fiscal Health Index (2025) ranked **Odisha** first.
+
+@section 9.2 | Ideas Behind Planning
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P.P.C.S. (Pre) 2009
+Planning was considered Prerequisite :
+1. for balanced socio-economic development.
+2. for extending the benefits of development in an even manner.
+3. for focusing on removal of regional disparities.
+4. for maximizing the utilization of available resources.
+Select the correct answer from the codes given below:
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 2, 3 and 4
+(d) All the four
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Under Gadgil-Mukherjee Formula, the higher weightage is given to :
+(a) Performance
+(b) Per Capita Income
+(c) Population
+(d) Special problems
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+The Gandhian Plan was expounded in 1944 by :
+(a) N.R. Sarkar
+(b) Kasturi Bhai Lal Bhai
+(c) Jayaprakash Narayan
+(d) Shriman Narayan Agarwal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Who opposed Planned Development in India?
+(a) Mahatma Gandhi
+(b) Jawaharlal Nehru
+(c) Indira Gandhi
+(d) Rajiv Gandhi
+@ans (a)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+Consider the following statements about 'Rolling Plan'. It is :
+1. a plan for a single year.
+2. a plan that is determined for 3, 4 or 5 years.
+3. renewed every year according to the necessities of the economy.
+4. a prerequisite plan for 10, 15 or 20 years.
+Of these,
+(a) Only 1 and 2 are correct
+(b) Only 1 and 3 are correct
+(c) Only 2 and 3 are correct
+(d) 1, 2, 3 and 4 are correct
+@ans (d)
+@end
+
+
+@table
+Pre-independence plan | Year | By
+Planned Economy for India | 1934 | **M. Visvesvaraya**
+National Planning Committee | 1938 | **Congress, under Nehru** (Subhas Chandra Bose as Congress president)
+**Bombay Plan** | **1944** | Eight industrialists (J.R.D. Tata, G.D. Birla and others)
+**Gandhian Plan** | **1944** | **Shriman Narayan Agarwal**
+**People's Plan** | 1945 | **M.N. Roy**
+Sarvodaya Plan | 1950 | **Jayaprakash Narayan**
+@end
+
+The **Gadgil formula** (1969) shared Central plan assistance among states, giving the most weight to **population** (60%); the **Gadgil-Mukherjee** revision (1991) kept population at 60%. Gandhi favoured a decentralised, village-based economy and **opposed central planning**.
+
+@pyq U.P.P.C.S. (Mains) 2007
+In which one of the following years ‘Rolling Plan’ was in operation in India ?
+(a) 1968-69
+(b) 1978-79
+(c) 1988-89
+(d) 1990-91
+@ans (b)
+@end
+
+
+The **rolling plan** idea came from **Gunnar Myrdal** (*Indian Economic Planning in its Broader Setting*). It was used by the **Janata government** from **1978** to 1980, after it ended the Fifth Plan a year early.
+
+@section 9.3 | The Five Year Plans
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following is the period of the 12th Five Year Plan ?
+(a) 2011-2016
+(b) 2012-2017
+(c) 2013-2018
+(d) 2010-2015
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+During the 12th Five Year Plan, the growth rate of agriculture, forestry and fish farming has been estimated to be :
+(a) 3.5%
+(b) 4.0%
+(c) 5.0%
+(d) 5.5%
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+What is the expected target of development in the ‘vision paper’ of the 12th Five Year Plan (2012-2017) as accepted by the National Development Council?
+(a) 7%
+(b) 8%
+(c) 9%
+(d) 10%
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2018
+In India, which of the following Five Year Plans was launched with a focus on sustainable growth?
+(a) 9th
+(b) 10th
+(c) 11th
+(d) 12th
+@ans (d)
+@note The **Twelfth Plan** (2012-17), the last one, had the theme "**Faster, More Inclusive and Sustainable Growth**". The Eleventh Plan's theme was "Towards Faster and More Inclusive Growth".
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014, 2013
+In the 12th Five Year Plan, which among the following has largest allocation of funds ?
+(a) Energy
+(b) Transport
+(c) Social Services
+(d) Rural Development
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Mains) 2015; U.P.P.C.S. (Mains) 2008, 2011
+The plan period of Eleventh Five Year Plan was :
+(a) 2004 - 09
+(b) 2005 - 10
+(c) 2006 - 11
+(d) 2007 - 12
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+In the 11th Five Year Plan, which of the following sectors accounts for maximum combined Central, State and U.T. expenditure?
+(a) Transport
+(b) Energy
+(c) Agriculture and Rural Development
+(d) Social sector
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+The rate fixed for industrial development in the Eleventh Plan is :
+(a) 8 percent
+(b) 8.5 percent
+(c) 10 percent
+(d) 10.5 percent
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2007, 2009
+The targeted annual growth rate of agricultural production in India in the 11th plan is
+@ans 4.0 percent
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Target for annual growth rate of Gross Domestic Product during the Eleventh Five Year Plan is :
+(a) 8.0 percent
+(b) 8.5 percent
+(c) 9.0 percent
+(d) 9.5 percent
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+The annual growth rate of the economy as envisaged in the mid-term appraisal of the 10th plan is :
+(a) 7.0 percent
+(b) 7.5 percent
+(c) 8.0 percent
+(d) 8.25 percent
+@ans (a)
+@end
+
+@one U.P. Lower Sub.(Pre) 2002
+The growth rate target of the Tenth Five Year Plan is
+@ans 8.0%
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following sectors was allocated the highest percentage in the Tenth Plan Outlay ?
+(a) Agriculture and allied activities
+(b) Social Services
+(c) Transport
+(d) Energy
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+In the Tenth Five Year Plan investment rate was :
+(a) lower than savings rate
+(b) higher than savings rate
+(c) equal to savings rate
+(d) below expectations
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following Five Years Plan of India focused on the Growth with Social Justice and Equity?
+(a) 9th
+(b) 8th
+(c) 7th
+(d) 6th
+@ans (a)
+@note The **Ninth Plan** (1997-2002) had the theme "**Growth with Social Justice and Equality**", with a target growth rate of 6.5%; the Women's Component Plan was also part of it.
+@end
+
+@one U.P. P.C.S. (Pre) 1996
+The growth rate percentage for the 9th Five Year Plan has been targeted
+@ans 6.5%
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+In which of the following Five Year Plans the Women's Component Plan was introduced as a major strategy?
+(a) Tenth Five Year Plan
+(b) Eleventh Five Year Plan
+(c) Ninth Five Year Plan
+(d) Twelfth Five Year Plan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which Five Year Plan operated in India during April 1992-March 1997?
+(a) Sixth Plan
+(b) Seventh Plan
+(c) Eighth Plan
+(d) Rolling Plan
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which of the following Five Year Plans of India recognized human development as the core of developmental efforts?
+(a) Seventh Five Year Plan
+(b) Eighth Five Year Plan
+(c) Sixth Five Year Plan
+(d) Fifth Five Year Plan
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1994
+The strategy adopted under IRDP in the Seventh Plan was :
+(a) Adoption of total household approach
+(b) Adoption of village approach
+(c) Adoption of block approach
+(d) Adoption of district approach
+@ans (a)
+@note The **Integrated Rural Development Programme** (1978-79, nationwide 1980) gave subsidised credit to poor families; in the Seventh Plan it took a **household approach**, aiming to lift a whole family above the poverty line. It merged into **SGSY** in 1999.
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+Which Plan among the following declared its objective of self-reliance and zero net foreign aid?
+(a) Second Five Year Plan
+(b) Third Five year Plan
+(c) Fourth Five Year Plan
+(d) Fifth five Year Plan
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+The slogan of ‘Poverty abolition’ was given in which Five Year Plan?
+(a) Second Plan
+(b) Fourth Plan
+(c) Fifth Plan
+(d) Sixth Plan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+In which of the following Five Year Plans were antipoverty programmes based on the theme ‘Garibi Hatao’ first introduced?
+(a) Third Five Year Plan
+(b) Fourth Five Year Plan
+(c) Fifth Five Year Plan
+(d) Sixth Five Year Plan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Consider the following events and arrange these in chronological order : I. Garibi Hatao II. Bank Nationalization III. Beginning of Green Revolution
+Select the correct answer from the codes given below:
+(a) I, II and III
+(b) III, II and I
+(c) II, I and III
+(d) III, I and II
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+The Growth Centre Approach was adopted under the :
+(a) First Five Year Plan
+(b) Second Five Year Plan
+(c) Third Five Year Plan
+(d) Fourth Five Year Plan
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The strategy of development of industries and industrialization was part of which Plan?
+(a) Fourth
+(b) Second
+(c) Third
+(d) Seventh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+What was the priority of the First Five Year Plan?
+(a) Industrialization
+(b) Urbanization
+(c) Development of Agriculture
+(d) Spread of Education
+@ans (c)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Match List-I with List-II and select the correct answer using the code given below :
+@match
+List-I (Five Year Plan) | List-II (Applied Growth Model)
+A. First | 1. S. Chakravarty Model
+B. Second | 2. Harrod-Domar Model
+C. Third | 3. Ashok Rudra Model
+D. Fourth | 4. Mahalanobis Model
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 2 4 1 3
+(c) 3 1 2 4
+(d) 2 1 4 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Match the following plans and programmes :
+@match
+Plans | Programmes
+A. 1st Plan | 1. Rapid Industrialization
+B. 2nd Plan | 2. Community Development
+C. 3rd Plan | 3. Expansion of basic industries
+D. 4th Plan | 4. Minimum Needs programme
+E. 5th Plan | 5. Achievement of self-reliance and growth with stability
+@endmatch
+Select the correct answer from the code below : A B C D E
+(a) 1 2 3 4 5
+(b) 2 1 4 5 3
+(c) 2 1 3 4 5
+(d) 2 1 3 5 4
+@ans (d)
+@note The matching is **2, 1, 3, 5, 4**: Community Development (1952) in the First Plan, rapid industrialisation in the Second, basic industries in the Third, **growth with stability and self-reliance** in the Fourth, and the **Minimum Needs Programme** in the Fifth.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List - I with List - II and select the correct answer using the codes given below :
+@match
+List-I | List-II
+A. First Five Year Plan | 1. 1980-85
+B. Third Five Year Plan | 2. 1951-56
+C. Fourth Five Year Plan | 3. 1961-66
+D. Sixth Five Year plan | 4. 1969-74
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 2 3 1 4
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@table
+Plan | Period | Model / theme | Key point
+**1st** | 1951-56 | **Harrod-Domar** | **Agriculture**, irrigation; Community Development (1952); exceeded target
+**2nd** | 1956-61 | **Mahalanobis** | **Rapid industrialisation**, heavy industry; Bhilai, Rourkela, Durgapur
+**3rd** | 1961-66 | Chakravarty | **Self-reliant** economy; failed (wars of 1962 and 1965, drought)
+Plan holiday | 1966-69 | Three **annual plans** | Green Revolution began
+**4th** | 1969-74 | Ashok Rudra-Alan Manne | **Growth with stability**, self-reliance; bank nationalisation (1969); **Garibi Hatao** slogan (1971 election)
+**5th** | 1974-78 (ended early) | D.P. Dhar | **Removal of poverty** and self-reliance; **Minimum Needs Programme**; Twenty Point Programme (1975); **zero net foreign aid** goal
+Rolling plan | 1978-80 | Myrdal | Janata government
+**6th** | 1980-85 | - | **Poverty removal**; IRDP, NREP
+**7th** | 1985-90 | - | **Food, work, productivity**
+Annual plans | 1990-92 | - | Political change; 1991 crisis
+**8th** | 1992-97 | **Rao-Manmohan** model | **Human development** as the core; first plan after liberalisation
+**9th** | 1997-2002 | - | **Growth with social justice and equality**; 6.5% target
+**10th** | 2002-07 | - | **8%** target (7% in the mid-term appraisal); monitorable targets
+**11th** | 2007-12 | - | **Faster and more inclusive growth**; 9% target, agriculture 4%, industry 10-11%
+**12th** | 2012-17 | - | **Faster, more inclusive and sustainable growth**; 8% target (9% in the approach paper); agriculture 4%
+@end
+
+@one U.P.P.C.S. (Mains) 2008
+The theme of the Approach Paper of the Eleventh Five Year Plan has been
+@ans Towards faster and more Inclusive growth
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Since the start of Planning in India, the total number of years not covered by any Five Year Plan is :
+(a) 6
+(b) 7
+(c) 5
+(d) 3
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2014
+Which one of the following decade in Indian Planning deserves to be called 'the decade of jobless growth'?
+(a) 1971-1980
+(b) 1991-2000
+(c) 2001-2010
+(d) 2005-2015
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Mains) 2009
+'Twenty Point Economic Programme' was first launched in the year :
+(a) 1969
+(b) 1975
+(c) 1977
+(d) 1980
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Consider the following statements :
+Statement (A) : ' Bottom-Up Planning' is a goal that is yet to be achieved.
+Reason (R) : Village as a unit is very suitable for economic viability. With reference to above which one of the following is the correct answer :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Arrange the following in their chronological order :
+1. First Five Year Plan was submitted to Parliament.
+2. National Development Council was set-up.
+3. First devaluation of Indian currency after independence took place.
+4. India became member of International Monetary Fund (IMF).
+Select the correct answer with the codes given below :
+(a) 2, 4, 1, 3
+(b) 4, 3, 1, 2
+(c) 1, 2, 3, 4
+(d) 2, 4, 3, 1
+@ans (b)
+@end
+
+
+There were **7 years without a Five Year Plan**: 1966-69 (3 years), 1978-80 (2) and 1990-92 (2). The **1990s** were called "**jobless growth**" because output grew fast while jobs grew slowly. The **Twenty Point Programme** (1975) was restructured in 1982, 1986 and 2006.
+
+@section 9.4 | Planned Cities and Yojana
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Name of the City) | List-II (Period of being Planned)
+A. Kanchipuram | 1. Post-independence
+B. Jaisalmer | 2. Colonial Period
+C. Kodaikanal | 3. Medieval Period
+D. Bhilai | 4. Ancient Period
+@endmatch
+Codes: A B C D
+(a) 2 3 4 1
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 3 4 1 2
+@ans (b)
+@end
+
+**Kanchipuram** was a planned Pallava city (ancient); **Jaisalmer** was founded in 1156 (medieval); **Kodaikanal** was a British hill station (1845); **Bhilai** is a steel town built after independence, like Chandigarh and Bhubaneswar.
+
+@pyq U.P.P.C.S. (Pre) 1990
+‘Yojana’ magazine is being published by which of the following?
+(a) Ministry of Human Resources
+(b) Ministry of Information and Broadcasting
+(c) Publications Division
+(d) None of the above
+@ans (c)
+@end
+
+
+@up UP link: UP's planning work is done by the **State Planning Institute** (Lucknow) under the Planning Department. UP's goal is a **one trillion dollar economy**; its vision document is "**Viksit UP @2047**".
+
+@trap
+**Planning = Concurrent List.** **Planning Commission 15 March 1950** (Cabinet resolution); **NDC 6 August 1952**. **NITI Aayog 1 January 2015**, first VC **Arvind Panagariya**; PM is chairman. **Gandhian Plan: Shriman Narayan Agarwal.** **Rolling plan 1978-80** (Myrdal). **1st Harrod-Domar, 2nd Mahalanobis.** Garibi Hatao: **Fifth Plan**. Human development core: **8th**. Social justice and equality: **9th**. Sustainable growth: **12th** (2012-17). **7 plan-free years.** **Yojana: Publications Division.**
+@end
+
+@heatmap
+
+@pattern
+Planning questions peaked in the 2000s (plan targets and themes). After 2015 the focus moved to **NITI Aayog** (structure, indices, SDGs) and plan-model matches. Expect one question on either the Five Year Plans or NITI Aayog.
+@end
+
+@next
+Likely next angles: **Viksit Bharat @2047**, NITI's **Fiscal Health Index**, the **SDG India Index**, the **Aspirational Districts and Blocks** programmes, the NITI Governing Council meeting, and **UP's** State Transformation Commission.
+@end

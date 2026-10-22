@@ -1,0 +1,62 @@
+@chapter 18 | Aurangzeb
+@meta Built from 17 UPPSC questions (1992–2022). Focus: the war of succession, two coronations, Zinda Pir and jizya, Prince Akbar's revolt, Purandar, Bijapur and Golconda, family and buildings.
+
+@hot
+- **Treaty of Purandar (1665)**: Shivaji with **Jai Singh** {2008, 2009, 2010, 2010, 2011}
+- Aurangzeb conquered **Bijapur (1686)** and **Golconda (1687, Abul Hasan Qutb Shah)** {1992, 2004, 2004, 2020}
+- Aurangzeb had the **most Hindu generals**; re-imposed **jizya**; called "**Zinda Pir**" {1998, 2000, 2002, 2004, 2017}
+- **Crowned twice**: **Aurangzeb** {2006, 2009}
+@end
+
+@section 18.1 | Succession
+- Aurangzeb succeeded, but **not** by primogeniture (A true, R false) {1994}
+- Crowned twice: **Aurangzeb** (1658, 1659) {2006, 2009}
+- Order: **Shuja's defeat near Banaras, Dharmat, Samugarh, Deorai** {2022}
+- Order: **Bilgram (1540), Sarnal (1573), Dharmat (1658), Jajau (1707)** {2019}
+
+@flow War of succession (1657-59)
+Bahadurpur (Feb 1658) | Shuja beaten near Banaras by Sulaiman Shikoh
+Dharmat (Apr 1658) | Aurangzeb and Murad beat Jaswant Singh
+Samugarh (May 1658) | Aurangzeb beats Dara
+Khajwa (Jan 1659) | Shuja beaten
+Deorai (Mar 1659) | Dara's last defeat
+@end
+
+@section 18.2 | Policy and Revolts
+- "**Zinda Pir**": **Aurangzeb** {2017}
+- Re-imposed **jizya**: **Aurangzeb** (1679) {2002}
+- Most Hindu generals: **Aurangzeb** {1998, 2000, 2004}
+- Son who revolted: **Prince Akbar** (1681) {2007}
+- **Purandar**: Shivaji and **Jai Singh** {2008, 2009, 2010, 2010, 2011}
+- Deccan conquests: **Bijapur and Golconda** {2004, 2004}
+- Bijapur won in **1686** {1992}
+- Golconda ruler in 1687: **Abul Hasan Qutb Shah** {2020}
+- **Samarth Ramdas**: **Aurangzeb's** time {2009}
+
+@section 18.3 | Family and Buildings
+- Aurangzeb's daughter: **Mehrunnisa** {2005}
+- "**Sahibat-uz-Zamani**": **Jahanara** {2014}
+- "Second Taj": tomb of **Rabia-ud-Daurani** (Bibi ka Maqbara) {2000, 2013}
+- **Moti Masjid**, Red Fort: **Aurangzeb** {2001, 2002}
+
+@trap
+- Purandar = **Jai Singh**; Afzal Khan and Shaista Khan are other episodes.
+- Bijapur 1686 = Sikandar Adil Shah; Golconda 1687 = Abul Hasan.
+- Shuja's defeat near Banaras was by **Sulaiman Shikoh**, not Aurangzeb.
+- Aurangzeb is buried at **Khuldabad**.
+@end
+
+@up UP link: **Shuja** was defeated near **Banaras** (Bahadurpur, 1658) and at **Khajwa** (Fatehpur, 1659); Aurangzeb built the **Gyanvapi mosque** at Varanasi and mosques at **Mathura**, and Shivaji escaped from **Agra** in 1666.
+
+@last
+- Succession not by primogeniture
+- Crowned twice: 1658 and 1659
+- Dharmat, Samugarh, Deorai
+- Zinda Pir; jizya re-imposed 1679
+- Most Hindu nobles under Aurangzeb
+- Prince Akbar revolted (1681)
+- Purandar 1665 = Jai Singh
+- Bijapur 1686; Golconda 1687 (Abul Hasan)
+- Jahanara = Sahibat-uz-Zamani
+- Bibi ka Maqbara = Second Taj; Moti Masjid (Delhi)
+@end

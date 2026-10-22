@@ -1,0 +1,83 @@
+@chapter 17 | The Council of Ministers
+@meta Built from 29 UPPSC questions (1992–2021). Focus: PM and CoM, six-month rule, collective responsibility to the Lok Sabha, no-confidence, Deputy PM, PM facts.
+
+@hot
+- CoM **collectively responsible to the Lok Sabha** only (Art 75(3)) {2012, 2012, 2016, 2019, 2021}
+- Non-member minister: **six months** {1993, 1995, 2015}
+- No-confidence motion needs **50** LS members {2009, 2013, 2015}
+- Government can move a **confidence motion** {2006, 2010}
+@end
+
+@section 17.1 | PM and the Union Executive
+- True: PM **appointed by President**, **heads the CoM**, need not be an MP at appointment; executive power is **not** in the PM {2011}
+- PM is the **real head** of the CoM {2013}
+- **Art 78**: duties of the **PM** (inform the President) {2014}
+- Legal name for suits (Art 300): **Union of India** {2021}
+
+@section 17.2 | Cabinet vs Council
+- Cabinet = **ministers of Cabinet rank** {1992}
+- CoM capped at **15%** of Lok Sabha (91st Amendment, 2003)
+
+@section 17.3 | Appointment (Art 75)
+- Appointment and tenure of ministers: **Art 75** {2001}
+- Non-member minister: **6 months** {1993, 1995, 2015}
+- Not true: Cabinet membership limited to the **Lower House** {2011}
+
+@section 17.4 | Responsibility
+- Collectively responsible: **to Lok Sabha, a constitutional duty, Art 75(3)** (1, 2, 3) {2012}
+- Responsible to the **Lok Sabha** {2012}
+- Ministers hold office at the **President's** pleasure, not the PM's (only 1) {2016}
+- Responsible to both Houses: **false**; both Houses can supply ministers: true {2019, 2021}
+- Ministers make policy; collective responsibility (both true, R not the explanation) {1993}
+
+@section 17.5 | Confidence and No-Confidence
+- CoM can move a **confidence motion** {2006, 2010}
+- Resigns on a no-confidence vote in the **Lok Sabha** {2012}
+- No-confidence needs **50** members {2009, 2013, 2015}
+- Wrong: **President's Rule** follows CoM resignation {2010}
+
+@flow No-confidence motion
+Notice | Lok Sabha only (Rule 198)
+Support | At least 50 members
+Debate and vote | No reason needed
+Passed | Whole Council of Ministers resigns
+@end
+
+@section 17.6 | Deputy PM
+- Calling someone Deputy PM is political; gives no PM power (R explains A) {2004}
+- Deputy PM: **not in the Constitution** (K.M. Sharma v. Devi Lal, 1990, upheld it) {2009}
+
+@section 17.7 | Prime Ministers
+- 12th PM (counting Nanda): **Deve Gowda** {2005}
+- PM more than once with gaps: **Nanda, Indira Gandhi, Vajpayee** {2010}
+- Never a CM before PM: **Chandra Shekhar** {2011}
+- Was a Lok Sabha member as PM: **Chandra Shekhar** {2015}
+- LPG policy: **P.V. Narasimha Rao** (1991) {2013}
+- Not true of Manmohan Singh: chaired the **Finance Commission** {2004}
+- **Rajiv Gandhi-Karam Bhumi** is wrong (his samadhi is **Veer Bhumi**) {1996}
+
+@section 17.8 | Machinery
+- Cabinet reorganisation report: **Gopalaswami Ayyangar** {2010}
+- Official document: **White Paper** {2008}
+
+@trap
+- Ministers serve at the **President's** pleasure, responsible to **Lok Sabha** only.
+- Ministers may come from **either House**.
+- **50 members** is a Lok Sabha rule, not an Article.
+- Deputy PM is **extra-constitutional**, not unconstitutional.
+@end
+
+@up Nine PMs sat for UP seats: Nehru (Phulpur), Shastri (Allahabad), Indira Gandhi (Rae Bareli), Charan Singh (Baghpat), Rajiv Gandhi (Amethi), V.P. Singh (Fatehpur), Chandra Shekhar (Ballia), Vajpayee (Lucknow), Modi (Varanasi). **Charan Singh** and **V.P. Singh** were UP Chief Ministers.
+
+@last
+- Art **74** CoM aids President; **75** appointment; **78** PM's duties
+- **Art 300** = Union of India (legal name)
+- Collective responsibility to **Lok Sabha** (Art 75(3))
+- Pleasure of the **President**
+- Non-member minister: **6 months**
+- CoM cap **15%** (91st)
+- No-confidence: **50** members, LS only
+- Deputy PM: extra-constitutional (Devi Lal case)
+- Gaps in PM-ship: Nanda, Indira, Vajpayee
+- **Narasimha Rao** = LPG 1991
+@end

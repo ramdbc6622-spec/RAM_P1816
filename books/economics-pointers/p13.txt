@@ -1,0 +1,76 @@
+@chapter 13 | Human Development
+@unit UNIT II · SOCIAL DEVELOPMENT
+@meta Built from 26 UPPSC questions (2001–2025). Focus: PQLI, HDI makers and indicators, India's HDI rank, Gross National Happiness, Kerala.
+
+@hot
+- **HDI**: built by **Mahbub ul Haq**, published by **UNDP** since **1990** {2006, 2018, 2025}
+- HDI uses **health, education, income**; not social inequality, environment, urbanisation, nutrition {2004, 2008, 2009, 2013, 2020, 2024}
+- **Gross National Happiness**: **Bhutan** {2001, 2002, 2003, 2009}
+- **Kerala** = highest HDI among States {2005, 2008, 2011}
+@end
+
+@section 13.1 | Ideas of Development
+- Three stages of social development: **Auguste Comte** {2021}
+- Physical quality of life: **infant mortality and literacy** {2004}
+- **PQLI**: **Morris D. Morris** {2019}
+- First to stress the human side of development: **UNDP** {2013}
+
+@section 13.2 | The HDI
+- Developed by **Mahbub ul Haq**; first by **UNDP** {2006, 2018}
+- First HDR 1990 with HDI (true); led by Haq and Priesner (false) (only 1) {2025}
+- Life expectancy goalposts: 85 and 25 then; **85 and 20** now (*) {2006}
+- Not in HDI (2004): social inequality; adult literacy also dropped since 2010 (*) {2004}
+- Not used: **social inequality** {2020}
+- HDI indicators: **income, education, life expectancy** (1, 2, 4) {2024}
+- Not a constituent: **health and nutrition** {2008, 2009}
+- Not in 1990 HDI: **urbanisation** {2013}
+- HDI and SDG ranks of States go together; SDGs stress health and education (R explains A) {2019, 2024}
+
+@flow How HDI is built
+Health | Life expectancy at birth
+Knowledge | Mean and expected years of schooling
+Living standard | GNI per capita (PPP)
+HDI | Geometric mean of the three (since 2010)
+@end
+
+@section 13.3 | India and the World
+- HDI order (HDR 2021-22): **Hong Kong, Australia, Japan, Russia** (*) {2022}
+- India 130 (2020) to 132 (2021): neither "upgraded" nor "slipped" wording correct per key {2023}
+- India's 2014 rank: mixed years (135/130) (*) {2001, 2004, 2015}
+- Better HDI from **more schooling and adult literacy** (3 and 4) {2004}
+- "Jobless, rootless, ruthless, voiceless, futureless" growth: **UNDP** {2015}
+- **Gross National Happiness**: **Bhutan** {2001, 2002, 2003, 2009}
+
+@table
+HDR | India's rank
+2021-22 | 132 of 191
+2023-24 | 134 (revised 133)
+2025 (2023 data) | 130 of 193
+@end
+
+@section 13.4 | States
+- Highest HDI (2001): **Kerala** {2005, 2008}
+- Order (2001): **Kerala, Punjab, UP, Bihar** {2005}
+- Kerala first in HDI; highest unemployment (both true, R not the explanation) {2011}
+- Highest HDI in 2008 (per key): **Uttar Pradesh** {2013}
+
+@trap
+- **PQLI** = Morris D. Morris; **HDI** = Mahbub ul Haq.
+- HDI never includes **inequality, environment, urbanisation**.
+- **GNH** = Bhutan.
+@end
+
+@up UP ranks low on HDI among States (below the national average) despite the 2013 key; it scores better on the SDG Index (Front Runner, 2023-24).
+
+@last
+- Comte = three stages
+- PQLI = Morris D. Morris (IMR, literacy, life at 1)
+- HDI = Mahbub ul Haq, UNDP, 1990
+- Health, education, income only
+- Geometric mean since 2010; goalposts 20-85
+- India 130th (HDR 2025)
+- UNDP = jobless, ruthless growth critique
+- GNH = Bhutan
+- Kerala tops States
+- HDI ties with SDG ranks
+@end

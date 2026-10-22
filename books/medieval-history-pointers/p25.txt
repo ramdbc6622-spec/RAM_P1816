@@ -1,0 +1,66 @@
+@chapter 25 | Disintegration of the Mughal Empire
+@meta Built from 15 UPPSC questions (2004–2023). Focus: the later Mughals in order, Farrukhsiyar's farman and the Sayyid brothers, Muhammad Shah and Nadir Shah, the last emperors, Awadh and Hyderabad, Sawai Jai Singh.
+
+@hot
+- **Later Mughals**: **Bahadur Shah I, Jahandar Shah, Farrukhsiyar, Muhammad Shah, Ahmad Shah, Alamgir II** {2012, 2018, 2023}
+- **Farrukhsiyar's farman (1717)**: duty-free trade for the English in Bengal; **Sayyid brothers** = kingmakers {2010, 2017}
+- **Nadir Shah** (1739) attacked under **Muhammad Shah**; tappa music grew at his court {2004, 2004, 2023}
+- **Saadat Khan** = first Nawab of **Awadh**; **Chin Qilich Khan** founded **Hyderabad** {2008, 2011, 2023}
+@end
+
+@section 25.1 | Later Mughals
+- Aurangzeb's successor: **Bahadur Shah I** {2012}
+- Order: **Bahadur Shah, Jahandar Shah, Farrukhsiyar, Muhammad Shah** {2023}
+- Order: **Jahandar Shah, Muhammad Shah, Ahmad Shah, Alamgir II** {2018}
+- Duty-free trade to the English in Bengal: **Farrukhsiyar** {2010}
+- Kingmakers: **Hussain Ali and Abdullah** (Sayyid brothers) {2017}
+- Nadir Shah's attack: under **Muhammad Shah** {2004}
+- Eunuchs and ladies ruled under **Muhammad Shah** {2004}
+- **Tappa** music refined at **Muhammad Shah's** court {2023}
+- Bahadur Shah Zafar's father: **Akbar Shah II** {2005}
+- Not correct of Zafar: pension **under one lakh** {2006}
+
+@flow Decline of the Mughals
+1707 | Aurangzeb dies; Bahadur Shah I
+1713-19 | Farrukhsiyar; Sayyid brothers; 1717 farman
+1739 | Nadir Shah sacks Delhi (Karnal)
+1761 | Third Panipat
+1857 | Bahadur Shah Zafar exiled to Rangoon
+@end
+
+@section 25.2 | Successor States and Jai Singh
+- First Nawab of Awadh: **Saadat Khan** (Burhan-ul-Mulk) {2008}
+- Saadat Khan founded Awadh and joined the plot against the Sayyids (both) {2023}
+- Founder of Hyderabad: **Chin Qilich Khan** (Nizam-ul-Mulk) {2011}
+- **Jantar Mantar**, Delhi: **Jai Singh II** {2005}
+- Jai Singh's observatories: **Delhi, Jaipur, Ujjain, Varanasi** (and Mathura) {2007}
+
+@table
+Successor state | Founder
+Awadh | Saadat Khan (1722)
+Hyderabad | Nizam-ul-Mulk Chin Qilich Khan (1724)
+Bengal | Murshid Quli Khan (1717)
+Rohilkhand | Ali Muhammad Khan
+@end
+
+@trap
+- Order: Bahadur Shah I, **Jahandar Shah**, Farrukhsiyar, Muhammad Shah.
+- Nadir Shah = **Muhammad Shah** (1739); Abdali = 1748-1761.
+- First Nawab of Awadh = **Saadat Khan**, not Safdar Jang.
+- No Mughal is called "Akbar Shah I"; Zafar's father was **Akbar II**.
+@end
+
+@up UP link: **Awadh** grew from Saadat Khan's governorship (capital Faizabad, later **Lucknow** under Asaf-ud-Daula); Jai Singh's observatory at **Varanasi** (Man Mahal) still stands.
+
+@last
+- Bahadur Shah I succeeded Aurangzeb
+- Jahandar, Farrukhsiyar, Muhammad Shah, Ahmad Shah, Alamgir II
+- Farrukhsiyar = 1717 farman
+- Sayyid brothers = kingmakers
+- Nadir Shah 1739 under Muhammad Shah
+- Muhammad Shah = Rangeela; tappa
+- Akbar II = Zafar's father
+- Saadat Khan = first Nawab of Awadh
+- Chin Qilich Khan = Hyderabad
+- Jai Singh II = Jantar Mantar (Delhi, Varanasi too)
+@end

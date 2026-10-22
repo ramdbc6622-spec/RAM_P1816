@@ -1,0 +1,105 @@
+@chapter 10 | Socio-Religious Movements
+@meta Built from 62 UPPSC questions (1990–2024). Focus: Rammohan Roy and the Brahmo Samaj, Vivekananda, Dayananda and the Arya Samaj, Prarthana Samaj, Phule, Dev Samaj and Radhasoami, Theosophy, Vidyasagar, social laws, Muslim reform.
+
+@hot
+- **Rammohan Roy**: father of the Indian Renaissance; **Atmiya Sabha** first; Brahmo Samaj = **monotheism**; title "Raja" from **Akbar II** {1994, 1999, 2005, 2005, 2009, 2009, 2012}
+- **Dayananda Saraswati**: **Arya Samaj (1875)**, **Satyarth Prakash**, "Martin Luther of India", **shuddhi** {1995, 2005, 2009, 2010, 2013, 2017}
+- **Jyotiba Phule**: **Satyashodhak Samaj** (1873), **Gulamgiri**, anti-caste {1997, 2000, 2022, 2022}
+- **Vivekananda**: Chicago **1893**, founded the **Ramakrishna Mission** {1993, 2004, 2004, 2008, 2015, 2015}
+- **Servants of India Society** = **Gokhale** (1905) {1990, 1993, 2004, 2015, 2016, 2017}
+@end
+
+@section 10.1 | Rammohan Roy and the Brahmos
+- "Father of Indian Renaissance", "prophet of nationalism": **Rammohan Roy** {1994, 2005, 2009}
+- **Gift to Monotheists** (1809): in **Persian** {2021}
+- Title "Raja" from **Akbar II** {2012}
+- He did **not** oppose **Western education** {1992}
+- Opposed the **Jury Act of 1826**: **Rammohan Roy** {2017}
+- First society: **Atmiya Sabha** {2009}
+- Brahmo Samaj: **monotheism** {1999, 2005}
+- **Bharatiya Brahmo Samaj** (Brahmo Samaj of India): **Keshab Chandra Sen** {2008, 2010, 2010}
+- Wrong pair: **Rammohan-Adi Brahmo Samaj** (Debendranath's) {1997}
+- Orthodox leader: **Radhakant Deb** {2008}
+- Orthodox paper against Rammohan: **Samachar Chandrika** {2017}
+
+@section 10.2 | Vivekananda, Dayananda and Maharashtra
+- Chicago Parliament of Religions: **1893**, **Vivekananda** {1993, 2004, 2008, 2015}
+- Jnana, Karma, Raja Yoga: **Vivekananda** {2015}
+- Ramakrishna Mission founded by **Vivekananda** {2004}
+- Arya Samaj: **1875** {2009}
+- Revival of the Vedas: **Dayananda**; "Martin Luther of India" {1995, 2005}
+- **Satyarth Prakash**: **Dayananda** {2013, 2017}
+- **Shuddhi**: **Arya Samaj** {2010}
+- Arya Samaj gave Hindus confidence; the reason does not explain it (A and R true, R does not explain A) {2019}
+- **Prarthana Samaj** founder: **Atmaram Pandurang**; leading figure **M.G. Ranade** {2004, 2010}
+- "**Lokahitvadi**": **Gopal Hari Deshmukh** {2015}
+- **Satyashodhak Samaj** (1873), **Gulamgiri**, anti-caste: **Jyotiba Phule** {1997, 2000, 2022, 2022}
+- **Bahujan Samaj**: **Mukund Rao Patil** {2010}
+- "If God tolerated untouchability...": **Tilak** {2004}
+
+@table
+Organisation | Founder | Year
+Atmiya Sabha | Rammohan Roy | 1815
+Brahmo Samaj | Rammohan Roy | 1828
+Prarthana Samaj | Atmaram Pandurang | 1867
+Satyashodhak Samaj | Jyotiba Phule | 1873
+Arya Samaj | Dayananda Saraswati | 1875 (Bombay)
+Theosophical Society | Blavatsky, Olcott | 1875 (New York); Adyar 1882
+Ramakrishna Mission | Vivekananda | 1897
+Servants of India Society | Gokhale | 1905
+@end
+
+@section 10.3 | Other Movements
+- **Dev Samaj**: **Shiv Narayan Agnihotri** {2002, 2002, 2003}
+- **Radhasoami Satsang**: **Shiv Dayal Sahab** {2002}
+- Correct: **Sanatan Dharma Rakshini Sabha-Calcutta** {2022}
+- Theosophy succeeded mainly due to **Annie Besant** {2010}
+- Widow remarriage legalised by **Vidyasagar's** campaign {2012}
+- "No time to think about God...": **Vidyasagar** {2016}
+- Sanskrit scholars: **all the above** {2013}
+- Widow remarriage in Maharashtra: **Vishnu Parashuram Pandit** {2013}
+- **D.K. Karve**: widow remarriage and **women's education** {2016}
+
+@section 10.4 | Social Laws and Matching
+- 1856 Act: only the **Widow Remarriage Act** (*) {2001}
+- Act V of 1843 banned **slavery** {2007}
+- **Native Marriage Act 1872**: **Keshab Chandra Sen**; girls' minimum age **14** {2000, 2011, 2019}
+- Age of Consent Act 1891: urged by **Behramji Malabari** (only 1) {2024}
+- Parsi editor of Indian Spectator: **B.M. Malabari** {2016}
+- **Sharda Act** (1929): girls **14**, boys **18** {2012, 2013}
+- **Bethune-girls' school, Karve-widow remarriage secretary, Vidyasagar-Sanskrit College principal, Malabari-child marriage crusade** {2022}
+- Wrong pair: **Ranade-Theosophical Society** {1990, 2011}
+- **Rammohan-Brahmo, Vivekananda-RK Mission, Dayananda-Arya, Ranade-Prarthana** {1994}
+- Wrong pair: **Atmiya Sabha-Debendranath Tagore** {2014}
+- **Servants of India Society**: **Gokhale**, **1905** {1990, 1993, 2004, 2015, 2016, 2017}
+- Wrong pair: **Bahishkrit Hitkarini Sabha-Phule** (it was **Ambedkar's**) {2016}
+- Places: Brahmo-Calcutta, Manav Dharma Sabha-Surat, Arya Samaj-Bombay {2003}
+- Ideas: Rammohan-Upanishads, Dayananda-Vedas {1998}
+
+@section 10.5 | Muslim Reform and Others
+- **Deoband** movement: **1866** {2016}
+- **Dar-ul-Ulum** (Nadwa, per key): **Shibli Nomani** {2014}
+- **Tarakeswar** satyagraha (1924): **corruption in temples** {2015}
+- **Hali** system: **bonded labour** {2015}
+
+@trap
+- **Monotheism** (Brahmo), not monism.
+- RK Mission was founded by **Vivekananda**, not Ramakrishna.
+- Prarthana Samaj founder = **Atmaram Pandurang**; Ranade led it.
+- Sharda Act: girls 14, boys 18; Native Marriage Act 1872: girls 14.
+@end
+
+@up UP link: **Deoband** (Saharanpur, 1866) and **Nadwatul Ulama** (Lucknow) were UP's Muslim seminaries; **Aligarh** (Syed Ahmad Khan) led modern Muslim education; the **Radhasoami Satsang** is centred at **Dayalbagh, Agra**.
+
+@last
+- Rammohan = father of Renaissance; Atmiya Sabha; Akbar II's "Raja"
+- Keshab = Brahmo Samaj of India; Debendranath = Adi Brahmo Samaj
+- Vivekananda = Chicago 1893; RK Mission
+- Dayananda = Arya Samaj 1875, Satyarth Prakash, shuddhi
+- Atmaram Pandurang = Prarthana Samaj; Ranade led it
+- Phule = Satyashodhak 1873, Gulamgiri
+- Agnihotri = Dev Samaj; Shiv Dayal = Radhasoami
+- Vidyasagar = widow remarriage (1856)
+- Malabari = Age of Consent 1891; Sharda Act 1929
+- Gokhale = Servants of India 1905; Deoband 1866
+@end

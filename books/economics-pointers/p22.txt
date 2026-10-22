@@ -1,0 +1,131 @@
+@chapter 22 | Population Theories, Census and Growth
+@unit UNIT V · DEMOGRAPHY
+@meta Built from 58 UPPSC questions (1998–2025). Focus: Malthus and other theories, the first census, decadal growth (1921, 1961-71, 2001-11), state rankings, Nagaland and Kerala growth facts.
+
+@hot
+- **1921** = **"Year of Great Divide"** (only fall in population before it) {2007, 2009, 2010, 2013, 2016}
+- **2001-11 growth**: **17.70%**, the **lowest** decade since independence {2012, 2013, 2014, 2015, 2016, 2017}
+- **UP** = most populous (about **16.5-17%** of India); **Maharashtra** second {2001, 2004, 2008, 2010, 2011, 2012, 2014, 2016, 2021}
+- **Nagaland**: highest growth 1981-2001; **only fall** in 2001-11; **Kerala** lowest in 1991-2001 {1999, 2000, 2002, 2004, 2005, 2006, 2007, 2008, 2012, 2013, 2013, 2017, 2017}
+- **Malthus**: population **geometric**, food **arithmetic**; first census **1872, Lord Mayo** {2001, 2017, 2022, 2023, 2023, 2024}
+@end
+
+@section 22.1 | Population Theories
+- Population control is needed for the environment; growth does **not** keep balance (A true, R false) {2023}
+- Natural growth = **crude birth rate and crude death rate** (A and B) {2018}
+- Gradual long-run change in growth pattern: **demographic transition** {2016}
+- Stable population: **constant birth and death rates** {2014}
+- India's phase now: **high growth with definite signs of slowing** {2015}
+- Malthus's best check: **birth control** (per key; Malthus stressed moral restraint) {2017}
+- Malthusian theory: about **population** {2022}
+- Population **geometric**, food **arithmetic** {2024}
+- **Optimum-Cannan, social maladjustment-Henry George, demographic transition-Thompson, food supply-Malthus** {2023}
+- Not a demographic feature: **standard of living** {2015}
+
+@flow Demographic transition
+Stage 1 | High birth, high death; slow growth
+Stage 2 | Death rate falls; population explodes
+Stage 3 | Birth rate falls; growth slows (India now)
+Stage 4 | Low birth, low death; stable
+@end
+
+@section 22.2 | The Census of India
+- First **regular** census: **1881** (Lord Ripon) {2007}
+- First census in British times: **Lord Mayo** (1872) {2001, 2023, 2023}
+- First census year: **1881** per key (1872 was non-synchronous) {2023}
+- Census every **10 years** is true; population does not stay unchanged (A true, R false) {2016}
+- Census 2011 motto: **"Our Census, Our Future"** {2016}
+
+@table
+Census fact | Detail
+First census | 1872 (Lord Mayo); first regular 1881 (Lord Ripon)
+Law | Census Act, 1948; every 10 years; Union List
+Census 2011 | 15th overall, 7th after independence
+Census 2027 | 16th; first digital census with caste count; reference date 1 March 2027
+Run by | Registrar General and Census Commissioner (MHA)
+@end
+
+@section 22.3 | Growth of India's Population
+- Growth order: **Haryana, Punjab, Uttarakhand, Himachal** {2025}
+- Lowest decadal growth: **2001-11** {2012}
+- Wrong pair: **2001-11 = 19.05%** (it is **17.70%**) {2016}
+- 2001-11 growth: **17.70%** {2013, 2014, 2015, 2017}
+- Highest percentage change: **1971** (1961-71 decade) {2014}
+- Highest decadal growth: **1961-71** {2005, 2010}
+- Highest annual exponential growth: **1971-81** {2006}
+- **1921** = Year of Great Divide {2007, 2009, 2010, 2013, 2016}
+- Fast growth since 1951 is true; 1921, not 1951, is the great divide (A true, R false) {2000}
+
+@table
+Decade | Growth (%) | Note
+1911-21 | -0.31 | Only fall; 1921 = Great Divide
+1961-71 | 24.80 | Highest decadal growth
+1971-81 | 24.66 | Highest annual exponential growth
+2001-11 | 17.70 | Lowest since independence
+2011 total | 121.09 crore | 17.5% of world population
+Now | About 146 crore | India passed China in April 2023
+@end
+
+@section 22.4 | Population of the States
+- Females in India (2011, provisional): **48.46%** {2010}
+- Most populous state (2011): **Uttar Pradesh** {2012, 2014, 2016, 2021}
+- UP outnumbers each of **Japan, Russia, Brazil, Nigeria** (and UK, Germany, Pakistan) {2001}
+- UP 2001: literacy 56.3%, density 690, most SCs in **Sitapur** (1, 2, 4); most populous district is **Allahabad**, not Kanpur Nagar {2006}
+- UP most populous is true; order behind it is **Maharashtra, Bihar, West Bengal** (A true, R false) {2010}
+- UP share of India: about **17%** (16.5%) {2010}
+- Order: **UP, Maharashtra, Bihar, Andhra Pradesh** (4, 3, 2, 1) {2013}
+- Order: **UP, Maharashtra, Bihar, West Bengal** {?}
+- Second most populous: **Maharashtra** {2001, 2004, 2008, 2011}
+- Order: **UP, Bihar, West Bengal, Andhra Pradesh** (3, 1, 4, 2) {2024}
+- Second in population and third in area: **Maharashtra** {2013}
+- Over a third of India: **UP, Maharashtra, Bihar** {2006}
+- Least populous among options: **Karnataka** {2004}
+- Chhattisgarh larger than West Bengal in area; WB more populous (both) {2007}
+- 1990s order: **Maharashtra, West Bengal, MP, Tamil Nadu** {1998}
+- 2001 order: **Puducherry, Chandigarh, Mizoram, Sikkim** {2009}
+
+@table
+State (2011) | Population (crore) | Share
+Uttar Pradesh | 19.98 | 16.5%
+Maharashtra | 11.24 | 9.3%
+Bihar | 10.41 | 8.6%
+West Bengal | 9.13 | 7.5%
+Madhya Pradesh | 7.26 | 6.0%
+Least populous | Sikkim (state); Lakshadweep (UT) | -
+@end
+
+@section 22.5 | Growth Across States
+- Highest growth 1991-2001: **Nagaland** {2002, 2004, 2005}
+- Highest growth 1981-2001: **Nagaland**; highest in the 1991 Census too {2000, 2013}
+- Lowest growth 1991-2001: **Kerala** {1999, 2006, 2007, 2008}
+- Lowest growth (negative) 2001-11: **Nagaland** {2013}
+- Population fell in Census 2011: **Nagaland** {2012, 2017, 2017}
+- Lowest growth among options (2011): **Andhra Pradesh** {2012}
+- Highest growth 2001-11 among options: **Bihar** {2015}
+- UP growth 2001-11 (provisional): **20.09%** {2010}
+- UP has the most people; it is **not** the densest (Bihar is) (A true, R false) {2008}
+- UP's fast growth: better **health and disease control** {2006}
+- UP districts 2011: **Allahabad, Moradabad, Ghaziabad, Lucknow** {2014}
+- Correct: lowest population **Lakshadweep**, lowest density **Arunachal**, highest growth **Dadra and Nagar Haveli** (1, 3, 4); highest density is **Delhi**, not Chandigarh {2011}
+
+@trap
+- **1921** = Great Divide; **1951** = demographic divide (start of fast growth). Do not swap.
+- Highest decadal growth = **1961-71**; highest annual exponential = **1971-81**.
+- UP is the most **populous**, not the most **dense** (Bihar); most populous UP district = **Prayagraj**.
+- Optimum population = **Cannan**; transition = **Thompson**; maladjustment = **Henry George**.
+@end
+
+@up UP link: UP had **19.98 crore** people in 2011 (**16.5%** of India), more than Brazil; its 2001-11 growth was **20.2%**; **Prayagraj** was its most populous district, followed by Moradabad, Ghaziabad and Azamgarh; Census 2027 will be the first digital count.
+
+@last
+- Malthus: population **geometric**, food **arithmetic**
+- Cannan = optimum; Thompson = transition; Henry George = maladjustment
+- First census **1872 (Mayo)**; regular **1881 (Ripon)**
+- 2011 motto: **Our Census, Our Future**
+- **1921** = Great Divide; **1961-71** = highest decadal growth
+- **2001-11 = 17.70%**, lowest since independence
+- UP 1st, Maharashtra 2nd, Bihar 3rd, WB 4th
+- UP = about 16.5% of India; females 48.5%
+- **Nagaland** = highest 1991-2001, negative 2001-11
+- **Kerala** = lowest 1991-2001; Bihar fastest-growing big state 2001-11
+@end

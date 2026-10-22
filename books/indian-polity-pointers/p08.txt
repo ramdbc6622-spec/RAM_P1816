@@ -1,0 +1,100 @@
+@chapter 8 | The Governance System
+@meta Built from 40 UPPSC questions (1990–2025). Focus: parliamentary vs presidential, features of the polity, republic, quasi-federalism and the scholars behind each label.
+
+@hot
+- India = **parliamentary** system; executive responsible to legislature; not presidential {1990, 2005, 2008, 2010, 2015, 2025}
+- **Quasi-federal**: **K.C. Wheare** {2010, 2019, 2023, 2024}
+- **Single citizenship** is **not** a federal feature {2015}
+- Constitution = **partly rigid, partly flexible** {2005, 2012}
+- **Republic** = elected head, no hereditary ruler {1997, 2017}
+@end
+
+@section 8.1 | Sovereignty
+- Most prominent element of a state: **sovereignty** {2008}
+- India is in the **Commonwealth**; its sovereignty is **not** curtailed {2017}
+
+@section 8.2 | Parliamentary System
+- India parliamentary; executive responsible to legislature (R explains A; option d in 2025) {2025}
+- Constitution provides **parliamentary** governance {1990}
+- In a parliamentary system the **legislature controls the executive** {2010}
+- First in **Great Britain** {2018}
+- Incorrect about India: **presidential system**; not a feature: **presidential government** {2008, 2015}
+- Correct: India is a **parliamentary democracy** {2005}
+
+@section 8.3 | Presidential System
+- All executive power in the **President** {2005}
+- Basic feature: **single executive** {2006}
+- Main features: all of the listed options (key) {2014}
+
+@table
+Parliamentary (India, UK) | Presidential (USA)
+Dual executive (nominal + real) | Single executive
+CoM from legislature | Secretaries from outside
+Collective responsibility to LS | Fixed term, no confidence vote
+Lower house can be dissolved | No dissolution
+@end
+
+@section 8.4 | Cardinal Features
+- True: **democratic republic, parliamentary form, sovereignty in the people**; false: unified authority {2008, 2009}
+- India: democratic polity, sovereign state, democratic society, welfare state (all true) {2012}
+- India democratic; has its own Constitution (both true, R not the explanation) {2017}
+- Not a feature: **authoritarian government** {2011}
+
+@section 8.5 | Supremacy and Republic
+- Supreme: the **Constitution**; Centre and States get authority from it {2013, 2017}
+- Republic: **no hereditary rulers**; head of State **elected** {1997, 2017}
+- Not democratic: supreme power in one person like a king {2010}
+- Constitution: **partly rigid, partly flexible** {2012}
+- "Good balance between rigidity and flexibility": **K.C. Wheare** (per key) {2005}
+- Bulkiest Constitution: all reasons valid (*) {1997}
+- Not its philosophy: **communist state** {2015}
+
+@section 8.6 | India vs UK and USA
+- India differs from UK by **judicial review** {2010}
+- Common to India and USA: **pocket veto** (only 3) {2017}
+
+@section 8.7 | Federal and Quasi-Federal
+- Not federal: **single citizenship** {2015}
+- Federal system; strong Centre (both true, R not the explanation) {1995}
+- "Federalism not practical" true per key; "India is not federal" false {1998}
+- True: federal structure with **unitary bias**; false: both legislatures sovereign {2004}
+- **Cooperative-Granville Austin, bargaining-Morris-Jones, quasi-federal-K.C. Wheare, centralising tendency-Ivor Jennings** {2024}
+- "Quasi-federal": **K.C. Wheare** {2010, 2019, 2023}
+- "Not set in a tight mould of federalism": **Ambedkar** {2008}
+- Quasi-federal; independent judiciary (both true, R not the explanation) {2020}
+- Quasi-federal because neither federal nor unitary (R explains A) {2007}
+- Shift from centralism to federalism: **1960s** {2008}
+
+@table
+Scholar | Label for Indian federalism
+K.C. Wheare | Quasi-federal
+Granville Austin | Cooperative federalism
+Morris-Jones | Bargaining federalism; three styles of politics
+Ivor Jennings | Federation with a strong centralising tendency
+Ambedkar | Not in a tight mould of federalism
+@end
+
+@section 8.8 | Parties and Styles
+- Parties are the life-blood of democracy (key: R explains A) {2009}
+- Continuity and change: modern, traditional, saintly styles (Morris-Jones) (R explains A) {2020}
+
+@trap
+- **Single citizenship**, integrated judiciary, All India Services = **unitary** features.
+- "Unified authority" and "both legislatures sovereign" are wrong statements.
+- Common to India and USA: pocket veto; residuary is with Centre in India, States in USA.
+@end
+
+@up UP's own government follows the same parliamentary model under Articles 163-164: Governor nominal, **Chief Minister and Council of Ministers** responsible to the **Vidhan Sabha**.
+
+@last
+- India = **parliamentary**; first in **Britain**
+- Presidential = **single executive**
+- Republic = **elected head**, no hereditary ruler
+- Constitution supreme; partly rigid, partly flexible
+- Commonwealth does not curtail sovereignty
+- India vs UK = **judicial review**
+- **Single citizenship** = unitary feature
+- Quasi-federal = **Wheare**; cooperative = **Austin**
+- Bargaining = **Morris-Jones**; centralising = **Jennings**
+- India-USA common: **pocket veto**
+@end

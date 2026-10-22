@@ -1,0 +1,68 @@
+@chapter 16 | The Vice-President
+@meta Built from 12 UPPSC questions (2003–2025). Focus: electoral college of all MPs, Rajya Sabha qualification, removal from the Rajya Sabha, Art 71.
+
+@hot
+- VP elected by **all members of both Houses** (elected and nominated); no MLAs {2012, 2012, 2016}
+- Removal resolution only in the **Rajya Sabha** {2003, 2004, 2007, 2013}
+- VP is ex-officio **Chairman of the Rajya Sabha** but **not its member** {2004, 2010, 2025}
+@end
+
+@section 16.1 | Election (Art 66)
+- Electoral college: **all members of both Houses** {2012}
+- Votes: **Lok Sabha and Rajya Sabha members** only (1 and 2) {2012}
+- Election indirect like the President; State legislators have **no role** in VP election (only 1) {2016}
+
+@section 16.2 | Qualification and RS Chair
+- Must be qualified for the **Upper House** because he chairs it (R explains A) {2010}
+- Not correct: qualified for **Lok Sabha**; removed by **impeachment** (1 and 4) {2005}
+- Ex-officio Chairman of RS; **not** a member (only 1) {2025}
+- Presided by a non-member: **Rajya Sabha** {2004}
+
+@section 16.3 | Acting President (Art 65)
+- Second highest dignitary; no formal VP functions; acts in absence and in vacancy (all four) {2013}
+
+@section 16.4 | Removal (Art 67)
+- Removed by a resolution of the **Council of States** (effective majority), agreed by the Lok Sabha (simple majority) {2013}
+- Proposed only in the **Rajya Sabha** {2003, 2004, 2007}
+
+@flow Removing the Vice-President
+Notice | 14 days, in Rajya Sabha only
+Rajya Sabha | Effective majority (of then members)
+Lok Sabha | Agrees by simple majority
+Not impeachment | No grounds stated in the Constitution
+@end
+
+@section 16.5 | Disputes (Art 71)
+- Election voided by SC: acts done **on or before** the decision stay valid (only 1) {2023}
+
+@section 16.6 | Vice-Presidents
+- Wrong: **Zakir Husain** was the first VP (it was **S. Radhakrishnan**, 1952) {2013}
+
+@table
+Item | President | Vice-President
+Electors | Elected MPs + elected MLAs | All MPs (incl. nominated)
+Qualification | Eligible for Lok Sabha | Eligible for Rajya Sabha
+Removal | Impeachment, either House | RS resolution + LS agreement
+Disputes | Supreme Court (Art 71) | Supreme Court (Art 71)
+@end
+
+@trap
+- Nominated MPs **vote for VP**, not for President.
+- VP chairs RS but casts only a **casting vote**.
+- VP removal = **not impeachment**; starts only in RS.
+@end
+
+@up Vice-Presidents linked to UP: **Mohammad Hamid Ansari** (born in Kolkata, family from Ghazipur, UP; ex-AMU VC). UP's large MP group shapes VP elections since only MPs vote.
+
+@last
+- Electors: **all MPs**, no MLAs
+- Qualified for **Rajya Sabha**; 35 years
+- Ex-officio **RS Chairman**, not a member
+- Acts as President under **Art 65**
+- Removal: RS effective majority + LS simple majority
+- Removal starts only in **Rajya Sabha**
+- Disputes: **Supreme Court**, Art 71
+- Acts before SC decision stay valid
+- First VP = **S. Radhakrishnan**
+- Six VPs became President
+@end

@@ -1,0 +1,992 @@
+@chapter 27 | Genetic, Deficiency and Other Diseases; Plant Diseases
+
+@intro
+This chapter covers diseases that are not infections: **genetic disorders** (haemophilia, colour blindness, SCID), **deficiency** and lifestyle diseases (goitre, beriberi, gout, osteoporosis, diabetes, cirrhosis, kwashiorkor), **pollution diseases** (blue baby, knock-knee, Minamata, itai-itai), **radioisotopes in medicine**, cancer and brain disorders, **eye defects**, and medical terms (MRI, BMD, EEG, CPR, cath lab). The last part covers **plant diseases** of crops. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 27.1 | Genetic Disorders
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following is not an genetic disease?
+(a) Night blindness
+(b) Albinism
+(c) Haemophilia
+(d) Colour blindness
+@ans (a)
+@end
+
+@one
+Which of the following diseases is hereditary?
+@ans Haemophilia
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+The famous ‘Bubble Baby Disease’ is called so because :
+(a) It is caused by water bubble
+(b) The suffering baby makes bubbles of saliva
+(c) The suffering baby is treated in a germ-free plastic bubble
+(d) It is cured only water bubble
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Haemophilia is :
+(a) Caused by bacteria
+(b) Caused by virus
+(c) Caused by pollutants
+(d) A hereditary defect
+@ans (d)
+@end
+
+@one
+Which one of the following is a sex-linked hereditary disorder?
+@ans Royal Haemophilia
+@end
+
+
+@table
+Genetic disorder | Feature
+**Haemophilia** ("royal disease", Queen Victoria's descendants) | **X-linked**; blood does not clot (clotting factor VIII or IX missing)
+**Colour blindness** | **X-linked**; red-green confusion; not caused by any vitamin deficiency
+**SCID** ("bubble baby disease") | Severe combined immunodeficiency; the child is kept in a germ-free plastic bubble; first gene therapy (1990)
+**Albinism** | No **melanin** pigment
+**Sickle-cell anaemia** | Faulty haemoglobin; common in tribal belts (National Sickle Cell Anaemia Elimination Mission, 2023)
+Thalassaemia | Low haemoglobin production
+Down syndrome | Extra chromosome 21
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Which one of the following pairs is incorrectly matched?
+(a) Thiamine Beriberi
+(b) Ascorbic acid Scurvy
+(c) Vitamin A Colour blindness
+(d) Vitamin K Blood clotting
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+If a colour blind man marries with normal women, then the symptoms of colour blindness is generated in :
+(a) Sons
+(b) Daughters
+(c) Sons of sons
+(d) Sons of daughters
+@ans (d)
+@end
+
+
+An X-linked recessive trait passes from an affected **man** to all his **daughters as carriers** (sons get his Y and are normal); a carrier daughter then passes it to half her **sons**. So colour blindness skips a generation and shows in the **daughter's sons** (the man's grandsons).
+
+@section 27.2 | Deficiency and Lifestyle Diseases
+
+@pyq U.P.P.C.S. (Mains) 2013
+Arthritis is caused by the deposition of which of the following in the joints of the body ?
+(a) Urea
+(b) Uric acid
+(c) Albumin
+(d) Cholesterol
+@ans (b)
+@end
+
+@one
+The disease in which a high level of uric acid is mainly found in the blood is
+@ans Gout
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+The people who eat cooked food with adulterated mustard oil can cause dangerous disease (Dropsy).
+Which one of the following reasons may not be correct (As happened in India)?
+(a) Argemone oil adulteration
+(b) Parts of cyanide in mustard oil
+(c) Adulteration of rice husk in oil
+(d) White colour adulteration
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1991
+The disease hysteria generally occur in which group
+(a) Married women
+(b) Old women
+(c) Young women
+(d) Young men & women
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Shortage of which element causes goitre disease?
+(a) Nitrogen
+(b) Calcium
+(c) Iodine
+(d) Phosphorus
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Iodine is administered to patients suffering from
+(a) Rheumatism
+(b) Night blindness
+(c) Rickets
+(d) Goitre
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010, 2019, 2020
+Use of polished rice in human diet causes the following disease
+(a) Rickets
+(b) Anaemia
+(c) Goitre
+(d) Beriberi
+@ans (d)
+@end
+
+
+**Gout** (a form of arthritis) is caused by **uric acid crystals** in joints. **Epidemic dropsy** comes from mustard oil adulterated with **argemone oil** (sanguinarine). **Goitre** (thyroid swelling) is due to **iodine** deficiency; **beriberi** due to vitamin B_{1}, common with **polished rice**.
+
+@pyq U.P.P.C.S. (Mains) 2014
+BMD test is performed for –
+(a) Arthritis
+(b) Osteoporosis
+(c) Osteomalacia
+(d) None of these
+@ans (b)
+@end
+
+@one
+What is the full form of BMD?
+@ans Bone Mineral Density
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+A man, who does not know when to stop eating, is suffering from :
+(a) Bulimia
+(b) Diabetes
+(c) Anorexia nervosa
+(d) Hyperacidity
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Anosmia is –
+(a) Loss of the sense of taste
+(b) Loss of the sense of smell
+(c) Loss of the sense of touch
+(d) Loss of the sense of heat
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Sleep apnea is a serious sleep disorder in which people–
+(a) walk in their sleep without knowing what they are doing.
+(b) keep their eyes half open during sleep.
+(c) experience repeated interruptions of breathing for short periods during sleep.
+(d) snore very heavily during sleep.
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2008
+Which of the following is essential to regulate the heart beat?
+(a) Sodium
+(b) Sulphur
+(c) Potassium
+(d) Iron
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002; U.P. Lower Sub. (Spl.) (Pre); 2003; U.P.P.C.S. (Pre) 2001
+Which one among these is related to the deficiency of potassium ?
+(a) Damage of kidney, muscle paralysis
+(b) Low blood pressure
+(c) Anaemia
+(d) Joint pain and blurry vision
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+If albumin is releasing with urine then the failure of which organ may occur?
+(a) Liver
+(b) Kidney
+(c) Heart
+(d) Spleen
+@ans (b)
+@end
+
+@one
+Which organ of the body is most affected by prolonged fasting?
+@ans Kidneys
+@end
+
+
+**BMD** (bone mineral density) scans detect **osteoporosis**. **Bulimia** is binge eating; **anorexia** is self-starvation. **Anosmia** is loss of smell (common after COVID-19). **Sleep apnoea** is repeated stopping of breathing during sleep. **Potassium** keeps the heartbeat steady; its lack causes muscle weakness and low blood pressure. **Albumin** in urine (proteinuria) signals **kidney** damage.
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following is useful in the treatment of scurvy disease?
+(a) Mango
+(b) Papaya
+(c) Gooseberry
+(d) Ber
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2005
+Match List-I with List-II and select the correct answer from the code given below the lists :
+@match
+List-I (Disease) | List-II (Causes)
+A. Khaira | 1. Vitamin C deficiency
+B. Anaemia | 2. Iodine deficiency
+C. Goitre | 3. Iron deficiency
+D. Scurvy | 4. Zinc deficiency
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (d)
+@end
+
+**Khaira** is a **zinc-deficiency** disease of **rice**. Scurvy is cured by vitamin C (amla).
+
+@pyq U.P.P.C.S (Pre) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (Disease) | List-II (Cause)
+A. Marasmus | 1. Prolonged Starvation
+B. Kwashiorkor | 2. Protein Deficiency
+C. T.B. | 3. Bacterial Infection
+D. Hepatitis B | 4. Viral Infection
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 4 2 3 1
+(d) 2 4 1 3
+@ans (a)
+@end
+
+@one
+The disease caused in children due to protein deficiency is:
+@ans Kwashiorkor and marasmus
+@end
+
+**Kwashiorkor** is mainly **protein** deficiency (swollen belly, oedema); **marasmus** is overall calorie and protein starvation (wasting).
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+The disease caused due to deficiency of iron is known as–
+(a) Colour-blindness
+(b) Night-blindness
+(c) Anaemia
+(d) Tuberculosis
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following disease is caused by the excessive use of alcoholic beverage ?
+(a) Appendicitis
+(b) Viral hepatitis
+(c) Gall stones
+(d) Liver cirrhosis
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Oral submucous fibrosis is a disease caused by –
+(a) Drinking Liquor
+(b) Smoking Tobacco
+(c) Consuming Gutka of Tobacco
+(d) Consuming Red Meat
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Bright’s disease affects human body in the part
+(a) Kidney
+(b) Spleen
+(c) Heart
+(d) Liver
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following diseases can not be controlled by vaccination?
+(a) Diabetes
+(b) Polio
+(c) Whooping Cough
+(d) Small-pox
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Diabetes is the most common disorder associated with:
+(a) Kidney
+(b) Gall bladder
+(c) Liver
+(d) Pancreas
+@ans (d)
+@end
+
+@one
+Diabetes is caused by the malfunctioning of which organ?
+@ans Pancreas
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Measurement of glycosylated haemoglobin (HbA1c) in the blood is useful for the management of :
+(a) Anaemia
+(b) Hemophilia
+(c) Diabetes mellitus
+(d) High blood pressure
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Curry leaf tree, native of India has the potential of a multi-billion dollar production for the pharmaceutical companies as revealed by British researchers, a cure for which disease is claimed for the curry leaf ?
+(a) Blood pressure
+(b) Malaria
+(c) Diabetes
+(d) T.B.
+@ans (c)
+@end
+
+
+@table
+Disease | Organ / cause
+**Diabetes mellitus** | **Pancreas** (too little insulin, or insulin resistance); monitored by **HbA1c**; cannot be prevented by a vaccine
+**Liver cirrhosis** | Scarring of the liver from **alcohol** or hepatitis
+**Oral submucous fibrosis** | Mouth; caused by **gutka**, areca nut and tobacco chewing
+**Bright's disease** | **Kidney** inflammation (nephritis)
+**Emphysema** | **Lungs** (smoking, air pollution; a form of COPD)
+**Mad cow disease** (BSE) | Brain; caused by **prions** (misfolded proteins)
+**Cerebral palsy** | Movement disorder from brain damage in **small children**
+**Alzheimer's** | Brain; **amyloid** plaques from amyloid precursor protein
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+‘Cerebral palsy’ is a brain disorder found generally in :
+(a) Old people
+(b) Drug addicts
+(c) Small children
+(d) Only ladies
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Recently scientists discovered protein which is responsible for hazardous neural disease Alzheimer’s. Which of the following is that protein?
+(a) Amyloid monoprotein
+(b) Amyloid multiprotein
+(c) Amyloid precursor protein
+(d) Amyloid leptic protein
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+The factor of madcow disease is –
+(a) Bacteria
+(b) Virus
+(c) Fungus
+(d) Prions
+@ans (d)
+@end
+
+
+@section 27.3 | Pollution Diseases
+
+@pyq U.P. P.C.S. (Pre) 2021
+‘Blue baby syndrome’ is due to the presence of which of the following in the blood ?
+(a) Haemoglobin
+(b) Methemoglobin
+(c) Lead
+(d) Nitrate
+@ans (b)
+@end
+
+@one
+The pollution-caused disease called ‘Blue Baby’ occurs due to the excessive presence of which of the following in drinking water?
+@ans Nitrate
+@end
+
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+‘Knock-Knee’ Syndrome results due to the pollution of __________.
+(a) Phosphates
+(b) Fluorides
+(c) Nitrates
+(d) Heavy metals
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+The cause of ‘Minamata’ disease is :
+(a) Chromium polluted water
+(b) Mercury polluted water
+(c) Cadmium polluted water
+(d) Lead polluted water
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Itai-Itai disease is caused by chronic poisoning of –
+(a) Mercury
+(b) Nickel
+(c) Cadmium
+(d) Lead
+@ans (c)
+@end
+
+
+
+@one
+The Minamata disease that occurred in Japan in 1953 was caused by eating fish contaminated with:
+@ans Mercury
+@end
+
+@one
+Minamata disease was caused by a harmful quantity of the following metal:
+@ans Mercury
+@end
+
+@table
+Disease | Pollutant
+**Blue baby syndrome** (methaemoglobinaemia) | **Nitrate** in drinking water → **methaemoglobin**, which cannot carry oxygen
+**Knock-knee / skeletal fluorosis** | Excess **fluoride** (Unnao, Agra, Mathura and parts of Bundelkhand in UP)
+**Minamata** (Japan, 1950s) | **Mercury** (methylmercury in fish)
+**Itai-itai** ("ouch-ouch", Japan) | **Cadmium**
+Black foot disease | **Arsenic** (Ballia and other Ganga-plain districts)
+Saturnism | Lead
+Silicosis | Silica dust (stone quarries)
+@end
+
+@section 27.4 | Radioisotopes and Cancer
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2003; U.P.P.C.S. (Pre) 2001, 2003; U.P.U.D.A./L.D.A. (Pre) 2002
+Match List- I and List- II and select the correct answer using the code given below:
+@match
+List I (Radioisotope) | List II (Diagnostic use)
+A. Arsenic -74 | 1. Activity of thyroid gland
+B. Cobalt - 60 | 2. Blood disorder
+C. Iodine – 131 | 3. Tumour
+D. Sodium -24 | 4. Cancer
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 1 2
+(c) 3 4 1 2
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one is not correctly matched ?
+(a) Cobalt 60- treatment of body’s internal neoplasm
+(b) Iodine 131- treatment of thyroid neoplasm
+(c) Phosphorus 32- treatment of leukaemia
+(d) Gold 198 - treatment of retinal disorders
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following radio elements is used to measure the speed of the blood flow in the human body?
+(a) Radio-Phosphorus
+(b) Radio-Iodine
+(c) Radio-Iron
+(d) Radio-Sodium
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Cobalt-60 is generally used in radiation treatment because it ejects
+(a) α rays
+(b) β rays
+(c) γ rays
+(d) X-rays
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Pre) 2010; U.P. Lower Sub. (Pre) 2013
+The radioisotope used in the detection of tumour is :
+(a) Arsenic-74
+(b) Cobalt-60
+(c) Sodium-24
+(d) Carbon-14
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012; U.P.P.C.S. (Pre) 2016
+The radioisotope used to control blood cancer (leukaemia) is :
+(a) Phosphorus-32
+(b) Cobalt-60
+(c) Iodine-131
+(d) Sodium-24
+@ans (a) & (b)
+@note The source gives **(a) & (b)**: **phosphorus-32** is the classic treatment for leukaemia and polycythaemia, and **cobalt-60** gamma radiation is used against many cancers.
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Leukaemia is a type of cancer in which there is an abnormal increase in the number of :
+(a) Bone cells
+(b) Platelets
+(c) Red blood cells
+(d) White blood cells
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which among the following is the most recent therapy of all types of cancers?
+(a) 3D Conformal Radiotherapy (3D CRT)
+(b) Immunotherapy
+(c) Intensity Modulated Radiotherapy (IMRT)
+(d) Molecularly targeted therapy
+@ans (c)
+@end
+
+
+
+@table
+Radioisotope | Use
+**Iodine-131** | **Thyroid** disorders and thyroid cancer
+**Cobalt-60** | **Cancer radiotherapy** (gamma rays)
+**Phosphorus-32** | **Leukaemia**, blood disorders
+**Sodium-24** | **Blood flow** and circulation studies
+**Arsenic-74** | Locating **tumours**
+Gold-198 | Cancer treatment
+Technetium-99m | Most common diagnostic scan isotope
+Carbon-14 | Dating ancient material
+@end
+
+**Leukaemia** is a cancer with too many **white blood cells**. Modern cancer treatment includes **IMRT** (intensity-modulated radiotherapy), immunotherapy, targeted drugs and India's own **CAR-T cell therapy** (NexCAR19, approved 2023). **Interferons** are antiviral proteins also used against some cancers.
+
+@pyq U.P.P.S.C.(GIC) 2010
+Interferon is used for the control of :
+(a) Cancer
+(b) Diabetes
+(c) T.B.
+(d) Typhoid
+@ans (a)
+@end
+
+
+@section 27.5 | Brain, Eyes and Medical Terms
+
+@pyq U.P.P.C.S. (Pre) 1999, 2011
+Which one of the following human organs is less susceptible to harmful radiations ?
+(a) Eyes
+(b) Heart
+(c) Brain
+(d) Lungs
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Brain diseases are diagnosed by :
+(a) E.E.G.
+(b) E.E.C.
+(c) E.M.G.
+(d) E.K.G.
+@ans (a)
+@end
+
+@one
+EEG is done to record the functioning of which of the following?
+@ans Brain
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Pre) 2012
+What is MRI?
+(a) Magnetic Record of Intestines
+(b) Magnetic Recording of investigations
+(c) Magnetic Resonance Imaging
+(d) Magnetic Resonance in Intestines
+@ans (c)
+@end
+
+
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010; U.P.P.C.S. (Pre) 1998
+Match List-I with List-II and select the correct answer by using the codes given below :
+@match
+List-I | List-II
+A. Malaria | 1. Bone marrow
+B. Filaria | 2. Brain
+C. Encephalitis | 3. Muscle
+D. Leukaemia | 4. Lymph node
+- | 5. Blood cells
+@endmatch
+Code : A B C D
+(a) 5 3 2 1
+(b) 5 4 2 1
+(c) 4 3 5 1
+(d) 5 4 1 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Astigmatism is a disease of the :
+(a) Ears
+(b) Eyes
+(c) Nose
+(d) Throat
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+A person with vision defect ‘Myopia’ can see –
+(a) Nearby objects clearly
+(b) Distant objects clearly
+(c) Nearby as well as distant objects clearly
+(d) Neither nearby nor distant objects clearly
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2003
+Myopia or short sightedness is corrected by :
+(a) Use of convex lens
+(b) Use of concave lens
+(c) Use of plain concave lens
+(d) Use of plain convex lens
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+In long-sightedness, images are formed at following :
+(a) On Retina
+(b) In front of Retina
+(c) Behind Retina
+(d) On Blind Spot
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+In which part of eye ‘blind spot’ and ‘yellow spot’ are found?
+(a) Cornea
+(b) Lens
+(c) Iris
+(d) Retina
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+In human eye, light rays get transformed into neural impulses at :
+(a) Cornea
+(b) Pupil
+(c) Retina
+(d) Lens
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which part of human eye is affected by cataract?
+(a) Iris
+(b) Retina
+(c) Cornea
+(d) None of the Above
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The pupils of human eye are dilated with a very dilute solution of an alkaloid which is :
+(a) Ephedrine
+(b) Equanil
+(c) Atropine
+(d) Adrenaline
+@ans (c)
+@end
+
+
+@table
+Eye term | Meaning
+**Retina** | Light-sensitive layer where light becomes **nerve impulses**; has the **yellow spot** (sharpest vision) and the **blind spot** (optic nerve exit, no receptors)
+**Cataract** | Clouding of the **lens** (none of the listed parts, hence "none of the above")
+Glaucoma | Raised pressure inside the eye
+**Astigmatism** | Uneven cornea; cylindrical lens
+**Myopia** | Sees **near objects clearly**; concave lens
+**Hypermetropia** | Image **behind the retina**; convex lens
+**Atropine** | Alkaloid (from belladonna) that **dilates the pupil** for eye tests
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Biological resurfacing is a recent surgical technique used to treat problems of
+(a) Knee joints
+(b) Ankle joints
+(c) Hip joints
+(d) Vertebral joints
+@ans (*)
+@note **Biological resurfacing** replaces worn cartilage using the body's own tissue and has been used for the **ankle** and **knee** (and hip resurfacing is a related metal technique), so more than one option fits; the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+A commonest side effect of Cu-T :
+(a) Bleeding
+(b) Pain
+(c) Perforation
+(d) Pelvic inflammatory disease
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Emphysema is a disease caused by environmental pollution in which the affected organ of the body is
+(a) Liver
+(b) Kidney
+(c) Lungs
+(d) Brain
+@ans (c)
+@end
+
+@pyq UP. R.O./A.R.O. (Pre) 2017
+Which one of the following pairs is not correctly matched?
+(a) Chloromycetin - antityphoid
+(b) Crystal violet - antiseptic
+(c) Quinine - antimalarial
+(d) Aspirin - anaesthetic
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+In medical terminology ‘Golden Hour’ is related with
+(a) Terminal stage of cancer
+(b) Pregnancy is detected
+(c) Heart Attack
+(d) Actual Child Birth
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Beta-blocker is a medicine to save from –
+(a) Heart attack
+(b) Enlargement of prostate gland
+(c) Chronic diabetes
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+In coronary artery bypass surgery, the blood vessel to be used as graft has to be
+(a) Vein from the leg
+(b) Artery from the forearm
+(c) Artery from mammary region of chest
+(d) Any of these
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+In which of the following departments of a hospital will ‘Cath lab’ be found ?
+(a) Pathology
+(b) Surgery
+(c) Cardiology
+(d) Nuclear Medicine
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2024
+CPR stands for:
+(a) Cardio Programme Rescue
+(b) Cardiac Pulsatile Revision
+(c) Cardiopulmonary Resuscitation
+(d) Cardiopulmonary Revision
+@ans (c)
+@end
+
+@table
+Term | Meaning
+**MRI** | **Magnetic Resonance Imaging** (magnets and radio waves, no X-rays)
+**EEG** | Electroencephalogram: **brain** activity (epilepsy)
+ECG / EKG | Heart's electrical activity
+EMG | Muscles
+**CPR** | **Cardiopulmonary resuscitation**: chest compressions and rescue breaths
+**Golden hour** | First hour after a **heart attack** or major injury, when treatment saves most lives
+**Cath lab** | Catheterisation lab of **cardiology** (angiography, stents)
+**Beta-blockers** | Slow the heart; used after **heart attacks** and for high BP
+Bypass graft | Vein from the leg or artery from the chest or forearm, any of these
+**Copper-T** | Intra-uterine contraceptive; commonest side effect is **bleeding**
+@end
+
+**Aspirin** is an **analgesic** (painkiller) and blood thinner, not an anaesthetic. **Chloromycetin** treats typhoid, **crystal violet** is an antiseptic, and **quinine** fights malaria.
+
+@pyq U.P.P.C.S.(Pre) 2001
+Blank capsules used in dispensing are made of :
+(a) Egg-white
+(b) Gum
+(c) Starch
+(d) Gelatine
+@ans (c) & (d)
+@note The source gives **(c) & (d)**: drug capsules are made of **gelatine** (from animal collagen) or, for vegetarian capsules, **starch** or HPMC (a cellulose product).
+@end
+
+
+
+@section 27.6 | Plant Diseases
+
+@pyq U.P. P.C.S. (Pre) 2022
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I (Plant disease) | List-II (Factor)
+A. Citrus Canker | 1. Insect
+B. Red rot disease of sugarcane | 2. Deficiency of oxygen
+C. Krishnakant disease of potato | 3. Bacteria
+D. Sahu disease of wheat | 4. Fungus
+@endmatch
+Code : A B C D
+(a) 1 3 4 2
+(b) 1 2 3 4
+(c) 4 1 3 2
+(d) 3 4 2 1
+@ans (*)
+@note Citrus canker is **bacterial**, red rot of sugarcane is **fungal** and black heart ("Krishnakant") of potato comes from **lack of oxygen** in storage. The wheat disease meant is **ear cockle** ("Senhu", misprinted "Sahu"), which is caused by a **nematode**, not an insect. Option (d) matches the first three only, so the source marks the question (*).
+@end
+
+@pyq
+Match List-I with List-II and select the correct answer using the code given below:
+@match
+List-I (Crop) | List-II (Disease)
+A. Rice | i. Wilt
+B. Wheat | ii. Black Rust
+C. Sugarcane | iii. Red Rot
+D. Pigeon pea | iv. Brown Leaf Spot
+@endmatch
+Code:
+(a) A–iv, B–ii, C–iii, D–i
+(b) A–i, B–iii, C–ii, D–iv
+(c) A–iii, B–i, C–ii, D–iv
+(d) A–ii, B–iii, C–iv, D–i
+@ans (a)
+@note The source prints no exam tag for this question.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following in not correctly matched ?
+(a) Wheat Phalaris minor
+(b) Potato Late blight
+(c) Bajra Ergot
+(d) Sugarcane Powdery mildew
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following is not correctly matched? Crop Disease
+(a) Rice Green hair
+(b) Bajra Ergot
+(c) Pea Powdery mildew
+(d) Gram Wilt
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+Which element deficiency causes chlorosis in maize plant?
+(a) Nitrogen
+(b) Zinc
+(c) Copper
+(d) Manganese
+@ans (b)
+@end
+
+@one
+Whitening of the leaf tips in maize is an indicator
+@ans of Zn deficiency
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Karnal Bunt is a disease of :
+(a) Barley crop
+(b) Wheat crop
+(c) Bajra crop
+(d) Jowar crop
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Tungro virus of rice is spread by
+(a) Borer
+(b) Inflorescent Bug
+(c) Golmiz
+(d) Green leafhoppers
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which among the following statements is not true?
+(a) Rust is a disease found in wheat.
+(b) Early blight is a disease found in potato.
+(c) False smut is a disease found in barley.
+(d) Khaira is a disease found in paddy.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+What causes ‘Blackheart’ in potato ?
+(a) Copper deficiency
+(b) Boron deficiency
+(c) Oxygen deficiency
+(d) Potassium deficiency
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Yellow vein mosaic disease in okra, caused by :
+(a) Aphids
+(b) Whitefly
+(c) Leafhopper
+(d) Fungi
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which one of the following is not correctly matched? Crop Disease
+(a) Paddy Wilt
+(b) Mustard White rust
+(c) Bajra Smut
+(d) Groundnut Tikka
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+‘Spongy Tissue’ is a serious disorder hampering the export of mango variety. It is –
+(a) Alphonso
+(b) Dashehari
+(c) Neelum
+(d) Langra
+@ans (a)
+@end
+
+
+@one
+'Yellow vein mosaic' is a serious disease of
+@ans okra (bhindi)
+@end
+
+@table
+Crop | Disease / disorder | Cause
+**Rice** | Brown leaf spot (Bengal famine 1943), blast, **false smut**, **Khaira** | Fungi; Khaira = **zinc** deficiency
+Rice | **Tungro** | Virus spread by **green leafhoppers**
+**Wheat** | **Black / brown / yellow rust**, **Karnal bunt**, loose smut | Fungi
+Wheat | Ear cockle | Nematode
+Wheat weed | *Phalaris minor* (gulli danda) | Weed, not a disease
+**Sugarcane** | **Red rot** | Fungus
+**Potato** | **Late blight** (Irish famine 1845) | Fungus-like *Phytophthora*
+Potato | **Black heart** | **Oxygen deficiency** in storage
+Bajra (pearl millet) | **Ergot**, **green ear**, smut | Fungi
+Pigeon pea, gram | **Wilt** | Fungus (*Fusarium*)
+Groundnut | **Tikka** (leaf spot) | Fungus
+Mustard | White rust | Fungus-like
+Pea | Powdery mildew | Fungus
+**Okra** | **Yellow vein mosaic** | Virus spread by **whitefly**
+**Citrus** | **Canker** | Bacterium
+Maize | Chlorosis / white bud | **Zinc** deficiency
+**Mango (Alphonso)** | **Spongy tissue** | Physiological disorder (heat)
+@end
+
+@trap
+**Haemophilia and colour blindness are X-linked**; colour blindness shows in the **daughter's sons**. **Gout = uric acid.** **Blue baby = nitrate** (methaemoglobin), **knock-knee = fluoride**, **Minamata = mercury**, **itai-itai = cadmium**. **I-131 thyroid, Co-60 cancer, P-32 leukaemia, Na-24 blood flow, As-74 tumours.** **Atropine** dilates the pupil. **Cataract affects the lens.** **Khaira = zinc.** **Tungro by leafhopper, okra mosaic by whitefly.** **Spongy tissue = Alphonso.**
+@end
+
+@heatmap
+
+@pattern
+These questions span 30 years with steady repetition of radioisotopes, pollution diseases and medical full forms. Newer papers (2021-2024) asked about blue baby syndrome, knock-knee, Minamata, CPR, diabetes and plant diseases, often as multi-pair matches.
+@end
+
+@next
+Likely next angles: the **Sickle Cell Anaemia Elimination Mission**, **gene therapy** for haemophilia (India's first trial, 2024), **CAR-T** cancer therapy, **non-communicable disease** screening, **fluoride and arsenic** in UP groundwater (Jal Jeevan Mission testing), **Alzheimer's** drugs, and **wheat blast** and **locust** threats to crops.
+@end

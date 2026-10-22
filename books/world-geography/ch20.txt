@@ -1,0 +1,479 @@
+@chapter 20 | World Transport and Miscellaneous
+
+@intro
+The last chapter brings together **world transport** (the North Atlantic route, the Trans-Siberian railway, the longest tunnels, the busiest ports, shipbuilding) and a **miscellany** of geography: thinkers (Sauer, Engler, Griffith Taylor, Lee), map terms (isogonic lines, umland), famous places (Grand Banks, Bermuda Triangle, Golden Triangle), the headquarters of international bodies, and a few current-affairs facts. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 20.1 | Sea Routes, Railways and Tunnels
+
+@pyq U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002
+Assertion (A) : North Atlantic sea route is the busiest sea route in the world.
+Reason (R) : It connects two major industrial zones of the world.
+In the context of the above statements which of the following is correct?
+Code :
+(a) (A) and (R) both are true, and (R) is correct explanation of (A).
+(b) (A) and (R) both are true, and (R) is not correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (R) is true, but (A) is false.
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 1998, 2004
+Which one is the busiest sea route of the world?
+@ans North Atlantic Ocean
+@end
+
+The **North Atlantic route** links the two oldest industrial regions, **north-eastern USA/Canada** and **western Europe**, and is called the "**Big Trunk Route**". By container volume, the **Asia-Europe** (via Suez) and **trans-Pacific** routes are now as important.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which one of the following cities is not located on the Trans-Siberian rail route?
+(a) Kazan
+(b) Omsk
+(c) Sochi
+(d) Chita
+@ans (c)
+@end
+
+The **Trans-Siberian Railway** (about **9,300 km**, the world's longest line, completed 1916) runs from **Moscow** through Kazan (on some routings), Yekaterinburg, Omsk, Novosibirsk, Irkutsk (Lake Baikal) and Chita to **Vladivostok**. **Sochi** is a Black Sea resort in the far south-west of Russia.
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P.P.C.S. (Spl) (Mains) 2008
+The correct sequence in descending order of the given countries in terms of railway length in the world is
+(a) Canada, Germany, United States of America, India
+(b) Germany, United States of America, Canada, India
+(c) India, United States of America, Germany, Canada
+(d) United States of America, Canada, India, Germany
+@ans (*)
+@note The correct order is **USA** (about 2.2 lakh km), **China** (not listed), **Russia** (not listed), **India** (about 68,000 route km), **Canada**, then Germany. "USA, **India, Canada**, Germany" is not offered, since (d) puts Canada before India. The source marks the question (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+The longest rock tunnel of the world is located in
+(a) Finland
+(b) Greenland
+(c) Japan
+(d) Sweden
+@ans (*)
+@note The world's longest rock tunnel is the **Delaware Aqueduct** (about 137 km, USA), a water-supply tunnel. Finland's **Paijanne** water tunnel (about 120 km) is second, so (a) is the closest of the options. Because the longest is in none of the listed countries, the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The world's longest Railroad tunnel Seikan is in :
+(a) China
+(b) South Korea
+(c) Japan
+(d) Malaysia
+@ans (c)
+@end
+
+The **Seikan Tunnel** (53.9 km, linking Honshu and Hokkaido) was the longest rail tunnel until Switzerland's **Gotthard Base Tunnel** (**57.1 km**, 2016) overtook it. The **Channel Tunnel** (50.5 km) has the longest **undersea** section. In India, the **Sela** tunnel (Arunachal) and the rail tunnels on the **Udhampur-Srinagar-Baramulla** line are recent landmarks.
+
+@section 20.2 | Ports and Shipbuilding
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The world's busiest seaport by cargo tonnage is :
+(a) Busan
+(b) Rotterdam
+(c) Singapore
+(d) Shanghai
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Spl) (Mains) 2004
+Which one among Cape Town, New York, Shanghai and Tokyo is the second biggest port in the world ?
+@ans Shanghai
+@end
+
+**Shanghai** (Yangshan deep-water port) has been the world's busiest **container** port since 2010, followed by **Singapore** and **Ningbo-Zhoushan**. Ningbo-Zhoushan leads in total **cargo tonnage**. **Rotterdam** is the largest port in **Europe**.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which of the following is the busiest port of Japan?
+(a) Yokohama
+(b) Hiroshima
+(c) Hitachi
+(d) Kagoshima
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Alexandria is a port in –
+(a) Egypt
+(b) Israel
+(c) Jordan
+(d) Libya
+@ans (a)
+@end
+
+@pyq U.P. P.S.C. (GIC) 2010
+Port diamond is located in –
+(a) Australia
+(b) Sri Lanka
+(c) South Africa
+(d) Zaira
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Gwadar Port in Pakistan is situated in which of the following provinces?
+(a) Balochistan
+(b) Khyber Pakhtunkhwa
+(c) Punjab
+(d) Sindh
+@ans (a)
+@end
+
+**Gwadar** (Balochistan), built with Chinese help, is the southern end of the **China-Pakistan Economic Corridor (CPEC)**. India's answer is **Chabahar** (Iran), about 170 km to the west, where India runs the Shahid Beheshti terminal under a 10-year deal signed in 2024.
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following is not correctly matched ?
+Ports - Country
+(a) Rotterdam - The Netherland
+(b) Igarka - China
+(c) Montevideo - Uruguay
+(d) Jakarta - Indonesia
+@ans (b)
+@end
+
+**Igarka** is a timber port on the **Yenisei** river in Siberia, **Russia**, reachable by the Northern Sea Route in summer.
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+In terms of the monetary value, the largest shipbuilder of the world is –
+(a) China
+(b) Japan
+(c) South Korea
+(d) U.S.A.
+@ans (a)
+@end
+
+**China** now builds more than half of the world's ships by tonnage and value, followed by **South Korea** and **Japan**. India's **Cochin Shipyard** and plans for big shipbuilding clusters aim to put India in the top 10 by 2030.
+
+@section 20.3 | Geographers and Concepts
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I | List-II
+A. Planting Hearth | 1. Hungary
+B. Cryophyte Steppe | 2. Adolf Engler
+C. World Floral Regions | 3. C.O. Sauer
+D. Puszta Grassland | 4. Arctic Tundra
+@endmatch
+Codes : A B C D
+(a) 4 3 2 1
+(b) 3 4 2 1
+(c) 3 4 1 2
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+The concept of Neo-Determinism in Geography was advanced by :
+(a) Miss Semple
+(b) G.Taylor
+(c) Ratzel
+(d) Huntington
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+In their book "Introducing Cultural Geography", J.E. Spencer and W.L. Thomas have divided the world into how many Cultural Worlds?
+(a) 9
+(b) 10
+(c) 11
+(d) 12
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Among the following whose name is associated with migration theory?
+(a) Notestein
+(b) Thompson
+(c) Lee
+(d) Doubleday
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+What is meant by the term 'Umland'?
+(a) The heart area of a town
+(b) A satellite town
+(c) Area surrounding a town
+(d) Residential area of a town
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Isogonic lines are :
+(a) Same atmospheric pressure lines
+(b) Same temperature lines
+(c) Same salinity lines
+(d) Same magnetic declination line
+@ans (d)
+@end
+
+@table
+Geographer / term | Idea
+**Friedrich Ratzel**, Ellen Churchill **Semple** | **Environmental determinism** (nature controls humans); Semple was Ratzel's American follower
+Vidal de la Blache, Lucien Febvre | **Possibilism** (humans choose within nature's limits)
+**Griffith Taylor** | **Neo-determinism** ("stop-and-go" determinism)
+Ellsworth **Huntington** | Climate and civilisation
+**Carl O. Sauer** | Cultural landscape; **planting hearths** (origins of agriculture)
+**Adolf Engler** | World **floral (phytogeographic) regions**
+Everett **Lee** | Push-pull **migration theory** (1966)
+**Notestein** / **Thompson** | **Demographic transition** model
+**Doubleday** | Diet-based population theory
+**Spencer and Thomas** | **11 cultural worlds**
+Isobar / isotherm / isohaline / isohyet / **isogonic** | Equal pressure / temperature / salinity / rainfall / **magnetic declination**
+Umland | The area served by a town (urban hinterland)
+@end
+
+@section 20.4 | Places and Facts
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Grand Bank is located at :
+(a) Western coast of North America
+(b) Western Europe coast
+(c) Eastern coast of North America
+(d) Eastern coast of Africa
+@ans (c)
+@end
+
+The **Grand Banks** off **Newfoundland** are among the world's richest fishing grounds. They are shallow, and there the warm **Gulf Stream** meets the cold **Labrador Current**. The famous **cod** fishery there collapsed in 1992.
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2001
+The Bermuda Triangle lies in –
+(a) North Atlantic Ocean
+(b) South Atlantic Ocean
+(c) North Pacific Ocean
+(d) South Pacific Ocean
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Match List-I and List-II and select the correct answer from the codes given below:
+@match
+List-I | List-II
+A. Golden Triangle | 1. Myanmar
+B. Bermuda Triangle | 2. Opium producing area of South East Asia
+C. Rice Bowl of Far East | 3. China
+D. Red Basin | 4. North Atlantic Ocean
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 2 4 1 3
+(c) 4 3 2 1
+(d) 1 4 3 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following is correctly matched ?
+(a) Paraguay - Pampas
+(b) U.S.A. - Manitoba
+(c) Morocco - Atlas mountains
+(d) Australia - Kimberley
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which pair amongst the following is not correctly matched?
+(a) The queen of Adriatic sea Rome
+(b) Lorraine Coal Fields France
+(c) West Midlands Birmingham
+(d) Tula Russia
+@ans (a)
+@end
+
+**Venice** is the "**Queen of the Adriatic**". **Manitoba** is a Canadian province. **Kimberley** is the South African diamond town, though Australia also has a Kimberley region in Western Australia.
+
+@pyq U.P.P.C.S.(Pre) (Re-Exam) 2015
+The name of which of the following countries closely means "Country of 40 Tribes"?
+(a) Kazakhstan
+(b) Kyrgyzstan
+(c) Tajikistan
+(d) Uzbekistan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Consider the following statements and select the correct answer from the code given below :
+1. Cuba is known as the 'sugar bowl' of the world
+2. Hong Kong is special Administrative Region of China.
+3. U.S.A. is the leading producer of milk in the world.
+4. Australia is a Federal State.
+Code :
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, and 4 only
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct ?
+(a) The country which does not belong to the group of BALKANS is Bosnia.
+(b) Northeastern part of Australia is not affected by the Mediterranean climate.
+(c) The Nova Scotia Coal field lies in Kazakhstan.
+(d) At present China is the country in the world which is the largest producer of cotton.
+@ans (*)
+@note Two statements are wrong. **Bosnia and Herzegovina** is a Balkan country, so (a) is wrong. **Nova Scotia** is in **Canada**, not Kazakhstan, so (c) is wrong. With two incorrect options the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following statement is not true?
+(a) Species diversity increases from equator towards poles.
+(b) Tropics harbour more species than temperate areas.
+(c) Greatest biodiversity occurs in Amazonian rainforest.
+(d) Species diversity decreases from temperate areas towards poles.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2019
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : Indian Ocean has become the Military bases of many big powers.
+Reason (R) : There is strong geopolitical benefits in Indian Ocean and adjacent countries.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@note The source gives (a), because the strategic value of the Indian Ocean is exactly why powers keep bases there (Diego Garcia, Djibouti, Gwadar). The Commission's official key was **(b)**.
+@end
+
+@section 20.5 | Organisations, Energy and History
+
+@pyq U.P.P.C.S. (Mains) 2016
+The headquarter of the International Maritime Organization is located at :
+(a) London
+(b) Geneva
+(c) Paris
+(d) Rome
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which of the following is not correctly matched ?
+(a) International Red Cross Society - Geneva
+(b) International Court of Justice - The Hague
+(c) European Economic Community - Brussels
+(d) Food & Agricultural Organisation - New York
+@ans (d)
+@end
+
+@table
+Body | Headquarters
+International Maritime Organization (IMO) | **London**
+FAO, WFP, IFAD | **Rome**
+ICRC (Red Cross), WHO, WTO, ILO, UNHCR | **Geneva**
+International Court of Justice | **The Hague**
+European Union (formerly EEC) | **Brussels**
+UNESCO, OECD | **Paris**
+IAEA, OPEC, UNIDO | **Vienna**
+UNEP, UN-Habitat | **Nairobi**
+International Solar Alliance | **Gurugram** (India)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+Which one of the following countries is not a member of the OPEC :
+(a) Algeria
+(b) China
+(c) Indonesia
+(d) U.A.E.
+@ans (b) & (c)
+@end
+
+**China** has never been in OPEC. **Indonesia** left in **2016**, which is why both are accepted. **Qatar** (2019), **Ecuador** (2020) and **Angola** (2024) have also left. OPEC is headquartered in **Vienna**.
+
+@pyq U.P.P.C.S.(Pre) 2013
+Arrange the following countries in the descending order of their number of nuclear power plants and select the correct answer from the codes given below :
+1. France
+2. Russia
+3. Japan
+4. U.S.A.
+Code :
+(a) 3, 4, 2, 1
+(b) 3, 1, 4, 2
+(c) 4, 1, 2, 3
+(d) 4, 3, 2, 1
+@ans (*)
+@note Before the 2011 **Fukushima** accident the order by reactor count was **USA (about 104), France (58), Japan (about 50), Russia (about 33)**, i.e. 4, 1, 3, 2, which is not among the codes. Today it is USA (94), France (57), then China (not listed), Russia and Japan. The source marks the question (*).
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+In which of the following countries 99 percent of its total energy requirement is obtained by Hydro-Power?
+(a) New Zealand
+(b) Switzerland
+(c) Norway
+(d) Brazil
+@ans (c)
+@end
+
+**Norway** gets almost all (about 90-99%) of its **electricity** from hydropower. **China** has the most hydropower capacity, followed by Brazil, the USA and Canada.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+The Chernobyl nuclear disaster occurred in:
+(a) France
+(b) Japan
+(c) Ukraine
+(d) Germany
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Due to 'The Great Leap Forward Policy' million people had to die of starvation in:
+(a) Russia
+(b) Vietnam
+(c) China
+(d) Germany
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+Where is the satellite launch centre of USA?
+(a) Alamos
+(b) Los Angles
+(c) Cape Verde
+(d) Cape Kennedy
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+The largest producer of Wine in the world is :
+(a) France
+(b) Italy
+(c) Spain
+(d) United States of America
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Asia's biggest gold market is :
+(a) Jakarta, Indonesia
+(b) Beijing, China
+(c) Kathmandu, Nepal
+(d) Meerut, India
+@ans (b)
+@note **China** was Asia's largest gold market when the question was set. In some recent years (e.g. 2024 jewellery demand) **India** has rivalled or overtaken China, so check the year if this is asked again.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+The age of the tree can be determined from the
+(a) Counting of leaves on the tree
+(b) Counting the number of rings on its stem
+(c) Counting the branches on the tree
+(d) Measurement of its height
+@ans (b)
+@end
+
+Counting tree rings is called **dendrochronology**. The width of each ring also records past climate.
+
+@heatmap
+
+@pattern
+The miscellaneous section is unpredictable, but three clusters repeat. **Transport records**: busiest route, longest railway and tunnel, busiest port. **Thinkers and terms**: Taylor, Sauer, Engler, Lee and the iso-lines. **Headquarters of world bodies**. Recent papers (2019-2024) favour **geographic thought** and **geopolitics** (Gwadar, the Indian Ocean).
+@end
+
+@next
+Likely next angles: **IMEC** (India-Middle East-Europe corridor), **INSTC** and **Chabahar**, the **Northern Sea Route**, **Red Sea** shipping diversions, the busiest ports list, OPEC+ membership changes, **ISA** and **IMO** decarbonisation rules (net-zero shipping framework), and **Fukushima** treated-water release.
+@end

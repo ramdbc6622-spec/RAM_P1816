@@ -1,0 +1,588 @@
+@chapter 23 | Industries and Industrial Centres
+
+@intro
+UPPSC asks mostly **centre-industry pairs** about industry: steel plants and their foreign partners, aluminium smelters, fertilizer and petrochemical towns, paper mills, and PSU headquarters. The chapter follows that order: iron and steel, aluminium, textiles and agro-based industries, chemicals and fertilizers, paper and cement, then the industrial regions. Many answers point to **Uttar Pradesh** (Renukoot, Pipri, Chunar, Phulpur, Aonla, Panki, Bhadohi, Varanasi, Naini, Rae Bareli), so the UP links matter here. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 23.1 | Iron and Steel
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following is not correctly matched?
+(a) Bhilai : Madhya Pradesh
+(b) Durgapur : West Bengal
+(c) Jamshedpur : Jharkhand
+(d) Rourkela : Odisha
+@ans (a)
+@end
+
+**Bhilai** is now in **Chhattisgarh** (state formed in 2000). It was in Madhya Pradesh when it was set up, which is the trap in this question.
+
+@table
+Steel plant | State | Set up with help of | Year
+TISCO, Jamshedpur | Jharkhand | Private (Tata) | 1907
+IISCO, Burnpur-Kulti | West Bengal | Private, later SAIL | 1918 (Kulti 1870s)
+Visvesvaraya Iron and Steel, Bhadravati | Karnataka | Mysore State | 1923
+Bhilai | Chhattisgarh | Soviet Union | 1959 (2nd Plan)
+Rourkela | Odisha | West Germany | 1959 (2nd Plan)
+Durgapur | West Bengal | Britain | 1962 (2nd Plan)
+Bokaro | Jharkhand | Soviet Union | 1972 (3rd/4th Plan)
+Salem | Tamil Nadu | Indigenous | 1982
+Visakhapatnam (RINL) | Andhra Pradesh | Indigenous (shore-based) | 1992
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Rourkela Steel Plant gets its supplies of iron ore from
+(a) Keonjhar
+(b) Dalli-Rajhara
+(c) Kamangundi
+(d) Mayurbhanj
+@ans (a)
+@end
+
+Rourkela draws ore from the **Sundargarh-Keonjhar** belt of Odisha. **Dalli-Rajhara** (Balod, Chhattisgarh) feeds **Bhilai**. **Kemmangundi** (Karnataka) fed Bhadravati.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which among the following Iron & steel production plant is located far from Coalfields?
+(a) Bokaro
+(b) Durgapur
+(c) Kulti-Asansol
+(d) Bhadravati
+@ans (d)
+@end
+
+**Bhadravati** is in Karnataka, far from the Damodar coalfields. It first used **charcoal** and later **hydroelectricity** from the Jog (Sharavathi) project. The other three are on the Damodar valley coal belt.
+
+@pyq U.P.P.C.S. (Mains) 2006
+Steel Authority of India was established in the year :
+(a) 1965
+(b) 1971
+(c) 1974
+(d) 1956
+@ans (*)
+@note **SAIL** was formed on **24 January 1973** as a holding company for Bhilai, Rourkela, Durgapur, Bokaro and other plants, which had earlier been under Hindustan Steel Ltd. (1954). 1973 is not among the options, so the source marks the question (*).
+@end
+
+@trap
+**Bhilai was in MP** when it opened, but it is in **Chhattisgarh** now. **Bokaro** was also Soviet-aided, like Bhilai. Rourkela-Germany and Durgapur-Britain are the two pairs the codes most often swap.
+@end
+
+@section 23.2 | Aluminium and Copper
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Pre) 1994
+Korba in Chhattisgarh has importance for –
+(a) Aluminium industry
+(b) Copper
+(c) Mica
+(d) Steel
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002, 2003
+Which one among the following is not correctly matched?
+(a) BALCO - Raipur
+(b) HINDALCO - Pipari
+(c) NALCO - Bhubaneswar
+(d) H.C.L. - Khetri
+@ans (a)
+@end
+
+**BALCO** is at **Korba**, not Raipur. NALCO's head office is at Bhubaneswar, with its smelter at **Angul** and its alumina refinery at **Damanjodi** (Koraput). Hindustan Copper Ltd. runs the **Khetri** copper complex in Jhunjhunu, Rajasthan.
+
+@pyq U.P.P.C.S. (Pre) 2017
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Aluminium company) | List- II (Location)
+A. Balco | 1. Hirakud
+B. Hindalco | 2. Korba
+C. Indian Aluminium | 3. Koraput
+D. National Aluminium | 4. Renukoot
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 2 4 1 3
+(c) 3 4 1 2
+(d) 2 1 4 3
+@ans (b)
+@end
+
+@up UP link: **Hindalco** (Aditya Birla group) set up its aluminium smelter at **Renukoot** (Pipri area, **Sonbhadra**) in 1962. It runs on cheap power from the **Rihand** dam and nearby Singrauli coal. Pipri itself is known for the **Rihand hydroelectric** station, which is the point of a separate question below.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Alupuram | 1. Chhattisgarh
+B. Angul | 2. Kerala
+C. Belgaum | 3. Odisha
+D. Korba | 4. Karnataka
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 2 3 4 1
+(c) 1 3 4 2
+(d) 2 1 3 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs (Aluminium Plant – State) is not correctly matched?
+(a) Alupuram (Alwaye) – Kerala
+(b) Belagavi – Karnataka
+(c) Muri – Chhattisgarh
+(d) Hirakud – Odisha
+@ans (c)
+@end
+
+@table
+Aluminium centre | State | Company
+Renukoot | Uttar Pradesh | Hindalco
+Korba | Chhattisgarh | BALCO (Vedanta)
+Angul (smelter), Damanjodi (refinery) | Odisha | NALCO
+Hirakud | Odisha | Hindalco (formerly Indian Aluminium)
+Jharsuguda, Lanjigarh | Odisha | Vedanta
+Muri | Jharkhand | Hindalco (formerly Indian Aluminium)
+J.K. Nagar | West Bengal | Indian Aluminium (Hindalco)
+Belagavi (Belgaum) | Karnataka | Hindalco
+Alupuram (Aluva) | Kerala | Indian Aluminium (Hindalco)
+Mettur | Tamil Nadu | MALCO
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Industry) | List- II (Centre)
+A. Aluminium | 1. Malanjkhand
+B. Copper | 2. Tundoo
+C. Zinc | 3. J.K. Nagar
+D. Jute | 4. Bhatpara
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 3 1 2 4
+(c) 1 4 2 3
+(d) 1 2 3 4
+@ans (b)
+@end
+
+**Malanjkhand** (Balaghat, MP) is India's largest open-cast copper mine. **Tundoo** (Dhanbad, Jharkhand) had a zinc-lead smelter. **Bhatpara** is a jute mill town on the Hugli.
+
+@section 23.3 | Public Sector Units and Their Centres
+
+@pyq U.P.P.C.S. (Pre) 2021
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List - I (Mineral Exploration Agencies) | List - II (Headquarters)
+A. Oil and Natural Gas Commission | 1. Bhubaneswar
+B. Mineral Exploration Corporation Ltd. | 2. Hyderabad
+C. National Mineral Development Corporation | 3. Nagpur
+D. National Aluminium Company Limited | 4. New Delhi
+@endmatch
+Codes : A B C D
+(a) 4 2 3 1
+(b) 1 2 4 3
+(c) 4 3 2 1
+(d) 2 3 4 1
+@ans (c)
+@end
+
+ONGC (now a corporation) has its corporate office in **New Delhi** and its registered office in **Dehradun**. MECL (now Mineral Exploration and Consultancy Ltd.) is in **Nagpur**, NMDC in **Hyderabad** and NALCO in **Bhubaneswar**.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+Match items in the List-I with those in the List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Steel Authority of India Limited | 1. Kota
+B. Hindustan Zinc Limited | 2. Udaipur
+C. Heavy Engineering Corporation Limited | 3. Ranchi
+D. Instrumentation Limited | 4. Delhi
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 4 3 1 2
+(c) 4 2 3 1
+(d) 3 1 4 2
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Heavy Engineering Industries | 1. Sindri
+B. Machinery Instruments | 2. Renukoot
+C. Aluminium | 3. Ranchi
+D. Fertilizers | 4. Pinjore
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 3 1 2
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (a)
+@end
+
+**HEC Ranchi** (Soviet-aided, 1958) makes equipment for steel plants. **HMT Pinjore** (Haryana) made machine tools. **Sindri** (Dhanbad) had India's first big public-sector fertilizer plant (1951).
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following pairs is not correctly matched?
+(a) Diesel Locomotive Works Varanasi
+(b) Indian Telephone IndustriesRaebareli
+(c) Bharat Electronics Ltd. Noida
+(d) Oil Refinery Mathura
+@ans (c)
+@end
+
+@up UP link: **Bharat Electronics Ltd.** has a unit at **Ghaziabad**, not Noida. The other UP centres here are correct: **Diesel Locomotive Works, Varanasi** (renamed **Banaras Locomotive Works**, BLW, in 2020), **ITI Rae Bareli** (ITI also has units at **Naini**, Prayagraj, and Mankapur, Gonda), and the IOC **Mathura refinery** (1982). Other UP PSU centres often asked: **BHEL Haridwar** (now Uttarakhand) and **Jhansi**, **HAL Lucknow and Kanpur**, **Rail Coach Factory Raebareli** (Lalganj).
+
+@section 23.4 | Textiles, Carpets and Agro-based Industries
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Which among the following industries is an ancient industry in India?
+(a) Jute
+(b) Cotton Textile
+(c) Tea
+(d) Sugar
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+In which of the following area, the first cotton textile factory begin in 1818 –
+(a) Fort Gloster in West Bengal
+(b) Mumbai in Maharashtra
+(c) Ahmadabad in Gujarat
+(d) Kanpur in Uttar Pradesh
+@ans (a)
+@end
+
+The 1818 mill at **Fort Gloster** (near Kolkata) failed. The first **successful** modern cotton mill was set up by **C.N. Davar** in **Bombay in 1854**. The first **jute** mill came up at **Rishra** (Hugli) in **1855**.
+
+@pyq U.P. P.C.S. (Pre) 2020
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) :
+Assertion (A) : Ahmedabad is the largest centre of cotton textile industry in India.
+Reason (R) : Ahmedabad is located in Major cotton growing region of India, so it has no problem of raw materials.
+Select the correct answer from the codes given below.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (d)
+@end
+
+**Mumbai** is the traditional largest centre and the "Cottonopolis of India". **Ahmedabad**, the "Manchester of the East", comes second. **Kanpur** was called the "Manchester of the North" (UP link), and **Coimbatore** the "Manchester of South India".
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010; U.P. Lower Sub. (Pre) 2013
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Centre) | List- II (Industry)
+A. Kakinada | 1. Carpet
+B. Virudhnagar | 2. Jute
+C. Channapatna | 3. Cotton Textile
+D. Bhadohi | 4. Silk
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 4 3 2 1
+(d) 3 2 1 4
+@ans (b)
+@end
+
+@up UP link: **Bhadohi** (Sant Ravidas Nagar), with Mirzapur and Varanasi, forms India's **carpet belt**. Bhadohi carpets have a GI tag and lead the country's hand-knotted carpet exports. Other UP craft clusters asked in papers: **Moradabad** (brass, "Peetal Nagri"), **Firozabad** (glass bangles), **Kanpur** and **Agra** (leather), **Varanasi** (silk saris), **Lucknow** (chikankari) and **Khurja** (pottery).
+
+@pyq U.P.P.C.S. (GIC) 2010
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Industry) | List- II (Centre)
+A. Silk textiles | 1. Jawahar Nagar
+B. Petrochemicals | 2. Talcher
+C. Fertilizers | 3. Mysore
+D. Pharmaceuticals | 4. Rishikesh
+@endmatch
+Code : A B C D
+(a) 2 1 3 4
+(b) 3 1 2 4
+(c) 3 2 4 1
+(d) 4 3 2 1
+@ans (b)
+@end
+
+**Rishikesh** has the IDPL antibiotics plant (Soviet-aided, 1960s). **Jawahar Nagar** (Vadodara) is the IPCL petrochemical complex, now Reliance.
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+In which of the following cities of India, the first synthetic rubber plant of the country was set up?
+(a) Panipat
+(b) Sonipat
+(c) Chandigarh
+(d) Lucknow
+@ans (a)
+@note The source's key is (a) Panipat. Many standard texts, however, name **Synthetics and Chemicals Ltd., Bareilly (UP)**, which began production in **1963** using alcohol from molasses, as India's first synthetic rubber plant. Neither Bareilly nor any other plausible alternative is among the options, so (a) is kept as the UPPSC key.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Rubber industry in India is located at
+(a) Panjim
+(b) Bangalore
+(c) Puducherry
+(d) Aurangabad
+@ans (a)
+@end
+
+@section 23.5 | Fertilizers, Petrochemicals and Refineries
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not correctly matched?
+(a) Ramagundam - Fertilizer
+(b) Chittaranjan - Locomotive
+(c) Korba - Aluminium
+(d) Pipri - Pesticides
+@ans (d)
+@end
+
+@pyq U.P.S.C. (GIC) 2010
+Which one among the following is not correctly matched?
+(a) Aonla - Fertilizer
+(b) Nepanagar - Paper
+(c) Sindri - Copper
+(d) Narora - Atomic power
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+The biggest fertilizer factory of India in the cooperative sector is situated at
+(a) Phulpur (U.P.)
+(b) Hazira (Gujarat)
+(c) Haldia (West Bengal)
+(d) Siwan (Bihar)
+@ans (a)
+@end
+
+@up UP link: **IFFCO** (Indian Farmers Fertiliser Cooperative) runs urea plants at **Phulpur** (Prayagraj) and **Aonla** (Bareilly) in UP, and at Kalol and Kandla in Gujarat and Paradeep in Odisha. Other UP fertilizer centres: **Panki** (Kanpur), **Gorakhpur** (HURL, restarted 2021), **Jagdishpur** (Indo-Gulf, Amethi) and **Babrala** (Sambhal).
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+Match List-I with List-it :
+@match
+List- I (Place) | List- II (Industry)
+A. Vishakhapatnam | 1. Automobile
+B. Muri | 2. Ship-building
+C. Gurgaon | 3. Fertilizer
+D. Panki | 4. Aluminium
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 2 4 1 3
+(c) 1 2 3 4
+(d) 2 4 3 1
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2008
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I | List- II
+A. Brajraj Nagar | 1. Cement
+B. Kaimur | 2. Fertilizer
+C. Haldia | 3. Petrochemical
+D. Phulpur | 4. Paper
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 4 1 3 2
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+India's largest petrochemical factory is situated in the state of :
+(a) Gujarat
+(b) West Bengal
+(c) Assam
+(d) Tamil Nadu
+@ans (a)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2013
+Where is located the largest centre of petrochemical production?
+@ans Jamnagar
+@end
+
+Reliance's **Jamnagar** complex in Gujarat is the world's largest single-site refining complex. Gujarat leads India in petrochemicals, with Jamnagar, Vadodara (Jawahar Nagar), Hazira, Dahej and Koyali.
+
+@pyq U.P.P.C.S. (Pre) 2011
+Which one of the following pairs is NOT correctly matched?
+(a) Koyali - Gujarat
+(b) Nagapattinam - Andhra Pradesh
+(c) Numaligarh - Assam
+(d) Manali - Tamil Nadu
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is not correctly matched?
+(a) Muri - Jharkhand
+(b) Alwaye - Kerala
+(c) Dharmapuri - Odisha
+(d) Koyali - Gujarat
+@ans (c)
+@end
+
+**Dharmapuri** is in **Tamil Nadu**. **Manali** (Chennai) and **Nagapattinam** (Cauvery basin) are refinery sites of CPCL in Tamil Nadu. They have nothing to do with Manali in Himachal Pradesh.
+
+@section 23.6 | Paper, Cement and Other Industries
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following pairs is not correctly matched?
+(a) Amlai - Chhattisgarh
+(b) Ballarpur - Maharashtra
+(c) Brajrajnagar - Odisha
+(d) Rajahmundry - Andhra Pradesh
+@ans (a)
+@end
+
+**Amlai** (Shahdol) and **Nepanagar** (Burhanpur, newsprint) are paper towns of **Madhya Pradesh**. **Titagarh** (WB), **Ballarpur** (Maharashtra), **Brajrajnagar** (Odisha) and **Sirpur-Kagaznagar** (Telangana) are other well-known paper centres.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+The state having the maximum number of paper mills is
+(a) Karnataka
+(b) Madhya Pradesh
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+Among the options, **Uttar Pradesh** has the most paper mills (mostly small, agro-residue based units in western UP such as Muzaffarnagar and Meerut). Across the whole country **Gujarat** has the largest number of mills.
+
+@pyq U.P.P.C.S. (Pre) 2013; U.P.P.C.S. (Mains) 2013
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List- I (Industry) | List- II (Place)
+A. Paper | 1. Ambala Mukul
+B. Cement | 2. Bhilai
+C. Iron & Steel | 3. Titagarh
+D. Mineral Oil Refinery | 4. Lakheri
+@endmatch
+Code : A B C D
+(a) 2 4 3 1
+(b) 3 4 2 1
+(c) 4 2 1 3
+(d) 2 3 1 4
+@ans (b)
+@end
+
+"Ambala Mukul" in the question is **Ambalamugal** near Kochi, the site of the BPCL Kochi refinery. **Lakheri** (Bundi, Rajasthan) has one of India's oldest cement plants.
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Chunar is renowned for :
+(a) Glass Industry
+(b) Cement Industry
+(c) Bidi Industry
+(d) None of the above
+@ans (b)
+@end
+
+@up UP link: The **Chunar** (Mirzapur) and **Churk/Dalla** (Sonbhadra) cement plants use the limestone of the Vindhyan and Kaimur hills. Chunar is also famous for its **sandstone**, which was used for the Ashokan pillars. Glass is **Firozabad**, and bidi is mainly linked to Jabalpur and Sagar in MP.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+In cement production at the global level (2010) India stands
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following States of India was the largest producer of cement in 2018-19?
+(a) Andhra Pradesh
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) Gujarat
+@ans (b)
+@end
+
+India is the world's **second largest** cement producer after China (USGS: about 450 million tonnes in 2024, against China's 1,900). **Rajasthan** leads in both production and installed capacity, followed by Andhra Pradesh, Karnataka and Madhya Pradesh.
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following towns of Madhya Pradesh is known for pesticide industry?
+(a) Bhopal
+(b) Gwalior
+(c) Indore
+(d) Jabalpur
+@ans (a)
+@end
+
+Bhopal's Union Carbide **pesticide** plant was the site of the **1984 gas tragedy** (methyl isocyanate leak).
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which one of the following is not correctly matched?
+(a) Cement - Porbandar
+(b) Petrochemical - Nagothane
+(c) Sugar - Silvassa
+(d) Iron and Steel - Rourkela
+@ans (c)
+@end
+
+**Silvassa** (Dadra and Nagar Haveli) is an industrial town with textiles, plastics and chemicals, but not sugar. **Nagothane** (Raigad, Maharashtra) has a petrochemical complex, now Reliance's.
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Pithampur in Madhya Pradesh is known for
+(a) Paper
+(b) Jute
+(c) Automobile
+(d) Aluminium
+@ans (c)
+@end
+
+**Pithampur** (Dhar, near Indore) is called the "**Detroit of India**", though that name is also used for **Chennai**. Gurugram-Manesar, Pune (Chakan) and Sanand are the other automobile hubs.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+What is Diamond Park ?
+(a) These are the national parks developed by the Central Environment Ministry in the hilly areas of India.
+(b) These are the places where refineries have been established.
+(c) These are the industrial zones which have been created to promote manufacturing and export of diamonds & synthetic jewellery and ornaments
+(d) These are the centres where huge power projects are established.
+@ans (c)
+@end
+
+**Surat** is the world's main diamond-cutting centre. The **Surat Diamond Bourse** (2023) is the world's largest office building.
+
+@section 23.7 | Industrial Regions
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Kolkata-Hugli region - Titagarh
+(b) Chhotta Nagpur region - Sivakasi
+(c) Mumbai-Pune region - Ambernath
+(d) Ahmedabad-Vadodara - Bharuch region
+@ans (b)
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2014
+In which of the industrial regions of India Shivkashi centre is located?
+@ans Madurai-Coimbatore-Bengaluru region
+@end
+
+@table
+Major industrial region | Key centres
+Mumbai-Pune | Mumbai, Thane, Pune, Ambernath, Nashik
+Hugli (Kolkata) | Kolkata, Howrah, Titagarh, Bhatpara, Serampore
+Bengaluru-Chennai (Madurai-Coimbatore-Bengaluru) | Bengaluru, Chennai, Coimbatore, Madurai, Sivakasi
+Gujarat (Ahmedabad-Vadodara) | Ahmedabad, Vadodara, Bharuch, Surat, Jamnagar
+Chhotanagpur | Jamshedpur, Dhanbad, Bokaro, Ranchi, Durgapur, Asansol
+Visakhapatnam-Guntur | Visakhapatnam, Vijayawada, Guntur, Kakinada
+Gurugram-Delhi-Meerut | Gurugram, Faridabad, Noida, Ghaziabad, Meerut, Modinagar
+Kollam-Thiruvananthapuram | Kollam, Thiruvananthapuram, Aluva, Kochi
+@end
+
+**Sivakasi** (Virudhunagar, Tamil Nadu) is known for **fireworks, matches and printing**, and is nicknamed "Little Japan".
+
+@heatmap
+
+@pattern
+Industry questions are almost entirely **match-the-following on centres**. The most repeated groups are: aluminium (Korba, Renukoot, Hirakud, Koraput, Muri, Alupuram, Belagavi), fertilizers (Sindri, Phulpur, Aonla, Panki, Talcher, Ramagundam), paper (Titagarh, Amlai, Nepanagar, Ballarpur, Brajrajnagar) and steel plants with their foreign partners. Keep a separate list of **UP centres** (Renukoot, Pipri, Chunar, Phulpur, Aonla, Panki, Bhadohi, Varanasi, Rae Bareli, Mathura). Nearly every year at least one UP town appears in an option.
+@end
+
+@next
+Expect newer centres in the options: **semiconductor fabs** (Dholera, Sanand, Jagiroad in Assam, and the HCL-Foxconn unit at **Jewar**, UP), **mobile manufacturing** (Noida, the world's largest mobile factory, Samsung), the **UP Defence Industrial Corridor** (Lucknow, Kanpur, Agra, Aligarh, Jhansi, Chitrakoot), and PM MITRA textile parks (including **Lucknow-Hardoi**).
+@end

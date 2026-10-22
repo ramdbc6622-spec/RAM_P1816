@@ -1,0 +1,88 @@
+@chapter 18 | The Attorney-General and the C.A.G.
+@meta Built from 34 UPPSC questions (1991–2023). Focus: AG's pleasure tenure and rights in Parliament, Advocate General, CAG's tenure, audit role and the PAC.
+
+@hot
+- **Attorney General** may **speak in Parliament** but **cannot vote** (Art 88) {2003, 2005, 2011, 2017, 2023}
+- AG: appointed by President, **SC-judge qualification**, holds office **at President's pleasure** {2014, 2016, 2020, 2023, 2023}
+- AG = first law officer and chief legal adviser of the Government of India {1995, 2008, 2010}
+- **CAG** (Art 148): **6 years**, removed like an SC judge, "guardian of the public purse" {1993, 2001, 2006, 2008, 2014, 2015}
+- CAG is the **friend and guide of the PAC** {2005, 2006, 2011}
+@end
+
+@section 18.1 | Attorney General (Art 76)
+- Holds office at the **President's pleasure** {2016}
+- First law officer: **Attorney-General**; chief legal adviser; adviser to the **Government of India** {2010, 1995, 2008}
+- Right of audience in all courts: **AG** {2015}
+- Qualified as an SC judge (true); removed like SC judges (false) (only 1) {2023}
+- SC-judge qualification (true); pay fixed by **Parliament** (false, President fixes it) (only 1) {2020}
+
+@section 18.2 | AG and Parliament
+- Appointed by President; SC-judge qualification (1, 2); not an MP, not impeached {2014}
+- Right to address Parliament: **AG** {2011}
+- Speaks and joins committees, **no vote**: AG {2003}
+- Takes part in **both Houses**: AG {2005}
+- Pleasure of the PM (false); no MP privileges (false): neither {2023}
+- Not correct: AG **can vote** in Parliament {2017}
+
+@section 18.3 | SG and Advocate General
+- Solicitor General: a **legal adviser** {1991, 1994}
+- State legal adviser: **Advocate General** (Art 165) {2014, 2015}
+
+@table
+Office | Article | Key fact
+Attorney General | 76 | SC-judge qualification; pleasure of President; Art 88 speaks
+Solicitor General | Statutory | Assists AG; not constitutional
+Advocate General | 165 | HC-judge qualification; pleasure of Governor; Art 177
+CAG | 148-151 | 6 years / 65; removed like SC judge
+@end
+
+@section 18.4 | CAG: Appointment and Tenure
+- Appointed by the **President**; under **Art 148** {2001, 2015}
+- Union audit reports go first to the **President** (Art 151) {2013}
+- Office created **by the Constitution** {2012}
+- Tenure: **6 years** (or 65) {1993}
+- Not true: removable by the President at will {2014}
+- Removal: **President's order after address by both Houses** (*) {2006}
+
+@flow CAG removal (like an SC judge)
+Motion | In either House
+Special majority | Each House: majority of total + two-thirds present
+Address | To the President
+Order | President removes
+@end
+
+@section 18.5 | Audit, Not Control
+- Not his duty: **controlling the issue of public money** {2004}
+- "**Guardian of the public purse**": CAG {2008}
+- Accounts separated from audit: **1976** {2004, 2019}
+- State accounts are **not** controlled by any listed body (one CAG audits all) {2003}
+
+@section 18.6 | CAG and the PAC
+- Action on CAG remarks: **Parliament** {2014}
+- Attends PAC meetings: **CAG**; CAG = friend and guide of the **PAC** {2011, 2006}
+- **VP-Rajya Sabha, CAG-PAC, Solicitor General-Supreme Court, AG-Lok Sabha meetings** {2005}
+
+@section 18.7 | Public Finance
+- Not part of public finance: **functioning of commercial banks** {2014}
+
+@trap
+- AG pay fixed by the **President**; CAG pay by **Parliament**.
+- AG serves at **pleasure**; CAG has **security of tenure**.
+- AG speaks but **never votes**; not an MP.
+- There is no "Advocate General of India" and no State CAG.
+@end
+
+@up UP's **Advocate General** sits at the **Allahabad High Court** (Prayagraj) and can speak in the UP Legislature (Art 177). CAG's UP reports go to the **Governor** of UP (Art 151(2)), then to the Vidhan Sabha PAC.
+
+@last
+- AG: **Art 76**; SC-judge qualification; President's pleasure
+- AG speaks in Parliament (**Art 88**), no vote; MP privileges (105(4))
+- AG = first law officer; audience in all courts
+- Advocate General = **Art 165**, State adviser
+- CAG: **Art 148**; 6 years or 65
+- Removed like an SC judge
+- CAG = guardian of the **public purse**
+- Accounts separated from audit **1976**
+- CAG = friend and guide of the **PAC**
+- Union reports to **President**; State to **Governor**
+@end

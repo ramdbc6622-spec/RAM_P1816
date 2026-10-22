@@ -1,0 +1,56 @@
+@chapter 20 | Music and Painting in the Mughal Period
+@meta Built from 15 UPPSC questions (1991–2021). Focus: Humayun and Akbar's painters, Jahangir's golden age, Abul Hasan and Mansur, regional schools, Swami Haridas, Tansen and Dhrupad, the emperors and music.
+
+@hot
+- **Mughal painting** founded by **Humayun** (Mir Sayyid Ali, Abdus Samad) {2009, 2010, 2012}
+- **Jahangir** patronised **painting**: **Abul Hasan** (Nadir-uz-Zaman), **Mansur** (Nadir-ul-Asr, birds) {1998, 2012, 2013, 2014, 2016}
+- **Tansen**: pupil of **Swami Haridas**; tomb at **Gwalior**; earlier patron Raja **Ramchandra of Rewa** {1999, 2009, 2010, 2019}
+@end
+
+@section 20.1 | Painting
+- Foundation of Mughal painting: **Humayun** {2009, 2010, 2012}
+- Statements on Mughal painting: **all** true {1991}
+- Jahangir mainly patronised **painting** {2016}
+- Jahangir's painters: **Abul Hasan and Aqa Riza** (2 and 3) {2012}
+- "**Nadir-uz-Zaman**": **Abul Hasan** {2013}
+- "**Nadir-ul-Asr**" and greatest bird painter: **Mansur** {1998, 2014}
+- Pahari, Rajput, Mughal, Kangra: styles of **painting** {1994}
+
+@flow Growth of Mughal painting
+Humayun | Brought Mir Sayyid Ali and Abdus Samad from Persia
+Akbar | Hamzanama; Daswanth, Basawan; tasvir khana
+Jahangir | Golden age: portraits, nature; Abul Hasan, Mansur
+Shah Jahan | Formal, decorative
+Aurangzeb | Court patronage ends; artists move to Rajput and Pahari courts
+@end
+
+@section 20.2 | Music
+- Haridas' followers set up **5** music centres (per key) {2009}
+- Akbar's Dhrupad singers: **Tansen and Haridas** (1 and 2) {2010}
+- **Tansen's tomb**: **Gwalior** {1999}
+- Tansen's patron before Akbar: **Raja Ramchandra** (Baghela) {2019}
+- Not a great name in Hindustani music: **Mal Gurjari** (a raga) {2021}
+- Learnt Hindu music from Lala Kalawant: **Akbar** {2016}
+- Aurangzeb played the **veena** {2007, 2010}
+
+@trap
+- Nadir-uz-Zaman = **Abul Hasan**; Nadir-ul-Asr = **Mansur**.
+- Mughal painting began under **Humayun**, not Akbar.
+- Tansen's tomb is at **Gwalior**; he sang at Fatehpur Sikri.
+- Aurangzeb ended court music but could play the veena.
+@end
+
+@up UP link: **Swami Haridas** lived at **Vrindavan** (Mathura), where Tansen is said to have learnt from him; **Fatehpur Sikri** had Akbar's painting workshops and Tansen's performances.
+
+@last
+- Humayun founded Mughal painting
+- Mir Sayyid Ali and Abdus Samad = Persian masters
+- Jahangir = golden age of painting
+- Abul Hasan = Nadir-uz-Zaman
+- Mansur = Nadir-ul-Asr, birds
+- Kangra and Basohli = Pahari schools
+- Haridas = Tansen's guru (Vrindavan)
+- Tansen buried at Gwalior; patron Ramchandra of Rewa
+- Akbar learnt from Lala Kalawant
+- Aurangzeb played the veena
+@end

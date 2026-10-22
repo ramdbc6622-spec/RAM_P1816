@@ -1,0 +1,75 @@
+@chapter 3 | Biodiversity, Its Loss and Conservation
+@unit UNIT II · BIODIVERSITY
+@meta Built from 29 UPPSC questions (2001–2023). Focus: meaning, tropical rainforests, Western Ghats and hotspots, habitat destruction, in-situ and ex-situ conservation.
+
+@hot
+- Biggest cause of biodiversity loss: **habitat destruction** {2002, 2015, 2016, 2017, 2023}
+- Maximum biodiversity: **tropical rainforests** {2012, 2014, 2016, 2018}
+- India's richest region: **Western Ghats**; Vindhyas are not a hotspot {2014, 2015, 2016, 2019}
+- Coral bleaching: **rising sea temperature** (global warming) {2012, 2015}
+@end
+
+@section 3.1 | Meaning and Distribution
+- Biodiversity: **range of species in an environment**; diverse plants and animals of an area {2014, 2014}
+- Term "biodiversity" first used by **Walter G. Rosen** (1985) {2013}
+- Most significant aspect: **maintaining the ecosystem** {2015}
+- UN decade 2011-20: **Biodiversity** {2012}
+- Most biodiversity: **tropical rainforest** {2012, 2014, 2016, 2018}
+- Not true: diversity **increases towards the poles** (it decreases) {2019}
+- Most butterflies in the tropics; they can't bear cold (R explains A) {2019}
+
+@section 3.2 | India and Hotspots
+- Richest biodiversity (of options): **Silent Valley**; Silent Valley is in **Kerala** {2003, 2008}
+- **Valley of Flowers**: **Uttarakhand** {2002}
+- Hotspot region (of options): **Andaman and Nicobar** (Sundaland) {2009}
+- Most biodiverse area: **Western Ghats** {2014, 2015, 2019}
+- Not a hotspot: **Vindhyas** {2016}
+
+@table
+India's hotspots | Area
+Himalaya | Indian Himalaya
+Indo-Burma | North-east India
+Western Ghats and Sri Lanka | Western Ghats
+Sundaland | Nicobar Islands
+@end
+
+@section 3.3 | Causes of Loss
+- Destruction due to **all** listed causes {2002}
+- Maximum danger: **habitat and vegetation destruction** {2017}
+- Main reason: **natural habitat destruction** {2015, 2016, 2023}
+- Bird decline: **habitat loss and pesticide use** (3 and 4) {2001}
+- Not adding biodiversity: **fewer trophic levels** {2015}
+- Coral bleaching: **rise in sea temperature**; **global warming** {2012, 2015}
+
+@section 3.4 | Conservation
+- Important strategy: **biosphere reserves** {2013}
+- Biosphere reserves conserve **genetic variation** {2004}
+- Not in-situ: **botanical garden** {2018}
+- Cryo-bank gas: **liquid nitrogen** (-196 °C) {2009}
+
+@flow Conservation methods
+In-situ | Biosphere reserves, national parks, sanctuaries, sacred groves, Ramsar sites
+Ex-situ | Zoos, botanical gardens, seed banks, cryo banks
+Cryo bank | Liquid nitrogen at -196 °C
+@end
+
+@trap
+- **Habitat destruction** beats pollution and hunting as the main cause.
+- **Botanical gardens, zoos** = ex-situ; **sacred groves** = in-situ.
+- **Vindhyas** are not a hotspot.
+@end
+
+@up UP's biodiversity sits mostly in the **Terai** (Dudhwa, Katarniaghat, Pilibhit) and the **Himalayan foothill** belt it shares with Uttarakhand; UP has no hotspot area of its own.
+
+@last
+- Term "biodiversity": **Walter G. Rosen**
+- UN Biodiversity Decade **2011-20**
+- Tropical rainforests richest; diversity falls toward poles
+- Western Ghats richest in India
+- Hotspots: Himalaya, Indo-Burma, W. Ghats, Sundaland
+- Silent Valley = Kerala; Valley of Flowers = Uttarakhand
+- Main loss cause: **habitat destruction**
+- Coral bleaching = warmer seas
+- Botanical garden = ex-situ
+- Cryo bank = liquid nitrogen
+@end

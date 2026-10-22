@@ -1,0 +1,506 @@
+@chapter 11 | National Parks
+
+@intro
+National-park questions are almost entirely **park-to-state** and **park-to-animal** matches. Learn Corbett (India's first park), Kaziranga (rhino), Gir (lion), Dachigam (hangul), Keibul Lamjao (the floating park), Eravikulam (Nilgiri tahr), the marine parks, and the state traps (Pin Valley, Bandipur, Similipal). India has about **107 national parks**, with **Madhya Pradesh** having the most. **Dudhwa** is UP's only national park. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 11.1 | First Parks and Landmarks
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following is the first National Park established in India?
+(a) Chandoli National Park
+(b) Jim Corbett National Park
+(c) Gir Forest National Park
+(d) Dudhwa National Park
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The Corbett National Park gets its water from
+(a) Alaknanda river
+(b) Ramganga river
+(c) Dhauliganga river
+(d) Sarda River
+@ans (b)
+@end
+
+**Corbett** began as **Hailey National Park (1936)**, was renamed Ramganga National Park (1954-55) and then Corbett (1956), after the hunter-naturalist **Jim Corbett**. It lies in Nainital and Pauri (then UP, now **Uttarakhand**) along the **Ramganga**, and **Project Tiger** was launched there in **1973**. The world's first national park was **Yellowstone (USA, 1872)**.
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Spl) (Mains) 2004; U.P.P.C.S. (GIC) 2010
+The Yellowstone National Park is located in
+(a) Canada
+(b) New Zealand
+(c) South Africa
+(d) The U.S.A.
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Arrange the following National Parks in their chronological order from the earliest to the latest and select the correct answer from codes given below the parks:
+1. Silent Valley
+2. Jim Corbett
+3. Kaziranga
+4. Kanha
+Codes :
+(a) 1, 3, 2, 4
+(b) 4, 2, 1, 3
+(c) 3, 1, 4, 2
+(d) 2, 4, 3, 1
+@ans (d)
+@end
+
+Dates as **national parks**: **Corbett 1936**, **Kanha 1955**, **Kaziranga 1974** (a reserve forest since 1905), **Silent Valley 1984**.
+
+@pyq U.P. P.C.S. (Pre) 2023
+Maintenance of genetic diversity in National Parks is done by :
+(a) In-situ conservation
+(b) Ex-situ conservation
+(c) Gene pool
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P. Lower Sub. (Pre) 2004
+Select the State from amongst the following, with the maximum number of National Park–
+(a) Uttar Pradesh
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2021
+With reference to 'National Parks and Wildlife Sanctuaries in India', the following statements is/are correct: 1. Highest number of national parks are in Madhya Pradesh. 2. Highest number of wildlife sanctuaries are in the Andaman and Nicobar island.
+@ans Both (1) and (2) are correct
+@end
+
+@section 11.2 | Park and State
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P. Lower Sub. (Pre) 2002
+The Rajiv Gandhi National Park is located in:
+(a) Andhra Pradesh
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) Karnataka
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Keibul Lamjao National Park is located in which lake?
+(a) Dal
+(b) Kolleru
+(c) Loktak
+(d) Wular
+@ans (c)
+@end
+
+**Keibul Lamjao** (Manipur) is the world's only **floating national park**, made of floating mats of vegetation called **phumdis** on **Loktak Lake**. It is the last home of the **sangai** (brow-antlered deer), Manipur's state animal.
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following is not correctly matched?
+National Park - State
+(a) Bandipur Karnataka
+(b) Rajaji Uttarakhand
+(c) Similipal Odisha
+(d) Pin Valley Jammu and Kashmir
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following pairs (National Park - State/Union Territory) is not correctly matched?
+(a) Rajaji – Uttarakhand
+(b) Pin Valley – Jammu and Kashmir
+(c) Bandipur – Karnataka
+(d) Simlipal – Odisha
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following pairs is NOT correctly matched?
+(a) Bandipur National Park - Karnataka
+(b) Manas Wildlife Sanctuary - Assam
+(c) Periyar Wildlife Sanctuary - Kerala
+(d) Similipal National Park - Madhya Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following is not correctly matched?
+(a) Kaziranga National Park Assam
+(b) Corbett National Park Uttarakhand
+(c) Bandipur National Park Tamil Nadu
+(d) Sanjay National Park Madhya Pradesh
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Consider the following statements and select the correct answer from codes given below –
+1. Similipal National Park is situated in Odisha.
+2. Thailand was known as Siam during ancient time.
+3. Astadiggajas was the gem of the court of Shivaji
+4. Astachap was a group of devotees who were a disciple of Adi Shankara.
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) All four
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Match List-I to List-II and select the correct answer as per the given codes –
+@match
+List -I (National Park) | List -II (State)
+A. Bandhavgarh National Park | 1. Himachal Pradesh
+B. Bandipur National Park | 2. Gujarat
+C. Rohla National Park | 3. Madhya Pradesh
+D. Gir National Park | 4. Karnataka
+@endmatch
+Codes : A B C D
+(a) 3 4 1 2
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 3 2 1 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Match the following List- I with List- II and select the correct answer from codes given below the lists:
+@match
+List- I (States) | List- II (National Park)
+A. Uttarakhand | 1. Bandipur
+B. Assam | 2. Rajaji National Park
+C. Odisha | 3. Similipal
+D. Karnataka | 4. Manas
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 4 3 1
+(c) 4 3 2 1
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Match List – I with List – II and select the correct answer from codes given below :
+@match
+List – I | List – II
+A. Dochigam | 1. Andhra Pradesh
+B. Papikonda | 2. Jammu and Kashmir
+C. Sariska | 3. Rajasthan
+D. Bandipur | 4. Karnataka
+@endmatch
+Codes : A B C D
+(a) 3 1 2 4
+(b) 2 1 3 4
+(c) 1 2 4 3
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (State) | List-II (National Park)
+A. Assam | 1. Kaziranga
+B. Gujarat | 2. Kanha
+C. Madhya Pradesh | 3. Corbett
+D. Uttarakhand | 4. Gir
+@endmatch
+Codes : A B C D
+(a) 3 2 4 1
+(b) 2 4 1 3
+(c) 1 3 2 4
+(d) 1 4 2 3
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which one of the following is located in Chhattisgarh?
+(a) Anshi National Park
+(b) Betla National Park
+(c) Indravati National Park
+(d) Gugamal National Park
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following is located in the Bastar region?
+(a) Bandhavgarh National Park
+(b) Dandeli Sanctuary
+(c) Rajaji National Park
+(d) Indravati National Park
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (National Parks) | List-II (States)
+A. Intanki | 1. Jharkhand
+B. Betla | 2. Tamil Nadu
+C. Sirohi | 3. Nagaland
+D. Guindy | 4. Manipur
+@endmatch
+Codes : A B C D
+(a) 2 1 3 4
+(b) 4 3 2 1
+(c) 3 1 4 2
+(d) 3 4 1 2
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (Pre) 2020
+Match List–I with List–II and select the correct answer using the codes given below the lists :
+@match
+List–I (National Parks) | List-II (States)
+A. Indravati | 1. Jharkhand
+B. Mollem | 2. Haryana
+C. Kalesar | 3. Goa
+D. Betva | 4. Chhattisgarh
+@endmatch
+Codes : A B C D
+(a) 4 3 2 1
+(b) 4 2 3 1
+(c) 4 1 3 2
+(d) 3 4 2 1
+@ans (*)
+@note A, B and C fit code (a): Indravati is in Chhattisgarh, Mollem in Goa and Kalesar in Haryana. "**Betva**" is not a national park. The Jharkhand park is **Betla**. Because of this misprint the source marks the question (*). Read "Betla" as Jharkhand and the answer is (a).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following pairs is correctly matched?
+(a) Great Himalayan National Park Manali
+(b) Rajaji National Park Dehradun
+(c) Keoladeo National Park Bharatpur
+(d) Van Vihar National Park Jabalpur
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Match List - I with List - II and select the correct answer using codes given below the lists:
+@match
+List- I (National Park) | List II (Location)
+A. Kaziranga | 1. Chikmagalur
+B. Kudremukh | 2. Palghat
+C. Silent Valley | 3. Nagpur
+D. Pench Valley | 4. Golaghat-Nawgaon
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 4 1 2 3
+(c) 2 4 1 3
+(d) 1 3 4 2
+@ans (*)
+@note Code (b) gives the intended pairs: Kaziranga in Golaghat-Nagaon, Kudremukh in Chikmagalur, Silent Valley in Palakkad (Palghat) and Pench (Maharashtra side) near Nagpur. The main **Pench** park is in **Seoni and Chhindwara (MP)**, which makes pair D doubtful, so the source marks the question (*).
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Dhoopgarh Peak is situated in which of the following National Parks?
+(a) Satpura National Park
+(b) Kanha National Park
+(c) Bandhavgarh National Park
+(d) Madhav National Park
+@ans (a)
+@end
+
+@table
+National park | State | Known for
+**Corbett** | Uttarakhand | India's first (1936); tiger; Ramganga
+Rajaji | Uttarakhand | Elephant, tiger
+**Dudhwa** | **Uttar Pradesh** | Swamp deer, **rhino rehabilitation**, tiger
+**Kaziranga** | Assam | **One-horned rhino**; UNESCO site
+Manas | Assam | Tiger, elephant, pygmy hog; UNESCO site
+**Gir** | Gujarat | **Asiatic lion**
+**Keoladeo (Ghana)** | Rajasthan (Bharatpur) | Birds; **Siberian crane** (once); UNESCO site
+Sariska, Ranthambore | Rajasthan | Tiger
+Kanha, Bandhavgarh, Pench, Satpura, Panna, Sanjay, Madhav, Van Vihar (Bhopal) | Madhya Pradesh | Kanha: barasingha; Satpura: **Dhoopgarh** peak
+Indravati | Chhattisgarh (Bastar) | Wild buffalo, tiger
+Similipal | **Odisha** | Tiger, melanistic tigers
+Bandipur, Nagarhole (**Rajiv Gandhi NP**), Kudremukh, Anshi | Karnataka | Tiger, elephant
+Periyar, **Eravikulam**, Silent Valley | Kerala | Elephant / **Nilgiri tahr** / lion-tailed macaque
+Guindy, Gulf of Mannar | Tamil Nadu | Blackbuck (in Chennai city) / marine
+**Dachigam** | Jammu and Kashmir | **Hangul** (Kashmir stag)
+Great Himalayan, **Pin Valley**, Rohla | **Himachal Pradesh** | Snow leopard, ibex
+**Keibul Lamjao**, Shiroi | Manipur | Sangai; floating park
+Intanki | Nagaland | Hoolock gibbon
+Betla | Jharkhand | Elephant, tiger
+Mollem | Goa | -
+Kalesar | Haryana | -
+Papikonda | Andhra Pradesh | Godavari gorge
+@end
+
+@section 11.3 | Parks and Their Animals
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following sanctuaries is not correctly matched with the specified protected species?
+(a) Jim Corbett Tiger
+(b) Ghana Lion
+(c) Kaziranga Rhinoceros
+(d) Periyar Elephants
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Match List-I with List-II and select the correct answer from codes given below the Lists:
+@match
+List-I (Sanctuary / National Park) | List-II (Main Protected Animal)
+A. Kaziranga | 1. Tiger
+B. Gir | 2. Elephant
+C. Sundarban | 3. Lion
+D. Periyar | 4. Rhinoceros
+@endmatch
+Codes : A B C D
+(a) 1 4 3 2
+(b) 2 4 1 3
+(c) 4 3 1 2
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following is not correctly matched?
+(a) Rajaji National Park : Elephant
+(b) Periyar National Park : Hangul
+(c) Manas National Park : Elephant
+(d) Dudhwa National Park : Tiger
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Dachigam National Park is associated with which of the following?
+(a) Musk Deer
+(b) Golden Oriole
+(c) Yellow-Throated Marten
+(d) Hangul or Kashmir Stag
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2022
+Hangul Deer is found in which part of India?
+@ans Jammu and Kashmir
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004; U.P.P.C.S. (Pre) 2022
+In which of the following National Parks of India Rhinoceros rehabilitation is being done?
+(a) Corbett National Park
+(b) Dudhwa National Park
+(c) Kanha National Park
+(d) Kaziranga National Park
+@ans (b)
+@end
+
+@up UP link: **Dudhwa National Park** (Lakhimpur Kheri, 1977), UP's only national park, runs India's first **rhino rehabilitation** programme. One-horned rhinos were brought from Assam and Nepal in **1984** to a fenced area, and the herd has since grown to about 40. Dudhwa, with the **Kishanpur** and **Katarniaghat** sanctuaries, forms the **Dudhwa Tiger Reserve**, home to the **swamp deer (barasingha)**, Bengal florican and gharial (in the Girwa river at Katarniaghat).
+
+@pyq U.P.P.C.S. (Pre) 1996; U.P.P.S.C. (GIC) 2010
+Which one of the following States has the ideal habitat for the Siberian crane?
+(a) Rajasthan
+(b) Arunachal Pradesh
+(c) Andhra Pradesh
+(d) Odisha
+@ans (a)
+@end
+
+The **Siberian crane** wintered at **Keoladeo** (Bharatpur) until **2002**. The western population is now considered locally extinct in India.
+
+@pyq U.P.P.C.S. (Mains) 2005
+The "Cloud Goats" of the Nilgiri are found in
+(a) Eravikulam National Park
+(b) Mann Forest
+(c) Periyar Reserve
+(d) Silent Valley
+@ans (a)
+@end
+
+@section 11.4 | Marine Parks and Miscellany
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following is a marine national park?
+(a) Bhitar-Kanika
+(b) Sundarban
+(c) Gahirmatha
+(d) Gulf of Mannar
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013, 2016
+India's Oceanic National Park is located in–
+(a) Kutch
+(b) Sundarban
+(c) Chilika Lake
+(d) Nicobar Islands
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Rani Jhansi Maritime National Park was founded in
+(a) 1994
+(b) 1995
+(c) 1996
+(d) 1997
+@ans (c)
+@end
+
+India's **first marine national park** was in the **Gulf of Kutch** (Jamnagar, Gujarat, 1980-82). The others are the **Gulf of Mannar** (Tamil Nadu, 1980), **Mahatma Gandhi Marine NP** (Wandoor, A&N, 1983) and **Rani Jhansi Marine NP** (Ritchie's Archipelago, A&N, 1996).
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The UNESCO declared which one of the following National Park of India as the World Heritage Site in July, 2016?
+(a) Kaziranga National Park
+(b) Kanchanjunga (Khangchengtzonga National Park)
+(c) Corbett National Park
+(d) Valley of Flowers National Park
+@ans (b)
+@end
+
+**Khangchendzonga National Park** (Sikkim, 2016) is India's only **"mixed"** World Heritage Site, listed for both its nature and its culture. India's natural WHS: Kaziranga, Manas, Keoladeo, Sundarbans, Nanda Devi and Valley of Flowers, Great Himalayan NP, the Western Ghats and Khangchendzonga.
+
+@pyq U.P.P.C.S. (Mains) 2014
+National Biological Garden of India is situated in –
+(a) Mumbai
+(b) Lucknow
+(c) New Delhi
+(d) Bengaluru
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In India, Project Elephant was launched in the year –
+(a) 1968
+(b) 1970
+(c) 1972
+(d) 1974
+@ans (*)
+@note **Project Elephant** was launched in **February 1992**, which is not among the options, so the source marks the question (*). India has **33 elephant reserves**, and the **2017 census** counted about **29,964** elephants.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The garden of five seasons is located near –
+(a) Dal Lake
+(b) Mehrauli
+(c) Silent Valley
+(d) Ooty
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following countries has more than 30% of its total area under National Parks?
+(a) Israel
+(b) Bhutan
+(c) Iceland
+(d) Gabon
+@ans (b)
+@end
+
+@trap
+These park-state pairs are the commonest traps: **Pin Valley = Himachal**, not J&K. **Bandipur = Karnataka**, not Tamil Nadu. **Similipal = Odisha**, not MP. **Indravati = Chhattisgarh (Bastar)**. **Keoladeo = birds**, not lions. **Periyar = elephant and tiger**, not hangul. **Rajiv Gandhi NP = Nagarhole (Karnataka).** The first marine park is in the **Gulf of Kutch**.
+@end
+
+@heatmap
+
+@pattern
+This is one of the heaviest topics in the book (39 PYQs). Most questions are **park-state matches**, and the same few traps recur (Pin Valley, Bandipur, Similipal), including in the 2016, 2018 and 2024 papers. Park-animal pairs (Kaziranga rhino, Gir lion, Dachigam hangul, Eravikulam tahr) come next. Learn the master table above row by row.
+@end
+
+@next
+Likely next angles: **Madhav NP** becoming MP's tiger reserve (2025), **Kuno** and **Gandhi Sagar** (cheetahs), **Dudhwa**'s rhino count, new national parks such as **Dihing Patkai** and **Raimona** (Assam, 2021), the **Sangai** in Keibul Lamjao, and the **Great Nicobar** project's effect on Galathea Bay.
+@end

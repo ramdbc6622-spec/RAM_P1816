@@ -1,0 +1,91 @@
+@chapter 10 | Rivers of the World
+@meta Built from 33 UPPSC questions (1992–2025). Focus: Congo and Limpopo, Nile, Asian rivers and their outflows, Rhine and Mississippi, city-river matching.
+
+@hot
+- **City-river matching**: Berlin-Spree, Rome-Tiber, Paris-Seine, London-Thames, Hamburg-Elbe, Antwerp-Scheldt, Rotterdam-Rhine, Vienna-Danube, Kinshasa and Brazzaville-Congo, Asuncion-Paraguay, Basra-Shatt al-Arab, Niamey-Niger {1998, 1999, 2002, 2004, 2004, 2009, 2015, 2015, 2016, 2016, 2017, 2019, 2025}
+- **Congo (Zaire)** crosses the Equator twice; **Limpopo** crosses the Tropic of Capricorn twice {2010, 2015}
+- **Mississippi**: source **Lake Itasca**; **bird's-foot** delta {2015, 2018}
+- **Rhine**: rift valley; **Rotterdam** at its mouth {1998, 2021, 2023}
+@end
+
+@section 10.1 | Africa
+- Crosses the Equator twice: **Zaire (Congo)** {2015}
+- Crosses the Tropic of Capricorn twice: **Limpopo** {2010}
+- Not in the Nile basin: **Chad** {2013}
+- **Blue Nile** rises in **Lake Tana** {2016}
+- Egypt "gift of the Nile", an oasis in the Sahara (R explains A) {2005}
+
+@flow The Nile
+White Nile | From Lake Victoria
+Blue Nile | From Lake Tana (Ethiopia); most silt
+Khartoum | Confluence (Sudan)
+Aswan High Dam | Lake Nasser, Egypt
+Delta | Arcuate, on the Mediterranean
+@end
+
+@section 10.2 | Asia and Europe
+- Largest river of Asia: **Yangtze** {2016}
+- Flows south: **Salween** {2010}
+- Wrong: **Mekong-south-west** (it flows south/south-east) {2024}
+- **Lena-Arctic, Amur-Pacific, Tigris-Persian Gulf, Mahi-Arabian Sea** {2016}
+- Mekong rises in **Tibet** (true); delta in southern Cambodia (false, it is **Vietnam**) {2021}
+- **Volga** falls into the **Caspian Sea** {1992}
+- Rhine statements: only 2 correct; **Rotterdam at its mouth** (only 2) {2021, 2023}
+- Rift-valley river: **Rhine** {1998}
+- Wrong: **Rhone-Spain** (Rhone = France/Switzerland) {2008}
+- Best radial drainage: **Sri Lanka**; **Mahaweli Ganga** = Sri Lanka {2008, 2013}
+- **Chisapani Gorge**: **Nepal** (Karnali) {2015}
+- **Nobi and Kanto** plains: **Japan** {2021}
+
+@section 10.3 | Americas
+- **Lake Itasca**: source of the **Mississippi** {2015}
+- Bird's-foot delta: **Mississippi** {2018}
+- USA-Mexico border river: **Rio Grande** (key also Colorado) {2023}
+
+@section 10.4 | Cities and Rivers
+- Wrong: **New Orleans-Missouri** (Mississippi) and **Hyderabad-Paleru** (Musi) {2025}
+- **Shatt al-Arab-Basra, Paraguay-Asuncion, Niger-Niamey, Danube-Vienna** {2016}
+- **Paris-Seine, Kinshasa-Congo, Bangkok-Chao Phraya, Asuncion-Paraguay** {2019}
+- Wrong: **Sydney-Seine** {2015}
+- **Berlin-Spree, Lahore-Ravi, New York-Hudson, Rome-Tiber** {1999, 2002}
+- Wrong: **Vienna-Volga** (Danube) {1998, 2004, 2016}
+- Correct: **Hamburg-Elbe** {2004}
+- **Potomac-USA, Nile-Sudan, Tigris-Iraq, Thames-England** {2003}
+- Wrong: **Lisbon-Tiber** (Tagus) {2009}
+- **London-Thames, Antwerp-Scheldt, Rotterdam-Rhine, Hamburg-Elbe** {2015}
+- **Khartoum-Nile, Brazzaville-Congo, Rotterdam-Rhine, Paris-Seine** {2017}
+
+@table
+City | River
+London / Paris / Rome | Thames / Seine / Tiber
+Berlin / Hamburg | Spree / Elbe
+Vienna, Budapest, Belgrade | Danube
+Lisbon / Warsaw | Tagus / Vistula
+Kinshasa, Brazzaville | Congo
+Bamako, Niamey | Niger
+Baghdad / Basra | Tigris / Shatt al-Arab
+Bangkok | Chao Phraya
+New York / Washington | Hudson / Potomac
+Asuncion | Paraguay
+@end
+
+@trap
+- **Vienna** is on the Danube, not the Volga; **Lisbon** on the Tagus, not the Tiber.
+- Mekong delta is in **Vietnam**, not Cambodia.
+- **Bird's foot** = Mississippi; **arcuate** = Nile, Ganga.
+@end
+
+@up UP link: India's **Ganga** forms an arcuate delta (with the Brahmaputra); the 2025 question used **Hyderabad-Musi** as a home trap. Varanasi is UP's Ganga city, as Vienna is the Danube's.
+
+@last
+- Congo crosses Equator twice; Limpopo crosses Capricorn twice
+- Blue Nile from **Lake Tana**; meets White Nile at **Khartoum**
+- Yangtze = Asia's largest; Volga → Caspian
+- Lena → Arctic; Amur → Pacific; Tigris → Persian Gulf
+- Rhine: rift valley; Rotterdam at mouth
+- Mississippi: Itasca; bird's-foot delta
+- Rio Grande = USA-Mexico border
+- Sri Lanka = radial drainage (Mahaweli)
+- Kinshasa, Brazzaville = Congo
+- Berlin-Spree; Hamburg-Elbe; Antwerp-Scheldt
+@end

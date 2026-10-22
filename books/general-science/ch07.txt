@@ -1,0 +1,427 @@
+@chapter 7 | Waves and Sound
+
+@intro
+This chapter has two parts. **Electromagnetic waves**: the order of the spectrum by frequency, radio waves and the ionosphere, microwaves for communication, why dish TV fails in rain and why TV signals have a limited range. **Sound**: its need for a medium and its speed in solids, liquids and gases, echo and reverberation, **ultrasound** (bats, cleaning, medicine), noise limits in decibels, and the remote control and FM sound of television. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 7.1 | The Electromagnetic Spectrum
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Consider the following and arrange these in increasing order of frequency :
+I. X-rays
+II. Visible rays
+III. Infrared rays
+IV. Radio waves
+Select the correct answer using the code given below :
+Code :
+(a) III, II, I, IV
+(b) I, II, III, IV
+(c) II, III, IV, I
+(d) IV, III, II, I
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Arrange the following electromagnetic radiations in decreasing order of their frequencies:
+1. Gamma rays
+2. Ultraviolet rays
+3. Radio waves
+4. X-rays
+Choose the correct answer from the code given below:
+Code:
+(a) 1, 4, 3, 2
+(b) 4, 1, 2, 3
+(c) 1, 4, 2, 3
+(d) 4, 1, 3, 2
+@ans (c)
+@end
+
+@table
+Radiation (rising frequency, falling wavelength) | Typical wavelength | Uses
+**Radio waves** | Metres to km | Radio, TV broadcast, mobile phones (UHF)
+**Microwaves** | mm to 30 cm | **Satellite and mobile communication**, radar, microwave ovens, Wi-Fi
+**Infrared** | 780 nm - 1 mm | **TV remote**, night vision, heat lamps, thermal imaging
+**Visible light** | 390-780 nm | Sight, optical fibre
+**Ultraviolet** | 10-390 nm | Sterilising water, forming vitamin D, detecting forged notes
+**X-rays** | 0.01-10 nm | Radiography, **CT scan**, airport baggage scanners
+**Gamma rays** | Below 0.01 nm | Cancer therapy, sterilising medical equipment, food irradiation
+@end
+
+All electromagnetic waves travel at the speed of light in vacuum; they differ only in frequency and wavelength. Energy rises with frequency, so **gamma rays** are the most energetic and penetrating.
+
+@pyq U.P. P.C.S. (Pre) 1991; U.P. Lower Sub. (Pre) 1998
+Long radio waves are reflected by which of the following layer of Earth's surface –
+(a) Troposphere
+(b) Ionosphere
+(c) Tropopause
+(d) Stratosphere
+@ans (b)
+@end
+
+
+@one
+Wireless signals are reflected back to the Earth's surface by the
+@ans ionosphere
+@end
+
+The **ionosphere** (about 80-600 km) holds charged layers that reflect **medium and short radio waves**, which lets short-wave radio reach other continents. TV and FM signals (VHF/UHF) pass through it, so they work only up to the **horizon**: the Earth's curvature limits range, which is why TV towers are tall and satellites are used for long distances.
+
+@pyq U.P. P.C.S. (Pre) 2022
+The Earth's atmosphere is mainly heated by which one of the following?
+(a) Scattered solar radiation
+(b) Shortwave solar radiation
+(c) Longwave terrestrial radiation
+(d) Reflected solar radiation
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following statements is not true about cosmic rays?
+(a) They are electromagnetic waves.
+(b) They have very short wavelength.
+(c) They are made of highly energetic charged particles.
+(d) They originate from the Sun
+@ans (a)
+@end
+
+
+The Sun's **short-wave** radiation passes through the air and heats the ground; the ground then radiates **long-wave (infrared) terrestrial radiation**, which the air, water vapour and CO_{2} absorb. So the atmosphere is heated mainly **from below**. **Cosmic rays** are not electromagnetic waves but high-energy **charged particles** (mostly protons) from the Sun and distant supernovae.
+
+@pyq U.P.P.C.S. (Mains) 2013
+Waves used for telecommunication are –
+(a) Visible light
+(b) Infrared
+(c) Ultraviolet
+(d) Microwave
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Television viewers using dish antenna to receive satellite signals do not receive signals during rain because :
+1. of small size of antenna.
+2. rain droplets absorb the energy of radio waves.
+3. rain droplets disperse the energy of radio waves from their original direction.
+Which of the above statements are correct?
+(a) only 1
+(b) only 1 and 2
+(c) only 2 and 3
+(d) 1, 2, and 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994; U.P.P.S.C. (GIC) 2010
+Television signals cannot be received beyond a certain distance because :
+(a) Signals are weak
+(b) Antenna is weak
+(c) Air absorbs signals
+(d) The surface of the Earth is curved
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+CT Scan is done by using –
+(a) Infrared Rays
+(b) Ultrasonic Waves
+(c) Visible Light
+(d) X-Rays
+@ans (d)
+@end
+
+
+Satellite TV uses microwaves of a few centimetres. **Heavy rain** both **absorbs** and **scatters** them ("rain fade"), and a small dish has little margin to compensate, so all three statements are accepted. A **CT (computed tomography) scan** builds cross-sections from many **X-ray** images; MRI uses magnetic fields and radio waves, and ultrasonography uses sound.
+
+@section 7.2 | Propagation and Speed of Sound
+
+@pyq U.P. P.C.S. (Pre) 2018; U.P. Lower (Spl) (Pre) 2008
+The sound will have the highest velocity in :
+(a) Vacuum
+(b) Air
+(c) Water
+(d) Steel
+@ans (d)
+@end
+
+@one
+If (Va), (Vw), and (Vs) are the speeds of sound in air, water, and steel respectively, then
+@ans (Va < Vw < Vs)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Sound waves :
+(a) Can travel in vacuum.
+(b) Can travel only in solid.
+(c) Can travel only in gases.
+(d) Can travel both in solid and gaseous medium.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990, 2014
+In which of the following options sound may not be across/travel?
+(a) Solid
+(b) Liquid
+(c) Gas
+(d) Vacuum
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+Two astronauts cannot hear each other on the Moon's surface, because :
+(a) Their ears have stopped working on the Moon.
+(b) No atmosphere on the Moon.
+(c) They wear special space suits on the Moon.
+(d) The sound travels much more slowly on Moon.
+@ans (b)
+@end
+
+
+@one
+An astronaut cannot hear his companion on the Moon's surface because
+@ans there is no medium for the transmission of sound.
+@end
+
+@table
+Medium | Speed of sound (approx.)
+Vacuum | Zero: sound cannot travel
+Air (0°C) | 332 m/s (about 343 m/s at 20°C)
+Water | About 1,480 m/s
+**Steel** | About 5,000-6,000 m/s
+@end
+
+Sound is a **mechanical, longitudinal** wave that needs a medium, so it travels **fastest in solids**, slower in liquids and slowest in gases (**V_{air} < V_{water} < V_{steel}**). Its speed in air **rises with temperature** and humidity but does not depend on pressure. Astronauts on the airless Moon talk by radio.
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): Voices of men and women are different.
+Reason (R) : Length and thickness of vocal cord is different in men and women.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+
+**Pitch** depends on **frequency**. Men's vocal cords are usually **longer and thicker** and vibrate more slowly, so their voices are deeper; women's and children's voices have higher pitch. **Loudness** depends on amplitude and **quality (timbre)** on the overtones present.
+
+@section 7.3 | Echo, Reverberation and Ultrasound
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002, 2003
+Assertion (A) : Reverberation mainly feels in large churches and in other large buildings.
+Reason (R) : The walls, roof and ground may cause multiple sound reflections.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2007
+The walls of the hall, built for music concerts should :
+(a) Amplify sound
+(b) Transmit sound
+(c) Reflect sound
+(d) Absorb sound
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+To hear a clear echo, the minimum distance between the reflecting surface and the observer should be :
+(a) 165 feet
+(b) 165 metre
+(c) 16.5 feet
+(d) 16.5 metre
+@ans (d)
+@end
+
+The ear keeps a sound for about **1/10 second**, so an echo is heard separately only if it returns at least 0.1 s later. In 0.1 s sound travels about 33-34 m, there and back, so the wall must be at least **about 17 m** away (16.5 m at 0°C). **Reverberation** is the persistence of sound in a hall from repeated reflections; concert halls use **sound-absorbing** curtains, carpets, panels and false ceilings to control it.
+
+@pyq U.P.P.C.S. (Mains) 2004
+Consider the following statements about ultrasonic waves :
+1. They can destroy insects.
+2. They can clean clothes by removing dust.
+3. They can be used to treat diseases.
+4. They can control automatic doors.
+Of the above statements
+(a) 1 and 2 are correct
+(b) 3 and 4 are correct
+(c) 1, 2 and 3 are correct
+(d) All are correct
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Ultrasonics are sound waves of frequency :
+(a) Greater than 20,000 Hz
+(b) Less than 10,000 Hz
+(c) Equal to 1000 Hz
+(d) None of these
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Bats can fly during dark nights and also prey. This is because :
+(a) The pupil of their eyes is large.
+(b) Their night vision is very good.
+(c) Every bird can do this.
+(d) They produce ultrasonic waves and are guided by them.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Consider the following statements :
+1. The heart vibrates at infrasonic.
+2. The speed of sound is more in gas than in liquid and solid.
+3. Mach number is used to describe the speed of sound.
+4. Ultrasonic sound has frequency more than 20,000 Hz .
+Of these statements :
+(a) 1, 2 and 3 are correct
+(b) 2, 3 and 4 are correct
+(c) 1, 3 and 4 are correct
+(d) 1, 2 and 4 are correct
+@ans (c)
+@end
+
+
+@table
+Sound | Frequency | Examples
+**Infrasonic** | Below 20 Hz | Earthquakes, heartbeat, elephants and whales communicating
+**Audible** | 20 Hz - 20,000 Hz | Human hearing
+**Ultrasonic** | Above 20,000 Hz | **Bats** (echolocation), dolphins, dog whistles, **SONAR**, ultrasonography, kidney-stone breaking, ultrasonic cleaning, detecting flaws in metals
+@end
+
+**Mach number** describes the speed of a body compared with sound, not the speed of sound itself; statement 2 is also false because sound is fastest in solids. The source's key (c) treats statement 3 as correct, reading it loosely as "used to express speeds in terms of sound".
+
+@section 7.4 | Noise Limits
+
+@pyq U.P.P.C.S. (Mains) 2010
+As per the WHO, the safe noise level for a city is –
+(a) 45 dB
+(b) 50 dB
+(c) 55 dB
+(d) 60 dB
+@ans (a)
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2022
+In the context of permissible noise levels match List-I with List-II and select the answer from the code given below the lists.
+@match
+List-I (Area) | List-II (Permissible Noise Level)
+A. Residential area | 1. 50 dB
+B. Silent zone | 2. 55 dB
+C. Industrial area | 3. 65 dB
+D. Commercial area | 4. 70 dB
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 1 2 3 4
+(c) 2 1 3 4
+(d) 2 1 4 3
+@ans (d)
+@end
+
+@table
+Area (Noise Pollution Rules, 2000) | Day limit dB(A) | Night limit dB(A)
+Industrial | 75 | 70
+Commercial | 65 | 55
+Residential | 55 | 45
+**Silence zone** (100 m around hospitals, schools, courts) | 50 | 40
+@end
+
+The rules set the industrial day limit at 75 dB; the question's 70 dB is the nearest option. Night is 10 pm to 6 am. **Loudspeakers** need permission and are banned at night except in a few notified cases.
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P.P.C.S. (Mains) 2008
+Sound above what level (in decibels) is considered hazardous noise pollution?
+(a) 30 dB
+(b) 100 dB
+(c) 80 dB
+(d) 120 dB
+@ans (c)
+@end
+
+
+The **decibel** scale is logarithmic: every **10 dB** means ten times the intensity. A whisper is about 30 dB, conversation 60 dB, heavy traffic 80-90 dB and a jet take-off 120-140 dB (pain threshold about 120 dB). Long exposure above **85 dB** can cause permanent hearing loss.
+
+@section 7.5 | Musical Instruments, Remote Controls and Television
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+In a Sitar, which type of sound vibrations are produced?
+(a) Progressive and Longitudinal
+(b) Progressive and Transverse
+(c) Stationary and Longitudinal
+(d) Stationary and Transverse
+@ans (d)
+@end
+
+
+A plucked sitar or guitar string vibrates in **stationary (standing), transverse** waves; the air column of a flute vibrates in stationary **longitudinal** waves.
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following does a TV remote control unit use to operate a TV set ?
+(a) Light waves
+(b) Sound waves
+(c) Microwaves
+(d) Radio waves
+@ans (d)
+@note The source keys **radio waves**, but most TV remotes use **infrared** light (an IR LED), as the next question shows. Some newer set-top-box and smart-TV remotes use radio (Bluetooth or RF). If both appear, choose infrared.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2002, 2010, 2013; U.P. U.D.A./L.D.A. (Pre) 2010
+Which type of electromagnetic radiation is used in the remote control of a television?
+(a) Infrared
+(b) Ultraviolet
+(c) Visible
+(d) None of the above
+@ans (a)
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2007
+When T.V. is switched on :
+(a) Audio and video both start simultaneously
+(b) Audio is heard immediately but video starts later because video needs some warm up time
+(c) Video starts immediately but audio is heard later because sound travels at a lesser speed than light
+(d) It depends on the T.V. brand
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The technique used to transmit audio signals in television broadcasts is :
+(a) Amplitude Modulation
+(b) Frequency Modulation
+(c) Pulse Code Modulation
+(d) Time Division Multiplexing
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The technique used to transmit audio signals in television broadcast is –
+(a) Amplitude modulation
+(b) Pulse code modulation
+(c) Frequency modulation
+(d) Time dimension multiplication.
+@ans (c)
+@end
+
+
+Analogue TV sent **picture by amplitude modulation (AM)** and **sound by frequency modulation (FM)**, which resists noise. India's terrestrial TV (Doordarshan) has since shifted largely to digital (DVB-T2) and free-dish satellite broadcasting.
+
+@trap
+**Radio < microwave < infrared < visible < UV < X-ray < gamma** in frequency. **Cosmic rays are particles**, not EM waves. The atmosphere is heated by **long-wave terrestrial** radiation. Sound is fastest in **steel**, and cannot travel in vacuum. Echo needs **about 17 m**. Ultrasound is **above 20 kHz**. TV remotes use **infrared**. Silence zone limit = **50 dB** by day.
+@end
+
+@heatmap
+
+@pattern
+Sound questions are old favourites (medium, speed, echo, bats, ultrasound) that keep returning. The newest papers (2021-2025) shifted to the **electromagnetic spectrum order**, **noise rules** and **Assertion-Reason** on the human voice, so learn the spectrum by frequency in both directions.
+@end
+
+@next
+Likely next angles: **5G** frequency bands (millimetre waves), **Li-Fi**, **Doppler effect** in sound (police radar guns, ambulance siren), **sonic boom**, **noise-cancelling** headphones, the **Central Pollution Control Board**'s noise monitoring network, **hydrophones**, and **terahertz** waves in security scanners.
+@end

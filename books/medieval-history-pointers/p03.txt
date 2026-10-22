@@ -1,0 +1,67 @@
+@chapter 3 | Khalji Dynasty
+@meta Built from 15 UPPSC questions (1992–2022). Focus: Alauddin's titles, conquests and their order, Malik Kafur's Deccan raids, the Mongol frontier, land revenue by measurement, new taxes and market control.
+
+@hot
+- **Alauddin Khalji's market control** (price control, an early "public distribution system"), highly successful in Delhi {1992, 1998, 2004, 2005, 2010, 2010, 2017}
+- **Sikandar-i-Sani** (second Alexander) = **Alauddin Khalji**, not Sikandar Lodi {2008, ?}
+- Conquest order: **Gujarat, Ranthambore, Chittor, Warangal** {2022, ?}
+- Alauddin first levied the **ghari** (house tax) and measured land for revenue {1994, 2011}
+@end
+
+@section 3.1 | Titles and Conquests
+- Title "Alexander the Second": **Alauddin Khalji** {2008}
+- "Yamin-ul-Khilafat", "Nasir-i-Amir-ul-Mominin": **Alauddin Khalji** {?}
+- Declared himself **Khalifa**: **Mubarak Khalji** {2016}
+- Order: **Gujarat, Ranthambore, Chittor, Warangal** {2022}
+- Order (with Jaisalmer): **Jaisalmer, Ranthambore, Chittor, Warangal** {?}
+- **Ranthambore-Hammir Deva, Chittor-Ratan Singh, Devagiri-Ramachandra, Gujarat-Karnadeva** {2017}
+- Deccan raids were for **wealth**, not annexation (A true, R false) {1997}
+
+@flow Alauddin's campaigns
+1299 | Gujarat (Karnadeva); Somnath looted
+1301 | Ranthambore (Hammir Deva)
+1303 | Chittor (Ratan Singh; Padmini legend)
+1307-08 | Devagiri (Ramachandra) by Malik Kafur
+1310-11 | Warangal, Dwarasamudra, Madurai
+@end
+
+@section 3.2 | Army, Revenue and Markets
+- Frontier with the Mongols after 1306: the **Ravi** {2014}
+- Special frontier army: **Alauddin Khalji** {2021}
+- Revenue by **measuring land** and curbing governors (I and III) {1994}
+- First **ghari** (house tax): **Alauddin Khalji** {2011}
+- Price control in Delhi; it was not to cut artisans' wages (A true, R false) {2005}
+- Strict price control: **Alauddin Khalji** {1992, 1998, 2004, 2010}
+- Market control was **highly successful** {2017}
+- Began a "public distribution system": **Alauddin Khalji** {2010}
+
+@table
+Reform | Detail
+Dagh and huliya | Branding horses, descriptive rolls of soldiers
+Standing army | Paid in cash
+Land revenue | Half the produce; based on measurement
+Taxes | Ghari (house), charai (grazing)
+Market control | Shahna-i-Mandi; fixed prices in Delhi
+@end
+
+@trap
+- Sikandar-i-Sani = **Alauddin**, despite Sikandar Lodi's name.
+- Ghari (house) and charai = Alauddin; haq-i-sharb (irrigation) = **Firuz**.
+- Deccan campaigns sought **tribute**, not annexation.
+- Order always ends Chittor (1303), then Warangal (1310).
+@end
+
+@up UP link: Alauddin seized power by murdering his uncle **Jalaluddin Khalji at Kara** (Kara-Manikpur, Kaushambi-Pratapgarh) in 1296, funding his rise with the loot of Devagiri.
+
+@last
+- Alauddin = Sikandar-i-Sani
+- Mubarak Khalji called himself Khalifa
+- Gujarat, Ranthambore, Chittor, Warangal
+- Hammir Deva = Ranthambore; Ratan Singh = Chittor
+- Ramachandra = Devagiri; Karnadeva = Gujarat
+- Deccan raids = wealth, not annexation
+- Mongol frontier = Ravi
+- Ghari = house tax; land measured
+- Market control in Delhi; Shahna-i-Mandi
+- First "public distribution system"
+@end

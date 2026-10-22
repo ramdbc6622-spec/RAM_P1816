@@ -1,0 +1,96 @@
+@chapter 10 | Post-Mauryan Period
+@unit UNIT IV · POST-MAURYAN AND GUPTA AGE
+@meta Built from 47 UPPSC questions (1990–2023). Focus: Shungas, Satavahanas, Kharavela, the order of foreign invaders, Indo-Greek and Kushan coins, Rudradaman, Kanishka's court, the Vikram and Saka eras, Gandhara art.
+
+@hot
+- **Saka era = 78 CE**; **Vikram Samvat = 57 BCE**; gap **135 years** {1990, 1992, 2002, 2006, 2007, 2013}
+- **Vima Kadphises** issued gold coins first and regularly; **Kushans** issued most copper coins; Buddha on **Kanishka's** coins {2004, 2005, 2009, 2010, 2015}
+- **Kanishka's court**: **Ashvaghosha, Vasumitra** (not Patanjali, Kalidasa or Vishakhadatta) {1994, 2005, 2008, 2008}
+- **Satavahanas**: strongest southern power after the Mauryas; founder **Simuka**; capital **Pratishthana** (Amaravati in options) {1993, 2001, 2005, 2008, 2008}
+- **Kharavela** (Chedi, Kalinga): patron of **Jainism**, **Hathigumpha** inscription {2008, 2014, 2015, 2018}
+@end
+
+@section 10.1 | Shungas, Satavahanas and Kharavela
+- Pushyamitra's two **Ashvamedhas**: **Ayodhya** inscription (Dhanadeva) {2018}
+- **Patanjali** was a contemporary of **Pushyamitra Shunga** {2011}
+- Strongest southern dynasty after the Mauryas: **Satavahana** {1993}
+- **Simuka** founded the **Satavahana** dynasty {2008}
+- Earliest dynasty among the options: **Satavahana** {2001}
+- Satavahana capital: **Pratishthana** (Paithan); **Amaravati** in the 2005 options {2005, 2008}
+- **Ekabrahmana**: **Gautamiputra Satakarni** {2016}
+- Satavahanas promoted Sanskrit with Prakrit (A and R true, R explains A, per key) {2017}
+- Satavahanas nurtured **Prakrit** and public art (both) {2021}
+- "Shriparvatiya" in the Puranas: **Ikshvakus** {2020}
+- Patron of Jainism: **Kharavela**, of the **Chedi** dynasty; **Hathigumpha** inscription {2008, 2014, 2015, 2018}
+- Wrong pair: **Bhitari-Pulakeshin II** (Bhitari = Skandagupta) {2017}
+
+@section 10.2 | Foreign Invaders
+- Order: **Greeks, Sakas, Kushans** {2023}
+- **Demetrius-Indo-Greek, Rudradaman-Scythian, Gondophares-Parthian, Vima-Kushan** {2017}
+- Lead coins: **Strato II** {2014}
+- Sankarshana and Vasudeva on coins of **Agathocles** {2017}
+- Earliest **kavya**-style inscription: **Rudradaman** (Junagadh) {1997}
+- Repaired Sudarshana lake without forced labour: **Rudradaman I** {2014}
+- **Gandhara art-Kushans, Junagadh-Rudradaman I, Milindapanho-Menander, Taxila inscription-Patika** {2017}
+
+@flow Order of invaders
+Indo-Greeks | Demetrius, Menander (Milinda); first coins with kings' portraits
+Shakas | Western Kshatrapas; Rudradaman (Junagadh, 150 CE)
+Parthians | Gondophares; St Thomas legend
+Kushans | Kujula, Vima Takto, Vima Kadphises, Kanishka
+@end
+
+@section 10.3 | Kanishka and the Kushans
+- Sarnath image of Kanishka: **81 CE** (year 3, if he began in 78) {2014}
+- Kanishka's coronation: **78 CE** {1991}
+- Not in the Rabatak inscription: **Shravasti** {2014}
+- Contemporaries: **Ashvaghosha, Vasumitra** (I and II) {1994}
+- Ashvaghosha: contemporary of **Kanishka** {2008}
+- Not at Kanishka's court: **Patanjali**, **Vishakhadatta** {2005, 2008}
+- Taxila-educated physicians: **Jivaka** (and Charaka by tradition) {2015}
+- **Takshashila**: between the **Indus and Jhelum** {1996}
+- Most copper coins: **Kushans** {2005}
+- First and regular gold coins: **Vima Kadphises** (Kushans) {2004, 2009, 2015}
+- Buddha on coins of **Kanishka** {2010}
+
+@section 10.4 | Coins, Eras, Trade and Art
+- Wrong pair: **Satavahanas-gold** (they issued lead, potin, silver) {2016}
+- Kardamaka Kshatrapas' rare coins: **copper** (per key) {2019}
+- **Kartikeya** on **Yaudheya** coins {2008}
+- **Vikram Samvat**: **57 BCE** {1992}
+- **Saka Samvat**: **78 CE** {1990, 2013}
+- Saka 556 = **634 CE** {2002}
+- December 2009 = Saka **1931** {2007}
+- Saka-Vikram gap: **135 years** {2006}
+- Kushans traded via the Gulf and Red Sea; they had no great navy (A true, R false) {1998}
+- **Gandhara** art: **Indian and Greek** blend {1996}
+- **Bamiyan**: giant **Buddha statues** {2008}
+
+@table
+School | Material | Patron | Feature
+Gandhara | Grey schist | Kushans | Greek style, wavy hair
+Mathura | Red sandstone | Kushans | Indian style; first Buddha images (also)
+Amaravati | White marble | Satavahanas | Narrative reliefs
+@end
+
+@trap
+- Vikram = CE **+ 57**; Saka = CE **- 78**; Saka date to CE: add 78.
+- Satavahana coins are **lead**, not gold; gold = Kushans and Guptas.
+- Order: Greeks, Shakas, Parthians, Kushans.
+- Bhitari = **Skandagupta**; Hathigumpha = **Kharavela**; Ayodhya = **Pushyamitra**.
+@end
+
+@up UP link: **Mathura** was the second Kushan capital and gave its name to the Mathura school of art; **Ayodhya** has Dhanadeva's inscription on Pushyamitra's two Ashvamedhas, and **Sarnath** has Kanishka's dated Buddha image.
+
+@last
+- Ayodhya inscription = Pushyamitra; Patanjali = his contemporary
+- Simuka founded the Satavahanas; Ekabrahmana = Gautamiputra
+- Kharavela = Chedi, Jain, Hathigumpha
+- Greeks, Shakas, Parthians, Kushans
+- Rudradaman = earliest kavya inscription; Sudarshana repair
+- Kanishka 78 CE; Ashvaghosha and Vasumitra at his court
+- Vima Kadphises = first regular gold coins
+- Vikram 57 BCE; Saka 78 CE; gap 135
+- Yaudheya coins = Kartikeya
+- Gandhara = Indo-Greek art; Bamiyan Buddhas
+@end

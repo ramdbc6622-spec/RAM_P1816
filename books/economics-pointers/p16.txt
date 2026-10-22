@@ -1,0 +1,137 @@
+@chapter 16 | Poverty and Unemployment
+@meta Built from 62 UPPSC questions (1997–2025). Focus: poverty-line committees and calorie norms, state-wise poverty, the MPI, disguised unemployment and NSSO measures.
+
+@hot
+- Poverty line rests on **household consumption expenditure**; calorie norm **2,400 rural, 2,100 urban** {2001, 2008, 2008, 2009, 2013, 2020}
+- **Committees**: **Alagh** (calories only), **Lakdawala** (official line then), **Tendulkar** (**37.2%**), **Hashim** (urban BPL); order **Dandekar-Rath, Lakdawala, Tendulkar, Rangarajan** {2012, 2013, 2013, 2013, 2018, 2020, 2025}
+- **MPI**: **OPHI + UNDP**, 2010, replaced **HPI** (1997); **10 indicators** in health, education, living standard {2004, 2010, 2015, 2019, 2020, 2024, 2025}
+- **Disguised unemployment**: more workers than needed; **agriculture, rural areas** {2004, 2004, 2006, 2008, 2010, 2017}
+- State poverty: **Odisha** highest (1999-2000); **UP** most poor (2011-12); **MP** = "Ethiopia of India" {2002, 2003, 2005, 2010, 2010, 2014, 2014}
+@end
+
+@section 16.1 | What Poverty Is
+- Day for the Eradication of Poverty theme 2022-23: **"Dignity for all in practice"** {2023}
+- Types of poverty: **absolute, relative, subjective** (not "functional") {2023}
+- UN defined **absolute poverty** in **1995** (Copenhagen Summit) {2017}
+- Poverty line differs across time and countries because basic needs vary (A and R true, R explains A) {2025}
+- Not a social indicator of poverty: **size of the house** {2025}
+- "The Challenge of World Poverty": **Gunnar Myrdal** {2023}
+
+@section 16.2 | The Poverty Line
+- Methods used: **head count ratio, calorie intake, household consumption expenditure** (not per capita income) {2020}
+- Poverty level is fixed on **household consumption expenditure** {2009, 2013}
+- Defined in terms of **calorie intake** {2008}
+- Line based only on nutrition: **Alagh** Committee (1979) {2020}
+- Calories: **2,100 urban** and **2,400 rural** per person a day {2001, 2008}
+- New BPL standards committee: **Suresh Tendulkar** {2013}
+- Tendulkar estimate: **37.2%** below the line (2004-05) {2012, 2013}
+- Lines used for estimates (then): **Lakdawala** Committee {2013}
+- Urban BPL identification: **S.R. Hashim** Committee {2018}
+- Order: **Dandekar-Rath, Lakdawala, Tendulkar, Rangarajan** {2025}
+- Fixes the poverty line: **Planning Commission** (now **NITI Aayog**); NITI is the nodal agency {2014, 2018}
+- **Lorenz curve** measures **income inequality** {2018}
+- **Cultural poverty**: **Oscar Lewis**; **vicious circle of poverty**: **Nurkse** {2020, 2014}
+- BPL people as an identified group helps **targeting** (A and R true, R explains A) {1998}
+- Rich and poor both malnourished: wrong diet and poor diet (A and R true, R explains A) {2010}
+- Poverty in 2009-10 (Planning Commission, April 2011): **30%** (29.8%) {2011}
+- 11th Plan aim: cut the poverty ratio by **10 percentage points** by 2012 {2013}
+
+@table
+Committee | Year | Basis | Estimate
+Task Force (Y.K. Alagh) | 1979 | Calories only: 2,400 rural, 2,100 urban | -
+Lakdawala | 1993 | Calorie line with state prices | 36% (1993-94)
+Tendulkar | 2009 | Consumption basket incl. health, education | 37.2% (2004-05); 21.9% (2011-12)
+Rangarajan | 2014 | Food and non-food; Rs 32 rural, Rs 47 urban a day | 29.5% (2011-12)
+S.R. Hashim | 2012 | Identifying urban BPL families | -
+@end
+
+@flow Poverty committees in order
+Dandekar and Rath | 1971; first calorie-based line (2,250 calories)
+Alagh Task Force | 1979; 2,400 rural, 2,100 urban
+Lakdawala | 1993; state-specific lines
+Tendulkar | 2009; 37.2% (2004-05)
+Rangarajan | 2014; 29.5% (2011-12)
+@end
+
+@section 16.3 | Poverty Across States and Hunger
+- India's **Global Hunger Index 2017** rank: **100th** (of 119) {2019}
+- Highest share of poor (NCAER survey): **Bihar** {2009}
+- Bihar is backward; regional disparity is true but not the reason (A and R true, R does not explain A) {2015}
+- Highest share of poor (Planning Commission, 1999-2000): **Odisha** {2002, 2003, 2005, 2014}
+- Largest **number** of poor (2011-12): **Uttar Pradesh** {2014}
+- Least share of poor: **Himachal Pradesh** (2011), **Goa** (2010), **Kerala** (2004, 2010), per the options given {2004, 2010, 2010, 2011}
+- **Madhya Pradesh** = **"Ethiopia of India"** for malnutrition and infant deaths (A and R true, R explains A) {2010, 2010}
+- No clear picture of poverty extent; strategy shifts are true but not the reason (A and R true, R does not explain A) {1997}
+- PDS: aim was **subsidised essentials** and it began as **price support** (1 and 2); food subsidy is paid by the **Centre** {2013}
+- Rural poverty programmes: **all of the above** {2010}
+
+@table
+State fact | Answer
+Highest ratio, 1999-2000 | Odisha (about 47%)
+Highest ratio, 2011-12 (Tendulkar) | Chhattisgarh (39.9%)
+Largest number of poor, 2011-12 | Uttar Pradesh (about 6 crore)
+Lowest ratios | Goa, Kerala, Himachal Pradesh
+"Ethiopia of India" | Madhya Pradesh
+Global Hunger Index | 100th of 119 (2017); 105th of 127 (2024)
+@end
+
+@section 16.4 | Multidimensional Poverty
+- UNDP poverty categories: **both** income poverty and human poverty {2022}
+- **Human Poverty Index**: HDR **1997**; replaced by **MPI** in **2010** {2004, 2020}
+- Global MPI report: **OPHI and UNDP** (3 and 4) {2024}
+- MPI in the HDR every year since **2010** is correct; it does not measure only BPL people (only 1) {2025}
+- MPI has **10 indicators** {2010}
+- MPI dimensions: **health, education, living standard** {2019}
+- Best index for the **intensity** of poverty: **MPI** {2015}
+- India's MPI-poor share (HDR 2013): **53.7%** {2014}
+- Not a cause of poverty: **rising rate of investment** {2013}
+- Not a social indicator of poverty: **fewer means of transport** {2017}
+- Indian social structure: **(i), (ii), (iii)**; poverty is not a structural feature {2014}
+
+@flow How the MPI is built
+3 dimensions | Health, education, living standard
+10 indicators | Nutrition, child mortality, schooling, attendance, 6 living-standard items
+Deprivation cut-off | Poor if deprived in one-third or more of weighted indicators
+MPI | Headcount (H) x intensity (A)
+@end
+
+@section 16.5 | Unemployment
+- Educated unemployment rises with fast growth when professional education is lacking (A and R true, R explains A, per key) {2005, 2006}
+- Urban poverty is rooted in rural areas; low rural education (A and R true, R explains A) {2013}
+- **Disguised unemployment**: more people on a job than needed {2004, 2008, 2010}
+- Found mainly in the **primary (agricultural)** sector, in **rural** areas (I and II) {2004, 2006, 2017}
+- Unemployed for the major part of the year: **usual status** unemployment {2019}
+- Not an NSSO measure: **current monthly status** {2005, 2016}
+- Unemployment data collected and published by **NSSO** {2014}
+- Not a cause of unemployment: **growth of per capita income** {2014}
+- Rate between Jul-Sep 2019 and Jul-Sep 2022: key says **increased**; PLFS urban data show about 8% to about 7%, so treat with care (*) {2024}
+
+@table
+Measure (NSSO / PLFS) | Reference period
+Usual Principal Status | Major part of the year (365 days); chronic unemployment
+Current Weekly Status | The week before the survey
+Current Daily Status | Each day of the week; best for underemployment
+PLFS | Since 2017-18; monthly estimates since 2025
+@end
+
+@trap
+- Calories: **2,400 rural, 2,100 urban** (not the reverse). Poverty line = **consumption**, not income.
+- **Odisha** = highest ratio (1999-2000); **UP** = most poor in number; **MP** = "Ethiopia of India".
+- MPI = **OPHI + UNDP**, not World Bank; **10** indicators; replaced HPI in **2010**.
+- NSSO has no "current monthly status"; disguised unemployment = **rural agriculture**, not urban manufacturing.
+@end
+
+@up UP link: UP had the **largest number of poor** in 2011-12 (about 6 crore); in NITI Aayog's national MPI, UP saw the **largest fall**, with about **5.94 crore** people leaving multidimensional poverty (2013-14 to 2022-23).
+
+@last
+- Poverty line = **consumption expenditure**; 2,400 rural, 2,100 urban
+- Alagh = calories only; **Tendulkar 37.2%**; Hashim = urban BPL
+- Order: Dandekar-Rath, Lakdawala, Tendulkar, Rangarajan
+- Absolute poverty defined **1995**; Myrdal = Challenge of World Poverty
+- Lorenz = inequality; **Oscar Lewis** = culture of poverty; **Nurkse** = vicious circle
+- **Odisha** highest (1999-2000); **UP** most poor; **MP** = Ethiopia of India
+- GHI 2017 = **100th**
+- HPI **1997** to MPI **2010**; OPHI + UNDP; **10 indicators**
+- Disguised = agriculture, rural; UPS = major part of the year
+- No "current monthly status" in NSSO
+@end

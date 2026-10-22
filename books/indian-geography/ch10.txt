@@ -1,0 +1,246 @@
+@chapter 10 | Natural Disasters
+
+@intro
+India is among the most disaster-prone countries in the world. About **58.6%** of its land is prone to earthquakes of moderate to very high intensity, about 12% (over 4 crore hectares) to floods, about 68% of cultivated land to drought, and about three-quarters of its 7,500 km coastline to cyclones and tsunamis. The **Disaster Management Act, 2005** set up the **National Disaster Management Authority (NDMA)**, chaired by the Prime Minister, and the **National Disaster Response Force (NDRF)**. This chapter covers tsunamis and cyclones, earthquakes and seismic zones, landslides, floods and the institutions for warning and response. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 10.1 | Tsunamis and Cyclones
+
+@pyq U.P.R.O./A.R.O (Mains) 2014
+Which of the following coasts of India was worst affected by the 2004 Tsunami?
+(a) Malabar Coast
+(b) Konkan Coast
+(c) Coromandel Coast
+(d) Northern Circars Coast
+@ans (c)
+@end
+
+The **26 December 2004** tsunami was set off by a magnitude 9.1 earthquake off northern Sumatra. In India it struck the **Coromandel coast** of Tamil Nadu (Nagapattinam worst of all) and the **Andaman and Nicobar Islands**. Mangrove-lined coasts such as Pichavaram suffered less.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Tsunami Warning Centre in India is located in
+(a) Chennai
+(b) Vishakhapatnam
+(c) Hyderabad
+(d) Port Blair
+@ans (c)
+@end
+
+The **Indian Tsunami Early Warning Centre (ITEWC)** was set up in **2007** at the **Indian National Centre for Ocean Information Services (INCOIS), Hyderabad**, under the Ministry of Earth Sciences. It can issue a warning within about 10 minutes of a large undersea earthquake and also serves as a regional centre for the Indian Ocean.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Indian Meteorological Department is established at:
+(a) New Delhi
+(b) Nagpur
+(c) Jodhpur
+(d) Pune
+@ans (a)
+@end
+
+The **India Meteorological Department** was founded in **1875** at Calcutta. Its headquarters moved to Shimla (1905) and Pune (1928), and to **New Delhi** in 1944. It celebrated its 150th year in 2025. It names and tracks cyclones in the north Indian Ocean as a WMO Regional Specialised Meteorological Centre.
+
+@pyq U.P.P.C.S. (Pre) 2003
+Assertion (A) : East coast is most prone to cyclones than western coast.
+Reason (R) : Eastern coast of India lies in the zone of north-east trade winds.
+In the context of above statements, which of the following is correct?
+Code :
+(a) (A) and (R) both are true, and (R) is correct explanation of (A).
+(b) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (R) is true, but (A) is false.
+@ans (b)
+@end
+
+The **Bay of Bengal** is warmer and shallower than the Arabian Sea, and the remnants of Pacific typhoons often enter it from the east. It forms about four times as many cyclones, and the low, flat deltaic east coast lets storm surges travel far inland. The trade winds are not the cause.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Cyclone "Tauktae" was formed in which ocean?
+(a) Bay of Bengal
+(b) Indian Ocean
+(c) Caspian Sea
+(d) Arabian Sea
+@ans (d)
+@end
+
+**Tauktae** (name given by Myanmar, meaning "gecko") formed in the **Arabian Sea** in May 2021 and hit the **Saurashtra coast of Gujarat** as an extremely severe cyclone. The Arabian Sea is warming fast, so severe cyclones there (Tauktae 2021, Biparjoy 2023) are becoming more frequent.
+
+@table
+Recent cyclone | Year | Sea | Landfall
+Fani | 2019 | Bay of Bengal | Puri, Odisha
+Amphan | 2020 | Bay of Bengal | West Bengal-Bangladesh
+Tauktae | 2021 | Arabian Sea | Saurashtra, Gujarat
+Yaas | 2021 | Bay of Bengal | Balasore, Odisha
+Biparjoy | 2023 | Arabian Sea | Kutch, Gujarat
+Michaung | 2023 | Bay of Bengal | Andhra Pradesh (Chennai floods)
+Remal | 2024 | Bay of Bengal | West Bengal-Bangladesh
+Fengal | 2024 | Bay of Bengal | Puducherry
+@end
+
+@section 10.2 | Earthquakes and Seismic Zones
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following areas of India does not come under the zone of high seismic intensity ?
+(a) Uttarakhand
+(b) Karnataka Plateau
+(c) Kutch
+(d) Himachal Pradesh
+@ans (b)
+@end
+
+@one U.P. Lower Sub. (Pre) 2013
+India has been divided into how many Seismic Risk Zones?
+@ans 4
+@end
+
+@table
+Zone (IS 1893: 2002) | Intensity | Zone factor | Main areas
+V (very high) | IX and above | 0.36 | North-east, Jammu and Kashmir, Ladakh, Himachal, Uttarakhand, Kutch, north Bihar, Andaman and Nicobar (about 11% of land)
+IV (high) | VIII | 0.24 | Delhi, rest of the Himalayan foothills, Indo-Gangetic plain including most of western and northern UP (about 18%)
+III (moderate) | VII | 0.16 | Kerala, Goa, Lakshadweep, much of central India, Chennai, Mumbai (about 30%)
+II (low) | VI or less | 0.10 | Most of the Peninsular plateau, Karnataka, Hyderabad (about 41%)
+@end
+
+The 2002 map has **four zones (II to V)**; the old zone I was merged into zone II. The revised code adopted by the **Bureau of Indian Standards in 2025** adds a new highest zone, **VI**, for the whole Himalayan arc.
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Which one of the following is not correctly matched ?
+Cities - Seismic Zones
+(a) Bhuj – IV
+(b) Hyderabad – I
+(c) Srinagar – V
+(d) Chennai – II
+@ans (*)
+@note three pairs are wrong: **Bhuj** is in zone V, **Hyderabad** in zone II (zone I no longer exists) and **Chennai** in zone III. Only Srinagar (zone V) is correct, so no single option can be marked.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Assertion (A) : The Koyna region of Maharashtra is likely to become more earthquake prone in near future.
+Reason (R) : The Koyna dam is located on an old fault-plane which may get activated more frequently with changes in water-level in Koyna reservoir.
+Select the correct answer using the code given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+**Koyna** is the classic Indian case of **reservoir-induced seismicity**. After the dam was filled, a magnitude 6.3 earthquake struck in **December 1967**, the largest known quake of this kind. The weight of water and the rise in pore pressure along old faults trigger tremors.
+
+@table
+Major earthquake | Year | Magnitude (approx.)
+Assam (Shillong plateau) | 1897 | 8.0+
+Bihar-Nepal | 1934 | 8.0
+Assam-Tibet (Medog) | 1950 | 8.6
+Koyna (Maharashtra) | 1967 | 6.3
+Uttarkashi | 1991 | 6.8
+Latur (Killari, Maharashtra) | 1993 | 6.2
+Bhuj (Gujarat) | 2001 | 7.7
+Kashmir (Muzaffarabad) | 2005 | 7.6
+Sikkim | 2011 | 6.9
+@end
+
+@trap
+Seismic **zone II** is the **lowest** risk, zone V the highest; "zone I" no longer exists in the 2002 map. A city in the Peninsula (Hyderabad, Bengaluru) can never be zone IV or V. Remember that even "stable" Latur and Koyna on the plateau have had damaging earthquakes.
+@end
+
+@section 10.3 | Landslides, Floods and Disaster-prone States
+
+@pyq U.P.P.C.S. (Mains) 2003
+Given below are two statements. One is labelled as Assertion and other as Reason :
+Assertion (A) : The frequency of landslides has increased in the Himalayas.
+Reason (R) : There has been large scale mining in the Himalayas in recent years.
+In the context of the above which one of the following is correct :
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+Landslides in the young, steep and fractured Himalaya are rising with road cutting, tunnelling, mining, deforestation and heavier rain bursts. **Joshimath** (Uttarakhand) began sinking visibly in **January 2023**, and the **Wayanad** (Kerala) landslides of **July 2024** killed over 200 people. ISRO's **Landslide Atlas of India (2023)** ranks Rudraprayag and Tehri among the most exposed districts.
+
+@pyq U.P.P.C.S. (Pre) 2000
+The most flood-prone state of India is :
+(a) Assam
+(b) Andhra Pradesh
+(c) Bihar
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+**Bihar** has about **73%** of its area flood-prone. Its northern rivers (Kosi, Gandak, Bagmati, Burhi Gandak) bring floods from Nepal almost every year. By total area, **Uttar Pradesh** has the largest flood-prone area of any state (about 73 lakh hectares), and Assam suffers the longest and most frequent floods.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Among the following area of Uttar Pradesh which is maximum flood affected ?
+(a) Western area
+(b) Eastern area
+(c) Middle area
+(d) Northern area
+@ans (b)
+@end
+
+UP link: **eastern UP** (Gorakhpur, Maharajganj, Kushinagar, Basti, Bahraich, Gonda, Ballia) suffers most. The Rapti, Ghaghara, Gandak and Sharda bring Himalayan floods from Nepal, the land is flat, and the rivers often break their embankments. Western UP floods mainly along the Yamuna and Hindon.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which among the following states faces a maximum natural disaster?
+(a) Andhra Pradesh
+(b) Odisha
+(c) Bihar
+(d) Gujarat
+@ans (b)
+@end
+
+**Odisha** faces cyclones (the 1999 super cyclone, Phailin 2013, Fani 2019), floods of the Mahanadi delta, and droughts in its western districts. It is now held up as a model: its early evacuation of over a million people cut cyclone deaths sharply.
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following statements are true?
+1. Natural disasters cause maximum damage in developing countries.
+2. Bhopal gas tragedy was man-made.
+3. India is a disaster free country.
+4. Mangroves reduce the impact of cyclones.
+Select the correct answer from the codes given below:
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 3 and 4
+@ans (c)
+@end
+
+The **Bhopal gas tragedy** (night of **2-3 December 1984**) was an industrial disaster: **methyl isocyanate** leaked from the Union Carbide pesticide plant. **Mangroves** absorb wave energy and storm surges, which is why they are now planted along cyclone-prone coasts.
+
+@section 10.4 | Disaster Management Institutions
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The first Disaster Management Training Institution of the country is being established at:
+(a) Hyderabad ( Andhra Pradesh)
+(b) Bangalore (Karnataka)
+(c) Latur (Maharashtra)
+(d) Chennai (Tamil Nadu)
+@ans (c)
+@end
+
+After the **Latur earthquake of 1993**, the first disaster management training institute was planned at **Latur**. Nationally, the **National Institute of Disaster Management (NIDM)**, New Delhi, handles training and research.
+
+@table
+Body | Set up | Role
+NDMA | 2005 (DM Act) | Policy and plans; chaired by the Prime Minister
+NDRF | 2006 | Specialist response battalions (16 battalions)
+NIDM | 1995; statutory 2005 | Training and research, New Delhi
+INCOIS (ITEWC) | 2007 | Tsunami and ocean-state warnings, Hyderabad
+IMD | 1875 | Weather, cyclone and heat-wave warnings, New Delhi
+SDMA, DDMA | 2005 | State and district authorities
+@end
+
+UP link: Uttar Pradesh treats **lightning**, **heat waves**, **cold waves** and **boat capsizing** as state-specific disasters, eligible for relief from the State Disaster Response Fund. Lightning is among the biggest killers in UP every monsoon.
+
+@next
+The **Disaster Management (Amendment) Act, 2025** gives NDMA and state authorities stronger roles, including disaster databases and urban disaster management authorities. Expect a statement question on it, or on the **Sendai Framework (2015-2030)**.
+@end
+
+@heatmap
+
+@pattern
+The chapter has two halves: physical causes (tsunami coast, east-coast cyclones, Koyna, Himalayan landslides, seismic zones) and institutions (IMD in New Delhi, the tsunami centre in Hyderabad, Latur). UPPSC adds UP's own flood map: the eastern districts are the most flood-affected. One seismic-zone item (2014) has three wrong pairs and carries a (*). Learn the four zones of the 2002 map with one example city each, and the recent cyclones with their seas.
+@end

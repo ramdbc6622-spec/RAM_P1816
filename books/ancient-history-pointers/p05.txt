@@ -1,0 +1,79 @@
+@chapter 5 | Jain Religion
+@meta Built from 25 UPPSC questions (1993–2023). Focus: Tirthankaras and their symbols, Parshvanatha, UP's Jain sites, Mahavira's life, Triratna, councils, sects and the Ajivikas.
+
+@hot
+- **Rishabhadeva** (Adinatha) founded Jainism; **Mahavira** is the 24th Tirthankara {1993, 2004, 2010}
+- **Parshvanatha** (23rd): **Varanasi**; nirvana at **Sammed Shikhar** {2002, 2002, 2016}
+- **Tirthankara-symbol and UP site matching**: **Adinatha-bull, Parshvanatha-snake, Mallinatha-water jar, Sambhavnath-horse**; **Shravasti-Sambhavnath, Ayodhya-Rishabhanath, Kakandi-Suvidhinath, Pabhosa-Padmaprabhu** {2017, 2021, 2021}
+- **Triratna** (right faith, knowledge, conduct) is the glory of **Jainism**; core point **non-violence** {1993, 2004}
+- **Ajivika** sect: **Makkhali Gosala**; "fate decides everything" {1996, 2006, 2017, 2023}
+@end
+
+@section 5.1 | Tirthankaras
+- Originator of Jainism: **Rishabhadeva** {2010}
+- "Tirthankara": **Jainism** {1993}
+- Not a Tirthankara: **Nathamuni** (a Vaishnava acharya) {2004}
+- Order: **Abhinandan, Padmaprabhu, Vimalnath, Munisuvrata** {2016}
+- **Parshvanatha**: **Varanasi** {2016}
+- Parshvanatha's pilgrimage: **Sammed Shikhar** (Jharkhand) {2002, 2002}
+- **Adinatha-bull, Mallinatha-water jar, Parshvanatha-snake, Sambhavnath-horse** {2017}
+- Wrong pair: **Vasupujya-Sammed Shikhar** (Vasupujya attained nirvana at **Champa**) {2021}
+
+@section 5.2 | UP in Jain Geography
+- **Shravasti-Sambhavnath, Kakandi-Suvidhinath, Ayodhya-Rishabhanath, Pabhosa-Padmaprabhu** {2021}
+- **Prabhasgiri** (Pabhosa): a **Jain** pilgrimage {2008}
+- Pilgrimage of both Buddhists and Jains in UP: **Kaushambi** {2010}
+
+@section 5.3 | Mahavira and Doctrine
+- **Kundalpur**: birthplace of **Mahavira** {2004}
+- Enlightenment on the **Rijupalika** river {2017}
+- First follower (son-in-law): **Jamali** {2008}
+- **Triratna** (right faith, action, knowledge): **Jainism** {2004}
+- Basic point: **non-violence** {1993}
+- No "final annihilation of the world": **Jainism** {2014}
+
+@flow Mahavira's life
+Birth | Kundagrama (Vaishali), 540 BCE (traditional 599)
+Renunciation | Age 30
+Kaivalya | Age 42, Jrimbhikagrama, Rijupalika river
+Mission | 30 years; added brahmacharya as the fifth vow
+Nirvana | Pavapuri, age 72
+@end
+
+@section 5.4 | Literature, Councils and Sects
+- Earliest Jain texts: **Ardha-Magadhi** {2006}
+- Shvetambara Agamas finally edited at **Valabhi** (key: Pataliputra) {2008}
+- **Yapaniya**: a **Jain** sect {2010}
+- **Ajivika** founder: **Makkhali Gosala** {1996}
+- "Fate assigns everything": **Ajivikas** {2006}
+- Ajivikas respected in the Maurya era (only II); they were not forest dwellers {2023}
+- **Lakulisha-Pashupata, Nagarjuna-Shunyavada, Bhadrabahu-Jainism, Gosala-Ajivika** {2017}
+- **Gommateshwara** (Shravanabelagola) built by **Chamundaraya** {2009}
+
+@table
+Council | Place | Head | Result
+First | Pataliputra (c. 300 BCE) | Sthulabhadra | 12 Angas compiled; split begins
+Second | Valabhi (5th century CE) | Devardhi Kshamashramana | Agamas finally written
+@end
+
+@trap
+- Mahavira is the **24th**, not the first; Rishabhadeva founded Jainism.
+- Jain Triratna = right faith, knowledge, conduct; Buddhist = Buddha, Dhamma, Sangha.
+- Parshvanatha gave **four** vows; Mahavira added **brahmacharya**.
+- Ajivika = Gosala; Pashupata = Lakulisha; Yapaniya = Jain.
+@end
+
+@up UP link: UP holds the birthplaces of many Tirthankaras: **Ayodhya** (Rishabhanatha and four others), **Shravasti** (Sambhavnath), **Kaushambi/Pabhosa** (Padmaprabhu), **Varanasi** (Parshvanatha, Suparshvanatha), **Kakandi** (Suvidhinath) and **Hastinapur**.
+
+@last
+- Rishabhadeva = founder; Mahavira = 24th
+- Parshvanatha = Varanasi; Sammed Shikhar
+- Adinatha = bull; Parshvanatha = snake; Mallinatha = water jar
+- Shravasti = Sambhavnath; Ayodhya = Rishabhanath
+- Kaushambi = Buddhist and Jain site; Pabhosa = Jain
+- Kundalpur birth; Rijupalika enlightenment; Jamali first follower
+- Triratna = Jainism; non-violence = core
+- Ardha-Magadhi texts; Valabhi = final edit
+- Yapaniya = Jain; Ajivika = Gosala
+- Gommateshwara = Chamundaraya
+@end

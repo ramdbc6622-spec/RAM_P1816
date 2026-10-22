@@ -1,0 +1,971 @@
+@chapter 24 | Population III: Sex Ratio, Social Groups and Dynamics
+
+@intro
+The third demography chapter covers the **sex ratio** (national trend, states, UTs, districts, child sex ratio), **Scheduled Castes and Tribes**, **religious communities**, the **National Population Policy 2000**, **fertility** (TFR), **mortality** (death rate, IMR), **age structure** (dependency ratio, demographic dividend) and population-resource regions. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 24.1 | Sex Ratio in India
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following statements is correct?
+(a) There has been continuous decline of sex-ratio since 1901 onwards.
+(b) Highest sex-ratio is observed during the Census of 1901.
+(c) Lowest sex-ratio has been recorded during the Census of 2001.
+(d) Maximum decline in the sex-ratio has been recorded during the decade of 1991-2001.
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following pairs is not correctly matched? Census Year – Sex Ratio in India
+(a) 1951 – 946
+(b) 1971 – 930
+(c) 1991 – 927
+(d) 2011 – 925
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+In which of the following Census years sex-ratio of India was 946?
+(a) 1921
+(b) 1941
+(c) 1951
+(d) 1971
+@ans (c)
+@end
+
+
+@pyq U.P. P.C.S. (Mains) 2014
+Which one of the following pairs is not correctly matched?
+Census Year – Sex-Ratio in India
+(a) 1951 – 946
+(b) 1991 – 938
+(c) 2001 – 933
+(d) 2011 – 940
+@ans (b) & (d)
+@note The source accepts **both (b) and (d)**: the 1991 sex ratio was **927** (not 938), and the final 2011 figure is **943** (940 was the provisional figure).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Pre) (Re-Exam) 2015
+According to the provisional data of 2011 Census malefemale ratio in India is :
+(a) 1000 : 922
+(b) 1000 : 932
+(c) 1000 : 933
+(d) 1000 : 940
+@ans (d)
+@end
+
+
+@table
+Census | Sex ratio (females per 1,000 males)
+**1901** | **972** (the **highest** of all censuses)
+1951 | **946**
+1971 | 930
+**1991** | **927** (the **lowest**)
+2001 | 933
+**2011** | **943** (provisional 940)
+Trend | Fell (with ups and downs) to 1991, then rose; **NFHS-5 (2019-21)** found **1,020**
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following is the correct sequence of States/UTs having the highest sex-ratio (2011 Census provisional data) in descending order ?
+(a) Kerala, Puducherry, Tamil Nadu, Andhra Pradesh
+(b) Andhra Pradesh, Kerala, Tamil Nadu, Puducherry
+(c) Tamil Nadu, Andhra Pradesh, Puducherry, Kerala
+(d) Puducherry, Kerala, Andhra Pradesh, Tamil Nadu
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+According to population Census 2011, which of the following States has largest number of females per thousand males ?
+(a) Tamil Nadu
+(b) Manipur
+(c) Meghalaya
+(d) Kerala
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following states of India has higher number of females than males?
+(a) Karnataka
+(b) Tamil Nadu
+(c) Kerala
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P.U.D.A. / L.D.A. (Pre) 2001
+In which State of India, is the female-male ratio more than 1000?
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Kerala
+(d) Tamil Nadu
+@ans (c)
+@end
+
+
+@one U.P. R.O./A.R.O. (Mains) 2014
+According to Census 2011, which State of India has the highest female sex-ratio?
+@ans Kerala
+@end
+
+@one U.P.P.C.S. (Pre) 1995
+The Indian State having more females compared to males as per the last Census is
+@ans Kerala
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2006; U.P.P.C.S. (Pre) 2009
+In which one of the following States/Union Territories did the females out-number the males at the time of the last Census?
+(a) Puducherry
+(b) Delhi
+(c) Chandigarh
+(d) Lakshadweep
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which among the following States has highest sexratio in 2011?
+(a) Tamil Nadu
+(b) Andhra Pradesh
+(c) Karnataka
+(d) Odisha
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013; U.P.P.C.S. (Mains) 2014
+Which one of the following States of India has sex-ratio (as per 2011 Census) above the national average?
+(a) Jharkhand
+(b) Gujarat
+(c) Maharashtra
+(d) Madhya Pradesh
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+According to Census 2011 provisional data related to persons aged 7 years and above, in which of the following States males outnumber females ?
+1. Bihar
+2. Maharashtra
+3. Uttar Pradesh
+4. West Bengal
+Select the Correct answer from the code given bellow :
+Code :
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) All the four
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+According to Census 2011, the State having the lowest sex-ratio is :
+(a) Sikkim
+(b) Punjab
+(c) Haryana
+(d) Jammu & Kashmir
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018, 2017
+Which of the following States is ranked economically at the top but the lowest on the basis of sex-ratio?
+(a) Madhya Pradesh
+(b) Maharashtra
+(c) West Bengal
+(d) Haryana
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2009
+Four States mentioned below, which among these had lowest sex-ratio according to the Census 2001?
+(a) Gujarat
+(b) Tamil Nadu
+(c) Chhattisgarh
+(d) Manipur
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Pre) 2011
+Which one of the following States/Union Territories has the least number of females per 1000 males as per provisional data of Census 2011 ?
+(a) Daman and Diu
+(b) Dadra and Nagar Haveli
+(c) Puducherry
+(d) Haryana
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010; U.P.P.C.S. (Mains); 2011; U.P.R.D./A.R.D. (Pre) 2021
+According to Census 2011, in which of the following Union Territories was the sex ratio minimum?
+(a) Chandigarh
+(b) Daman and Diu
+(c) Andaman and Nicobar Islands
+(d) Lakshadweep
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+In India the highest decline in sex-ratio during 19912001 has been observed in :
+(a) Haryana
+(b) Himachal Pradesh
+(c) Dadra and Nagar Haveli
+(d) Daman and Diu
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The highest decadal growth rate in sex-ratio during 1991-2001 has been recorded by :
+(a) Arunachal Pradesh
+(b) Kerala
+(c) Uttarakhand
+(d) Chhattisgarh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+During 2001 and 2011, the sex-ratio in Uttar Pradesh has improved by :
+(a) 20 females per 1000 males
+(b) 10 females per 1000 males
+(c) 60 females per 1000 males
+(d) 40 females per 1000 males
+@ans (*)
+@note UP's sex ratio rose from **898 (2001)** to **908 (provisional 2011)**, a rise of 10 (option b), but the final 2011 figure is **912**, a rise of 14, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+As per 2011 Census, what is the Female/Male ratio in U.P.?
+(a) 898/1000
+(b) 836/1000
+(c) 912/1000
+(d) 950/1000
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+According to the provisional data of Census 2011 the district having the highest sex-ratio in India is :
+(a) Almora (Uttarakhand)
+(b) Akola (Maharashtra)
+(c) Idukki (Kerala)
+(d) Mahe (Puducherry)
+@ans (d)
+@end
+
+
+
+@table
+Sex ratio by area (2011) | Figure
+**Highest state** | **Kerala (1,084)**, Tamil Nadu (996), Andhra Pradesh (993)
+Highest UT | **Puducherry (1,037)**; females outnumber males only in Kerala and Puducherry
+**Lowest state** | **Haryana (879)**, J&K (889), Sikkim (890), Punjab (895)
+**Lowest UT** | **Daman and Diu (618)**, Dadra and Nagar Haveli (774)
+Highest district | **Mahe** (Puducherry, 1,176)
+Biggest fall 1991-2001 | **Daman and Diu**
+Biggest rise 1991-2001 | **Arunachal Pradesh**
+**UP** | **912** (898 in 2001)
+Above India's 943 (among the options) | **Jharkhand** (948)
+@end
+
+**Haryana** is among the richest states but has the lowest sex ratio. In all big states, males outnumber females among people aged 7 and above.
+
+@section 24.2 | Child Sex Ratio
+
+@pyq U.P. P.C.S.(Pre) 2005
+Which among the following factors are responsible for low sex-ratio in India?
+1. High Maternity death rate
+2. High female child death rate
+3. Female foeticide
+4. Birth of more male children than female children
+Code :
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 3 and 4
+(d) 1, 2, 3 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The sex-ratio of child population (0-6 years) in India since 1961 has been :
+(a) continuously decreasing
+(b) continuously increasing
+(c) almost constant
+(d) initially increasing and later decreasing
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+According to the provisional data of Census 2011 the sex-ratio of children in the age group of 0-6 years in India is :
+(a) 912
+(b) 913
+(c) 914
+(d) 915
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is correctly matched ? State Child sex-ratio (2011)
+(a) Uttar Pradesh - 890
+(b) Madhya Pradesh - 912
+(c) Rajasthan - 880
+(d) Bihar - 946
+@ans (b)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Which of the following States of India has the highest number of male child (0 – 6 years) per 100 girl child as per 2011 Census?
+(a) Bihar
+(b) Punjab
+(c) Haryana
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+As per the provisional data of 2011 Census of India, which one of the following States has the highest child sex-ratio?
+(a) Chhattisgarh
+(b) Haryana
+(c) Uttar Pradesh
+(d) Punjab
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+On the basis of provisional data of 2011 Census, arrange the following four States in descending order of their child sex-ratio :
+1. Mizoram
+2. Meghalaya
+3. Haryana
+4. Punjab
+Select the correct answer from the codes given below:
+Codes :
+(a) 1, 2, 4, 3
+(b) 2, 1, 3, 4
+(c) 1, 3, 2, 4
+(d) 2, 1, 4, 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Examine the following statements and select the correct answer from the codes given below :
+(i) The child sex-ratio (0-6 years) of India has declined during 2001-11.
+(ii) The child sex-ratio in Haryana has increased during 2001-11.
+(iii) India’s rural sex-ratio is higher than urban sexratio.
+(iv) The male infant mortality rate in India is higher than female infant mortality rate.
+Codes :
+(a) i & ii
+(b) ii & iii
+(c) i, ii & iii
+(d) i, iii & iv
+@ans (c)
+@end
+
+
+@table
+Child sex ratio (0-6 years) | Figure
+India | **1961: 976** → 1991: 945 → 2001: 927 → **2011: 918** (provisional 914); **falling continuously**
+Highest (2011) | **Mizoram (970)**, **Meghalaya (970)**, Chhattisgarh (969)
+Lowest (2011) | **Haryana (834)**, Punjab (846), J&K (862)
+Haryana | Rose from 819 (2001) to 834 (2011)
+Causes of low sex ratio | **Female foeticide**, higher **girl-child deaths**, **maternal deaths**, more boys born
+@end
+
+**Rural** sex ratio (949) is higher than **urban** (929), and **female infant mortality** is higher than male in India, so statement (iv) in Q134 is false.
+
+@section 24.3 | Scheduled Castes, Tribes and Religion
+
+@pyq U.P.P.C.S. (Mains) 2006; U.P. Lower Sub. (Pre) 2003; U.P. Lower Sub. (Spl.) (Pre) 2002
+The largest percentage share of the Scheduled Castes population is in :
+(a) Uttar Pradesh
+(b) Punjab
+(c) Maharashtra
+(d) Andhra Pradesh
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2014; U.P. Lower Sub. (Pre) 2008; U.P. U.D.A./L.D.A. (Pre) 2010
+The State having highest Scheduled Caste population in India is :
+(a) Rajasthan
+(b) Maharashtra
+(c) Madhya Pradesh
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+In which State of India, the Scheduled Caste population is zero as per Census 2011?
+(a) Kerala
+(b) Nagaland
+(c) Sikkim
+(d) Assam
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Consider the following statements and select the correct answer from the codes given below :
+Assertion (A) : There is a very small number of Scheduled Caste population in the North-Eastern States of India.
+Reason (R) : The North-Eastern States of India have very small percentage of area under cultivation.
+(a) Both (A) and (R) are correct and (R) explains (A)
+(b) Both (A) and (R) are correct, but (R) does not explain (A)
+(c) (A) is true, but R is false
+(d) (A) is false, but R is true
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+According to Census 2001, the percentage of the Scheduled Tribes population in India is :
+(a) 7.20
+(b) 7.50
+(c) 8.20
+(d) 8.50
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Which one of the following States does not have any tribal population in the scheduled category ?
+(a) Kerala
+(b) Punjab
+(c) Arunachal Pradesh
+(d) West Bengal
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+As per the 2011 Census, the correct ascending order of the following States in terms of Scheduled Tribes population is :
+(a) Arunachal Pradesh, Meghalaya, Nagaland, Mizoram
+(b) Meghalaya, Arunachal Pradesh, Nagaland, Mizoram
+(c) Arunachal Pradesh, Nagaland, Meghalaya, Mizoram
+(d) Arunachal Pradesh, Mizoram, Nagaland, Meghalaya
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007; U.P.P.C.S. (Mains) 2016; U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+In Indian States, the tribal population is largest in :
+(a) Assam and Tripura
+(b) Kerala and Tamil Nadu
+(c) Madhya Pradesh and Chhattisgarh
+(d) Uttar Pradesh and Uttarakhand
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Arrange the following states in ascending order on the basis of percentage of Tribal population as per Census 2011: I. Madhya Pradesh II. Maharashtra III. Rajasthan IV. Meghalaya
+Select the correct answer from the codes given below:
+(a) IV, I, II, III
+(b) III, IV, II, I
+(c) II, III, I, IV
+(d) I, II, III, IV
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following states has the lowest percentage of Scheduled Tribes population as percentage of its total population according to Census 2011?
+(a) Uttar Pradesh
+(b) Bihar
+(c) Tamil Nadu
+(d) Kerala
+@ans (a)
+@end
+
+
+@table
+SC / ST fact (2011) | Figure
+SC share of India | **16.6%** (20.14 crore)
+Largest SC number | **Uttar Pradesh** (4.14 crore)
+Highest SC share | **Punjab (31.9%)**
+No SC population | **Nagaland**, Lakshadweep (also Andaman and Nicobar)
+ST share of India | **8.6%** (8.2% in 2001)
+Largest ST number | **Madhya Pradesh**, then Maharashtra, Odisha
+Highest ST share | **Mizoram (94.4%)**, Lakshadweep, Nagaland, Meghalaya
+No ST population | **Punjab, Haryana**, Chandigarh, Delhi, Puducherry
+Lowest ST share (states with STs) | **Uttar Pradesh (0.6%)**
+@end
+
+@pyq U.P. P.S.C. (GIC) 2010
+Arrange the following religious communities of India in ascending order of their population size and select the correct answer using the codes given below : Religious community :
+1. Buddhist
+2. Christian
+3. Jain
+4. Sikh
+Code :
+(a) 1, 2, 4, 3
+(b) 4, 1, 3, 2
+(c) 3, 1, 4, 2
+(d) 3, 2, 1, 4
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2007
+Which State of India has the largest Muslim population according to the 2001 Census?
+(a) Assam
+(b) Bihar
+(c) Uttar Pradesh
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+According to the 1991 Census, the percentage share of Christians in the total population of the State is highest in :
+(a) Meghalaya
+(b) Nagaland
+(c) Mizoram
+(d) Arunachal Pradesh
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Statement (A) : Literacy is highest in Kerala.
+Reason (R) : Kerala has a higher percentage of Christians.
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true, but R is NOT the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Arrange the following Indian religious communities, in descending order according to their sex-ratio, using the codes given below :
+1. Buddhist
+2. Jain
+3. Christian
+4. Muslim
+Code :
+(a) 3, 2, 1, 4
+(b) 3, 1, 2, 4
+(c) 2, 1, 4, 3
+(d) 4, 3, 2, 1
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Which community has the lowest sex-ratio in India as disclosed in the additional data pertaining to Census 2011 released recently?
+(a) Buddhist
+(b) Sikh
+(c) Jain
+(d) Muslim
+@ans (b)
+@end
+
+
+@table
+Religion (2011) | Share / fact
+Hindus | 79.8%
+Muslims | 14.2%; largest number in **Uttar Pradesh**
+Christians | 2.3%; highest share **Nagaland** (88%), Mizoram, Meghalaya
+Sikhs | 1.7%
+Buddhists | 0.7%
+Jains | 0.4%
+Size order (small to large) | **Jain < Buddhist < Sikh < Christian**
+Sex ratio order | **Christian (1,023) > Buddhist (965) > Jain (954) > Muslim (951)**; lowest **Sikh (903)**
+@end
+
+Kerala's high literacy comes from early **social reform, schools and public policy**, not mainly from its Christian population.
+
+@section 24.4 | Population Policy and Fertility
+
+@pyq U.P.P.C.S. (Mains) 2017
+When did India adopt the New National Population Policy?
+(a) 1990
+(b) 1995
+(c) 2000
+(d) 2005
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following points does not figure in the 10-years Action Plan formulated under the National Population Policy ?
+(a) Greater involvement of members of self help groups.
+(b) Free and compulsory elementary education.
+(c) Compulsory registration of marriages and pregnancy.
+(d) Special reward for men who adopt terminal family planning methods
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023; U.P.P.C.S. (Mains) 2014; U.P. U.D.A./L.D.A. (Pre) 2010; U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Under the National population Policy, 2000, the goal to attain population stagnation has been raised from 2045 to :
+(a) 2055
+(b) 2060
+(c) 2065
+(d) 2070
+@ans (d)
+@end
+
+
+@one U.P. Lower Sub. (Pre) 2002
+As per the National Population Policy 2000, the birth rate has to be reduced by the year 2010 to
+@ans 21 per 1000
+@end
+
+@table
+National Population Policy 2000 | Detail
+Announced | **15 February 2000**
+Goals | TFR to **replacement level (2.1) by 2010**; **stable population by 2045**, later pushed to **2070**
+Other aims | Free, compulsory schooling to 14; IMR below 30; MMR below 100; **registration of births, deaths, marriages, pregnancies**; role for **SHGs** and panchayats
+National Commission on Population | Chaired by the **Prime Minister** (2000)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2001, 2020
+What should be Total Fertility Rate (TFR) of a population in order to reach at the replacement level of fertility?
+(a) 1.0
+(b) 1.6
+(c) 2.1
+(d) 2.3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+What was the Total Fertility Rate (TFR) by residence of India as per Sample Registration Survey (SRS), 2016?
+(a) 3.4
+(b) 3.1
+(c) 2.3
+(d) 2.8
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+What is the current Total Fertility Rate (TFR) of India according to the National Family Health Survey (NFHS) (2015-16)?
+(a) 2.2
+(b) 2.4
+(c) 3.2
+(d) 3.4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Mains) 2016
+As per Census 2011, the Total Fertility Rate (TFR) of India is:
+(a) 3.2
+(b) 2.9
+(c) 2.6
+(d) 2.4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+The total fertility rate in India is highest in:
+(a) Andhra Pradesh
+(b) Bihar
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (b)
+@note When asked (2001), **Uttar Pradesh** (d) had the highest TFR. The source keys the present answer, **(b) Bihar** (TFR **2.8**, SRS 2023; UP 2.6).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Assertion (A) : The size of population and its composition are responsible for the social change.
+Reason (R) : The fertility of occupational groups in which the wives engage more generally in gainful occupations is lower than that of other groups in the same economic category.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Spl.) (Mains) 2004
+Which one of the following States has the highest female life expectancy at birth (year 2001-06)?
+(a) Tamil Nadu
+(b) Odisha
+(c) Uttar Pradesh
+(d) Punjab
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+If the birth and death rates are the same and there is no internal or external migration, then there is no change in the population, this is known as :
+(a) Steady population
+(b) Zero population growth
+(c) Dynamic population
+(d) Stability of Population
+@ans (d)
+@end
+
+
+
+@table
+Fertility fact | Figure
+**Replacement TFR** | **2.1**
+India's TFR | 2.4 (Census 2011), **2.3 (SRS 2016)**, **2.2 (NFHS-4, 2015-16)**, **2.0 (NFHS-5, 2019-21)**, **1.9 (SRS 2021-23)**
+Highest TFR states | **Bihar**, UP, MP, Rajasthan
+Lowest | **Delhi (1.2)**, Tamil Nadu and West Bengal (1.3)
+Female life expectancy 2001-06 | Highest among the options: **Punjab** (70.4); now Tamil Nadu and Punjab about 75
+@end
+
+When birth and death rates are equal with no migration, the population is **stable** (zero growth). Working women tend to have **fewer children**, and population size and composition drive social change.
+
+@section 24.5 | Mortality
+
+@pyq U.P.P.C.S. (Pre) 2007
+Crude death rate in India presently stands at :
+(a) below 9 percent
+(b) between 9 to 10 percent
+(c) between 10 to 11 percent
+(d) between 11 to 12 percent
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001
+Death rate in India in the year 2000, is estimated to be:
+(a) 16 per thousand
+(b) 14 per thousand
+(c) 12 per thousand
+(d) 9 per thousand
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Among the following in which State the death rate in the year 2015 was lowest?
+(a) Maharashtra
+(b) West Bengal
+(c) Gujarat
+(d) Karnataka
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Under the Civil Registration System (CRS), it is legally mandatory to register birth and death events within how many days in India?
+(a) 15 days
+(b) 21 days
+(c) 26 days
+(d) 30 days
+@ans (b)
+@end
+
+@pyq U.P. U.D.A. / L.D.A. (Pre) 2013
+Which of the following States has started the death Census?
+(a) Karnataka
+(b) Kerala
+(c) Andhra Pradesh
+(d) Himachal Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Infant mortality rate in India at present is nearly:
+(a) 120 per thousand
+(b) 100 per thousand
+(c) 70 per thousand
+(d) 30 per thousand
+@ans (*)
+@note When asked (2000), IMR was about **70** (option c), so it was correct then; it has fallen to **25 per 1,000 live births (SRS 2023)**, close to option (d), so the source marks it (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015; U.P. R.O. / A.R.O. (Mains) 2014
+According to the Census 2011, which of the following States had the lowest infant mortality rate?
+(a) Tamil Nadu
+(b) Punjab
+(c) Kerala
+(d) Karnataka
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The lowest infant mortality in urban areas of India is found in :
+(a) Kerala
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Gujarat
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following States had less Infant Mortality Rate (IMR) than All India Average IMR in 2011 ?
+(a) Tamil Nadu
+(b) Uttar Pradesh
+(c) Rajasthan
+(d) Madhya Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+The target to reduce Infant Mortality Rate (IMR) during Eleventh Plan period was kept at :
+(a) 27 per 1000 live births
+(b) 28 per 1000 live births
+(c) 29 per 1000 live births
+(d) 30 per 1000 live births
+@ans (b)
+@end
+
+@pyq U.P. U.D.A. /L.D.A. (Pre) 2001
+According to the UNICEF report, the highest child mortality rate is in :
+(a) Bihar
+(b) Rajasthan
+(c) Andhra Pradesh
+(d) Odisha
+@ans (d)
+@end
+
+
+
+@table
+Mortality fact | Figure
+Crude death rate | About **9 per 1,000** in 2000; about **6-7** now (SRS)
+Lowest death rate 2015 (among options) | **Maharashtra**
+**IMR** India | 44 (2011) → **25 (2023)**
+Lowest IMR state | **Kerala** (about 5); Goa and Manipur were lowest in 2011 data
+Eleventh Plan IMR target | **28**
+**Registration of births and deaths** | Within **21 days** (Registration of Births and Deaths Act, 1969; amended 2023 for digital records)
+First "death census" | **Karnataka**
+@end
+
+@section 24.6 | Age Structure and Demographic Dividend
+
+@pyq U.P. P.C.S. (Pre) 2016
+The Census Projection Report shows that India is one of the youngest nation in the world. In year 2020, the average age of Indians will be of :
+(a) 27 years
+(b) 28 years
+(c) 29 years
+(d) 30 years
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2013
+According to Census 2011, what percentage of total population in India is under 14 years?
+(a) 29%
+(b) 30%
+(c) 31%
+(d) 32%
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+The percentage of the population in the age group 20 years and above out of the total population of India as per 2011 Census is :
+(a) 59.29%
+(b) 60.81%
+(c) 61.05%
+(d) 62.17%
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+According to the provisional data of Census 2011, what percentage of population is below the age of 35 years in India ?
+(a) 45 %
+(b) 55 %
+(c) 65 %
+(d) 75 %
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Mains) 2016
+The old age dependency ratio in India (2011) is :
+(a) 14.0%
+(b) 14.1%
+(c) 14.2%
+(d) 14.3%
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+The demographic dividend is :
+(a) Working population of 14 to 50 years
+(b) Working population of 15 to 59 years
+(c) Working population of above 60 years
+(d) 0-6 years population
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+When population experts refers to the possible 'Demographic Bonus' that may accrue to India around 2016, they are referring to the Phenomenon of :
+(a) A surge in the population in the productive age group
+(b) A sharp drop in the total population
+(c) A decline in birth and death rates
+(d) A well balanced sex ratio
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Which group refers to dependent population in the population pyramid?
+(a) 15-60 years group
+(b) Above 60 years group
+(c) Above 50 years group
+(d) 0-14 years group
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The Dependency Ratio in India is declining because :
+(a) Population of 0-14 years is relatively high
+(b) Population of 60 years and above is relatively high
+(c) Population of 15-59 years is relatively high
+(d) Population of 0-14 years and 60 years and above together are relatively high
+@ans (c)
+@end
+
+
+@table
+Age fact (2011) | Figure
+Children 0-14 | **About 29-31%** (30.8% final)
+Under 35 | About **65%**
+Old-age dependency ratio | **14.2%**
+Median age | About **29 years** (2020)
+**Demographic dividend** | Growth gain when the **working-age (15-59/64)** share is high; India's window runs to about **2055**
+Dependent population | **0-14** and **60+**
+Dependency ratio falling | Because the **15-59** share is rising
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Role of Human Resources in Economic development, which of the following statement/s is/are correct?
+1. Effects of economic development on population growth.
+2. Effects of population growth in economic development.
+Select the correct answer using the code given below :
+Code :
+(a) Only 1
+(b) Neither 1 nor 2
+(c) Only 2
+(d) Both 1 and 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which of the following is not an adverse effect of population growth in an economy?
+(a) Increase in size of working population
+(b) Decrease in size of holdings
+(c) Increasing unemployment
+(d) Reduction in per capita availability of food grains
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+According to recent data, in India, how many disabled people are self-dependent?
+(a) 2 percent
+(b) 3 percent
+(c) 5 percent
+(d) 10 percent
+@ans (a)
+@end
+
+
+@pyq U.P. P.C.S. (Mains) 2006
+Under the National Literacy Mission, threshold literacy rate of 75 percent was fixed. The target year for this was:
+(a) 2007
+(b) 2011
+(c) 2015
+(d) 2020
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Progressive population-resource areas of India includes:
+1. Ganga-Yamuna Doab
+2. Coastal Odisha
+3. Rajasthan
+4. Tamil Nadu
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (d)
+@end
+
+
+The **National Literacy Mission** (1988) aimed at **75% literacy by 2007**. The progressive population-resource regions include the **Ganga-Yamuna Doab** and **Tamil Nadu**. A growing **working population** is a gain, not a harm, of population growth; about **2%** of India's people had a disability in 2011.
+
+@up UP link: UP's sex ratio is **912** and child sex ratio **902** (2011); **Jaunpur** (1,024) has the highest and **Gautam Buddha Nagar** (851) the lowest district ratio. UP has the **most SCs** (4.14 crore) and **most Muslims** in India, but the **lowest ST share** (0.6%). Its TFR fell from 2.7 (NFHS-4) to **2.4 (NFHS-5)**.
+
+@trap
+**Sex ratio: 1901 highest (972), 1991 lowest (927), 2011 = 943.** **Kerala 1,084; Puducherry 1,037; Haryana 879; Daman and Diu 618; Mahe top district.** **Child sex ratio falling since 1961: 918 (2011).** **Mizoram/Meghalaya highest CSR, Haryana lowest.** **Punjab highest SC share; UP most SCs; Nagaland no SCs.** **Mizoram highest ST share; MP most STs; Punjab, Haryana no STs.** **NPP 2000: stable population by 2070.** **Replacement TFR 2.1; India 1.9-2.0.** **IMR 25 (2023); Kerala lowest.** **Births/deaths registered in 21 days.** **Old-age dependency 14.2%.** **Demographic dividend = 15-59 bulge.** **Sikhs lowest sex ratio; Christians highest.**
+@end
+
+@heatmap
+
+@pattern
+Sex ratio is the single most-asked demography item (over 30 PYQs). Recent papers (2019-2023) added the **demographic dividend**, TFR from NFHS and SRS, CRS registration rules and religion-wise data.
+@end
+
+@next
+Likely next angles: **NFHS-6** results, **SRS 2023** (TFR 1.9, IMR 25), the **sex ratio at birth**, India's **ageing** (UN *India Ageing Report*), **Census 2027** caste and religion data, and UP's TFR fall.
+@end

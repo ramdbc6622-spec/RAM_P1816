@@ -1,0 +1,723 @@
+@chapter 10 | Money, Inflation and the Reserve Bank of India
+
+@intro
+The money and banking section is the largest in the economy paper, so it is split into three chapters. This first one covers **money** (money supply measures, currency, coins, demonetisation), **inflation** (types, who gains, CPI, WPI, core and headline inflation), and the **Reserve Bank of India** (functions, monetary policy, CRR, SLR, repo, reverse repo, bank rate, open market operations and Governors). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 10.1 | Money Supply and Currency
+
+@pyq U.P.P.C.S. (Mains) 2008
+Consider the following:
+1. Currency with the public
+2. Demand deposits with banks
+3. Time deposits with banks
+Which of these are included in Broad Money (M3) in India?
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 1, 2 and 3
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2009; U.P.P.C.S. (Spl.) (Mains) 2008
+Money multiplier in India is defined as :
+(a) Broad Money / Base Money
+(b) Broad Money / Reserve Money
+(c) Reserve Money / Base Money
+(d) Base Money / Reserve Money
+@ans (b)
+@note The **money multiplier** is **broad money (M3) divided by reserve money (M0)**. The source prints each option as a fraction.
+@end
+
+@table
+Measure | Includes
+**M0 (reserve money)** | Currency in circulation + bankers' deposits with RBI + other deposits with RBI
+**M1 (narrow money)** | **Currency with the public + demand deposits** + other deposits with RBI
+M2 | M1 + savings deposits of post offices
+**M3 (broad money)** | **M1 + time deposits** of banks; the most used measure
+M4 | M3 + all post office deposits
+New aggregates (Y.V. Reddy group, 1998) | NM0-NM3 and liquidity measures L1-L3
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002, 2003
+What is black money?
+(a) It is an illegal currency
+(b) It is a Fake currency
+(c) It is dirty/bad money
+(d) It is an illegal income upon which income tax is not paid
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which of the following was not the stated objective of demonetization in India?
+(a) Reduction in the use of cash in the economy.
+(b) Increasing the use of digital modes of transaction.
+(c) Expanding the tax base.
+(d) Increasing the growth rate of G.D.P.
+@ans (d)
+@end
+
+
+**Demonetisation** (8 November **2016**) withdrew the **Rs. 500 and Rs. 1,000** notes. Its stated aims were to fight **black money, fake notes and terror funding**, cut the use of cash, push **digital payments** and widen the tax base; raising GDP growth was not a stated aim. About **99%** of the withdrawn notes came back. The **Rs. 2,000** note (November 2016) was withdrawn from circulation in May **2023**.
+
+@pyq U.P.P.C.S. (Mains) 2011
+Paper currency was first started in India in :
+(a) 1862
+(b) 1542
+(c) 1601
+(d) 1880
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995; U.P.P.C.S. (Mains) 2005, 2010
+In India, the decimal coinage system was introduced in the year :
+(a) 1951
+(b) 1955
+(c) 1957
+(d) 1960
+@ans (c)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The Reserve Bank of India has the power to print currency notes of Rupees upto :
+(a) Rs. 10,000
+(b) Rs. 5,000
+(c) Rs. 15,000
+(d) Rs. 1,000
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Note issuing department of RBI should always possess the minimum gold stock of worth :
+(a) Rs 85 crore
+(b) Rs 115 crore
+(c) Rs 200 crore
+(d) None of the above
+@ans (b)
+@end
+
+@one U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Mains) 2004, 2007
+In India ‘Currency Notes issue system’ is based on
+@ans Minimum reserve system
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Who is authorized to issue coins in India ?
+(a) Reserve Bank of India
+(b) Ministry of Finance
+(c) State Bank of India
+(d) National Stock Market
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2008
+Coins are minted in India at :
+(a) Delhi, Mumbai and Kolkata
+(b) Delhi, Kolkata and Hyderabad
+(c) Mumbai, Delhi and Bangalore
+(d) Mumbai, Kolkata and Hyderabad
+@ans (d)
+@end
+
+
+@table
+Currency fact | Detail
+First paper money | Bank of Hindostan (1770); **Government paper currency from 1861-62** (Paper Currency Act, 1861)
+**Decimal coinage** | **1 April 1957** (naye paise)
+Note issue system | **Minimum Reserve System** (since **1956**): at least **Rs. 200 crore** of gold and foreign exchange, of which **Rs. 115 crore** in gold
+RBI's power | Can issue notes up to **Rs. 10,000** (Rs. 10,000 notes were issued in 1938 and 1954 and demonetised in 1946 and 1978)
+**Coins and Re. 1 notes** | Issued by the **Government of India** (Ministry of Finance); Re. 1 note bears the **Finance Secretary's** signature
+**Mints** | **Mumbai, Kolkata, Hyderabad, Noida** (UP, 1988)
+Note presses | Nashik, Dewas (government); Mysuru, Salboni (RBI's BRBNMPL)
+Rupee symbol (₹) | 2010, designed by **D. Udaya Kumar**
+@end
+
+@section 10.2 | Inflation
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which of the following is/are definite implication(s) of a fall in inflation rate :
+I. Prices have fallen.
+II. Prices are increasing more slowly than before.
+III. Food supply has increased.
+IV. There is industrial stagnation.
+Select the correct answer from the codes given below:
+Codes :
+(a) I and III
+(b) I only
+(c) II only
+(d) I, III and IV
+@ans (c)
+@note A **fall in the inflation rate (disinflation)** only means prices are still rising, but more slowly. Prices actually falling is **deflation**.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Who amongst the following benefits most from inflation:
+(a) Creditors
+(b) Debtors
+(c) Savings Account holders
+(d) Government pensioners
+@ans (b)
+@end
+
+@one U.P. R.O. / A.R.O. (Mains) 2016
+Inflation is beneficial to which of the following section of economy?
+@ans Debtors
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Given below are two statements one is labelled as
+Assertion (A) and other as Reason (R) :
+Assertion (A) : The government faces a tough time tackling the bottleneck inflation.
+Reason (R) : The situation is due to deficiencies existing in the economy such as supply bottleneck and inefficient distribution.
+Select the correct answer from the codes given below.
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+
+@table
+Inflation type | Meaning
+**Demand-pull** | Too much money chasing too few goods
+**Cost-push** | Rising costs (wages, oil) push prices up
+**Bottleneck** | **Supply shortages** and poor distribution; hard to tackle with demand tools
+**Stagflation** | High inflation + **stagnation** (low growth, high unemployment)
+**Disinflation** | Slower rise in prices
+**Deflation** | Fall in the general price level
+Creeping / galloping / **hyperinflation** | Below 3% / double digits / runaway
+@end
+
+**Debtors** gain from inflation (they repay in cheaper money); **creditors, savers and fixed-income earners** (pensioners) lose. To control inflation the government **raises** interest rates, curbs demand and money supply, and may ration goods; **lowering interest rates** would feed inflation.
+
+@pyq U.P.P.C.S. (Mains) 2017
+Core inflation is defined as :
+(a) Headline inflation excluding only fuel inflation.
+(b) Food inflation and fuel inflation.
+(c) Headline inflation excluding only food inflation.
+(d) Headline inflation excluding both food inflation and fuel inflation.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.P.C.S. (Mains) 2008; U.P. Lower Sub. (Spl.) (Pre) 2004
+The most common measure of estimating inflation in India is :
+(a) Price Index
+(b) Wholesale Price Index
+(c) Consumer Price Index
+(d) Price Index of Industrial Goods
+@ans (c)
+@note When this was first asked (2004-2008), the **WPI** was India's headline inflation measure, so (b) was the answer then. Since **2014** (Urjit Patel committee) the RBI targets **CPI (Combined)** inflation, and the source gives the present answer, **(c)**.
+@end
+
+@one U.P.P.C.S. (Pre) 2021
+Headline inflation refers to the change in value of all goods on the basket. On which basis is the headline inflation measured?
+@ans Combined Consumer Price Index
+@end
+
+
+
+@pyq U.P.B.E.O. (Pre) 2019
+Consider the following statements with respect to Consumer Price Index and select the correct answer from the codes given below :
+1. It computes price changes in both goods and services.
+2. It is computed by the Office of Economic Advisor (OEA), Department of Industrial Policy and Promotion.
+3. It is taken as the measure of inflation while formulating Monetary Policy by RBI.
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1 and 3
+(d) Only 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The base of Consumer Price Index for industrial workers has been shifted from 1982 to :
+(a) 2002
+(b) 2001
+(c) 2000
+(d) 1998
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 1990
+Industrial Consumer Price Index year 1960 was changed to which base year?
+@ans 1982
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following price index is used to compensate the wages of Central Government employees?
+(a) Wholesale Price Index
+(b) Consumer Price Index for Industrial Workers
+(c) Consumer Price Index for Agricultural Labourers
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008; U.P.P.C.S. (Mains) 2008
+The basis of determining dearness allowances to employees of India is :
+(a) National Income
+(b) Consumer Price Index
+(c) Standard of Living
+(d) Per Capita Income
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India?
+(a) The Reserve Bank of India
+(b) The Ministry of Commerce and Industry
+(c) The Ministry of Finance
+(d) The Ministry of Consumer Affairs Food and Public Distribution
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+In calculation of Index of wholesale prices which one of the following sectors is assigned maximum weightage?
+(a) Food articles
+(b) Non-food articles
+(c) Fuel, power, light and Iubricants
+(d) Manufactured products
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The new WPI series was introduced on :
+(a) 1 April, 2010
+(b) 1 July, 2010
+(c) 15 August, 2010
+(d) 14 September, 2010
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Producer Price Index measures :
+(a) the average change in the prices of produced goods and services.
+(b) the marginal change in the prices of produced goods and services.
+(c) the total change in the prices of produced goods and services.
+(d) None of the above.
+@ans (a)
+@end
+
+
+@table
+Index | Compiled by | Base | Use
+**CPI (Combined)** | **NSO, MoSPI** | 2012 (being revised to a newer base) | **Headline inflation**; RBI's target (goods and services)
+**CPI-IW** (industrial workers) | **Labour Bureau** | **2016** (from September 2020); earlier 1960 → 1982 → **2001** | **Dearness allowance** of government employees
+CPI-AL / CPI-RL | Labour Bureau | 1986-87 | Agricultural and rural labour wages
+**WPI** | **Office of Economic Adviser, DPIIT, Ministry of Commerce and Industry** | **2011-12** (from May 2017); 2004-05 series released 14 September 2010 | Goods only; **manufactured products** have the largest weight (about 64%)
+**Core inflation** | - | - | Headline **minus food and fuel**
+**PPI** | Proposed | - | **Average change** in prices received by producers
+@end
+
+The WPI working group on the 2004-05 series was chaired by **Abhijit Sen** (2007). The **inflation target** is **4% ± 2%** (CPI), set under the RBI Act amendment of 2016.
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is NOT a method to control inflation?
+(a) Controlling the demand
+(b) Controlling the supply of money
+(c) Reducing the rate of interest
+(d) Rationing of commodities
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Who has been recently made the Chairman of the working group on revision of Wholesale Price Index Series ?
+(a) C. Rangarajan
+(b) P.R. Panchamukhi
+(c) K.C. Pant
+(d) Abhijit Sen
+@ans (d)
+@end
+
+
+@section 10.3 | The Reserve Bank of India
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Consider the following statements related to Reserve Bank of India (RBI) and choose the correct answer from the codes given below : I. It is the apex bank. II. It regulates the money supply. III. It provides loan to business families. IV. It monitors the work of NABARD.
+Codes :
+(a) I and II
+(b) II and IV
+(c) I, II andb III
+(d) I, II and IV
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+In money and financial matters, who is the financial agent and adviser of the government?
+(a) NABARD
+(b) SEBI
+(c) RBI
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Treasury bills are sold in India by :
+(a) Reserve Bank of India
+(b) State Governments
+(c) Commercial Banks
+(d) SEBI
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2014
+The Reserve Bank of India does not carries out the transactions of which State Government?
+(a) Nagaland
+(b) Jammu & Kashmir
+(c) Punjab
+(d) Assam
+@ans (*)
+@note When asked (2014), the RBI did not do the general banking business of **Jammu and Kashmir**, which used **J&K Bank** as its banker, so (b) was the answer then. Since April **2011** J&K Bank has acted as the **RBI's agent**, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following statements is not correct?
+(a) RBI is the Central Bank of the country.
+(b) RBI is the banker of the Central and the State Governments.
+(c) RBI is the custodian of the country’s Foreign Exchange Reserve.
+(d) RBI was established in 1949.
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2010
+Where is the headquarters of RBI located?
+@ans Mumbai
+@end
+
+@one U.P.P.S.C. (GIC) 2010
+The Banker's Bank is
+@ans Reserve Bank of India
+@end
+
+@one U.P.P.C.S. (Pre) 2012
+Who maintains the foreign exchange reserves in India?
+@ans Reserve Bank of India
+@end
+
+@one U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Who controls the credit creation by commercial banks in India?
+@ans Reserve Bank of India
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which of the following statements is not correct regarding the Reserve Bank of India?
+(a) It issues all types of currency notes.
+(b) It functions as a branch bank of the Government of India.
+(c) It is banker's bank.
+(d) It exchanges foreign currency.
+@ans (a)
+@note The RBI issues **all notes except the one-rupee note**, which is issued by the **Government of India** under the Finance Secretary's signature. One-rupee notes were stopped in 1994 and brought back in 2015.
+@end
+
+@one U.P. Lower Sub. (Spl.) (Pre) 2004
+In Indian currency, the one rupee note is issued under the signature of
+@ans Finance Secretary, Ministry of Finance, Govt. of India
+@end
+
+@table
+RBI fact | Detail
+Established | **1 April 1935** (RBI Act 1934; Hilton Young Commission); **nationalised 1 January 1949**
+Headquarters | Kolkata at first, **Mumbai** since 1937
+Roles | Note issue; **banker to the governments**; **bankers' bank**; **custodian of forex reserves**; **credit control**; **debt manager** (sells **treasury bills** and government securities)
+Financial year | **April-March** from 2020-21 (earlier **July-June**)
+First Governor | **Osborne Smith**; first Indian: **C.D. Deshmukh**
+Governor now | **Sanjay Malhotra** (since 11 December 2024; 26th)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Consider the following Governors of Reserve Bank of India and arrange them in chronological order : I. Dr. C. Rangarajan II. Dr. I.G. Patel III. Dr. D. Subbarao IV. Dr. Manmohan Singh
+Select correct answer using the code given below :
+(a) IV, II, III and I
+(b) II, IV, I and III
+(c) IV, I, II and III
+(d) II, I, IV and III
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Who among the following has not been the Governor of Reserve Bank of India ?
+(a) Manmohan Singh
+(b) Bimal Jalan
+(c) C. Rangarajan
+(d) Raja J. Chelliah
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The financial year for banks is April-March; but what is the financial year for RBI?
+(a) January-December
+(b) April-March
+(c) October - September
+(d) July - June
+@ans (b)
+@note When asked (2013), the RBI's year ran **July-June** (option d). It changed to **April-March** from **2020-21**, so the source keys the present answer (b).
+@end
+
+
+
+Governors in order: **I.G. Patel (1977-82) → Manmohan Singh (1982-85) → C. Rangarajan (1992-97) → Bimal Jalan → Y.V. Reddy → D. Subbarao (2008-13) → Raghuram Rajan → Urjit Patel → Shaktikanta Das → Sanjay Malhotra**. **Raja Chelliah** was a tax expert, never Governor.
+
+@section 10.4 | Monetary Policy and Its Tools
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which one of the following is not a function of Reserve Bank of India ?
+(a) Credit control
+(b) As apex body of Scheduled Commercial Banks
+(c) Formulation of monetary policy
+(d) Credit creation
+@ans (d)
+@end
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016
+Monetary Policy is :
+(a) Opposed to fiscal policy
+(b) Complementary to fiscal policy
+(c) More effective during depression
+(d) Direct measure to control effective demand
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following is not an objective of Monetary Policy ?
+(a) Price Stability
+(b) Economic Stability
+(c) Equitable Distribution of Income and Assets
+(d) Foreign Exchange Rate Stability
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+Who formulates the monetary policy in India ?
+(a) SEBI
+(b) RBI
+(c) Finance Ministry
+(d) Planning Commission
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+In India ‘Money and Credit’ is controlled by the :
+(a) Central Bank of India
+(b) Industrial Development Bank of India
+(c) Reserve Bank of India
+(d) State Bank of India
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which one of the following is not the method of quantitative credit control?
+(a) Bank rate
+(b) Variable reserve ratio
+(c) Open market operation
+(d) Rationing of credit
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010; U.P. Lower Sub. (Pre) 2008
+Open market operations of Reserve Bank of India refer to :
+(a) trading in securities
+(b) auctioning of foreign exchange
+(c) transaction in gold
+(d) none of the above
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2017
+Open market operations are included in
+@ans Quantitative techniques of credit control
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Given below are two statements, one labelled as
+Assertion (A) and other as Reason (R).
+Assertion (A) : Under Operation Twist, RBI simultaneously sell short-term securities and buys long- term securities.
+Reason (R) : The main objective of this operation is to promote long-term investment.
+Choose the correct answer from the codes given below.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Consider the following measures that RBI uses to control inflation in the economy.
+1. Increase Bank Rate
+2. Increase Cash Reserve Ratio
+3. Increase Statutory Liquidity Ratio
+4. Purchase of government securities
+Select the correct answer from the codes given below:
+(a) Only 1 and 2
+(b) Only 1, 2 and 3
+(c) Only 2, 3 and 4
+(d) Only 1, 3 and 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The banks are required to maintain a certain ratio between their cash in hand and total assets. This is called:
+(a) SBR (Statutory Bank Ratio)
+(b) SLR (Statutory Liquid Ratio)
+(c) CBR (Central Bank Reserve)
+(d) CLR (Central Liquid Reserve)
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+Which of the following is not determined by Reserve bank of India ?
+(a) Bank rate
+(b) C.R.R.
+(c) P.L.R.
+(d) S.L.R.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Since the economic reforms were launched in India, which one of the following statements is true for Statutory Liquidity Ratio (SLR) and Cash Reserve Ratio (CRR) of the commercial banks :
+(a) Both SLR and CRR have been raised
+(b) SLR has been reduced but CRR has been raised
+(c) SLR has been raised but CRR has been reduced
+(d) Both SLR and CRR have been reduced
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The mandatory proportion of the total deposits and reserves of the commercial banks deposited with the Reserve Bank of India is called :
+(a) Balance of payment
+(b) Bank Guarantee
+(c) Caution Money
+(d) Cash Reserve Ratio
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010
+An increase in CRR by the Reserve Bank of India results in :
+(a) decrease in debt of the government
+(b) reduction in liquidity in the economy
+(c) attracting more FDI in the country
+(d) more flow of credit to desired sectors
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following statements is correct regarding increase in the Cash Reserve Ratio in India?
+(a) It increases credit creation
+(b) It reduces credit creation
+(c) It does not affect credit
+(d) It denotes liberal monetary policy
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2017
+Repo Rate comes under purview of :
+(a) Monetary Policy
+(b) Fiscal Policy
+(c) Labour Policy
+(d) Population Policy
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+‘Repurchase Option’ is used :
+(a) to reduce the heavy sell off pressure of rupee in Exchange market.
+(b) to increase the sell off pressure of rupee in Exchange market.
+(c) to reduce the value of rupee in Exchange market.
+(d) None of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008; U.P.P.C.S. (Spl.) (Mains) 2008
+The interest rate at which the Reserve Bank of India lends to Commercial banks in the short term to maintain liquidity is known as :
+(a) Interest Rate
+(b) Reverse Repo Rate
+(c) Bank Rate
+(d) Repo Rate
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+The rate at which banks lend to Reserve Bank of India is known as :
+(a) Bank Rate
+(b) Repo Rate
+(c) Reverse Repo Rate
+(d) Interest Rate
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Bank Rate implies the rate of interest :
+(a) paid by the Reserve Bank of India on the deposits of commercial banks
+(b) charged by banks on loans and advances
+(c) payable on bonds
+(d) at which the Reserve Bank of India discounts the Bills of Exchange
+@ans (d)
+@end
+
+@one U.P.P.C.S (Pre) 2009; U.P.P.C.S. (Mains) 2011
+Bank Rate means the rate of interest
+@ans Charged by Reserve Bank
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+In the last one year i.e., June 2010 to June 2011, the difference between Repo Rate and Reverse Repo Rate is in the order of :
+(a) 0.25 percent
+(b) 0.50 percent
+(c) 0.75 percent
+(d) 1.00 percent
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P.B.E.O. (Pre) 2019
+The Policy Repo Rate and Reverse Repo Rate announced by Reserve Bank of India on December 5, 2019 were respectively :
+(a) 6% and 5.75%
+(b) 5.40% and 5.15%
+(c) 5.15% and 4.9%
+(d) 5.75% and 5.5%
+@ans (c)
+@end
+
+
+@table
+Tool | Meaning | Rate (from 5 December 2025)
+**CRR** | Share of deposits kept as **cash with the RBI** | **3%**
+**SLR** | Share of deposits kept by banks in **cash, gold or government securities** | **18%** (38.5% in 1991)
+**Repo rate** | Rate at which **RBI lends** short-term to banks against securities | **5.25%**
+**Reverse repo** | Rate at which **banks park money with the RBI** | 3.35% (fixed); the **SDF** at **5.00%** is now the floor
+**Bank rate** | Rate at which RBI **rediscounts bills** / lends long-term | 5.50%
+**MSF** | Emergency overnight borrowing | 5.50%
+**Open market operations** | **Buying and selling government securities** | -
+**Operation Twist** | Buy long-term, sell short-term securities together (from **December 2019**) to lower long-term rates | -
+@end
+
+**Quantitative tools** (bank rate, CRR, SLR, OMO) control the total amount of credit; **qualitative tools** (credit rationing, margin requirements, moral suasion) direct it. To fight inflation the RBI **raises** CRR, SLR, repo and bank rate and **sells** securities; buying securities adds money. Since **2016** a six-member **Monetary Policy Committee** sets the repo rate. **PLR** (now the MCLR/external benchmark) is set by **banks**, not the RBI. Banks, not the RBI, do **credit creation**.
+
+@one U.P.P.C.S. (Mains) 2002
+Who regulates the Repo rate?
+@ans Reserve Bank of India
+@end
+
+@up UP link: India's newest **coin mint** is at **Noida** (UP, 1988), one of four. The RBI has regional offices in **Lucknow and Kanpur**, and **SIDBI** is headquartered in **Lucknow**.
+
+@trap
+**M3 = M1 + time deposits; money multiplier = M3/M0.** **Decimal coins 1957.** **Minimum reserve Rs. 200 crore (gold Rs. 115 crore).** Coins and Re. 1 note = **Government**; the RBI issues the other notes. **Mints: Mumbai, Kolkata, Hyderabad, Noida.** Fall in inflation = prices rising **more slowly**. **Debtors gain.** **Core = headline − food − fuel.** **WPI: Commerce Ministry; CPI-IW: Labour Bureau; DA uses CPI-IW.** **RBI 1935, nationalised 1949.** Repo: RBI lends; reverse repo: RBI borrows. **CRR up = less liquidity.** **Credit creation = commercial banks.**
+@end
+
+@heatmap
+
+@pattern
+RBI tools (CRR, SLR, repo) and inflation basics are asked in almost every paper. Recent papers (2017-2021) added **core inflation**, **Operation Twist**, CPI facts and the WPI publisher. Questions on exact policy rates on a given date also appear.
+@end
+
+@next
+Likely next angles: the **2025 rate cuts** (repo 6.50% → 5.25%), the **CRR cut to 3%**, the **new CPI and GDP base years**, the **inflation-target review** (2026), the **digital rupee (e₹)**, and **UPI** growth.
+@end

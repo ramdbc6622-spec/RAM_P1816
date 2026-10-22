@@ -1,0 +1,109 @@
+@chapter 36 | Constitutional Amendment
+@meta Built from 37 UPPSC questions (1990–2024). Focus: Art 368 procedure, types of amendment, basic-structure cases, landmark amendments and their numbers.
+
+@hot
+- Amendment under **Art 368**; introduced in **either House**, never by State legislatures {2008, 2013, 2013, 2015, 2024}
+- **Basic structure**: **Kesavananda Bharati (1973)**; **Golaknath** first limited the amending power {2002, 2005, 2016, 2020, 2022}
+- **52nd** = anti-defection; **61st** = voting age 18; **69th** = Delhi NCT {1992, 1996, 2006, 2008, 2009, 2014, 2015, 2021, 2022}
+- **86th** = Art 21A education; **91st** = 15% ministry cap; **97th** = co-operatives {2004, 2006, 2015, 2016, 2017, 2022}
+@end
+
+@section 36.1 | Art 368 Procedure
+- Parliament can amend any part under Art 368 (key: R explains A) {2015}
+- Special majority in each House separately: **Constitution Amendment Bill** {2007}
+- Provision: **Art 368** {2008}
+- Initiated by **Lok Sabha or Rajya Sabha** (1 and 2); in **either House** {2024, 2013, 2013}
+- RS rejects an amendment Bill: the Bill **is dropped** (no joint sitting) {2004}
+
+@flow Passing a Constitution Amendment Bill
+Introduce | Either House; minister or private member
+Each House | Majority of total + two-thirds present and voting
+States (if federal) | Half the State legislatures ratify
+President | Must assent (24th Amendment)
+@end
+
+@section 36.2 | Types and Ratification
+- Half the States must ratify: **federal provisions, Supreme Court, Art 368 itself** (1, 2, 3); not new States {2004}
+
+@table
+Method | Examples
+Simple majority (outside Art 368) | New States (Arts 2-4), citizenship, Rajya Sabha seats, quorum
+Special majority | FRs, DPSP, most provisions
+Special majority + half the States | President's election, SC and HCs, Seventh Schedule, Art 368, representation in Parliament
+@end
+
+@section 36.3 | FRs and Basic Structure
+- Order: **Shankari Prasad, Sajjan Singh, Golaknath, Kesavananda** {2024}
+- Order: **Golaknath (1967), 24th (1971), Kesavananda (1973), 42nd (1976)** {2021}
+- First limited the amending power: **Golaknath** {2002}
+- Kesavananda: SC set out the **basic features** {2005}
+- Basic structure: **Kesavananda Bharati** {2016, 2020, 2022}
+- Competent to amend FRs: **Parliament** {2016}
+- Laws for Art 39(b), (c) saved from Arts 14, 19: **25th Amendment** (Art 31C) {2009}
+
+@section 36.4 | Master Table
+- **42nd-1976, 52nd-1985, 86th-2002, 96th-2011** {2024}
+
+@section 36.5 | First and Sikkim
+- 1st Amendment (1951): **protected agrarian reforms** (Ninth Schedule) {2009}
+- Sikkim a State: **36th Amendment** {2006}
+- Sikkim: joined 1975; botanist's paradise (I and II); Lepchas are a minority {2004}
+
+@section 36.6 | 1970s
+- **38th-curtailed courts' power (Emergency), 44th-property right abolished, 61st-voting age, 42nd-"socialist" added** {2017}
+- Fundamental Duties: **42nd** {2003}
+
+@section 36.7 | 1985-1999
+- Banned floor-crossing: **52nd**; 52nd = **defection** {1992, 1996, 2008, 2006}
+- Hindi authoritative text: **58th** (1987) {2016}
+- Voting age 18: **61st** {2014, 2021}
+- Delhi NCT: **69th** {2009, 2015, 2022}
+- SC/ST seats extended: **79th** {2008, 2013}
+
+@section 36.8 | From 2002
+- Art 21A: **86th**; education an FR by the 86th (2002) {2006, 2022}
+- 15% ministry cap: **91st** {2004, 2015, 2017}
+- "Co-operative societies" in Art 19(1)(c): **97th** (2011) {2016}
+- Co-operative board: up to **21** directors (Art 243ZJ) {2016}
+- **91st-Art 164, 92nd-Eighth Schedule, 95th-Art 334, 103rd-Art 15** {2016}
+
+@table
+Amendment | Change
+1st (1951) | Ninth Schedule; Art 15(4)
+7th (1956) | States reorganised; Art 350A, 350B
+24th (1971) | Parliament can amend FRs; assent compulsory
+42nd (1976) | Socialist, Secular, Integrity; Duties
+44th (1978) | Property out; "armed rebellion"
+52nd (1985) | Anti-defection
+61st (1988) | Voting age 18
+73rd, 74th (1992) | Panchayats, Municipalities
+86th (2002) | Art 21A, 45, 51A(k)
+101st (2016) | GST
+103rd (2019) | 10% EWS quota
+106th (2023) | One-third seats for women
+@end
+
+@section 36.9 | Count
+- Amendment Acts implemented up to 2013: **98** {2014}
+
+@trap
+- No **joint sitting** and no **veto** for Amendment Bills.
+- Ratification (half the States) is different from Art 3 consultation.
+- **25th** created Art 31C for 39(b), (c); **42nd** widened it.
+- **35th** = associate state; **36th** = Sikkim full State.
+@end
+
+@up The **73rd and 74th** Amendments shaped UP's 3-tier Panchayats and 17 Municipal Corporations. The **Indira Gandhi v. Raj Narain** case (from Allahabad HC) led to the 39th Amendment, partly struck down.
+
+@last
+- Art **368**; either House; no State initiative
+- Special majority; half the States for federal parts
+- Golaknath 1967 → 24th 1971 → **Kesavananda 1973** → 42nd 1976
+- **25th** = Art 31C; **1st** = land reforms
+- **36th** Sikkim; **42nd** Duties; **44th** property out
+- **52nd** defection; **58th** Hindi text; **61st** age 18
+- **69th** Delhi; **79th** SC/ST seats extended
+- **86th** Art 21A; **91st** 15% cap; **97th** co-operatives
+- Co-op board max **21** directors
+- 98 Acts by 2013; **106th** latest (women)
+@end

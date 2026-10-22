@@ -1,0 +1,89 @@
+@chapter 7 | Sixth Century BCE: Political Condition
+@unit UNIT III · MAHAJANAPADAS TO THE MAURYAS
+@meta Built from 25 UPPSC questions (1992–2021). Focus: the sixteen Mahajanapadas and their capitals, UP's Mahajanapadas, kings of the Buddha's age, Haryanka, Shishunaga and Nanda Magadha, punch-marked coins.
+
+@hot
+- **Mahajanapada-capital matching**: **Kuru-Indraprastha, Panchala-Ahichhatra, Kosala-Shravasti/Saketa, Vatsa-Kaushambi, Surasena-Mathura, Chedi-Suktimati, Anga-Champa, Matsya-Viratnagar, Asmaka-Potana** {2008, 2011, 2014, 2016, 2017, 2020, ?}
+- Sixteen Mahajanapadas listed in the **Anguttara Nikaya**; **8** lay in today's UP {2004, 2008, 2008, 2021}
+- **Ajatashatru** killed his father Bimbisara and was killed by his son {2007, 2011}
+- **Mahapadma Nanda** = "Aparo Parashurama"; Nanda is named in **Kharavela's Hathigumpha** inscription {1999, 2010, 2010}
+- Earliest Indian coins: **silver punch-marked** {2010}
+@end
+
+@section 7.1 | The Sixteen Mahajanapadas
+- Listed in the **Anguttara Nikaya** {2004, 2008, 2008}
+- Mahajanapadas in present UP: **8** {2021}
+- **Kuru-Indraprastha, Panchala-Ahichhatra, Kosala-Saketa, Vatsa-Kaushambi** {2008}
+- Wrong pair: **Kosala-Ahichhatra** {2017}
+- Capital of North Panchala: **Ahichhatra** {2006}
+- Wrong pair: **Surasena-Kaushambi** (Surasena = **Mathura**) {2016}
+- **Suktimati**: capital of **Chedi** {2011}
+- Ancient Shravasti: **crescent-shaped** town {2010}
+- **Kalpi** stands on the **Yamuna** {2015}
+- **Champa**: capital of **Anga** {2014}
+- **Matsya**: **Rajasthan** {2017}
+- **Matsya-Viratnagar, Kuru-Indraprastha, Surasena-Mathura, Asmaka-Potana** {2020}
+- Ujjain's old name: **Avantika** {2009}
+
+@table
+Mahajanapada | Capital | Today
+Kashi | Varanasi | UP
+Kosala | Shravasti, Saketa | UP
+Vatsa | Kaushambi | UP
+Panchala | Ahichhatra, Kampilya | UP
+Surasena | Mathura | UP
+Kuru | Indraprastha | Delhi-Haryana-west UP
+Malla | Kushinara, Pava | UP
+Chedi | Suktimati | Bundelkhand
+Magadha | Rajagriha | Bihar
+Anga | Champa | Bihar
+Vajji | Vaishali | Bihar
+Avanti | Ujjayini, Mahishmati | MP
+Matsya | Viratnagar | Rajasthan
+Asmaka | Potana | Godavari (only one in the south)
+Gandhara, Kamboja | Taxila; Rajapura | North-west
+@end
+
+@section 7.2 | Republics and Kings
+- Not an early republic: **Yaudheya** (a later gana) {1992}
+- **Pradyota-Avanti, Udayana-Vatsa, Prasenajit-Kosala, Ajatashatru-Magadha** {2000, 2004}
+- Udayana-Vasavadatta story: **Ujjain** {2008}
+- Physician **Jivaka**: **Bimbisara's** court {2006}
+
+@section 7.3 | Rise of Magadha
+- Killed his father and was killed by his son: **Ajatashatru** {2007, 2011}
+- Magadha took Malwa (Avanti) under **Shishunaga** {2008}
+- Varanasi as second capital: unclear (*); UPPSC accepted **Shishunaga** {2007}
+- **Aparo Parashurama**: **Mahapadma Nanda** {2010}
+- Nanda evidence: **Kharavela's Hathigumpha** inscription {2010}
+- A Nanda king dug a canal in **Kalinga** {1999}
+- Earliest extant coins: **silver** (punch-marked) {2010}
+
+@flow Dynasties of Magadha
+Haryanka | Bimbisara, Ajatashatru, Udayin (founded Pataliputra)
+Shishunaga | Shishunaga (took Avanti), Kalashoka (2nd Buddhist council)
+Nanda | Mahapadma Nanda (Ugrasena), Dhanananda
+Maurya | Chandragupta (322 BCE) with Chanakya
+@end
+
+@trap
+- Kosala's capital is **Shravasti/Saketa**; Ahichhatra is Panchala.
+- Surasena = **Mathura**; Vatsa = **Kaushambi**.
+- **Asmaka** is the only southern Mahajanapada.
+- Earliest coins = silver punch-marked; first king's portrait = Indo-Greek.
+@end
+
+@up UP link: eight Mahajanapadas lay in present UP: **Kashi, Kosala, Vatsa, Panchala, Surasena, Malla, Chedi** (Bundelkhand part) and part of **Kuru**; capitals such as **Shravasti, Kaushambi, Ahichhatra** (Bareilly), **Mathura** and **Varanasi** are all in UP.
+
+@last
+- 16 Mahajanapadas = Anguttara Nikaya; 8 in UP
+- Kuru = Indraprastha; Panchala = Ahichhatra; Kosala = Shravasti, Saketa
+- Vatsa = Kaushambi; Surasena = Mathura; Chedi = Suktimati
+- Anga = Champa; Matsya = Viratnagar (Rajasthan); Asmaka = Potana
+- Ujjain = Avantika; Kalpi on the Yamuna
+- Pradyota = Avanti; Udayana = Vatsa; Prasenajit = Kosala
+- Jivaka = Bimbisara's physician
+- Ajatashatru: patricide and killed by his son
+- Shishunaga took Malwa; Mahapadma = Aparo Parashurama
+- Silver punch-marked = earliest coins
+@end

@@ -1,0 +1,55 @@
+@chapter 23 | Peasant Movement and Kisan Sabha
+@meta Built from 11 UPPSC questions (1998–2024). Focus: the UP and Awadh Kisan Sabhas, regional peasant leaders, the All India Kisan Sabha at Lucknow, Bardoli, the Workers and Peasants Party, Bhoodan.
+
+@hot
+- First **All India Kisan Sabha**: **Lucknow** (1936); president **Sahajanand Saraswati**, general secretary **N.G. Ranga** {2008, 2010, 2015, 2016}
+- **Baba Ramchandra** organised the peasants of **Awadh** {2008, 2010}
+- **Bardoli Satyagraha** (1928): **Sardar Patel** {2002, 2006, 2010}
+@end
+
+@section 23.1 | UP and the Kisan Sabhas
+- UP Kisan Sabha (1918) formed by **Indra Narayan Dwivedi** (with Gauri Shankar Mishra) {2023}
+- Baba Ramchandra organised farmers in **Awadh** {2008, 2010}
+- General secretary of the All India Kisan Congress at Lucknow: **N.G. Ranga** {2016}
+- First All India Kisan Sabha formed at **Lucknow** {2008, 2010}
+- Founder president: **Swami Sahajanand Saraswati** {2015}
+- Congress leader at the first meeting: **Jawaharlal Nehru** {2017}
+
+@section 23.2 | Leaders and Regions
+- Sahajanand **Bihar**, Khudai Khidmatgars **NWFP**, Swami Ramanand Tirtha **Hyderabad**, Abdul Hamid Khan **Southern Assam** {1998}
+- Bardoli **Patel**, Bhartiya Kisan Vidyalaya **N.G. Ranga**, Bengal Praja Party **Fazlul Haq**, Bakasht **Shraddhanand** (per key; really Sahajanand) {2006}
+- Patel's key role: **Bardoli Satyagraha** {2002, 2010}
+- Workers and Peasants Party: "formed in 1927 as an all-India body" wrong; "work inside the Congress" right: **only 2** {2024}
+- Bhoodan first started in **Andhra Pradesh** (Pochampalli, now Telangana, 1951) {2013, 2014}
+
+@table
+Movement | Year | Region | Leader
+UP Kisan Sabha | 1918 | UP | Indra Narayan Dwivedi, Gauri Shankar Mishra
+Awadh Kisan Sabha | 1920 | Awadh | Baba Ramchandra
+Eka Movement | 1921-22 | Hardoi, Bahraich | Madari Pasi
+Bardoli | 1928 | Gujarat | Vallabhbhai Patel
+All India Kisan Sabha | 1936 | Lucknow | Sahajanand, N.G. Ranga
+Tebhaga | 1946 | Bengal | Kisan Sabha
+Bhoodan | 1951 | Pochampalli | Vinoba Bhave
+@end
+
+@trap
+- Lucknow 1936: Sahajanand **president**, Ranga **general secretary**.
+- Bardoli **1922** = called off after Chauri Chaura; Bardoli **1928** = Patel's revenue satyagraha.
+- Bhoodan began in Pochampalli: pick **Telangana** if offered.
+@end
+
+@up UP link: The **UP Kisan Sabha** (1918), **Baba Ramchandra's** Awadh Kisan Sabha (1920), the **Eka** movement of Madari Pasi, and the first **All India Kisan Sabha** at **Lucknow** (1936) are all UP stories.
+
+@last
+- UP Kisan Sabha 1918 = Indra Narayan Dwivedi
+- Baba Ramchandra = Awadh
+- Eka = Madari Pasi
+- AIKS = Lucknow 1936
+- Sahajanand = president
+- N.G. Ranga = general secretary
+- Bardoli 1928 = Patel
+- Fazlul Haq = Bengal Praja Party
+- Abdul Hamid Khan = Southern Assam
+- Bhoodan = Pochampalli 1951
+@end

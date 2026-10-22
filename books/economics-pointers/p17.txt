@@ -1,0 +1,125 @@
+@chapter 17 | India's Foreign Trade
+@unit UNIT III · EXTERNAL SECTOR
+@meta Built from 51 UPPSC questions (1994–2023). Focus: trade size and share, trading partners, balance of trade versus balance of payments, top imports and exports.
+
+@hot
+- **Trading partners**: **USA** = top export market and largest surplus; **China** = largest import source; **UAE** led exports in 2009-10 {2007, 2010, 2010, 2010, 2013, 2021}
+- **Asia (and ASEAN)** = largest trade region and over half of imports {2006, 2009, 2010}
+- **Petroleum and crude oil** = biggest import; with **capital goods** the top two {1995, 2004, 2004, 2008}
+- **Engineering goods** = largest export group now {2017, 2023}
+- **Balance of trade** = **goods** only; BoP = all transactions with the rest of the world {1994, 2009, 2012, 2016, 2017}
+@end
+
+@section 17.1 | Size of India's Trade
+- Commerce Department's vision: a major world-trade player by **2020** {2014, 2017}
+- Total trade 2011-12: far above every option (*); about Rs 38 lakh crore {2014, 2015}
+- Trade-GDP ratio statements: none exactly right (*) {2016}
+- Merchandise trade-GDP: **29.5% (2004-05) to 40.6% (2012-13)** {2014}
+- Goods trade-GDP: 14.2% (1990-91) to **almost three times** by 2011-12 {2013}
+- Goods and services exports: about **22%** of GDP (2010-11) {2010}
+- India's share of world exports: 1.85% (1950), about 0.6% in 1998 (*); about **1.8%** now {1998}
+- Largest share of world trade: **China** now (USA when asked) {2013}
+
+@table
+Trade fact (latest) | Figure
+Share of world goods exports | About 1.8%
+Share of world services exports | About 4.3%
+Top goods exporter | China
+Total exports 2024-25 | About US$ 825 billion (goods + services)
+FTP 2023 target | US$ 2 trillion exports by 2030
+@end
+
+@section 17.2 | Trading Partners
+- Largest trade region (2008-09): **Asia and ASEAN** {2009}
+- Largest share of imports (2009-10): **Asia and ASEAN** {2010}
+- More than 50% of imports from **Asian** countries {2006}
+- Largest import group when asked: **OPEC** (oil); top single sources now China, Russia, UAE, USA {2001}
+- Top two partners in 2011: **China and UAE** {2013}
+- Largest trading partner: **USA** {2007}
+- Largest trade surplus (2019-20): **USA**; surplus on current account with **USA** {2004, 2021}
+- Largest import source by value: **China** {2010}
+- Largest export market: **USA** now (UAE in 2009-10) {2010, 2010}
+- USA's share of India's exports: about **20%** {2002}
+
+@table
+Partner (2024-25) | Fact
+USA | Largest export market; largest trade surplus
+China | Largest import source; largest trade deficit
+UAE | 2nd export market; 3rd import source
+Russia | 2nd import source (crude since 2022)
+@end
+
+@section 17.3 | Balance of Trade and Payments
+- Trade deficit peaked 2012-13, then fell as POL and non-POL deficits fell (A and R true, R explains A) {2017}
+- Balance of trade includes **goods** {2016}
+- Net exports = **exports minus imports** {2017}
+- Balance of payments relates to **exports and imports** {2012}
+- BoP includes **all of the above** {2009}
+- BoP = complete record of all economic transactions of residents with the **rest of the world** {1994}
+- CAD definition is true; CAD comes from **importing** more, not exporting more (A true, R false) {2016}
+
+@flow Balance of payments
+Balance of trade | Goods exports minus goods imports
++ Invisibles | Services, income, transfers (remittances)
+= Current account | Deficit (CAD) when payments exceed receipts
++ Capital account | FDI, FPI, loans, NRI deposits
+= Overall BoP | Settled by change in forex reserves
+@end
+
+@section 17.4 | What India Imports
+- Most important import over the years: **petroleum and crude oil** {2004}
+- Two largest imports: **capital goods and petroleum** {1995}
+- 2004-05 import order: **fuel, capital goods, gold and silver, chemicals** {2008}
+- Most important imports: **petroleum and edible oil** (per key) {2004}
+- Biggest **LNG** supplier: **Qatar** {2011}
+- Import procedure begins with an **indent** {2011}
+- Letter of Credit is produced by the **importer** {2009, 2011, 2013}
+
+@section 17.5 | What India Exports
+- Largest export share 2004-05: **manufactured goods** {2006}
+- Greatest export share: **engineering goods** {2017, 2023}
+- Largest export earner: key says **agricultural and allied products** (gems and jewellery when asked); treat with care (*) {2007}
+- Single largest export item: key says **chemicals** (gems and jewellery when asked) (*) {2012}
+- Largest export share: key says **electronic goods** (gems and jewellery when asked) (*) {2003, 2004}
+- Gems and jewellery share (2010): about **18%** {2008}
+- World textile export rank: **fourth** then, about sixth now (*) {2007}
+- Largest buyer of Indian textiles and leather: **USA** {1994, 1998, 2002}
+- Top exporting state 2007-09: **Maharashtra**; **Gujarat** leads now {2008}
+- Largest steel buyer 2003-04: **China** {2003}
+- Highest export growth year: **2004-05** {2008}
+- Largest rice exporter (2015), replacing **Thailand**: **India** {2016}
+- Largest tea exporter: **Kenya** {1998}
+- Long-staple cotton leader: **Egypt** {2002}
+- Largest forex-earning service: **IT and software** {2008}
+
+@table
+Export fact | Leader
+Largest export group | Engineering goods (about US$ 117 billion)
+Top exporting state now | Gujarat (about 30%)
+Largest services export | IT and software
+Textiles and leather buyer | USA
+Rice | India, largest exporter since 2012
+Tea | Kenya, largest exporter
+@end
+
+@trap
+- **Balance of trade** = goods only; current account adds services, income, transfers.
+- **USA** = export market and surplus; **China** = import source and deficit.
+- **Importer** produces the L/C; import starts with an **indent**.
+- Old keys (gems and jewellery, UAE) changed; read the year of the question.
+@end
+
+@up UP link: UP's top exports are **carpets (Bhadohi), brassware (Moradabad), leather (Kanpur, Agra), handicrafts and engineering goods**; **ODOP** backs them, and UP is among the top exporting states, with goods exports of roughly **Rs 1.7 lakh crore** a year (soft figure).
+
+@last
+- Asia = largest trade region; over 50% of imports
+- **USA** = top export market and surplus; **China** = top import source
+- Petroleum + capital goods = top imports; **Qatar** = LNG
+- Engineering goods = largest export group
+- Balance of trade = **goods**; net exports = exports minus imports
+- BoP = all transactions with the rest of the world
+- **Importer** produces the Letter of Credit
+- India passed **Thailand** in rice (2015); **Kenya** = tea exporter
+- **Egypt** = long-staple cotton; IT software = top service
+- Merchandise trade-GDP: 29.5% to **40.6%**
+@end

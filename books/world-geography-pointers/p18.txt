@@ -1,0 +1,137 @@
+@chapter 18 | World Minerals and Energy Resources
+@meta Built from 71 UPPSC questions (1991–2025). Focus: coalfield and iron-ore region matching, leading producers (which change over time), mining centres, oilfields and reserves, uranium.
+
+@hot
+- **Coalfield matching**: **Ruhr, Saar-Germany; Donbas/Donetsk-Ukraine; Kuzbas-Russia; Lancashire, Bristol-UK; Appalachian-USA; Red Basin-China; NSW-Australia** {1999, 2007, 2010, 2013, 2013, 2022, 2023, 2025}
+- **Mining centres**: **Mesabi-iron, Kalgoorlie-gold, Chuquicamata-copper, Kimberley-diamond, Witwatersrand-gold, Katanga-copper, Butte-silver, Kinta-tin** {1991, 1999, 2004, 2010, 2017, 2020}
+- **Mexico** = top **silver**; **Chile** = top **copper** ore and **iodine** {1993, 1996, 2011, 2014, 2018, 2022}
+- **Kazakhstan** = top **uranium** producer; **Australia** = largest reserves; **Canada** = Uranium City {2006, 2009, 2009, 2010, 2014}
+- Largest oil reserves: **Venezuela** {2010, 2012, 2013}
+@end
+
+@section 18.1 | Coal
+- All true: China leads coal; Donetsk-Ukraine; Saar-Germany; Appalachian-USA {1999}
+- **Donbass**: **coal**; largest Ukrainian coal centre: **Donetsk** {2007, 2023}
+- **Kuzbass**: coal and iron ore; **Novosibirsk** a centre (both) {2023}
+- **Appalachian-USA, Lancashire-England, Ruhr-Germany, Kuzbas-Russia** {2025}
+- **Kuzbas-Russia, Red Basin-China, Bristol-UK, New South Wales-Australia** {2013}
+- **Donetsk-Ukraine, Kuznetsk-Russia, Lancashire-UK, Saar-Germany** {2013}
+- **Ruhr**: **Germany** {2010, 2022}
+- Over half the world's coal: **China** (USA per older key) {2006}
+- **Rukwa** (Tanzania): **coal** {2010}
+
+@section 18.2 | Iron Ore
+- Producer order: **Australia, Brazil, China, India** now (*) {2008}
+- Largest producer of options: **Brazil**; **India** among old options (*) {2013, 1991}
+- France no longer a European iron producer (Lorraine mines closed 1997) (*) {2010, 2013}
+- **Lorraine-France, Midlands-UK, Kiruna-Sweden, Kostanay-Kazakhstan** {2010}
+- Wrong: **Germany-Normandy** (Normandy = France) {2016, 2020}
+- **Mount Newman**: **iron ore** (Pilbara, Australia) {2023}
+- Lake Superior region: **iron ore** (Mesabi) {2017}
+- Great Lakes region industry: **steel and engineering** {2016}
+
+@table
+Iron-ore region | Country
+Pilbara (Mount Newman) | Australia
+Carajas, Itabira | Brazil
+Mesabi Range | USA
+Kiruna | Sweden
+Lorraine, Normandy | France
+Krivoi Rog | Ukraine
+Kostanay | Kazakhstan
+@end
+
+@section 18.3 | Metals
+- Largest copper ore producer: **Chile**; key **China** (refined copper) {1996, 1998}
+- Chile leads in copper due to Andean **porphyry copper** (R explains A) {2022}
+- **Chuquicamata**: **copper** {2017}
+- Africa's top copper producer (then): **Zambia**; now **DR Congo** {2010}
+- Japan nearly self-sufficient in **copper** (per key) {2014}
+- Gold order: now **China, Russia, Australia** (*) {2008}
+- **Kalgoorlie**: **gold**; **Coolgardie**: **Western Australia** {1991, 2011}
+- Largest gold exporter to India: **Switzerland** {2013}
+- Largest silver producer: **Mexico** {1993, 2011, 2014}
+- Aluminium among options: **India** (2023 data) {1993}
+- Bauxite: **Australia** per key; **Guinea** now leads {2013, 2015}
+- Tin: **Indonesia** (then); China now {2010}
+- **Kinta Valley** (Malaysia): **tin** {2020}
+- Titanium: **Russia** (per key) {2009}
+- **Postmasburg** (South Africa): **manganese** {2020}
+- Diamond: **Russia** {2012, 2013}
+- Iodine: **Chile** {2018}
+- Afghanistan's $1 trillion find: **lithium** {2008}
+- Wrong: **copper-cinnabar** (cinnabar = mercury ore) {2017}
+- All pairs broadly correct (tin-Bolivia, iron-Brazil, silver-Mexico, nitrate-Peru) (*) {2010, 2013}
+- **Silver-Mexico, mica-India, iron ore-Russia, copper-Chile** {2017}
+
+@section 18.4 | Mineral Regions
+- **Coal-Karaganda, gold-Highveld, iron-Krivoi Rog, oil-San Joaquin Valley** {2010}
+- Wrong: **Mesabi-copper** (Mesabi = iron) {2004}
+- **Iron-Mesabi, petroleum-Baku, copper-Bingham, uranium-Port Radium** {1999}
+- **Baku**: **petroleum** {1993}
+- Correct: **copper-Arizona** {2007}
+- Wrong: **Saar-iron ore** (Saar = coal) {2007}
+- **Copper-Katanga, diamond-Kimberley, gold-Witwatersrand, silver-Butte** {2010}
+
+@flow Leaders that changed
+Iron ore | China/India (old keys) to Australia
+Gold | South Africa to China (since 2007)
+Bauxite | Australia to Guinea (2022-23)
+Petroleum | Saudi Arabia/Russia to USA (since 2018)
+Copper in Africa | Zambia to DR Congo
+@end
+
+@section 18.5 | Petroleum and Gas
+- Producer order: now **USA, Russia, Saudi Arabia** (*) {1998, 2008, ?}
+- Largest producer (key, then): **Russia** {2010}
+- Middle East order: **Saudi Arabia, Iran, Iraq, Kuwait** {2008}
+- West Asia's top producer: **Saudi Arabia** {2017}
+- South-East Asia's top producer: **Indonesia** {2004}
+- Largest reserves: **Venezuela**; **Iran** among older options {2010, 2012, 2013, 2002}
+- All true: Middle East reserves, Alaska, USA producer-importer {1998}
+- Alaska statements: both correct {2021}
+- Wrong: **Kuwait-Kashagan** (Kashagan = **Kazakhstan**) {2024}
+- **Pegu Yoma** (Myanmar): **mineral oil** {2022}
+- Largest gasohol producer and user: **USA** {2011}
+- "Peace Pipeline" (Iran-Pakistan-India): none of the options {2007}
+- Top crude supplier to India 2017-18: **Iraq** {2017}
+
+@table
+Oilfield | Country
+Ghawar | Saudi Arabia
+Burgan | Kuwait
+Kirkuk, Rumaila | Iraq
+Kashagan, Tengiz | Kazakhstan
+Baku | Azerbaijan
+Prudhoe Bay | Alaska
+Maracaibo | Venezuela
+Pegu Yoma | Myanmar
+@end
+
+@section 18.6 | Uranium and Others
+- Top uranium producer: **Kazakhstan** {2009, 2010}
+- Largest reserves: **Australia** {2009}
+- **Uranium City**: **Canada**; important uranium ore: **Canada** {2006, 2014}
+- Not a major Russian resource (per key): **uranium** {2017}
+- Natural camphor: from a tree native to **China and Japan** {2014}
+
+@trap
+- **Mesabi** = iron; **Saar** = coal; **cinnabar** = mercury; **Kashagan** = Kazakhstan.
+- "Largest producer" keys age fast; check the year.
+- Chile leads **mine** copper; China leads **refined** copper.
+@end
+
+@up UP's minerals are minor (Sonbhadra coal, limestone, Lalitpur rock phosphate); the **Singrauli** coalfield straddling UP-MP is India's equivalent of a Ruhr-style energy hub.
+
+@last
+- Ruhr, Saar = Germany; Donbas = Ukraine; Kuzbas = Russia
+- Karaganda = Kazakhstan; Red Basin = China
+- Mesabi = iron (USA); Kiruna = Sweden; Krivoi Rog = Ukraine
+- Mount Newman (Pilbara) = iron, Australia
+- Chile = copper, iodine; Mexico = silver
+- Kalgoorlie = gold; Kimberley = diamond; Witwatersrand = gold
+- Katanga = copper, cobalt; Kinta = tin
+- Kazakhstan = uranium; Canada = Uranium City
+- Venezuela = largest oil reserves; USA top producer now
+- Kashagan = Kazakhstan; Baku = oil
+@end

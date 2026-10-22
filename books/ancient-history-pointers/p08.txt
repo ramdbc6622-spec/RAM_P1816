@@ -1,0 +1,52 @@
+@chapter 8 | Greek Invasion
+@meta Built from 5 UPPSC questions (1998–2015). Focus: Alexander's campaign, Porus, Massaga, the reasons for his success, and his companions versus later Greek envoys.
+
+@hot
+- Alexander defeated **Porus** on the **Jhelum** (Hydaspes), 326 BCE {2013}
+- Alexander succeeded through **no central power, a superior army, traitor allies** (1, 2, 3) {2000, 2002, 2003}
+@end
+
+@section 8.1 | Alexander in India
+- Women took up arms against Alexander at **Massaga** (Assakenoi) {2013}
+- Defeated on the Jhelum: **Porus** {2013}
+- Success: **no central power, superior army, help from traitors** (1, 2, 3) {2000, 2002, 2003}
+- Alexander left India in 325 BCE; he was **not** defeated by Chandragupta (A true, R false) {1998}
+- Did not come with Alexander: **Deimachus** (later envoy to Bindusara) {2015}
+
+@flow Alexander's Indian campaign
+327 BCE | Crosses the Hindu Kush; Ambhi of Taxila submits
+Massaga | Fierce resistance; women fight
+326 BCE | Battle of the Hydaspes (Jhelum) with Porus
+Beas (Hyphasis) | Army refuses to go further
+325 BCE | Returns; dies at Babylon, 323 BCE
+@end
+
+@table
+Greek | Role
+Nearchus, Onesicritus | Alexander's companions (wrote accounts)
+Megasthenes | Envoy of Seleucus to Chandragupta; Indica
+Deimachus | Envoy to Bindusara
+Dionysius | Sent by Ptolemy II to Ashoka's time
+Heliodorus | Indo-Greek envoy; Besnagar pillar
+@end
+
+@trap
+- Battle with Porus = **Jhelum**; Alexander turned back at the **Beas**.
+- Ambhi **helped** Alexander; Porus fought him.
+- Deimachus and Megasthenes came **after** Alexander.
+@end
+
+@up UP link: Alexander never reached the Ganga valley; the Nanda power of Magadha, whose realm included eastern UP, is one reason his army refused to march beyond the Beas.
+
+@last
+- Massaga women fought Alexander
+- Porus defeated on the Jhelum (Hydaspes)
+- Ambhi of Taxila sided with Alexander
+- Army stopped at the Beas
+- Alexander left India in 325 BCE, undefeated
+- Success = disunity, strong army, traitors
+- Deimachus = envoy to Bindusara, not a companion
+- Megasthenes = envoy to Chandragupta
+- Nearchus = Alexander's admiral
+- Alexander died at Babylon, 323 BCE
+@end

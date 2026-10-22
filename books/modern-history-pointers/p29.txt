@@ -1,0 +1,54 @@
+@chapter 29 | Simon Commission
+@meta Built from 12 UPPSC questions (1990–2023). Focus: dates and visits, an all-white commission, the boycott, Lajpat Rai, dominion status, the Independence for India League, Jinnah's Fourteen Points.
+
+@hot
+- Boycotted because it had **no Indian member** {2003, 2004, 2010, 2010, 2010}
+- **Lala Lajpat Rai** injured in the lathi charge against it (Lahore, 1928) {1993, 2004}
+- Visited India in **1928** {1990, 1996}
+@end
+
+@section 29.1 | The Commission
+- Visited India in **1928** {1996}
+- Purpose: **administrative reform** (review of the 1919 Act) {1990}
+- Made two visits (true); "second visit October 1929 to April 1930" (false): **only 1** {2023}
+- Liberal Party member: **Sir John Simon** {2013}
+- Indians kept out on the advice of **Lord Irwin** (per key; Birkenhead is also cited) {2013}
+
+@section 29.2 | Boycott and Response
+- Congress boycotted it (A), no Indian member (R): **both true, R explains A** {2010, 2010, 2010}
+- Boycotted because there was **no Indian member** {2003, 2004}
+- Reviewed the 1919 Act, headed by Simon, recommended federation, opposed by Indians: **all true** {2005}
+- Lajpat Rai injured in the **lathi charge** against the Commission {1993, 2004}
+- First demanded dominion status (per key): **Tej Bahadur Sapru and Jayakar** {2013}
+- Independence for India League (1928): **Nehru and Subhas Bose** {2008}
+- Jinnah's Fourteen Points: **1929** {2015}
+
+@flow Simon Commission Timeline
+Appointed under Birkenhead | November 1927
+Madras Congress decides to boycott | December 1927
+Arrives in Bombay, "Simon Go Back" | February 1928
+Lajpat Rai injured at Lahore | October 1928
+Nehru Report | August 1928
+Report published | 1930
+@end
+
+@trap
+- Appointed **1927**, arrived **1928**, reported **1930**.
+- Lajpat Rai was hurt at **Lahore** and died; Nehru and Pant were beaten at **Lucknow** and survived.
+- Nehru Report (1928) asked for **dominion status**; Jinnah answered with the **Fourteen Points** (1929).
+@end
+
+@up UP link: **Jawaharlal Nehru and G.B. Pant** were lathi-charged at **Lucknow** (November 1928) while leading the Simon boycott.
+
+@last
+- Simon Commission = 1927 appointed, 1928 arrived
+- All seven members British
+- Simon = Liberal
+- Boycott = no Indian member
+- Lajpat Rai = lathi charge, Lahore
+- Nehru, Pant = Lucknow lathi charge
+- Nehru Report = 1928, dominion status
+- Independence League = Nehru, Bose
+- Fourteen Points = Jinnah 1929
+- Report = 1930
+@end

@@ -1,0 +1,70 @@
+@chapter 31 | Civil Disobedience Movement
+@meta Built from 23 UPPSC questions (1993–2021). Focus: the salt choice, the Dandi March, arrests and Abbas Tyabji, Dharasana and Webb Miller, the Red Shirts and Garhwal Rifles, women's role.
+
+@hot
+- **Dandi March** (12 March to 6 April 1930) from **Sabarmati** to break the **salt law**; began Civil Disobedience {1993, 1999, 2000, 2002, 2004, 2010, 2012}
+- After Gandhi's arrest the leader was **Abbas Tyabji** (then Sarojini Naidu) {2002, 2006, 2012}
+- Foreign journalist at Dharasana and with Gandhi: **Webb Miller** {2002, 2003, 2015, 2021}
+- **Lal Kurti** (Red Shirts): **Khan Abdul Ghaffar Khan** {1993, 2009, 2016, 2016}
+@end
+
+@section 31.1 | Salt and Dandi
+- Salt agitation in 1930 (A true); "to make salt free for the poor" (R false) {2002, 2003}
+- Began with the Dandi March: **Civil Disobedience** {2000}
+- March started from **Sabarmati** {1999}
+- Civil Disobedience started with the **Dandi March** {2010}
+- Aim: **break the salt law** {1993}
+- Dandi March = violation of the **Salt Law** {2004}
+- 6 April 1930: **Dandi March** (salt law broken) {2002, 2012}
+- Not correct (per key): "**Gandhi prepared salt at the seashore**" (he picked up natural salt) {2004, 2008, 2010}
+- Most marchers from **Gujarat** {2013}
+- "World sympathy in this battle of Right against Might": **Dandi March** {2013}
+
+@section 31.2 | Arrests and Dharasana
+- "Gandhi not punished" false; "Malaviya, Devdas Gandhi, K.M. Munshi punished" true: **2 only** {2016}
+- Vinoba Bhave first arrested in **Civil Disobedience** (per key) {2001}
+- During the Dharasana raid Gandhi was in **Yerwada Jail** {2010}
+- Led after Gandhi's arrest: **Abbas Tyabji** {2002, 2006, 2012}
+- Foreign journalist at Sabarmati during Dandi: **Webb Miller** {2002, 2003}
+- Reported Dharasana: **Webb Miller** {2021}
+- American with Gandhi during Dandi: **Webb Miller** {2015}
+
+@section 31.3 | Across India
+- Ghaffar Khan's movement: **Lal Kurti (Red Shirts)** {2016}
+- Leader of Lal Kurti: **Khan Abdul Ghaffar Khan** {2009, 2016}
+- Red Shirts founded to **throw out the British** {1993}
+- Garhwal soldiers refused to fire (Peshawar, 1930): **Civil Disobedience** {2004}
+- Zeliangrong (Jiatrang) movement: **Manipur** (Rani Gaidinliu) {2008}
+- Highest women's participation: **Salt Satyagraha** {2016}
+
+@table
+Region | Leader of Civil Disobedience
+Dandi, Gujarat | Gandhi
+Dharasana, Gujarat | Abbas Tyabji, Sarojini Naidu
+Vedaranyam, Tamil Nadu | C. Rajagopalachari
+Malabar | K. Kelappan
+NWFP | Khan Abdul Ghaffar Khan
+Peshawar | Chandra Singh Garhwali (Garhwal Rifles)
+Manipur, Nagaland | Rani Gaidinliu
+@end
+
+@trap
+- Gandhi wanted the salt **tax and monopoly** abolished, not free salt.
+- March began **12 March**; salt law broken **6 April 1930**.
+- Webb Miller (1930) is not **Louis Fischer** (1942).
+@end
+
+@up UP link: **Chandra Singh Garhwali** of the Garhwal Rifles (Peshawar, 1930) came from the Garhwal hills, then part of the **United Provinces**.
+
+@last
+- Dandi = 12 March to 6 April 1930
+- Start = Sabarmati
+- Salt law broken = 6 April
+- Abbas Tyabji = after Gandhi's arrest
+- Sarojini Naidu = Dharasana
+- Webb Miller = Dharasana reporter
+- Gandhi = Yerwada Jail
+- Red Shirts = Ghaffar Khan
+- Garhwal Rifles = Peshawar 1930
+- Rani Gaidinliu = Manipur
+@end

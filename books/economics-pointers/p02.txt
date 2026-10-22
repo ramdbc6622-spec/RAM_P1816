@@ -1,0 +1,84 @@
+@chapter 2 | Sustainable Development and Human Capital
+@meta Built from 29 UPPSC questions (2008–2025). Focus: SDG numbers, SDG India Index, Limits to Growth and Brundtland, human capital, inclusive growth.
+
+@hot
+- SDG numbers: **1-poverty, 3-health, 4-education, 6-water, 10-inequality, 13-climate, 14-life below water, 15-life on land** {2019, 2025, ?}
+- **NITI Aayog** = nodal body for SDGs; **Kerala** tops SDG India Index {2019, 2019, 2021}
+- Sustainable development: use resources now while **conserving for the future** {2018, 2023, 2023}
+- Skills, education, health build **human capital** {2015, 2017, 2025}
+@end
+
+@section 2.1 | The SDGs
+- Not an SDG: **space research** {2023}
+- SDG 4 (education): **free compulsory schooling, better infrastructure** (1 and 2) {2024}
+- **Goal 1-end poverty, Goal 3-health, Goal 4-education, Goal 6-water** {2025}
+- Water for all: **SDG 6** {2019}
+- **SDG 10-reduced inequalities, 13-climate action, 14-life below water, 15-life on land** {?}
+- UN Secretary-General presents an annual SDG report (only 1 true) {2023}
+
+@table
+SDG | Goal
+1 / 2 | No poverty / Zero hunger
+3 / 4 | Health / Quality education
+5 / 6 | Gender equality / Clean water
+7 / 8 | Clean energy / Decent work
+10 / 13 | Reduced inequality / Climate action
+14 / 15 | Life below water / Life on land
+17 | Partnerships
+@end
+
+@section 2.2 | SDGs in India
+- Nodal institution: **NITI Aayog** {2019}
+- India's SDG Index rank 2017: **116th** {2017}
+- UP in SDG India Index 2019-20: **Performer** (now Front Runner) {2020}
+- Not in top five (2020-21): **Gujarat** {2019, 2021}
+- First in SDG India Index 2019: **Kerala** {2019}
+- Not in top three of SDG Urban Index 2021-22: **Indore** (Shimla, Coimbatore, Chandigarh led) {2021}
+- UP's SDG progress report: **Department of Planning** {2025}
+- India's success matters globally; one-sixth of humanity (R explains A) {2025}
+
+@section 2.3 | History of the Idea
+- Brundtland popularised SD (true); it is "Limits to Growth" (false; **Our Common Future**) {2024}
+- "Limits to Growth": **Club of Rome** (1972) {2019}
+- Environmental Kuznets Curve: **inverted U** {2019}
+- Balancing use and conservation: **sustainable development** {2018, 2023, 2023}
+- **Neemrana** model: **Rajasthan** {2010}
+- Sustainable tourism: manage tourism with cultural and ecological integrity {2020}
+
+@flow From limits to goals
+1962 | Silent Spring
+1972 | Limits to Growth (Club of Rome)
+1987 | Brundtland: Our Common Future
+1992 | Rio: Agenda 21
+2015 | 17 SDGs for 2030
+@end
+
+@section 2.4 | Human Capital
+- Skill programmes raise **human capital** {2017}
+- No direct effect on human capital: **irrigation** {2017}
+- Human capital pays back; education and health raise productivity (R explains A) {2025}
+- More human capital: **all** listed gains {2015}
+- Inclusive growth needs **all** listed measures {2008}
+- Inclusive growth not ensured by **high national income growth** alone {2013}
+- First Economic Survey chapter on SD and climate: **2011-12** {2015}
+
+@trap
+- **Limits to Growth** = Club of Rome; **Our Common Future** = Brundtland.
+- SDG **14** = water life; **15** = land life.
+- EKC is an **inverted U**.
+@end
+
+@up UP moved from **Performer** (2019-20) to **Front Runner** in the SDG India Index 2023-24; its **Planning Department** prepares the State's SDG indicator reports.
+
+@last
+- 17 SDGs, 169 targets, 2030
+- SDG 1 poverty; 4 education; 6 water
+- SDG 10 inequality; 13 climate; 14 sea; 15 land
+- NITI Aayog = nodal; Kerala tops index
+- Club of Rome = Limits to Growth (1972)
+- Brundtland = Our Common Future (1987)
+- EKC = inverted U
+- Human capital = education, health, skills
+- Irrigation is not human capital
+- UP: Performer to Front Runner
+@end

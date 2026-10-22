@@ -1,0 +1,80 @@
+@chapter 6 | Climate Change Conferences, Treaties and Action Plans
+@meta Built from 25 UPPSC questions (2001–2025). Focus: Agenda 21, UNFCCC, Kyoto and carbon credits, Paris COP21, GCF and GEF, NAPCC missions.
+
+@hot
+- **Agenda 21** (Rio 1992) = action plan for **sustainable development** {2013, 2014, 2023}
+- **Kyoto Protocol** = **climate change**; source of **carbon credits** {2015, 2017, 2019, 2021}
+- **COP21 = Paris** (2015) {2015, 2018}
+- **NAPCC** released **2008**; 8 missions, **no nuclear** mission {2010, 2016, 2016, 2018, 2021}
+@end
+
+@section 6.1 | Earth Summits and UNFCCC
+- Earth Summit + 5: **1997** {2016}
+- Agenda 21: action plan for the **21st-century environment**; **sustainable development** {2013, 2014, 2023}
+- Wrong: **carbon trading-Montreal Protocol** (it is Kyoto) {2015}
+- UNFCCC in force: **21 March 1994** {2012}
+- Paris conference: **COP21** {2015, 2018}
+
+@section 6.2 | Protocols and Funds
+- Wrong: **Kyoto-save water**; Kyoto = **climate change** {2019, 2017}
+- Incorrect: GCF set up at **Durban** (it was **Cancun**, 2010) {2013}
+- GEF set up **1991** (true); only rich countries donate (false) (only 1) {2025}
+- Not true of **CDM**: it bars rich countries investing in poor ones {2001}
+- Carbon credits come from the **Kyoto Protocol** {2021}
+- Not correct: World Bank's 2011 ERPA was signed with the **Government of India** {2010}
+- Carbon tax from 2019: **Singapore** {2017}
+- UN Climate Action Summit 2019: **New York** {2019}
+
+@table
+COP | Place | Outcome
+COP3 1997 | Kyoto | Kyoto Protocol
+COP15 2009 | Copenhagen | $100 bn pledge
+COP16 2010 | Cancun | Green Climate Fund
+COP21 2015 | Paris | Paris Agreement
+COP26 2021 | Glasgow | India net zero 2070
+COP27 2022 | Sharm el-Sheikh | Loss and Damage fund
+COP28 2023 | Dubai | Global Stocktake
+COP29 2024 | Baku | $300 bn finance goal
+@end
+
+@section 6.3 | NAPCC
+- First NAPCC: **2008** {2016, 2018, 2021}
+- Not among the 8 missions: **nuclear power** {2010, 2016}
+- Mission start years: sources differ (*) {2016}
+
+@flow NAPCC's 8 missions (2008)
+Solar | Jawaharlal Nehru National Solar Mission
+Energy efficiency | NMEEE (PAT scheme)
+Habitat, Water | Sustainable Habitat; Water Mission
+Himalaya, Green India | NMSHE; afforestation
+Agriculture, Knowledge | Sustainable Agriculture; Strategic Knowledge
+@end
+
+@section 6.4 | Miscellany
+- **Great Barrier Reef**: NE Australia (true); over 2,500 km (false per key) (only 1) {2023}
+- **Deep Carbon Observatory**: carbon research and deep microbes (both) {2019}
+- Cloud brightening uses **sea water** {2009}
+- Ozone layer blocks UV; depletion linked to CFCs (both) {2025}
+- No global atmosphere watch station then: **India** {2012}
+- **SAFAR** inaugurated (2018) by **Dr. Harsh Vardhan** {2018}
+
+@trap
+- **GCF = Cancun**, not Durban; **Kyoto = 1997**.
+- **Montreal** = ozone; **Kyoto** = carbon trading.
+- Nuclear power is **not** an NAPCC mission.
+@end
+
+@up UP has its own **State Action Plan on Climate Change** under the NAPCC; it targets solar parks in **Bundelkhand** and Green India plantation drives.
+
+@last
+- Agenda 21 = Rio 1992; sustainable development
+- Earth Summit + 5 = **1997**
+- UNFCCC in force **21 March 1994**
+- Kyoto **1997** = carbon credits, CDM
+- Paris = **COP21** (2015)
+- GCF = **Cancun 2010**; GEF = 1991
+- Singapore = carbon tax 2019
+- NAPCC **2008**; 8 missions; no nuclear
+- Cloud brightening = sea water spray
+- SAFAR = air-quality forecasting (2018)
+@end

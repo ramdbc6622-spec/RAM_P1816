@@ -1,0 +1,89 @@
+@chapter 5 | Greenhouse Effect and Climate Change
+@unit UNIT III · CLIMATE AND ATMOSPHERE
+@meta Built from 40 UPPSC questions (2001–2024). Focus: which gases are greenhouse gases, CO2 and methane, effects of warming, emitters, net zero, Milankovitch.
+
+@hot
+- **Not greenhouse gases**: **N2, O2, argon, H2, SO2, NO2, propane** {2007, 2012, 2012, 2016, 2016, 2016, 2017, 2017, 2019, 2020, 2022}
+- **CO2** = main cause of global warming {2004, 2004, 2006, 2008, 2013, 2015}
+- **Methane** from **paddy fields** and cattle {2017, 2018, 2019}
+- **China** = largest CO2 emitter {2010, 2015, 2018}
+- Warming effects: sea-level rise, melting glaciers, disease, coral bleaching, early mango flowering {2001, 2002, 2003, 2020}
+@end
+
+@section 5.1 | Greenhouse Effect
+- Concept of greenhouse gases: **Joseph Fourier** {2011}
+- Greenhouse effect: **rise in global temperature** {2018}
+- Without it Earth would average **-18 °C** {2020}
+- Enhanced by **CO2**; main gases **CO2 and methane** {2015, 2004, 2013}
+- Largest natural share: **water vapour** {2011}
+- Not responsible: **argon** {2016, 2022}
+- Not directly warming: **oxides of sulphur and nitrogen** {2013}
+- Not a natural GHG (of options): **nitrogen oxide** {2019, 2020}
+- Not GHG: **SO2**; **oxygen**; **NO2**; **propane**; **nitrogen**; **hydrogen** {2007, 2016, 2017, 2016, 2017, 2012, 2012}
+- Both harmful and useful: **CO2** per key (ozone in most texts) {2013}
+
+@table
+Gas | Main source | GWP (100 yr)
+CO2 | Fossil fuels, deforestation | 1
+Methane | Paddy, cattle, wetlands, landfills | ~28
+Nitrous oxide (N2O) | Fertilisers | ~265
+CFCs, HFCs, SF6 | Industry | Thousands
+@end
+
+@section 5.2 | CO2 and Methane
+- Global warming from **CO2**; worry grows with CO2 {2004, 2013, 2004, 2006, 2008}
+- Natural optimum CO2: **0.03%** (now about 0.042%) {2017}
+- Does not add CO2: **photosynthesis** {2012}
+- Methane from **both** listed sources {2018}
+- Paddy-field gas: **methane** {2017, 2019}
+
+@section 5.3 | Causes and Effects
+- Climate change from **all** listed causes {2013}
+- Primary causes: **fossil fuels, cars, deforestation**; not solar flares (1, 2, 4) {2017}
+- Effect of greenhouse effect: unclear question (*) {2017}
+- Effects: **melting glaciers, early mango flowering, health harm** (2, 3, 4) {2001, 2002, 2003}
+- Effects: sea-level rise, glaciers, disease, coral bleaching (all) {2020}
+- More frequent: **cyclones, storms, hurricanes** {2018}
+- Andaman coral bleaching: **2 °C warmer Indian Ocean** {2024}
+- Warming last century: about **0.9 °C** {2012}
+- **Urban heat island**: cities hotter than nearby rural areas {2023}
+- Climate change raises social tension via food insecurity (R explains A) {2017}
+
+@section 5.4 | Emitters and Net Zero
+- Largest CO2 emitter: **China** {2010, 2015, 2018}
+- Carbon-negative country: **Bhutan** {2015}
+- Net zero = emissions **balanced by removals**, not zero (only 2) {2021}
+- IPCC: **deep, rapid, sustained** cuts essential (only 2) {2024}
+
+@flow Natural causes of climate change
+Milankovitch cycles | Earth's orbit and tilt
+Solar output | Sunspots, irradiance
+Volcanoes | Dust and SO2 cool the Earth
+Evidence | Ice cores (cryogenic), tree rings, pollen
+@end
+
+@section 5.5 | Natural Causes
+- Not astronomical theory: **solar irradiance** {2015}
+- Axis shift as climate factor: **Milutin Milankovitch** {2015}
+- Cryogenic indicator: **ice core** {2015}
+
+@trap
+- **N2O** is a GHG; **NO2** is not.
+- N2, O2, Ar make up air but are **not** GHGs.
+- **Net zero** is not zero emissions.
+@end
+
+@up UP links: UP's large **paddy and livestock** sector makes it a big methane source; **Lucknow and Kanpur** show urban heat-island effects in heatwaves.
+
+@last
+- Greenhouse idea: **Fourier**; without it **-18 °C**
+- CO2 = main human driver; water vapour = largest natural share
+- Methane = paddy, cattle
+- Not GHG: N2, O2, Ar, H2, SO2, NO2, propane
+- CO2 natural level **0.03%**
+- Warming ~0.9 °C last century
+- China = largest emitter; Bhutan = carbon negative
+- Net zero = balance, not zero
+- Milankovitch = orbit; ice core = cryogenic proof
+- Urban heat island = hotter cities
+@end

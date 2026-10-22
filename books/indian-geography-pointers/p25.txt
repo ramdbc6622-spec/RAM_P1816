@@ -1,0 +1,130 @@
+@chapter 25 | Transport: Roads, Railways, Ports and Waterways
+@unit UNIT V · TRANSPORT, TOURISM AND MISCELLANY
+@meta Built from 61 UPPSC questions (1990–2025). Focus: NHDP corridors, railway zones and factories, port types and port-state matching, NW-1.
+
+@hot
+- **Port-state matching**: **Kandla/Mundra-Gujarat, Nhava Sheva-Maharashtra, Paradip-Odisha, Tuticorin-TN, Kakinada/Krishnapatnam-AP** {2008, 2008, 2010, 2010, 2013, 2015, 2025}
+- **Port types**: deepest/landlocked **Visakhapatnam**, open sea and artificial **Chennai**, outer port **Haldia**, natural **Kochi, Visakhapatnam** {1997, 2007, 2012, 2012, 2013, 2017, 2023, 2023}
+- **NW-1** = **Prayagraj-Haldia** on the Ganga, the longest waterway {2009, 2010, 2014, 2016}
+- NS and EW corridors cross at **Jhansi** (UP) {1999, 2001}
+- **Rail factories**: ICF **Perambur**, RCF **Kapurthala**, Modern Coach **Raebareli**, BLW **Varanasi** {1995, 2008, 2008}
+@end
+
+@section 25.1 | Roads and National Highways
+- Road share of total transport: about **80%** {2014}
+- Old **NH-4** (Mumbai-Chennai) did not touch MP, Rajasthan or UP (*) {2010}
+- Most NH length (then): **UP**; now **Maharashtra** leads {2000}
+- Most **state highway** length: **Maharashtra** {2010, 2013}
+- NH length order (per key): Arunachal first, Sikkim last {2004}
+- Old **NH-3** (Agra-Mumbai) did not touch **Bhopal** {2001}
+- Golden Quadrilateral joins **Delhi, Kolkata, Chennai, Mumbai**; EW corridor ends at **Porbandar** {2008}
+- **Golden Quadrilateral** = highways {2004}
+- First six-lane expressway: **Mumbai-Pune** {2001, 2003}
+- **PMGSY**: roads for unconnected villages {2001}
+
+@flow NHDP corridors
+Golden Quadrilateral | Delhi-Kolkata-Chennai-Mumbai; 5,846 km
+North-South | Srinagar to Kanyakumari
+East-West | Silchar to Porbandar
+Crossing point | Jhansi (UP)
+@end
+
+@section 25.2 | Railways
+- First train: **Bombay-Thane, 1853** {1990, 1996}
+- **Hyderabad**-SCR HQ is wrong (it is **Secunderabad**) {2002}
+- Correct: **Northern-New Delhi, North Eastern-Gorakhpur**; South Eastern is **Kolkata**, not Cuttack {2025}
+- Shortest Gorakhpur-Mumbai route: via **Prayagraj** {1993}
+- **RCF-Kapurthala, Wheel and Axle-Bengaluru, DLW-Varanasi, ICF-Perambur** {2008}
+- Coach-making states: **Punjab and Tamil Nadu** {2008}
+- Third coach factory: **Raebareli** (Lalganj) {1995}
+- Railway Staff College: **Vadodara** {1991}
+- Bullet train: **Mumbai-Ahmedabad** {2001}
+- First CNG train: **Rewari-Rohtak** {2016}
+- First rail track on PPP: **Gujarat** {2016}
+- Konkan Railway: **Roha to Mangalore**; it does **not** touch **Belgaum** {2013, 2010}
+- State without rail in 2013: **Meghalaya** (line 2014); Sikkim is the one left now (*) {2013}
+- Longest tunnels then: **Pir Panjal, Karbude, Nathuwadi, Berdewadi** {2015}
+- New **Pamban** bridge: built by RVNL; India's first **vertical-lift** sea bridge (both true) {2025}
+
+@table
+Zone | HQ
+Northern | New Delhi
+North Eastern | Gorakhpur
+North Central | Prayagraj
+South Eastern | Kolkata
+East Coast | Bhubaneswar
+South Central | Secunderabad
+East Central | Hajipur
+NE Frontier | Maligaon
+@end
+
+@section 25.3 | Ports and Harbours
+- Biggest port (2007 key): **Mumbai** {2007}
+- **Kochi** is on the **Malabar** coast {2013}
+- Landlocked harbour: **Visakhapatnam** {2023}
+- **Chennai-deepest port** is wrong; **Kolkata-deepest** is wrong {1997, 2023}
+- Deepest among options: **Paradip** (Visakhapatnam is the deepest landlocked) {2017}
+- Not a natural harbour: **Chennai**; natural ports: **Kochi and Visakhapatnam** {2007, 2013}
+- Open seaport: **Chennai** {2012}
+- Outer port: **Haldia** (of Kolkata) {2012}
+- Not on the east coast: **Kandla**; Odisha coast: **Paradip** {2008, 2013}
+- **Kandla** is in **Gujarat**; on the **Gulf of Kachchh** {1993, 2004}
+- **Paradip-Odisha, Tuticorin-TN, Kakinada-AP, Alappuzha-Kerala** {2025}
+- **Kandla-Gujarat, Nhava Sheva-Maharashtra, Paradip-Odisha, Tuticorin-TN** {2010}
+- **Mundra-AP** is wrong (Mundra is **Gujarat**) {2015}
+- AP port city: **Kakinada**; **Krishnapatnam** helps **AP** {2010, 2008}
+- 12th major port for coal: **Ennore**, near **Chennai** {2004, 2010}
+- **Jamnagar** is not a port town (per key) {2011}
+- Built to relieve Mumbai: **Nhava Sheva (JNPT)** {2013}
+- No LNG terminal: **Kandla** (then) {2005}
+- **Sethusamudram** links the **Gulf of Mannar** with **Palk Bay** {2004, 2008}
+- **Karaikal** is not on the west coast {2008}
+
+@table
+Port type | Example
+Landlocked, deepest | Visakhapatnam
+Oldest artificial, open sea | Chennai
+Tidal | Kandla (Deendayal)
+Riverine | Kolkata
+Outer port | Haldia
+Satellite, container | Nhava Sheva (JNPT)
+Lagoon (natural) | Kochi
+First corporatised | Ennore (Kamarajar)
+@end
+
+@section 25.4 | Shipyards and Ship-breaking
+- **Garden Reach-WB, Hindustan Shipyard-AP, Mazagon-Maharashtra, Cochin-Kerala** {2011}
+- Largest ship-breaking yard: **Alang** (Gujarat) {2006, 2009}
+
+@section 25.5 | Waterways and Airports
+- National Waterway on the Ganga: **Prayagraj to Haldia**; longest waterway {2010, 2016, 2009, 2014}
+- National Inland Navigation Institute: **Patna** {2009}
+- International status (24 June 2020): **Kushinagar** airport {2020}
+
+@flow National Waterways 1-3
+NW-1 (1986) | Ganga: Prayagraj-Haldia, 1,620 km
+NW-2 (1988) | Brahmaputra: Sadiya-Dhubri
+NW-3 (1993) | West Coast Canal: Kottapuram-Kollam
+111 NWs | National Waterways Act, 2016
+@end
+
+@trap
+- **Perambur = ICF; Kapurthala = RCF.** Wheel and Axle = **Bengaluru**.
+- **Visakhapatnam** = deepest landlocked; **Chennai** = artificial; **Kolkata** = shallow riverine.
+- **Secunderabad**, not Hyderabad, is the SCR HQ; **Mundra** and **Kandla** are Gujarat.
+@end
+
+@up UP links: NS-EW crossing at **Jhansi**; railway zones at **Gorakhpur** (NER) and **Prayagraj** (NCR); **Banaras Locomotive Works** (Varanasi) and **Modern Coach Factory** (Raebareli); **NW-1** starts at **Prayagraj** with a terminal at Varanasi; international airports at **Kushinagar**, Lucknow, Varanasi, Ayodhya and **Jewar** (Noida); Eastern DFC runs through UP.
+
+@last
+- Road = about **80%** of transport; Maharashtra = most NH and SH now
+- GQ: Delhi, Kolkata, Chennai, Mumbai; NS-EW cross at **Jhansi**
+- First train **1853 Bombay-Thane**
+- NER = **Gorakhpur**; NCR = Prayagraj; SCR = **Secunderabad**
+- ICF **Perambur**; RCF **Kapurthala**; MCF **Raebareli**
+- Konkan: **Roha-Mangalore**; bullet train Mumbai-Ahmedabad
+- **Visakhapatnam** = landlocked; **Haldia** = outer port; Chennai = artificial
+- **Kandla, Mundra** = Gujarat; Ennore = 12th major port
+- Sethusamudram = **Gulf of Mannar-Palk Bay**; Alang = ship-breaking
+- **NW-1 Prayagraj-Haldia**; Kushinagar = international airport (2020)
+@end

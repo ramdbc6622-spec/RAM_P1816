@@ -1,0 +1,67 @@
+@chapter 3 | Regional States: Punjab and Mysore
+@meta Built from 17 UPPSC questions (1995–2023). Focus: Ranjit Singh's kingdom and court, the Anglo-Sikh wars, Duleep Singh, Haidar Ali and Tipu Sultan, the Anglo-Mysore wars and treaties.
+
+@hot
+- **Ranjit Singh**: **Sukerchakia** misl; capital **Lahore**; kingdom included **Srinagar**; Adalat-i-Ala at Lahore {1995, 1997, 2004, 2021}
+- **Duleep Singh** = last Sikh king; died in **Paris** (1893) {2010, 2013, 2013}
+- **Tipu Sultan**: beat the British at **Pollilur** (1780); set up modern embassies abroad; killed in the **Fourth** war (1799) {2009, 2011, 2014}
+- **Treaty-year matching**: **Allahabad 1765, Madras 1769, Salbai 1782, Mangalore 1784** {2019}
+@end
+
+@section 3.1 | Ranjit Singh and Punjab
+- Kingdom included **Srinagar** {2004}
+- Misl: **Sukerchakia** {1997}
+- Capital: **Lahore** {1995}
+- **Adalat-i-Ala** set up at **Lahore** {2021}
+- "God took away the light from my other eye...": **Ranjit Singh** {2007}
+- Treaty of Lahore (1846): territories beyond the Sutlej and forts given up (I and II) {2023}
+- Last Sikh king: **Duleep Singh** {2010, 2013}
+- False of the merger: Duleep's pension was **Rs 2.5 lakh** {2023}
+- Duleep Singh died in **Paris** (key: 23 October 1893) {2013}
+- Not on the first Board of Three: **Elliot and Montgomery** {2013}
+
+@flow Punjab under the British
+1809 | Treaty of Amritsar: Sutlej the boundary
+1839 | Ranjit Singh dies
+1845-46 | First Anglo-Sikh war; Treaty of Lahore
+1848-49 | Second war; Punjab annexed (Dalhousie)
+1849 | Board of Three: Henry and John Lawrence, Mansel
+@end
+
+@section 3.2 | Mysore
+- Modern armoury at Dindigul (1755): **Haidar Ali** {2020}
+- First Anglo-Mysore war won by **Haidar Ali** {2015}
+- Tipu beat the British at **Pollilur** (1780) {2009}
+- Correct: **Fourth Anglo-Mysore war-Tipu killed** (1799) {2014}
+- Embassies abroad on modern lines: **Tipu Sultan** {2011}
+- Order: **Shakarkheda, Bedara, Porto Novo, Mudki** {2022}
+- **Allahabad-1765, Mangalore-1784, Salbai-1782, Madras-1769** {2019}
+
+@table
+Anglo-Mysore war | Treaty | Governor-General
+First (1767-69) | Madras (1769) | (Bengal: Verelst)
+Second (1780-84) | Mangalore (1784) | Warren Hastings
+Third (1790-92) | Seringapatam (1792) | Cornwallis
+Fourth (1799) | None; Tipu killed | Wellesley
+@end
+
+@trap
+- Treaty of Amritsar **1809** (Ranjit Singh) vs Treaty of Amritsar **1846** (Kashmir to Gulab Singh).
+- Haidar **won** the first Anglo-Mysore war.
+- Salbai (1782) ended the First Anglo-Maratha war; Mangalore (1784) the second Mysore war.
+@end
+
+@up UP link: the **Treaty of Allahabad (1765)** was signed at Prayagraj; UP's Sikh heritage includes Guru Tegh Bahadur's stay at **Prayagraj**, but the Sikh kingdom itself lay in Punjab.
+
+@last
+- Ranjit Singh = Sukerchakia misl, Lahore
+- Kingdom included Srinagar (Kashmir)
+- Adalat-i-Ala at Lahore
+- Duleep Singh = last king; died in Paris
+- Treaty of Lahore 1846; annexation 1849
+- Haidar Ali = Dindigul armoury; won the first war
+- Tipu won at Pollilur 1780
+- Tipu = embassies abroad; died 1799
+- Madras 1769; Salbai 1782; Mangalore 1784
+- Shakarkheda, Bedara, Porto Novo, Mudki
+@end

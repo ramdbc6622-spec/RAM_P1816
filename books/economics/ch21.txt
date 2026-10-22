@@ -1,0 +1,998 @@
+@unit UNIT IV · MISCELLANEOUS
+
+@chapter 21 | Economy Miscellany
+
+@intro
+The miscellaneous section collects questions that fit no single topic: **education policy**, sociological ideas, the **Competition Commission**, committees and their subjects, **economists and their books**, **Gandhian trusteeship**, national **institutes**, **energy and infrastructure** facts, and **quality marks** (AGMARK, Ecomark, ISO, GI). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 21.1 | Education and Society
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+United Nations General Assembly has declared the year 2023 as the International year of :
+(a) Oilseed crops
+(b) Pulse crops
+(c) Millet crops
+(d) Animal fodder crops
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Consider the following statements about New National Education Policy approved by Union Cabinet of India on 29th July, 2020 :
+1. It was drafted by a Committee headed by Dr. K. Kasturirangan.
+2. It will replace the previous Education Policy which has been followed for last 38 years.
+Select the correct statement(s) from the codes given below.
+Codes:
+(a) 1 Only
+(b) 2 Only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Pre) 2017
+Who heads the panel on National Education Policy constituted in June 2017 by the Human Resource Development Ministry?
+@ans K. Kasturirangan
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following Programmes/ Schemes is/are NOT included in meeting the objectives of National Education Policy 2020 ?
+1. ULLAS
+2. DIKSHA
+3. Bharat Nirman Programme
+Select the correct answer from the code given below:
+Code:
+(a) 1 and 2
+(b) Only 3
+(c) 1 and 3
+(d) Only 1
+@ans (b)
+@end
+
+@table
+NEP 2020 fact | Detail
+Approved | **29 July 2020**; replaced the **1986** policy (revised 1992), so **34 years**, not 38
+Drafted by | Committee under **Dr. K. Kasturirangan** (2017-19)
+Structure | **5+3+3+4** school stages; mother tongue up to class 5 where possible
+Schemes under it | **ULLAS** (adult literacy, 2022), **DIKSHA** (digital learning), PM-SHRI schools, APAAR ID
+Not under it | **Bharat Nirman** (2005, rural infrastructure)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to "Guidelines for Elimination of Corporal Punishment" (GECP), which of the following statements is/are correct?
+1. The Tamil Nadu School Education Department issued these guidelines on 26th April, 2024.
+2. These guidelines are focussed on safeguarding the physical and mental well-being of students.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@note The source keys (d), but its own explanation dates the Tamil Nadu guidelines to **26 October 2024**, which would make statement 1 (April 2024) wrong and the answer (a). Statement 2 is certainly correct; treat statement 1 with care.
+@end
+
+
+
+@pyq U.P. P.C.S. (Pre) 2020
+The concept of 'Marginal Man' was propounded by :
+(a) Robert E. Park
+(b) Robert Redfield
+(c) Louis Wirth
+(d) Louis Dumont
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+The phrase 'Missing women' was coined by :
+(a) Helen Keller
+(b) Emma Watson
+(c) Medha Patkar
+(d) Amartya Sen
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+The development of the concept of ‘Global Village’ is based on :
+(a) Social development
+(b) Political development
+(c) Transport and Communication development
+(d) International organization
+@ans (c)
+@end
+
+
+**Robert E. Park** gave the idea of the **marginal man** (a person between two cultures). **Amartya Sen** coined "**missing women**" (1990) for the women missing because of sex-selective neglect. **Marshall McLuhan's "global village"** rests on fast **transport and communication**. The UN declared **2023** the **International Year of Millets**, on India's proposal.
+
+@section 21.2 | Institutions, People and Committees
+
+@pyq U.P.P.C.S. (Mains) 2004
+Competition Commission has been established in India in the year :
+(a) 2001
+(b) 2002
+(c) 2003
+(d) 2004
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Who is the Chairperson of the Competition Commission of India?
+(a) Ashok Chawla
+(b) Mohan Dharia
+(c) Pankaj Oswal
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following deals with the marketing of milk ?
+(a) CACP
+(b) GCMMF
+(c) NAFED
+(d) TRIFED
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The newly appointed Managing Director of I.M.F. is :
+(a) Kristalina Georgieva
+(b) Christine Lagarde
+(c) Raghuram Rajan
+(d) Surjit Bhalla
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which one of the following pairs is not correctly matched?
+(a) T.S. Krishnamurthy : Ex. Chief Election Commissioner of India
+(b) K.C.Pant : Chairman, 10 th Finance Commission of India
+(c) A.M. Khusro : Ex-Chairman, Union Public Service Commission
+(d) R.C. Lahoti : Ex-Chief Justice of India
+@ans (c)
+@end
+
+
+The **Competition Commission of India** was set up on **14 October 2003** under the **Competition Act, 2002** (replacing the MRTP Commission). **Ravneet Kaur** (2023) is its first woman chairperson. **GCMMF** (Amul) markets milk; **Kristalina Georgieva** has headed the **IMF** since 2019. **A.M. Khusro** chaired the 11th Finance Commission, not the UPSC.
+
+@pyq U.P. P.C.S. (Pre) 2022; U.P. P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I (Person) | List-II (Concerned with)
+A. M.S. Swaminathan | 1. Social Control on Banks
+B. L.K. Jha | 2. Milk Production
+C. Verghese Kurien | 3. Green Revolution
+D. Morarji Desai | 4. Economic Administration Reforms
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 1 2 4 3
+(c) 4 1 3 2
+(d) 3 4 2 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which one of the following pairs is not correctly matched?
+(a) Goiporia Committee - Banking Service Improvement
+(b) Nanjundappa Committee - Railway Fare
+(c) Rangarajan Committee - Balance of Payments
+(d) Rekhi Committee - Simplification of Export & Import
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which of the following pairs is not correctly matched?
+(a) Goswami Committee – Problem of Industrial Sickness
+(b) Janakiraman Committee – Stock Market Scam
+(c) Malhotra Committee – Insurance Sector Reforms
+(d) Tarapore Committee – Customer Service in Banks
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+List-I
+List-II
+A. Dutt Committee (1969)
+1. Industrial licensing
+B. Wanchoo Committee (1971)
+2. Direct Tax
+C. Rajamannar Committee (1971) 3. Centre-State relations
+D. Chakravarty Committee (1985) 4. Monetary policy
+Codes : A B C D
+(a) 1 2 3 4
+(b) 1 2 4 3
+(c) 4 3 2 1
+(d) 4 1 3 2
+@ans (a)
+@end
+
+
+@table
+Committee | Subject
+**Goiporia** (1990) | **Customer service in banks**
+**Nanjundappa** | **Railway fares**
+**Rangarajan** (1993) | **Balance of payments**
+**Rekhi** | **Indirect taxes** (excise and customs), not export-import procedures
+**Goswami** (1993) | **Industrial sickness**
+**Janakiraman** (1992) | **Securities scam**
+**Malhotra** (1993) | **Insurance reform**
+**Tarapore** (1997, 2006) | **Capital account convertibility**
+**Dutt** (1969) | **Industrial licensing**
+**Wanchoo** (1971) | **Direct taxes** (black money)
+**Rajamannar** (1969-71) | **Centre-State relations** (Tamil Nadu)
+**Sukhamoy Chakravarty** (1985) | **Monetary policy**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Name the Governor of Reserve Bank of India who also became Finance Minister.
+(a) H.M. Patel
+(b) C.D. Desmukh
+(c) C. Subramaniam
+(d) Sachin Chaudhari
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Who has written the book "From Dependence to Self Reliance"?
+(a) Y. Venugopal Reddy
+(b) C. Rangarajan
+(c) Bimal Jalan
+(d) Raghuram Rajan
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S.(Pre) 2001
+The two Indian families among the fifty richest in the world according to 'Forbes Billionares List' are :
+1. Ratan Tata
+2. Azim Premji
+3. Kumar Mangalam (Birla)
+4. Dhirubhai Ambani
+Select the correct answer from the codes given below:
+(a) 1 and 2 are correct
+(b) 2 and 3 are correct
+(c) 3 and 4 are correct
+(d) 2 and 4 are correct
+@ans (*)
+@note In the 2000 Forbes list the two Indians among the top 50 were **Azim Premji** and **Dhirubhai Ambani**, so (d) was right then; the list changes every year, so the source marks it (*). In 2025, **Mukesh Ambani** (18th) and **Gautam Adani** (28th) were the top Indians.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Given below are a few abbreviations and the areas with which they are associated. Match them properly using the given code :
+@match
+List-I | List-II
+A. OGL, FOB | 1. Employment
+B. SJRY, TRYSEM | 2. External trade
+C. WPI, CPI | 3. Banking
+D. CRR, SLR | 4. Index number
+@endmatch
+Codes : A B C D
+(a) 2 1 4 3
+(b) 2 4 3 1
+(c) 4 3 2 1
+(d) 3 2 1 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which among the following statements signifies a 'Pressure Group' :
+(a) A group that works for social reform
+(b) A faction of political party tempting others to secure votes in election
+(c) A group that exercises its influence on policy decisions.
+(d) A group that works for welfare of the poor
+@ans (c)
+@end
+
+
+@section 21.3 | Books, Prizes and Indices
+
+@pyq U.P. Lower Sub. (Pre) 2015*
+Who among the following was awarded by Nobel Prize for Economics, 2015?
+(a) Angus Deaton
+(b) Lars Peter Hansen
+(c) Paul Modrich
+(d) Arthur B. Mc Donald
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Who among the following has authored the book 'India's Economic Policy : The Gandhian Blue Print'?
+(a) Acharya Vinoba Bhave
+(b) Morarji Desai
+(c) Jai Prakash Narayan
+(d) Charan Singh
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Who was the Prime Minister of India when India had to pledge gold in foreign banks?
+(a) P.V. Narsimha Rao
+(b) V.P. Singh
+(c) Rajiv Gandhi
+(d) Chandrashekhar
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+An International Organization 'Transparency International' issues Corruption Index every year. Match the years given in List A with India’s ranking given in List-B and select the correct answer from the codes given below the lists :
+List-A
+List-B (Year) (India’s Ranking)
+A. 2014
+1. 87
+B. 2012
+2. 95
+C. 2011
+3. 94
+D. 2010
+4. 85
+Codes : A B C D
+(a) 4 3 2 1
+(b) 4 2 3 1
+(c) 1 2 4 3
+(d) 1 3 2 4
+@ans (a)
+@end
+
+
+@table
+Fact | Detail
+Nobel in Economics 2015 | **Angus Deaton** (consumption, poverty, welfare)
+Recent winners | 2023 **Claudia Goldin**; 2024 **Acemoglu, Johnson, Robinson** (institutions); 2025 **Joel Mokyr, Philippe Aghion, Peter Howitt** (innovation-led growth)
+*India's Economic Policy: The Gandhian Blueprint* | **Charan Singh**
+*From Dependence to Self Reliance* | **Bimal Jalan**
+RBI Governor who became Finance Minister | **C.D. Deshmukh** (also Manmohan Singh later)
+Gold pledged abroad (1991) | PM **Chandra Shekhar** (May 1991); a further **47 tonnes** went to the Bank of England and Bank of Japan in July under P.V. Narasimha Rao
+@end
+
+Transparency International's **Corruption Perceptions Index** ranked India **95 (2011), 94 (2012), 85 (2014)** and 87 (2010); in the **2024** index India was **96th** of 180.
+
+@pyq U.P.P.C.S. (Mains) 2011
+RESIDEX, an index of residential prices in India, was launched in the year
+(a) 2001
+(b) 2004
+(c) 2007
+(d) 2008
+@ans (c)
+@end
+
+@pyq U.P. P.C.S (Mains) 2016
+Trade and Merchandise Marks Act was passed in :
+(a) 1955
+(b) 1956
+(c) 1957
+(d) 1958
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+The Indian Patents Act came into force in :
+(a) 1970
+(b) 1971
+(c) 1972
+(d) 1973
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+The Patents (Second Amendment) Bill was finally passed by the Indian Parliament in :
+(a) 1999
+(b) 2000
+(c) 2001
+(d) 2002
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+In which of the following States ‘Bahini Darbar’ a monthly newspaper, by the women and for the women is published?
+(a) West Bengal
+(b) Jharkhand
+(c) Maharashtra
+(d) Madhya Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+According to estimates made in 2013-14, which of the following countries has maximum green house gas emission?
+(a) USA
+(b) Germany
+(c) India
+(d) China
+@ans (d)
+@end
+
+
+@one U.P. P.C.S. (Mains) 2015
+Index 'Residex' is associated with
+@ans Land prices
+@end
+
+**RESIDEX** (2007) is the **National Housing Bank's** index of residential prices. The **Trade and Merchandise Marks Act** was passed in **1958** (now the Trade Marks Act, 1999). The **Patents Act, 1970** came into force in **1972**; the Second Amendment (2002) and the 2005 amendment made it TRIPS-compliant (product patents). **China** emits the most greenhouse gases, then the USA and India.
+
+@section 21.4 | Institutes and Schemes
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+Indian Institute of Carpet Technology has been established in which of the following districts of Uttar Pradesh?
+(a) Agra
+(b) Mirzapur
+(c) Moradabad
+(d) Sant Kabir Nagar
+@ans (*)
+@note The **Indian Institute of Carpet Technology** is at **Bhadohi** (Sant Ravidas Nagar), which is not among the options, so the source marks it (*).
+@end
+
+
+
+@pyq U.P.P.C.S. (Mains) 2017
+V.V. Giri National Labour Institute is located at :
+(a) Noida
+(b) New Delhi
+(c) Ghaziabad
+(d) Gurugram
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+The National institute for Agricultural Economics and Policy Research is located at :
+(a) New Delhi
+(b) Kolkata
+(c) Hyderabad
+(d) Bhopal
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Consider the following statements :
+1. Finance Commission is a non-statutory body.
+2. Planning Commission is a statutory body.
+3. R.B.I. was nationalized on 26.01.1949.
+Which of the above statements is/are correct?
+(a) Only 1 is correct
+(b) Only 3 is correct
+(c) 1 and 2 are correct
+(d) None of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Entrepreneurship Development Institute of India is located in :
+(a) Ahmedabad
+(b) Chennai
+(c) Mumbai
+(d) New Delhi
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+National Institute for Entrepreneurship and Small Business Development is situated at :
+(a) New Delhi
+(b) Noida
+(c) Bengaluru
+(d) Hyderabad
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+In which city is the ‘National Institute of Agricultural Economics and Policy Research’ located?
+(a) Lucknow
+(b) New Delhi
+(c) Hyderabad
+(d) Mumbai
+@ans (b)
+@end
+
+
+@table
+Institute | Location
+**V.V. Giri National Labour Institute** | **Noida**
+**NIESBUD** (entrepreneurship, small business) | **Noida**
+**Entrepreneurship Development Institute** | **Ahmedabad** (Gandhinagar)
+**ICAR-NIAP** (agricultural economics and policy) | **New Delhi**
+Indian Institute of Carpet Technology | **Bhadohi** (UP)
+@end
+
+**Statement check (Q35)**: the Finance Commission is a **constitutional** body (Article 280), the Planning Commission was **non-statutory**, and the RBI was nationalised on **1 January 1949**, so none is correct.
+
+@pyq U.P.P.C.S. (Pre) 2017
+Swadesh Darshan Scheme launched by Government of India does not include development of which of the following tourist circuit?
+(a) Heritage circuit
+(b) Sufi circuit
+(c) Ramayana circuit
+(d) Coastal circuit
+@ans (*)
+@note **Swadesh Darshan** (January 2015) has 15 theme circuits, including the **heritage, Sufi, Ramayana and coastal** circuits, so no option fits and the source marks it (*). **Swadesh Darshan 2.0** (2023) moved to destination-based development.
+@end
+
+
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which of the following online portals has been launched by the Ministry of Urban Development, Government of India for small traders?
+(a) e-traders
+(b) e-lala
+(c) e-urban
+(d) e-urban-dev
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+'Project Arrow' is concerned with the modernization of which of the following?
+(a) Airports
+(b) Post Offices
+(c) Road Transport
+(d) Railways
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not an example of economic infrastructure ?
+(a) Schools
+(b) Sanitary facilities
+(c) Coal mines
+(d) Roads and Railways
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Super Bazar is :
+(a) Whole-sale organization
+(b) Retail-sale organization
+(c) Consumer cooperative organization
+(d) Superior quality and high valued goods sale organization
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2009
+Project ARROW is related with
+@ans giving a new identity to post offices
+@end
+
+**Project Arrow** (April 2008) modernised **post offices**. The **e-Lala** portal (2015) of the Urban Development Ministry served small traders. **Economic infrastructure** means roads, rail, power, water, sanitation and schools; a coal mine is a productive unit. A **super bazar** is a retail chain (often cooperative).
+
+@section 21.5 | Economic Thought
+
+@pyq U.P.P.C.S. (Pre) 2024
+The following lists I and II show the names of Economists/ Authors and their books respectively. Match List-1 with List-II and choose the correct answer using the codes given below the lists:
+List-I List-II (Economist/Author) (Book)
+A. Myrdal
+1. Economic Theory and Underdeveloped Regions
+B. Hirschman
+2. The Strategy of Economic Development
+C. Kaldor
+3. Strategic Factors in Economic Development
+D. Adam Smith
+4. The Wealth of Nations
+Codes: A B C D
+(a) 1 2 3 4
+(b) 2 3 1 4
+(c) 3 2 1 4
+(d) 2 1 3 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Who is the author of the book 'Wealth of Nations' ?
+(a) Adam Smith
+(b) David Ricardo
+(c) J.M. Keynes
+(d) Gunnar Myrdal
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following pairs is not correctly matched?
+(a) Karl Marx – Principles of Political Economy and Taxation
+(b) Gunnar Myrdal – Asian Drama
+(c) Adam Smith – Wealth of Nations
+(d) J.M. Keynes – General Theory of Employment, Interest and Money
+@ans (a)
+@end
+
+
+@table
+Book | Author
+***The Wealth of Nations*** (1776) | **Adam Smith**
+*Principles of Political Economy and Taxation* (1817) | **David Ricardo** (not Marx)
+*Das Kapital* | Karl Marx
+*General Theory of Employment, Interest and Money* (1936) | **J.M. Keynes**
+*Asian Drama*; *Economic Theory and Underdeveloped Regions* | **Gunnar Myrdal**
+*The Strategy of Economic Development* (1958) | **Albert Hirschman**
+*Strategic Factors in Economic Development* | **Nicholas Kaldor**
+*Problems of Capital Formation in Underdeveloped Countries* | **Ragnar Nurkse**
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following is not included in country's wealth ?
+(a) Mines
+(b) Dams
+(c) Money supply
+(d) Livestock
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Who is the father of scientific management?
+(a) Henry Fayol
+(b) Elton Mayo
+(c) Chester Barnard
+(d) F.W. Taylor
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The theory of trusteeship of business assets was pronounced by :
+(a) Henry Fayol
+(b) Mahatma Gandhi
+(c) Jawahar Lal Nehru
+(d) Karl Marx
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+The Gandhian economy is based on the principle of :
+(a) Competition
+(b) Trusteeship
+(c) State Control
+(d) None of these
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Who among the following had propounded the concept of ‘Trusteeship’?
+(a) M.N. Roy
+(b) Aurobindo Ghosh
+(c) Mahatma Gandhi
+(d) G.K. Gokhale
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Consider the following statements :
+1. The Gandhian Economy is based on the principle of trusteeship.
+2. The Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 is included in Ninth Schedule.
+3. The 60th Constitutional Amendment reduced the voting age of citizens in India from 21 years to 18 years.
+4. In 1982, ‘Shetkari Sangthan’ was organized by Medha Patekar.
+Of these statements :
+(a) Only 1 and 2 are correct.
+(b) Only 2 and 3 are correct.
+(c) Only 3 and 4 are correct.
+(d) All are correct.
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which one of the following statements is not correct?
+(a) 'Golden Hand Shake Scheme' relates to voluntary retirement.
+(b) The real ownership of a joint stock company remains with the shareholders.
+(c) According to Human Development Report, 2010 in India, the mean year of schooling and expected year of schooling respectively is : 4.4 and 10.3.
+(d) In the context of India's Population Projection, the concept 'Age-quake' is related to Child Age population.
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2013
+In international policy processes, which of the following is not a specific achievement with which women's empowerment is implicitly equated with :
+(a) Political Participation
+(b) Legal Reforms
+(c) Strategic Choices
+(d) Economic Security
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+The amount of highest household waste per capita per year is produced in the world by :
+(a) Australia
+(b) Denmark
+(c) Ireland
+(d) USA
+@ans (d)
+@end
+
+
+**Trusteeship** is Gandhi's idea that the rich hold wealth in trust for society. **F.W. Taylor** is the father of scientific management; **Henri Fayol** of modern management theory. A country's wealth means **real assets** (mines, dams, livestock), not money supply. The **UP Zamindari Abolition Act, 1950** is in the **Ninth Schedule**; the **61st** Amendment (1989) cut the voting age to 18, and **Sharad Joshi** founded the **Shetkari Sanghatana** (1979), so statements 3 and 4 are wrong. "**Age-quake**" refers to the **ageing** population.
+
+@section 21.6 | Energy, Infrastructure and Industry
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+List-I List-II (State) (Rank according to expenditure on infra structure 2019-23)
+A. Maharashtra
+1. First
+B. Uttar Pradesh
+2. Second
+C. Tamil Nadu
+3. Third
+D. Karnataka
+4. Fourth
+Codes: A B C D
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 4 1 2 3
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Arrange the following States of India in descending order of their gross electricity generated :
+1. Gujarat
+2. Maharashtra
+3. Tamil Nadu
+4. Uttar Pradesh
+Select the correct answer from the codes given below:
+Codes:
+(a) 4, 1, 2, 3
+(b) 2, 1, 4, 3
+(c) 2, 4, 3, 1
+(d) 1, 2, 4, 3
+@ans (*)
+@note Total generation including renewables changes the order every year, so the source marks it (*). Leaving out renewables, the 2024-25 order of these states was **Uttar Pradesh, Maharashtra, Gujarat, Tamil Nadu** (4, 2, 1, 3).
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+At present, per capita annual consumption of electricity in India is about :
+(a) 150 kWh
+(b) 250 kWh
+(c) 350 kWh
+(d) 500 kWh
+@ans (*)
+@note When asked (1998), per capita use was a few hundred kWh a year. It is now about **1,460 kWh** (2024-25), so the source marks it (*).
+@end
+
+
+
+
+@pyq U.P.P.C.S. (Mains) 2012
+What has been the approximate share of renewable energy out of the total generation capacity in the energy sector of India as on Dec. 2011 ?
+(a) 11 %
+(b) 8 %
+(c) 5 %
+(d) 2 %
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+To reduce the interest payment on the Electricity sector, which scheme has been launched by the Government of India?
+(a) UJALA Scheme
+(b) Urja Ganga Scheme
+(c) UDAY Scheme
+(d) Saubhagya Scheme
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Which of the following is not correctly matched?
+(a) Primary Energy – Tidal Power
+(b) Commercial Energy – Oil and Gas
+(c) Non-Commercial Energy – Animal Dung
+(d) Non-Conventional Energy – Solar Energy
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+In which of the following States, India's first Railway line has been made under public-private partnership model?
+(a) Rajasthan
+(b) Madhya Pradesh
+(c) Maharashtra
+(d) Gujarat
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+The cities which are included in 'Golden Triangle' of Indian Tourism are :
+(a) Agra, Delhi and Jaipur
+(b) Mathura, Agra and Gwalior
+(c) Agra, Kanpur and Lucknow
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+More than one-third of the crude steel production of the world comes from :
+(a) China
+(b) Japan
+(c) Russia
+(d) U.S.A.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+As of early 2022, which country was at the top in steel production in the world?
+(a) Japan
+(b) India
+(c) China
+(d) England
+@ans (c)
+@end
+
+
+@table
+Energy and industry fact | Detail
+Non-fossil share of capacity | **Over 50%** (2025), reached five years ahead of the 2030 target; renewables (excluding large hydro) about **40%**
+Total installed capacity | About **514 GW** (end-2025)
+**UDAY** (2015) | Cut **DISCOM** debt and interest
+**UJALA** | LED bulbs
+Primary energy | Natural sources (coal, oil, gas, **solar, tidal**); the source treats tidal power as wrongly matched
+First **PPP railway line** | **Gujarat** (Pipavav)
+**Golden Triangle** | **Delhi, Agra, Jaipur**
+Crude steel | **China** makes over **half** the world's steel (52% in 2025); **India is second** (about 9%)
+@end
+
+**UP** spent the most on infrastructure in **2019-23** (about **Rs. 5.31 lakh crore**), ahead of Maharashtra, Tamil Nadu and Karnataka.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+The Kamaiya system is :
+(a) An arrangement of canals which cover unirrigated areas in Nepal
+(b) A system of bonded labour in Nepal which continues from generation to generation
+(c) A system of contract labour in Assam prevalent in tea gardens
+(d) A system of labour on sea-ports to load and unload goods
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2013
+Which of the following statements is not correct?
+(a) India was a colony of Britain till 1947.
+(b) The Indian economy stagnated during British period.
+(c) India was a supplier of manufacturing goods during British rule.
+(d) India was supplier of raw-materials during British rule.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which one of the following statements about Arthashastra is not true?
+(a) It prescribes the duty of a king.
+(b) It describes the then economic life of the country.
+(c) It lays down the principles of politics.
+(d) It highlights the need for financial reforms.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Weight of L.P.G. in Kilogram filled in non-domestic gas cylinder is :
+(a) 14.2
+(b) 15.8
+(c) 19.0
+(d) 19.4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The correct full form of PVR cinema is :
+(a) Priya Village Road Show
+(b) Priya Videos & Reviews
+(c) Parvati Videos & Reviews
+(d) Priyam Village & Road Show
+@ans (a)
+@end
+
+
+The **Kamaiya** system was hereditary **bonded labour** in **Nepal** (abolished 2000). Under British rule India supplied **raw materials** and bought **British manufactures**. The *Arthashastra* (Kautilya) deals with statecraft, the king's duties and finance. A commercial LPG cylinder holds **19 kg**; a domestic one **14.2 kg**.
+
+@section 21.7 | Quality Marks and Miscellany
+
+@pyq U.P. Lower Sub. (Pre) 2013
+‘AGMARK’ is related with :
+(a) Processing
+(b) Quality
+(c) Packaging
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+In which year was the AGMARK Act passed in India?
+(a) 1937
+(b) 1952
+(c) 1957
+(d) 1965
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to 'AGMARK', which of the following statement/s is/are correct?
+1. 'AGMARK' is the sign of quality of agricultural products.
+2. Certificate of 'AGMARK' is issued by Food Corporation of India.
+Select the correct answer using the code given below :
+Code :
+(a) Only 2
+(b) Both 1 and 2
+(c) Neither 1 nor 2
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+ISO 14001 is :
+(a) an international spy network to watch nuclear explosions in any part of the world
+(b) a Pakistani network which organizes terrorist activities in India
+(c) an international certificate issued to industrial units for having established Pollution Control System
+(d) a certificate issued by the Government regarding the quality of a product
+@ans (c)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2004; U.P.U.D.A./L.D.A. (Pre) 2002
+AGMARK is a
+@ans A seal of quality guarantee
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+'Geographical Indication Tag' for black pottery is associated with which of the following place in Uttar Pradesh?
+(a) Najibabad
+(b) Khurja
+(c) Nizamabad
+(d) Kasganj
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Eco mark is given to a product which is :
+(a) Economically viable
+(b) Rich in carbohydrates
+(c) Un-adulterated
+(d) Environment friendly
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+The "Ecomark" scheme was launched in 1991 to encourage consumers to purchase product that have a less? harmful environmental impact. Which of the following consumer products is not notified under this scheme?
+(a) Soap and detergents
+(b) Paper and plastics
+(c) Aerosols and Propellants
+(d) Medicines and Antibiotics
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Now, Packaging has assumed importance, because :
+(a) It provides safe to the products
+(b) It makes the products attractive
+(c) It increases credibility of the products
+(d) It provides all the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+After the merger of Air India and Indian Airlines, the New entity is now known as :
+(a) Indian Airways
+(b) Indian Airlines
+(c) Air India
+(d) Indo-Air
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Universal Service Obligation Fund is concerned with:
+(a) adjustment of liabilities of telecom companies
+(b) adjustment of accounts of oil refining companies to maintain the same price
+(c) the aid of people suffering from contagious diseases
+(d) the aid in the time of natural disasters
+@ans (a)
+@end
+
+
+@table
+Mark / scheme | Detail
+**AGMARK** | Quality mark for **farm products**; **Agricultural Produce (Grading and Marking) Act, 1937**; issued by the **Directorate of Marketing and Inspection**, not FCI
+**ISI mark** | Industrial goods (BIS)
+**Ecomark** | **1991**, BIS; **environment-friendly** products (soaps, paper, plastics, aerosols); not medicines
+**ISO 14001** | **Environmental management** system certificate
+**Hallmark** | Gold and silver purity (BIS)
+**GI tag** | **Nizamabad black pottery** (Azamgarh, 2015)
+**USOF** | **Universal Service Obligation Fund** (2002) for rural **telecom**; now **Digital Bharat Nidhi**
+@end
+
+@up UP link: UP led India in **infrastructure spending** in 2019-23 and has the most **GI tags** of any state (over 75), including **Nizamabad black pottery**, Banarasi saree, Bhadohi carpets and Moradabad brassware. The **V.V. Giri Labour Institute** and **NIESBUD** are in **Noida**, and the **Carpet Technology Institute** is at **Bhadohi**.
+
+@trap
+**NEP 2020: Kasturirangan; replaced the 1986 policy.** **Year of Millets 2023.** **Marginal man: Park; missing women: Sen.** **CCI 2003 (Act 2002).** **Goiporia = bank service; Rekhi = indirect taxes; Tarapore = convertibility.** **Ricardo wrote *Principles*; Hirschman *Strategy*; Kaldor *Strategic Factors*.** **Trusteeship = Gandhi.** **Taylor = scientific management.** **UP top in infrastructure spending 2019-23.** **AGMARK 1937, not FCI.** **Ecomark 1991.** **ISO 14001 = environment.** **Nizamabad = black pottery.** **USOF = telecom.**
+@end
+
+@heatmap
+
+@pattern
+This section is a grab-bag, but **economists and their books**, **committees and subjects** and **quality marks** recur. The **2022-2025** papers added NEP 2020, UP's infrastructure spending and a list of economists' books.
+@end
+
+@next
+Likely next angles: **NEP 2020** five-year review, the **2025 Nobel** in Economics, **GI tags** for UP products, **Digital Bharat Nidhi**, **India's energy transition** (500 GW target), **CCI** digital-market rules, and BIS quality-control orders.
+@end
