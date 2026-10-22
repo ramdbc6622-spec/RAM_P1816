@@ -1,0 +1,50 @@
+@chapter 35 | Demand for Pakistan
+@meta Built from 10 UPPSC questions (1991–2014). Focus: Iqbal at Allahabad, Jinnah's changing role, the Lahore Resolution of March 1940, Pakistan Day.
+
+@hot
+- Idea of a separate Muslim nation: **Muhammad Iqbal**, Allahabad session of the League (1930) {2003, 2013, 2014}
+- **Pakistan Resolution** adopted at **Lahore**, **March 1940**, Jinnah presiding {2010, 2012, 2012, 2013}
+@end
+
+@section 35.1 | Iqbal and Jinnah
+- Separate nation idea: **Sir Muhammad Iqbal** {2003, 2014}
+- First definite expression: Iqbal's speech at the **Allahabad session (1930)** {2013}
+- "Nehru is a patriot, Jinnah a politician": **Iqbal** {1991, 2010}
+- "Ambassador of Hindu-Muslim Unity": **Sarojini Naidu** {2000, 2004}
+- Not true about Jinnah (per key): "**he always kept a diary**" {2008}
+- Chaired the Lahore session (1940): **Jinnah** {2013}
+
+@section 35.2 | Lahore Resolution
+- Pakistan Resolution: **March 1940** {2010, 2012}
+- Session that gave effect to the two-nation theory: **Lahore** {2012}
+- Moved the 1940 resolution (per key): **Khaliquzzaman** (Fazlul Haq moved it; Khaliquzzaman seconded) {2000}
+- League's Pakistan Day: **23 March 1943** (per key) {2008}
+
+@table
+Step | Year | Person
+Separate Muslim state idea | 1930 | Iqbal, Allahabad
+Name "Pakistan" | 1933 | Choudhry Rahmat Ali
+Lahore Resolution | 1940 | Jinnah presided; Fazlul Haq moved
+Direct Action Day | 16 August 1946 | Muslim League
+@end
+
+@trap
+- Iqbal gave the **idea**; Rahmat Ali gave the **name**; Jinnah led the **demand**.
+- Lahore 1929 = Purna Swaraj (Congress); Lahore 1940 = Pakistan (League).
+- If **Fazlul Haq** is an option, he is the mover; never mark Jinnah, who presided.
+@end
+
+@up UP link: Iqbal's 1930 address was given at **Allahabad**; **Choudhry Khaliquzzaman** was a League leader from **Lucknow**.
+
+@last
+- Iqbal = Allahabad 1930
+- Rahmat Ali = name, 1933
+- Sarojini = "Ambassador of Unity"
+- Iqbal: "Nehru patriot, Jinnah politician"
+- Lahore = March 1940
+- Jinnah presided Lahore
+- Fazlul Haq moved; Khaliquzzaman seconded
+- Two-nation theory = Lahore session
+- Pakistan Day = 23 March
+- Direct Action = 16 August 1946
+@end

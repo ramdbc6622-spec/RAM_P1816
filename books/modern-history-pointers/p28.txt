@@ -1,0 +1,50 @@
+@chapter 28 | Formation of Swaraj Party (1923)
+@unit UNIT VII · SWARAJ PARTY TO POONA PACT
+@meta Built from 10 UPPSC questions (1991–2017). Focus: why the Swaraj Party was formed, C.R. Das and Motilal Nehru, Swarajists and no-changers, Vithalbhai Patel, allies in the Assembly.
+
+@hot
+- Swaraj Party (1923) formed by **C.R. Das and Motilal Nehru** {1998, 1998, 2016}
+- **C.R. Das** ("Deshbandhu") resigned the Congress presidency to form it {2004, 2006}
+@end
+
+@section 28.1 | Formation
+- Reasons: **withdrawal of Non-Cooperation** and **entering councils to wreck the 1919 Act** {1998}
+- Resigned the Congress presidency to form it: **C.R. Das** {2004}
+- Formed by **C.R. Das and Motilal Nehru** {1998, 1998}
+- Party of Motilal and Das (1923): **Swaraj Party** {2016}
+- "Deshbandhu": **Chittaranjan Das** {2006}
+
+@section 28.2 | Members and Allies
+- Not in the Swaraj Party: **C. Rajagopalachari** {1991, 1993}
+- Not associated: **Rajendra Prasad** {2014}
+- Elected President of the Central Legislative Assembly (1925): **Vithalbhai Patel** {2012}
+- Supported the Swarajists in the Assembly: **Jinnah** {2017}
+- Independent Party (16 December 1922), per key: **Malaviya and Motilal Nehru** {2006}
+
+@table
+Pro-changers (Swarajists) | No-changers
+C.R. Das, Motilal Nehru | Rajagopalachari, Rajendra Prasad
+Vithalbhai Patel, N.C. Kelkar | Vallabhbhai Patel, M.A. Ansari
+Hakim Ajmal Khan | Kasturi Ranga Iyengar
+@end
+
+@trap
+- **Gaya** 1922 (Das presiding) rejected council entry; the **Delhi** special session (1923, Azad) allowed it.
+- **Vithalbhai** was a Swarajist; his brother **Vallabhbhai** was a no-changer.
+- Deshbandhu = C.R. Das; Deshpriya = J.M. Sengupta.
+@end
+
+@up UP link: **Motilal Nehru** of Allahabad (Anand Bhawan) led the Swarajists in the Central Assembly.
+
+@last
+- Swaraj Party = 1923
+- C.R. Das + Motilal Nehru = founders
+- Das resigned Congress presidency
+- Aim = wreck 1919 Act from inside
+- Deshbandhu = C.R. Das
+- Rajagopalachari, Rajendra Prasad = no-changers
+- Vithalbhai Patel = Assembly President 1925
+- Jinnah = Assembly ally
+- Gaya 1922 = rejected council entry
+- Delhi 1923 = allowed council entry
+@end

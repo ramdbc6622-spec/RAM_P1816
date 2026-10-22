@@ -1,0 +1,91 @@
+@chapter 14 | Revolutionary Movements in India
+@unit UNIT IV · EARLY NATIONALISM AND THE REVOLUTIONARIES
+@meta Built from 45 UPPSC questions (1994–2023). Focus: Abhinav Bharat and Anushilan, the Alipore case, HRA and Kakori, HSRA and Bhagat Singh, Azad, Bengal revolutionaries, matching founders.
+
+@hot
+- **Kakori** (1925): **Azad** escaped; Bismil hanged at **Gorakhpur**; Ashfaqullah the first Muslim hanged {2004, 2006, 2006, 2006, 2008, 2011, 2015, 2021}
+- **Assembly bomb** (8 April 1929): **Bhagat Singh and B.K. Dutt**; "Inquilab Zindabad" = **Bhagat Singh** {2004, 2010, 2010, 2013, 2013}
+- **HSRA** = **Chandra Shekhar Azad**, Delhi 1928; **HRA** founded at **Kanpur** {1996, 2006, 2008, 2010}
+- **Abhinav Bharat** = Savarkar, **Maharashtra**, 1905 {2000, 2002, 2010, 2015}
+@end
+
+@section 14.1 | Maharashtra and Bengal
+- Abhinav Bharat organised by **V.D. Savarkar** {2002, 2010}
+- Abhinav Bharat (1905) set up in **Maharashtra** {2000, 2015}
+- Mitra Mela started by **V.D. Savarkar** {2011}
+- Anushilan Samiti founded by **P. Mitra** {2008}
+- **Barindra Ghosh**: Anushilan Samiti {2008, 2016}
+- Yugantar led by **Jatindranath Mukherjee** {2009}
+- Revolutionary bodies: **Abhinav Bharat, Anushilan Samiti** (not the Indian Patriotic Association) {2004}
+- Aurobindo defended in the **Alipore case** by **C.R. Das** {2004, 2012}
+- Bomb on Lord Hardinge (Delhi, 1912): **Anushilan Samiti** (per key) {2023}
+
+@section 14.2 | HRA and Kakori
+- HRA founded at **Kanpur** (1924) {2010}
+- Not an HRA member: **Shiv Verma** {2006}
+- Kakori case: **1925** {2008}
+- Escaped from the Kakori case: **Chandra Shekhar Azad** {2006, 2006, 2011}
+- Not linked with Kakori: **Bhagat Singh** {2004}
+- Government advocate in Kakori: **Jagat Narain Mulla** {2015}
+- Defence committee chaired by **G.B. Pant** (revised key) {2014}
+- Refused milk before hanging, "only my mother's milk": **Bismil** (question later deleted) {2014}
+- "Daro-deewar pe hasrat ki nazar karte hain...": keyed to **Wajid Ali Shah** {2002, 2003}
+- Hanged at **Gorakhpur** jail: **Ram Prasad Bismil** {2006, 2015, 2021}
+- First Muslim hanged for freedom: **Ashfaqullah Khan** {2004}
+
+@section 14.3 | Conspiracy Cases
+- Not linked with the Kanpur case (1924): **M.A. Ansari** {2021}
+- Order (per key): **Lahore (1915), Kanpur, Kakori, Meerut** {2010}
+- Wrong pair: **Kakori case, 1924** (it was 1925) {2015}
+- Wrong pair: **Nasik case, Ras Bihari Bose** {2017}
+
+@table
+Case | Year | Accused
+Lahore (I) | 1915-16 | Ghadar revolutionaries
+Kanpur Bolshevik | 1924 | Dange, Muzaffar Ahmad
+Kakori | 1925 | Bismil, Ashfaqullah, Lahiri, Roshan Singh
+Meerut | 1929 | Communists, trade unionists
+Lahore (II) | 1929-30 | Bhagat Singh, Sukhdev, Rajguru
+@end
+
+@section 14.4 | HSRA and Bhagat Singh
+- HSRA formed by **Chandra Shekhar Azad** {1996, 2006}
+- HSRA set up at **Delhi**, 1928 {2008}
+- "Hindustan Socialist Democratic Union": no such body; question marked (*) {2022}
+- Not an early Naujawan Sabha member: **Ambika Chakravarti** {2021}
+- Assembly bomb with Bhagat Singh: **Batukeshwar Dutt** {2013, 2013}
+- "Inquilab Zindabad": **Bhagat Singh** {2004, 2010, 2010}
+- "Criticism and independent thinking...": **Bhagat Singh** {2014}
+- Hanged in the Lahore case: **Bhagat Singh, Sukhdev, Rajguru** {2002, 2010}
+- Bhagat Singh's memorial: **Ferozepur** {2013}
+- Jatin Das arrested in the **Lahore Conspiracy** {1994}
+- Died on hunger strike in jail: **Jatin Das** {2004}
+- Azad killed **by bullets in an encounter** (Alfred Park, Allahabad, 1931) {1994}
+- Tried to kill Tegart: **Gopinath Saha** {2016}
+- Fired at the Governor at convocation: **Bina Das** {2010}
+
+@section 14.5 | Matching Founders
+- Per key: Abhinav Bharat **G.D. Savarkar**, Mitra Mela **V.D. Savarkar**, Indian Republican Army **Surya Sen**, HRA **Sanyal** {2014}
+- Revolt group **Surya Sen**, HRA **Bismil**, HSRA **Azad**, Naujawan Bharat Sabha **Bhagat Singh** {2002}
+- Order: **Ghadar (1913), Berlin Committee (1915), Assembly bomb (1929), Chittagong raid (1930)** {2022}
+
+@trap
+- HRA = Kanpur 1924 (Sanyal); HSRA = Delhi 1928 (Azad); Naujawan Bharat Sabha = Lahore 1926 (Bhagat Singh).
+- **Saunders**, not Scott, was shot. **B.K. Dutt** threw the bomb but was not hanged.
+- Abhinav Bharat: V.D. Savarkar in 2002 and 2010, but G.D. Savarkar in the 2014 match. Read the options.
+@end
+
+@up UP link: **Kakori** (Lucknow) 1925, Bismil hanged at **Gorakhpur**, Roshan Singh at **Allahabad (Naini)**, Lahiri at **Gonda**; **Azad** fell at Alfred Park, **Allahabad** (now Chandrashekhar Azad Park).
+
+@last
+- Abhinav Bharat = Savarkar, Maharashtra 1905
+- Anushilan = P. Mitra, Barindra Ghosh
+- Yugantar = Jatindranath Mukherjee
+- C.R. Das defended Aurobindo
+- HRA = Kanpur; HSRA = Azad, Delhi 1928
+- Kakori = 1925; Azad escaped
+- Mulla for government; Pant for defence
+- Bismil = Gorakhpur; Ashfaqullah = first Muslim
+- Bhagat Singh + B.K. Dutt = Assembly bomb
+- Jatin Das = hunger strike death
+@end

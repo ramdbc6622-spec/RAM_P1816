@@ -1,0 +1,69 @@
+@chapter 16 | Partition of Bengal and Swadeshi Movement
+@unit UNIT V · SWADESHI TO HOME RULE
+@meta Built from 17 UPPSC questions (1991–2023). Focus: Curzon's partition and its motive, 7 August 1905, boycott, leaders and critics, Vande Mataram, swadeshi outside Bengal, the 1911 annulment.
+
+@hot
+- Anti-partition movement began **7 August 1905** (Calcutta Town Hall); boycott adopted the same year {1994, 2014, 2023}
+- **Vande Mataram** became the theme song during the **Swadeshi Movement** {2002, 2005, 2010}
+- Partition by **Curzon**, cancelled in **1911** {1991, 1993, 2011}
+- First to suggest boycott: **Krishna Kumar Mitra** {2004, 2011}
+@end
+
+@section 16.1 | The Partition (1905)
+- Partitioned Bengal: **Lord Curzon** {2011}
+- Occurred last among the options: **Partition of Bengal** {2000}
+- Main aim: **to weaken nationalism in Bengal** {1998}
+- Lt. Governor of Bengal at the time: **Sir Andrew Fraser** {2014}
+- Anti-partition movement began on **7 August 1905** {1994}
+- Mass demonstration at Calcutta Town Hall: **7 August 1905** {2023}
+- First to suggest boycott: **Krishna Kumar Mitra** (in Sanjivani) {2004, 2011}
+- Boycott adopted as national policy: **1905** {2014}
+- Partition cancelled: **1911** (Delhi Durbar) {1991, 1993}
+
+@flow Bengal, 1905 to 1911
+Curzon announces partition | July 1905
+Town Hall meeting, boycott resolution | 7 August 1905
+Partition takes effect, day of mourning | 16 October 1905
+Calcutta Congress adopts swadeshi and swaraj | 1906
+Annulled at the Delhi Durbar | 1911
+@end
+
+@section 16.2 | Leaders, Critics and Spread
+- Led the anti-partition agitation: **Surendranath Banerjee** {2011}
+- Critic of swadeshi, pleaded for East-West understanding: **R.N. Tagore** {2009}
+- Theme song: **Vande Mataram**, during Swadeshi {2002, 2005, 2010}
+- Not correct about Swadeshi: "it was **limited to Bengal**" {2002}
+- Swadeshi leader in Madras: **V.O. Chidambaram Pillai** {2008}
+- Swadeshi leader in Delhi: **Syed Haider Raza** {2011}
+- British journalist **H.W. Nevinson**: Swadeshi Movement {2014}
+- Indian Society of Oriental Art: **Abanindranath Tagore** {2007}
+
+@table
+Region | Swadeshi leader
+Bengal | Surendranath Banerjee, Aurobindo, B.C. Pal
+Maharashtra | Tilak
+Punjab | Lajpat Rai, Ajit Singh
+Madras | V.O. Chidambaram Pillai
+Delhi | Syed Haider Raza
+@end
+
+@trap
+- **7 August** = movement began; **16 October** = partition took effect (Raksha Bandhan day).
+- Curzon partitioned (1905); **Hardinge** annulled (1911). Minto faced the agitation.
+- Tagore led Raksha Bandhan but later **criticised** the movement's turn to violence.
+@end
+
+@up UP link: The **Benaras Congress** (1905) under **Gokhale** backed swadeshi and boycott for Bengal.
+
+@last
+- Curzon = partition 1905
+- Aim = weaken Bengal nationalism
+- Andrew Fraser = Lt. Governor
+- 7 August 1905 = movement began
+- K.K. Mitra = boycott idea
+- Surendranath = led agitation
+- Vande Mataram = theme song
+- V.O.C. Pillai = Madras
+- Abanindranath = Oriental Art
+- 1911 = partition annulled
+@end

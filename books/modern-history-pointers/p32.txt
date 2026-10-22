@@ -1,0 +1,60 @@
+@chapter 32 | Gandhi-Irwin Pact and Round Table Conference
+@meta Built from 20 UPPSC questions (1993–2021). Focus: the Delhi Pact, Karachi 1931, ordering the events of 1931, the three Round Table Conferences, Gandhi in London, Ambedkar.
+
+@hot
+- Congress attended only the **Second Round Table Conference** (1931), with **Gandhi** {2004, 2008, 2015}
+- Order: **Gandhi-Irwin Pact, Bhagat Singh's execution, Karachi session, Second RTC** {2006, 2009, 2009, 2013}
+- Attended all three RTCs: **B.R. Ambedkar** (Sapru too) {2006, 2011, 2021}
+@end
+
+@section 32.1 | The Pact and Karachi
+- Main purpose: **ease Congress participation** in the Round Table {1998}
+- Pact suspended **Civil Disobedience** {1993}
+- "The Two Mahatmas": **Sarojini Naidu** {2001}
+- Gandhi's gains as "consolation prizes": **Alan Campbell-Johnson** {2014}
+- Karachi session president: **Vallabhbhai Patel** {2005}
+- Karachi, the "pinnacle of Gandhi's popularity": **S.C. Bose** {2014}
+- Order: **Gandhi-Irwin Pact, execution of Bhagat Singh, Karachi, Second RTC** {2006, 2009, 2009, 2013}
+- Order: **Gandhi-Irwin Pact, execution of Bhagat Singh, Karachi, Poona Pact** {2004}
+
+@section 32.2 | Round Table Conferences
+- Not true of the First RTC: "**attended by the Congress**" {2010}
+- First RTC summoned in **1930** {2014}
+- Indian Christians at the First RTC: **K.T. Paul** {2000}
+- Congress represented at the **Second RTC** {2004}
+- Congress first participated at the **Second RTC** {2008}
+- Gandhi present at the **Second** RTC {2015}
+- "Nehru represented the Congress at the Second RTC" (A false); Pact implied Congress participation (R true) {2016}
+- At the Second RTC: **Gandhi, Sarojini Naidu, Malaviya** (not Azad) {1998}
+- Not at the Second RTC: **Rajendra Prasad** {2020}
+- Gandhi stayed at **Kingsley Hall** in London {2003}
+- Sailed on **S.S. Rajputana** {2000}
+- At all three RTCs: **Ambedkar** {2006, 2011, 2021}
+
+@table
+Conference | Dates | Congress
+First RTC | November 1930 to January 1931 | Boycotted
+Second RTC | September to December 1931 | Gandhi (sole representative)
+Third RTC | November to December 1932 | Absent
+@end
+
+@trap
+- The Pact **suspended** Civil Disobedience; it did not abolish the salt tax.
+- Karachi 1931 = **Patel**; Lahore 1929 = **Nehru**.
+- Ambedkar **and** Sapru attended all three; pick Ambedkar if both appear.
+@end
+
+@up UP link: **Madan Mohan Malaviya** of Allahabad attended the Second RTC with Gandhi and Sarojini Naidu.
+
+@last
+- Gandhi-Irwin Pact = 5 March 1931
+- Bhagat Singh hanged = 23 March 1931
+- Karachi = Patel, end March 1931
+- Sarojini = "Two Mahatmas"
+- First RTC = 1930, no Congress
+- Second RTC = Gandhi, S.S. Rajputana, Kingsley Hall
+- Naidu, Malaviya also at Second RTC
+- K.T. Paul = Indian Christians
+- Ambedkar = all three RTCs
+- Third RTC = 1932
+@end

@@ -1,0 +1,55 @@
+@chapter 17 | Congress: Benaras, Calcutta and Surat Sessions
+@meta Built from 13 UPPSC questions (1990–2014). Focus: Gokhale at Benaras, swaraj at Calcutta, Naoroji's titles and British Parliament, the Surat split of 1907.
+
+@hot
+- Congress split into **Naram Dal** and **Garam Dal** at **Surat (1907)**, president **Rash Behari Ghosh** {1990, 1991, 2007, 2010, 2012}
+- **Dadabhai Naoroji** = "Grand Old Man of India"; first Indian elected to the British Parliament {1991, 1992, 2007, 2014}
+- **Gokhale** presided over the **1905 Benaras** session {1999, 2003, 2004}
+@end
+
+@section 17.1 | Benaras and Calcutta
+- Gokhale presided over Congress in **1905** {2003, 2004}
+- Benaras session (1905) president: **G.K. Gokhale** {1999}
+- "Swaraj" first uttered at **Calcutta, 1906** (question later deleted) {2014}
+- First leader to use "Swaraj" (per key): **Tilak** {2013}
+
+@section 17.2 | Dadabhai Naoroji
+- Known as **Grand Old Man of India** {1991, 2007, 2014}
+- First Indian elected to the British Parliament: **Naoroji** {1992}
+- First Indian to contest for the House of Commons (per key): **Naoroji** (strictly, Lal Mohan Ghose in 1885) {2004}
+- Not correct: elected on a **Conservative** ticket (he was a **Liberal**, Finsbury Central 1892) {2008}
+- Not correct: presided over Congress **four** times (he presided **three** times: 1886, 1893, 1906) {2014}
+
+@section 17.3 | Surat 1907
+- Split into Naram Dal and Garam Dal at **Surat** {1990, 2012}
+- Surat session president: **Rash Behari Ghosh** {2007, 2010}
+- First split of the Congress: **1907** {1991}
+
+@table
+Session | Year | President | Remembered for
+Benaras | 1905 | G.K. Gokhale | Support for swadeshi
+Calcutta | 1906 | Dadabhai Naoroji | Swaraj as goal
+Surat | 1907 | Rash Behari Ghosh | Split
+Lucknow | 1916 | A.C. Mazumdar | Reunion, Lucknow Pact
+@end
+
+@trap
+- Gokhale presided **once** (1905); Naoroji **three** times.
+- Session that first used "swaraj" = Calcutta 1906 (Naoroji); leader keyed = Tilak.
+- The 1908 **Allahabad** convention came **after** the split; the split was at Surat.
+@end
+
+@up UP link: The **Benaras** session of 1905 was held in UP; the Moderates drew up the Congress constitution at the **Allahabad convention** (1908) after Surat.
+
+@last
+- Gokhale = Benaras 1905
+- Naoroji = Calcutta 1906, swaraj
+- Naoroji = Grand Old Man
+- Naoroji = first Indian MP, Liberal, Finsbury
+- Naoroji = 3 presidencies
+- Surat 1907 = split
+- Rash Behari Ghosh = Surat president
+- Naram Dal = Moderates; Garam Dal = Extremists
+- Lal Mohan Ghose = first to contest (1885)
+- Tilak = "Swaraj" (per key)
+@end

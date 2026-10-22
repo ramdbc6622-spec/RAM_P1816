@@ -1,0 +1,79 @@
+@chapter 36 | Individual Satyagraha, Cripps Mission and Quit India Movement
+@meta Built from 33 UPPSC questions (1990–2024). Focus: 1939-42 order, Vinoba Bhave, Cripps proposals, Bombay 8 August 1942, "Do or Die", Nehru and Azad, the underground, Ballia, Louis Fischer, Linlithgow and Wavell.
+
+@hot
+- First individual satyagrahi (1940): **Vinoba Bhave** {1995, 2002, 2007}
+- **Quit India** (1942) launched at **Bombay**; "**Do or Die**" by Gandhi {1990, 1991, 1993, 2009, 2012, 2015}
+- Parallel government in UP: **Ballia** (also Satara, Midnapur) {2002, 2013, 2013, 2016}
+- Not with Quit India: **Shanti Ghosh**; underground: **Aruna Asaf Ali, Usha Mehta, JP** {1997, 2009, 2010, 2010, 2011, 2013, 2023}
+- American with Gandhi in 1942: **Louis Fischer** {2001, 2002, 2008, 2010}
+@end
+
+@section 36.1 | 1939 to 1942
+- Order: **ministers resign (1939), Ramgarh (March 1940), August Offer (August 1940), Cripps (1942)** {2024}
+- Limited satyagraha in October 1940 (A true); "to embrace Britain's war effort" (R false) {2023}
+- First individual satyagrahi: **Vinoba Bhave** {1995, 2002}
+- Started the individual satyagraha: **Vinoba Bhave** {2007}
+- Cripps: dominion status, Indian Union, right of provinces to stay out, Indians to frame the constitution: **all of the above** {1998, 2005}
+
+@section 36.2 | Quit India
+- Launched at **Bombay** {1990}
+- Year: **1942** {1993}
+- Gandhi arrested at **Bombay** {2012}
+- "Free India or die in the attempt": **Quit India** {2009}
+- "Do or Die": **Gandhi** {1991}
+- "Do or Die" during **Quit India** {2015}
+- Supported the resolution: **Vallabhbhai Patel** {2009}
+- Moved the Quit India resolution: **Jawaharlal Nehru** {2013}
+- Congress president then: **Maulana Azad** {1996}
+- President for six consecutive years: **Azad** (1940-46) {2008, 2012}
+- Not true: "**led by Gandhi**" (he was arrested at once) {2016}
+- Did not support Quit India: **all of the above** (Muslim League, Hindu Mahasabha, CPI) {2004}
+- British and League drew closer (A); Jinnah kept Muslims away (R): **both true, R explains A** {2003}
+
+@section 36.3 | Underground and Parallel Governments
+- Ran Congress Radio: **Usha Mehta** {1997}
+- Broadcast on Congress Radio: **Ram Manohar Lohia** {2008}
+- Escaped jail and led the underground: **Jayaprakash Narayan** (Hazaribagh) {2011}
+- Aruna Asaf Ali: **Quit India** underground {2009}
+- Woman not linked with Quit India: **Shanti Ghosh** {2010, 2010, 2013, 2023}
+- Parallel governments: **Ballia and Satara** {2002}
+- Jatiya Sarkar in Midnapur: **1942** {2016}
+- UP district with a parallel government: **Ballia** (Chittu Pandey) {2013, 2013}
+
+@section 36.4 | Observers and the British
+- American with Gandhi during Quit India: **Louis Fischer** {2001, 2002}
+- Louis Fischer was **an American journalist** {2008}
+- Fischer linked with **Quit India** {2010}
+- "Political blackmail": **Lord Linlithgow** {2007}
+- Commander-in-Chief during Quit India: **Lord Wavell** {2013}
+- "Operation Rubicon": plan for **Gandhi's fast unto death in jail** {2017}
+- Quit India was the culmination (A); transfer of power needed a mechanism (R): **both true, R explains A** {2005}
+
+@table
+Place | Parallel government | Leader
+Ballia (UP) | 1942 | Chittu Pandey
+Satara (Maharashtra) | 1943-46 | Y.B. Chavan, Nana Patil
+Tamluk, Midnapur (Bengal) | Jatiya Sarkar, 1942-44 | Satish Samanta
+@end
+
+@trap
+- Gandhi was **arrested** in Bombay but **held** at the Aga Khan Palace, Poona.
+- Hazaribagh = JP's jail, not a parallel government; Meerut is a distractor.
+- Wavell: **C-in-C** in 1942, **Viceroy** from 1943.
+@end
+
+@up UP link: **Ballia** under **Chittu Pandey** set up a parallel government in August 1942, earning the name "Baghi Ballia".
+
+@last
+- Vinoba = first individual satyagrahi
+- Cripps = March 1942
+- Quit India = Bombay, 8 August 1942
+- Do or Die = Gandhi
+- Nehru moved; Azad presided
+- Usha Mehta = Congress Radio
+- JP = Hazaribagh escape
+- Ballia = Chittu Pandey
+- Louis Fischer = 1942
+- Linlithgow = "political blackmail"
+@end

@@ -1,0 +1,57 @@
+@chapter 25 | Rowlatt Act and Jallianwala Bagh Massacre (1919)
+@meta Built from 15 UPPSC questions (1990–2025). Focus: the Rowlatt Act under Chelmsford, the satyagraha, 13 April 1919, Tagore and Sankaran Nair, the Congress inquiry, Udham Singh.
+
+@hot
+- **Tagore** returned his **knighthood** over Jallianwala Bagh {2001, 2004, 2006, 2016, 2022}
+- **Sankaran Nair** resigned from the Viceroy's Executive Council {2007, 2013, 2013, 2025}
+- Rowlatt Act (1919) and the massacre: under **Lord Chelmsford** {1990, 1993, 2014}
+@end
+
+@section 25.1 | The Rowlatt Act
+- Passed in **1919** {1993}
+- Viceroy: **Lord Chelmsford** {2014}
+- Viceroy at Jallianwala Bagh: **Chelmsford** {1990}
+- Suggested a no-tax campaign against it: **Swami Shraddhanand** {2008}
+- Event just before Jallianwala: **Rowlatt Act** {2012}
+
+@section 25.2 | Jallianwala Bagh
+- Crowd protested the arrest of **Dr. Saifuddin Kitchlew and Dr. Satyapal** {2002}
+- Order: **Satyapal's arrest, the massacre, Amritsar Congress (1919)** {2002, 2003}
+- Returned knighthood: **Tagore** {2001, 2004, 2016, 2022}
+- Tagore gave up knighthood over the **Jallianwala Bagh massacre** {2006}
+- Tagore renounced knighthood (A true); to join Non-Cooperation (R false) {2021}
+- Resigned from the Executive Council: **only Sankaran Nair** {2025}
+- Resigned from the Council: **Sankaran Nair** {2007, 2013, 2013}
+- Drafting the Congress inquiry report: **Gandhi** {2014}
+- Called "preventive murder" by Montagu: **Jallianwala Bagh** {1998}
+- Killed Michael O'Dwyer: **Udham Singh** (London, 1940) {1994}
+
+@flow 1919 in Punjab
+Rowlatt Act passed | March 1919
+Rowlatt Satyagraha, first all-India protest | April 1919
+Kitchlew and Satyapal arrested | 10 April 1919
+Massacre under General Dyer | 13 April 1919
+Hunter Committee and Congress inquiry | 1919-20
+Amritsar Congress session | December 1919
+@end
+
+@trap
+- **General Dyer** fired; **O'Dwyer** was Lt. Governor and was shot by Udham Singh.
+- Tagore gave up a **title**; Sankaran Nair gave up an **office**; Jinnah resigned over the **Rowlatt Act**.
+- Rowlatt Act passed under **Chelmsford**, repealed under **Reading** (1922).
+@end
+
+@up UP link: **Motilal Nehru** of Allahabad presided over the **Amritsar Congress** (1919) held after the massacre.
+
+@last
+- Rowlatt Act = 1919, Chelmsford
+- No-tax idea = Shraddhanand
+- Massacre = 13 April 1919
+- Kitchlew + Satyapal arrested
+- Dyer fired; O'Dwyer = Lt. Governor
+- Tagore = returned knighthood
+- Sankaran Nair = resigned from Council
+- Gandhi = drafted Congress report
+- Montagu = "preventive murder"
+- Udham Singh = O'Dwyer, 1940
+@end
