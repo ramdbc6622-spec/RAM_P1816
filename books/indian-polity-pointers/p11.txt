@@ -1,0 +1,59 @@
+@chapter 11 | Citizenship
+@meta Built from 8 UPPSC questions (1994–2020). Focus: Part II, single citizenship, loss of citizenship, OCI, CAA 2019.
+
+@hot
+- Citizenship = **Part II, Articles 5-11**; **Parliament** lays down conditions (Art 11) {2010, 2013, 2018, 2020}
+- India has **single citizenship** {1994, 2015}
+@end
+
+@section 11.1 | Constitutional Provisions
+- Citizenship provisions: **Part II**; **Articles 5 to 11** {2010, 2018, 2020}
+- Competent to prescribe conditions: **Parliament** {2013}
+
+@section 11.2 | Single Citizenship
+- Citizenship under the Constitution: **single**; single citizenship for all India {1994, 2015}
+
+@section 11.3 | Loss of Citizenship
+- Lost by **renunciation** and **voluntarily acquiring another citizenship**; not by marrying a foreigner or criticising the government {2017}
+
+@flow Citizenship Act, 1955: losing citizenship
+Renunciation | Voluntary declaration
+Termination | Voluntarily takes another country's citizenship
+Deprivation | By the Government (fraud, disloyalty, etc.)
+@end
+
+@section 11.4 | OCI
+- Not eligible for OCI: an Indian who **migrated to Pakistan** (or Bangladesh) {2016}
+
+@section 11.5 | CAA 2019
+- Passed by Parliament: **11 December 2019** (RS); assent 12 December {2016}
+
+@table
+Item | CAA 2019
+Countries | Afghanistan, Bangladesh, Pakistan
+Communities | Hindu, Sikh, Buddhist, Jain, Parsi, Christian
+Cut-off | Entered on or before 31 Dec 2014
+Residence | 5 years (instead of 11) for naturalisation
+Rules | Notified March 2024
+@end
+
+@trap
+- **OCI is not dual citizenship**; OCI holders are foreign nationals.
+- Marriage to a foreigner or criticism of the Government does **not** end citizenship.
+- CAA passed 11 Dec 2019; **assent 12 Dec**.
+@end
+
+@up No UP-specific question. UP districts with Pakistani Hindu migrant settlements were among those authorised to receive CAA applications.
+
+@last
+- Citizenship = **Part II, Art 5-11**
+- **Parliament** decides conditions (Art 11)
+- Act = Citizenship Act, **1955**
+- **Single** citizenship (British model)
+- Loss: renunciation, termination, deprivation
+- Not lost by marriage or criticism
+- OCI not for migrants to Pakistan/Bangladesh
+- CAA passed **11 Dec 2019**
+- CAA: 3 countries, 6 communities, **31 Dec 2014**
+- OCI ≠ dual citizenship
+@end

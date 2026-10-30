@@ -1,0 +1,858 @@
+@chapter 20 | International Organizations and Global Rankings
+
+@intro
+This chapter covers the **Bretton Woods institutions** (IMF, World Bank), the **WTO** and GATT (agreement on agriculture, subsidy boxes, TRIPS), the **G-20**, **World Economic Forum** and its indices, **ILO**, **ADB**, regional groups (**SAARC, BIMSTEC, ASEAN, BRICS, SCO, GCC, OPEC**), the global **reports** and who publishes them, and the size of the world's **largest economies**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 20.1 | G-20 and Global Reports
+
+@pyq U.P.P.C.S. (Pre) 2023
+With reference to India's G-20 Logo, which of the following statement/s is/are correct?
+1. The logo has lotus with seven petals.
+2. The seven petals of the logo represent seven continents.
+Select the correct answer using the code given below Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2023
+With reference to the G-20 Summit, 2023, which of the following pairs (participating country – participating head) is not correctly matched?
+(a) Brazil — Joko Widodo
+(b) Australia — Anthony Albanese
+(c) Canada — Justin Trudeau
+(d) Argentina — Alberto Fernández
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Where was the first World Summit on Social Development under the aegis of UNESCO held?
+(a) London
+(b) New York
+(c) Paris
+(d) Copenhagen
+@ans (d)
+@end
+
+
+India held the **G-20 presidency** from **1 December 2022 to 30 November 2023**; the 18th summit was in **New Delhi** (9-10 September 2023) under the theme "**Vasudhaiva Kutumbakam: One Earth, One Family, One Future**". The logo shows the **earth on a lotus with seven petals**, for the seven continents; the **African Union** became a permanent member. Brazil's leader was **Lula da Silva**; Joko Widodo was Indonesia's president.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I | List-II
+A. Human Development Report | 1. International Monetary Fund
+B. World Economic Outlook | 2. United Nations Environment Programme
+C. World Investment Report | 3. United Nations Development Programme
+D. Emissions Gap Report | 4. United Nations Conference on Trade and Development
+@endmatch
+Codes: A B C D
+(a) 3 1 4 2
+(b) 3 4 1 2
+(c) 1 2 3 4
+(d) 2 3 4 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+The Global Financial Stability Report is released by which among the following?
+1. International Monetary Fund
+2. World Economic Forum
+3. World Bank
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+'World Development Report' is an annual publication of :
+(a) United Nations Development Programme
+(b) International Bank for Reconstruction and Development
+(c) World Trade Organisation
+(d) International Monetary Fund
+@ans (b)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001, 2003
+As per the World Development Report 2000, the highest Per Capita Income is in:
+(a) Luxembourg
+(b) Switzerland
+(c) Norway
+(d) Japan
+@ans (a)
+@end
+
+@pyq U.P.P.S.C.(GIC) 2017
+In ‘Ease of Doing Business Report’ published by World Bank on 31th October, 2017, India has been placed at which rank?
+(a) 130
+(b) 120
+(c) 110
+(d) 100
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+With reference to the World Bank's Ease of Doing Business Report, which of the following statement(s) is/are correct?
+1. In Ease of Doing Business Report 2020, India's rank is 63.
+2. India's ranking for Ease of Doing Business in the year 2019 was 77.
+Select the correct answer from the codes given below:
+Codes :
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@table
+Report | Publisher
+**World Economic Outlook**, **Global Financial Stability Report** | **IMF**
+**World Development Report**, Global Economic Prospects, (old) Ease of Doing Business | **World Bank** (IBRD)
+**Human Development Report**, Gender Social Norms Index (2020) | **UNDP**
+**World Investment Report** | **UNCTAD**
+**Emissions Gap Report** | **UNEP**
+Global Competitiveness, **Global Gender Gap**, **Travel and Tourism** Index, Global Talent (with INSEAD) | **World Economic Forum**
+**World Social Protection Report**, **Global Wage Report** | **ILO**
+@end
+
+India's **Ease of Doing Business** rank rose from 142 (2015) to **100 (2018 report)**, **77 (2019)** and **63 (2020)**; the World Bank stopped the report in 2021 and launched **B-READY** (2024). **Luxembourg** has the highest per capita income.
+
+@section 20.2 | The World's Largest Economies
+
+@pyq U.P.P.C.S. (Mains) 2005
+The second largest economy in the world next to USA is :
+(a) China
+(b) Germany
+(c) Japan
+(d) United Kingdom
+@ans (a)
+@note When asked (2005), **Japan** (c) was second. The source keys the present answer, **(a) China**, second since 2010.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005, 2009
+Measured in terms of Purchasing Power Parity, Indian economy continues to be the 4th largest country in the world. The first three positions are occupied by :
+(a) USA, Japan, China
+(b) Japan, China, USA
+(c) USA, UK, Japan
+(d) USA, China, Japan
+@ans (*)
+@note In PPP terms the top four were then **USA, China, Japan, India**, so (d) "USA, China, Japan" was right but the source marks it (*). Today India is **third** by PPP after **China and the USA**.
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+According to American based think tank Population Review Report 2020, which of the following statements is/are correct?
+1. India's GDP in 2019 was Rs. 209 lakh crore.
+2. India emerged as fifth largest economy of the world.
+3. India overtook countries like Britain and France.
+Select the correct answer using codes given below :
+Codes:
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3 correct
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009; U.P. Lower Sub. (Spl.) (Pre) 2008
+As per World Development Report of the World Bank, 2008 arrange the following countries according to the size of their economy in descending order. State which one of the following is the correct order :
+(a) China > USA > UK > India
+(b) UK > China > USA > India
+(c) USA > China > UK > India
+(d) China > UK > USA > India
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020; U.P.B.E.O. (Pre) 2019
+India aims to achieve the 5 trillion dollar economy by:
+(a) 2022
+(b) 2024
+(c) 2026
+(d) 2030
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2007
+Which country is the third largest economy of the world?
+@ans Germany
+@end
+
+
+
+@table
+Rank (nominal GDP, IMF 2025) | Country
+1 | **USA**
+2 | **China**
+3 | **Germany**
+4 | **Japan**
+5 | **India** (about US$ 4.1 trillion; set to pass Japan)
+By **PPP** | **China > USA > India**
+India's target | **US$ 5 trillion** (first set for 2024-25); now expected later this decade
+@end
+
+@section 20.3 | IMF and World Bank
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Loan and grants, for the improvement of infrastructure of States in India have been given by which one of the following institution?
+(a) World Bank
+(b) World Economic Forum
+(c) International Monetary Fund
+(d) World Trade Organisation
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+The ‘National Agricultural Innovation Project’ is being implemented by ICAR with credit assistance from the World Bank. It has got how many components?
+(a) Only one component
+(b) Two components
+(c) Three components
+(d) Four components
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+‘Green Index’ has been developed by :
+(a) United Nations Environment Programme
+(b) International Monetary Fund (IMF)
+(c) World Bank
+(d) None of the above
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to the International Monetary Fund and the World Bank, which of the following statements is/are not correct?
+1. The World Bank and the IMF were established together and both are known as Bretton Woods institutions.
+2. The heads of the IMF and the World Bank are traditionally from Italy and Germany respectively.
+Select the correct answer from the code given below—
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (a)
+@note The source prints **(d)**, but its own explanation shows statement 1 is **correct** and statement 2 **wrong**, so the incorrect statement is **only 2**, option (a). Both bodies came from the **Bretton Woods Conference (1944)**. By custom the **IMF** head is a **European** (now Kristalina Georgieva, Bulgaria) and the **World Bank** head an **American** (now Ajay Banga).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+The headquarters of the World Bank are at :
+(a) Manila
+(b) Washington
+(c) New York
+(d) Geneva
+@ans (b)
+@end
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016
+International Monetary Fund loans can be used for which of the following purposes?
+(a) Project for economic development
+(b) To meet temporary deficits in balance of payments
+(c) Increasing the gold reserve of the Central banks
+(d) Capital formation for Industrial growth
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2004; U.P.P.C.S. (Mains) 2015
+When did India become a member of International Monetary Fund?
+(a) 1952
+(b) 1950
+(c) 1947
+(d) 1945
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002, 2004
+The term 'Paper Gold' means
+(a) Special Drawing Rights of the IMF
+(b) Special accomodation facility of the World Bank
+(c) Currencies still on Gold standard
+(d) Deficit financing
+@ans (a)
+@end
+
+
+@table
+Body | Fact
+**IMF** | Bretton Woods 1944; works from **1947**; HQ **Washington, D.C.**; lends for **temporary balance-of-payments deficits**; India a **founder member (27 December 1945)**
+**SDR** | **"Paper gold"** (1969); value from 5 currencies (USD, euro, yuan, yen, pound)
+**World Bank** (IBRD) | HQ **Washington, D.C.**; long-term **development loans**; **IDA** (1960) gives **soft loans** to the poorest
+World Bank's NAIP (2006) | Four components
+@end
+
+@section 20.4 | WTO, GATT and TRIPS
+
+@pyq U.P.P.C.S. (Mains) 2017
+The main security guard of international trade is :
+(a) WTO
+(b) World Bank
+(c) IMF
+(d) IFC
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+WTO is :
+(a) A part of IMF
+(b) A part of UNO
+(c) An American trade organisation
+(d) An international trade organization established by the members of GATT
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Doha, where Ministerial Conference of World Trade Organization was organized, is located in :
+(a) Bahrain
+(b) Kuwait
+(c) Qatar
+(d) Saudi Arabia
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+As President of World Trade Organization Pascal Lamy was replaced by :
+(a) Christine Lagarde
+(b) Jim Young Kim
+(c) Roberto Azevedo
+(d) Takehiko Nakao
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following is not a member of World Trade Organization?
+(a) Slovenia
+(b) Serbia
+(c) Slovakia
+(d) Colombia
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which one of the following is not included in the main three pillars of the 'Agreement on Agriculture' under the World Trade Organization?
+(a) Market access
+(b) Domestic support
+(c) Export competition
+(d) Anti-dumping and compensatory duties
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Pre) 1996
+The World Trade Organization was established in
+@ans 1995
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+The difference of the Government Minimum Support Price (MSP) and market price, which is paid directly to the farmers under W.T.O. is called :
+(a) Blue box subsidies
+(b) Green box subsidies
+(c) Yellow box subsidies
+(d) Pink box subsidies
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Consider the following statements about farm subsidies in India.
+1. The input subsidies in India, such as on fertilizers fall under indirect farm subsidies.
+2. Reduction in power and irrigation bills offered to farmers fall under direct farm subsidies.
+3. The agricultural provisions of the World Trade Organization (WTO) though allow direct farm subsidies, prohibit indirect subsidies.
+4. All subsidies provided by the governments in India fall under the indirect subsidies.
+Select the correct statements using the code given below.
+Code :
+(a) 3 and 4
+(b) 1 and 2
+(c) 1 and 4
+(d) 2 and 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+GATT stands for :
+(a) Geneva Agreement for Trade and Transport
+(b) General Agreement on Tariffs and Trade
+(c) Guidelines for Assisting Tariffs and Trade
+(d) Government Association for Trade and Transport
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010; U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The name of Arthur Dunkel is associated with :
+(a) WTO
+(b) GATT
+(c) OCGC
+(d) Exim Bank
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Following are the subjects of Trade-Related Intellectual Property Rights related to trade :
+1. Trade Marks
+2. Industrial designs
+3. Geographical Indications
+4. Labour Standards
+Choose the correct answer from the given codes :
+(a) only 1
+(b) 1 and 2
+(c) 1, 2 and 3
+(d) All of the above
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which of the following is not included in TRIPS agreement for granting protection ?
+(a) Trade Marks
+(b) Layout-Designs of Integrated Circuits
+(c) Geographical Indications
+(d) Plant Breeding
+@ans (d)
+@end
+
+
+@one U.P.R.O./A.R.O. (Mains) 2017
+Uruguay round related to
+@ans GATT
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to the “National Intellectual Property Rights Policy” consider the following statements:
+1. It reiterates India's commitment to Doha Development Agenda and the TRIPS agreement.
+2. Department of Industrial Policy and Promotion is the nodal agency for regulating Intellectual Property Rights in India.
+Which of the above statements is/are correct?
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Consider the following statements –
+Statement (A) : Under the WTO obligations, it is not necessary to reduce subsidy in India's agriculture sector.
+Reason (R) : India is a developing country. With reference to the above which of the following is the correct answer –
+Code:
+(a) A and R both are true and (R) is the correct explanation of (A).
+(b) A and R both are true but (R) is not the correct explanation of (A).
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (d)
+@end
+
+
+@table
+WTO fact | Detail
+**GATT** | **General Agreement on Tariffs and Trade**, 1947-48; **Uruguay Round** (1986-94; **Arthur Dunkel** draft)
+**WTO** | **1 January 1995**; HQ **Geneva**; **166 members** (Comoros and Timor-Leste joined 2024); DG **Ngozi Okonjo-Iweala** (after Roberto Azevedo, who followed Pascal Lamy)
+Ministerial Conferences | 4th **Doha (Qatar), 2001**: Doha Development Agenda; 13th **Abu Dhabi**, 2024; 14th Yaoundé (Cameroon), 2026
+Agreement on Agriculture | Three pillars: **market access, domestic support, export competition**
+**Amber box** | Trade-distorting support (MSP, input subsidies); capped (**de minimis 10%** for developing countries)
+**Blue box** | Payments tied to **production limits**
+**Green box** | **Non-distorting** support (research, extension, income support)
+**TRIPS** | Copyright, **trademarks**, **geographical indications**, **industrial designs**, patents, **integrated-circuit layouts**, trade secrets; not labour standards; plant varieties via **sui generis** law
+National IPR Policy | **May 2016**; nodal body **DIPP** (now **DPIIT**)
+@end
+
+**Developing countries** also had to cut farm subsidies under the WTO, though less and over 10 years, so the Assertion in Q36 is false.
+
+@section 20.5 | WEF, ILO and ADB
+
+@pyq U.P.P.C.S. (Pre) 2008
+Who among the following is the founder of 'World Economic Forum'?
+(a) Klaus Schwab
+(b) John Kenneth Galbraith
+(c) Robert Julic
+(d) Paul Krugman
+@ans (a)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Which of the following is NOT correctly matched as per the World Economic Forum's release of Global Talent Competitive Index, 2020? (Country) (Rank)
+(a) Switzerland 1
+(b) Singapore 3
+(c) India 72
+(d) U.S.A. 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which among the following is not a parameter for estimating Global Gender Gap Index of World Economic Forum?
+(a) Health
+(b) Education
+(c) Economy
+(d) Leisure
+@ans (d)
+@end
+
+@pyq U.P. R.O. / A.R.O. (Mains) 2016
+Recently, the first 'Gender Social Norms Index' was released by which of the following?
+(a) World Bank
+(b) World Bank and United Nations Development Programme
+(c) World Bank and NITI Aayog
+(d) United Nations Development Programme
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+The Travel and Tourism Competitive Index (TTCI) is released by :
+(a) World Bank
+(b) International Monetary Fund
+(c) World Economic Forum
+(d) United Nations Development Programme
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+The India Resident Mission of Asian Development Bank is situated in :
+(a) Mumbai
+(b) New Delhi
+(c) Kolkata
+(d) Bangalore
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The 100th ILO Annual Conference has decided to protect the interest of :
+(a) Child labour
+(b) Domestic workers
+(c) Landless Agricultural Labour
+(d) Woman labour
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+World Social Protection Report is published by :
+(a) International Labour Organization
+(b) World Bank
+(c) World Health Organization
+(d) World Economic Forum
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Global Wage Report 2024-25 was released by which of the following organisation?
+1. International Labour Organisation
+2. World Bank
+3. International Bank for Reconstruction and Development
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Match the following :
+@match
+List-I | List-II
+A. W.T.O. | 1. To provide finance to correct equilibrium in balance of payments
+B. I.M.F. | 2. Generally to forbid the use of quantitative restrictions in trade
+C. SAARC | 3. Sanction of Soft Loans
+D. I.D.A. | 4. To promote cooperation among South Asian countries
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 2 1 4 3
+(d) 3 2 4 1
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+Which of the following organizations' headquarters is correct?
+(a) UNO – London
+(b) WTO – Geneva
+(c) ILO – Rome
+(d) FAO – Geneva
+@ans (b)
+@end
+
+
+@table
+Organisation | HQ / fact
+**World Economic Forum** | **1971**, **Klaus Schwab**; **Geneva** (Davos meetings); Gender Gap Index: economy, **education, health**, politics (no "leisure")
+**ILO** | **1919**, **Geneva**; 100th conference (2011) adopted the **Domestic Workers Convention**
+**ADB** | **1966**, **Manila**; **India Resident Mission** in **New Delhi**
+UNO | **New York**
+**FAO** | **Rome**
+WTO | **Geneva**
+@end
+
+@section 20.6 | Regional Groupings
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which of the following countries is not a member of Asia-Pacific TradeAgreement (APTA) ?
+(a) Lao DPR
+(b) China
+(c) Myanmar
+(d) India
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which of the following countries is not a member of OPEC ?
+(a) Algeria
+(b) China
+(c) Indonesia
+(d) U.A.E.
+@ans (b)&(c)
+@note The source accepts **(b) and (c)**: **China** was never in OPEC, and **Indonesia** left (2009, again in 2016). OPEC now has **12 members**.
+@end
+
+
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010; U.P. Lower Sub. (Pre) 2013
+Which of the following countries is not a member of SAARC ?
+(a) India
+(b) Pakistan
+(c) Cambodia
+(d) Nepal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following countries is / are NOT a member of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Co-operation (BIMSTEC)’?
+1. Thailand
+2. Nepal
+3. Bhutan
+4. Indonesia
+Select the correct answer from the code given below :
+Code :
+(a) 2 and 3
+(b) Only 4
+(c) 1 and 4
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub (Mains) 2015
+Which one of the following is different from the rest?
+(a) UNICEF
+(b) I.M.F.
+(c) W.H.O.
+(d) SAARC
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+The host country of the 9th BRICS Summit is :
+(a) China
+(b) Russia
+(c) Brazil
+(d) South Africa
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which bank has been established in China by BRICS countries?
+(a) New Industrial Development Bank
+(b) New Agricultural Development Bank
+(c) New Development Bank
+(d) New Commercial Bank
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Who is appointed as the first President of New Development Bank (or BRICS bank)?
+(a) GG Menon
+(b) Deepak Parikh
+(c) K.V. Kamath
+(d) Chanda Kochar
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which of the following BRICS’ nations has highest per capita income ?
+(a) China
+(b) India
+(c) South Africa
+(d) Russian Federation
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2017
+The Shanghai Cooperation Organization summit in which India, was inducted as a full member was held at:
+(a) Ufa
+(b) Dushanbe
+(c) Tashkent
+(d) Astana
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which of the following countries is not a member of the Shanghai-5 :
+(a) China
+(b) Kazakhstan
+(c) Russia
+(d) Vietnam
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following countries is not a member of SCO ?
+(a) China
+(b) India
+(c) Russia
+(d) Uzbekistan
+@ans (*)
+@note In 2010 India was only an **observer** in the SCO, so (b) was the answer then. India and Pakistan became **full members in 2017** (Astana), so the source marks it (*). Iran (2023) and Belarus (2024) joined later.
+@end
+
+
+
+@pyq U.P.R.O./A.R.O. (Pre) 2023
+In which of the following years was Varanasi given the title of the first tourism and cultural capital of the SCO?
+(a) Ashgabat
+(b) Shanghai Cooperation Organisation (SCO)
+(c) Samarkand
+(d) G-20
+@ans (b)
+@note The source prints the stem and options as shown; they do not match. At the **SCO summit in Samarkand** (16 September **2022**), **Varanasi** was named the SCO's **first Tourism and Cultural Capital** for 2022-23.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+Which of the following is not a member of The GangaMekong Swarnbhoomi Cooperation Project :
+(a) India
+(b) Bangladesh
+(c) Laos
+(d) Vietnam
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following groups of countries is known as 'Benelux Countries'?
+(a) Belgium, Denmark, Netherlands
+(b) Belgium, Netherlands , Luxembourg
+(c) Denmark , Finland, Luxembourg
+(d) Norway, Sweden, Finland
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The 37th Summit of G-8 was held in France on 26-27 May 2011 at :
+(a) Bordeaux
+(b) Deauville
+(c) Toulouse
+(d) Versailles
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements regarding Voice of Global South Summit (VOGSS):
+1. India recently concluded its 2nd Voice of Global South Summit.
+2. The term Global South is related to developed countries.
+Which of the above statements is/are correct?
+(a) Only 2
+(b) Neither I nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+A group formed by India, China, Brazil and other developing countries for future negotiations at World Trade Organization is known as :
+(a) G-77
+(b) G-22
+(c) G-55
+(d) G-11
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2003
+Which of the following is not a member of ASEAN?
+(a) India
+(b) Indonesia
+(c) Malaysia
+(d) Singapore
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which of the one group of Nations is Brunei a member?
+(a) NATO
+(b) EEC
+(c) SAARC
+(d) ASEAN
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following countries is / are NOT a member of the Gulf Cooperation Council?
+1. Bahrain
+2. Iran
+3. Iraq
+4. Qatar
+Select the correct answer from the code given below :
+Code :
+(a) 2 and 3
+(b) 3 and 4
+(c) Only 3
+(d) Only 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to “India – Australia Economic Cooperation and Trade Agreement (Ind- Aus ECTA),” which of the following statements is/are correct?
+1. This is a first-of-its-kind initiative of FTAs.
+2. The meeting was attended by the Commerce Secretary of India, Shri Sunil Barthwal.
+Select the correct answer using the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to "Mobility Arrangement for Talented Early-professionals Scheme" (MATES), which of the following statements is/are correct?
+1. This is a bilateral framework between India and Australia.
+2. In this scheme Indian graduates (aged 18-30) with knowledge and skills in specific fields of study will be offered to live and work in Australia for up to two years.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+
+@table
+Group | Fact
+**SAARC** | **1985**, Dhaka; HQ **Kathmandu**; 8 members (Afghanistan joined 2007)
+**BIMSTEC** | **1997**, Bangkok; 7 members: Bangladesh, **Bhutan**, India, Myanmar, **Nepal**, Sri Lanka, **Thailand**; not Indonesia
+**ASEAN** | **1967**, Bangkok; 10 members incl. **Brunei**; **Timor-Leste 11th** (October 2025); India is a dialogue partner
+**BRICS** | 2009 (South Africa 2010); **New Development Bank**, Shanghai (2014 Fortaleza decision; first president **K.V. Kamath**); expanded from 2024 (Egypt, Ethiopia, Iran, UAE, Indonesia...)
+**SCO** | 2001 from the **Shanghai Five** (1996: China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan); India full member **2017, Astana**
+**GCC** | Saudi Arabia, UAE, Qatar, Kuwait, **Bahrain**, Oman; not Iran or Iraq
+**Benelux** | **Belgium, Netherlands, Luxembourg**
+**APTA** | Bangkok Agreement (1975): India, China, Bangladesh, Sri Lanka, South Korea, Laos, Mongolia; not Myanmar
+Mekong-Ganga Cooperation | 2000: India, Myanmar, Thailand, Laos, Cambodia, **Vietnam**; not Bangladesh
+**G-77** | 1964; developing countries' bloc in the UN and WTO talks
+Voice of Global South Summit | India hosted the 1st (January 2023), 2nd (November 2023) and **3rd (August 2024)**
+@end
+
+**Ind-Aus ECTA** (in force **29 December 2022**) was India's first trade agreement with a developed country in over a decade. **MATES** (2023) lets young Indian graduates (18-30) work in Australia for up to two years.
+
+@up UP link: **Varanasi** was the SCO's first Tourism and Cultural Capital (2022-23). UP hosted **G-20** meetings in **Lucknow, Agra, Varanasi and Greater Noida** during India's presidency, including the **Development Ministers' Meeting** at Varanasi (June 2023).
+
+@trap
+**G-20 Delhi 2023: lotus with 7 petals = 7 continents; African Union joined.** **WEO and GFSR = IMF; WDR = World Bank; HDR = UNDP; WIR = UNCTAD; Emissions Gap = UNEP; Gender Gap and TTCI = WEF; Wage and Social Protection reports = ILO.** **IMF and World Bank: Washington.** **India in IMF: 1945.** **SDR = paper gold.** **WTO 1995, Geneva; Doha = Qatar.** **Blue box = production-limited; green = non-distorting.** **TRIPS excludes labour standards.** **WEF: Klaus Schwab.** **ADB: Manila.** **BIMSTEC excludes Indonesia; GCC excludes Iran, Iraq.** **NDB first president K.V. Kamath.** **SCO full member 2017, Astana.**
+@end
+
+@heatmap
+
+@pattern
+"Which body publishes which report" is now asked every year (2023, 2024, 2025). Membership questions (BIMSTEC, GCC, OPEC, SCO) and G-20 facts are the other staples.
+@end
+
+@next
+Likely next angles: the **G-20 2025** (South Africa) and **2026** (USA) presidencies, **BRICS** expansion and India's **2026 BRICS chair**, **WTO MC14** outcomes, **B-READY**, **IMF quota** reform, **Timor-Leste in ASEAN**, and new trade deals (India-UK, India-EFTA, India-EU talks).
+@end

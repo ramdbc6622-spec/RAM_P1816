@@ -1,0 +1,88 @@
+@chapter 12 | Architecture in Ancient India
+@unit UNIT V · CULTURE, SOUTH INDIA AND EARLY MEDIEVAL
+@meta Built from 54 UPPSC questions (1991–2023). Focus: Ellora and the Kailasa temple, Elephanta, Gupta temples of UP, Khajuraho, Konark and Lingaraja, Mamallapuram, Chola temples, Angkor Wat, Jain temples, site-state matching.
+
+@hot
+- **Kailasa temple, Ellora** = rock-cut, built by the **Rashtrakutas**; Ellora has **Hindu, Buddhist and Jain** caves {1998, 1999, 2001, 2002, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2010, 2012}
+- **Khajuraho** = **Chandelas**; Hindu and Jain temples {1991, 1993, 1994, 1996, 2008, 2010, 2010}
+- **Konark Sun Temple** (Black Pagoda) = **Narasimhadeva I**; **Lingaraja** = Bhubaneswar, Nagara style {1993, 1995, 1997, 2001, 2004, 2006, 2009, 2010}
+- **Mamallapuram rathas** = **Pallavas** (Narasimhavarman I); smallest = **Draupadi ratha** {1994, 2007, 2011, 2014, 2015}
+- **Elephanta** = **Shaiva** caves, Trimurti (Maheshamurti) {2002, 2003, 2007, 2009, 2011}
+@end
+
+@section 12.1 | Rock-cut Caves
+- Over 100 Buddhist caves: **Kanheri** {2002}
+- Ajanta and Ellora: **Maharashtra** {1993}
+- Ellora caves and Kailasa temple: **Rashtrakutas** (Chhatrapati Sambhajinagar) {1999, 2001, 2004, 2005, 2008, 2009, 2010, 2010}
+- Ellora: **Hindu, Buddhist and Jain** caves together {1998, 2002, 2002, 2006}
+- Rock-cut temple: **Kailasa, Ellora** {2007, 2012}
+- Rashtrakutas patronised **Jainism** (per key) {2010}
+- Elephanta: mainly **Shaiva** (with Buddhist remains); ascribed to the **Rashtrakutas** (per key) {2002, 2003, 2007, 2009}
+- **Trimurti**: **Elephanta** {2011}
+
+@section 12.2 | Stupas and Gupta Temples
+- **Ayaka pillars**: **Amaravati** {2022}
+- **Stupa-Sanchi, painting-Bagh, headless Kanishka statue-Mathura, Dashavatara temple-Deogarh** {2017}
+- **Surkhi** introduced by the **Kushans** (per key) {2014}
+- **Brick temple-Bhitargaon, Dashavatara-Deogarh, Shiva temple-Bhumara, Vishnu temple-Eran** {2013}
+- **Bhitargaon** (Kanpur): 5th-6th century, one of the **oldest brick temples** (both) {2021}
+
+@section 12.3 | Temple Styles and Regional Temples
+- **Gopuram**: ornate multi-storey **gateway** towers {1998}
+- Dravida-style pinnacle: **Teli ka Mandir, Gwalior** {2016}
+- Kandariya Mahadeva: **Chandelas** {1991}
+- Khajuraho temples: **Hindu and Jain** {1993}
+- **Matangeshvara**, Khajuraho: **Shiva** {2010}
+- Correct pair: **Khajuraho-Chandelas** {1994, 1996, 2008, 2010}
+- Konark: **Narasimhadeva**; "**Black Pagoda**"; the Sun temple {1993, 1995, 2006, 2009}
+- Largest and tallest Odisha temple: **Lingaraja**, at **Bhubaneswar** {2001, 2004, 2010}
+- Bhubaneswar and Puri temples: **Nagara** style {1997}
+- **Sun temple-Konark, Lingaraja-Bhubaneswar, Hawa Mahal-Jaipur, Gommateshwara-Karnataka** {1992}
+
+@table
+Style | Region | Mark
+Nagara | North (Khajuraho, Odisha) | Curved shikhara
+Dravida | South (Thanjavur, Madurai) | Pyramidal vimana, gopurams
+Vesara | Deccan (Chalukyas, Hoysalas) | Mix of both
+@end
+
+@section 12.4 | South India and Abroad
+- Mamallapuram rathas: **Pallavas** (Narasimhavarman I) {1994, 2007, 2014, 2015}
+- Smallest ratha: **Draupadi** {2011}
+- Order (key): **Sapta Pagoda, Shore Temple, Brihadishvara, Gangaikondacholapuram** {2018}
+- Biggest Nandi (key): **Brihadishvara**, Thanjavur (Lepakshi also claimed) {1999}
+- Brihadishvara built by **Rajaraja I** {2008}
+- **Angkor Wat**: **Cambodia**; begun under **Suryavarman II** {1992, 1993, 1995, 2006}
+- **Borobudur**: **Java** {2013}
+
+@section 12.5 | Jain Temples, Sites and Pilgrimages
+- Dilwara (Abu) Jain temples: **marble**; at **Mount Abu, Rajasthan** {2010, ?, ?}
+- **Sonagiri** Jain temples: near **Datia, MP** {1996, 2005}
+- **Elephanta-cave, Shravanabelagola-statue, Khajuraho-temple, Sanchi-stupa** {2001}
+- **Hampi-Karnataka, Nagarjunakonda-Andhra, Shishupalgarh-Odisha, Arikamedu-Puducherry** {2014}
+- **Bhimbetka-MP, Shore temple-TN, Hampi-Karnataka, Manas-Assam** {2010}
+- **Baidyanath-Shiva, Sarnath-first sermon, Dilwara-Jain, Badrinath-Vishnu** {2004}
+- Brahma temple of **Pushkar**: **Rajasthan** {2023}
+- **Naimisharanya**: **Sitapur** {2002}
+
+@trap
+- Kailasa (Ellora) = **Rashtrakutas** (Krishna I); not Chalukya or Pallava.
+- Shore Temple is **structural**, not rock-cut; the rathas are rock-cut.
+- Brihadishvara = **Rajaraja I**; Gangaikondacholapuram = Rajendra I.
+- Konark = Narasimhadeva I (Eastern Ganga); Sonagiri = Datia (MP), not Jhansi.
+@end
+
+@up UP link: the oldest surviving Gupta temples are in UP: the **Dashavatara temple, Deogarh** (Lalitpur) and the brick **Bhitargaon temple** (Kanpur); **Sarnath** and **Mathura** show early sculpture, and **Naimisharanya** (Sitapur) is a major pilgrimage.
+
+@last
+- Kanheri = 100+ caves; Ajanta, Ellora = Maharashtra
+- Ellora (three faiths), Kailasa = Rashtrakutas
+- Elephanta = Shaiva, Trimurti
+- Bhitargaon = brick (Kanpur); Deogarh = Dashavatara (Lalitpur)
+- Khajuraho = Chandelas; Kandariya = Shiva
+- Konark = Black Pagoda (Narasimhadeva); Lingaraja = Bhubaneswar
+- Mamallapuram rathas = Pallavas; Draupadi ratha smallest
+- Brihadishvara = Rajaraja I; Angkor Wat = Cambodia; Borobudur = Java
+- Dilwara = marble, Mount Abu; Sonagiri = Datia
+- Pushkar = Rajasthan; Naimisharanya = Sitapur
+@end

@@ -1,0 +1,139 @@
+@chapter 23 | Vitamins and Nutrition
+@meta Built from 92 UPPSC questions (1990–2024). Focus: water- and fat-soluble vitamins, vitamin names and deficiency diseases, rich sources, proteins and amino acids, minerals, milk.
+
+@hot
+- **Deficiency matching**: **A-night blindness, B1-beriberi, C-scurvy, D-rickets, B12-pernicious anaemia, folic acid-anaemia** {1999, 2002, 2010, 2015, 2016, 2017, 2023, 2023, 2024}
+- **Water-soluble**: **B and C**; fat-soluble: A, D, E, K {2002, 2019, 2021, 2023}
+- **Vitamin K** = **blood clotting** {1991, 2008, 2012, 2020}
+- **B12** has **cobalt** {2000, 2001, 2004, 2006, 2014, ?}
+- Highest protein: **soybean**; best all-amino-acid food: **egg** {2004, 2008, 2014, 2021}
+@end
+
+@section 23.1 | What Vitamins Are
+- **Nutraceuticals**: nutrient plus medicinal effect {2009}
+- Vitamins named by **Casimir Funk** {2012}
+- "Accessory dietary factors": **vitamins** {2014}
+- Vitamins are needed in small amounts; they do **not kill bacteria** (A true, R false) {2002}
+- Not made in our body: **vitamin A** (made from carotene) {2011, 2013}
+- Made by gut bacteria: **vitamin K** and **B12** {2010}
+- Water-soluble: **B and C** {2002, 2021, 2023}
+- Not correct: **vitamin K is water-soluble** {2019}
+- B12 is stored in the liver for years; being water-soluble does not explain it (A and R true, R does not explain A) {2017}
+- Most vitamins are not made in the body (A true, R false) {2019}
+- The body does **not** make all vitamins; vitamins are essential (A false, R true) {2016, 2021}
+
+@section 23.2 | The B Vitamins
+- **B1-thiamine, B2-riboflavin, B6-pyridoxine, B12-cobalamin** {2010, ?}
+- Wrong pair: **riboflavin-beriberi** (riboflavin lack causes **cheilosis**) {2002, ?}
+- Polished rice causes **beriberi** {2019, 2020}
+- Wrong pair: **B2-cod-liver oil** {2019}
+- Cobalt-containing vitamin: **B12** {2001, 2004, 2006, ?}
+- **Thiamine** = **B1** {1999}
+- Helps remember dreams: **B6** (per key) {2010, 2013}
+
+@section 23.3 | Vitamin C
+- Most vitamin C among vegetables: **chilli** {2016}
+- Citrus vitamin for healthy skin: **C** {1999}
+- Best source: **amla** {1995, 2018}
+- Wound healing: **vitamin C** {?}
+- Vitamin C helps absorb **iron** {2010}
+- Not stored in the body: **vitamin C** {2014}
+
+@section 23.4 | Vitamins A, D, E and K
+- Vitamin D source: **sunlight**; made in the skin {1993, ?}
+- Wrong pair: **vitamin D-antisterility** (that is E) {2017}
+- Vitamin D: **calciferol** (cholecalciferol) {1997, ?}
+- Night blindness: lack of **vitamin A** {2006}
+- Wrong pair: **vitamin A-orange** (orange is vitamin C) {2021}
+- Vitamin A stored in the **liver**; **retinol** for vision {1997, ?}
+- Quitting greens alone need not cause night blindness (A false, R true) {2011}
+- Rich in vitamin A: **carrot**; richest among options: **mango** {2004, 2015}
+- Not a natural vitamin A source (per key): **milk** {2009}
+- Vitamin E: **wheat germ oil** {2016}
+- Clotting: **vitamin K** {1991, 2008, 2012, 2020}
+- Wrong pair: **vitamin K-sterility** {2008}
+- **K-alfalfa, D-cod-liver oil, E-wheat germ oil, C-lemon** {2016}
+
+@table
+Vitamin | Name | Deficiency | Source
+A | Retinol | Night blindness, xerophthalmia | Carrot, mango, liver
+B1 | Thiamine | Beriberi | Whole grains (not polished rice)
+B2 | Riboflavin | Cheilosis | Milk, eggs
+B6 | Pyridoxine | Anaemia, nerve problems | Grains, meat
+B12 | Cobalamin (cobalt) | Pernicious anaemia | Animal foods
+C | Ascorbic acid | Scurvy | Amla, citrus, chilli
+D | Calciferol | Rickets | Sunlight, cod-liver oil
+E | Tocopherol | Infertility | Wheat germ oil
+K | Phylloquinone | Poor clotting | Green leaves, alfalfa
+@end
+
+@section 23.5 | Deficiency Diseases
+- **A-blindness, B-beriberi, C-scurvy, D-rickets** {2024}
+- **Night blindness-A, rickets-D, scurvy-C, beriberi-B** {2010, 2015, 2023}
+- **C-scurvy, folic acid-anaemia, A-night blindness, B1-beriberi** {2023}
+- Wrong pairs: **vitamin D-colour blindness**, **vitamin A-rheumatism** {2016, 2017}
+- **Retinol-conjunctivitis, tocopherol-sterility, cyanocobalamin-pernicious anaemia, pyridoxine-mental illness** {1999, 2002}
+- Not a vitamin: **thyroxine** {2017}
+
+@section 23.6 | Energy Foods
+- Most energy: **carbohydrate, fat, protein** together {2021}
+- Most calories per gram: **fats** (9 kcal) {1999, ?}
+- Apples help heart patients: rich in **potassium** {2014}
+- Not a micronutrient: **sulphur** (a secondary macronutrient) {2014}
+- Banana: about **116 kcal** per 100 g (per key) {1998}
+- A glass of water: **zero** calories {2015}
+- Essential diet constituent: **carbohydrate** {2014}
+- No nitrogen in **carbohydrates** {?}
+- Basmati grains lengthen on cooking: high **amylose** {2015}
+
+@section 23.7 | Proteins and Amino Acids
+- About 80% of living material (dry): **protein** {1994}
+- Protein need: **higher in the old** (per key) {2013}
+- Most protein: **soybean** {2004, 2008, 2014}
+- Rich in protein and fat: **groundnut** {2008}
+- Not correct of tyrosine: it guards against ageing free radicals {2010}
+- Bread quality: **gluten** {2010}
+- Tissues are built from **protein** {1990}
+- **Alpha-keratin**: **skin**; hair and nails have **keratin** {2003, ?}
+- Not a protein: **cotton** (cellulose) {2019}
+- Does not denature protein: **infrared** rays {2016}
+- Enzymes: **biocatalysts**, act where produced (both, per key) {2019}
+- Not stored in the body: **amino acids** {2015}
+- All essential amino acids: milk, egg, soybean (*); best: **egg** {2016, 2021}
+- Sunflower oil is good; it is rich in **polyunsaturated fats** (A and R true, R explains A) {2019}
+
+@section 23.8 | Minerals
+- Acid-alkali balance: **phosphorus** (per key) {2004}
+- Iron-rich fruit: **karonda**; iron-rich: **spinach** {2006, 2008}
+- **B12-cobalt, haemoglobin-iron, chlorophyll-magnesium, brass-copper** {2000, 2014}
+- Wrong pair: **washing soda-potassium** (it is sodium) {2014}
+
+@section 23.9 | Milk
+- Sweetness of milk: **lactose** {2007, ?}
+- Cow milk is yellowish: **carotene** with casein; white colour: **casein** {2014, ?, ?}
+- **Casein**: milk **protein** {2008}
+- Wrong pair: **saccharin-carbohydrate** (it is an artificial sweetener) {2017}
+- Lactating mother needs about **70 g** protein a day (per key) {2008}
+- Mother's milk lacks **iron** {2019}
+
+@trap
+- Water-soluble = **B and C** only; K is **fat**-soluble.
+- B12 = **cobalt**; chlorophyll = **magnesium**; haemoglobin = **iron**.
+- Vitamin E = fertility; vitamin K = clotting; vitamin D = rickets.
+- Riboflavin (B2) lack = cheilosis, not beriberi.
+@end
+
+@up UP link: UP's **Poshan Abhiyan** drives fight child **anaemia and stunting**; fortified rice (with iron, folic acid, B12) is now given through the PDS and mid-day meals in UP, and **Anganwadi** centres give take-home rations.
+
+@last
+- Funk named vitamins; vitamins = accessory factors
+- Water-soluble **B, C**; fat-soluble **A, D, E, K**
+- B1 = beriberi (polished rice); B2 = cheilosis
+- B12 = cobalt, pernicious anaemia
+- C = scurvy; amla best; helps iron absorption
+- D = sunlight, calciferol, rickets
+- A = retinol, night blindness, stored in liver
+- E = wheat germ oil, fertility; K = clotting
+- Fats = most calories; soybean = most protein; egg = all amino acids
+- Milk: lactose sweet, casein white, carotene yellow; lacks iron
+@end

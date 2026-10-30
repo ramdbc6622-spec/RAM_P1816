@@ -1,0 +1,115 @@
+@chapter 2 | Indus Valley Civilization
+@meta Built from 48 UPPSC questions (1990–2023). Focus: excavators and sites, site-river and site-state matching, UP's Harappan sites, Lothal, Kalibangan and Dholavira, seals and religion.
+
+@hot
+- **Site-state matching**: **Kalibangan-Rajasthan, Rakhigarhi-Haryana, Manda-J&K, Daimabad-Maharashtra, Hulas and Alamgirpur-UP, Lothal and Dholavira-Gujarat** {1996, 2006, 2010, 2012, 2018, 2020, 2021}
+- **Site-river matching**: **Harappa-Ravi, Kalibangan-Ghaggar, Lothal-Bhogava, Ropar-Sutlej** {2008, 2010, ?}
+- **Lothal** = port and dockyard, ivory scale; **Kalibangan** = ploughed field; **Dholavira** = three-part city, water management {1995, 2005, 2006, 2010, 2010, 2013, 2014, ?, ?}
+- **Great Bath** = **Mohenjo-daro** {1992, 2010}
+- Harappan source: **archaeological excavations**; a **proto-historic** culture {1993, 1994, 1996, 1996}
+@end
+
+@section 2.1 | Nature and Sources
+- Indus civilisation: **proto-historic** age (script not read) {1996}
+- Source of knowledge: **archaeological excavations** {1993, 1994, 1996}
+- Mohenjo-daro and Harappa are dead cities; being excavated is not the reason (A and R true, R does not explain A) {2009}
+- Human society depends mainly on **economy** (per key) {2004}
+- Non-Aryan because it was **urban** {2010}
+- Placed before the Aryans because of its **pottery** {1990}
+- Different from the Vedic culture: **all of the above** {2004}
+
+@section 2.2 | Discovery and Excavators
+- First to dig Harappa without seeing its value: **Alexander Cunningham** {2006}
+- **Harappa-Daya Ram Sahni, Hastinapur-B.B. Lal, Takshashila-John Marshall, Kaushambi-N.G. Majumdar** (per key) {2017}
+- Wrong pair: **Dholavira-B.K. Thapar** (Dholavira = R.S. Bisht, found by J.P. Joshi) {2006}
+- **Chanhudaro** excavated by **J.H. Mackay** {2015}
+
+@table
+Site | Excavator
+Harappa | Daya Ram Sahni (1921)
+Mohenjo-daro | R.D. Banerji (1922)
+Chanhudaro | N.G. Majumdar, J.H. Mackay
+Lothal | S.R. Rao
+Kalibangan | B.B. Lal, B.K. Thapar
+Dholavira | R.S. Bisht
+Rakhigarhi | Amarendra Nath, Vasant Shinde
+@end
+
+@section 2.3 | Extent and Site Locations
+- Eastern boundary: **Alamgirpur** (Meerut, on the Hindon) {2023}
+- **Manda-J&K, Daimabad-Maharashtra, Kalibangan-Rajasthan, Rakhigarhi-Haryana** {2012}
+- Rivers of the civilisation: **Sindhu, Chenab, Jhelum** (1, 2, 3); not Ganga {2009}
+- **Harappa-Ravi, Hastinapur-Ganga, Nagarjunakonda-Krishna, Paithan-Godavari** {2008}
+- **Harappa-Ravi, Kalibangan-Ghaggar, Lothal-Bhogava, Ropar-Sutlej** {2010}
+- Wrong pair: **Kalibangan-Haryana** (it is Rajasthan) {1996}
+- Wrong pair: **Rakhigarhi-Rajasthan** (it is Haryana) {2006}
+- **Balu-Haryana, Manda-J&K, Padri-Gujarat, Hulas-UP** {2020}
+- In Sindh: **Mohenjo-daro and Chanhudaro** (2 and 3) {2010}
+- Now in Pakistan: **Harappa** (Punjab province) {1994}
+- Largest Harappan site in India: **Rakhigarhi** {2004}
+- In UP: **Alamgirpur and Hulas** (III and IV) {2018}
+- **Mandi** (Muzaffarnagar): **UP** {2021}
+- **Dadheri**: late Harappan site in **Punjab** {2014}
+- **Sinauli** (Baghpat): **human burials** {2004}
+
+@flow Harappan frontier sites
+North | Manda (J&K, Chenab)
+South | Daimabad (Maharashtra, Pravara)
+East | Alamgirpur (UP, Hindon)
+West | Sutkagen Dor (Baluchistan, Dasht)
+@end
+
+@section 2.4 | Cities, Buildings and Crafts
+- **Great Bath**: **Mohenjo-daro** {1992, 2010}
+- **Harappa-Cemetery R-37, Lothal-dockyard, Kalibangan-furrowed land, Mohenjo-daro-dancing girl** {2017}
+- House wells: several sites (*); best answer **Mohenjo-daro** {2004}
+- In India: **Lothal** {1995}
+- **Lothal**: on the **Bhogava**, in **Gujarat**; the **port town** {?, ?, ?}
+- Ivory scale: **Lothal** {2014}
+- Boat models: **Mohenjo-daro and Lothal** {2022}
+- Ploughed field: **Kalibangan** {2005}
+- Double burial: **Lothal** (and Kalibangan) {2016}
+- Rock-cut (reservoir) architecture: **Dholavira** {2006}
+- **Dholavira**: **Gujarat**; city in **three parts**; advanced **water management** {2010, 2010, 2013}
+
+@table
+Site | Famous for
+Mohenjo-daro | Great Bath, granary, dancing girl, Pashupati seal
+Harappa | Granaries, Cemetery R-37
+Lothal | Dockyard, rice husk, ivory scale, double burial
+Kalibangan | Ploughed field, fire altars, horned deity cake
+Dholavira | Three-part city, reservoirs, signboard
+Chanhudaro | Bead factory; no citadel
+Banawali | Barley, toy plough
+@end
+
+@section 2.5 | Economy, Religion and Contemporaries
+- Not true: Harappans **knew iron** {1992}
+- Cotton for cloth first grown in **India** {2006}
+- Not on Harappan seals: **horse** {2009}
+- Idol worship began in **pre-Aryan** times {1992}
+- Horned deity on a terracotta cake: **Kalibangan** {2008}
+- On the Nile: **Egyptian** civilisation {2004}
+- North to south: **Aztec, Maya, Muisca, Inca** {2016}
+
+@trap
+- Kalibangan = **Rajasthan** (Ghaggar); Rakhigarhi = **Haryana**; Harappa = Pakistan's **Punjab**, not Sindh.
+- Lothal is on the **Bhogava**, not the Sabarmati.
+- No iron, no horse on seals, no temples; but figurines show image worship.
+- Alamgirpur is on the **Hindon**, not the Ganga.
+@end
+
+@up UP link: UP's Harappan and late Harappan sites are **Alamgirpur** (Meerut, eastern limit), **Hulas** (Saharanpur), **Mandi** (Muzaffarnagar, gold hoard) and **Sinauli** (Baghpat, burials with copper objects and "chariots").
+
+@last
+- Proto-historic; known from excavations
+- Cunningham first; Daya Ram Sahni dug Harappa
+- Kalibangan = Rajasthan (Ghaggar); Rakhigarhi = Haryana (largest in India)
+- Harappa = Ravi; Ropar = Sutlej; Lothal = Bhogava
+- Alamgirpur, Hulas, Mandi, Sinauli = UP
+- Great Bath = Mohenjo-daro
+- Lothal = dockyard, ivory scale; Kalibangan = ploughed field
+- Dholavira = three parts, water system (Bisht)
+- No iron; no horse on seals; cotton first in India
+- Idol worship began before the Aryans
+@end

@@ -1,0 +1,94 @@
+@chapter 15 | Metals, Ores and Alloys
+@meta Built from 35 UPPSC questions (1993–2025). Focus: special metals (tungsten, sodium, mercury, uranium), ores and minerals, rusting and tarnishing, alloy composition.
+
+@hot
+- **Alloys**: **solder = tin + lead; bronze = copper + tin; brass = copper + zinc**; German silver has **no silver** {1996, 2003, 2005, 2015, 2016, ?, ?}
+- **Sodium**: kept in **kerosene**; yellow **street lamps** {2000, 2007, 2017}
+- **Mercury**: liquid metal, best liquid conductor of heat, used in thermometers {2003, 2005, 2014, 2020, ?}
+- **Rusting** needs **oxygen and moisture** and **increases** iron's weight; galvanised (zinc) iron does not rust {2002, 2008, 2016}
+- **Stainless steel** = iron + **chromium** (+ nickel); **silicon** is not added {2004, 2017, ?, ?}
+@end
+
+@section 15.1 | Properties of Metals
+- Hardest metal among options: **tungsten** {1996}
+- Heaviest natural element: **uranium** {2004}
+- Costliest metal "discovered recently": no fit (*); californium and rhodium are the costliest {2016}
+- Stored in **kerosene**: **sodium** {2017}
+- Yellow street lamps: **sodium** {2000}
+- Sodium lamp light is **monochromatic** and does not split in fog {2007}
+- Best liquid conductor of heat: **mercury** {2005, 2014}
+- Mercury in thermometers: it **expands uniformly** (per key: "high circulation power") {2003}
+- Liquid metal at room temperature: **mercury** {?}
+- **Sodium-cut with a knife, mercury-liquid, silver-good conductor, lead-poor conductor of heat** {2020}
+- **Silver-best conductor, aluminium-most abundant metal, gold-most malleable, lead-least heat conducting** {2002}
+
+@section 15.2 | Ores and Minerals
+- Found in native state: **gold** {2016}
+- Contains calcium: **gypsum** {2019}
+- Limestone: **calcium carbonate** {1993}
+- Doctors and sculptors use **Plaster of Paris** (calcium sulphate) {2004}
+- **Mica**: **electrical** industry {2010}
+- **Bauxite**: ore of **aluminium** {2006, 2015}
+- Wrong pair: **copper-cinnabar** (cinnabar is mercury's ore) {2017}
+- **Diamond-carbon, marble-calcium, sand-silicon, ruby-aluminium** {2010}
+
+@table
+Metal | Main ore
+Aluminium | Bauxite
+Iron | Haematite, magnetite
+Copper | Chalcopyrite
+Mercury | Cinnabar
+Zinc | Zinc blende
+Lead | Galena
+Tin | Cassiterite
+@end
+
+@section 15.3 | Corrosion
+- Galvanised iron does not rust: **zinc** oxidises first (A and R true, R explains A) {2002}
+- Rusting needs **oxygen and moisture** {2016}
+- Rusting **increases** iron's weight {2008}
+- Rust is brown iron oxide, not **tannin** (A true, R false) {1998}
+- Silver turns black from **silver sulphide** (both, 2025); the 2008 key is misprinted (*) {2025, 2008}
+
+@section 15.4 | Alloys
+- **Amalgam**: alloy with **mercury** (mercury-zinc) {2012}
+- **Solder**: **tin and lead** {1996, 2005}
+- **Bronze**: **copper and tin** {2015, 2016}
+- **German silver**: **0% silver** (copper, zinc, nickel) {2003}
+- Common to brass, bronze, German silver: **copper**; brass = **copper and zinc** {?, ?}
+- True: brass is copper-zinc; amalgams contain mercury (i and iii); magnetite is an **iron** ore {2001}
+- Not used for stainless steel: **silicon** {2004, 2017}
+- Stainless steel: iron with **chromium**, nickel, manganese, carbon {?, ?}
+
+@table
+Alloy | Made of
+Brass | Copper + zinc
+Bronze | Copper + tin
+German silver | Copper + zinc + nickel
+Solder | Tin + lead
+Stainless steel | Iron + chromium + nickel + carbon
+Amalgam | Mercury + another metal
+Duralumin | Aluminium + copper + magnesium
+@end
+
+@trap
+- **Cinnabar** = mercury; **magnetite** = iron; **bauxite** = aluminium.
+- German silver has **no silver**; bronze has **tin**, brass has **zinc**.
+- Rust **adds** weight (iron oxide); galvanising = **zinc** coat.
+- Hardest metal: tungsten among options (chromium is hardest pure metal); densest: osmium.
+@end
+
+@up UP link: **Moradabad** ("Peetal Nagri") is famous for **brassware** (a GI product); **Renukoot** (Sonbhadra) has Hindalco's aluminium smelter, fed by bauxite from Jharkhand and Chhattisgarh.
+
+@last
+- Tungsten = hard, high melting point (bulb filament)
+- Uranium = heaviest natural element
+- Sodium in kerosene; sodium lamps = yellow street lights
+- Mercury = liquid metal; best liquid heat conductor
+- Gold occurs native; bauxite = aluminium; cinnabar = mercury
+- Limestone = CaCO3; Plaster of Paris = calcium sulphate
+- Rust needs O2 + moisture; weight increases
+- Galvanised = zinc; silver tarnish = silver sulphide
+- Solder = Sn + Pb; bronze = Cu + Sn; brass = Cu + Zn
+- German silver = no silver; stainless steel = chromium
+@end

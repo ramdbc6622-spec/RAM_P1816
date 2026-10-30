@@ -1,0 +1,832 @@
+@chapter 18 | World Minerals and Energy Resources
+
+@intro
+This is the biggest single section of the World Geography source (65 PYQs). Questions come in two kinds. **Region-mineral** pairs are stable and safe to learn: Ruhr, Donbas, Kuzbas, Appalachian coal; Lorraine, Kiruna, Krivoi Rog, Mesabi, Pilbara iron; Chuquicamata, Katanga, Bingham copper; Witwatersrand and Kalgoorlie gold; Kimberley diamonds; Kinta tin. **"Largest producer"** questions change with every data release, so many older keys carry notes with the **2023** position (BGS World Mineral Production / USGS). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 18.1 | Coal
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which of the following statements are correct :
+I. China is the leading coal producer of the World
+II. Donetsk Basin is the major coal producing region in Ukraine
+III. Saar Region is the major coal producing area in Germany
+IV. The major coal mining areas of the USA lie in the Appalachian Region
+Select the correct answer from the code given below :
+Code :
+(a) I, and II
+(b) II and III
+(c) I, II and III
+(d) All
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2007
+'Donbass' region is famous for
+@ans Coal
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which one of the following is the largest coal producing centre of Ukraine?
+(a) Zaporizhzhia
+(b) Kharkiv
+(c) Kyiv
+(d) Donetsk
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to "Kuzbass region in Russia", which of the following statement/s is/are correct?
+1. This region is rich in coal and iron ore.
+2. Novosibirsk is an important industrial centre of this region.
+Select the correct answer using the code given below:
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List-I with List-II and select the correct answer using the code given below.
+@match
+List-I (Coalfield) | List-II (Country)
+A. Appalachian | 1. England
+B. Lancashire | 2. Germany
+C. Ruhr | 3. Russia
+D. Kuzbas | 4. United States of America
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 1 4 3 2
+(c) 1 4 2 3
+(d) 4 1 3 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Match List-I with List-II and select the correct answer using the code given below—
+@match
+List-I (Coalfield) | List-II (Country)
+A. Kuzbas | 1. United Kingdom
+B. Red Basin | 2. Russia
+C. Bristol | 3. Australia
+D. New South Wales | 4. China
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 2 4 1 3
+(c) 3 2 4 1
+(d) 4 3 1 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+@match
+List-I (Coal fields) | List-II (Countries)
+A. Donetsk | 1. Germany
+B. Kuznetsk | 2. U.K
+C. Lancashire | 3. Russia
+D. Saar | 4. Ukraine
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 1 3 2 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2010, 2022
+Famous 'Ruhr coalfield' is situated in which of the following countries?
+(a) Germany
+(b) France
+(c) Great Britain
+(d) Russia
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+More than half of the world's production of coal comes from :
+(a) U.S.A. and Russia
+(b) China and U.S.A.
+(c) China and India
+(d) South Africa and Australia
+@ans (b) & (c)
+@end
+
+**China** produces more than **half** of the world's coal (about 4.7 billion tonnes in 2023), and **India** is second (about 1 billion tonnes in 2024-25). China plus the USA made up more than half when the question was set. China plus India do so today, which is why both (b) and (c) are accepted.
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Rukwa lake region (Tanzania) is famous for which of the following mineral?
+(a) Mica
+(b) Coal
+(c) Iron ore
+(d) Gold
+@ans (b)
+@end
+
+@table
+Coalfield | Country
+Appalachian, Pennsylvania | USA
+Ruhr, Saar | Germany
+Lancashire, Yorkshire, Bristol, South Wales | UK
+Donbas (Donetsk) | Ukraine
+Kuzbas (Kuznetsk), Pechora | Russia
+Karaganda | Kazakhstan
+Red Basin (Sichuan), Shanxi, Fushun | China
+New South Wales (Hunter Valley), Queensland (Bowen) | Australia
+Highveld (Witbank) | South Africa
+@end
+
+@section 18.2 | Iron Ore
+
+@pyq U.P.P.C.S. (Mains) 2008
+Identify the correct sequence of the iron ore producing countries of the world in their descending order :
+(a) Australia, China, Brazil, Sweden
+(b) Brazil, Sweden, Australia, China
+(c) China, Brazil, Sweden, Australia
+(d) China, Brazil, Australia, Sweden
+@ans (*)
+@note (d) was right when the question was set, because China then led by gross ore tonnage. Today **Australia** is far ahead (about 960 Mt in 2023), followed by **Brazil**, **China** and **India**, so the 2023 order matches none of the codes. The source marks the question (*).
+@end
+
+@pyq U.P.U.D.A./L.D.A . (Pre) 2013
+Which one of the following is the largest producer of Iron ore in the world ?
+(a) China
+(b) India
+(c) Brazil
+(d) France
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The first position in the production of Iron ore is of –
+(a) Philippines
+(b) America
+(c) Russia
+(d) India
+@ans (d)
+@note Australia and Brazil, the two real leaders, are not among the options. Of the options given, **India** produces the most iron ore, being the world's **fourth** largest producer.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010, 2013
+Among the iron-producing countries of Europe, France stands
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (*)
+@note France's **Lorraine** ores (minette) were once Europe's largest source, but the mines closed by **1997**. In 2013 the European leaders were Russia, Ukraine, Sweden and Turkiye, and France did not figure at all. The source marks the question (*).
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Match List-I with List-II and choose the correct answer using the codes given below:
+@match
+List – I (Iron ore region) | List–II (Concerned Country)
+A. Lorraine | 1. Sweden
+B. Midland | 2. Kazakhstan
+C. Kiruna | 3. U.K
+D. Kostanay | 4. France
+@endmatch
+Code : A B C D
+(a) 4 2 3 1
+(b) 3 4 2 1
+(c) 4 3 1 2
+(d) 1 2 3 4
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020; U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which one of the following is NOT correctly matching?
+(Country) - (Iron-Ore Producing Area)
+(a) Kazakhstan - Karaganda
+(b) Ukraine - Krivoy Rog
+(c) Germany - Normandy
+(d) France - Pyrenees
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+'Mount Newman' is famous for which of the following minerals?
+(a) Copper
+(b) Bauxite
+(c) Iron ore
+(d) Manganese
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Superior Lake region in North America is famous for–
+(a) Iron - ore reserves
+(b) Coal reserves
+(c) Gold reserves
+(d) Uranium reserves
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following industries is most developed in the Great Lake region of North America?
+(a) Cement and Paper
+(b) Film Industries
+(c) Food and Chemical
+(d) Steel and Engineering
+@ans (d)
+@end
+
+@table
+Iron ore region | Country
+**Pilbara** (Mount Newman, Mount Tom Price, Mount Whaleback) | Australia
+**Carajas**, Itabira (Minas Gerais) | Brazil
+**Mesabi Range** (Lake Superior) | USA
+Labrador-Quebec | Canada
+**Kiruna**, Gallivare | Sweden
+**Lorraine** (historic), Normandy | France
+Midlands (Northampton) | UK
+**Krivoi Rog** | Ukraine
+Kursk Magnetic Anomaly | Russia
+Kostanay | Kazakhstan
+Anshan | China
+@end
+
+@section 18.3 | Copper, Gold, Silver and Other Metals
+
+@pyq U.P.P.C.S. (Pre) 1996
+The largest producer of copper ore in the world is :
+(a) Chile
+(b) Poland
+(c) U.S.A.
+(d) Zaire
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+The leading producer of copper in the world is –
+(a) Australia
+(b) China
+(c) India
+(d) U.S.A.
+@ans (b)
+@note **Chile** leads in copper **ore (mine)** output, with about a quarter of the world total. **China** leads in **refined** copper (smelting) and is the largest of the four options.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : Chile is the leading producer of copper in the world.
+Reason (R) : Andes Region of North Chile is enriched with the largest deposites of Porphyry copper
+Select the correct answer from the code given below :
+Code :
+(a) (A) is true but (R) is false
+(b) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(c) (A) is false but (R) is true
+(d) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Chiquicamata (Chili) is worldwide famous for which of the following minerals?
+(a) Copper
+(b) Iron
+(c) Silver
+(d) Manganese
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+The largest copper producing country in Africa is :
+(a) South Africa
+(b) Zambia
+(c) Kenya
+(d) Tanzania
+@ans (b)
+@note Zambia's **Copperbelt** led Africa when the question was set. Today the **DR Congo** (Katanga) is Africa's and the world's **second-largest** copper producer, and the largest producer of **cobalt**.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Japan is almost self-sufficient in –
+(a) Bauxite
+(b) Iron ore
+(c) Copper
+(d) Mineral oil
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008
+Arrange the following countries in their descending order of Gold production. Choose the correct answer using the code given below :
+(i) Australia
+(ii) China
+(iii) South Africa
+(iv) U.S.A.
+Code :
+(a) (i) (ii) (iii) (iv)
+(b) (iii) (iv) (i) (ii)
+(c) (iv) (iii) (ii) (i)
+(d) (ii) (iv) (i) (iii)
+@ans (*)
+@note When the question was set the order was **South Africa, USA, Australia, China**, which is option (b). Since **2007 China** has been the world's largest gold producer, followed by Russia and **Australia**, with the USA and South Africa far behind. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+'Kalgoorlie' situated in Australia is famous for –
+(a) Gold production
+(b) Good Climate
+(c) Education
+(d) Poultry
+@ans (a)
+@end
+
+@one U.P.P.C.S (Pre) 2011
+Coolgardie lies in the Australian province of
+@ans Western Australia
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following countries is the largest exporter of gold to India ?
+(a) Brazil
+(b) UAE
+(c) Switzerland
+(d) South Africa
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.P.C.S. (Pre) 1993
+The largest producer of Silver in the world is:
+(a) Chile
+(b) China
+(c) Mexico
+(d) Peru
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2014
+Mexico is the largest producer of
+@ans Silver
+@end
+
+@pyq U.P. P.C.S. (Pre) 1993
+Maximum aluminium producing country in the world is–
+(a) Germany
+(b) India
+(c) Iron
+(d) U.S.A
+@ans (b)
+@note The source gives (b) using **2023** data, in which the top producers are **China, Russia, India**, Canada and the UAE, and India ranks highest of the options. In **1993** the **USA** was the leading producer among these, so (d) would have been the answer then. Option (c) is printed as "Iron" in the source.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013; U.P.P.C.S. (Pre) 2015
+The biggest producer of Bauxite in the world is –
+(a) Australia
+(b) Brazil
+(c) China
+(d) India
+@ans (a)
+@note **Australia** led for decades and is the key. **Guinea** overtook it around **2022-23**, and the order in 2023 was Guinea, Australia, China. Guinea also has the world's largest bauxite **reserves**.
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The leading producer of Tin in the world is –
+(a) Bolivia
+(b) Brazil
+(c) Indonesia
+(d) Malaysia
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Malaysia, the 'Kinta Valley' is famous for:
+(a) Rubber Production
+(b) Tea Production
+(c) Tin Production
+(d) Coffee Production
+@ans (c)
+@end
+
+**China** is the largest tin producer overall, and **Indonesia** (Bangka-Belitung islands) is second and the largest of the options. The **Kinta Valley** (Ipoh, Perak) made Malaysia the tin capital of the world in the 20th century.
+
+@pyq U.P.P.C.S. (Mains) 2009
+The leading producer of Titanium in the world is
+(a) India
+(b) Japan
+(c) Russia
+(d) U.S.A.
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
+(a) Uranium
+(b) Bauxite
+(c) Manganese
+(d) Mica
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012; U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following countries is the largest producer of diamond?
+(a) Australia
+(b) Venezuela
+(c) Russia
+(d) Botswana
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following countries is the leading producer of iodine in the world?
+(a) Japan
+(b) U.S.A.
+(c) Chile
+(d) China
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008
+Recently, according to a news mineral reserves worth $1 trillion were found in Afghanistan. Mark that mineral which is compared with discovery of oil field in Iran?
+(a) Gold
+(b) Lithium
+(c) Cobalt
+(d) Iron
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which one of the following pairs is not correctly matched?
+(a) Aluminium – Bauxite
+(b) Copper – Cinnabar
+(c) Zinc – Calamine
+(d) Iron – Hematite
+@ans (b)
+@end
+
+**Cinnabar** is the ore of **mercury**. The main ores of copper are chalcopyrite, cuprite and malachite. Other key ores: **galena** for lead, **sphalerite** for zinc, **cassiterite** for tin, **pitchblende** (uraninite) for uranium, and **magnetite** and hematite for iron.
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P. U.D.A./L.D.A. (Pre) 2010
+Which one of the following is not correctly matched?
+(a) Bolivia Tin
+(b) Brazil Iron one
+(c) Mexico Silver
+(d) Peru Nitrate
+@ans (*)
+@note All four pairs are broadly correct. Bolivia is a major tin producer, Brazil is a major iron-ore producer, Mexico is the largest silver producer, and Peru has historic nitrate (guano and saltpetre) deposits, although **Chile** is the classic "nitrate" country. With no clearly wrong pair, the source marks the question (*).
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Match the List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Mineral) | List-II (Country)
+A. Silver | 1. Chile
+B. Mica | 2. Russian Federation
+C. Iron Ore | 3. Mexico
+D. Copper | 4. India
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 2 3 4 1
+(c) 3 2 1 4
+(d) 3 1 4 2
+@ans (a)
+@end
+
+@section 18.4 | Mineral Regions
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match the List-I with List-II and select the correct answer using the code given below the lists:
+@match
+List-I (Minerals) | List-II (Producing Region)
+A. Coal | 1. Highveld
+B. Gold | 2. Karaganda Basin
+C. Iron Ore | 3. San Joaquin Valley
+D. Mineral Oil | 4. Krivoi Rog
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 2 1 4 3
+(c) 3 2 4 1
+(d) 4 1 2 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not correctly matched ?
+(a) Donbas Basin - Coal
+(b) Mesabi Range - Copper
+(c) Mosul - Petroleum
+(d) Transvaal - Gold
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List I with List II and select the correct answer using the codes given below:
+@match
+List-I | List-II
+A. Iron ore | 1. Port Radium
+B. Petroleum | 2. Bingham
+C. Copper | 3. Baku
+D. Uranium | 4. Mesabi
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 4 1 2
+(c) 1 2 3 4
+(d) 1 3 2 1
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 1993
+What is Baku famous for?
+@ans Petroleum
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following pair is correctly matched:
+Mineral - Producer
+(a) Copper Arizona
+(b) Coal Karatzas
+(c) Iron ore Rasatnoora
+(d) Petroleum Donbas
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which one of the following pairs is not correctly matched ?
+(a) Kimberley - Diamond
+(b) Witwatersrand - Gold
+(c) Katanga - Copper
+(d) Saar - Iron Ore
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Mains) 2010
+Match List-I (Minerals) with List-II (Important centres): A. Copper, B. Diamond, C. Gold, D. Silver with 1. Butte, 2. Katanga, 3. Kimberley, 4. Witwatersrand.
+@ans A-2, B-3, C-4, D-1
+@end
+
+@table
+Region / mine | Mineral | Country
+Witwatersrand (Johannesburg), Transvaal | **Gold** | South Africa
+Kalgoorlie, Coolgardie | **Gold** | Western Australia
+Kimberley | **Diamond** | South Africa
+Chuquicamata, Escondida | **Copper** | Chile
+Katanga (Copperbelt) | **Copper, cobalt** | DR Congo (and Zambia)
+Bingham Canyon (Utah), Arizona | **Copper** | USA
+Butte (Montana) | Copper and **silver** | USA
+Kinta Valley | **Tin** | Malaysia
+Postmasburg | **Manganese** | South Africa
+Port Radium, Uranium City (Saskatchewan) | **Uranium** | Canada
+Highveld | **Coal** (with gold) | South Africa
+@end
+
+@section 18.5 | Petroleum and Natural Gas
+
+@pyq U.P. Lower Sub. (Pre) 1998; U.P.P.C.S. (Mains) 2008
+In relation to the production of petroleum the correct ascending order of the countries is –
+(a) China, Iran, U.S.A., Saudi Arabia
+(b) Iran, U.S.A., China, Saudi Arabia
+(c) Saudi Arabia, U.S.A. Iran, China
+(d) U.S.A. Iran, China, Saudi Arabia
+@ans (*)
+@note (a) fitted the data of the 1990s-2000s, when Saudi Arabia was the top producer. Since about **2018** the **USA** (shale oil) has been the largest crude producer, followed by **Russia** and **Saudi Arabia**, so no code fits the current order. The source marks the question (*).
+@end
+
+@one
+The Correct descending order of the World's three leading Petroleum Producers is
+@ans U.S.A., Russia, Saudi Arabia (in 2023)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The largest petroleum producer in the world is –
+(a) Kuwait
+(b) Iran
+(c) Saudi Arabia
+(d) Russia
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2008
+The correct sequence of leading producers of petroleum, in the Middle East in descending order is
+(a) Iran, Iraq, Kuwait, Saudi Arabia
+(b) Saudi Arabia, Iran, Iraq, Kuwait
+(c) Saudi Arabia, Kuwait, Iraq, Iran
+(d) Saudi Arabia, Iran, Kuwait, Iraq
+@ans (b)
+@note The key matches the source's 2023 data (Saudi Arabia, Iran, Iraq, UAE, Kuwait). Some sources rank **Iraq above Iran** because of sanctions on Iran, so expect "Saudi Arabia, Iraq, ..." in newer keys.
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+In West Asia, the highest Petroleum producing country is :
+(a) Iraq
+(b) Iran
+(c) Saudi Arabia
+(d) Lebanon
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+The largest producer of Petroleum of South East Asia is:
+(a) Brunei
+(b) Indonesia
+(c) Malaysia
+(d) Myanmar
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012; U.P. Lower Sub. (Pre) 2013; U.P. U.D.A./L.D.A. (Mains) 2010
+World's largest reserves of mineral oil are in
+(a) Venezuela
+(b) Iran
+(c) Saudi Arabia
+(d) Iraq
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following countries has the largest known reserves of oil :
+(a) Kuwait
+(b) Iran
+(c) Iraq
+(d) Nigeria
+@ans (b)
+@end
+
+**Proven oil reserves** (approx.): **Venezuela** (about 300 billion barrels, mostly heavy Orinoco oil), Saudi Arabia, **Iran**, Canada (oil sands) and Iraq. Of the options in the 2002 question, Iran has the most.
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which of the following statement is true about petroleum production ?
+I. 60% of the world's petroleum deposits are found in the Middle East.
+II. Petroleum reserve in Alaska is certified equivalent to Texas.
+III. U.S.A. is a prominent producer and importer for petroleum.
+Code :
+(a) I and II are true
+(b) II and III are true
+(c) I and III are true
+(d) All are true
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to 'Alaska' which of the following statements is/are correct?
+(1) It is oil producing state of United States of America.
+(2) It was purchased from Russians in 1867.
+Select the correct answer using the code given below:
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+The USA bought **Alaska** from Russia in **1867** for **$7.2 million**, a deal mocked at the time as "Seward's Folly". Oil was found at **Prudhoe Bay** in 1968 and is carried south by the **Trans-Alaska Pipeline**.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following pairs (Country - Oil field) is not correctly matched?
+(a) Iran - Haft Kel
+(b) Kuwait - Kashagan
+(c) Saudi Arabia - Dhahran
+(d) Iraq - Zubair
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which among the following is an important mineral of Pegu Yoma region of Myanmar?
+(a) Tin
+(b) Silver
+(c) Mineral oil
+(d) Copper
+@ans (c)
+@end
+
+@table
+Oilfield | Country
+Ghawar (world's largest), Dhahran, Abqaiq | Saudi Arabia
+Burgan | Kuwait
+Kirkuk, Mosul, Zubair, Rumaila | Iraq
+Haft Kel, Masjid-i-Sulaiman, Agha Jari | Iran
+Kashagan, Tengiz | **Kazakhstan** (Caspian)
+Baku | Azerbaijan
+Prudhoe Bay | Alaska (USA)
+Maracaibo, Orinoco Belt | Venezuela
+Niger Delta | Nigeria
+Pegu Yoma / Yenangyaung | Myanmar
+North Sea (Brent, Forties) | UK, Norway
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which country is the largest producer and consumer of gasohol ?
+(a) Brazil
+(b) Cuba
+(c) India
+(d) U.S.A.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+A commercial deal christened "Peace Pipeline" has been signed recently in the first half of 2009. Identify the pipeline from the following list :
+(a) Russia to Europe
+(b) Azerbaijan to Turkey
+(c) Myanmar to China
+(d) None of the above
+@ans (d)
+@end
+
+The "**Peace Pipeline**" was the **Iran-Pakistan-India (IPI)** gas pipeline project. India left it in 2009, and the Iran-Pakistan section remains unfinished. Other pipelines to remember: **TAPI** (Turkmenistan-Afghanistan-Pakistan-India), **Nord Stream** (Russia-Germany, damaged in 2022), **BTC** (Baku-Tbilisi-Ceyhan) and **Power of Siberia** (Russia-China).
+
+@pyq U.P.R.O./A.R.O. (Pre) 2017; U.P.P.C.S. (Mains) 2017
+Among the following countries, which was the highest crude oil supplier to India during 2017-18 :
+(a) Saudi Arabia
+(b) Iran
+(c) Iraq
+(d) Kuwait
+@ans (c)
+@end
+
+India's top crude supplier was **Iraq** in 2017-18. Since **2022-23** it has been **Russia** (discounted Urals crude), followed by Iraq and Saudi Arabia.
+
+@section 18.6 | Uranium and Others
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Pre) 2009
+The leading producer of Uranium in the world is –
+(a) Australia
+(b) Canada
+(c) Kazakhstan
+(d) India
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+The largest reserves of Uranium are found in –
+(a) Canada
+(b) Australia
+(c) South Africa
+(d) Brazil
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following countries is credited with the establishment of 'Uranium City' ?
+(a) Australia
+(b) Canada
+(c) Russia
+(d) U.S.A.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following countries is known for very important uranium ore deposits ?
+(a) Canada
+(b) China
+(c) Pakistan
+(d) Zaire
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which of the following is not among the major resources of Russia?
+(a) Coal
+(b) Iron-ore
+(c) Diamonds
+(d) Uranium
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Natural camphor is obtained from –
+(a) High altitude rocks of Himalayan mountains
+(b) Foams of Angel Falls in Venezuela
+(c) A tree native to China and Japan
+(d) Sediments of tides of the sea near Andaman
+@ans (c)
+@end
+
+@table
+Mineral | Top producer (about 2023) | Note
+Coal | China | India second
+Iron ore | Australia | Brazil, China, India follow
+Bauxite | Guinea | Australia second
+Copper (mine) | Chile | DR Congo, Peru follow
+Gold | China | Russia, Australia follow
+Silver | Mexico | China, Peru follow
+Tin | China | Indonesia, Myanmar follow
+Uranium | Kazakhstan | Canada, Namibia follow; Australia has the largest reserves
+Diamond (carats) | Russia | Botswana second
+Iodine | Chile | Japan second
+Lithium | Australia | Chile, China; the "lithium triangle" is Chile-Argentina-Bolivia
+Cobalt | DR Congo | About 70% of the world
+Crude oil | USA | Russia, Saudi Arabia
+Natural gas | USA | Russia, Iran
+@end
+
+@trap
+Producer-ranking keys go out of date quickly. For "largest producer" questions, check the date. **Iron ore**: Australia now, though older keys say China or India. **Gold**: China now, older keys South Africa. **Bauxite**: Guinea now, older keys Australia. **Petroleum**: USA now, older keys Saudi Arabia or Russia. Region pairs never change: **Mesabi = iron, Saar = coal, Kashagan = Kazakhstan, Cinnabar = mercury**.
+@end
+
+@heatmap
+
+@pattern
+This is UPPSC's single largest World Geography block. Roughly **half** of the questions are **region-mineral pairs** (stable) and half are **producer rankings** (volatile, with 8 notes here). The 2020-2025 papers kept asking about the coal basins (Donbas, Kuzbas, Ruhr), iron ore (Mount Newman) and oilfields (Kashagan, Pegu Yoma). Learn the region tables first, then the 2023 ranking table.
+@end
+
+@next
+Likely next angles: **critical minerals** (lithium, cobalt, rare earths; India's **KABIL** and the **National Critical Mineral Mission**, 2025), lithium found in **Jammu and Kashmir**, China's **rare-earth export curbs**, the **Donbas** in the Ukraine war, India's **Russian crude** imports, **OPEC+** cuts, and Guyana's new offshore oil.
+@end

@@ -1,0 +1,705 @@
+@chapter 16 | Poverty and Unemployment
+
+@intro
+This chapter covers **poverty**: its types, the **poverty line** and the committees that drew it (Alagh, Lakdawala, Tendulkar, Rangarajan), state-wise poverty, the **Multidimensional Poverty Index**, theories of poverty and inequality (vicious circle, culture of poverty, Lorenz curve), and **unemployment**: its kinds, measurement by the NSSO and PLFS, and its causes. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 16.1 | What Poverty Is
+
+@pyq U.P.P.C.S. (Pre) 2023
+What is the theme of the International Day for the Eradication of Poverty for 2022-23?
+(a) "Acting together to empower children, their families and communities to end poverty."
+(b) "Dignity for all in practice."
+(c) Accelerating global actions for a world without poverty".
+(d) "Coming together to end poverty and discrimination?
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following are the types of poverty?
+1. Absolute poverty
+2. Relative poverty
+3. Subjective poverty
+4. Functional poverty
+Choose the correct answer using the code given below:
+(a) Only 1 and 4
+(b) Only 1, 2 and 3
+(c) Only 3 and 4
+(d) Only 1 and 2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+In which year did UNO adopt a definition of absolute poverty?
+(a) 1994
+(b) 1995
+(c) 1996
+(d) 1997
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): Poverty line differs across time and countries.
+Reason (R): The basic needs of people vary across regions and overtime.
+Select the correct answer from the code given below:
+Code:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which among the following is / are NOT a social indicator of poverty?
+1. Illiteracy
+2. Safe drinking water
+3. Job opportunities
+4. Size of the house
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 4
+(c) 3 and 4
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Who authored the book "The Challenge of World Poverty"?
+(a) Adam Smith
+(b) Gunnar Myrdal
+(c) Amartya Sen
+(d) Jean Dreze
+@ans (b)
+@end
+
+
+@table
+Poverty type | Meaning
+**Absolute poverty** | Lack of basic needs (food, water, shelter, health, education); defined by the **UN World Summit, Copenhagen, 1995**
+**Relative poverty** | Being poor compared with others in society
+**Subjective poverty** | People's own sense of being poor
+Income poverty vs **human poverty** | UNDP's two categories
+World Bank extreme poverty line | **$3.00 a day** (2021 PPP; from June 2025; earlier $2.15)
+@end
+
+**Social indicators** of poverty are illiteracy, lack of **safe water**, health care and **jobs**; the size of a house is an economic, not social, indicator. **Gunnar Myrdal** wrote *The Challenge of World Poverty* (1970) and *Asian Drama*. The **International Day for the Eradication of Poverty** is **17 October**.
+
+@section 16.2 | The Poverty Line
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following methods has/have been used to estimate poverty in India?
+1. Head Count Ratio
+2. Calorie Intake
+3. Household Consumption Expenditure
+4. Per Capita Income
+Select the correct answer from the codes given below.
+Codes :
+(a) 2 and 3
+(b) 1, 2 and 3
+(c) 3 only
+(d) 1, 2, 3 and 4
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013; U.P.R.O./A.R.O. (Mains) 2013; U.P. P.C.S. (Pre) 2009; U.P. R.O./A.R.O. (Pre) 2013
+Poverty level in India is established on the basis of :
+(a) Per capita income in different States
+(b) Household average income
+(c) Household consumption expenditure
+(d) Slum population in the country
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following Committees recommended a poverty line based on nutritional requirements exclusively?
+(a) Alagh Committee
+(b) Lakdawala Committee
+(c) Tendulkar Committee
+(d) Rangarajan Committee
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+According to the Planning Commission, how many average daily calories per person define the poverty line in urban areas?
+(a) 2100
+(b) 2400
+(c) 2700
+(d) 3000
+@ans (a)
+@end
+
+@one U.P. Lower Sub. (Pre) 2008
+Which one per capita calorie intake has been recommeded to determine the poverty line in rural areas in India?
+@ans 2400
+@end
+
+@one U.P.P.C.S. (Mains) 2008; U.P. Lower (Spl.) (Pre) 2008
+Poverty in India has been defined in terms of
+@ans Calorie intake
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+The Government of India constituted a committee to set new standards for the estimation of population living below the poverty line. Who was the chairman of this committee?
+(a) Nirmala Deshpandey
+(b) V. Siddharth
+(c) Suresh Tendulkar
+(d) Proffessor Jankiraman
+@ans (c)
+@note The **Suresh Tendulkar** expert group was set up in **2005** and reported in **2009**; it dropped the calorie norm and used a wider consumption basket (food, health, education).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following is measured by the Lorenz curve?
+(a) Illiteracy
+(b) Unemployment
+(c) Population growth rate
+(d) Inequality of income
+@ans (d)
+@note The source prints this as Q12 without a number. The **Lorenz curve** (Max O. Lorenz, 1905) plots the cumulative share of income against the cumulative share of people; the gap from the line of equality gives the **Gini coefficient** (0 = equal, 1 = fully unequal).
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+The idea of 'Cultural Poverty' was given by :
+(a) Oscar Lewis
+(b) Gunnar Myrdal
+(c) Aashish Bose
+(d) Amartya Sen
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+The concept of ‘Vicious Circle of Poverty’ is related to :
+(a) Karl Marx
+(b) Nurkse
+(c) Adam Smith
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following fixes the poverty line in India?
+(a) Central Council of Ministers
+(b) Lok Sabha
+(c) Rajya Sabha
+(d) Planning Commission (Now NITI Aayog)
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2014
+Which commission in India is the nodal agency for estimation of poverty at the national and state level?
+@ans NITI Aayog (erstwhile planning commission)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Consider the following Committees relating to poverty and arrange their formation in correct chronological order.
+1. Lakdawala Committee
+2. Rangarajan Committee
+3. Tendulkar Committee
+4. Dandekar and Rath Committee
+Select the correct answer from the code given below :
+Code :
+(a) 4, 1, 2, 3
+(b) 1, 4, 3, 2
+(c) 1, 4, 2, 3
+(d) 4, 1, 3, 2
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Which among the following committee’s recommend- ations are used for estimating the poverty line in India ?
+(a) Dutt Committee
+(b) Lakdawala Committee
+(c) Chelliah Committee
+(d) Chakravarty Committee
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following committees was set up in India for identification of BPL families in Urban Areas?
+(a) Tendulkar Committee
+(b) Saxena Committee
+(c) Lakdawala Committee
+(d) H a s h i m C o m m i t t e e
+@ans (d)
+@end
+
+
+@table
+Committee | Year | Basis | Poverty estimate
+**Task Force (Y.K. Alagh)** | **1979** | **Calories only**: **2,400 rural, 2,100 urban** | -
+**Lakdawala** | **1993** | Calorie-based line, state prices (CPI-AL, CPI-IW) | 36% (1993-94)
+**Tendulkar** | **2005-09** | Consumption basket (food, health, education); **MRP** data | **37.2%** (2004-05); **21.9%** (2011-12)
+**Rangarajan** | **2012-14** | Food + non-food; Rs. 32 (rural) and Rs. 47 (urban) a day | 29.5% (2011-12)
+**S.R. Hashim** | 2010-12 | Identifying **urban BPL** families | -
+N.C. Saxena | 2008-09 | Rural BPL census method | -
+@end
+
+The earliest study was **Dandekar and Rath** (*Poverty in India*, **1971**), then **Lakdawala (1989-93) → Tendulkar (2005) → Rangarajan (2012)**. Poverty is measured from **household consumption expenditure** (NSSO surveys), using the **head-count ratio**; per capita income is not used. The **Planning Commission** (now **NITI Aayog**) was the nodal agency. The **HCES 2023-24** puts consumption poverty very low (the World Bank estimates extreme poverty at about **5%** in 2022-23).
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Consider the following statements :
+Assertion (A) : There is a need to consider the people below poverty line as an identified group.
+Reason (R) : It facilitates targeting of program agencies. With reference to the above, which one of the following is the correct answer :
+Code :
+(a) A and R both are true and R is the correct explanation of A.
+(b) A and R both are true but R is not the correct explanation of A.
+(c) A is true but R is false.
+(d) A is false, but R is true.
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Consider the following statements :
+Assertion (A) : In India both rich and poor are malnourished.
+Reason (R) : Rich eat wrong diet and the poor eat poor diet.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+According to the data released by the Planning Commission in April 2011, poverty in India in 2009-10 has declined to :
+(a) 30%
+(b) 31%
+(c) 32%
+(d) 33%
+@ans (a)
+@end
+
+@one U.P. P.C.S. (Pre) 2012; U.P. U.D.A./L.D.A. (Pre) 2013
+Tendulkar Committee has estimated that in India the percentage of the population below poverty line is
+@ans 37.2
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Eleventh Five Year Plan aims to reduce the poverty ratio by what percentage by the year 2012?
+(a) 2.0%
+(b) 2.5%
+(c) 10.0%
+(d) 15.0%
+@ans (c)
+@end
+
+
+@section 16.3 | Poverty Across States and Hunger
+
+@pyq U.P.P.C.S. (Pre) 2019
+What is the India’s rank in the Global Hunger Index (GHI) in 2017?
+(a) 100th
+(b) 101th
+(c) 104th
+(d) 105th
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+According to a survey conducted by the ‘National Council of Applied Economic Research’ (data released recently), which State in India has the highest percentage of population below the poverty line ?
+(a) Jharkhand
+(b) Bihar
+(c) Chhattisgarh
+(d) Madhya Pradesh
+@ans (b)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Assertion (A) : Bihar is a backward State of the country.
+Reason (R) : It is characterized by regional disparities in the level of development.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are correct and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003, 2005; U.P. Lower Sub. (Pre) 2002; U.P.P.S.C. (RI) 2014
+As per the Planning Commission Report of 1999-2000 the highest percentage of people living below the poverty line was in :
+(a) Bihar
+(b) Madhya Pradesh
+(c) Odisha
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2014
+As per the estimates of Planning Commission, which State had the highest number of poor people living below the poverty line in 2011-12?
+@ans Uttar Pradesh
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following States has the minimum percentage of population below poverty line ?
+(a) Punjab
+(b) Haryana
+(c) Himachal Pradesh
+(d) Delhi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+The minimum percentage of population below the poverty line is recorded in :
+(a) Jammu and Kashmir
+(b) Punjab
+(c) Haryana
+(d) Goa
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Spl.) (Mains) 2004
+Which one of the following States has the least percentage of its population below the poverty line?
+(a) Andhra Pradesh
+(b) Gujarat
+(c) Kerala
+(d) Punjab
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 2010
+Consider the following statements :
+Assertion (A) : Madhya Pradesh is called the Ethiopia of India.
+Reason (R) : Its hallmarks are excessive infant mortality and malnutrition.
+Select the correct answer using the codes given below:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Mains) 2010
+Which one State is called ‘the Ethiopia of India’ because the excessive malnutrition?
+@ans Madhya Pradesh
+@end
+
+
+@table
+Poverty by state | Fact
+Highest poverty ratio (Tendulkar, 2011-12) | **Chhattisgarh** (39.9%), Jharkhand, Manipur, Arunachal, **Bihar**
+Highest poverty ratio (1999-2000, Lakdawala) | **Odisha** (47%)
+**Largest number of poor** (2011-12) | **Uttar Pradesh** (about 6 crore)
+Lowest poverty ratio | **Goa**, Kerala, **Himachal Pradesh**, Sikkim, Punjab
+**"Ethiopia of India"** | **Madhya Pradesh** (India State Hunger Index, 2008: worst malnutrition)
+**Global Hunger Index 2017** | India **100th of 119**; GHI 2024: **105th of 127**
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Assertion (A): Presently, there is no clear picture about the extent of poverty in India.
+Reason (R) : There have been major shifts in the strategy of poverty eradication programmes.
+Code:
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Consider the following statements regarding Public Distribution Systems :
+1. The main objective was to provide essential commodities at subsidized prices.
+2. It was started as a price support program.
+3. Food subsidy is provided by the State Governments.
+Which of these statements is/are correct?
+(a) 1, 2 and 3
+(b) 1 and 2
+(c) 1 and 3
+(d) 3 only
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which of the following programme was meant for the eradication of poverty in rural India ?
+(a) IRDP
+(b) TRYSEM
+(c) NREP
+(d) All of the above
+@ans (d)
+@end
+
+
+The **PDS** began in the 1960s with **price support** for farmers and supply of essential goods at **subsidised prices**; the **food subsidy** is paid by the **Centre**, so statement 3 is wrong. The Targeted PDS came in **1997**.
+
+@section 16.4 | Multidimensional Poverty
+
+@pyq U.P. P.C.S. (Pre) 2022
+United Nations Development Programme (UNDP) has identified following categories of poverty. Which one is correct?
+(a) and
+(b) 
+(c) Both
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Human Development Report 1997 introduced the concept of Human Poverty Index (HPI) but Human Development Report replaced it with Multidimensional Poverty Index (MPI) in the year :
+(a) 1999
+(b) 2005
+(c) 2010
+(d) 2015
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2004
+Human Poverty Index was introduced in the year
+@ans 1997
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Who prepares/publishes the Global Multidimensional Poverty Index (MPI) report?
+1. World Bank and International Monetary Fund (IMF)
+2. Oxford Poverty and World Health Organisation (WHO)
+3. Oxford Poverty and Human Development Initiative (OPHI)
+4. United Nations Development Programme (UNDP)
+Select the correct answer from the codes given below:
+(a) 2 and 4
+(b) Only 4
+(c) 1 and 4
+(d) 3 and 4
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to the Global Multidimensional Poverty Index, which of the following statement/statements is/ are correct?
+1. Since 2010, it has been included every year in the Human Development Report.
+2. It measures the standard of living of those living below the poverty line in terms of low income and low calorie intake.
+Select the correct answer using the code given below—
+(a) only 2
+(b) neither 1 nor 2
+(c) 1 and 2 both
+(d) only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The Multidimensional Poverty Index of UNDP includes:
+(a) 8 indicators
+(b) 10 indicators
+(c) 12 indicators
+(d) 14 indicators
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 2019
+Multidimensional Poverty Index includes
+@ans Health, Education, Living Standard
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following indices is most suitable to assess the intensity of poverty in India?
+(a) Human Development Index
+(b) Gender Inequality Index
+(c) Human Poverty Index
+(d) Multi-dimensional Poverty Index
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+According to HDR 2013, the percentage of population suffering form multidimensional poverty in India is :
+(a) 63.4%
+(b) 53.7%
+(c) 44.1%
+(d) 42.7%
+@ans (b)
+@end
+
+
+@table
+MPI fact | Detail
+Built by | **OPHI (Oxford) and UNDP**, 2010 (replaced the **Human Poverty Index** of 1997)
+Dimensions | **Health, education, living standard**
+Indicators | **10** (nutrition, child mortality; years of schooling, attendance; cooking fuel, sanitation, water, electricity, housing, assets)
+India's national MPI (NITI Aayog) | 12 indicators; poor share fell from **29.2% (2013-14) to 11.3% (2022-23)**; about **24.8 crore** people escaped poverty
+**Uttar Pradesh** | **Largest fall**: about **5.94 crore** people escaped multidimensional poverty
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following is not responsible for poverty?
+(a) Inadequate growth rate
+(b) High growth rate of population
+(c) Unemployment
+(d) Increasing rate of investment
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+Which of the following is not considered as social indicator of poverty?
+(a) Less number of means of transport
+(b) Illiteracy level
+(c) Lack of access to healthcare
+(d) Lack of job opportunities
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2014
+Main features of Indian social structure are :
+(i) Excess population in villages
+(ii) Various religions
+(iii) Various Castes
+(iv) Poverty
+Select the correct answer from the codes given below:
+(a) (i), (ii) and (iii)
+(b) (i), (iii) and (iv)
+(c) (iii) and (iv)
+(d) (ii) and (iv)
+@ans (a)
+@end
+
+
+@section 16.5 | Unemployment
+
+@pyq U.P.P.C.S. (Pre) 2006; U.P.P.C.S. (Mains) 2005
+Consider the following statements and select the correct answer using the code given below :
+Assertion (A): Educated unemployment increases with high rate of economic growth.
+Reason (R): It happens only when there is lack of professional education.
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+Assertion (A) : Roots of urban poverty lies in rural areas.
+Assertion (B) : Level of education is normally low in rural areas.
+Consider the above statements and find out the correct answer from the code given below :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004; U.P.P.C.S.(Spl.) (Mains) 2008; U.P.P.S.C.(GIC) 2010
+Disguised unemployment refers to :
+(a) persons with no jobs
+(b) unemployment among housewives
+(c) unemployment among people above 60 years of age
+(d) employment of more persons in a job which lesser number of persons can accomplish
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+In India disguised unemployment is main characteristic of :
+(a) Tertiary Sector
+(b) Secondary Sector
+(c) Primary Sector
+(d) None of the above
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+In India disguised unemployment is found in
+@ans Agricultural sector
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Disguised unemployment in India is mainly related to: I. Agricultural sector II. Rural Area III. Manufacturing sector IV. Urban area
+Select the correct answer from the codes given below:
+Codes :
+(a) I and III
+(b) II and IV
+(c) III and IV
+(d) I and II
+@ans (d)
+@end
+
+
+@table
+Unemployment type | Meaning
+**Disguised** | More people on a job than needed; marginal product **zero**; found in **agriculture** in **rural areas** (Ragnar Nurkse, Joan Robinson)
+**Seasonal** | No work in the off-season (farming)
+**Structural** | Mismatch of skills and jobs; long-term
+**Frictional** | Between jobs
+**Educated** | Educated people without suitable jobs; fed by **lack of professional education**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The number of persons who remained unemployed for a major part of the year is called :
+(a) Usual status unemployment
+(b) Daily status unemployment
+(c) Weekly status unemployment
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005, 2016
+Which of the following method is not used by N.S.S.O. for the measurement of unemployment in India ?
+(a) Usual Principal Status
+(b) Current Monthly Status
+(c) Current Weekly Status
+(d) Current Daily Status
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2014
+In India which one of the following collects and publishes the unemployment Index?
+(a) Planning Commission
+(b) Finance Commission
+(c) N.S.S.O.
+(d) U.N.O.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following is not responsible for unemployment?
+(a) Rapid growth of population
+(b) Lack of skill
+(c) Growth of per capita income
+(d) Lack of manpower planning
+@ans (c)
+@end
+
+
+@table
+Measure (NSSO / PLFS) | Reference period
+**Usual Principal Status (UPS)** | Unemployed for the **major part of the year** (365 days); measures **chronic** unemployment
+Usual Status (PS+SS) | Adds subsidiary work of 30 days or more
+**Current Weekly Status (CWS)** | **Week** before the survey
+**Current Daily Status (CDS)** | Each day of the week; best for underemployment
+**Periodic Labour Force Survey** | Since **2017-18** (NSO); **monthly** estimates since **2025**
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to the unemployment rate in India between July–September, 2019 and July–September, 2022, which of the following statements is/are correct?
+1. It remained stable.
+2. It increased.
+Select the correct answer using the code given below—
+(a) 2 is correct, but 1 is not correct
+(b) 1 and 2 both are incorrect
+(c) 1 is correct, but 2 is not correct
+(d) Both 1 and 2 are correct
+@ans (a)
+@note The source keys (a). The PLFS **urban quarterly** rate (CWS) was roughly **8% in July-September 2019** and about **7% in July-September 2022**, after a pandemic peak above **20%** (April-June 2020). So the rate was not stable, and the "increased" reading is doubtful. The usual-status rate for 2023-24 was **3.2%**.
+@end
+
+
+
+@up UP link: UP had the **largest number of poor** (2011-12) but showed the **biggest fall in multidimensional poverty**: about **5.94 crore** people escaped it between 2013-14 and 2022-23 (NITI Aayog, 2024), and its MPI headcount fell from about 43% to about 17%.
+
+@trap
+**Absolute poverty defined: Copenhagen 1995.** **Calories: 2,400 rural, 2,100 urban (Alagh, 1979).** **Lakdawala 1993 → Tendulkar 2009 (37.2%) → Rangarajan 2014.** **Poverty line = consumption expenditure.** **Lorenz = income inequality.** **Culture of poverty: Oscar Lewis.** **Vicious circle: Nurkse.** **Urban BPL: Hashim.** **Ethiopia of India = MP.** **MPI: OPHI + UNDP, 2010, 10 indicators, 3 dimensions.** **HPI 1997.** **Disguised unemployment = agriculture, rural.** **UPS = major part of the year.** NSSO has **no "current monthly status"**.
+@end
+
+@heatmap
+
+@pattern
+Poverty committees and the calorie norm are evergreen. The **2020-2025** papers turned to the **MPI** (who publishes it, its dimensions), types and social indicators of poverty, committee chronology, and recent unemployment data from the **PLFS**.
+@end
+
+@next
+Likely next angles: NITI Aayog's **national MPI** update, the World Bank's **$3.00** line and India's extreme poverty estimate, **HCES 2023-24**, **monthly PLFS**, the **Global Hunger Index**, and **UP's** fall in multidimensional poverty.
+@end

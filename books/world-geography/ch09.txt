@@ -1,0 +1,421 @@
+@chapter 9 | Oceans, Seas and Ocean Currents
+@unit UNIT IV · HYDROSPHERE AND ATMOSPHERE
+
+@intro
+The **hydrosphere** chapter covers the world's water budget, the oceans and their marginal seas (Red, Black, Caspian, Aral, Tyrrhenian, Sargasso), **ocean currents** (warm vs cold, which ocean), **salinity**, **tides** and the **deep trenches**. Current questions follow a pattern: currents flowing **towards the poles** along **eastern** coasts are warm, and those flowing **towards the equator** along **western** coasts are cold. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 9.1 | The World's Water
+
+@pyq U.P.P.C.S. (Pre) 1991, 1994
+Datum line :
+(a) Is a horizontal line to the sea level from where heights and depths are measured
+(b) Is the mean of primary and secondary data
+(c) International date line
+(d) Is an imaginary line that passes through zero degree meridian
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Consider the following sources of the world's water supply and arrange them in descending order:
+1. Oceans
+2. Rivers
+3. Polar ice and glaciers
+4. Groundwater
+Select the correct answer using the code given below:
+Code:
+(a) 1, 3, 4, 2
+(b) 1, 2, 4, 3
+(c) 1, 2, 3, 4
+(d) 1, 4, 3, 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+The largest amount of fresh water on our planet is in
+(a) River
+(b) Lakes and streams
+(c) Glaciers and mountains
+(d) Underground water
+@ans (c)
+@end
+
+@table
+Store | Share of all water | Share of fresh water
+Oceans | About 96.5% | -
+Ice caps and glaciers | About 1.7% | About **69%**
+Groundwater (fresh) | About 0.8% (1.7% incl. saline) | About **30%**
+Lakes, soil moisture, atmosphere | Under 0.05% | About 1%
+Rivers | About 0.0002% | Tiny
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+The tension of gravitational water in the ground is –
+(a) below 1/3 atmosphere
+(b) At 1.25 atmosphere
+(c) At 5 atmosphere
+(d) At 15 atmosphere
+@ans (a)
+@end
+
+**Gravitational water** drains freely through the soil under gravity (tension below 1/3 atm). **Capillary water** is held in the pores (1/3 to 31 atm) and is what plants use. **Hygroscopic water** is bound tightly to particles and is unavailable to plants.
+
+@section 9.2 | Oceans and Seas
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to the 'Indian Ocean', which of the following statements is/are correct?
+1. It was called the Erythraean Sea by the ancient Greeks.
+2. It extends on both sides of the Equator.
+Select the correct answer using the code given below:
+Code:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+The **Periplus of the Erythraean Sea** (1st century AD) is a Greek sailing guide to the Red Sea, Arabian Sea and Indian trade ports such as Barygaza (Bharuch) and Muziris. The Indian Ocean is the **only ocean named after a country**, and it is the third largest after the Pacific and Atlantic.
+
+@pyq U.P. P.C.S. (Pre) 2017
+Red sea is an example of :
+(a) Volcanic valley
+(b) Eroded valley
+(c) Axial trough
+(d) U-shaped valley
+@ans (c)
+@end
+
+The **Red Sea** is a young ocean basin opening along the **Afro-Arabian rift**, part of the same system as the East African Rift. Hot, dry air and almost no river inflow make it one of the **saltiest** open seas (about 36-41‰).
+
+@pyq U.P. B.E.O. (Pre) 2019
+Baku, the capital city of Azerbaijan is situated along the coast of which one of the following seas?
+(a) Black Sea
+(b) Levantine Sea
+(c) Caspian Sea
+(d) Aral Sea
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+The correct sequence of the following seas from west to east is :
+(a) Black Sea, Mediterranean Sea, Caspian Sea, Aral Sea
+(b) Caspian Sea, Mediterranean Sea, Black Sea, Aral Sea
+(c) Mediterranean Sea, Black Sea, Caspian Sea, Aral Sea
+(d) Black Sea, Mediterranean Sea, Aral Sea, Caspian Sea
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+Which of the following pairs of countries are around the Aral Sea?
+(a) Kazakhstan Uzbekistan
+(b) Kazakhstan Turkmenistan
+(c) Azerbaijan Uzbekistan
+(d) Kazakhstan Russia
+@ans (a)
+@end
+
+The **Aral Sea** has shrunk by about 90% since the 1960s, because Soviet cotton irrigation took the water of the **Amu Darya** and **Syr Darya**. It is one of the worst environmental disasters of the century, and the dry bed is now the "Aralkum" desert.
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which of the following countries is NOT located on the bank of the Black Sea?
+(a) Syria
+(b) Turkey
+(c) Georgia
+(d) Bulgaria
+@ans (a)
+@end
+
+The six **Black Sea** countries are **Turkiye, Bulgaria, Romania, Ukraine, Russia and Georgia**. Its shallow northern arm is the **Sea of Azov**, entered through the **Kerch Strait**.
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+The sea surrounded by Italy, Sicily, Sardinia and Corsica is –
+(a) Adriatic Sea
+(b) Aegean Sea
+(c) Ligurian Sea
+(d) Tyrrhenian Sea
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following African countries does not border with the Mediterranean Sea ?
+(a) Algeria
+(b) Chad
+(c) Morocco
+(d) Tunisia
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following is the deepest ocean?
+(a) South China Sea
+(b) Bering Sea
+(c) Mediterranean sea
+(d) Sea of Japan
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following seas does not have a coastline?
+(a) Black Sea
+(b) Sargasso Sea
+(c) Sea of Azov
+(d) Caspian Sea
+@ans (b)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2014
+The Sargasso Sea is characterized by
+@ans typical marine vegetation
+@end
+
+The **Sargasso Sea** is the only sea **bounded by currents, not land**: the Gulf Stream, the North Atlantic Drift, the Canary Current and the North Equatorial Current enclose it. It is known for floating **Sargassum** seaweed and as the breeding ground of the European and American **eels**.
+
+@table
+Sea | Location / feature
+Mediterranean | Between Europe, Africa and Asia; joined to the Atlantic by the Strait of Gibraltar
+Tyrrhenian | Between Italy, Sicily, Sardinia and Corsica
+Adriatic / Aegean / Ligurian | East of Italy / Greece-Turkiye / north-west of Italy
+Black Sea | Turkiye, Bulgaria, Romania, Ukraine, Russia, Georgia
+Caspian | World's largest lake by area; Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan
+Aral | Kazakhstan-Uzbekistan; largely dried up
+Red Sea | Rift sea between Africa and Arabia; Suez to Bab-el-Mandeb
+Dead Sea | Israel-Jordan-West Bank; lowest land point (about -430 m)
+Sargasso | North Atlantic; no coastline
+South China Sea | Deepest of the marginal seas named; disputed (nine-dash line)
+@end
+
+@section 9.3 | Ocean Currents
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following ocean currents is associated with Indian Ocean?
+(a) Florida Current
+(b) Canary Current
+(c) Agulhas Current
+(d) Kurile Current
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2017
+Which one is not a cold ocean current?
+@ans Agulhas
+@end
+
+@one U.P.P.C.S. (Mains) 2014
+Which one ocean currents does not belong to the Indian Ocean?
+@ans Benguela Current
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is an ocean current of the Atlantic Ocean?
+(a) Humboldt current
+(b) California current
+(c) Alaska current
+(d) Benguela current
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is a cold current of the South Atlantic Ocean?
+(a) Canary Current
+(b) Benguela Current
+(c) Agulhas Current
+(d) Brazil Current
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following currents does not contribute to forming a complete circle of currents in the South Atlantic Ocean:
+(a) Benguela
+(b) Brazil
+(c) Canary
+(d) West wind drift
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following is / are NOT a cold ocean current ?
+1. Agulhas current
+2. Brazil current
+3. Humboldt current
+4. California current
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 3
+(b) 3 and 4
+(c) 2 and 3
+(d) 1 and 2
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Which of the following is cold ocean current :
+(a) Peruvian Current (Humboldt Current)
+(b) Kuroshio Current
+(c) Gulf Stream
+(d) Brazil Current
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1998
+Which of the following is not matched correctly?
+(a) Brazil Current - South Atlantic Ocean
+(b) Humboldt Current - North Pacific Ocean
+(c) Gulf Stream - North Atlantic Ocean
+(d) Agulhas Current - Indian Ocean
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which of the following is a warm current?
+(a) Falkland Current
+(b) Brazil Current
+(c) Labrador Current
+(d) Canary Current
+@ans (b)
+@end
+
+@table
+Ocean | Warm currents | Cold currents
+North Atlantic | Gulf Stream, Florida, North Atlantic Drift, Antilles | **Labrador**, **Canary**, East Greenland
+South Atlantic | **Brazil**, South Equatorial | **Benguela**, **Falkland**
+North Pacific | **Kuroshio** (Japan), North Pacific Drift, Alaska | **Oyashio (Kurile)**, **California**
+South Pacific | East Australian, South Equatorial | **Humboldt (Peru)**
+Indian Ocean | **Agulhas**, Mozambique, monsoon drifts (reverse seasonally) | **West Australian**
+Southern | - | West Wind Drift (Antarctic Circumpolar), the largest current
+@end
+
+@trap
+**Benguela is Atlantic** (off Namibia), and **Agulhas is Indian Ocean** (off south-east Africa). Both are near South Africa, which is the trap. **Humboldt is South Pacific**, not North Pacific. **Canary is North Atlantic**, so it is not part of the South Atlantic gyre. Where a warm and a cold current meet, there are **fog and rich fishing grounds**: the Grand Banks (Gulf Stream + Labrador) and Japan (Kuroshio + Oyashio).
+@end
+
+@section 9.4 | Salinity and Tides
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following salts contributes maximum to the salinity of sea water :
+(a) Calcium sulphate
+(b) Magnesium chloride
+(c) Magnesium sulphate
+(d) Sodium chloride
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+The highest salinity is found in :
+(a) Dead sea
+(b) Red sea
+(c) Great Salt Lake in the U.S.A.
+(d) Lake Van in Turkey
+@ans (d)
+@note The key follows older Indian textbooks, which gave **Lake Van** about 330‰. Modern measurements put Lake Van, a soda lake, at only about **22‰**, and the **Dead Sea** at about **340‰**, making the Dead Sea the most saline of the four. Very salty smaller lakes include **Don Juan Pond** (Antarctica) and **Lake Assal** (Djibouti).
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998, 2012
+Which of the following Sea has the highest salinity ?
+(a) Caspian Sea
+(b) Mediterranean Sea
+(c) Red Sea
+(d) Dead Sea
+@ans (*)
+@note The **Dead Sea** (about 340‰) is far saltier than any option, but it is a landlocked **lake**, not a true sea. Among true seas the **Red Sea** (about 36-41‰) is the saltiest. Because the question can be read either way, the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following statements is true?
+(a) Ocean salinity is maximum at the Tropic of Cancer and Capricorn.
+(b) Tide comes on the earth every day after exactly 12 hours 30 minutes.
+(c) Benguela current is a cold current of the Pacific ocean.
+(d) If the Sun, the Earth and the Moon are in a straight line then this situation is the situation of small tide.
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) (Re-Exam) 2015
+What denotes water salinity gradient?
+@ans Halocline
+@end
+
+Open-ocean salinity averages about **35‰** and is highest near the **tropics** (about 20-30°), where evaporation is high and rainfall low. It is lower at the equator (heavy rain) and near the poles (melting ice). The layers of rapid change with depth are the **halocline** (salt), **thermocline** (temperature) and **pycnocline** (density).
+
+@pyq U.P.P.C.S. (Pre) 1991
+What are the causes of high-tide low tide formation in the oceans ?
+(a) Due to the effect of the sun
+(b) Due to the rotation of the Earth
+(c) Due to the combined effect of sun and the moon
+(d) Due to Gravitation, Centripetal force and the centrifugal force
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Spring Tide occurs :
+(a) When the Sun the Earth and Moon are in a straight line
+(b) When the Sun and Moon make a right angle
+(c) When a strong wind blows
+(d) When the night is very cold
+@ans (a)
+@end
+
+**Spring tides** (highest range) come at **new and full moon**, when the Sun, Earth and Moon are in line. **Neap tides** (lowest range) come at the **quarter moons**, when the Sun and Moon are at **right angles**. Tides recur about every **12 h 25 min**, because the Moon rises about 50 minutes later each day. The world's highest tides are in the **Bay of Fundy** (Canada).
+
+@section 9.5 | Ocean Deeps
+
+@pyq U.P.P.C.S. (Pre) 1991
+Which is the world's deepest trench?
+(a) Northern
+(b) Challenger
+(c) Manhattan
+(d) Richards
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Ocean) | List-II (Deepest Points)
+A. Pacific Ocean | 1. Java Trench
+B. Atlantic Ocean | 2. Eurasian Basin
+C. Indian Ocean | 3. Mariana Trench
+D. Arctic Ocean | 4. Puerto Rico Trench
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 4 1 2
+(c) 1 3 4 2
+(d) 2 4 3 1
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Match List - I with List - II and select the correct answer from the code given below the lists.
+@match
+List - I (Ocean) | List -II (Maximum Deepest Point)
+A. Pacific | 1. Sunda Trench
+B. Arctic | 2. Puerto Rico Trench
+C. Indian | 3. Mariana Trench
+D. Atlantic | 4. Molloy Trench
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 3 4 1 2
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@table
+Ocean | Deepest point | Depth (approx.)
+Pacific | **Challenger Deep**, Mariana Trench | About 10,935 m (deepest on Earth)
+Atlantic | Milwaukee Deep, **Puerto Rico Trench** | About 8,400 m
+Indian | **Java (Sunda) Trench** | About 7,200 m
+Southern | South Sandwich Trench | About 7,400 m
+Arctic | **Molloy Deep** (Fram Strait) / Eurasian Basin | About 5,550 m
+@end
+
+@heatmap
+
+@pattern
+**Ocean currents** are the single most-asked hydrosphere topic (about one-third of this chapter's PYQs, and in the 2020, 2023 and 2025 papers). The question is always "warm or cold" and "which ocean". **Seas and their neighbours** (Black Sea, Aral, Caspian, Tyrrhenian) come next, then **trenches**. Salinity keys follow older textbook figures, so read the notes.
+@end
+
+@next
+Likely next angles: **El Nino / La Nina** and the Humboldt current, **AMOC slowdown** (the Gulf Stream system), **marine heatwaves** and coral bleaching, the **High Seas Treaty (BBNJ)** coming into force, **Deep Ocean Mission** and **Samudrayaan** (India's crewed submersible Matsya-6000), and **Sargassum** blooms.
+@end

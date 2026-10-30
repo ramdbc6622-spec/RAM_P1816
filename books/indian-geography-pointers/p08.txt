@@ -1,0 +1,108 @@
+@chapter 8 | Waterfalls, Lakes and Hot Springs
+@meta Built from 25 UPPSC questions (1997–2022). Focus: waterfall-river matches, Chilika, lake-state matches, Wular.
+
+@hot
+- **Waterfall-river/state matching**: **Jog-Sharavati, Gokak-Ghataprabha, Dudhsagar-Mandovi (Goa), Duduma-Machkund, Chitrakote-Indravati** {2005, 2014, 2016, 2017, 2021, 2022}
+- **Lake-state matching**: **Loktak-Manipur, Kolleru-AP, Pulicat-AP/TN, Ashtamudi-Kerala, Roopkund-Uttarakhand, Surajkund and Badkhal-Haryana** {2005, 2010, 2012, 2015, 2020}
+- **Chilika** (Odisha, **Northern Circars** coast): largest **brackish lagoon** on the east coast {2008, 2016, 2021, 2021}
+- Highest waterfall (UPPSC key): **Kunchikal**, **455 m** (Karnataka) {2015, 2018}
+@end
+
+@section 8.1 | Waterfalls
+- Highest waterfall: **Kunchikal**; height **455 m** {2018, 2015}
+- **Jog-Krishna** is wrong; Jog is on the **Sharavati** {2005}
+- **Budha Ghagh-Kanchi** is wrong; Budha Ghagh is on the **Burha**; **Dassam** is on the Kanchi {2021}
+- Match: **Dudhsagar-Mandovi, Duduma-Machkund, Gokak-Ghataprabha, Jog-Sharavati** {2017}
+- Match: **Dudhsagar-Goa, Barkana-Karnataka, Khandadhar-Odisha, Palani-Himachal** {2022}
+- Waterfall in **Goa**: **Dudhsagar** {2014}
+- **Chitrakote** (the "Niagara of India") is on the **Indravati**, in **Bastar** {2016, 2017}
+
+@table
+Waterfall | River | State
+Kunchikal | Varahi | Karnataka
+Jog | Sharavati | Karnataka
+Gokak | Ghataprabha | Karnataka
+Barkana | Sita | Karnataka
+Sivasamudram | Kaveri | Karnataka
+Dudhsagar | Mandovi | Goa
+Duduma | Machkund | Odisha-AP
+Khandadhar | Korapani | Odisha
+Chitrakote | Indravati | Chhattisgarh
+Dhuandhar | Narmada | MP
+Hundru | Subarnarekha | Jharkhand
+Dassam | Kanchi | Jharkhand
+Palani | Local stream | Himachal
+@end
+
+@trap
+- **Palani waterfall** is in **Himachal** (Kullu), not the Palani hills of Tamil Nadu.
+- **Nohkalikai** (Meghalaya) is the tallest single plunge in many sources; pick Kunchikal when it is offered.
+@end
+
+@section 8.2 | Coastal Lagoons and Southern Lakes
+- **Vembanad** lake is in **Kerala** {1997}
+- Largest saline (brackish) lake: **Chilika**; largest **inland** salt lake: **Sambhar** {2021}
+- **Chilika** lies on the **Northern Circars** coast (Odisha) {2008, 2016}
+- Largest lagoon on the east coast: **Chilika** {2021}
+- Lake shared by two states: **Pulicat** (Andhra Pradesh and Tamil Nadu) {2008}
+- **Loktak-Meghalaya** is wrong; Loktak is in **Manipur** {2005}
+- **Kolleru-Andhra Pradesh** is correct {2010, 2012}
+- Match: **Ashtamudi-Kerala, Pulicat-Tamil Nadu, Roopkund-Uttarakhand, Surajkund-Haryana** {2015}
+- Match: **Sala-Arunachal, Badkhal-Haryana, Loktak-Manipur, Kaliveli-Tamil Nadu** {2020}
+
+@section 8.3 | Himalayan and Inland Lakes
+- Largest **freshwater** lake: **Wular** (J&K; Jhelum) {2021}
+- **Anchar** lake is in **Jammu and Kashmir** (Srinagar) {2015}
+- "Mysterious lake" (skeletons): **Roopkund** (Uttarakhand) {2015}
+- **Ghepan** lake is in **Himachal Pradesh** (Lahaul) {2016}
+- **Chapanala** lake is in **Assam** {2014}
+- **Fulhar** lake is in **Uttar Pradesh** (Pilibhit; source of the Gomti) {2009}
+
+@table
+Lake | State / UT
+Wular, Dal, Anchar | Jammu and Kashmir
+Pangong Tso, Tso Moriri | Ladakh
+Roopkund, Nainital | Uttarakhand
+Ghepan, Chandratal | Himachal Pradesh
+Sala (Sela) | Arunachal Pradesh
+Chapanala | Assam
+Loktak | Manipur
+Sambhar, Pushkar | Rajasthan
+Badkhal, Surajkund | Haryana
+Lonar | Maharashtra
+Kolleru, Pulicat | Andhra Pradesh
+Kaliveli | Tamil Nadu
+Vembanad, Ashtamudi | Kerala
+Chilika | Odisha
+Fulhar | Uttar Pradesh
+@end
+
+@section 8.4 | Hot Springs
+- **Gujarat-Narayani** is wrong; **Narayani** is in **Rajasthan**; Gujarat has Tulsishyam and Unai {2021}
+
+@table
+Hot spring | State
+Manikaran, Tattapani | Himachal Pradesh
+Puga, Panamik | Ladakh
+Taptapani, Atri | Odisha
+Tulsishyam, Unai | Gujarat
+Bakreshwar | West Bengal
+Rajgir | Bihar
+Sohna | Haryana
+Narayani | Rajasthan
+@end
+
+@up **Fulhar (Phulhar) Tal** in Pilibhit is UP's only lake asked so far: it is the source of the **Gomti**. UP has Ramsar sites such as **Nawabganj, Sandi, Samaspur, Parvati Arga, Saman, Sarsai Nawar, Sur Sarovar (Keetham)** and **Haiderpur**.
+
+@last
+- **Kunchikal** = highest waterfall (455 m)
+- **Jog** = Sharavati; **Gokak** = Ghataprabha
+- **Dudhsagar** = Mandovi, Goa
+- **Chitrakote** = Indravati, Bastar
+- **Chilika** = largest brackish lagoon, Northern Circars
+- **Sambhar** = largest inland salt lake
+- **Wular** = largest freshwater lake
+- **Loktak** = Manipur; **Pulicat** = AP-TN
+- **Roopkund** = mysterious lake; **Fulhar** = UP (Gomti)
+- **Narayani** hot spring = Rajasthan
+@end

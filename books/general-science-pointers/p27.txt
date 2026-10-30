@@ -1,0 +1,155 @@
+@chapter 27 | Genetic, Deficiency and Other Diseases; Plant Diseases
+@meta Built from 92 UPPSC questions (1991–2024). Focus: haemophilia and colour blindness, deficiency diseases, pollution diseases (Minamata, Itai-itai, blue baby), radioisotopes in medicine, eye and heart terms, crop diseases.
+
+@hot
+- **Radioisotope matching**: **arsenic-74-tumour, cobalt-60-cancer (gamma rays), iodine-131-thyroid, sodium-24-blood flow, phosphorus-32-leukaemia** {2001, 2002, 2003, 2010, 2010, 2012, 2012, 2013, 2016}
+- **Pollution diseases**: **Minamata-mercury, Itai-itai-cadmium, blue baby-nitrate (methaemoglobin), knock-knee-fluoride** {2008, 2021, 2023, 2023, ?, ?, ?}
+- **Goitre** = **iodine** lack; **anaemia** = iron; **khaira** (rice) = zinc; **scurvy** = vitamin C {2005, 2007, 2007, 2011, 2015}
+- **Potassium** regulates the heartbeat; its lack gives **low blood pressure** (per key) {2001, 2002, 2003, 2004, 2008}
+- **Haemophilia** = sex-linked **hereditary** disease; night blindness is not genetic {2015, 2017, ?, ?}
+@end
+
+@section 27.1 | Genetic Disorders
+- Not genetic: **night blindness** {2017}
+- Hereditary: **haemophilia** ("royal disease", sex-linked) {2015, ?, ?}
+- **Bubble baby disease** (SCID): baby kept in a **germ-free plastic bubble** {1997}
+- Wrong pair: **vitamin A-colour blindness** (colour blindness is genetic) {2016}
+- Colour-blind man and normal woman: the trait appears in the **daughters' sons** {2009}
+
+@section 27.2 | Deficiency and Lifestyle Diseases
+- Arthritis (gout): **uric acid** deposits {2013, ?}
+- Epidemic dropsy is from **argemone oil** in mustard oil, not rice husk {1998}
+- Hysteria (per key): **young women** {1991}
+- **Goitre**: lack of **iodine**; iodine is given for goitre {2007, 2007}
+- Polished rice: **beriberi** {2010, 2019, 2020}
+- **BMD** (Bone Mineral Density) test: **osteoporosis** {2014, ?}
+- Not knowing when to stop eating: **bulimia** {2016}
+- **Anosmia**: loss of **smell** {2011}
+- **Sleep apnoea**: breathing stops briefly and repeatedly in sleep {2014}
+- Heartbeat regulated by **potassium** {2004, 2008}
+- Potassium deficiency (per key): **low blood pressure** {2001, 2002, 2003}
+- Albumin in urine: **kidney** failure; prolonged fasting hurts the **kidneys** {1998, ?}
+- Scurvy treated with **gooseberry** (amla) {2011}
+- **Khaira-zinc, anaemia-iron, goitre-iodine, scurvy-vitamin C** {2005}
+- **Marasmus-starvation, kwashiorkor-protein lack, TB-bacteria, hepatitis B-virus** {2010, ?}
+- Iron deficiency: **anaemia** {2015}
+- Heavy drinking: **liver cirrhosis** {2008}
+- **Oral submucous fibrosis**: **gutka** {2014}
+- **Bright's disease**: **kidney** {1991}
+- Not controlled by vaccines: **diabetes** {2005}
+- Diabetes: **pancreas**; tracked by **HbA1c** {2019, 2024, ?}
+- Curry leaf claimed to help **diabetes** {2004}
+- **Cerebral palsy**: **small children** {2014}
+- Alzheimer's: **amyloid precursor protein** {2013}
+- Mad cow disease: **prions** {2009}
+
+@table
+Disease | Cause
+Goitre | Iodine deficiency
+Anaemia | Iron deficiency
+Kwashiorkor | Protein deficiency
+Marasmus | Protein-energy starvation
+Gout | Uric acid
+Diabetes | Insulin lack (pancreas)
+Cirrhosis | Alcohol
+Mad cow disease | Prions
+@end
+
+@section 27.3 | Pollution Diseases
+- **Blue baby syndrome**: **methaemoglobin**, from **nitrate** in water {2021, ?}
+- **Knock-knee**: **fluoride** pollution {2023}
+- **Minamata**: **mercury** in fish and water (Japan, 1953) {2023, ?, ?}
+- **Itai-itai**: **cadmium** {2008}
+
+@flow Metal and chemical diseases
+Mercury | Minamata disease
+Cadmium | Itai-itai ("ouch-ouch")
+Nitrate | Blue baby (methaemoglobinaemia)
+Fluoride | Fluorosis, knock-knee
+Arsenic | Black foot disease, skin lesions
+Lead | Brain damage in children
+@end
+
+@section 27.4 | Radioisotopes and Cancer
+- **As-74-tumour, Co-60-cancer, I-131-thyroid, Na-24-blood disorder** {2001, 2002, 2003}
+- Wrong pair: **gold-198-retinal disorders** {2010}
+- Speed of blood flow: **radio-sodium** {2012}
+- Cobalt-60 therapy: it emits **gamma rays** {2010}
+- Tumour detection: **arsenic-74** {2010, 2013}
+- Leukaemia control: **phosphorus-32** {2012, 2016}
+- **Leukaemia**: abnormal rise in **white blood cells** {2016}
+- Latest cancer therapy: **IMRT** {2017}
+- **Interferon**: against **cancer** (and viruses) {2010}
+
+@section 27.5 | Brain, Eyes and Medical Terms
+- Least harmed by radiation: **brain** {1999, 2011}
+- Brain diseases: **EEG** {1993, ?}
+- **MRI** = Magnetic Resonance Imaging {2008, 2012}
+- **Malaria-blood cells, filaria-lymph nodes, encephalitis-brain, leukaemia-bone marrow** {1998, 2010}
+- **Astigmatism**: eye {2004}
+- Myopic person sees **near** objects clearly {2015}
+- Myopia corrected by a **concave lens** {2003}
+- Long-sightedness: image forms **behind the retina** {2017}
+- Blind spot and yellow spot: **retina** {2008}
+- Light becomes nerve impulses at the **retina** {1997}
+- Cataract: none of the options (it affects the **lens**) {2017}
+- Pupil dilated with **atropine** {2014}
+- Biological resurfacing: more than one joint fits (*) {2014}
+- Cu-T common side effect: **bleeding** {2014}
+- **Emphysema**: **lungs** {2008}
+- Wrong pair: **aspirin-anaesthetic** (it is a painkiller) {2017}
+- **Golden hour**: **heart attack** (and trauma) {2014}
+- **Beta-blocker**: for **heart attack** {2014}
+- Bypass graft vessel: **any of these** {2014}
+- **Cath lab**: **cardiology** {2014}
+- **CPR** = Cardiopulmonary Resuscitation {2024}
+- Capsules: made of **gelatine** or **starch** {2001}
+
+@section 27.6 | Plant Diseases
+- Citrus canker = **bacteria**, red rot = **fungus**, potato black heart = **oxygen lack**; no code fits (*) {2022}
+- **Rice-brown leaf spot, wheat-black rust, sugarcane-red rot, pigeon pea-wilt** {?}
+- Wrong pair: **sugarcane-powdery mildew** {2009}
+- Wrong pair: **rice-green hair** (per key) {2015}
+- Maize chlorosis: **zinc** deficiency (white leaf tips) {2006, ?}
+- **Karnal bunt**: **wheat** {2016}
+- Rice **tungro** virus: **green leafhoppers** {2009}
+- Not true: **false smut in barley** (it is a **rice** disease) {2017}
+- Potato **black heart**: **oxygen deficiency** {2008}
+- Okra **yellow vein mosaic**: spread by **whitefly** {2002, ?}
+- Wrong pair: **paddy-wilt** {2017}
+- **Spongy tissue**: **Alphonso** mango {2002}
+
+@table
+Crop | Disease | Cause
+Wheat | Black/brown rust, Karnal bunt | Fungus
+Rice | Blast, brown spot, false smut | Fungus
+Rice | Tungro | Virus (leafhopper)
+Rice | Khaira | Zinc deficiency
+Sugarcane | Red rot | Fungus
+Potato | Late blight | Phytophthora
+Potato | Black heart | Oxygen lack
+Okra | Yellow vein mosaic | Virus (whitefly)
+Citrus | Canker | Bacteria
+@end
+
+@trap
+- **Minamata = mercury**; **Itai-itai = cadmium**; blue baby = **nitrate**.
+- Cobalt-60 = **gamma** radiotherapy; I-131 = thyroid; P-32 = leukaemia.
+- Cataract hits the **lens**; myopia sees **near** things; hypermetropia image is behind the retina.
+- Khaira = **zinc**; maize white tips = zinc; potato black heart = **oxygen** lack.
+@end
+
+@up UP link: **Ballia** and other eastern UP districts have **arsenic** in groundwater; **Unnao, Sonbhadra** and **Mathura-Agra** report **fluoride**; UP's sugarcane belt fights **red rot** (variety Co 0238 was hit hard), and **SGPGI Lucknow** runs nuclear medicine with I-131.
+
+@last
+- Haemophilia = sex-linked; colour blindness passes to daughters' sons
+- Gout = uric acid; goitre = iodine; khaira = zinc
+- Kwashiorkor = protein; marasmus = starvation; bulimia = overeating
+- Diabetes = pancreas, HbA1c; mad cow = prions
+- Minamata = Hg; Itai-itai = Cd; blue baby = nitrate; knock-knee = fluoride
+- Co-60 = gamma; I-131 = thyroid; P-32 = leukaemia; As-74 = tumour
+- EEG = brain; atropine dilates pupils; retina = blind and yellow spots
+- Golden hour = heart attack; cath lab = cardiology; CPR
+- Karnal bunt = wheat; tungro = leafhopper; red rot = sugarcane
+- Yellow vein mosaic = okra (whitefly); spongy tissue = Alphonso
+@end

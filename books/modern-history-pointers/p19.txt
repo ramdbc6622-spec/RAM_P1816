@@ -1,0 +1,41 @@
+@chapter 19 | Delhi Durbar and Change of Capital
+@meta Built from 4 UPPSC questions (1990–2025). Focus: the 1911 Durbar announcements, Hardinge and the transfer of the capital, the 1912 bomb.
+
+@hot
+- Capital moved from Calcutta to Delhi under **Lord Hardinge**; announced 1911, transferred **1912** (per key) {1990, 2008, 2008}
+- 1911: **partition revoked** and **capital transfer** announced (not the Lucknow Pact) {2025}
+@end
+
+@section 19.1 | The Durbar and the Capital
+- Events of 1911: **partition of Bengal revoked, capital shifted to Delhi** {2025}
+- Capital transfer under **Lord Hardinge** {1990, 2008}
+- Year of transfer: **1912** {2008}
+- Bomb at his state entry into Delhi: **Lord Hardinge** (1912) {2008}
+
+@flow Capital Timeline
+Delhi Durbar of George V, announcement | 12 December 1911
+Delhi becomes the capital | 1912
+Bomb on Hardinge, Chandni Chowk | 23 December 1912
+New Delhi inaugurated | 1931
+@end
+
+@trap
+- "Announced" = 1911; "transferred" = 1912; New Delhi inaugurated = 1931.
+- The **1903** Durbar was Curzon's; the **1911** Durbar was George V's under Hardinge.
+- **Mayo** was killed at **Port Blair** (1872), not Delhi.
+@end
+
+@up UP link: The Lucknow Pact (1916) is **not** a 1911 event; it is the usual distractor in 1911 questions.
+
+@last
+- 1911 Durbar = George V
+- Partition annulled 1911
+- Capital to Delhi = Hardinge
+- Transfer year = 1912 (key)
+- Bomb on Hardinge = 1912
+- New Delhi inaugurated = 1931
+- Curzon = 1903 Durbar
+- Mayo = Port Blair 1872
+- Lucknow Pact = 1916
+- Calcutta capital till 1911
+@end

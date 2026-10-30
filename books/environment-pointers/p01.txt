@@ -1,0 +1,105 @@
+@chapter 1 | Environment, Sustainable Development and Ecology
+@unit UNIT I · ECOLOGY AND ECOSYSTEMS
+@meta Built from 44 UPPSC questions (2001–2025). Focus: sustainable development and Brundtland, Silent Spring, Environment Protection Act 1986, ecosystem facts, ecological succession.
+
+@hot
+- **Sustainable development**: meet present needs without compromising future generations (Brundtland, **Our Common Future**, 1987) {2012, 2019, 2020, 2025}
+- **Ocean** = largest and most stable ecosystem {2003, 2013, 2014, 2018}
+- Ecosystems are **open** systems, not closed {2014, 2015, 2017}
+- **Deforestation** disturbs ecological balance {2013, 2014}
+- **Ecomark** = label for eco-friendly goods {2004, 2012, 2021}
+- Succession: **nudation, migration, ecesis, reaction, stabilisation**; the sequence = **sere** {2016, 2020, 2024}
+@end
+
+@section 1.1 | Environment
+- Environment refers to **all** the listed components {2006}
+- Not a category of environment: **operational environment** {2020}
+- Environmental degradation means **all** the listed harms {2006}
+- Not related to environmental protection (key): **poverty alleviation** {2013}
+- Urbanisation and industrialisation are harmful in **all** listed ways {2002}
+- Mid-1980s debate on development: **politics and development** was not a theme {2020}
+- **Plachimada** (Coca-Cola, groundwater): **Kerala** {2009}
+- **Greenwash**: **false promises** of protecting the environment {2017}
+
+@section 1.2 | Sustainable Development
+- Important for well-being; Brundtland definition (R explains A) {2019}
+- Report that started the debate (1987): **Our Common Future** {2020}
+- Sustainable development (true); Agenda 21 signed in 1995 (false, **1992**) {2025}
+- Order: **Limits to Growth (1972), Brundtland (1987), Montreal Protocol in force (1989), Rio (1992)** {2020}
+- Inter-generational use of **natural resources** {2012}
+- Important for sustainable development: **all** listed {2004}
+- Carrying capacity: waste within absorption capacity (only 2); extraction must stay **below** regeneration {2025}
+- Sustainable agriculture: use land so its **quality stays intact** {2001}
+
+@flow Global environment milestones
+1962 | Silent Spring (Rachel Carson)
+1972 | Limits to Growth; Stockholm; UNEP; 5 June
+1987 | Brundtland: Our Common Future
+1992 | Rio Earth Summit: Agenda 21, UNFCCC, CBD
+2015 | SDGs (Agenda 2030); Paris Agreement
+@end
+
+@section 1.3 | Books, Laws, Labels
+- **Silent Spring** (1962): **Rachel Carson** {2020}
+- **The Population Bomb**: **Paul R. Ehrlich** {2023}
+- **Green Development**: **W.M. Adams** {2011}
+- **Environment (Protection) Act**: **1986** {2022}
+- Ecological balance helped by forest, environment, industrial, education policies (all) {2004}
+- **Ecomark**: **safe goods for the environment** {2004, 2012, 2021}
+
+@table
+Indian law | Year
+Wildlife (Protection) Act | 1972
+Water Act (set up CPCB) | 1974
+Forest (Conservation) Act | 1980 (Van Adhiniyam 2023)
+Air Act | 1981
+Environment (Protection) Act | 1986 (after Bhopal)
+Biological Diversity Act | 2002
+Forest Rights Act | 2006
+National Green Tribunal Act | 2010
+@end
+
+@section 1.4 | Ecology and Ecosystem
+- Ecology: study of **organisms and environment** {2014}
+- True: ecosystem has biotic and abiotic parts; **autotrophs** make food (1 and 2) {2002}
+- Not true: an ecosystem is a **closed system** {2014, 2015}
+- Biosphere is open (true); no new substances can enter (false) {2017}
+- Order: **population, community, ecosystem, landscape** (then biome, biosphere) {2017}
+- True: **producers outnumber primary consumers** {2019}
+- Components not interdependent (false); humans affect environment (true) {2021}
+- Largest ecosystem: **ocean**; most stable: **marine** {2003, 2014, 2013, 2018}
+- Artificial ecosystem: **rice field** {2016}
+- Cycling of elements: **biogeochemical cycles** {2020, 2021}
+
+@section 1.5 | Ecological Balance
+- Does not help balance: **deforestation**; disturbs it {2013, 2014}
+- Not related to balance: **industrial management** {2005}
+- Vegetation is the index of climate; water-loving plants in moist climate (R explains A) {2009}
+
+@section 1.6 | Succession and Niche
+- Phases: **nudation, migration, ecesis, reaction, stabilisation**; from migration if nudation missing {2016, 2024}
+- Whole sequence of communities: **sere** {2020}
+- "Ecological transition": **Bennett** {2020}
+- Niche: tolerance range, resources, role; each species distinct (both) {2022}
+- Not true: species become **fewer** in a niche when resources are enough {2024}
+
+@trap
+- **Agenda 21** = **1992**, not 1995.
+- Ecosystems are **open** for energy.
+- **Sere** = sequence; succession = the process.
+@end
+
+@up UP links: the **Environment Protection Act 1986** is enforced in UP by the **UP Pollution Control Board** (Lucknow); UP's **Ganga** and Yamuna cases at the NGT test these laws.
+
+@last
+- Brundtland **1987**: Our Common Future
+- Rio **1992**: Agenda 21; SDGs **2015**
+- Silent Spring = **Rachel Carson**; Population Bomb = **Ehrlich**
+- EPA **1986**; Ecomark = eco-friendly goods
+- Greenwash = false green claims; Plachimada = Kerala
+- Ocean = largest, most stable ecosystem
+- Ecosystem = open system; rice field = artificial
+- Biogeochemical cycles = element cycling
+- Succession: nudation → migration → ecesis → reaction → stabilisation
+- Sere = whole sequence
+@end

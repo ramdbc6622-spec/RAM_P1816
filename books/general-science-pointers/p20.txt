@@ -1,0 +1,151 @@
+@chapter 20 | Branches of Biology, Evolution and Classification
+@unit UNIT IV · BIOLOGY
+@meta Built from 82 UPPSC questions (1990–2025). Focus: branches and "-cultures", evolution, odd animals (seahorse, bat, echidna, spider), insectivorous plants, edible plant parts, plant pigments.
+
+@hot
+- **Edible parts**: potato = **stem** (tuber), turmeric and ginger = **rhizome** (stem), sweet potato = **root**, clove = **flower bud** {2002, 2003, 2005, 2006, 2010, 2011, 2013, 2015, 2021, 2021, ?}
+- **Nepenthes** = **insectivorous** pitcher plant (Meghalaya); traps insects for **nitrogen** {2011, 2013, 2016, 2017, 2023, ?}
+- **Gerontology** = study of **ageing**; osteology = bones; demography = population {1990, 1994, 2008, 2014, 2017}
+- **Spider is not an insect**; bat is not a bird; seahorse **is** a fish {2008, 2008, 2010, 2011}
+- **Pigments**: apple red = **anthocyanin**; tomato = **lycopene**; papaya = **caricaxanthin**; chilli heat = **capsaicin** {2002, 2008, 2015, 2016, ?}
+@end
+
+@section 20.1 | Branches of Biology
+- Zoology: **living and dead** animals {1995}
+- **Birds-ornithology, inheritance-genetics, environment-ecology, fossils-palaeobiology** {1998}
+- Population study: **demography** {1994, 2017}
+- Wrong pair: **vegetable growing-horticulture** (that is **olericulture**) {2015}
+- Wrong pair: **pisciculture-lac insects** (pisciculture = fish) {2004}
+- **Viticulture**: **grapes** {2003}
+- **Vermiculture**: **earthworms** {2005}
+- Ageing: **gerontology** {2008, 2014}
+- Bones: **osteology** {1990}
+
+@table
+Culture | Rearing / growing of
+Apiculture | Honeybees
+Sericulture | Silkworms
+Lac culture | Lac insects
+Pisciculture | Fish
+Viticulture | Grapes
+Olericulture | Vegetables
+Floriculture | Flowers
+Vermiculture | Earthworms
+@end
+
+@section 20.2 | Origin and Evolution of Life
+- Absent in the early atmosphere: **oxygen** {2016}
+- Oldest organism: **blue-green algae** (cyanobacteria) {2008}
+- **Mutation theory**: **Hugo de Vries** {2005}
+- Dinosaurs: **Mesozoic** reptiles {1998, 2001}
+
+@section 20.3 | Classification and Microbes
+- Order from higher to lower: **kingdom, phylum, class, order** {2024}
+- Bacteria seen with a **compound microscope** {1995}
+- Some bacteria make food, but they lack **chloroplasts** (A true, R false) {2000}
+- Statements about bacteria: **none** correct {1995}
+
+@flow Taxonomic ranks
+Kingdom | Plantae, Animalia
+Phylum / Division | Chordata
+Class | Mammalia
+Order | Primates
+Family, Genus, Species | Hominidae, Homo, sapiens
+@end
+
+@section 20.4 | The Animal World
+- A fish: **seahorse** {2008}
+- Largest toothed whale: **sperm whale** {2015}
+- Dolphins and whales breathe through **blowholes**; earthworms through **skin** (both) {2025}
+- Earthworms are farmers' friends; they have **five pairs** of hearts, not two (only 1) {2025}
+- Not a bird: **bat** (a mammal) {2011}
+- Amphibians tolerate mixed blood; their heart has **three** chambers (A true, R false) {2023}
+- Egg-laying mammal: **echidna** (and platypus) {2022}
+- Smallest ape: **gibbon** {2016}
+- **Nilgai**: key says deer family (it is an **antelope**, Bovidae) {2006}
+- No hooves: **jackal** {2017}
+- **Octopus**: a **mollusc** {2004}
+- Largest invertebrate: **squid** {2004}
+
+@section 20.5 | Insects and Silk
+- Not an insect: **spider** (8 legs) {2008, 2010}
+- White (colourless) blood: **cockroach** {2019}
+- Spider silk: **gossamer** {2017, 2021}
+- Not from insects: **pearl** (from oysters) {2018}
+- Not a beneficial insect: **Helicoverpa armigera** (pod borer) {2023}
+- Only **female** mosquitoes suck blood and have **bigger wings** (2 and 5) {2016}
+
+@section 20.6 | Animals of Special Habitats
+- Desert animals: **xericoles** {2023}
+- Longest without water: **kangaroo rat**; near-solid urine {2018, ?}
+- Snake fangs: modified **maxillary teeth** {2016}
+
+@section 20.7 | Special Plants
+- Wrong pairs: **Nepenthes-parasite**, **Nepenthes-hydrophyte** {2016, 2017}
+- Insectivorous plant: **Nepenthes** {2023}
+- **Nepenthes khasiana**: **Meghalaya** {2011}
+- Insectivorous plants make up for **nitrogen** {2013, ?}
+- **Mycorrhiza**: **fungi and plant roots** {2019}
+- **Leghaemoglobin**: **legume root nodules** {2005}
+
+@section 20.8 | Edible Parts of Plants
+- **Lychee**: a **drupe** (per key) {2010}
+- Turmeric: **stem**, a **rhizome** {2006, 2021}
+- Modified root: **sweet potato** {2005, 2010}
+- A stem: **ginger** {2015}
+- Wrong pair: **potato-root** (it is a stem tuber) {2011, 2013}
+- **Clove**: dried **flower buds** {2002, 2003, 2021, ?}
+- Wrong pair: **saffron-seed** (saffron = stigma) {2001, ?}
+- Garlic smell: a **sulphur compound** (allicin) {2008}
+- Onion tears: **sulfenic acid** (syn-propanethial oxide) {2015}
+- Chilli heat: **capsaicin** {2008, 2016}
+- **Mulberry**: a **sorosis** fruit {2006}
+- Not a stem fibre: **cotton** (a seed hair) {2002}
+- Man-made cereal: **triticale** (wheat x rye) {2017}
+
+@table
+Plant | Edible part
+Potato | Stem tuber
+Ginger, turmeric | Rhizome (stem)
+Onion, garlic | Bulb (leaf bases)
+Carrot, radish, sweet potato | Root
+Clove | Flower bud
+Saffron | Stigma
+Cauliflower | Inflorescence
+@end
+
+@section 20.9 | Ecological Terms and Pigments
+- Tolerate wide temperature ranges: **eurythermal** {2023}
+- Desert roots are long to **seek water**, not because of hot soil (A true, R false) {1998, ?}
+- Desert plants: **succulent** {2013}
+- Water absorbed mostly by **root hairs** {2007}
+- **Hydrophyte**: aquatic plant {1994}
+- Land dwellers: **terrestrial** {2024}
+- Wrong pair: **herbivore-secondary consumer** (it is primary) {2000}
+- Fish survive under ice: **bottom water does not freeze** {2010}
+- Red apple: **anthocyanin**; red tomato: **lycopene** {2002, ?}
+- Yellow papaya: **caricaxanthin** {2015}
+- **Yeast** and **mushroom**: **fungi** {2008, 2013}
+- Cotton is mostly **cellulose** {2009}
+
+@trap
+- Potato = **stem**; sweet potato = **root**; turmeric = rhizome (stem).
+- Spider (arachnid) is not an insect; bat is a mammal; seahorse **is** a fish.
+- Nepenthes = insectivorous, not parasitic or aquatic.
+- Saffron = **stigma**, not seed; clove = flower bud.
+@end
+
+@up UP link: **NBRI Lucknow** keeps a large botanic garden and herbarium; **Nilgai** (blue bull) raids crops across UP; **Bhadohi-Mirzapur** carpets and **Varanasi** silk link to sericulture and wool, and **Malihabad** is famous for mango horticulture.
+
+@last
+- Gerontology = ageing; osteology = bones; viticulture = grapes
+- Blue-green algae = oldest; de Vries = mutation; dinosaurs = Mesozoic
+- Seahorse = fish; bat = mammal; echidna lays eggs
+- Spider not an insect; cockroach = white blood
+- Only female mosquitoes bite
+- Nepenthes = insectivorous (nitrogen); mycorrhiza = fungus + root
+- Potato = stem; sweet potato = root; clove = bud; saffron = stigma
+- Capsaicin = chilli; anthocyanin = apple; lycopene = tomato
+- Triticale = man-made cereal; cotton = cellulose
+- Kangaroo rat = never drinks; desert plants = succulent
+@end

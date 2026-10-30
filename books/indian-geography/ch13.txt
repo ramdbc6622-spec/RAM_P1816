@@ -1,0 +1,231 @@
+@chapter 13 | Irrigation and Canals
+@unit UNIT III · WATER, AGRICULTURE AND LIVESTOCK
+
+@intro
+Only about half of India's cropped area is irrigated, and **groundwater** (tube wells and wells) now supplies more than 60% of it. Canals come second, and **tanks** still matter in the hard-rock south. Irrigation is highest in **Punjab and Haryana** (over 90% of cropped area) and lowest in the hill states and rain-fed plateau. **Uttar Pradesh** has the largest irrigated area of any state, mostly by tube wells. This chapter covers sources of irrigation, regional patterns, the great canals and irrigation concepts. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 13.1 | Sources of Irrigation and Regional Patterns
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Given below are two statements. One is Assertion (A) and the other is Reason (R) :
+Assertion (A) : One of the major sources of irrigation in Peninsular India is a pond.
+Reason (R) : Most of the rivers in the Peninsular region are seasonal.
+Code :
+(a) Both (A) and (R) are correct and (R) explains (A).
+(b) Both (A) and (R) are correct but (R) does not explain (A).
+(c) (A) is correct, but (R) is false.
+(d) (A) is false, but (R) is correct.
+@ans (a)
+@end
+
+In the Peninsula, hard crystalline rock holds little groundwater and makes wells and canals costly, and rivers dry up after the monsoon. Rain is therefore stored in **tanks** (ponds) behind small earthen bunds. Tamil Nadu, Andhra Pradesh, Telangana and Karnataka have thousands of them; Telangana's **Mission Kakatiya** (2015) revived old tanks.
+
+@table
+Source | Share of net irrigated area (approx.) | Leading regions
+Tube wells and other wells | About 64% | UP, Punjab, Haryana, Bihar, Gujarat, Rajasthan
+Canals | About 24% | Punjab, Haryana, UP, Rajasthan (IGNP), Andhra Pradesh
+Tanks | About 3% | Tamil Nadu, Telangana, Andhra Pradesh, Karnataka
+Other sources | About 9% | Lift, springs, small storages
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+In which of the following states, the percentage of total cropped area under irrigation (2011) is the highest?
+(a) Madhya Pradesh
+(b) Maharashtra
+(c) Uttar Pradesh
+(d) Haryana
+@ans (d)
+@end
+
+Land Use Statistics for 2023-24 give the share of gross irrigated area in total cropped area as about **92% in Haryana**, 83% in UP, 60% in Madhya Pradesh and 43% in Maharashtra. **Punjab** (about 98%) is the highest of all states.
+
+@pyq U.P.P.C.S. (Pre) 2006
+In which state of India, the maximum area is irrigated by tubewells?
+(a) Madhya Pradesh
+(b) Bihar
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@one
+In which state is the irrigated area under tube wells the highest?
+@ans Uttar Pradesh
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+The State having the largest area under tubewell and well irrigation in India is
+(a) Uttar Pradesh
+(b) Madhya Pradesh
+(c) Andhra Pradesh
+(d) Punjab
+@ans (a)
+@end
+
+UP link: about **three-quarters** of UP's net irrigated area is watered by **tube wells**, under a fifth by canals and a little by ponds and other sources. The state's flat alluvium, shallow water table and rural electrification (and now solar pumps under **PM-KUSUM**) explain the spread.
+
+@pyq U.P.P.C.S. (Pre) 1995
+During last 25 years, the development of tubewell irrigation has been most spectacular in :
+(a) Ganga-Ghaghra Doab
+(b) Ganga-Yamuna Doab
+(c) Saryupar Plain
+(d) Bundelkhand
+@ans (c)
+@end
+
+UP link: the **Saryupar plain** (north of the Ghaghara-Saryu: Gorakhpur, Basti, Deoria, Maharajganj) had almost no canals, so the growth of tube wells there from the 1970s was the most striking in the state. The Ganga-Yamuna doab already had the Upper and Lower Ganga canals, and Bundelkhand's hard rock limits wells.
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+Life saving or Protective irrigation refers to:
+(a) Constant flow of water
+(b) Irrigation at critical growth stage
+(c) P.W.P. Irrigation
+(d) Alternate wetting and drying
+@ans (c)
+@end
+
+**Protective (life-saving) irrigation** is a single watering given when soil moisture falls close to the **permanent wilting point (PWP)**, the level below which plants wilt beyond recovery. It saves a rain-fed crop in a dry spell rather than raising yields. **Alternate wetting and drying** is a water-saving method for rice.
+
+@trap
+"Highest **percentage** of cropped area irrigated" = **Punjab**, then Haryana. "Largest irrigated **area**" and "largest area under **tube wells**" = **Uttar Pradesh**. Tanks are a **southern** source.
+@end
+
+@section 13.2 | Canals and Irrigation Projects
+
+@pyq U.P.P.S.C. (GIC) 2010
+The Lower Ganga Canal is taken out of the Ganga at
+(a) Haridwar
+(b) Narora
+(c) Bareilly
+(d) Kanpur
+@ans (b)
+@end
+
+@table
+UP canal | Takes off from | Opened | Note
+Upper Ganga Canal | Ganga at Haridwar | 1854 | Built by Proby Cautley; western doab
+Lower Ganga Canal | Ganga at Narora (Bulandshahr) | 1878 | Central and lower doab
+Eastern Yamuna Canal | Yamuna at Tajewala/Hathnikund | 1830 | Saharanpur, Muzaffarnagar, Meerut
+Agra Canal | Yamuna at Okhla | 1874 | Mathura, Agra
+Sharda Canal | Sharda at Banbasa | 1928 | Rohilkhand and Awadh
+Sharda Sahayak | Ghaghara-Sharda link | 1970s-80s | Largest canal system in UP; eastern Awadh
+Saryu Nahar | Ghaghara, Saryu, Rapti link | Completed 2021 | Nine districts of eastern UP
+Betwa Canal | Betwa at Parichha | 1885 | Bundelkhand
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002, 2008; U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following is/are the main objectives of Sharda Tributary Command Development Project ?
+Select the correct answer using the code given below:
+1. To increase agriculture production
+2. To change the format of land use by multiple crop cultivation.
+3. Reforms of land management.
+Code :
+(a) Only 1
+(b) Only 1 & 2
+(c) Only 2 & 3
+(d) All the above
+@ans (d)
+@end
+
+UP link: the **Command Area Development** programme (1974) for the **Sharda Sahayak** project aimed to use the canal water fully through field channels, land levelling, multiple cropping and better land management. The **Saryu Nahar National Project**, opened in December 2021, irrigates Bahraich, Shravasti, Balrampur, Gonda, Siddharthnagar, Basti, Sant Kabir Nagar, Gorakhpur and Maharajganj.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-1 with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Canals) | List-II (Rivers)
+A. Upper Bari Doab Canal | 1. Sutlej
+B. Sirhind Canal | 2. Yamuna
+C. Gurgaon Canal | 3. Sutlej, Ravi, Beas
+D. Indira Gandhi Canal | 4. Ravi
+@endmatch
+Codes : A B C D
+(a) 4 1 3 2
+(b) 3 2 1 4
+(c) 4 1 2 3
+(d) 3 1 2 4
+@ans (c)
+@end
+
+@one U.P. P.C.S. (Pre) 1992
+Rajasthan (Indira) Canal originates from?
+@ans Beas and Satluj
+@end
+
+@one U.P.P.C.S. (Pre) 1999
+Indira Gandhi Canal has its source at :
+@ans Harike Barrage
+@end
+
+@one U.P.P.S.C. (GIC) 2010
+Indira Gandhi Canal receives its water supply from
+@ans Beas, Ravi and Satluj
+@end
+
+The **Indira Gandhi Canal** (Rajasthan Canal) starts at the **Harike barrage**, just below the meeting of the **Satluj and Beas** in Punjab. The Ravi's water reaches it through the Ravi-Beas link. At about 650 km including its feeder, it is India's longest canal and irrigates the north-western Thar (Sri Ganganagar, Hanumangarh, Bikaner, Jaisalmer).
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following river projects utilises the water of the Pong barrage of Beas river?
+(a) Indira Gandhi Canal Project
+(b) Pochampad Project
+(c) Mayurakshi Project
+(d) Nagarjuna Sagar Project
+@ans (a)
+@end
+
+The **Pong dam** (Maharana Pratap Sagar) on the Beas in Kangra, Himachal, stores water that keeps the **Indira Gandhi Canal** running in winter. **Pochampad (Sriram Sagar)** is on the Godavari, **Mayurakshi** in West Bengal, and **Nagarjuna Sagar** on the Krishna.
+
+@table
+Canal | River | State
+Upper Bari Doab | Ravi (at Madhopur) | Punjab
+Sirhind | Satluj (at Ropar) | Punjab
+Bist Doab | Satluj (at Ropar) | Punjab
+Bhakra Main Line | Satluj (at Nangal) | Punjab, Haryana
+Western Yamuna | Yamuna (at Hathnikund) | Haryana
+Gurgaon | Yamuna (at Okhla) | Haryana
+Indira Gandhi | Satluj-Beas (at Harike) | Rajasthan
+Eden, Damodar | Damodar | West Bengal
+Midnapur | Kangsabati | West Bengal
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Which of the following is NOT correctly matched?
+(Canal Project) - (Location)
+(a) Ghatprabha Canal Project - Karnataka
+(b) Ukai Canal Project - Gujarat
+(c) Nira Canal Project - Maharashtra
+(d) Jawai Project - Tamil Nadu
+@ans (d)
+@end
+
+The **Jawai** dam (1957) is on the **Jawai**, a tributary of the Luni, in Pali district, **Rajasthan**. It is the largest dam of western Rajasthan and the area is known for its leopards.
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Mangalam Irrigation Project is located in:
+(a) Andhra Pradesh
+(b) Kerala
+(c) Tamil Nadu
+(d) West Bengal
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+The Garland Canal System in India was proposed by :
+(a) K.L. Rao
+(b) Dineshaw J. Dastur
+(c) Visvesvaraya
+(d) Y.K. Alagh
+@ans (b)
+@end
+
+Captain **Dinshaw J. Dastur** proposed the **Garland Canal** (1977): two linked canals, one along the Himalaya and one around the Peninsula. Dr **K.L. Rao**, then Irrigation Minister, had earlier (1972) proposed a **National Water Grid** linking the Ganga and the Kaveri. Neither was built, but the idea led to the **National Perspective Plan (1980)** and the present river-linking programme (Ken-Betwa, Chapter 6).
+
+@next
+Expect questions on **PM Krishi Sinchayee Yojana** ("Har Khet Ko Pani", "Per Drop More Crop"), **Atal Bhujal Yojana** (groundwater in seven states, including UP) and the **Saryu Nahar** project.
+@end
+
+@heatmap
+
+@pattern
+Two kinds of items dominate: **who irrigates most and how** (tube wells, UP; percentage, Haryana and Punjab; tanks, the south) and **canal-river-state** pairs (Indira Gandhi Canal and its three rivers, Upper Bari Doab, Sirhind, Gurgaon, Lower Ganga Canal at Narora). UPPSC adds its own canal history: Sharda Sahayak and the tube-well boom of the Saryupar plain. The Indira Gandhi Canal alone has drawn four items across thirty years.
+@end

@@ -1,0 +1,386 @@
+@chapter 18 | Silk, Plantation Crops and Spices
+
+@intro
+India is the world's **second largest producer of silk** (after China) and the only country that produces all four commercial silks: **mulberry, tasar, eri and muga**. Its plantation crops (**tea, coffee, rubber**, coconut, cashew and spices) grow on hill slopes and coasts with heavy rain, and each has its own **commodity board**. **Kerala** is the "garden of spices", **Assam** grows half of India's tea, and **Karnataka** leads in coffee and silk. Several leading states have changed in recent years, which affects the keys. This chapter covers silk, tea, coffee, rubber, tobacco, coconut, cashew and spices. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 18.1 | Silk
+
+@table
+Type of silk | Silkworm feeds on | Leading state
+Mulberry (about 70% of output) | Mulberry leaves | Karnataka, then Andhra Pradesh, Tamil Nadu
+Tasar (tropical) | Arjun, asan, sal | Jharkhand, then Chhattisgarh, Odisha
+Eri | Castor leaves | Assam, then Meghalaya
+Muga (golden) | Som and soalu trees | Assam (over 80%), Meghalaya; found only in India
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+More than three-fourths of India's production of raw silk comes from –
+(a) Andhra Pradesh and Karnataka
+(b) Andhra Pradesh and West Bengal
+(c) Karnataka and Assam
+(d) West Bengal and Manipur
+@ans (*)
+@note in 2006, **Karnataka and Andhra Pradesh** together gave over three-quarters of India's raw silk, so (a) was correct. Their combined share has since fallen below that level as Assam, Tamil Nadu and Jharkhand have grown, so the "three-fourths" claim no longer holds.
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+The leading mulberry silk producing Indian State is –
+(a) Andhra Pradesh
+(b) Tamil Nadu
+(c) Karnataka
+(d) West Bengal
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Which of the following pair is correctly matched :
+(a) Eri-silk – Assam
+(b) Muga silk – Arunanchal Pradesh
+(c) Mulberry silk – Jharkhand
+(d) Tasar silk – Karnataka
+@ans (a)
+@end
+
+@one U.P.U.D.A./ L.D.A. (Mains) 2010
+Consider the following statements: 1. Karnataka is the largest producer of raw silk in India. 2. Andhra Pradesh is the largest producer of mulberry silk in India. 3. Jharkhand is the largest producer of Tasar silk in India. 4. Meghalaya is the largest producer of Eri silk in India.
+@ans 1 and 3 only
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Muga is such a variety of silk which is obtained in the world only from India in –
+(a) Assam
+(b) Bihar
+(c) Karnataka
+(d) Tamil Nadu
+@ans (a)
+@end
+
+**Muga**, the golden silk of the Brahmaputra valley, has a **GI tag** (2007) and is produced nowhere else in the world. **Sualkuchi** near Guwahati is its weaving centre.
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which of the following states of India is the largest producer of Silk Fabric ?
+(a) Karnataka
+(b) Tamil Nadu
+(c) Andhra Pradesh
+(d) West Bengal
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following States of India produces maximum silk yarn?
+(a) Tamil Nadu
+(b) Punjab
+(c) Madhya Pradesh
+(d) Karnataka
+@ans (d)
+@end
+
+UP link: **Varanasi** is India's best-known silk-weaving centre. Its **Banarasi saree** (GI, 2009) uses mostly Karnataka mulberry silk. UP produces some tasar in **Sonbhadra and Mirzapur** and mulberry in the Tarai, but it is a far larger **consumer** than producer of raw silk.
+
+@section 18.2 | Tea
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which one of the following states is the largest producer of tea in India ?
+(a) Assam
+(b) Tamil Nadu
+(c) Arunachal Pradesh
+(d) West Bengal
+@ans (a)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+In an area with an annual rainfall of more than 200 cms and sloping hills which crop will be ideal?
+(a) Jute
+(b) Cotton
+(c) Tea
+(d) Maize
+@ans (c)
+@end
+
+**Tea** needs warm, humid weather, **150 to 300 cm** of well-spread rain, and **sloping**, well-drained, **acidic** soil so that water does not stand at the roots. **Assam** (Brahmaputra and Barak valleys) grows about half of India's tea, followed by **West Bengal** (Darjeeling, Dooars, Terai), **Tamil Nadu** (Nilgiris) and **Kerala**.
+
+@pyq U.P.P.C.S. (Pre) 2008
+In 2007-08 India's place, in terms of production and consumption of tea, was –
+(a) First
+(b) Second
+(c) Third
+(d) Fourth
+@ans (a)
+@note in 2007-08 India was first in both. **China** has since moved ahead in production and consumption; India is now **second** in both and among the top three exporters (with Kenya and China).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Assertion (A) : India is a major tea exporter country.
+Reason (R) : Domestic consumption of tea in India is very poor.
+Select the correct answer from the code given below:
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+India drinks about **four-fifths** of the tea it grows, so domestic consumption is anything but poor. It still exports about 2.5 lakh tonnes a year, mainly orthodox and Darjeeling tea.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+What is Green Gold ?
+(a) Coffee
+(b) Gold
+(c) Paddy
+(d) Tea
+@ans (d)
+@end
+
+@pyq U.P. P.S.C. (GIC) 2017
+Which of the following is a stimulus crop?
+(a) Wheat
+(b) Maize
+(c) Tur
+(d) Tea
+@ans (d)
+@end
+
+**Stimulant (beverage and narcotic) crops** include **tea, coffee, tobacco**, arecanut and the opium poppy. Wheat, maize and tur are food crops.
+
+@section 18.3 | Coffee and Rubber
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P.U.D.A./L.D.A. (Pre) 2006; U.P.P.C.S. (Spl) (Mains) 2004, 2010; U.P.P.C.S. (G.I.C.), 2010
+Which Indian state is the largest producer of Coffee?
+(a) Maharashtra
+(b) Kerala
+(c) Odisha
+(d) Karnataka
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2016
+Which one States of India produces more than 70 percent coffee of the country alone?
+@ans Karnataka
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which one of the following has the largest area under coffee cultivation ?
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Kerala
+(d) Tamil Nadu
+@ans (b)
+@end
+
+**Karnataka** (Kodagu, Chikkamagaluru, Hassan) gives about **70%** of India's coffee, then **Kerala** (Wayanad) and **Tamil Nadu** (Nilgiris, Shevaroys). Coffee came to India with **Baba Budan**, who planted seeds in the **Baba Budan hills** of Chikkamagaluru in the 17th century. India grows both **arabica** and **robusta**, the latter in larger quantity.
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004; U.P.P.S.C. (R.I.) 2014; U.P.P.C.S. (Mains) 2014
+The largest producer of rubber in India is
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Kerala
+(d) Tamil Nadu
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which one of the following is correctly matched?
+(a) Uttar Pradesh – Jute
+(b) Assam – Wheat
+(c) Gujarat – Tea
+(d) Kerala – Rubber
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains), 2017
+Which of the following pair is not correctly matched?
+(Crop/Plantation) - (Largest producer state)
+(a) Jute - West Bengal
+(b) Tea - Assam
+(c) Sugarcane - Uttar Pradesh
+(d) Rubber - Himachal Pradesh
+@ans (d)
+@end
+
+Natural **rubber** needs a hot, humid equatorial climate (over 200 cm rain, 25-35°C). **Kerala** gives about three-quarters of India's output; **Tripura** is now second, followed by Karnataka and Tamil Nadu. India is among the world's top five producers.
+
+@section 18.4 | Plantation Agriculture, Tobacco and Coconut
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+The main crop cultivated in India under plantation agriculture is –
+(a) Tea, Rubber, coconut, coffee
+(b) Tea, Rubber, Sunflower, Soyabean
+(c) Tea, Banana, Grapes, Coconut
+(d) Tea, Rubber, Coconut, Soyabean
+@ans (a)
+@end
+
+**Plantation agriculture** grows a single perennial cash crop on large estates with much capital, hired labour and on-site processing, mostly for market or export. In India it began with British tea estates in Assam (1830s). Soybean and sunflower are seasonal field crops.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following statements and select the correct answer from the given codes –
+1. Tea is the main crop of Assam
+2. Coffee is the main crop of Tamil Nadu
+3. Tobacco is cultivated on a large scale in Andhra Pradesh.
+4. Jute is the main crop of Chhattisgarh
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 1 and 4
+(d) 2 and 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+In India, more than one-third production of tobacco comes from –
+(a) Andhra Pradesh
+(b) Gujarat
+(c) Karnataka
+(d) Uttar Pradesh
+@ans (a)
+@note **Andhra Pradesh** (Guntur, Prakasam: Virginia flue-cured tobacco) gave over a third of output when the question was set. In recent years **Gujarat** (Kheda, Anand: bidi tobacco) has produced the most, with Andhra Pradesh second.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which state is the largest producer of 'Tobacco' in India?
+(a) Karnataka
+(b) Maharashtra
+(c) Uttar Pradesh
+(d) Tamil Nadu
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of the following state of India has the largest area (2010) under tobacco cultivation?
+(a) Uttar Pradesh
+(b) Karnataka
+(c) Andhra Pradesh
+(d) Gujarat
+@ans (c)
+@note the area figures for 2010 put **Andhra Pradesh** first. In 2024-25 **Gujarat** had the largest tobacco area, so the present answer is (d).
+@end
+
+UP link: UP grows **chewing and hookah tobacco** in **Farrukhabad, Mainpuri, Etah and Bahraich**. Among the four options of the 2007 question it is the largest producer, though Gujarat and Andhra Pradesh lead the country.
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014; U.P.P.C.S. (Mains) 2006
+The largest Coconut producing state in India is :
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Kerala
+(d) Tamil Nadu
+@ans (c)
+@note **Kerala** (whose name is linked with *kera*, the coconut palm) led when the questions were set and up to 2022-23. In **2023-24 Karnataka** became the largest producer, with Kerala and Tamil Nadu next. The source book now gives (b).
+@end
+
+@section 18.5 | Spices, Cashew and Commodity Boards
+
+@pyq U.P.P.S.C. (GIC) 2010
+Among the following spices, India is a leading producer of –
+1. Black-Pepper
+2. Cardamom
+3. Cloves
+4. Ginger
+Select the correct answer from the following code :
+(a) 1 and 3
+(b) 2 and 3
+(c) 3 and 4
+(d) 1,2 and 4
+@ans (*)
+@note India leads the world in **ginger** (and in turmeric and chilli). In 2010 it was among the leaders in **black pepper**, but **Vietnam** now produces far more. **Guatemala** leads in cardamom and **Indonesia** in cloves. Only "1 and 4" would be fully correct, and that code is not offered.
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which of the following states is not known for the production of cardamom?
+(a) Kerala
+(b) Karnataka
+(c) Tamil Nadu
+(d) Odisha
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011; U.P.R.O./A.R.O. (Mains) 2013; U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+The state known as 'garden of spices' is –
+(a) Karnataka
+(b) Kerala
+(c) Maharashtra
+(d) Tamil Nadu
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following States is the largest producer of cardamom and pepper in India?
+(a) Tamil Nadu
+(b) Goa
+(c) Kerala
+(d) Maharashtra
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The biggest producer of spices in India is
+(a) Gujarat
+(b) Kerala
+(c) Madhya Pradesh
+(d) Punjab
+@ans (c)
+@end
+
+**Kerala** is the "garden of spices" by variety (pepper, cardamom, ginger, nutmeg, clove) and leads in **small cardamom**. By total **quantity**, **Madhya Pradesh** is the largest spice producer (garlic, coriander, chilli), followed by Gujarat and Andhra Pradesh. **Karnataka** has recently overtaken Kerala in **black pepper**. Large cardamom comes from **Sikkim**.
+
+@pyq U.P.P.C.S. (Mains) 2007
+Farming of cloves is done in –
+(a) Kerala
+(b) Karnataka
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (*)
+@note cloves are grown in **Tamil Nadu** (Kanyakumari, the Nilgiris), **Kerala** and **Karnataka**, so three options are correct.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following is a major producer of cashew nut?
+(a) Goa
+(b) Maharashtra
+(c) Kerala
+(d) Karnataka
+@ans (b)
+@end
+
+**Maharashtra** (Ratnagiri, Sindhudurg) is the largest cashew producer, followed by **Andhra Pradesh** and **Odisha**. **Kerala** (Kollam) is the largest **processing** centre. Cashew came to India with the Portuguese in the 16th century.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which one of the following (Boards in India - Headquarter) is not correctly matched?
+(a) Spices Board - Kochi
+(b) Coffee Board - Hyderabad
+(c) Tea Board - Kolkata
+(d) Rubber Board - Kottayam
+@ans (b)
+@end
+
+@table
+Board or body | Headquarters
+Tea Board | Kolkata
+Coffee Board | Bengaluru
+Rubber Board | Kottayam
+Spices Board | Kochi
+Coconut Development Board | Kochi
+Central Silk Board | Bengaluru
+National Horticulture Board (1984) | Gurugram
+Tobacco Board | Guntur
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+National Horticulture Board was established in the year
+(a) 1976
+(b) 1987
+(c) 1984
+(d) 2002
+@ans (c)
+@end
+
+@trap
+In this chapter, check the year before the state. The leaders of **coconut** (Kerala, now Karnataka), **tobacco** (Andhra Pradesh, now Gujarat), **pepper** (Kerala, now Karnataka) and **tea in the world** (India, now China) have all changed. **Coffee** (Karnataka), **rubber** (Kerala), **tea in India** (Assam), **mulberry silk** (Karnataka) and **muga** (Assam) have not.
+@end
+
+@heatmap
+
+@pattern
+Plantation and silk items are "leading state" questions, so the data year matters more here than anywhere else in the book. Eight items have a key that is correct for the exam year but not today; each carries a note. Fixed answers worth memorising: coffee in Karnataka (about 70%), rubber in Kerala, tea in Assam, mulberry silk in Karnataka, tasar in Jharkhand, eri and muga in Assam, and the board headquarters. UP's links are Banarasi silk weaving and chewing tobacco.
+@end

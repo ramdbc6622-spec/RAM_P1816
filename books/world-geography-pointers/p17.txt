@@ -1,0 +1,123 @@
+@chapter 17 | World Agriculture and Livestock
+@meta Built from 65 UPPSC questions (1990–2023). Focus: leading producers of crops, crop-region matching, plantation crops, shifting cultivation names, milk.
+
+@hot
+- **India** = top **milk** producer {2003, 2008, 2010, 2011, 2012}
+- **Brazil** = top **coffee** producer; **Vietnam** second (and second exporter); estates called **fazendas** {2009, 2012, 2013, 2016, 2017}
+- **Thailand** = top **natural rubber** producer (about one-third) {2001, 2005, 2006, 2010}
+- **Brazil** = top **sugarcane**; India second; **Cuba** = "Sugar Bowl" {2008, 2013, 2015, 2016}
+- **China** = top tea exporter (by value) {2016, 2017}
+@end
+
+@section 17.1 | Cereals
+- Leading producer of both wheat and rice: none now (India leads rice, China wheat) (*) {2004, 2006}
+- India in rice: **first** (2023, 2024); second earlier {2013}
+- Largest rice area: **India** {2016}
+- Wheat, descending: **China, India, Russia, USA** {2008}
+- Highest rice yield (of options): **China** {2015}
+- Hybrid rice most popular in **China** {2013}
+- World rice gene bank: **Philippines** (IRRI) {2015}
+- Rice two-thirds of exports: none (Thailand nearest; India now top exporter) (*) {2010, 2013}
+- Second in corn: **China** (USA first) {2013}
+- Maize as staple: **Middle Africa** {2007}
+
+@section 17.2 | Sugar, Fibres, Plantations
+- Largest sugarcane producer: **Brazil**; second: **India** {2008, 2016}
+- Top beet producers: Russia and France (later data reshuffle, *) {2010}
+- Sugar from beet only: **Ukraine** {2013}
+- Exports most of its sugar: **Mauritius** {2011}
+- "Sugar Bowl": **Cuba** {2013, 2015}
+- Highest cotton yield (2014): **Australia**; of options: **China** {2015, 2013}
+- Largest coconut producer: **Indonesia** {2008}
+- Largest rubber producer: **Thailand**; top two: **Thailand and Indonesia**; one-third from **Thailand** {2001, 2006, 2005, 2010}
+- Top coffee producers: **Brazil and Vietnam**; top: **Brazil** {2009, 2012, 2013}
+- Second coffee exporter: **Vietnam** {2016}
+- Brazil's coffee estates: **fazendas** {2017}
+- US coffee state: **Hawaii** {2015}
+- Largest tea exporter: **China** {2016, 2017}
+- Not a cocoa producer: **Latvia** {2021}
+- Wrong: **coffee-Uzbekistan** {2023}
+- Not correct: sugarcane is Malaysia's main plantation crop (it is **rubber, oil palm**) {2008}
+
+@section 17.3 | Crop Regions
+- **Coffee-Sao Paulo, jute-Ganges delta, rice-Yangtze, wheat-Prairies** {2003}
+- **Coffee-Sao Paulo, rice-Yangtze, wheat-Huang He, tea-Kandy** {2010}
+- **Cocoa-Ghana, coffee-Ivory Coast, tea-Kenya, sugarcane-South Africa** {2013}
+- **Rubber-Malaysia, coffee-Colombia, olive-Italy, sugarcane-Mauritius** {2010, 2013}
+- **China-iron ore, India-milk, Saudi Arabia-petroleum, Thailand-rubber** {2000}
+- **Chad-petroleum, Niger-uranium, Rwanda-coffee, Benin-cotton** {2017}
+- Producer statements: now China tobacco and Brazil soybean true (*) {2000}
+- Coconut and sugarcane in the Philippines: **Spanish and Americans** {2023}
+- Peanuts main crop of **Gambia** {2012, 2013}
+- Groundnut native to **Brazil** {2010}
+
+@table
+Crop | Leader
+Rice / Wheat | India / China
+Maize / Soybean | USA / Brazil
+Sugarcane / Coffee | Brazil
+Tea | China
+Cocoa | Cote d'Ivoire
+Rubber | Thailand
+Coconut | Indonesia
+Milk | India
+@end
+
+@section 17.4 | Fruits and Vines
+- India's rank in fruit: **second** {2016}
+- Not tropical: **apple** {1990}
+- Sacramento-San Joaquin valley: **California** {1998}
+- Commercial viticulture is Mediterranean; 85% of grapes go to wine (R explains A) {2005}
+- Citrus well developed in **Mediterranean regions** {2020}
+
+@section 17.5 | Farming Systems
+- Plantations clustered on coasts; Amazon lacks workers (2 and 3) {1998}
+- Plantation crops: definitions differ (*) {2004}
+- Crops between tree rows: **alley cropping** {2007}
+- Monoculture: **commercial grain farming** {2010}
+- Not shifting cultivation: **fazenda** {2006, 2010}
+- **Jhum-SE Asia, Milpa-Mexico** correct; Ladang is not Sri Lanka (1 and 2) {2023}
+- Blue-green algae biofertiliser: **rice** {2010}
+- Not in tea: **morphine** {2010}
+- First HYV seeds: **Mexico** (Borlaug, wheat) {2008}
+- WTO Green Box: **research and plant protection** (1 and 4) {2009}
+
+@flow Shifting cultivation names
+Jhum | NE India
+Milpa | Mexico, Central America
+Ladang | Indonesia, Malaysia
+Chena | Sri Lanka
+Roca / Conuco | Brazil / Venezuela
+Taungya | Myanmar
+Masole | Congo
+@end
+
+@section 17.6 | Narcotics and Livestock
+- Heroin from **opium** {2007}
+- Golden Crescent: **Afghanistan, Iran, Pakistan** {2007}
+- Shahtoosh: **chiru** (Tibetan antelope) {2006}
+- Hurt beef's image: **mad cow disease** {2005}
+- Largest milk producer: **India** {2003, 2008, 2010, 2012}
+- Milk order: **India, USA, China, Russia** (then) {2011}
+- Highest milk per cow (of options): **Denmark** {2018}
+
+@trap
+- **Fazenda** = coffee estate, not shifting cultivation; **Chena** = Sri Lanka.
+- Tea exports: China by **value**, Kenya by **volume**.
+- No one country now leads in both rice and wheat.
+@end
+
+@up UP is India's top producer of **milk, wheat and sugarcane**; India itself leads the world in milk. Coffee and rubber are absent in UP, which grows mango, guava and potato.
+
+@last
+- India = milk, rice (now), second in fruit
+- China = wheat, tea export, hybrid rice
+- Brazil = sugarcane, coffee (fazendas); Vietnam second
+- Thailand = rubber; Indonesia = coconut
+- Cuba = Sugar Bowl; Ukraine = beet sugar
+- IRRI gene bank = Philippines; HYV = Mexico
+- Gambia = peanuts; groundnut native to Brazil
+- Milpa = Mexico; Ladang = Indonesia; Chena = Sri Lanka
+- Golden Crescent = Afghanistan, Iran, Pakistan
+- Shahtoosh = chiru
+@end

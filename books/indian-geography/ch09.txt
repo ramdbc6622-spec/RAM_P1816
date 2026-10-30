@@ -1,0 +1,359 @@
+@chapter 9 | Climate and the Monsoon
+
+@intro
+India has a **tropical monsoon climate**: winds reverse with the seasons, and most rain falls in four months. The **south-west monsoon** (June to September) gives about **75%** of the annual rain; the long-period average for the country is about **87 cm** for the season and about 116 cm for the year. In winter the winds blow off the land from the north-east and are mostly dry, except on the **Coromandel coast** (north-east monsoon) and in the north-west (**western disturbances**). The **Himalaya** shapes all of this: it shuts out cold Central Asian air and forces the monsoon to drop its rain over the subcontinent. This chapter covers the monsoon mechanism, its arrival and branches, regional rainfall, winter rain, local storms and seasons. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 9.1 | India as a Monsoon Land and the Role of the Himalaya
+
+@pyq U.P.P.C.S. (Pre) 1996, 1998; U.P. Lower Sub. (Pre) 1998
+Assertion(A) : India is a Monsoonal Country.
+Reason (R) : The high Himalayas impart it climatic distinctiveness.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+The Himalaya acts as a **climatic divide**. It blocks the cold, dry winds of Central Asia, so north India is warmer in winter than other places at the same latitude. It also traps the monsoon winds, which then rise and rain over the plains and the hills instead of crossing into Tibet. Without the range, north India would be a cold desert.
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): In the Himalayan mountains different types of vegetation are found.
+Reason (R) : In Himalayas, there are variations in climate with change in altitude.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : The northern slopes of the Himalayas have a thicker vegetation cover compared to the southern slopes.
+Reason (R) : Southern slopes of Himalays receive more rainfall than the northern slopes.
+Select the correct answer using the code given below :
+Code :
+(a) (A) is false but (R) is true.
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true but (R) is false.
+@ans (a)
+@end
+
+The **southern slopes** face the monsoon and the sun, so they are wetter, warmer and more densely forested. The northern slopes lie in the rain shadow and are colder and drier. Moving up any slope, temperature falls by about **6.5°C per 1,000 m**, which gives belts of tropical, temperate, alpine and tundra-like vegetation (Chapter 12).
+
+@pyq U.P.P.C.S. (Pre) 2022
+Two statements are given below, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Agra and Darjeeling lie nearly on the same latitude; yet in January, the temperature of Agra is 16°C and that of Darjeeling is 4°C.
+Reason (R): Temperature decreases with altitude, and due to thin air, mountainous regions are colder than the plains.
+Select the correct answer using the code given below –
+(a) (A) is true, but (R) is false
+(b) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(c) (A) is false, but (R) is true
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+@ans (b)
+@end
+
+Agra (about 27°10' N, 170 m) and Darjeeling (about 27°03' N, 2,040 m) share a latitude but differ by nearly 1,900 m in height. At the normal lapse rate that difference alone accounts for a fall of about 12°C, which matches the gap in the question.
+
+@section 9.2 | Arrival, Direction and Branches of the Monsoon
+
+@pyq U.P.P.C.S. (Pre) 2006
+In which of the following States does the Monsoon arrive first?
+(a) Assam
+(b) West Bengal
+(c) Maharashtra
+(d) Kerala
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Mansoon originates from which of the following winds in India?
+(a) South-West winds
+(b) South-East winds
+(c) North-East winds
+(d) North-West winds
+@ans (a)
+@end
+
+The south-east **trade winds** of the southern hemisphere cross the Equator, are turned to the right by the Coriolis force and reach India as **south-west winds**. They are drawn by the low pressure over north-west India and the northward shift of the **ITCZ**, helped by the **tropical easterly jet** and the shift of the subtropical westerly jet. The monsoon normally sets in over **Kerala on 1 June** (2025: 24 May, the earliest since 2009) and covers the whole country by **8 July**. It withdraws from the north-west from about 17 September.
+
+@table
+Branch | Path | Effect
+Arabian Sea branch | Strikes the Western Ghats | Heavy rain on the windward side (Konkan, Malabar); rain shadow on the Deccan
+Arabian Sea branch (north) | Gujarat, Rajasthan along the Aravalli | Little rain: the Aravalli lies parallel to the wind
+Bay of Bengal branch | North-east hills (Garo, Khasi) | World's heaviest rain at Mawsynram and Cherrapunji
+Bay of Bengal branch (west) | Deflected west by the Himalaya along the Ganga plain | Rain falls from east (heavy) to west (lighter)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Given below are two statements, one is labelled as Assertion (A) and other is Reason (R).
+Assertion (A) – The Tamil Nadu coast remains dry during South-West monsoon season.
+Reason (R) – The Tamil Nadu coast is situated parallel to the Bay of Bengal branch of South-West monsoon and it lies in the rain shadow area of the Arabian Sea branch of the South-West monsoon during monsoon season.
+Select the correct answer using the code given below :
+Code :
+(a) (A) is false but (R) is true
+(b) (A) is true but (R) is false
+(c) Both (A) and (R) is true but (R) is not correct explanation of (A)
+(d) Both (A) and (R) are true and (R) is correct explanation of (A)
+@ans (d)
+@end
+
+@trap
+"Monsoon arrives first" means **Kerala** on the mainland. The first Indian territory to receive it is the **Andaman and Nicobar Islands** (about 20 May). The Tamil Nadu coast is the odd one out: dry in June-September, wet in October-December.
+@end
+
+@section 9.3 | Rainfall: Highest, Lowest and Regional Patterns
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which amongst the following States gets the highest average annual rainfall?
+(a) Arunachal Pradesh
+(b) Sikkim
+(c) Kerala
+(d) Jammu and Kashmir
+@ans (b)
+@note in the IMD figures for 2024 Sikkim (about 2,799 mm) is just ahead of Kerala (about 2,795 mm), with Arunachal Pradesh at about 2,193 mm. The margin is small and changes from year to year; **Meghalaya** and **Goa** usually have the highest state averages.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Which of the following places experience a humid climate?
+1. Ahmedabad
+2. Kochi
+3. Ludhiana
+4. Tejpur
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 2 and 4 only
+@ans (d)
+@end
+
+**Kochi** (about 3,000 mm) on the Malabar coast and **Tezpur** (about 1,800 mm) in the Brahmaputra valley are humid. **Ahmedabad** (about 800 mm) is semi-arid, and **Ludhiana** (about 700 mm) is sub-humid to semi-arid.
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P.P.C.S. (Pre) 2008, 2009
+Among the following places which one gets the least rainfall?
+(a) Leh
+(b) Bikaner
+(c) Jaisalmer
+(d) Cherrapunji
+@ans (a)
+@end
+
+**Leh** lies in the rain shadow of the Himalaya and the Zaskar range and gets less than 10 cm a year, mostly as snow. **Jaisalmer** (about 20 cm) is the driest place in the Thar, and **Bikaner** gets about 30 cm. **Mawsynram** (over 11,000 mm) and **Cherrapunji (Sohra)** in Meghalaya are the wettest places in the world.
+
+@table
+Annual rainfall | Regions
+Over 200 cm | West coast and Western Ghats, Meghalaya and the north-east, Andaman and Nicobar, sub-Himalayan West Bengal
+100 to 200 cm | Eastern India, east of the Peninsula, the middle Ganga plain
+50 to 100 cm | Western UP, Punjab, Haryana, interior Deccan, Gujarat, east Rajasthan
+Below 50 cm | West Rajasthan, Kutch, Ladakh, rain-shadow Deccan pockets
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Which of the following areas has an average of 200mm rainfall in India?
+(a) Kerala, Tamil Nadu, Karnataka
+(b) Jammu and Kashmir
+(c) West Bengal, Orissa, Bihar
+(d) Assam, Manipur, Tripura
+@ans (*)
+@note no state group in the options averages 200 mm (20 cm) a year. Only small parts of Ladakh and western Rajasthan are that dry. The question probably meant 2,000 mm (200 cm), for which (d) fits best.
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+India has an abundant volume of rainfall but is still regarded as a thirsty land. This is due to :
+(a) Rapid run off of water
+(b) Quick evaporation of rainwater
+(c) Concentration of rainfall during a few months only
+(d) All the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following Water Management Strategy in India is cost-effective ?
+(a) Improvement of the flush system
+(b) Treatment and use of wastewater
+(c) Rainwater harvesting
+(d) Recycling and Re-use of Water
+@ans (c)
+@end
+
+**Rainwater harvesting** needs only roof catchments, tanks and recharge pits, and it raises groundwater. **Tamil Nadu** made it compulsory for buildings in 2001. The national **Catch the Rain** campaign (since 2021) and the **Amrit Sarovar** mission promote it.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Consider the following statements and select the correct answer using the codes given below :
+Assertion (A) : Inland waterways are not well developed in India.
+Reason (R) : Most parts of India receive rainfall only for four months in a year.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+Seasonal rain leaves Peninsular rivers with little water for eight months, and Himalayan rivers shift and silt up. That makes year-round navigation hard outside a few stretches (Ganga, Brahmaputra, Kerala backwaters, Goa).
+
+UP link: **National Waterway 1** (Haldia to **Prayagraj**, 1,620 km) runs along the Ganga through UP. Its multimodal terminal at **Varanasi** opened in 2018.
+
+@section 9.4 | Winter Weather: North-East Monsoon and Western Disturbances
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one if labelled as Assertion (A) and the other as Reason (R) :
+Assertion (A) : During the winter season, most part of India is dry.
+Reason (R) : Most parts of the country are under influence of the northeast trade winds during the winter season.
+Select the correct answer using the code given below :
+Code :
+(a) Both (A) and (R) are true and (R) is not the correct explanation of (A).
+(b) (A) is false but (R) is true.
+(c) (A) is true but (R) is false.
+(d) Both (A) and (R) are true but (R) is the correct explanation of (A).
+@ans (a)
+@note the source key is (a). A strong case exists for (d): in winter a high-pressure cell over the north-west sends dry north-east winds off the land, which is why most of India is dry. The key may rest on the fact that the same winds bring rain to the Tamil Nadu coast after crossing the Bay of Bengal.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+The state which receives maximum rainfall due to North-East monsoon is :
+(a) Assam
+(b) West Bengal
+(c) Tamil Nadu
+(d) Odisha
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Winter rainfall in Tamil Nadu is mostly due to –
+(a) Western disturbances
+(b) South-West monsoon
+(c) North-East monsoon
+(d) South-East monsoon
+@ans (c)
+@end
+
+The **north-east monsoon** (October to December) picks up moisture over the **Bay of Bengal** and brings Tamil Nadu nearly half of its annual rain. Cyclones from the Bay add to it.
+
+@pyq U.P.P.C.S. (Pre) 1993
+India's Northern plains get winter rainfall due to –
+(a) Western Disturbance
+(b) Monsoon in Bay of Bengal
+(c) Monsoon in Arabian sea.
+(d) Retreating Monsoon.
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2021
+Which one of the following causes is responsible for rainfall during winters in north-western part of India?
+(a) Retreating Monsoon
+(b) Cyclonic depression
+(c) Western disturbances
+(d) South-West Monsoon
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The winter rains caused by Western disturbances in North Western Plain of India gradually decrease from:
+(a) East to West
+(b) West to East
+(c) North to South
+(d) South to North
+@ans (b)
+@end
+
+**Western disturbances** are low-pressure systems that start over the **Mediterranean** and move east with the **subtropical westerly jet**. They bring winter rain to Punjab, Haryana and western UP and snow to the western Himalaya. Their effect fades **from west to east**. This light winter rain (**mahawat**) is very useful for the **rabi** crops, especially wheat.
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which of the following areas of India receives winter rainfall ?
+(a) North-West
+(b) South-West
+(c) North-East
+(d) South-East
+@ans (a) & (d)
+@end
+
+@one
+Assertion (A): Some rainfall occurs in the northern plains of India in winter. Reason (R): The North-East Monsoon becomes active in winter.
+@ans Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+@end
+
+@trap
+Winter rain in the **north-west** comes from **western disturbances**; in the **south-east** (Tamil Nadu) from the **north-east monsoon**. Never cross the two. The "retreating monsoon" is the same October-December season seen from the south.
+@end
+
+@section 9.5 | Local Storms and Seasons
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Famous Local Storm) | List-II (Place/Area)
+A. Mango shower | 1. Punjab to Bihar
+B. Blossom shower | 2. Kerala
+C. Kal-Baisakhi | 3. Karnataka Coastal Areas
+D. Loo | 4. West Bengal
+@endmatch
+Codes : A B C D
+(a) 3 2 1 4
+(b) 4 1 3 2
+(c) 3 2 4 1
+(d) 1 3 2 4
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following is a local storm of Bengal and Assam, useful for tea and rice cultivation ?
+(a) Karaburan
+(b) Blossom shower
+(c) Norwesters
+(d) Mango shower
+@ans (c)
+@end
+
+@table
+Local wind or storm | Season | Region | Effect
+Loo | May-June afternoons | Punjab to Bihar (north-western and northern plains) | Hot, dry, dusty; heat stroke
+Kal Baisakhi (Norwester) | April-May evenings | West Bengal, Odisha, Assam | Thunder squalls; helps jute, tea and rice; called **Bardoli Chheerha** in Assam
+Mango shower | April-May | Kerala and coastal Karnataka | Ripens mangoes early
+Blossom (cherry) shower | April-May | Kerala and Karnataka coffee areas | Coffee flowers open
+Western disturbance | December-February | North-west India | Winter rain and snow
+@end
+
+UP link: the **loo** and dust storms of May-June sweep the western and central plains of UP. Heat waves over UP (for example 2024, when several districts crossed 47°C) are now a recurring disaster, and UP has a heat action plan.
+
+@pyq U.P.R.O. / A.R.O. (Pre) 2021
+Arrange the following seasons in Chronological order according to Hindu Calendar :
+(i) Autumn
+(ii) Summer
+(iii) Spring
+(iv) Rainy
+Select the correct answer using the code given below:
+(a) (ii), (iv), (iii) and (i)
+(b) (iii), (ii), (iv) and (i)
+(c) (iv), (ii), (i) and (iii)
+(d) (i), (iv), (ii) and (iii)
+@ans (b)
+@end
+
+@table
+Season (ritu) | Hindu months | Approx. Gregorian months
+Vasanta (spring) | Chaitra-Vaishakha | March-May
+Grishma (summer) | Jyeshtha-Ashadha | May-July
+Varsha (rainy) | Shravana-Bhadrapada | July-September
+Sharad (autumn) | Ashvin-Kartika | September-November
+Hemanta (pre-winter) | Margashirsha-Pausha | November-January
+Shishira (winter) | Magha-Phalguna | January-March
+@end
+
+@next
+**El Niño** and the **Indian Ocean Dipole (IOD)** now appear in UPPSC statement questions. A positive IOD (warm western Indian Ocean) tends to strengthen the Indian monsoon; El Niño tends to weaken it.
+@end
+
+@heatmap
+
+@pattern
+Climate is tested through **Assertion-Reason** more than any other chapter of this book: the Himalaya as a climatic barrier, Tamil Nadu's dry south-west monsoon, winter dryness, inland waterways and the Agra-Darjeeling contrast. Two pairs of causes cover most other items: south-west versus north-east monsoon, and western disturbances versus the retreating monsoon. Local storms (2023, 2024) and the Hindu seasons (2021) are newer additions. Two keys carry notes: the 200 mm rainfall item and the winter-dryness Assertion-Reason.
+@end

@@ -1,0 +1,794 @@
+@chapter 13 | Scientists, Inventions and Physics Miscellany
+
+@intro
+This chapter closes the physics and technology unit. The first part covers **inventors and discoverers** (telescope, X-rays, radioactivity, dynamite, penicillin, the revolver), **laws and their authors** (Kepler, Newton, Pascal, Hertz), and **Indian scientists** (C.V. Raman, J.C. Bose, M.N. Saha, Homi Bhabha, Raja Ramanna, U.R. Rao, J.V. Narlikar). The miscellany covers the **Higgs boson**, lasers, nanotechnology, magnetism, liquid crystals, MRI, research laboratories, polar and deep-ocean missions, and odd devices. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 13.1 | Inventions and Discoveries
+
+@pyq U.P.P.C.S. (Mains) 2014
+The machine-Gun was invented by –
+(a) J.L. Baird
+(b) G. Brousa
+(c) Karl Benz
+(d) James Puckle
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+Telescope was invented by :
+(a) Galileo
+(b) Gutenberg
+(c) Edison
+(d) Graham Bell
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Which is the biggest telescope of the world?
+(a) Galileo
+(b) IceCube
+(c) Discovery
+(d) Challenger
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Wilhelm Roentgen invented
+(a) Radio
+(b) X-Ray Machine
+(c) Electric Bulb
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Gas engine was invented by :
+(a) Diesel
+(b) Davy
+(c) Daimler
+(d) Charles
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S (Pre) 2011
+Which one of the following pairs is NOT correctly matched?
+(a) James Watt : Steam Engine
+(b) A.G. Bell : Telephone
+(c) J.L. Baird : Television
+(d) J. Perkins : Penicillin
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1992
+Match the following in the correct order –
+@match
+List-I | List-II
+A. Radium | 1. Alexander Fleming
+B. Penicillin | 2. Madame Curie
+C. X-Ray | 3. Edward Jenner
+D. Measles | 4. W.C. Roentgen
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 2 3 4 1
+(c) 3 4 1 2
+(d) 4 1 2 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Radioactivity was discovered by :
+(a) Rutherford
+(b) Becquerel
+(c) Bohr
+(d) Madame Curie
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Arrange the following in chronological order as per their discovery and select correct answer from the code given below:
+A. Transistor
+B. Diode
+C. SMD (Surface Mounted Device)
+D. Integrated Circuit (IC)
+Code :
+(a) A, B, C, D
+(b) B, A, C, D
+(c) B, A, D, C
+(d) A, C, B, D
+@ans (c)
+@end
+
+Order of electronics: **diode** (vacuum diode, J.A. Fleming, 1904) → **transistor** (Bardeen, Brattain and Shockley, Bell Labs, 1947) → **integrated circuit** (Jack Kilby, 1958) → **surface-mount devices** (1960s-80s).
+
+@pyq U.P.P.C.S. (Mains) 2010
+Match List-I with List-II and select the correct answer using the codes given below :
+@match
+List-I | List-II
+A. Alfred Nobel | 1. Theory of Evolution
+B. Alexander Fleming | 2. Dynamite
+C. Charles Darwin | 3. Penicillin
+D. Madam Curie | 4. Isolation of radium
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 1 4
+(c) 3 2 1 4
+(d) 1 4 3 2
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Match list-I with List- II and select the correct answer using the codes given below the list:
+@match
+List- I | List - II
+A. Revolver | 1. Alfred Nobel
+B. Dynamite | 2. Pascal
+C. Law of Cooling | 3. Colt
+D. Law of pressure | 4. Newton
+@endmatch
+Code : A B C D
+(a) 1 3 2 4
+(b) 1 3 4 2
+(c) 3 1 2 4
+(d) 3 1 4 2
+@ans (d)
+@end
+
+@table
+Invention / discovery | By | Year
+Telescope (astronomical use) | **Galileo** | 1609
+Machine gun (Puckle gun) | **James Puckle** | 1718
+**Steam engine** (improved) | **James Watt** | 1769
+Smallpox vaccine | **Edward Jenner** | 1796
+Revolver | **Samuel Colt** | 1835
+**Telephone** | **A.G. Bell** | 1876
+Petrol (gas) engine and motor car | **Gottlieb Daimler**, **Karl Benz** | 1885-86
+Dynamite | **Alfred Nobel** | 1867
+**X-rays** | **W.C. Roentgen** | 1895 (first Nobel in Physics, 1901)
+**Radioactivity** | **Henri Becquerel** | 1896
+Radium and polonium | **Marie and Pierre Curie** | 1898
+Diesel engine | Rudolf Diesel | 1893-97
+**Television** | **J.L. Baird** | 1926
+**Penicillin** | **Alexander Fleming** | 1928
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The laws of planetary motion were enunciated by
+(a) Newton
+(b) Kepler
+(c) Galileo
+(d) Copernicus
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+The photoelectric effect was discovered by :
+(a) Hertz
+(b) Einstein
+(c) Planck
+(d) Bohr
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 1990, 1993, 2003; U.P. U.D.A./L.D.A. (Pre) 2002
+The National Science Day is observed on February 28 every year to commemorate :
+(a) Raman-effect day
+(b) The launch of the first artificial satellite Aryabhatta
+(c) The successful launch of ASLV
+(d) Homi J. Bhabha’s birthday
+@ans (a)
+@end
+
+
+The **photoelectric effect** was observed by **Heinrich Hertz** (1887); **Einstein** explained it with light quanta (photons) in 1905, which won him the **1921 Nobel Prize** (not relativity). **Kepler**'s three laws: planets move in **ellipses** with the Sun at one focus, sweep equal areas in equal times, and T^{2} ∝ r^{3}. **National Science Day (28 February)** marks C.V. Raman's announcement of the **Raman effect** in 1928.
+
+@section 13.2 | Indian Scientists
+
+@pyq U.P.P.C.S. (Pre) 1991
+Whose birth centenary was celebrated in the year 1988?
+(a) Charles Darwin
+(b) Einstein's theory of relativity
+(c) Mathematician Ramanujan
+(d) C.V. Raman
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Who among the following scientists propounded the New Theory of Relativity?
+(a) J. V. Narlikar
+(b) M. M. Krishnan
+(c) S. Chandrashekhar
+(d) B. D. Nag Choudhary
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Homi Bhabha Award is given for special contribution in the field of –
+(a) Theoretical Physics
+(b) Nuclear Energy
+(c) Laser Physics
+(d) Space Research
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Which one of the following scientists has carried out researches both in the field of biology and physics?
+(a) Jagdish Chandra Bose
+(b) Har Govind Khurana
+(c) C. V. Raman
+(d) Homi J. Bhabha
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2017
+The name of scientist who designed India's first space satellite 'Aryabhatta' and died recently is :
+(a) Prof. U.R. Rao
+(b) Prof. Yashpal
+(c) Prof. C.N. R. Rao
+(d) Dr. A. S. Kiran Kumar
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Padma Bhushan 2025 awardee for Science and Engineering, Vinod Dham is known for his role in the development of:
+(a) The Pentium Chip
+(b) RISC Computing
+(c) ZiLOG Processors
+(d) SPARC Systems
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002; U.P. Lower Sub. (Pre) 2004
+Who is associated with the development of India’s Atomic Bomb :
+(a) A.P.J. Abdul Kalam
+(b) Homi Bhabha
+(c) Raja Ramanna
+(d) Kastoorirangan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Who is not a Nobel Prize winner among the following scientists ?
+(a) Har Govind Khorana
+(b) C.V. Raman
+(c) S. Chandrashekhar
+(d) Jagdish Chandra Bose
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+The principle of Thermal Ionisation is an outstanding contribution of
+(a) H.J. Bhabha
+(b) M.N. Saha
+(c) C.V. Raman
+(d) J.C. Bose
+@ans (b)
+@end
+
+
+@table
+Scientist | Known for
+**C.V. Raman** (1888-1970) | **Raman effect** (scattering of light), **Nobel Physics 1930**, first Asian science laureate; Bharat Ratna 1954
+**Jagadish Chandra Bose** | Radio and microwave research and **plant physiology** (crescograph); physicist and biologist; no Nobel
+**Meghnad Saha** | **Thermal ionisation** equation (stellar spectra)
+**S.N. Bose** | Bose-Einstein statistics; "boson" named after him
+**Homi J. Bhabha** | Father of India's **nuclear programme**; cosmic-ray physics
+**Vikram Sarabhai** | Father of India's **space programme**
+**Raja Ramanna** | Led **Pokhran-I** (1974)
+**A.P.J. Abdul Kalam** | SLV-3 and the missile programme; President 2002-07
+**U.R. Rao** | Designed **Aryabhata**; ISRO chairman; died 2017
+**J.V. Narlikar** | With **Fred Hoyle**, the Hoyle-Narlikar theory of gravity (a "new theory of relativity"); died 2025
+**S. Chandrasekhar** | **Chandrasekhar limit**, Nobel Physics 1983
+**Har Gobind Khorana** | Genetic code, Nobel Medicine 1968
+**Vinod Dham** | "Father of the **Pentium** chip" (Intel); Padma Bhushan 2025
+@end
+
+**Indian-born or Indian Nobel laureates in science**: C.V. Raman (1930), Har Gobind Khorana (1968), S. Chandrasekhar (1983), Venkatraman Ramakrishnan (Chemistry, 2009). Bose and Saha were never awarded one.
+
+
+@one
+Einstein was awarded the Nobel Prize for which of the following theories?
+@ans For the theory of photoelectric effect.
+@end
+
+@one
+India celebrates National Science Day on
+@ans 28 February
+@end
+
+@section 13.3 | Modern Physics and Devices
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Much discussed 'God Particle' is :
+(a) Neutrino
+(b) Leptons
+(c) Higgs boson
+(d) Mesons
+@ans (c)
+@end
+
+
+The **Higgs boson** gives other particles their mass. Peter Higgs predicted it in 1964, and CERN's **Large Hadron Collider** found it on **4 July 2012** (Nobel 2013 to Higgs and Englert). "God particle" is a media nickname. It is a **boson**, named after **S.N. Bose**.
+
+@pyq U.P.P.C.S. (Pre) 2012
+Laser is a device for producing
+(a) Spontaneous radiation
+(b) Dispersed radiation
+(c) Scattered radiation
+(d) Stimulated radiation
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2002
+The laser beam is used for :
+(a) Treatment of cancer
+(b) Treatment of heart
+(c) Treatment of eye
+(d) Treatment of kidney
+@ans (*)
+@note Lasers are used in treating **all four**: cancer (photodynamic therapy, tumour removal), heart (opening blocked arteries), eye (LASIK, retina repair, cataract) and kidney (breaking stones), so with no single answer the source marks it (*).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to the first-man made Ruby Laser, which of the following statement/s is/are correct? (1) Ruby Laser produced pulses of blue light. (2) Ruby Laser produced pulses of red light.
+Select the correct answer using the code given below :
+(a) Neither (1) nor (2)
+(b) Only (2)
+(c) Both (1) and (2)
+(d) Only (1)
+@ans (b)
+@end
+
+
+
+**LASER** = Light Amplification by **Stimulated** Emission of Radiation. Laser light is **monochromatic, coherent and highly directional**. **Theodore Maiman**'s first laser (1960) used a ruby crystal and gave **red** pulses (694 nm).
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which technology of the 21st century can do wonders in device miniaturization ?
+(a) Atomic laser technique
+(b) Nanotechnology
+(c) Gynecology
+(d) Hydroponics
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+'Nano plug' refers to :
+(a) A small bullet
+(b) A small hearing aid
+(c) A small rocket launcher
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Carbon Nanotubes (CNTs) were prepared by –
+(a) Fuller
+(b) Iijima
+(c) Faraday
+(d) Raman
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The ‘Nano hummingbird’ is –
+(a) A new species of hitherto undiscovered hummingbird
+(b) An extremely small electric car that can take 3600 turn.
+(c) A pocket sized unmanned spy plane developed in the U.S.A.
+(d) A new variety of honey bee.
+@ans (c)
+@end
+
+
+**Nanotechnology** works at 1-100 nanometres. **Sumio Iijima** described **carbon nanotubes** (1991); C_{60} **fullerenes** ("buckyballs") were found in 1985. Graphene is a single layer of carbon atoms (2004). A **nano hummingbird** is a tiny US spy drone.
+
+@pyq U.P.P.C.S. (Pre) 2010
+Consider the following statements :
+Assertion (A) : Space-based solar power (SBSP), it is suggested be made a national goal.
+Reason (R) : Supply of SBSP is 99% uninterrupted throughout the year, besides the enormity of energy availability.
+Select the correct answer using the codes given below :
+Code :
+(a) Both A and R are true, and R is the correct explanation of A.
+(b) Both A and R are true, but R is not the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+The World’s most accurate clock that loses just a second every 300 million years uses
+(a) Quartz atoms
+(b) Silicon atoms
+(c) Strontium atoms
+(d) Zinc Atoms
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+A carbon microphone is best used in
+(a) Dynamo
+(b) Telephone
+(c) Transformer
+(d) None of these
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+The Magnetic Resonance Imaging (MRI) is based on the phenomenon of –
+(a) Nuclear magnetic resonance
+(b) Electron spin resonance
+(c) Electron paramagnetic resonance
+(d) Diamagnetism of human tissues
+@ans (a)
+@end
+
+
+The most accurate clocks are **optical lattice clocks** using **strontium** or ytterbium atoms (JILA, USA); the second is still defined by **caesium** atomic clocks. **MRI** uses **nuclear magnetic resonance** of hydrogen nuclei in the body's water, with strong magnets and radio waves, and no X-rays.
+
+@section 13.4 | Magnetism, Cells and Everyday Devices
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following metal is not attracted by a magnet :
+(a) Iron
+(b) Nickel
+(c) Cobalt
+(d) Aluminium
+@ans (d)
+@end
+
+
+@one
+Iron, nickel, and cobalt are ferromagnetic substances and are strongly attracted by a magnet, whereas aluminium is
+@ans a paramagnetic substance, attracted only by a very powerful magnet
+@end
+
+@pyq U.P.P.C.S. (Pre) 1990
+Which of the following is non-electromagnetic element –
+(a) Nickel
+(b) Cobalt
+(c) Chromium
+(d) Copper
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+With which of the following is the tape of the tape recorder coated?
+(a) Copper sulphate
+(b) Ferromagnetic powder
+(c) Zinc oxide
+(d) Mercury
+@ans (b)
+@end
+
+
+**Ferromagnetic**: iron, cobalt, nickel (strongly attracted; used in magnets and recording tapes). **Paramagnetic**: aluminium, platinum, oxygen (very weakly attracted). **Diamagnetic**: copper, gold, bismuth, water (weakly repelled). Chromium is antiferromagnetic.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which of the following pair is used to form the terminals of normal torch cell?
+(a) Zinc Carbon
+(b) Copper Zinc
+(c) Zinc Cadmium
+(d) Carbon Copper
+@ans (a)
+@end
+
+
+A **dry (Leclanché) cell** has a **zinc** case as the negative terminal and a **carbon** rod as the positive terminal, with ammonium chloride paste; it gives 1.5 V.
+
+@pyq U.P.P.C.S. (Pre) 2007
+In automatic wrist watches energy is provided by –
+(a) Manual binding
+(b) Battery
+(c) Liquid crystal
+(d) Different movements of our hand
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2009
+Consider the following statements :
+1. The most important technological application of liquid crystals is in digital display.
+2. Modem is a device that is connected to a computer and to a phone line.
+3. The National Institute of Oceanography is located at Coimbatore.
+4. Virginis-70 is a system for recording video programmes.
+Of these statements :
+(a) Only 1 and 2 are correct
+(b) Only 2 and 3 are correct
+(c) Only 2, 3 and 4 are correct
+(d) Only 3 and 4 are correct
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Liquid crystals are used in :
+(a) Wrist Watches
+(b) Display Devices
+(c) Pocket Calculators
+(d) All of the above
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+Soleckshaw is a –
+(a) Computer Program
+(b) Moon Buggy
+(c) Soft sole of a footwear
+(d) Solar rickshaw
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2016
+Cytotron is the device by which is produced :
+(a) Electrical energy
+(b) Artificial climate
+(c) Sound
+(d) Picture on the screen
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998; U.P.P.C.S. (Mains) 2004
+Water Jet Technology finds application in –
+(a) Irrigation
+(b) Drilling of mines
+(c) Firefighting
+(d) Mob control
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which one of the following devices is used to cool the engine of the vehicles?
+(a) Polygraph
+(b) Turbine
+(c) Radiator
+(d) Quadrant
+@ans (c)
+@end
+
+
+@section 13.5 | Laboratories and Institutions
+
+@pyq U.P. Lower Sub. (Pre) 2009
+National Physical Laboratory is situated in –
+(a) New Delhi
+(b) Chennai
+(c) Bengaluru
+(d) Kolkata
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+National Chemical Laboratory is situated at :
+(a) Lucknow
+(b) New Delhi
+(c) Pune
+(d) Hyderabad
+@ans (c)
+@end
+
+
+@pyq U.P. Lower Sub. (Pre) 2008
+Which one of the following organizations is not related to science and technology?
+(a) DSt
+(b) CSIR
+(c) ICSSR
+(d) DAE
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is not suitably matched ?
+(a) National institute of Oceanography - Goa
+(b) Indian National Centre for Ocean Information Services - Hyderabad
+(c) National Institute of Ocean - Chennai Technology
+(d) Antarctic Study Centre - Bangalore
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+'Indian Institute of Naturopathy and Yogic Science' is located at :
+(a) Pune
+(b) Lucknow
+(c) Hyderabad
+(d) Bengaluru
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List- I with List- II and select the correct answer using the code given below :
+@match
+List-I | List-II
+A. Hi-Tec City | 1. Lucknow
+B. Science City | 2. Thumba
+C. Rocket Launching Centre | 3. Calcutta
+D. Central Drug Research Institute | 4. Hyderabad
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 3 4 1
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@table
+Institution | Place
+**National Physical Laboratory** (CSIR) | **New Delhi**; keeps Indian Standard Time
+**National Chemical Laboratory** | **Pune**
+**Central Drug Research Institute** | **Lucknow**
+**CSIR-National Botanical Research Institute** | **Lucknow**
+**Indian Institute of Toxicology Research** | **Lucknow**
+**CIMAP** (Medicinal and Aromatic Plants) | **Lucknow**
+**Birbal Sahni Institute of Palaeosciences** | **Lucknow**
+**National Institute of Oceanography** | **Goa**
+**INCOIS** (ocean information, tsunami warning) | **Hyderabad**
+**National Institute of Ocean Technology** | **Chennai**
+**NCPOR** (polar and ocean research) | **Goa**
+**Indian Institute of Naturopathy and Yogic Science** (Jindal) | **Bengaluru**
+@end
+
+@up UP link: **Lucknow** is a science hub: **CDRI** (drugs), **NBRI** (botany), **CIMAP** (aromatic plants), **IITR** (toxicology) and the **Birbal Sahni Institute**. **Prayagraj** has the Harish-Chandra Research Institute and **Kanpur** has IIT Kanpur.
+
+@pyq U.P.P.C.S. (Pre) 2011
+Who is the author of 'Nuclear Reactor Time Bomb' :
+(a) C.C. Park
+(b) E. P. Odum
+(c) S.. Polasky
+(d) Takashi Hirose
+@ans (d)
+@end
+
+
+@section 13.6 | Polar and Ocean Missions
+
+@pyq U.P.P.C.S. (Mains) 2006
+First Indian Station set up for Antarctic research is called :
+(a) Dakshin Gangotri
+(b) Dakshini Yamunotri
+(c) Antarctica
+(d) Godavari
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009; U.P.P.S.C. (GIC) 2010
+The recent research station set up in the Antarctica is called :
+(a) Bharti
+(b) Dakshini Gangotri
+(c) Maitri
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+India’s first manned deep ocean mission is named:
+(a) Vikramaditya
+(b) Samudrayaan
+(c) Varunayaan
+(d) DIVE India
+@ans (b)
+@end
+
+
+India's Antarctic stations: **Dakshin Gangotri** (1983, the first, now a supply base), **Maitri** (1989) and **Bharati** (2012); **Himadri** (2008) is in the Arctic (Svalbard). **Samudrayaan**, under the **Deep Ocean Mission**, will take three people to **6,000 m** in the submersible **Matsya-6000**.
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Which of the following is not correctly matched
+(a) Isobar - Air Pressure
+(b) Isoheight - Height
+(c) Isohaline - Snowfall
+(d) Isobath - Depth
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which one of the following is correctly matched?
+(a) Ecocline – Biodiversity
+(b) Pycnocline – Sea water density
+(c) Thermocline – Air temperature
+(d) Halocline – Sea water temperature
+@ans (b)
+@end
+
+@one
+Which of the following indicates the salinity gradient of water?
+@ans Halocline
+@end
+
+
+@table
+Line or layer | Joins / marks
+**Isobar** | Equal **air pressure**
+Isotherm | Equal temperature
+Isohyet | Equal rainfall
+Isohel | Equal sunshine
+**Isohaline** | Equal **salinity**
+**Isobath** | Equal **depth** of water
+Isohypse / contour | Equal height
+**Thermocline** | Sharp **temperature** change with depth in the sea
+**Halocline** | Sharp **salinity** change with depth
+**Pycnocline** | Sharp **density** change with depth
+**Ecocline** | Gradual change in **species** across an environmental gradient
+@end
+
+@section 13.7 | Technology and Society
+
+@pyq U.P.P.C.S. (Pre) 1997; U.P. Lower Sub. (Pre) 2004
+Match List-I with List-II and select the correct answer from the code given below :
+@match
+List-I | List-II
+A. Dry Ice | 1. Treatment of Cancer
+B. Gene therapy | 2. Freezing living bodies to be revived later
+C. Cryonics | 3. Solid carbon dioxide
+D. Cobalt-60 | 4. Treatment of blood diseases.
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 2 1
+(d) 2 1 4 3
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+What are the unique features of recently launched iPhone 4S? Select the correct answer from the codes given below:
+1. It has 300 hours of standby time.
+2. It has 8 hours of talk time on 3G .
+3. It has a voice recognizing and talking assistant.
+4. It has 640 MB of RAM.
+Codes :
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 2 and 3
+(d) 1, 2, 3 and 4
+@ans (c)
+@end
+
+The **iPhone 4S** (October 2011) introduced the voice assistant **Siri**; it had 512 MB of RAM and 200 hours of standby, so statements 1 and 4 are wrong.
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Mobiles and Automobiles have brought about a revolution in the social life of Indians, especially in the rural, in terms of ?
+1. Mobility of the people
+2. Connectivity of the people
+3. Sensitivity of the people
+Select the correct answer from the code given below :
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1,2 and 3
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2015
+GPS stands for which one of the following ?
+(a) Greenwich Polar Satellite
+(b) Global Police Surveillance
+(c) Global Positioning System
+(d) General Pacific Survey
+@ans (c)
+@end
+
+
+**GPS** (USA) is one of four global navigation systems with Russia's **GLONASS**, Europe's **Galileo** and China's **BeiDou**; India's regional system is **NavIC** (IRNSS).
+
+@trap
+**Becquerel** discovered radioactivity; the **Curies** isolated radium. **Hertz** found the photoelectric effect; **Einstein** won his Nobel for explaining it. **Revolver = Colt, law of cooling = Newton, pressure = Pascal.** **J.C. Bose** worked in both physics and biology but won no Nobel. **Saha = thermal ionisation.** Laser = **stimulated** emission; the first ruby laser was **red**. **Aluminium** is not attracted by an ordinary magnet. **Isohaline = salinity.** **NIO is in Goa**, not Coimbatore.
+@end
+
+@heatmap
+
+@pattern
+Inventor and scientist questions are classic recall, heavily repeated from the 1990s to the 2010s. Recent papers (2023-2024) mix in current names (**Vinod Dham**, Padma Bhushan 2025), missions (**Samudrayaan**) and concept checks (ruby laser colour, ocean layers such as the **pycnocline**).
+@end
+
+@next
+Likely next angles: **Nobel Prizes 2024-2025** in physics and chemistry (machine learning, protein design, quantum circuits), the **National Quantum Mission**, **Samudrayaan** dives, the **Rashtriya Vigyan Puraskar** (new national science awards, 2024), **CERN** (India is an associate member), the **Square Kilometre Array**, and **LIGO-India** (Hingoli, Maharashtra).
+@end

@@ -1,0 +1,74 @@
+@chapter 22 | Mughal Period: Miscellaneous
+@meta Built from 26 UPPSC questions (1992–2025). Focus: English travellers, the order of rulers and battles, revolts against Aurangzeb, women rulers, burial places, monuments and their builders, court terms.
+
+@hot
+- **Traveller-date matching**: **Ralph Fitch 1585-86, Hawkins 1608-11, Roe 1615-19, Manucci 1653-1708** {2016, 2021}
+- **Burial places**: **Babur-Kabul, Humayun-Delhi, Akbar-Sikandra, Jahangir-Lahore, Shah Jahan-Agra, Aurangzeb-Khuldabad** {1992, 2005, 2010, ?}
+- **Monument-builder**: **Babur-Sambhal Jama Masjid, Humayun-Dinpanah, Akbar-Jahangiri Mahal, Jahangir-Itimad-ud-Daula; Alai Darwaza-Alauddin, Buland Darwaza-Akbar, Moti Masjid Agra-Shah Jahan, Moti Masjid Delhi-Aurangzeb** {2006, 2010, 2010, 2010, 2011}
+- **Battle order**: **Khanwa, Chanderi, Daurah, Chausa, Kannauj, Talikota, Samugarh** {2016, 2016, 2025}
+@end
+
+@section 22.1 | Travellers and Rulers
+- **Hawkins-1608-11, Roe-1615-19, Manucci-1653-1708, Ralph Fitch-1585-86** {2016}
+- Order: **Ralph Fitch, Hawkins, Downton, Roe** {2021}
+- Order: **Jahangir, Muhammad Shah, Ahmad Shah Abdali, Bahadur Shah II** {2001, 2002, 2003}
+- True: **Abdali fought Third Panipat; Jahangir loved nature** (1 and 4) {2010}
+- **Third Panipat-1761, Second Tarain-1192, Akbar's death-1605, Aurangzeb's death-1707** {2005}
+
+@section 22.2 | Battles and Revolts
+- **Haldighati-Akbar, Bilgram-Humayun, Khusrau's revolt-Jahangir, Khanwa-Babur** {2012}
+- Wrong pair: **Jahangir-Battle of Balkh** (Balkh = Shah Jahan) {2010}
+- Battles order (1998 item): Tarain, Haldighati, Asirgarh (1601), Third Panipat {1998}
+- Order: **Daurah, Chausa, Kannauj, Samugarh** {2025}
+- Order: **Chanderi, Chausa, Kannauj, Talikota** {2016}
+- Order: **Khanwa, Chausa, Kannauj, Talikota** {2016}
+- **Jat-1669, Satnami-1672, Sikh-1675**; Bundela dated 1554 per key (*) {2023}
+- Women rulers in order: **Padmini, Durgavati, Tarabai, Ahilyabai** {2001, 2002}
+
+@section 22.3 | Tombs and Monuments
+- **Babur-Kabul, Humayun-Delhi, Jahangir-Lahore, Shah Jahan-Agra** {?}
+- **Babur-Kabul, Akbar-Sikandra, Jahangir-Lahore, Shah Jahan-Agra** {2005}
+- **Akbar's tomb**: **Sikandra** (Agra) {1992}
+- Correct: **Delhi-tomb of Abdur Rahim Khan-i-Khanan** {2010}
+- **Babur-Sambhal Jama Masjid, Humayun-Dinpanah, Akbar-Jahangiri Mahal, Jahangir-Itimad-ud-Daula's tomb** {2010, 2011}
+- **Alai Darwaza-Alauddin, Buland Darwaza-Akbar, Moti Masjid (Agra)-Shah Jahan, Moti Masjid (Delhi)-Aurangzeb** {2006, 2010}
+- Order: **Atala Mosque, Sher Shah's tomb, Humayun's tomb, Rabia Daurani's tomb** {2019}
+- **Govind Palace** (Hindu architecture): **Datia** {2005}
+
+@table
+Emperor | Tomb
+Babur | Kabul
+Humayun | Delhi
+Akbar | Sikandra (Agra)
+Jahangir | Shahdara (Lahore)
+Shah Jahan | Taj Mahal (Agra)
+Aurangzeb | Khuldabad (Maharashtra)
+@end
+
+@section 22.4 | Festivals, Learning and Terms
+- **Nauroz** adopted from the **Zoroastrians** (Persians) {2001}
+- Madrasa for Muslim jurisprudence: **Lucknow** (Firangi Mahal) {2016}
+- Wrong pair: **jarib-a type of tax** (it is a measuring chain) {2019}
+- **Muallim**: a ship's **navigator**; no option exact (*) {2014}
+
+@trap
+- Jahangiri Mahal (Agra fort) was built by **Akbar**; Itimad-ud-Daula's tomb by **Nur Jahan**.
+- Kannauj and Bilgram are the **same** battle (1540).
+- Talikota (1565) had no Mughal side but often ends order questions.
+- Jarib = measuring chain; muallim = navigator.
+@end
+
+@up UP link: Babur's **Jama Masjid at Sambhal**, Akbar's **Sikandra** tomb, the **Taj Mahal** and **Itimad-ud-Daula** (Agra) are in UP, and **Firangi Mahal, Lucknow** was the great school of Islamic jurisprudence.
+
+@last
+- Fitch 1585; Hawkins 1608; Roe 1615; Manucci 1653
+- Jahangir, Muhammad Shah, Abdali, Bahadur Shah II
+- Third Panipat 1761; Akbar died 1605; Aurangzeb 1707
+- Jat 1669; Satnami 1672; Sikh 1675
+- Padmini, Durgavati, Tarabai, Ahilyabai
+- Babur Kabul; Humayun Delhi; Akbar Sikandra; Jahangir Lahore
+- Sambhal Jama Masjid = Babur; Dinpanah = Humayun
+- Moti Masjid Agra = Shah Jahan; Delhi = Aurangzeb
+- Nauroz from Zoroastrians; Firangi Mahal = Lucknow
+- Jarib = measuring chain
+@end

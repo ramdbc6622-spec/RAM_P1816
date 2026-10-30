@@ -1,0 +1,154 @@
+@chapter 6 | Drainage I: The Himalayan Rivers
+@unit UNIT II · DRAINAGE, CLIMATE AND NATURAL ENVIRONMENT
+@meta Built from 36 UPPSC questions (1990–2025). Focus: the Ganga system, Satluj, Bundelkhand rivers, Brahmaputra and Indus.
+
+@hot
+- **Satluj** is the most-asked river: rises at **Rakas Tal** (Tibet), enters India at **Shipki La**, cuts across **all Himalayan ranges**, is **trans-Himalayan** and **does not rise in India** {2010, 2012, 2013, 2014, 2020, 2023}
+- **Devprayag** = **Alaknanda + Bhagirathi**; the river is called **Ganga** from here {2002, 2016, 2023, 2024}
+- **Betwa** (Bundelkhand): joins the **Yamuna**; **Rajghat dam** is on it; **Ken-Betwa** (UP-MP) is India's first river link {2006, 2006, 2014, 2015}
+- Himalayan rivers are **perennial** because of **snow and glacier melt**, not the monsoon (Assertion-Reason) {2011, 2025}
+@end
+
+@section 6.1 | Nature of Himalayan Rivers
+- Himalayan rivers are **perennial**: summer **snow-melt** keeps them flowing; the monsoon explains only the rainy-season flood {2011, 2025}
+- **Ganga** is an **antecedent** river: older than the mountains, it kept cutting down as they rose {2013}
+- **Chambal** is a **superimposed** river (also Son, Banas, Subarnarekha) {2007}
+- **Satluj** cuts across **all ranges** of the Himalaya (Zaskar, Greater, Lesser, Shiwalik) {2012, 2014}
+- **Trans-Himalayan** rivers (rise north of the Himalaya): **Satluj**, Indus, Brahmaputra {2020}
+
+@table
+Drainage type | Key idea | Example
+Antecedent | Older than the mountain | Ganga, Indus, Satluj, Brahmaputra
+Consequent | Follows the original slope | Godavari, Krishna, Kaveri
+Subsequent | Along weak rock bands | Strike-valley tributaries
+Superimposed | Let down onto older rocks | Chambal, Son, Banas
+@end
+
+@section 6.2 | The Ganga and its Headwaters
+- Ganga rises as the **Bhagirathi** at **Gaumukh** (Gangotri glacier); called **Ganga** from **Devprayag** {2002, 2016, 2023, 2024}
+- **Badrinath** is on the **Alaknanda**; **Kedarnath** on the **Mandakini** {2002, 2013}
+- **Rudraprayag** = Alaknanda + **Mandakini**; **Karnaprayag** = Alaknanda + **Pindar**; **Tehri** = Bhagirathi + **Bhilangna** {2002, 2024}
+- Adi Shankaracharya's four mathas: **Jyotirmath, Sringeri, Dwarka, Puri**; **Kedarnath is not** one of them {2002}
+- In Bangladesh the Ganga is the **Padma**; the Bhagirathi-Hooghly branch flows past Kolkata {2016}
+- Ganga pollution comes from **sewage and industrial waste** (Kanpur tanneries); "holier = more polluted" is false {2005}
+
+@join Panch Prayag: where the Alaknanda's tributaries join
+trunk: Alaknanda (from Satopanth glacier)
+L|Dhauliganga|Vishnuprayag
+R|Nandakini|Nandprayag
+L|Pindar|Karnaprayag
+R|Mandakini|Rudraprayag
+L|Bhagirathi|Devprayag
+end: = GANGA (from Devprayag)
+@end
+
+@trap
+- **Devprayag** (Bhagirathi) and **Rudraprayag** (Mandakini) are the usual swap. Tehri is **Bhagirathi + Bhilangna**, not an Alaknanda confluence.
+@end
+
+@flow Course of the Ganga, source to sea
+Gaumukh (Gangotri glacier) | Rises as the Bhagirathi, Uttarkashi
+Devprayag | Meets the Alaknanda; called Ganga from here
+Haridwar | Enters the plains
+Kannauj (UP) | Ramganga joins (left bank)
+Prayagraj | Yamuna joins at the Sangam (right bank)
+Kaithi, Ghazipur (UP) | Gomti joins
+Patna region (Bihar) | Son, Gandak and others join
+Farakka | Splits: Bhagirathi-Hooghly flows past Kolkata
+Bangladesh | Called the Padma; meets the Jamuna, then the Meghna
+Bay of Bengal | Ganga-Brahmaputra delta, the world's largest
+@end
+
+@section 6.3 | Tributaries of the Ganga
+- **Gomti** is the only Ganga tributary that **rises in the plains**: Phulhar Tal, **Pilibhit**; flows past Lucknow and Jaunpur {2008}
+- **Yamuna** is **perennial**; it is "dead" below Delhi because water is diverted and sewage added (A true, R false) {2015}
+- **Ramganga** joins the **Ganga** (at Kannauj), **not** the Yamuna {2010}
+- Yamuna's right-bank tributaries, **west to east**: **Chambal, Sindh, Betwa, Ken** {2020}
+- **Son** has the largest catchment among Son, Gandak, Ramganga and Mahananda (about 70,000 sq km) {2017}
+- **Gandak** does **not** flow through UP; it flows through Bihar {2021}
+- **Jonk** belongs to the **Mahanadi** basin, not the Ganga {2021}
+- **Kosi**, the "Sorrow of Bihar", **shifts its course** the most {2013}
+- **Mahatma Gandhi Setu** (Patna-Hajipur) is in **Bihar** {1993}
+- **Moribund delta** = western part of the **Bengal (Ganga-Brahmaputra) delta** {2019}
+- Tributary match: **Ganga-Son, Godavari-Manjira, Krishna-Bhima, Yamuna-Ken** {2003}
+
+@table
+Tributary | Bank | Joins at
+Ramganga | Left | Kannauj (UP)
+Gomti | Left | Kaithi, Ghazipur (UP)
+Ghaghara | Left | Near Chhapra (Bihar)
+Gandak | Left | Sonepur-Hajipur (Bihar)
+Kosi | Left | Kursela (Bihar)
+Yamuna | Right | Prayagraj (Sangam)
+Son | Right | Near Patna
+@end
+
+@join Yamuna's tributaries, west to east (asked 2020)
+trunk: Yamuna (from Yamunotri)
+L|Hindon|Near Noida-Ghaziabad
+R|Chambal|Pachnada, near Etawah
+R|Sindh|Pachnada
+R|Betwa|Hamirpur
+R|Ken|Chilla, Banda
+end: joins the Ganga at Prayagraj
+@end
+
+@up Gomti (Pilibhit to Lucknow to Jaunpur to Kaithi), the Yamuna's Bundelkhand tributaries (Chambal near Etawah, Betwa at **Hamirpur**, Ken at Chilla in **Banda**) and the Kanpur-Prayagraj-Varanasi stretch of the Ganga are UP's most-asked river facts.
+
+@section 6.4 | Ken-Betwa and Bundelkhand
+- **Ken-Betwa Link**: **UP and MP**, MoU **2005**; India's **first** river-interlinking project; foundation stone **25 Dec 2024** {2006}
+- **Betwa** joins the **Yamuna** (at Hamirpur) {2014}
+- **Rajghat dam** (Lalitpur, joint UP-MP project) is on the **Betwa** {2006, 2015}
+
+@flow Ken-Betwa Link: direction of water
+Ken river | Daudhan dam, Panna (MP)
+Link canal (221 km) | Carries surplus Ken water north-west
+Betwa river | Feeds Bundelkhand: Jhansi, Lalitpur, Mahoba, Banda (UP)
+Yamuna | Betwa joins it at Hamirpur
+@end
+
+@trap
+- Water goes **from the Ken to the Betwa** (Daudhan dam on the Ken). Both are tributaries of the **Yamuna**, not the Ganga.
+@end
+
+@section 6.5 | The Brahmaputra System
+- **Indus and Brahmaputra** rise at almost the same point, near **Mansarovar-Kailash** {2006}
+- Brahmaputra basin: **Tibet, India, Bangladesh** (and Bhutan) {1990}
+- **Teesta** was once a Ganga tributary; after the **1787 flood** it joined the **Brahmaputra**: **river capture** (A and R true, R explains A) {2021}
+- **Sankosh** forms the **Assam-West Bengal** boundary {2007}
+
+@flow One river, four names: the Brahmaputra
+Yarlung Tsangpo | Tibet; rises at Chemayungdung glacier near Mansarovar
+Siang / Dihang | Great bend round Namcha Barwa into Arunachal Pradesh
+Brahmaputra | Assam, after the Dibang and Lohit join near Sadiya; Majuli island
+Jamuna | Bangladesh; joins the Padma, then the Meghna
+@end
+
+@section 6.6 | The Indus System
+- **Satluj** rises at **Mansarovar-Rakas Tal** and enters India at **Shipki La** {2023}
+- **Satluj does not rise in India**; Beas, Ravi and Chenab do {2010, 2013}
+- **Kishanganga** (Neelum) is a tributary of the **Jhelum** {2013}
+- **Doodh Ganga** flows in **Jammu and Kashmir** (also a stream of that name in Uttarakhand) {2015}
+- World's **highest railway bridge**: on the **Chenab** (Reasi, 359 m; opened June 2025) {2006}
+
+@table
+River | Source
+Jhelum | Verinag spring
+Chenab | Chandra + Bhaga at Tandi
+Ravi | Near Rohtang
+Beas | Beas Kund
+Satluj | Rakas Tal (Tibet)
+@end
+
+@last
+- Perennial Himalayan rivers = **snow-melt**
+- Ganga = **antecedent**; Chambal = **superimposed**
+- **Satluj**: Rakas Tal, Shipki La, cuts all ranges, trans-Himalayan
+- **Devprayag** = Alaknanda + Bhagirathi
+- **Badrinath** on Alaknanda; **Kedarnath** on Mandakini
+- **Gomti** = only plains-born tributary (Pilibhit)
+- Yamuna tributaries west to east: **Chambal, Sindh, Betwa, Ken**
+- **Ken to Betwa** link, UP-MP; Rajghat dam on Betwa
+- Teesta = **river capture** (1787); Kosi = Sorrow of Bihar
+- Kishanganga to **Jhelum**; Chenab bridge = world's highest
+@end

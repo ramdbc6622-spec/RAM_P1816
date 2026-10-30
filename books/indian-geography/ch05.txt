@@ -1,0 +1,514 @@
+@chapter 5 | Tribes of India
+
+@intro
+India's Scheduled Tribes numbered **10.43 crore** in Census 2011, about **8.6%** of the population, in more than 700 notified groups. The **Bhil** are the largest, followed by the **Gond** and the **Santhal**. Madhya Pradesh has the largest tribal population. Mizoram and Lakshadweep have the highest share. UPPSC tests tribes almost entirely by matching: tribe with state or hill range, tribe with a custom (polyandry, transhumance, jhum, festivals) and tribe with racial group. The **Tharu** of the UP Tarai appear more than any other tribe. Several pairs in this chapter carry disputed keys, which are noted. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 5.1 | Racial Groups and the Basis of Tribal Identity
+
+@pyq U.P.P.C.S. (Mains) 2003
+Which one of the following racial groups is found in hilly and forested areas of northeastern India:
+(a) Dinarics
+(b) Mediterranean
+(c) Mongoloids
+(d) Proto-Australoids
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following tribes of India belongs to the Proto-Australoid race:
+(a) Irula
+(b) Khasi
+(c) Santhal
+(d) Tharu
+@ans (c)
+@end
+
+B.S. Guha's classification (1937) is the one used in these questions. The **Mongoloid** strain is found in the north-eastern hills and the Himalayan belt. The **Proto-Australoid** strain is found among the central and eastern tribes (Santhal, Munda, Ho, Oraon, Bhil). The **Negrito** strain is found among the Andaman tribes.
+
+@table
+Racial group (B.S. Guha) | Typical tribes and regions
+Negrito | Great Andamanese, Onge, Jarawa, Sentinelese; traces among the Kadar and Irula of the south
+Proto-Australoid | Santhal, Munda, Ho, Oraon, Bhil, Kol (central and eastern India)
+Mongoloid (Palaeo- and Tibeto-) | Naga, Khasi, Garo, Mizo, Lepcha, Bhutia (north-east and Himalaya)
+Mediterranean | Main element of the Dravidian-speaking south and the plains
+Western Brachycephals (incl. Dinaric) | Western India (Gujarat, Maharashtra, Coorg)
+Nordic | North-west (Punjab, Rajasthan uplands)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1992
+What is the basis of the determination of Tribes in India?
+(a) Cultural specification and different habitation.
+(b) Language and dialect
+(c) Differences in social customs
+(d) Economic Status
+@ans (a)
+@end
+
+The **Lokur Committee (1965)** listed five tests for a Scheduled Tribe: **primitive traits, distinctive culture, geographical isolation, shyness of contact with the wider community, and backwardness**. Under **Article 342** the President notifies the list for each state; Parliament can change it by law.
+
+@section 5.2 | The Tharu and the Tribes of Uttar Pradesh and Uttarakhand
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017; U.P.P.C.S. (Pre) 1991
+"Tharu Tribe" is residing in which of the following states of India?
+(a) Bihar and Madhya Pradesh
+(b) Jharkhand and Bihar
+(c) Chhattisgarh and Himachal Pradesh
+(d) Uttarakhand and Uttar Pradesh
+@ans (d)
+@end
+
+The **Tharu** live in the **Tarai** along the Nepal border, in Uttarakhand (Udham Singh Nagar), Uttar Pradesh and Bihar (West Champaran), and across the border in Nepal. Census 2011 counted about 1.05 lakh in UP, 91,000 in Uttarakhand and 1.6 lakh in Bihar. The two-state option (d) is the intended answer.
+
+@pyq U.P.P.C.S. (Pre) 2005; U.P. P.C.S. (Mains) 2015
+Diwali is a festival of mourning among the –
+(a) Khasis
+(b) Mundas
+(c) Bhils
+(d) Tharus
+@ans (d)
+@end
+
+@one
+Which of the Hindu festivals is celebrated by the Tharu people as a festival of mourning
+@ans Diwali
+@end
+
+UP link: Tharu villages lie in **Lakhimpur Kheri, Bahraich, Shravasti, Balrampur and Maharajganj**. Many Tharu groups claim descent from Rajput women who fled to the Tarai, and they are known for strong women's authority in the household. Tharu women's handicraft is promoted under UP's **One District One Product** scheme in Lakhimpur Kheri.
+
+@pyq U.P.P.C.S. (Pre) 2005
+The largest Scheduled Tribe of Uttaranchal is –
+(a) Bhoksa
+(b) Bhotia
+(c) Jaunsari
+(d) Tharu
+@ans (d)
+@end
+
+@table
+Tribe of Uttarakhand | Census 2011 | Area and note
+Tharu | 91,342 | Udham Singh Nagar Tarai; largest ST of Uttarakhand
+Jaunsari | 88,664 | Jaunsar-Bawar (Dehradun); polyandry
+Bhoksa (Buksa) | 54,037 | Tarai-Bhabar of Dehradun, Nainital
+Bhotia | 39,106 | Upper valleys of Chamoli, Pithoragarh; transhumance, trade with Tibet
+Raji (Ban Rawat) | About 700 | Pithoragarh forests; a PVTG
+@end
+
+@pyq U.P.P.C.S. (Pre) 1997
+Transhumance is practised by the :
+(a) Bhotias
+(b) Bhoksas
+(c) Jaunsaris
+(d) Tharus
+@ans (a)
+@end
+
+**Transhumance** is the seasonal movement of people and herds between high summer pastures and lower winter grounds. The **Bhotia** of Uttarakhand move up to the high valleys (Niti, Mana, Milam, Darma) in summer and come down in winter. The **Gaddi** of Himachal and the **Gujjar-Bakarwal** of Jammu and Kashmir do the same.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which one of the following is not correctly matched ?
+(a) Bhotia - Uttar Pradesh
+(b) Khasi - Meghalaya
+(c) Santhal - Jharkhand
+(d) Toda - Tamil Nadu
+@ans (*)
+@note none of the pairs is wrong. The **Bhotia** are a notified ST in Uttar Pradesh too (5,196 in Census 2011), though most now live in Uttarakhand. The question was probably meant to make (a) the answer after Uttarakhand was formed in 2000.
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following pairs is not correctly matched?
+(a) Angami – Nagaland
+(b) Apatani – Arunachal Pradesh
+(c) Bhotiya – Uttar Pradesh
+(d) Gonds – Madhya Pradesh
+@ans (*)
+@note all four pairs are correct. **Bhotiya** is a notified ST of Uttar Pradesh and Uttarakhand. Do not confuse it with **Bhutia**, the ST of Sikkim, Tripura and West Bengal; with "Bhutia" in option (c), the answer would have been (c).
+@end
+
+@trap
+**Bhotia/Bhotiya** (Uttarakhand, UP) and **Bhutia** (Sikkim) are different notified tribes. UPPSC's pairs with "Bhotia - Uttar Pradesh" have no wrong option, which is why both keys are marked (*). In Uttarakhand, the largest ST is **Tharu**, just ahead of Jaunsari.
+@end
+
+@section 5.3 | Customs: Polyandry, Jhum and Festivals
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which of the following tribes practise polyandry?
+(a) Kadar
+(b) Lodha
+(c) Munda
+(d) Toda
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009 ; U.P.P.C.S. (Mains) 2006
+Which of the following tribes of India practice polyandry? Select the answer from the code given below :
+1. Gonds
+2. Nagas
+3. Jaunsaris
+4. Todas
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1 and 4
+@ans (c)
+@end
+
+**Fraternal polyandry** (one woman married to brothers) was recorded among the **Toda** and **Kota** of the Nilgiris, the **Jaunsari** (Khasa) of Jaunsar-Bawar in Uttarakhand, and some Himalayan groups of Kinnaur and Ladakh. It is now rare. The Gond and Naga are not polyandrous.
+
+@pyq U.P.P.C.S (Pre) 2010
+Jhooming is practiced by –
+(a) The Bhotiyas
+(b) The Khasis
+(c) The Santhals
+(d) The Todas
+@ans (b)
+@end
+
+**Jhum** is the north-eastern name for **slash-and-burn shifting cultivation**, practised by the Khasi, Garo, Naga, Mizo and other hill tribes. It has many regional names.
+
+@table
+Name of shifting cultivation | Region
+Jhum | North-east (Assam, Meghalaya, Nagaland, Mizoram)
+Podu | Andhra Pradesh, Telangana
+Bewar, Dahiya | Madhya Pradesh (Baiga)
+Penda, Dippa | Chhattisgarh (Bastar)
+Kumari | Western Ghats (Kerala, Karnataka)
+Valre, Waltre | Rajasthan
+Kurwa | Jharkhand
+Milpa | Mexico and Central America
+Ladang | Indonesia, Malaysia
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+One of the tribes which celebrates 'Sarhul' festival is –
+(a) Santhal
+(b) Munda
+(c) Bhil
+(d) Tharu
+@ans (*)
+@note both (a) and (b) are correct. **Sarhul**, the spring festival of the sal blossom (in Chaitra), is celebrated by the **Oraon, Munda, Ho and Santhal** of Jharkhand.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which tribe worships 'Lohasur' as their deity ?
+(a) Gond
+(b) Bhil
+(c) Korku
+(d) Agaria
+@ans (d)
+@end
+
+The **Agaria** are traditional iron-smelters of the Maikal hills (Madhya Pradesh and Chhattisgarh). **Lohasur**, the iron demon, lives in their furnace and is their chief deity.
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not correctly matched?
+(a) Bihu – Assam
+(b) Onam – Andhra Pradesh
+(c) Pongal – Tamil Nadu
+(d) Baisakhi – Punjab
+@ans (b)
+@end
+
+**Onam** is the harvest festival of **Kerala**. It celebrates the return of King Mahabali, with boat races and floral carpets (pookalam).
+
+@pyq U.P.P.C.S. (Mains) 2006
+Which one of the following pairs is not correctly matched?
+State - Main Language
+(a) Goa - Konkani
+(b) Meghalaya - Khasi
+(c) Nagaland - Angami
+(d) Sikkim - Tibetan
+@ans (d)
+@end
+
+The main languages of **Sikkim** are **Nepali**, **Bhutia (Sikkimese)** and **Lepcha**. Nepali is in the Eighth Schedule; Tibetan is not a state language.
+
+@pyq U.P.P.C.S. (Mains) 2002
+'Khasi and Garo' Language speaking population is found in :
+(a) Madhya Pradesh
+(b) Meghalaya
+(c) Tripura
+(d) Assam
+@ans (b) & (d)
+@end
+
+Khasi and Garo are spoken mainly in **Meghalaya**, with smaller groups across the border in **Assam**. Both are associate official languages of Meghalaya; English is the official one.
+
+@section 5.4 | Tribes and their States: Matching
+
+@pyq U.P.P.C.S. (Pre) 2009
+The largest tribal group of India is –
+(a) Bhils
+(b) Gonds
+(c) Santhals
+(d) Tharus
+@ans (a)
+@end
+
+@table
+Tribe | Census 2011 | Main states
+Bhil | 1.71 crore | Madhya Pradesh, Gujarat, Rajasthan, Maharashtra
+Gond | 1.33 crore | Madhya Pradesh, Chhattisgarh, Maharashtra, Odisha, Telangana
+Santhal | About 69 lakh | Jharkhand, West Bengal, Odisha, Bihar
+Oraon | About 37 lakh | Jharkhand, Chhattisgarh, Odisha
+Mina | About 43 lakh | Rajasthan
+Munda | About 22 lakh | Jharkhand, Odisha
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (Tribes) | List-II (Location)
+A. Jarawas | 1. Uttar Pradesh
+B. Kukkis | 2. Madhya Pradesh
+C. Tharus | 3. Manipur
+D. Gonds | 4. Andaman and Nicobar
+@endmatch
+Codes : A B C D
+(a) 2 3 1 4
+(b) 4 3 1 2
+(c) 3 4 2 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which two of the following are correctly matched?
+@match
+Tribe | State
+(1) Keria | Odisha
+(2) Kuki | Uttar Pradesh
+(3) Yanadi | Rajasthan
+(4) Paliyan | Tamil Nadu
+@endmatch
+(a) 1 and 4
+(b) 1 and 2
+(c) 3 and 4
+(d) 2 and 3
+@ans (*)
+@note the intended answer is (a). The Kuki live in the north-east and the Yanadi in Andhra Pradesh, so pairs 2 and 3 are clearly wrong. The doubt is over spelling: the tribe of Odisha is notified as **Kharia** (not "Keria"), and the Tamil Nadu list has **Palliyan** (Paliyan is notified in Kerala).
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002
+Match List-I with List-II and select the correct answer from the code given below:
+@match
+List-I (Tribe) | List-II (Habitat)
+A. Bhil | 1. Sikkim
+B. Santhal | 2. Uttarakhand
+C. Raji | 3. Jharkhand
+D. Lepcha | 4. Rajasthan
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 4 2 3 1
+(d) 3 4 1 2
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Match List –I with List –II and select the correct answer from code given below:
+@match
+List-I (Tribe) | List-II (Habitat)
+A. Jaunsari | 1. Jharkhand
+B. Santhal | 2. Madhya Pradesh
+C. Bhil | 3. Uttarakhand
+D. Lepcha | 4. Sikkim
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 1 2 4
+(c) 1 3 4 2
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P. Lower Sub. (Pre) 2013
+Match List – I with List – II and select the correct answer from the code given below :
+@match
+List – I (Tribe) | List – II (Region)
+A. Birhor | 1. Andaman and Nicobar Islands
+B. Bhutia | 2. Tamil Nadu
+C. Toda | 3. Sikkim
+D. Sentinelese | 4. Jharkhand
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 2 4 1 3
+(c) 3 2 4 1
+(d) 4 1 3 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+Match List-I and List-II and select the correct answer from the code given below:
+@match
+List -I | List - II
+A. Toda | 1. Sikkim
+B. Lepcha | 2. Meghalaya
+C. Birhor | 3. Tamil Nadu
+D. Garo | 4. Jharkhand
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 3 1 4 2
+(c) 2 3 4 1
+(d) 4 2 1 3
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Match the List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I | List - II
+A. Gaddis | 1. Meghalaya
+B. Todas | 2. Himachal Pradesh
+C. Khasis | 3. Manipur
+D. Naga | 4. Tamil Nadu
+@endmatch
+Codes : A B C D
+(a) 1 2 4 3
+(b) 3 1 2 4
+(c) 4 3 2 1
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from the codes given below the lists:
+@match
+List-I (Tribes) | List-II (Location)
+A. Bhils | 1. Nagaland
+B. Gonds | 2. Rajasthan
+C. Limboos | 3. Chhattisgarh
+D. Konyak | 4. Sikkim
+@endmatch
+Codes : A B C D
+(a) 2 3 4 1
+(b) 3 1 4 2
+(c) 1 2 3 4
+(d) 2 3 1 4
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following is NOT correctly matched?
+(Tribes) (Location)
+(a) Angamis - Nagaland
+(b) Birhors - Jharkhand
+(c) Khas - Arunachal Pradesh
+(d) Todas - Tamil Nadu
+@ans (c)
+@end
+
+@table
+Tribe | State or region | Remember by
+Toda, Kota, Badaga, Kurumba | Nilgiri Hills, Tamil Nadu | Buffalo herders; polyandry (Toda)
+Irula, Paliyan | Tamil Nadu, Kerala | Snake catchers (Irula)
+Chenchu | Nallamala, Andhra Pradesh and Telangana | Food gatherers; a PVTG
+Yanadi | Andhra Pradesh | Coastal Andhra
+Kadar | Anaimalai, Kerala and Tamil Nadu | Forest gatherers
+Gaddi | Dhauladhar, Himachal Pradesh | Shepherds, transhumance
+Gujjar-Bakarwal | Jammu and Kashmir | Pastoral, transhumance
+Khas | Uttarakhand, Himachal, Jammu and Kashmir | Hill cultivators
+Jaunsari | Jaunsar-Bawar, Uttarakhand | Polyandry
+Bhotia, Raji, Tharu, Bhoksa | Uttarakhand (and UP) | Himalaya and Tarai
+Lepcha, Bhutia, Limboo | Sikkim | Lepcha are the original Sikkimese
+Angami, Ao, Konyak, Rengma | Nagaland | Naga tribes
+Apatani, Adi, Nyishi (Dafla) | Arunachal Pradesh | Apatani wet-rice terraces (Ziro)
+Khasi, Garo, Jaintia | Meghalaya | Matrilineal
+Kuki | Manipur, Mizoram, Nagaland | Hills of Manipur
+Santhal, Munda, Ho, Oraon, Birhor | Jharkhand | Chotanagpur plateau
+Bhil | Rajasthan, Madhya Pradesh, Gujarat | Largest tribe
+Gond, Baiga, Agaria, Korku | Madhya Pradesh, Chhattisgarh | Central India
+Tamaria (Tamadia) | Jharkhand, Odisha | Sub-group of Bhumij/Munda
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993; U.P. Lower Sub. (Pre) 2013
+Toda Tribe is the inhabitant of :
+(a) Aravalli Hills
+(b) Madhya Pradesh
+(c) Nilgiri Hills
+(d) Vindhyachal Hills
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2003; U.P.P.C.S. (Pre) 2001; U.P.U.D.A./L.D.A. (Pre) 2002
+Which of the following is an important tribe of Dhauladhar Range ?
+(a) Abor
+(b) Gaddi
+(c) Lepcha
+(d) Tharu
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+The 'Tamaria' Tribes are found in which of the following state of India?
+(a) West Bengal
+(b) Rajasthan
+(c) Jharkhand
+(d) Madhya Pradesh
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following tribes is found in Kerala?
+(a) Chenchu
+(b) Lepcha
+(c) Dafla
+(d) Dafar
+@ans (*)
+@note none of the options is a Kerala tribe. Chenchu belong to Andhra Pradesh and Telangana, Lepcha to Sikkim, Dafla (Nyishi) to Arunachal Pradesh, and Dafar to Saurashtra (Gujarat).
+@end
+
+@trap
+In tribe-state matching, three anchors solve most codes: **Toda = Tamil Nadu (Nilgiris)**, **Lepcha = Sikkim**, **Birhor/Santhal = Jharkhand**. The **Khas** belong to the western Himalaya, not Arunachal. **Dafla** is an older name for the **Nyishi** of Arunachal.
+@end
+
+@section 5.5 | Tribes of the Andaman and Nicobar Islands
+
+@pyq U.P. R.O./A.R.O. (Re Exam) (Pre) 2016; U.P.P.C.S. (Mains) 2013
+In which of the following State/Union territories the "Jarawa tribe" resides?
+(a) Arunachal Pradesh
+(b) Lakshadweep
+(c) Chhattisgarh
+(d) Andaman and Nicobar
+@ans (d)
+@end
+
+@one
+The most primitive tribe of India is –
+@ans Jarawas
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
+(a) Halchu
+(b) Rengma
+(c) Onge
+(d) Shompen
+@ans (b)
+@end
+
+@table
+Tribe | Island | Note
+Great Andamanese | Strait Island | Negrito; very small population; PVTG
+Onge | Little Andaman (Dugong Creek) | Negrito; PVTG
+Jarawa | West coast of South and Middle Andaman | Negrito; Jarawa Reserve; PVTG
+Sentinelese | North Sentinel Island | Negrito; no contact; entry banned
+Nicobarese (Halchu) | Nicobar Islands, especially Car Nicobar | Mongoloid; largest tribe of the islands
+Shompen | Great Nicobar | Mongoloid; PVTG; hunter-gatherers
+@end
+
+The **Rengma** are a **Naga** tribe of Nagaland and Assam. The Nicobarese call themselves **Holchu** ("friend"), spelt Halchu in the question.
+
+@next
+**PVTGs** (Particularly Vulnerable Tribal Groups, 75 in number) are in the news through the **PM-JANMAN** mission (2023). Expect a question asking which of the Andaman tribes, the Chenchu, the Baiga or the Raji are PVTGs: all of them are.
+@end
+
+@heatmap
+
+@pattern
+Matching dominates: about half of this chapter is tribe-state pairs. Three habits pay off: fix one or two anchors per code (Toda, Lepcha, Birhor), keep **Bhotia** (Uttarakhand) apart from **Bhutia** (Sikkim), and remember the Tharu customs. UPPSC keys in this chapter are less reliable than elsewhere: five items carry (*) or dual answers. In the exam, choose the option the key intends (usually the one with the obvious mismatch) and do not over-think spelling variants.
+@end

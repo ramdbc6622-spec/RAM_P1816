@@ -1,0 +1,89 @@
+@chapter 12 | Straits, Gulfs, Canals and Dams
+@meta Built from 24 UPPSC questions (1991–2025). Focus: straits and what they separate, the Suez Canal, Soo and Ludwig canals, dam-river matching.
+
+@hot
+- **Suez Canal** joins the **Red Sea and Mediterranean**; ends at **Port Said and Suez**; cut India-Europe route by about **7,000 km** {1992, 1992, 1995, 2005, 2010, 2013, 2018, 2025}
+- Straits: **Gibraltar** (Europe-Africa), **Bering** (Asia-N. America), **Bass** (Tasmania), **Hormuz** (Persian Gulf-Gulf of Oman), **Dover** (Channel Tunnel) {1999, 2004, 2005, 2007, 2010, 2023}
+- Dams: **Hoover-Colorado, Kariba-Zambezi, Aswan-Nile, Panchet Hill-Damodar** {2013, 2015, 2016}
+@end
+
+@section 12.1 | Straits
+- Europe from Africa: **Gibraltar** {1999}
+- Asia from North America: **Bering Strait** {2004}
+- Tasmania from Australia: **Bass Strait** {2023}
+- **Hormuz**: between the **Persian Gulf and Gulf of Oman** {2005}
+- UK-France tunnel: **Strait of Dover**; Dover joins the **English Channel and North Sea** {2007, 2010}
+- **Lombok Strait**: between **Bali and Lombok** {2017}
+- **Ten Degree Channel**: **Andaman from Nicobar** {2001}
+
+@table
+Strait | Separates
+Gibraltar | Spain and Morocco
+Bosphorus, Dardanelles | Europe and Asia (Turkiye)
+Bab-el-Mandeb | Yemen and Djibouti
+Hormuz | Iran and Oman
+Malacca | Malaysia and Sumatra
+Bering | Russia and Alaska
+Palk | India and Sri Lanka
+Ten Degree Channel | Little Andaman and Car Nicobar
+@end
+
+@section 12.2 | Gulfs
+- Persian Gulf does not border **Oman** (main coast on Gulf of Oman) {2007, 2008}
+- Correct: **Gulf of Tonkin-Vietnam** {2003}
+
+@section 12.3 | Canals
+- Suez joins the **Red Sea and Mediterranean**; (2 and 3) {1992, 2025}
+- Ports at the ends: **Port Said and Suez** {2013}
+- Suez shortened India-West distance; joins Mediterranean and Red Sea (R explains A) {1992}
+- Largest navigation canal: **Suez** {1995, 2005, 2010}
+- India-Europe saving: about **7,000 km** {2018}
+- Lakes north to south: **Manzala, Timsah, Great Bitter, Little Bitter** {2019}
+- **Soo Canal**: **Superior and Huron** {1991}
+- Inland waterway in southern Germany: **Ludwig Canal** {2017}
+- Longest sea bridge then: **Jiaozhou Bay** (Hong Kong-Zhuhai-Macau now) {2009}
+
+@flow The Suez Canal, north to south
+Port Said | Mediterranean end
+Lake Manzala | North
+Lake Timsah | Ismailia
+Great and Little Bitter Lakes | Middle
+Suez (Port Tewfik) | Red Sea end
+@end
+
+@section 12.4 | Dams
+- **Colorado-Hoover, Damodar-Panchet Hill, Nile-Aswan, Zambezi-Kariba** {2013}
+- **Kariba Dam**: **Zambezi** {2016}
+- Wrong: **Hoover-Tennessee** (Hoover is on the **Colorado**) {2015}
+- China's first Brahmaputra dam (2010): **Zangmu** {2013}
+
+@table
+Dam | River | Country
+Three Gorges | Yangtze | China
+Hoover | Colorado | USA
+Aswan High / GERD | Nile / Blue Nile | Egypt / Ethiopia
+Kariba, Cahora Bassa | Zambezi | Zambia-Zimbabwe, Mozambique
+Itaipu | Parana | Brazil-Paraguay
+Zangmu, Medog | Yarlung Tsangpo | China
+@end
+
+@trap
+- **Hoover** = Colorado; **TVA** dams = Tennessee.
+- **Soo** = Superior-Huron; **Welland** = Erie-Ontario.
+- Suez has **no locks**; Panama uses locks.
+@end
+
+@up UP link: India's **Damodar Valley Corporation** copied the US **Tennessee Valley Authority**; UP's own big dams include **Rihand** (Sonbhadra) and **Matatila** (Betwa, Lalitpur).
+
+@last
+- Gibraltar = Europe-Africa; Bering = Asia-America
+- Bass = Tasmania; Hormuz = Persian Gulf-Gulf of Oman
+- Dover = Channel Tunnel; Lombok = Bali-Lombok
+- Ten Degree Channel = Andaman-Nicobar
+- Suez: Red Sea-Mediterranean; Port Said, Suez; 1869
+- Suez saves ~7,000 km; lakes Manzala-Timsah-Bitter
+- Soo = Superior-Huron; Ludwig = southern Germany
+- Hoover = Colorado; Kariba = Zambezi
+- Aswan = Nile; Panchet Hill = Damodar
+- Zangmu = China's Brahmaputra dam
+@end

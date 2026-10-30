@@ -1,0 +1,112 @@
+@chapter 24 | Research Centres and Institutes
+@meta Built from 34 UPPSC questions (1990–2021). Focus: ICAR institutes in UP, Hyderabad and Karnal institutes, institute-city matching, polar stations.
+
+@hot
+- **UP institutes**: pulses **Kanpur**, sugarcane **Lucknow**, vegetables **Varanasi**, subtropical horticulture **Lucknow**, grassland and agroforestry **Jhansi** {2004, 2010, 2010, 2010, 2013, 2015, 2015, 2016, 2017, 2017, 2021}
+- **Hyderabad**: **CRIDA**, ICRISAT, NAARM, rice directorate, NPPTI {2008, 2010, 2013, 2013, 2014, 2015}
+- **Karnal**: **NDRI**, CSSRI, wheat research {2013, 2013, 2016}
+- **Nagpur**: Indian Bureau of Mines, **NEERI** {2010, 2016}
+@end
+
+@section 24.1 | Polar Research Stations
+- Third Indian Antarctic station: **Bharati** (2012) {2011}
+
+@flow India's polar stations
+Dakshin Gangotri | Antarctica, 1983-84; first, now a supply base
+Maitri | Antarctica, 1989; Schirmacher Oasis
+Himadri | Arctic, 2008; Svalbard, Norway
+Bharati | Antarctica, 2012; Larsemann Hills
+Himansh | Himalaya (Spiti), 2016
+@end
+
+@section 24.2 | ICAR Institutes in Uttar Pradesh
+- Indian Institute of **Pulses** Research: **Kanpur** {2004, 2010, 2015}
+- Indian Institute of **Vegetable** Research: **Varanasi** {2016, 2017}
+- Central Institute of **Subtropical Horticulture**: **Lucknow** {2010}
+- Indian Institute of **Sugarcane** Research: **Lucknow** {2013}
+- **Subtropical Horticulture-Srinagar** is wrong (Srinagar has **Temperate** Horticulture) {2017}
+- Agroforestry research centre: **Jhansi**; **Agroforestry-Banda** is wrong {2010, 2021}
+- Indian **Grassland and Fodder** Research Institute: **Jhansi** {2015}
+- **Goat** research: **Makhdoom** (Mathura) {2017}
+- National Centre of **Organic** Farming: **Ghaziabad** {2015}
+- Centre for **Social Forestry and Eco-Rehabilitation**: **Prayagraj** {2019}
+
+@table
+UP city | Institute
+Lucknow | Sugarcane Research; Subtropical Horticulture; NBRI; CDRI; CIMAP
+Kanpur | Pulses Research; National Sugar Institute
+Varanasi | Vegetable Research; IRRI South Asia centre
+Jhansi | Grassland and Fodder; Agroforestry
+Makhdoom (Mathura) | Goat research
+Meerut (Modipuram) | Farming Systems Research
+Ghaziabad | Organic and Natural Farming
+Prayagraj | Eco-Rehabilitation (ICFRE)
+Bareilly (Izatnagar) | IVRI; Avian research
+@end
+
+@section 24.3 | Other Agricultural Institutes
+- **ICRISAT**: **Hyderabad** (Patancheru) {2014}
+- **CRIDA** (dryland agriculture): **Hyderabad** {2008, 2013, 2015}
+- **NAARM**: **Hyderabad** {2010}
+- National Institute of Agricultural Marketing: **Jaipur** {2013}
+- Central Institute of Agricultural Engineering: **Bhopal** {2009}
+- National Dairy Research Institute: **Karnal** {2013, 2016}
+- National Dairy Development Board: **Anand** {2006}
+- Horticulture university: **Solan** (Nauni, HP) {1990}
+- **Rice-Cuttack, farming systems-Meerut, soil science-Bhopal, agroforestry-Jhansi** {2013}
+- **CSSRI-Karnal, CTCRI-Thiruvananthapuram, IRRI-Manila, CAZRI-Jodhpur** {2013}
+- **Rice-Hyderabad, wheat-Karnal, maize-New Delhi, pulses-Kanpur** {2013}
+- **Sugarcane-Lucknow, NBPGR-New Delhi, NPPTI-Hyderabad**; wheat is **Karnal**, not Kanpur (*) {2014}
+- Plant Protection, Quarantine and Storage: **Faridabad** {2013}
+- First **Krishi Vigyan Kendra**: **1974** (Puducherry) {2017}
+
+@section 24.4 | Scientific and Mining Institutes
+- **NEERI-Nagpur, CFTRI-Mysuru, CPRI-Shimla, CTRI-Rajahmundry** {2016}
+- Indian Bureau of Mines: **Nagpur** {2010}
+- Mining institute: **Dhanbad** (ISM, now IIT-ISM) {1994}
+- Indian Diamond Institute: **Surat** {2013}
+- No Museum of Natural History: **Hyderabad** (it is in Delhi, Mysuru, Bhopal, Bhubaneswar, Sawai Madhopur) {2013}
+- IMD HQ order: **Kolkata, Shimla, Pune, New Delhi** {2018}
+- International Solar Alliance secretariat: **Gurugram** {2019}
+- Central Institute of Indian Languages: **Mysuru** {2019}
+
+@flow IMD headquarters over time
+Kolkata | 1875, founding HQ
+Shimla | 1905
+Pune | 1928
+New Delhi | 1944 onwards
+@end
+
+@table
+City | Institutes
+Hyderabad | ICRISAT, CRIDA, NAARM, rice, NPPTI, NIRD
+Karnal | NDRI, CSSRI, wheat and barley
+Nagpur | NEERI, Indian Bureau of Mines, MECL, soil survey
+Mysuru | CFTRI, Indian Languages
+Bhopal | Soil Science, Agri Engineering, Forest Management
+Cuttack | National Rice Research Institute
+Jodhpur | CAZRI (arid zone)
+Shimla | Potato Research
+Rajahmundry | Tobacco Research
+@end
+
+@trap
+- Same-state swaps: sugarcane **Lucknow** (not Kanpur); pulses **Kanpur** (not Lucknow); vegetables **Varanasi**; agroforestry **Jhansi** (not Banda).
+- Subtropical horticulture = Lucknow; **temperate** horticulture = Srinagar.
+- NDRI = **Karnal**; NDDB = **Anand**.
+@end
+
+@up UP is the most asked state in this chapter: **Lucknow** (sugarcane, subtropical horticulture, CDRI, NBRI, CIMAP), **Kanpur** (pulses, sugar), **Varanasi** (vegetables, IRRI centre), **Jhansi** (fodder, agroforestry), **Makhdoom** (goats), **Ghaziabad** (organic farming), **Prayagraj** (eco-rehabilitation), **Agra** (potato centre).
+
+@last
+- Antarctic: Dakshin Gangotri, Maitri, **Bharati**; Arctic: **Himadri**
+- Pulses = **Kanpur**; sugarcane = **Lucknow**; vegetables = **Varanasi**
+- Fodder and agroforestry = **Jhansi**; goats = **Makhdoom**
+- Organic farming = **Ghaziabad**; eco-rehabilitation = **Prayagraj**
+- CRIDA, ICRISAT, NAARM = **Hyderabad**
+- NDRI = **Karnal**; NDDB = **Anand**; CAZRI = **Jodhpur**
+- Rice = **Cuttack**; potato = **Shimla**; tobacco = **Rajahmundry**
+- IBM, NEERI = **Nagpur**; CFTRI = **Mysuru**
+- IMD: Kolkata, Shimla, Pune, New Delhi
+- ISA = **Gurugram**; first KVK = **1974**
+@end

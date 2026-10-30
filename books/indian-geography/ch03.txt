@@ -1,0 +1,330 @@
+@chapter 3 | Coastal Regions and Islands
+
+@intro
+India's mainland coast runs from the Rann of Kutch to the Sundarbans. Nine states and four Union Territories lie on the sea. The **western coastal plain** is narrow, broken by estuaries and backwaters. The **eastern coastal plain** is wide and built by deltas. Offshore lie two very different groups of islands: the **Andaman and Nicobar Islands**, the peaks of a submarine mountain chain in the Bay of Bengal, and the **Lakshadweep**, low coral atolls in the Arabian Sea. This chapter covers the sea level and maritime zones, coastline length, the named coasts, beaches, the islands and the channels between them. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 3.1 | Sea Level, Maritime Zones and Coastline Length
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following coasts the mean sea level of India is measured ?
+(a) Mumbai
+(b) Chennai
+(c) Kochi
+(d) Visakhapatnam
+@ans (b)
+@end
+
+The key follows the common statement that India's **mean sea level** is reckoned from the **Chennai** tide gauge. Heights on Survey of India maps are given above this mean sea level.
+
+@pyq U.P.P.C.S. (Mains) 2005
+The limit of the territorial water of India extends upto
+(a) 3 nautical miles from the coast
+(b) 6 nautical miles from the coast
+(c) 12 nautical miles from the coast
+(d) 24 nautical miles from the coast
+@ans (c)
+@end
+
+@table
+Zone (measured from the baseline) | Width | India's rights
+Territorial sea | 12 nautical miles | Full sovereignty, including airspace and seabed
+Contiguous zone | 24 nautical miles | Customs, immigration, sanitation and security control
+Exclusive Economic Zone (EEZ) | 200 nautical miles | Sole right to fish, mine and drill
+Continental shelf | To the edge of the margin (up to 350 nm) | Seabed resources
+@end
+
+These limits come from India's **Maritime Zones Act, 1976** and the **UN Convention on the Law of the Sea (1982)**. One nautical mile is 1.852 km, so the territorial sea is about 22.2 km wide.
+
+@pyq U.P. P.C.S. (Pre) 2007, 2018; U.P.U.D.A./L.D.A. (Pre) 2006; U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which of the following States of India has the longest coastline?
+(a) Maharashtra
+(b) Andhra Pradesh
+(c) Kerala
+(d) Gujarat
+@ans (d)
+@end
+
+India's coastline was long given as **7,516.6 km**. A fresh measurement on larger-scale charts (released by the Government in 2024-25) gives **11,098.81 km**. Gujarat stays first on both counts.
+
+@table
+State | Coastline in the new count (km)
+Gujarat | 2,340.62 (longest)
+Andhra Pradesh | 1,053.07
+Maharashtra | 877.97
+Kerala | 600.15
+@end
+
+@one
+In India, how many states are on coastal lines?
+@ans 9
+@end
+
+The nine coastal states, west to east, are **Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha and West Bengal**. The four coastal Union Territories are **Dadra and Nagar Haveli and Daman and Diu, Puducherry, Lakshadweep, and Andaman and Nicobar Islands**.
+
+@trap
+The coastline figure has changed. Older books give 7,516.6 km (mainland 5,422.6 km plus islands); the revised figure is 11,098.81 km. A 2026 question may use either, so read the options. **Goa** has the shortest coastline among the states.
+@end
+
+@section 3.2 | The Named Coasts and Coastal Towns
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following coasts of India is located between Krishna delta and Cape Comorin?
+(a) Coromandel Coast
+(b) North Circar
+(c) Malabar Coast
+(d) Konkan Coast
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2016
+The northern part of the western Coastal Plain of India is also known as :
+(a) Karnataka Coast
+(b) Malabar
+(c) Konkan
+(d) Coromandel
+@ans (c)
+@end
+
+@table
+Coast | Stretch | Features
+Kathiawar (Gujarat) coast | Rann of Kutch to Daman | Gulfs of Kutch and Khambhat, tidal ports
+Konkan | Daman to Goa | Northern part of the west coast; Mumbai
+Kannada (Karnataka) | Goa to Mangaluru | Narrow, rocky
+Malabar | Mangaluru to Kanyakumari | Kayals (backwaters), lagoons
+Utkal | Odisha coast | Chilika Lake, Mahanadi delta
+Northern Circars | Mahanadi to Krishna | Godavari-Krishna deltas
+Coromandel | Krishna delta to Kanyakumari | Kaveri delta, Pulicat Lake
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following cities located on the western coast of India –
+1. Janjira
+2. Kannur
+3. Nagercoil
+4. Sindhudurg
+Which of the following option represents correct order of cities from north to south –
+Code :
+(a) 1 2 3 4
+(b) 2 1 3 4
+(c) 1 2 4 3
+(d) 1 4 2 3
+@ans (d)
+@end
+
+Place each town by district: **Janjira** (Raigad, Maharashtra), **Sindhudurg** (southern Maharashtra), **Kannur** (northern Kerala), **Nagercoil** (Kanyakumari district, Tamil Nadu). Janjira and Sindhudurg are both sea forts, of the Siddis and of Shivaji respectively.
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Which of the following city is/are located on western coast of India.
+1. Janjira
+2. Udupi
+3. Auroville
+4. Tuticorin
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 1,2 and 4
+@ans (a)
+@end
+
+**Janjira** (Maharashtra) and **Udupi** (Karnataka) are on the west coast. **Auroville** lies near Puducherry and **Tuticorin (Thoothukudi)** on the Gulf of Mannar; both are on the east coast.
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+Match List-I with List-II and select the correct answer by using the code given below the lists :
+@match
+List-I (Sea Beach) | List-II (State)
+A. Digha | 1. Tamil Nadu
+B. Gopalpur | 2. West Bengal
+C. Calangute | 3. Orissa
+D. Marina | 4. Goa
+@endmatch
+Code : A B C D
+(a) 1 2 4 3
+(b) 2 3 4 1
+(c) 2 1 3 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@table
+Beach | State | Note
+Digha | West Bengal | Purba Medinipur
+Gopalpur | Odisha | Ganjam district
+Puri, Chandrabhaga | Odisha | Chandrabhaga near Konark
+Calangute, Baga, Colva | Goa | Calangute is the "Queen of Beaches"
+Marina | Tamil Nadu | Chennai; among the longest urban beaches
+Kovalam, Varkala | Kerala | Thiruvananthapuram district
+Juhu | Maharashtra | Mumbai
+Radhanagar | Andaman and Nicobar | Havelock (Swaraj Dweep)
+@end
+
+@trap
+In west-coast order questions, put each town in its state first. Two Maharashtra forts (**Janjira** north, **Sindhudurg** south) always come before Karnataka and Kerala towns. Nagercoil is in Tamil Nadu but on the Kanyakumari tip, so it is the southernmost.
+@end
+
+@section 3.3 | Andaman and Nicobar Islands
+
+@pyq U.P.P.C.S. (Pre) 2009
+Which of the following is the highest peak of Andaman and Nicobar group of islands ?
+(a) Saddle peak
+(b) Mount Thuillier
+(c) Mount Diavolo
+(d) Mount Koyale
+@ans (a)
+@end
+
+**Saddle Peak (732 m)** near Diglipur on **North Andaman** is the highest point of the islands. **Mount Thuillier (642 m)** on Great Nicobar is the highest in the Nicobars.
+
+@pyq U.P.P.C.S. (Pre) 2005
+Ten degree channel separates –
+(a) Andaman from Nicobar Islands
+(b) Andaman from Myanmar
+(c) India from Sri Lanka
+(d) Lakshadweep from Maldives
+@ans (a)
+@end
+
+@one
+Which pair of island is separated by 10 degree channel ?
+@ans Andaman and Nicobar
+@end
+
+@table
+Channel or strait | Separates
+Ten Degree Channel | Little Andaman from Car Nicobar (Andaman group from Nicobar group)
+Duncan Passage | South Andaman from Little Andaman
+Coco Channel | North Andaman from the Coco Islands (Myanmar)
+Nine Degree Channel | Minicoy from the main Lakshadweep group (Kalpeni)
+Eight Degree Channel | Minicoy (India) from the Maldives
+Palk Strait | Tamil Nadu from northern Sri Lanka
+Gulf of Mannar | Southern Tamil Nadu from western Sri Lanka
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Barren Island is located in-
+(a) Bay of Bengal
+(b) Arabian sea.
+(c) Mediterranean Sea
+(d) China sea
+@ans (a)
+@end
+
+@one
+Which one of the following is a volcanic island of India?
+@ans Barren Island
+@end
+
+**Barren Island**, about 135 km north-east of Port Blair in the Andaman Sea, has **India's only active volcano**. It erupted in 1991 after about two centuries of rest and has been active on and off since. **Narcondam**, further north, is a dormant volcano.
+
+@trap
+Ten Degree Channel lies between the **Andaman** and **Nicobar** groups. **Nine** and **Eight** Degree Channels belong to the **Lakshadweep** side. Barren is active; Narcondam is dormant.
+@end
+
+@section 3.4 | Lakshadweep and Other Islands
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following is a coral island ?
+(a) New Moore
+(b) Car Nicobar
+(c) Andaman
+(d) Lakshadweep
+@ans (d)
+@end
+
+**Lakshadweep** (36 islands, about 32 sq km) is built of coral atolls on the Laccadive-Chagos ridge, 220 to 440 km off Kerala. **Kavaratti** is the capital and **Minicoy** the largest and southernmost island. **New Moore (Purbasha / South Talpatti)** was a delta island in the mouth of the Hariabhanga river, disputed with Bangladesh; it has since been submerged.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following is one of the remotest islands from Indian coast ?
+(a) Bhatkal
+(b) Arnala
+(c) Minicoy
+(d) Henry
+@ans (c)
+@end
+
+**Minicoy** lies about 400 km from the Kerala coast, near the Maldives. **Arnala** (off Vasai, Maharashtra), the islet off **Bhatkal** (Karnataka) and **Henry Island** (Sundarbans, West Bengal) are inshore islands close to the mainland.
+
+@pyq U.P.P.C.S. (Pre) 2006
+Which one of the following Indian Island lies between India and Sri Lanka?
+(a) Elephanta
+(b) Nicobar
+(c) Rameshwaram
+(d) Salsette
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+The Adam's Bridge begins from –
+(a) Dhanushkodi
+(b) Mandapam
+(c) Pamban
+(d) Rameshwaram
+@ans (a)
+@end
+
+**Rameswaram (Pamban) Island** lies between the Palk Bay and the Gulf of Mannar. Its tip, **Dhanushkodi**, is where **Adam's Bridge (Ram Setu)**, a chain of shoals about 48 km long, begins and runs to **Mannar Island** in Sri Lanka. The new **Pamban vertical-lift railway bridge** joining the island to Mandapam opened in 2025.
+
+@pyq U.P. P.C.S. (Mains) 2016
+The most populous island of India is:
+(a) Majuli
+(b) Andaman
+(c) Lakshadweep
+(d) Salsette
+@ans (d)
+@end
+
+Most of **Mumbai** stands on **Salsette Island**, which makes it the most populous island in India. **Majuli** in the Brahmaputra (Assam) is the largest river island and became India's first island district in 2016.
+
+@pyq U.P.P.S.C. (GIC) 2010
+Match list –I with list – II and select the correct answer using the code given below.
+@match
+List –I (Island) | List-II (Location)
+A. Viyant Syodhar | 1. Coast of Kathiawar
+B. Piram | 2. Coast of Arabian Sea
+C. Dwarka | 3. Gulf of Kutch
+D. Diu | 4. Gulf of Cambay (Khambhat)
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 2 1
+(c) 2 1 4 3
+(d) 4 3 1 2
+@ans (b)
+@end
+
+**Piram** island lies in the **Gulf of Khambhat** off Bhavnagar. **Diu** sits off the southern tip of **Kathiawar**. **Bet Dwarka** faces the open **Arabian Sea**, and the small islands of the **Gulf of Kutch** (Pirotan, Vaidya and others) form the Marine National Park.
+
+@pyq U.P.P.S.C. (Spl.) (Pre) 2008; U.P.P.C.S. (Mains) 2011
+Kori Creek lies in –
+(a) Gulf of Kutch
+(b) Gulf of Khambhat
+(c) Little Rann of Kutch
+(d) Rann of Kutch
+@ans (d)
+@end
+
+**Kori Creek** is a tidal inlet of the **Rann of Kutch** near the India-Pakistan border, west of Lakhpat. Its neighbour **Sir Creek** is the disputed estuary on the boundary. The area is being developed for marine fisheries and border tourism.
+
+@table
+Island | Where | Known for
+Salsette | Maharashtra | Mumbai; most populous island
+Elephanta (Gharapuri) | Mumbai harbour | Rock-cut caves (UNESCO)
+Majuli | Brahmaputra, Assam | Largest river island; first island district (2016)
+Sriharikota | Andhra Pradesh | Satish Dhawan Space Centre (ISRO)
+Wheeler (Abdul Kalam Island) | Odisha | Missile test range
+Rameswaram (Pamban) | Tamil Nadu | Adam's Bridge, Pamban Bridge
+Minicoy | Lakshadweep | Southernmost and remotest island of the group
+Barren | Andaman Sea | India's only active volcano
+Diu, Piram, Bet Dwarka | Gujarat | Kathiawar coast and gulfs
+@end
+
+@next
+**Great Nicobar** (Indira Point, Mount Thuillier) is in the news for the Great Nicobar transshipment port and township project. Expect a statement question linking it with Galathea Bay, the Shompen tribe and the Campbell Bay National Park.
+@end
+
+@heatmap
+
+@pattern
+UPPSC asks this chapter in short, factual items. The Gujarat coastline question has been set in four papers, and the island items cover the whole map: the Ten Degree Channel, Barren Island, Adam's Bridge, Lakshadweep and Minicoy. One figure has changed since most of these exams: the coastline is now measured as 11,098.81 km. Learn the named coasts with their limits, the channels in the two island groups, and one fact for each well-known island.
+@end

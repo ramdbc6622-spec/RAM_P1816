@@ -1,0 +1,106 @@
+@chapter 12 | Bhakti and Sufi Movement
+@unit UNIT III · BHAKTI AND SUFI MOVEMENT
+@meta Built from 49 UPPSC questions (1990–2025). Focus: Alvars and the acharyas, Ramananda and Kabir, the order of saints, Namdev, Chaitanya and Shankaradeva, Tulsidas, the Chishti chain and dargahs, other silsilas.
+
+@hot
+- **Acharya-philosophy matching**: **Ramanuja-Vishishtadvaita, Madhva-Dvaita, Nimbarka-Dvaitadvaita, Vallabha-Shuddhadvaita** {1991, 2002, 2005, 2017, 2022}
+- **Chishti chain**: **Usman Haruni, Muinuddin (Ajmer), Bakhtiyar Kaki, Farid, Nizamuddin (Delhi, Mahbub-i-Ilahi), Nasiruddin (Chirag-i-Delhi)** {2002, 2006, 2007, 2010, 2014, 2014, 2014, 2014, 2017, 2020}
+- **Ramananda**: born at **Prayag**; Kabir's guru; "let no man ask a man's caste" {2002, 2009, 2010}
+- **Shankaradeva** spread Vaishnavism in **Assam**; Chaitanya = Vaishnava {1990, 2002, 2011, 2015}
+- **Naqshbandis** opposed music {2002, 2003, 2013}
+@end
+
+@section 12.1 | Origins and the Acharyas
+- Bhakti started by the **Alvars** {2001}
+- Revived in the North in the **15th-16th centuries** {1993}
+- **Ramanuja**: **Vishishtadvaita**; followers are **Vaishnavas** {1991, 1999}
+- **Shuddhadvaita**: **Vallabhacharya** {2002}
+- Correct: **Dvaita-Madhvacharya** {2005}
+- Acharya-philosophy match (A-2, B-3, C-1, D-4 per key) {2017}
+- **Ramanuja-Vishishtadvaita, Madhva-Dvaita, Nimbarka-Dvaitadvaita, Vallabha-Shuddhadvaita** {2022}
+
+@table
+Acharya | Philosophy
+Shankara | Advaita
+Ramanuja | Vishishtadvaita
+Madhva | Dvaita
+Nimbarka | Dvaitadvaita
+Vallabha | Shuddhadvaita
+@end
+
+@section 12.2 | Northern Saints
+- Born at **Prayag**: **Ramananda** {2010}
+- "Let no man ask a man's sect or caste": **Ramananda** {2009}
+- Kabir's guru: **Ramananda** {2002}
+- Kabir-Dharamdas dialogues: **Amarmool** {2002, 2003}
+- **Kabir-Ramananda, Khusrau-Nizamuddin, Surdas-Vallabhacharya, Mardana-Guru Nanak** {2025}
+- Order: **Kabir, Nanak, Chaitanya, Mirabai** {2014}
+- Order: **Namdev, Kabir, Nanak, Chaitanya** {2025}
+- Order: **Namdev, Kabir, Nanak, Mirabai** {2005}
+- Mirabai's contemporaries: several fit (*) {1995}
+- Nanak's successor: **Guru Angad** {2023}
+- Varkari saint: **Namdev** {2002, 2004}
+- Influenced by Islam: **Namdev** {2010}
+- **Chaitanya**: **Vaishnava** {1990}
+- Vaishnavism in Assam (Kamarupa, Cooch Bihar): **Shankaradeva** {2002, 2011, 2015}
+- Tulsidas: born at Rajapur (now **Chitrakoot**); wife **Ratnavali** (neither statement) {2023}
+- Tulsidas: contemporary of **Akbar and Jahangir** {2004}
+- **Malukdas**: saint-poet of **Kara** {2008}
+- Wrong pair: **Raskhan-Rasikpriya** (Rasikpriya = Keshavdas) {2018}
+
+@flow Order of the Bhakti saints
+Namdev | 1270-1350; Maharashtra (Varkari)
+Ramananda, Kabir | 14th-15th century; Varanasi
+Guru Nanak | 1469-1539
+Chaitanya | 1486-1533; Bengal
+Mirabai, Surdas, Tulsidas | 16th century
+@end
+
+@section 12.3 | Sufism
+- Not related to Sufism: **ulema** {2014}
+- Sufis: **Nizamuddin Auliya, Muinuddin Chishti** (2 and 3) {1998}
+- Sanskrit music works were translated into Persian; sama is true but not the reason (A and R true, R does not explain A) {2018}
+- Chishti order in India: **Khwaja Muinuddin** (Ajmer) {2002, 2014}
+- Chishti order's founder (abroad): **Khwaja Abu Abdal** {2011}
+- Muinuddin's guru: **Usman Haruni** {2014, 2014}
+- Baba **Farid** in the **Adi Granth** {1994}
+- Nizamuddin's dargah: **Delhi**; his guru: **Baba Farid** {2006, 2010}
+- Wrong pairs: **Nizamuddin's tomb-Ajmer**, **Nizamuddin-Multan** {2007, 2020}
+- **Mahbub-i-Ilahi**: **Nizamuddin Auliya**; he saw seven Sultans {2014, 2014}
+- **Chirag-i-Delhi**: **Nasiruddin** {2017}
+- **Shaikh-ul-Hind**: **Salim Chishti** {2004, 2008}
+- **Muinuddin-Chishti, Sirhindi-Naqshbandi, Dara Shikoh-Qadiri, Shihabuddin-Suhrawardi** {2013}
+- Against music: **Naqshbandiya** {2002, 2003, 2013}
+- Counted Krishna among the auliyas: **Shah Muhammad Ghaus** (Shattari) {2002, 2003}
+- Hath Yoga: practised by Nathpanthis and adopted by Sufis (both) {2019}
+
+@table
+Silsila | In India | Note
+Chishti | Muinuddin (Ajmer) | Music (sama), simple life
+Suhrawardi | Bahauddin Zakariya (Multan) | Close to the state
+Qadiri | Shah Niamatullah; Dara Shikoh | Baghdad origin
+Naqshbandi | Baqi Billah; Ahmad Sirhindi | Orthodox; no music
+Shattari | Shah Muhammad Ghaus | Yoga links
+@end
+
+@trap
+- **Dvaita** (Madhva) vs **Dvaitadvaita** (Nimbarka); Advaita vs Shuddhadvaita.
+- Assam Vaishnavism = **Shankaradeva**, not Chaitanya.
+- Shaikh-ul-Hind = **Salim Chishti**; Sultan-ul-Hind = Muinuddin.
+- Rasikpriya = **Keshavdas**; Raskhan = Premvatika.
+@end
+
+@up UP link: **Ramananda** (born Prayag) and **Kabir** taught at **Varanasi**; **Tulsidas** wrote the Ramcharitmanas at Varanasi (born Rajapur, Chitrakoot); **Malukdas** was of **Kara**, and **Salim Chishti's** dargah is at **Fatehpur Sikri**.
+
+@last
+- Alvars started Bhakti; revival 15th-16th century
+- Ramanuja Vishishtadvaita; Madhva Dvaita; Vallabha Shuddhadvaita
+- Ramananda = Prayag; Kabir's guru
+- Namdev, Kabir, Nanak, Chaitanya, Mirabai
+- Shankaradeva = Assam; Chaitanya = Bengal
+- Malukdas = Kara; Raskhan = Premvatika
+- Muinuddin = Ajmer (Usman Haruni's disciple)
+- Nizamuddin = Delhi, Mahbub-i-Ilahi; Farid's disciple
+- Nasiruddin = Chirag-i-Delhi; Salim Chishti = Shaikh-ul-Hind
+- Naqshbandi opposed music; Sirhindi was Naqshbandi
+@end

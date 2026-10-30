@@ -1,0 +1,803 @@
+@chapter 14 | Pollution: Air, Acid Rain, Water, Sound and Soil
+
+@intro
+This is the largest chapter in the book. It covers **air pollution** (primary vs secondary pollutants, CO and haemoglobin, PAN and photochemical smog, fly ash, lichens as indicators, NCAP and PRANA), **acid rain** (SO2 and NOx; Norway and Canada), **water pollution** (arsenic, fluoride, BOD, eutrophication, the Ganga at Kanpur), **noise** (decibels, green mufflers), **soil** pollution, and a miscellany of pollutants and diseases: **Bhopal's MIC**, lead, mercury (Minamata), cadmium (itai-itai), DDT, plastics and Euro/BS norms. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 14.1 | Pollutants: Basic Ideas
+
+@pyq U.P.P.C.S. (Pre) 2005
+Human-made pollutants are called –
+(a) Xenobiotics
+(b) Antibiotics
+(c) Humalins
+(d) Anthropogenic
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+The environment modified by human activities is called
+(a) Natural environment
+(b) Anthropogenic environment
+(c) Urban environment
+(d) Modern environment
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P.P.C.S. (Mains) 2016
+Bio-degradable pollutant is
+(a) Mercury
+(b) Sewage
+(c) Plastic
+(d) Asbestos
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which one of the following is biodegradable?
+(a) Plastic
+(b) Polythene
+(c) Mercury
+(d) Rubber
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Dichloro-diphenyl-trichlorehane (DDT) is a
+(a) Non-biodegradable pollutants
+(b) Biochemical pollutants
+(c) Non-pollutant
+(d) Biodegradable
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Which of the following is not a biodegradable polluter?
+(a) Faecal matter
+(b) Pesticide
+(c) Urine
+(d) Domestic waste
+@ans (b)
+@end
+
+**Biodegradable** pollutants (sewage, faeces, urine, kitchen waste, paper, natural rubber) are broken down by microbes. **Non-biodegradable** ones (plastics, glass, heavy metals such as mercury and lead, **DDT** and other pesticides, asbestos) persist. Many of them **bioaccumulate** in the body and **biomagnify** up the food chain, as DDT does in fish-eating birds, thinning their eggshells.
+
+@pyq U.P.P.C.S. (Pre) 2007
+Polythene bags cannot be destroyed because they are made of –
+(a) Unbreakable molecules
+(b) Inorganic compounds
+(c) Polymers
+(d) Proteins
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+Which of the following takes maximum time to decay?
+(a) Cigarette bud
+(b) Leather shoe
+(c) Photo film
+(d) Plastic bag
+@ans (d)
+@end
+
+India banned identified **single-use plastic** items from **1 July 2022** under the Plastic Waste Management Rules, and requires **Extended Producer Responsibility** for plastic packaging.
+
+@section 14.2 | Air Pollution
+
+@pyq U.P.P.C.S. (Mains) 2011
+The combustion of coal, petrol and diesel etc. is the basic source of –
+(a) Water pollution
+(b) Land pollution
+(c) Air pollution
+(d) Noise pollution
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following is an air pollutant gas and is released by burning fossil fuel?
+(a) Hydrogen
+(b) Nitrogen
+(c) Oxygen
+(d) Sulphur dioxide
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which of the following is not a water pollutant?
+(a) Zinc
+(b) Copper
+(c) Nickel
+(d) Sulphur Dioxide
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Which one of the following is not a secondary pollutant?
+(a) PAN
+(b) Smog
+(c) Sulphur dioxide
+(d) Ozone
+@ans (c)
+@end
+
+@one U.P. P.C.S. (Pre) 2018
+It is a secondary pollutant
+@ans Smog
+@end
+
+@pyq U.P.P.C.S. (Pre), 2018
+A powerful eye irritant in the smoke is
+(a) Ozone
+(b) Sulphur dioixide
+(c) Carbon dioxide
+(d) Peroxyacetyle nitrate
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Photo chemical smog always contains :
+(a) Ozone
+(b) Aluminium ion
+(c) Phosphorus
+(d) Methane
+@ans (a)
+@end
+
+@table
+Type | Meaning | Examples
+**Primary pollutant** | Emitted directly from a source | **SO2**, CO, NOx, hydrocarbons, particulates, lead
+**Secondary pollutant** | Formed in the air from primary ones | **Ground-level ozone**, **PAN** (peroxyacetyl nitrate), **photochemical smog**, sulphuric and nitric acid (acid rain)
+Classical (London) smog | Smoke + fog + SO2; cold, damp winter | London 1952 (about 4,000 deaths in days)
+**Photochemical (Los Angeles) smog** | NOx + hydrocarbons + **sunlight**; brown haze | Contains **ozone, PAN** (eye irritant), aldehydes
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2006
+During normal conditions, the gas which pollutes the atmosphere is –
+(a) Carbon Monoxide (CO)
+(b) Carbon dioxide (CO2)
+(c) Nitrogen (N2)
+(d) Oxygen (O2)
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which one of the following air pollutants can affect blood- stream leading to death?
+(a) Asbestos dust
+(b) Cadmium
+(c) Nitrogen oxides
+(d) Carbon monoxide
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2016
+Which air pollutant get dissolved in the haemoglobin of the blood more rapidly than oxygen?
+@ans Carbon monoxide
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2014
+Which air pollutant is most dangerous?
+@ans Carbon monoxide
+@end
+
+**Carbon monoxide** binds to **haemoglobin** about **200-250 times** more strongly than oxygen, forming **carboxyhaemoglobin**. This starves the body of oxygen and can kill, for example from coal braziers (*angithi*) in closed rooms in winter.
+
+@pyq U.P.P.C.S. (Mains) 2004
+'Fly-Ash', is a pollutant caused by
+(a) Burning of Coal
+(b) Burning of Charcoal
+(c) Burning of Diesel/Kerosene
+(d) Burning of CNG
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Mains) 2004; U.P.P.C.S. (Pre) 2021
+Fly ash pollution is caused by
+@ans Burning of Coal
+@end
+
+Indian coal is high in ash (30-45%), so thermal plants produce about **250-300 million tonnes** of **fly ash** a year. The 2021 notification requires **100% use** of fly ash in bricks, cement, roads and mine filling.
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to lichens, which of the following statements is/are correct?
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013, 2021; U.P.U.D.A./L.D.A. (Spl) (Pre) 2010
+Which of the following is indicator of air pollution ?
+(a) Puffballs
+(b) Algae
+(c) Lichen
+(d) Moss
+@ans (c) & (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2019; U.P.P.C.S. (Pre) 2015; U.P.P.C.S.(Pre) 2012
+What is the well known example of bio-indicator of air pollution?
+@ans Lichens
+@end
+
+**Lichens** (a partnership of a fungus and an alga) are very sensitive to **SO2**. They **disappear** from polluted air, so their *absence* signals pollution, and they do **not** grow well in polluted areas. Mosses are used in a similar way.
+
+@pyq U.P.P.C.S. (Mains) 2009
+The most polluted city in India is –
+(a) Ankleshwar
+(b) Lucknow
+(c) Ludhiana
+(d) Raipur
+@ans (a)
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+According to the report released by Greenpeace India in January, 2020, amongst 287 Indian cities, which of the following is the most polluted city?
+(a) Raniganj
+(b) Jharia
+(c) Bajrang Nagar
+(d) Sohagpur
+@ans (b)
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Pre) 2013
+Which one of the following is known for cleaning a polluted environment?
+(a) Oxygen
+(b) Rain
+(c) Nitrogen
+(d) Air
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+Assertion : During winter, air pollution in Delhi reaches to the maximum level.
+Reason : Combustion process in motor vehicles increases during winter.
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+Delhi's winter smog comes from **temperature inversion** (cold air trapped under warm air near the ground), **low wind speed**, **stubble burning** in Punjab and Haryana (October-November), Diwali firecrackers and steady vehicle, dust and industry emissions. Vehicle use does not jump in winter, which is why the Reason is false.
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam) 2015
+Cigarette smoke contains –
+(a) Carbon monoxide dioxycine
+(b) Carbon monoxide and nicotine
+(c) Carbon monoxide and Benzene
+(d) Dioxycine and Benzene
+@ans (c)
+@note Cigarette smoke contains **CO, nicotine, benzene**, tar, formaldehyde, hydrogen cyanide and others, so (b) is also factually true. The Commission's key is (c).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following is not an instrumental device to check air pollution?
+(a) Bag Filter
+(b) Cyclone Collector
+(c) Cyclone Separator
+(d) Cyclone Divider
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Delhi Government's Bio-decomposer and Spray Programme', which of the following statements is/are correct?
+1. The Bio-decomposer solution is provided free of cost to farmers to help convert stubble into manure.
+2. The Bio-decomposer solution is prepared using a mix of several fungi.
+Select the correct answer using the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+The **Pusa bio-decomposer**, developed by **IARI**, is a mix of **fungi** that rots paddy stubble in the field in 2-3 weeks, giving farmers an alternative to burning it.
+
+@pyq U.P.P.C.S (Pre) 2020
+National Clean Air Programme has been launched by the Central Government in the year :
+(a) 2018
+(b) 2017
+(c) 2020
+(d) 2019
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+What is the use of the 'PRANA' portal?
+(a) Industrial emission control
+(b) Monitoring of the National Clean Air Programme (NCAP)
+(c) Plastic waste management
+(d) Water pollution monitoring
+@ans (b)
+@end
+
+**NCAP** (January **2019**) targets **131 non-attainment cities**. Its original goal was a 20-30% cut in PM10 by 2024 against 2017 levels; the revised goal is **up to 40% by 2025-26**. **PRANA** (Portal for Regulation of Air-pollution in Non-Attainment cities) tracks progress. The **National Air Quality Index** (2014) covers **8 pollutants**: PM10, PM2.5, NO2, SO2, CO, O3, NH3 and lead.
+
+@up UP link: UP has **17** NCAP non-attainment cities, among the most of any state, including **Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Ghaziabad and Noida**. Cities in the NCR such as **Ghaziabad**, Noida and Greater Noida often rank among India's most polluted in winter.
+
+@section 14.3 | Acid Rain
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): CO2, SO2, and NO2 gases get dissolved in rain water and produce acid rain.
+Reason (R): Atmospheric air is polluted due to high concentration of gases like carbon dioxide, sulphur dioxide and oxides of nitrogen.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Mains) 2007; U.P.P.S.C. (GIC) 2010; U.P.P.C.S.(Pre) 2013
+Acid rain is due to air pollution by–
+(a) Carbon dioxide
+(b) Carbon monoxide
+(c) Methane
+(d) Nitrous oxide and Sulphur dioxide
+@ans (d)
+@end
+
+@one U.P.P.C.S. (Pre) 2001
+Acid rain occurs due to
+@ans Reaction between clouds and sulphur dioxide pollutants
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003
+Which gase is responsible for causing acid rain in the atmosphere
+@ans SO2
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which of the following countries suffer from the acid rains?
+1. Canada
+2. France
+3. Norway
+4. Germany
+Select the correct answer from codes given below:
+Codes :
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 3 and 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Which one of the following countries receive the most acid rain:
+(a) China
+(b) Japan
+(c) Norway
+(d) the USA
+@ans (c)
+@end
+
+Normal rain is slightly acidic (pH about **5.6**) because of dissolved CO2. **Acid rain** (pH below about 5.6) forms when **SO2** and **NOx** turn into sulphuric and nitric acids. It kills fish in lakes, damages forests, and corrodes marble (**"stone leprosy"** on the **Taj Mahal** from **Mathura refinery** and Agra industry, which led to the **Taj Trapezium Zone**, 1996). **Scandinavia** (Norway, Sweden) and **Canada** suffer from acid rain blown in from industrial Britain, Germany and the USA.
+
+@section 14.4 | Water Pollution
+
+@pyq U.P.P.C.S.(Pre) 2012
+The non-biotic pollutant in underground water is –
+(a) Bacteria
+(b) Algae
+(c) Arsenic
+(d) Viruses
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The arsenic contamination of drinking water is highest in–
+(a) Chennai
+(b) Kanpur
+(c) Kolkata
+(d) Mumbai
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re. Exam.) 2015
+The problem of water pollution with Arsenic is maximum in –
+(a) Haryana
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) West Bengal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which country has natural arsenic water contamination?
+(a) Bangladesh
+(b) Pakistan
+(c) Sri Lanka
+(d) Bhutan
+@ans (a)
+@end
+
+**Arsenic** occurs naturally in the young alluvium of the **Ganga-Brahmaputra-Meghna** delta. **West Bengal** and **Bangladesh** are worst affected, followed by Bihar, Assam and eastern UP (**Ballia**, Ghazipur, Bahraich). Long exposure causes skin lesions (**arsenicosis**) and cancer.
+
+@pyq U.P.P.C.S. (Mains) 2016
+"Knock-Knee Syndrome" is caused by the pollution of
+(a) Mercury
+(b) Lead
+(c) Arsenic
+(d) Fluoride
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following prepared the Annual Ground Water Quality Report, 2024?
+1. Central Pollution Control Board
+2. Central Water Commission
+3. Central Ground Water Board
+Choose the correct answer using the code given below:
+Code:
+(a) 1 and 2
+(b) 3 only
+(c) 2 and 3
+(d) 1 only
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+The highest chemical pollution is caused by the industrial effluents of :
+(a) Leather industry
+(b) Paper industry
+(c) Rayon industry
+(d) Textile industry
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following is not related to air pollution?
+(a) Smog
+(b) Acid Rain
+(c) Eutrophication
+(d) Asbestosis
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2019
+With reference to Eutrophication: 1. It is a phenomenon of nutrient enrichment of a water body. 2. It depletes dissolved oxygen of the water. Which is/are correct?
+@ans Both 1 and 2
+@end
+
+**Eutrophication**: run-off of **nitrates and phosphates** (fertilisers, detergents, sewage) feeds **algal blooms**. When the algae die, their decay uses up **dissolved oxygen**, fish die and "**dead zones**" form. Water hyacinth spreads over the surface.
+
+@pyq U.P.P.C.S. (Pre) 2007
+A water body having high B.O.D. indicates that its water is –
+(a) Receiving minerals
+(b) Being aerated
+(c) Being contaminated by sewage
+(d) Atrophic
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Pre) 2021; U.P.P.C.S. (Pre) 2011
+Water pollution of river is measured by
+@ans Amount of Oxygen dissolved in water
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+Biological Oxygen Demand (BOD) is a standard criterion for
+(a) Measuring oxygen levels in blood
+(b) Computing oxygen levels in forest ecosystems
+(c) Pollution assay in aquatic ecosystems
+(d) Assessing oxygen levels in high altitude regions
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+BOD is maximum in the Ganga river between :
+(a) Haridwar and Kanpur
+(b) Kanpur and Allahabad
+(c) Allahabad and Patna
+(d) Patna and Uluberia
+@ans (b)
+@end
+
+**BOD** (Biochemical Oxygen Demand) is the oxygen that microbes need to break down the organic matter in water, so **high BOD means more organic pollution (sewage)**. **DO** (Dissolved Oxygen) is the oxygen actually present, so **low DO means polluted water**. Bathing-quality water needs **BOD of 3 mg/L or less** and **DO of 5 mg/L or more**.
+
+@up UP link: The Ganga's worst stretch, **Kanpur-Prayagraj**, receives tannery effluent from **Jajmau** (Kanpur's leather cluster, which is why leather tops the effluent list), along with city sewage and drains such as **Sisamau** (tapped under **Namami Gange**, 2014). Fluoride is a problem in **Sonbhadra** and **Unnao**, and arsenic in **Ballia**.
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which of the following rivers is called 'biological desert' on account of its pollutants?
+(a) Yamuna
+(b) Periyar
+(c) Damodar
+(d) Mahanadi
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster' due to environmental pollution?
+(a) Yamuna
+(b) Gomati
+(c) Sai
+(d) Tamsa
+@ans (a) & (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Which mega city of India generates the largest solid waste per capita annually?
+(a) Bangalore
+(b) Chennai
+(c) Delhi
+(d) Mumbai
+@ans (d)
+@end
+
+@section 14.5 | Noise and Soil Pollution
+
+@pyq U.P.P.C.S. (Mains) 2017
+Which of the following units is used to measure noise pollution?
+(a) A namometer
+(b) decibel
+(c) hertz
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2003
+Which of the following is the reason behind the maximum noise pollution?
+(a) Heavy Traffic
+(b) Election Meetings
+(c) Rock Music
+(d) Jet Flight
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+Which of the following represents the decibel level of rusting of tree leaves in normal circumstance?
+(a) 10 db
+(b) 20 db
+(c) 60 db
+(d) 100 db
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P.P.C.S. (Mains) 2017
+Green Muffler' is related to –
+(a) Soil pollution
+(b) Air pollution
+(c) Noise pollution
+(d) Water pollution
+@ans (c)
+@end
+
+@table
+Sound | Level (dB, approx.)
+Threshold of hearing | 0
+Rustling leaves | **20**
+Normal conversation | 60
+Heavy traffic | 80-90
+Rock concert / jet take-off | 110-140 (pain begins at about 120)
+CPCB day limit, residential / silent zone | 55 / 50 dB (night 45 / 40)
+@end
+
+A **green muffler** is a belt of dense trees and shrubs planted along roads and around industries to absorb noise.
+
+@pyq U.P.P.C.S. (Pre) 2016
+Indiscriminate use of fertilizers has led to :
+(a) Soil Pollution
+(b) Water pollution
+(c) Air pollution
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Consider the following statement :
+Assertion (A) : Soil pollution is more dangerous as compared to industrial pollution.
+Reason (R) : Fertilizer and pesticide enter into food cycle.
+Choose the correct answer from codes given:
+Codes :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2016
+What is the importance of crop rotation in the farming?
+(a) It increases the production
+(b) Soil fertility is conserved
+(c) Soil erosion is reduced
+(d) All the above
+@ans (d)
+@end
+
+@section 14.6 | Pollutants, Diseases and Disasters
+
+@pyq U.P.P.C.S. (Pre) 2001, 2008, 2017, 2022; U.P. Lower Sub. (Pre) 2002; U.P.R.O./A.R.O. (Pre) 2014
+The gas which leaked from Union Carbide Factory, Bhopal was–
+(a) Leakage of methyl isocyanate
+(b) Leakage of nitrogen dioxide
+(c) Leakage of sulphur dioxide
+(d) Leakage of carbon monoxide
+@ans (a)
+@end
+
+The **Bhopal gas tragedy** (night of **2-3 December 1984**) was the world's worst industrial disaster. **Methyl isocyanate (MIC)** leaked from the **Union Carbide** pesticide plant. It led to the **Environment (Protection) Act 1986** and the **Public Liability Insurance Act 1991**. **2 December** is observed as **National Pollution Control Day**.
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following is not correctly matched?
+Pollutant - Disease caused
+(a) Mercury Minamata disease
+(b) Cadmium Itai-Itai disease
+(c) Nitrate Ion Blue baby syndrome
+(d) Fluoride Ion Indigestion
+@ans (d)
+@end
+
+@table
+Pollutant | Disease / effect
+**Mercury** | **Minamata disease** (Japan, 1956; nerve damage)
+**Cadmium** | **Itai-itai** ("ouch-ouch") disease (Japan; bone pain)
+**Nitrate** in drinking water | **Blue baby syndrome** (methaemoglobinaemia)
+**Fluoride** (above 1.5 mg/L) | Dental and **skeletal fluorosis**, **knock-knee**
+**Arsenic** | Arsenicosis, black-foot disease, skin cancer
+**Lead** | Brain and nerve damage (children), anaemia
+**Asbestos** dust | **Asbestosis**, lung cancer (mesothelioma)
+Silica dust | Silicosis (stone-quarry workers)
+Cotton dust | Byssinosis ("brown lung")
+Coal dust | Black lung (pneumoconiosis)
+**Carbon monoxide** | Binds haemoglobin; oxygen starvation
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006; U.P.P.C.S. (Mains) 2006, 2009; U.P. U.D.A./L.D.A. (Pre) 2006
+The most toxic metal pollutant of automobile exhaust is
+(a) Copper
+(b) Lead
+(c) Cadmium
+(d) Mercury
+@ans (b)
+@end
+
+**Tetraethyl lead** was added to petrol as an anti-knock agent. India phased out leaded petrol by **2000**, and the world did so by **2021**.
+
+@pyq U.P.P.C.S.(Pre) 2012
+Match List-I with List-II and select the correct answer by using codes given below the lists:
+@match
+List-I (Air Pollutant) | List-II (Part affected)
+A. Asbestos Dust | 1. Brain
+B. Lead | 2. Stomach
+C. Mercury | 3. Lung
+D. Carbon Monoxide | 4. Bloodstream
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 3 1 2 4
+(c) 3 2 4 1
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (Pollutants) | List-II (Effects)
+A. Carbon monoxide | 1. Damage to liver and kidney
+B. Oxides of Nitrogen | 2. Cancer
+C. Soil Particles | 3. Ailment related to breathing
+D. Lead | 4. Central nervous system
+@endmatch
+Codes : A B C D
+(a) 2 3 4 1
+(b) 4 3 2 1
+(c) 1 2 3 4
+(d) 4 3 1 2
+@ans (c)
+@note The Commission's key is (c). Many textbooks would pair **CO with the central nervous system** (4) and **lead with liver and kidney** (1) as well as the brain, giving (b). The pairing depends on which effect is emphasised.
+@end
+
+@pyq U.P.B.E.O. (Pre) 2019
+Match List–I with List–II and select the correct answer from the codes given below the lists :
+@match
+List–I (Phenomenon) | List–II (Compounds)
+A. Acid Rain | 1. Chlorofluoro-carbon
+B. Photochemical Smog | 2. Carbon Monoxide
+C. Combination with Haemoglobin | 3. Sulphur dioxide
+D. Depletion of Ozone Layer | 4. Unsaturated Hydrocarbons
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 3 2 4 1
+(c) 3 4 2 1
+(d) 1 3 2 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Which of the following statements about Radioactive pollution are correct?
+1. It causes a hereditary change in the animals.
+2. It causes disbalance among different minerals in the soil.
+3. It hinders blood circulation.
+4. It causes carcinogenesis.
+Select the correct answer from codes given below:
+Codes :
+(a) 1 and 2
+(b) 1 and 4
+(c) 1, 3 and 4
+(d) 2, 3 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+The size of the Respirable suspended Particulate Matter (R.S.P.M.) in air is
+(a) more than 7 µm (microne)
+(b) more than 6 µm (microne)
+(c) more than 5 µm (microne)
+(d) less than 5 µm (microne)
+@ans (d)
+@end
+
+**PM10** (10 micrometres or smaller) reaches the airways, and **PM2.5** (2.5 micrometres or smaller) reaches deep into the lungs and the blood. Indian 24-hour standards are **100 and 60 µg/m³**. The WHO's 2021 guidelines are far stricter: **45 and 15 µg/m³**.
+
+@section 14.7 | Vehicle Norms and Miscellany
+
+@pyq U.P.P.C.S.(Pre) 2013
+Euro emission norms are emission standards and these represent a package setting limits for emission from a vehicle. Which of the following gases is covered under this?
+(a) Carbon monoxide
+(b) Hydrocarbons
+(c) Nitrogen Oxide
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+To meet Euro-II emission standards, what should be the sulphur content in the ultra-low sulphur diesel?
+(a) 0.05 percent or less than this
+(b) 0.10 percent
+(c) 0.15 percent
+(d) 0.20 percent
+@ans (a)
+@end
+
+India follows **Bharat Stage (BS)** norms, which are based on the Euro norms. India **leapfrogged from BS-IV to BS-VI in April 2020**, skipping BS-V. BS-VI fuel has only **10 ppm sulphur** (0.001%), compared with 50 ppm for BS-IV and 500 ppm (0.05%) for Euro-II.
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Which was the seasonal factor responsible for the intense cold in northern India in January, 2012?
+(a) Deforestation
+(b) Atmospheric pollution
+(c) La Nina
+(d) El Nino
+@ans (c)
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Spl) (Pre) 2010
+Which of the following is used as an adulterant of a mustard seed?
+(a) Argimon seed
+(b) Papaya seed
+(c) Cumin seed
+(d) Coriander seed
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Incinerators are used for which of the following?
+(a) Burning wastes
+(b) Putting wastes into them
+(c) For cutting green trees
+(d) For making fertilizers
+@ans (a)
+@end
+
+@trap
+**SO2 is primary**, while ozone, PAN and smog are **secondary** pollutants. **CO binds haemoglobin.** **Lichens disappear** in polluted air. **High BOD and low DO mean polluted water.** **Fluoride causes knock-knee**, **mercury Minamata** and **cadmium itai-itai**. **Bhopal = MIC (1984).** **Eutrophication is water pollution**, not air pollution. India went **BS-IV to BS-VI**, skipping BS-V.
+@end
+
+@heatmap
+
+@pattern
+This is the busiest environment chapter. Expect **2-3 pollution questions per paper**. **Bhopal-MIC** has been asked six times, and **CO-haemoglobin**, **lichens**, **acid rain-SO2**, **arsenic in West Bengal** and **BOD** at least three times each. Recent papers (2019-2025) add **NCAP/PRANA**, stubble bio-decomposers, groundwater reports and pollutant-disease matching.
+@end
+
+@next
+Likely next angles: the revised NCAP target (40% by 2026) and city rankings (**Swachh Vayu Survekshan**), the **GRAP** stages in Delhi-NCR, **CAQM**, **PM2.5** and the WHO guidelines, the **CGWB 2024 report** (uranium, nitrate and fluoride in groundwater), **microplastics**, the global **plastics treaty** talks, **e-waste rules 2022**, and **BS-VII** debates.
+@end

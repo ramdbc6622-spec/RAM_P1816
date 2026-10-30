@@ -1,0 +1,86 @@
+@chapter 11 | Islands, Lakes and Waterfalls
+@meta Built from 33 UPPSC questions (1990–2023). Focus: largest islands, Japan and Indonesia island order, Pacific island groups, lake records, Great Lakes cities, waterfalls.
+
+@hot
+- Lake records: **Caspian** largest, **Baikal** oldest and deepest, **Tanganyika** second deepest and longest {2008, 2014, 2015}
+- **Lake Michigan** lies **entirely in the USA** {2015, 2017}
+- Japan north to south: **Hokkaido, Honshu, Shikoku, Kyushu**; Honshu largest {1991, 2017, 2019}
+- Lake-country wrong pairs: **Onega-Canada, Reindeer-Russia, Five Flower-Mongolia, Malawi-Asia** {2014, 2015, 2017, 2023}
+@end
+
+@section 11.1 | Islands
+- Largest island: **Greenland** {1993}
+- Largest of options: **New Zealand's South Island** {2015}
+- Correct: **Nuuk** (Greenland) is about 3 m above sea level {2012}
+- Divided among three countries: **Borneo** {2010}
+- South Indian Ocean: Chagos, Mauritius, Seychelles all fit (*) {2004}
+- Not correct: **Falklands in the Indian Ocean** (they are South Atlantic) {1993}
+- Socotra: belongs to **Yemen** (not Oman); UNESCO site 2008 (only 2) {2021}
+- Salt-pan island: **Saint-Martin** {2017}
+- **Macau** returned to China in **1999** {1990}
+
+@section 11.2 | Island Groups
+- Largest island of Japan: **Honshu** {1991}
+- North to south: **Hokkaido, Honshu, Shikoku, Kyushu** {2017, 2019}
+- Indonesia west to east: **Sumatra, Java, Bali, Lombok** {2021}
+- Melanesia: **Solomon Islands** {2012}
+- Not Polynesia: **Tinian** (Micronesia) {2021}
+- Not in the Caribbean: **Madeira** (Atlantic, Portugal) {2021}
+- "Sheep Islands": **Faroe Islands** {2015}
+
+@table
+Pacific group | Islands
+Melanesia | New Guinea, Solomons, Vanuatu, Fiji, New Caledonia
+Micronesia | Guam, Marshalls, Kiribati, Tinian, Palau, Nauru
+Polynesia | Hawaii, Samoa, Tonga, Tuvalu, Tahiti, New Zealand
+@end
+
+@section 11.3 | Lakes
+- Largest lake by area and volume: **Caspian Sea** {2008}
+- Oldest and deepest: **Baikal** {2015}
+- Second deepest and longest: **Tanganyika** {2014}
+- By area: **Superior, Victoria, Great Bear, Baikal**; key order 4, 3, 2, 1 {2016}
+- Wrong: world's tallest waterfall-**Tugela** (it is **Angel**) {2015}
+- Lake Victoria statements: neither correct {2021}
+- Wrong: **Malawi-Asia** (Africa) {2017}
+- Wholly in the USA: **Michigan** {2015, 2017}
+- On Lake Superior: **Duluth** {2014}
+- **Erie-Detroit, Michigan-Gary, Ontario-Hamilton, Superior-Duluth** {2011}
+- Wrong: **Onega-Canada** (Russia) {2023}
+- **Balkhash**: **Kazakhstan** {2021}
+- Wrong: **Reindeer Lake-Russia** (Canada) {2014}
+- Wrong: **Five Flower Lake-Mongolia** (China, Jiuzhaigou) {2015}
+- World Heritage lake: **Plitvice** (Croatia) {2014}
+
+@flow Great Lakes, west to east
+Superior | Largest; Duluth; Soo Canal to Huron
+Michigan | Only one wholly in USA; Chicago, Gary
+Huron | Joined to Michigan at Mackinac
+Erie | Shallowest; Cleveland, Buffalo; near Detroit
+Ontario | Smallest; Toronto, Hamilton; to St. Lawrence
+@end
+
+@section 11.4 | Waterfalls
+- In Venezuela: **Angel Falls** (highest) {2014}
+- **Victoria Falls**: on the **Zambezi** (true); Zambia-Mozambique border (false; **Zambia-Zimbabwe**) {2023}
+
+@trap
+- **Socotra** = Yemen; **Madeira** = Portugal (Atlantic).
+- **Victoria Falls** = Zambia-Zimbabwe; **Lake Victoria** = Uganda-Kenya-Tanzania.
+- Highest fall = **Angel**; Tugela is second.
+@end
+
+@up No UP item. UP has no natural great lakes; its large water bodies are reservoirs such as **Rihand (Govind Ballabh Pant Sagar)** in Sonbhadra.
+
+@last
+- Greenland largest island; Borneo = 3 countries
+- Japan N-S: Hokkaido, Honshu, Shikoku, Kyushu
+- Indonesia W-E: Sumatra, Java, Bali, Lombok
+- Tinian = Micronesia; Solomons = Melanesia
+- Caspian largest lake; Baikal oldest, deepest
+- Tanganyika: longest, 2nd deepest
+- Michigan wholly in USA; Duluth on Superior
+- Balkhash = Kazakhstan; Onega = Russia
+- Angel = highest fall (Venezuela)
+- Victoria Falls = Zambezi, Zambia-Zimbabwe
+@end

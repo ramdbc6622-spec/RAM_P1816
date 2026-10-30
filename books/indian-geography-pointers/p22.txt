@@ -1,0 +1,106 @@
+@chapter 22 | Power and Energy Resources
+@meta Built from 38 UPPSC questions (1991–2023). Focus: energy mix, power-plant-state matching, nuclear stations, wind, solar, tidal and hot springs.
+
+@hot
+- **Thermal (coal)** is the largest source of energy and of power generation {2002, 2006, 2008, 2011}
+- **Nuclear station-state matching**: **Narora-UP, Rawatbhata (Kota)-Rajasthan, Kakrapar-Gujarat, Kaiga-Karnataka, Tarapur-Maharashtra** {1999, 2002, 2007, 2015, 2017}
+- **Thermal plant-state matching**: **Ukai-Gujarat, Patratu-Jharkhand, Kahalgaon-Bihar, Korba-Chhattisgarh, Kudgi-Karnataka** {2006, 2010, 2013, 2016, 2023}
+- India is self-sufficient in **thorium** {2002, 2003, 2005}
+- **Gujarat** = first in **wind** power and **tidal** potential (Khambhat, Kachchh) {1991, 2013, 2022}
+@end
+
+@section 22.1 | The Energy Mix
+- Largest source of energy: **coal** {2002, 2008}
+- Largest share in power generation: **thermal** {2006, 2011}
+- Order in the 2000s: thermal, hydro, nuclear, wind; now wind has overtaken hydro and nuclear (*) {2010, 2014}
+- Installed capacity (2019): **hydro, gas, nuclear, diesel** {2016}
+- **Biogas** is **not** a commercial source {2013}
+
+@table
+Source (end 2025) | Capacity | Share
+Coal and lignite | 226 GW | 44%
+Solar | 136 GW | 26%
+Wind | 55 GW | 11%
+Large hydro | 51 GW | 10%
+Gas and diesel | 21 GW | 4%
+Nuclear | 8.8 GW | 2%
+@end
+
+@section 22.2 | Thermal Power Stations
+- **Singrauli**: NTPC's **oldest** unit; it is in **UP** (Sonbhadra), not Chhattisgarh {2021}
+- **Obra** thermal plant was built with **Russian** (Soviet) help {2008}
+- **Ukai-Gujarat, Patratu-Jharkhand, Pench-MP, Dabhol-Maharashtra** {2010, 2013}
+- **Uran** gas plant: **Maharashtra** {2010}
+- **Ramagundam**: AP then, **Telangana** now {2004}
+- **Kahalgaon-Bihar, Khargone-MP, Korba-Chhattisgarh, Kudgi-Karnataka** {2023}
+- **Paras-AP** is wrong (Paras is in **Maharashtra**) {2006}
+- Thermal capacity rank 2008: **Maharashtra** first; now **UP** leads (*) {2008}
+- Plant Load Factor then: **65-70%** {2004}
+- **Korba-wind** is wrong (Korba = thermal) {2016}
+- **Chamera-hydro, Gwal Pahari-solar, Kudankulam-atomic, Patratu-thermal** {2019}
+
+@section 22.3 | Nuclear Power
+- Self-sufficient in **thorium** {2002, 2003, 2005}
+- Nuclear energy is promising, but nuclear minerals are **not** everywhere (A true, R false) {2006}
+- First nuclear reactor: **Apsara** (1956, Trombay) {?}
+- **Kota-Rajasthan, Tarapur-Maharashtra, Kakrapar-Gujarat, Narora-UP** {1999}
+- **Gujarat-Kakrapar, Karnataka-Kaiga, Rajasthan-Rawatbhata, UP-Narora** {2002}
+- Commissioning-year pairs: none correct (*) {2007}
+- **Ennore-Meghalaya** is wrong (Ennore = Tamil Nadu, thermal) {2015}
+- **Mithi Virdi** was planned with the **USA** (moved to **Kovvada**, AP) {2014}
+- **Haripur-Haryana** is wrong; Haripur is **West Bengal**; Haryana's is **Gorakhpur** {2017}
+- **Anushakti Vidyut Nigam** = NPCIL + **NTPC** {2015}
+
+@flow India's three-stage nuclear programme
+Stage 1: PHWR | Natural uranium; produces plutonium
+Stage 2: Fast breeder | Plutonium; PFBR at Kalpakkam
+Stage 3: Thorium reactors | Uses India's vast thorium (monazite)
+@end
+
+@table
+Nuclear station | State | First unit
+Tarapur | Maharashtra | 1969
+Rawatbhata (Kota) | Rajasthan | 1973
+Kalpakkam | Tamil Nadu | 1984
+Narora | Uttar Pradesh | 1991
+Kakrapar | Gujarat | 1993
+Kaiga | Karnataka | 2000
+Kudankulam | Tamil Nadu | 2013 (Russia)
+Gorakhpur | Haryana | Under construction
+@end
+
+@section 22.4 | Hydro, Wind, Solar and Tidal
+- Hydro station: **Koyna** (Maharashtra) {1992}
+- Correct: **Sabarigiri-hydro, Ghatprabha-irrigation, Ramganga-multipurpose**; Idukki is **hydro**, not thermal {2017}
+- **Shivanasamudra** = hydel (1902); **Kalpakkam** = nuclear {2023}
+- First in wind power: **Gujarat** (Tamil Nadu earlier) {2013}
+- Asia's biggest 150 MW wind project (1999): **Tamil Nadu** (Muppandal) {1999}
+- First in installed capacity: **Gujarat** per key (Maharashtra in 2006); Gujarat leads now with renewables {2006}
+- **Rampura**, first solar-powered village: **UP** {2010}
+- First UT on 100% solar: **Diu** {2017}
+- Largest tidal energy area: **Khambhat** coast; most potential: **Bhavnagar** (Gulf of Khambhat) {2022, 1991}
+
+@section 22.5 | Hot Springs
+- **Lasundra-Rajasthan** is wrong (Lasundra is in **Gujarat**) {2014}
+- **Jwalamukhi-J&K** is wrong (it is in **Himachal Pradesh**) {2015}
+
+@trap
+- **Singrauli** NTPC plant is in **UP**; **Paras** is Maharashtra; **Ennore** is Tamil Nadu; **Haripur** is West Bengal.
+- **Idukki, Koyna, Sabarigiri, Shivanasamudra** = hydro; **Korba, Patratu, Obra** = thermal.
+- Lasundra (Gujarat), Jwalamukhi (HP), Manikaran (HP), Puga (Ladakh): geothermal sites.
+@end
+
+@up UP has **Narora** atomic plant (Bulandshahr, 1991), **Singrauli** (NTPC's oldest), **Obra** (Soviet aid), **Anpara**, **Rihand** in Sonbhadra (India's "power capital"), the gas plant at **Auraiya**, and **Rampura**, India's first solar village. UP now leads in thermal capacity.
+
+@last
+- Coal/thermal = largest energy and power source
+- India self-sufficient in **thorium**; first reactor **Apsara**
+- **Narora-UP, Kakrapar-Gujarat, Kaiga-Karnataka, Rawatbhata-Rajasthan**
+- Haripur = WB; Gorakhpur nuclear = **Haryana**; Mithi Virdi to Kovvada (USA)
+- Singrauli = NTPC's oldest (UP); **Obra** = Russia
+- Ukai = Gujarat; Patratu = Jharkhand; Kahalgaon = Bihar; Kudgi = Karnataka
+- **Gujarat** = wind, tidal (Khambhat), largest capacity now
+- **Rampura** (UP) = first solar village; **Diu** = first solar UT
+- Shivanasamudra = hydel; Idukki = hydro
+- Jwalamukhi = HP; Lasundra = Gujarat
+@end

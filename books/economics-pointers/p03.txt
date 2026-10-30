@@ -1,0 +1,119 @@
+@chapter 3 | Agriculture I: Structure, Land Reforms and Production
+@meta Built from 52 UPPSC questions (1996–2024). Focus: land reforms, farm sizes, agriculture's share, leading crop states, food self-sufficiency, early schemes.
+
+@hot
+- Agriculture's share of the economy is **decreasing** (now about 18% of GVA) {1996, 1998, 1999, 2004, 2010, 2012, 2013, 2017}
+- Land reforms: **abolition of intermediaries, tenancy reform, ceilings**; multiple cropping is not one {2015, 2017, 2019}
+- **National Horticulture Mission**: **May 2005** (Tenth Plan); UP is covered {2009, 2010, 2010, 2016}
+- **Kisan Diwas**: **23 December** (Charan Singh) {2017}
+@end
+
+@section 3.1 | Basic Ideas
+- **Kisan Divas**: **23 December** {2017}
+- Genetic industry includes **agriculture** {2016}
+- **Cereal yield**: output per unit harvested area (only 1) {2024}
+- **Bullock capitalist**: farmers with some resources but **not rich** {2017}
+- Did not favour co-operative farming: **Charan Singh** {1996}
+
+@section 3.2 | Land Reforms and Holdings
+- Not a land reform: **multiple-cropping scheme** {2015}
+- Tenancy reform: **rent regulation, security of tenure, ownership** (all three) {2019}
+- 1-2 hectare holder: **small farmer** {2021}
+- Agrarian reform: **abolition of intermediaries, tenancy reform, land ceilings** {2017}
+
+@table
+Holding | Area
+Marginal | Below 1 ha (~68%)
+Small | 1-2 ha
+Semi-medium | 2-4 ha
+Medium | 4-10 ha
+Large | Over 10 ha
+Average | 1.08 ha
+@end
+
+@section 3.3 | Agriculture in the Economy
+- Slow farm growth: **rural poverty** {2016}
+- Agriculture's income share: depends on year (about 18% now) (*) {1996, 1998, 2010, 2012, 2013}
+- Agriculture's contribution is **decreasing** {1999, 2004, 2017}
+- Negative farm growth: **2014-15**; **Third Plan** {2017, 2004}
+- Rural households in farming (NSSO 2014): **57.8%** {2016}
+- Cropping intensity: about **155%** {2012}
+- Not a cause of low productivity: **co-operative farming** {2002, 2007}
+- Agriculture matters in **all** listed ways {2007}
+- Agricultural income tax: **State Governments** {2009}
+- Most UP workers: **agriculture** {2012}
+
+@section 3.4 | Crops and States
+- Largest soybean area: **Madhya Pradesh** {2012}
+- Highest cotton yield (2014): **Australia** {2015}
+- Black soil suits **cotton** {2008}
+- Critical wheat irrigation: **CRI stage** {2005}
+- Wheat order: now MP, Haryana, Rajasthan, Bihar among options (*) {2012}
+- Net sown area: about **14 crore hectares** {2016}
+- Largest vegetable producer: **China** {2015}
+- Onion exports 2015-16: about **12 lakh tonnes** {2016}
+- **Mango-UP, Litchi-Bihar, Coconut-Kerala, Apple-J&K** {2021}
+- Wrong: **coffee-Mongolia** {2021}
+- Coffee order (2016): **Brazil, Vietnam, Colombia, Indonesia** {2018}
+- Cash crops: **sugarcane, cotton, rapeseed** (and potato) {2023}
+- Niger seed oil: **37-47%** {2021}
+- Mulberry silk: **Karnataka** {2017}
+
+@table
+Crop | Leading state
+Wheat, sugarcane, mango | Uttar Pradesh
+Rice | West Bengal, UP
+Soybean | Madhya Pradesh
+Cotton | Gujarat
+Litchi | Bihar
+Apple | J&K
+Mulberry silk | Karnataka
+@end
+
+@section 3.5 | Food and Trade
+- Foodgrain fell in **2004-05** {2008}
+- Economy stagnant? unclear (*) {2001}
+- Near self-sufficiency; no bulk imports (R explains A) {2002, 2003}
+- National but not household food security: **stock exists, access lacking** {2008}
+- Reforms needed; many farmers rely on monsoon (both true, R not the explanation) {2023}
+- Largest pulse import 2015-16: **lentil** {2016}
+- Top farm export earner: **basmati rice**; most valuable: **rice** {2010, 2010}
+- Export mango: **Alphonso** {2012}
+
+@section 3.6 | Early Schemes
+- **Kisan Bahi** (UP): **1992** {2010}
+- RKVY: wrong that aid is an **80% grant** (it is 100%) {2009, 2010}
+- Sengupta and Sdasyuk: **60** micro regions {2017}
+- NHM: **Tenth Plan**; **May 2005**; covers **UP** {2009, 2016, 2010}
+- Not an NHM aim (key): **financial assistance** {2010}
+- Krishi Shramik Samajik Suraksha: **pension and insurance** {2001}
+- Small Farmers Development Agency: **1971** (no option, *) {2014}
+
+@flow Land reform steps
+Zamindari abolition | UP Act 1950; first and most successful
+Tenancy reform | Rent, tenure, ownership
+Land ceilings | Surplus land to landless
+Consolidation | Chakbandi (UP, Punjab)
+Bhoodan | Vinoba Bhave, 1951
+@end
+
+@trap
+- **Small** = 1-2 ha; **marginal** = below 1 ha.
+- Agricultural income is taxed by **States**.
+- RKVY grant is **100%**, not 80%.
+@end
+
+@up UP leads India in **wheat, sugarcane, potato, mango and milk**; its **Zamindari Abolition Act (1950)** was the model land reform, **Kisan Bahi** began in 1992, and most UP workers are in farming.
+
+@last
+- Kisan Diwas **23 Dec**
+- Land reform: zamindari, tenancy, ceilings
+- Small farmer **1-2 ha**
+- Farm share falling (~18% of GVA)
+- Negative farm growth: Third Plan, **2014-15**
+- 57.8% rural households farm (2014)
+- MP = soybean; Australia = top cotton yield
+- Mango UP; Litchi Bihar; Apple J&K
+- NHM **May 2005**; Kisan Bahi **1992**
+- Basmati = top farm export
+@end

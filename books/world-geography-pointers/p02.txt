@@ -1,0 +1,64 @@
+@chapter 2 | The Earth and the Moon
+@meta Built from 15 UPPSC questions (1992–2016). Focus: Earth's crust and axis, the Moon's facts, blue moon, lunar missions.
+
+@hot
+- Only one face of the Moon is seen: rotation = revolution period {2006}
+- **Blue moon**: two full moons in one month {2007, 2009}
+- Match: **planet-Uranus, satellite-Moon, comet-Halley, spacecraft-Mariner** {1992, 1999}
+@end
+
+@section 2.1 | The Earth
+- Earth's nickname: **Green Planet** (per key) {1999}
+- Most abundant element in the crust: **oxygen** {2013}
+- Sunlight reaches Earth in about **8 minutes** {2005}
+- Axis tilted **23.5°** (66.5° to orbital plane) {2016}
+- True: northern end of axis = North Pole; axis stays parallel (1 and 3) {2000}
+- A ball thrown from a satellite keeps **orbiting in the same path** {1995}
+
+@table
+Crust element | Share
+Oxygen | 46.6%
+Silicon | 27.7%
+Aluminium | 8.1% (most common metal)
+Iron | 5.0% (most in the whole Earth)
+@end
+
+@section 2.2 | The Moon
+- One face seen because rotation = revolution (R explains A) {2006}
+- Moon's core: **viscous liquid** per key (now thought solid inner + fluid outer) {2004}
+- No sound on the Moon: **no atmosphere** {2003}
+- Half moon: Sun-Earth-Moon angle **90°** {2005}
+- Match: **planet-Uranus, satellite-Moon, comet-Halley, spacecraft-Mariner** {1992, 1999}
+- Blue moon: **two full moons in a month** {2007, 2009}
+- On the Moon an object's **weight decreases** (mass same) {2006}
+- Earth-Moon distance: about **3,84,400 km** (key 364 thousand, perigee) {2008}
+- SELENE: **Japan**, first Asian lunar orbiter of its kind {2009}
+
+@flow Milestones on the Moon
+Luna 2 (1959) | USSR; first impact
+Apollo 11 (1969) | USA; first humans
+Chandrayaan-1 (2008) | India; water molecules
+Chang'e 4 (2019) | China; far side
+Chandrayaan-3 (2023) | India; south pole; 23 Aug = National Space Day
+@end
+
+@trap
+- Most abundant in **crust** = oxygen; in **whole Earth** = iron.
+- Weight changes on the Moon; **mass does not**.
+- Blue moon is about **two full moons**, not colour.
+@end
+
+@up No UP item. **Chandrayaan-3** landing day, 23 August, is now **National Space Day**.
+
+@last
+- Crust: **oxygen**, silicon, aluminium
+- Light from Sun: **8 min 20 s**
+- Axis tilt **23.5°**
+- Moon: same face, rotation = revolution
+- No air, so no sound on the Moon
+- Half moon: angle **90°**
+- Blue moon = 2 full moons in a month
+- Moon distance **3,84,400 km**
+- **SELENE** = Japan
+- Chandrayaan-3 = south pole, 2023
+@end

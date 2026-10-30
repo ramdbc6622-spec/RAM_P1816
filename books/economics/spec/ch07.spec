@@ -1,0 +1,244 @@
+@chapter 7 | Fiscal Policy, the Union Budget and Deficits
+
+@intro
+This chapter covers **fiscal policy** (who makes it and what it aims at), the **Union Budget** (themes, allocations, receipts and expenditure, the 2017 reforms), the **deficit measures** (fiscal, revenue, primary, effective revenue), **deficit financing**, the **FRBM Act**, and budgeting techniques such as **zero-based** and **performance budgeting**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 7.1 | Fiscal Policy
+
+@q 6:14-16
+
+**Fiscal policy** is the government's use of **taxation, spending and borrowing**; it is made by the **Ministry of Finance**. Monetary policy (money supply, interest rates) belongs to the **RBI**. The aims of fiscal policy are **growth, full employment, price stability and fair distribution**; regulating inter-state trade is not one of them. The **Long-Term Fiscal Policy** was announced by **V.P. Singh** in **1985**.
+
+@q 6:5
+
+@q 6:39
+
+@src 6:4
+@pyq U.P.P.C.S. (Pre) 2017
+As per the Economic Survey 2015-16, which one of the following has been constructed as the Chakravyuha Challenge of the Indian economy?
+(a) Movement of Indian economy from socialism to capitalism
+(b) Movement of Indian economy from socialism with limited entry to marketism with exit
+(c) Movement of Indian economy from socialism with limited entry to marketism without exit
+(d) Movement of Indian economy from mixed economy to capitalism
+@ans (c)
+@note The source prints this question without its number (Q4). The Economic Survey 2015-16 (Chief Economic Adviser **Arvind Subramanian**) said India had moved from "socialism with limited entry" to "**marketism without exit**": firms could enter easily but could not close down. The **Insolvency and Bankruptcy Code, 2016** was the answer to this "exit problem".
+@end
+
+@q 6:17-18
+
+The **Economic Survey** is prepared by the **Economic Division of the Department of Economic Affairs** (Ministry of Finance) under the **Chief Economic Adviser**, and is tabled a day before the Budget. The current CEA is **V. Anantha Nageswaran**.
+
+@section 7.2 | The Union Budget
+
+@q 6:1
+
+@src 6:2
+@pyq U.P. P.C.S. (Pre) 2023
+Which statement is true for Finance Sector (Fiscal Management) in the Union Budget, 2023?
+(a) Fiscal Deficit of 3.5% of GSDP allowed for States.
+(b) Budget estimates 2023-24 for total expenditure is Rs. 55 lakh Cr.
+(c) Fiscal Deficit 2025-26, the target is to be below 5.5%.
+(d) Twenty years interest free loans to States.
+@ans (a)
+@note States were allowed a fiscal deficit of **3.5% of GSDP**, of which 0.5% was tied to **power sector reforms**. Total expenditure was estimated at about **Rs. 45 lakh crore**, the target was a fiscal deficit **below 4.5%** by 2025-26, and capital-expenditure loans to states were **interest-free for 50 years**, not 20.
+@end
+
+@src 6:3
+@pyq U.P.P.C.S. (Pre) 2021
+According to the Union Budget 2021-22, Finance Minister proposed a new levy Agriculture Infrastructure and Development Cess. This cess will be levied on how many products?
+(a) 12
+(b) 20
+(c) 25
+(d) 29
+@ans (d)
+@note The **Agriculture Infrastructure and Development Cess (AIDC)** was put on **29 products**, including gold, silver, imported apples, imported alcohol (except beer) and imported pulses. Basic customs duty was cut on most of them, so consumers did not pay more on most goods.
+@end
+
+@q 6:28
+
+@table
+Budget reform | Year | Detail
+Budget date moved to **1 February** | **2017-18** | So the Budget is passed before the year starts on 1 April
+**Railway Budget merged** with the General Budget | **2017-18** | On the **Bibek Debroy** committee's advice; ended the 1924 practice
+**Plan / non-plan** classification ended | **2017-18** | Replaced by **revenue / capital**
+Outcome Budget | 2005-06 | Links money to results
+Gender Budget statement | 2005-06 | -
+@end
+
+@src 6:20
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following (Union Budget Departments 2023-24 – Allocation amount approx. Rs.) is correctly matched?
+(a) Pradhan Mantri Jan Arogya Yojana – Rs. 5,000 Crore
+(b) Dept. of Health and Family Welfare – Rs. 80,000 Crore
+(c) Ministry of Health – Rs. 89,155 Crore
+(d) Dept. of Health Research – Rs. 9,155 Crore
+@ans (c)
+@note In 2023-24 the **Ministry of Health and Family Welfare** got about **Rs. 89,155 crore**; PM-JAY got about Rs. 7,200 crore, the Department of Health and Family Welfare about Rs. 86,175 crore, and the Department of Health Research about Rs. 2,980 crore. The Ministry's allocation for 2026-27 is about **Rs. 1.07 lakh crore**.
+@end
+
+@q 6:21-22
+
+@src 6:23
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per Union Budget 2018-19, match List-I with List-II and select the correct answer from the codes given below the lists :
+@match
+List-I (Sector) | List-II (Budget Allocation : in lakh crores)
+A. Defence | 1. Rs. 1.38
+B. Agriculture and allied activities | 2. Rs. 1.69
+C. Subsidy for food | 3. Rs. 0.63
+D. Rural development | 4. Rs. 2.82
+@endmatch
+Codes : A B C D
+(a) 4 3 2 1
+(b) 1 2 3 4
+(c) 4 2 1 3
+(d) 3 1 4 2
+@ans (a)
+@end
+
+**Defence** got the most of these four in 2018-19 (Rs. 2.82 lakh crore). In 2026-27 the defence allocation is about **Rs. 5.95 lakh crore**. In 2023-24 the biggest heads of the rupee's outgo were **interest (20%)** and the **states' share of taxes (18%)**; **defence was 8%** and **subsidies about 7%**, not 9%.
+
+@q 6:42-44
+
+@section 7.3 | Receipts and Expenditure
+
+@q 6:24-25
+
+@src 6:26
+@pyq U.P.P.C.S. (Pre) 1998
+Which among the following are the sources of income in current account of the Central Government?
+I. Corporation Tax
+II. Profit from Public Enterprises
+III. Sale of National Savings Certificates
+IV. Loans received from the World Bank
+V. Excise duties
+Select the correct answer from the codes given below:
+Codes:
+(a) I, II and III
+(b) I, III and IV
+(c) III, IV and V
+(d) I, II and V
+@ans (d)
+@end
+
+**Revenue (current) receipts** are **taxes** and **non-tax revenue** (dividends and profits of PSUs, interest, fees). **Capital receipts** are **borrowings** (including small savings such as NSCs and external loans), **loan recoveries** and **disinvestment**. Borrowing creates a liability, so it is a capital receipt.
+
+@q 6:27
+
+@qnote 6:27 | When the question was set (2006), **non-plan expenditure** was the largest head, so (b) was the answer then. The plan/non-plan split was abolished from **2017-18**, and the source gives the present answer, **(c) revenue expenditure**.
+
+@q 6:29
+
+@table
+Union Budget 2026-27 (BE) | Rs. lakh crore (approx.)
+**Total expenditure** | **53.47**
+Revenue expenditure | 41.25 (about 77%)
+Capital expenditure | 12.22
+Revenue receipts | 35.33 (about 66% of receipts)
+Capital receipts (mainly borrowing) | 18.14
+**Fiscal deficit** | **4.3% of GDP** (4.4% in 2025-26 RE)
+Largest item of revenue expenditure | **Interest payments**
+Largest source of tax revenue | **Income tax** (then corporation tax, GST)
+@end
+
+@section 7.4 | Deficits and Deficit Financing
+
+@q 6:30-32
+
+@qnote 6:32 | In 2000 the states' combined fiscal deficit was about **Rs. 1 lakh crore**, so (d) was correct then; because "present" keeps changing, the source marks it (*). The states' combined deficit for 2025-26 (BE) is about **Rs. 11.8 lakh crore (3.3% of GDP)** (RBI, *State Finances*).
+
+@src 6:33
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002, 2003; U.P.P.C.S. (Pre) 2002; U.P.P.C.S. (Mains) 2004, 2008
+Consider the following budget deficits of Central Government :
+1. Primary deficit
+2. Fiscal deficit
+3. Revenue deficit
+The correct descending order of their values is :
+Code :
+(a) 2, 3, 1
+(b) 1, 2, 3
+(c) 2, 1, 3
+(d) 3, 2, 1
+@ans (a)
+@end
+
+@q 6:34-37
+
+@table
+Deficit | Formula
+**Revenue deficit** | Revenue expenditure − revenue receipts
+**Effective revenue deficit** | Revenue deficit − **grants for creating capital assets**
+**Fiscal deficit** | Total expenditure − (revenue receipts + non-debt capital receipts) = **total borrowing need**
+**Primary deficit** | **Fiscal deficit − interest payments**
+Budget deficit (old) | Total expenditure − total receipts; ended in 1997-98
+Monetised deficit | Part of the deficit met by **RBI** credit
+@end
+
+Fiscal deficit is always the largest; interest is large, so the **primary deficit is the smallest**. Most of the fiscal deficit is met by **domestic market borrowing** (dated securities), plus small savings; foreign borrowing is small.
+
+@src 6:38
+@pyq U.P.P.C.S. (Mains) 2003
+Assertion (A) : Deficit financing leads to inflation.
+Reason (R) : It increases money supply as compared to goods and services.
+In the context of the above which one of the following is correct :
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@src1 6:2
+@one U.P.P.C.S. (Pre) 1993
+Deficit financing creates additional paper currency to fill the gap between expenditure and revenue. This device aims at economic development. But if it fails, it generates
+@ans Inflation
+@end
+
+@src1 6:3
+@one U.P.P.C.S. (Pre) 2016
+What is the effect of deficit financing on economy?
+@ans Increase in money supply
+@end
+
+@q 6:41
+
+@table
+FRBM fact | Detail
+**Act passed** | **2003** (in force July 2004)
+Original targets | Fiscal deficit **3% of GDP**, revenue deficit nil
+N.K. Singh review committee | 2017: **debt-to-GDP 60%** (Centre 40%, states 20%) as the anchor
+Ad hoc treasury bills | Ended from **1 April 1997** (monetisation stopped)
+New anchor (Budget 2025-26) | Central debt about **50 ± 1% of GDP by March 2031**
+@end
+
+@section 7.5 | Budgeting Techniques
+
+@q 6:19
+
+@src1 6:1
+@one U.P.P.C.S (Mains) 2011
+Statement (A) : Zero-Base Budget has been introduced in India. Reason (R) : Zero-Base Budget technique involves a critical review of every scheme before a budgetary provision is made.
+@ans Both (A) and (R) are correct and (R) is the correct explanation of (A).
+@end
+
+@q 6:40
+
+**Zero-based budgeting** (every scheme justified afresh, not just last year plus a bit) began in the **USA** (Peter Pyhrr at Texas Instruments, then the state of Georgia); India adopted it in **1983** (Department of Science and Technology first) and in all ministries from **1986-87**. **Performance budgeting** came from the USA's **Hoover Commission** (1949) and was adopted in India in 1969 on the **Administrative Reforms Commission's** advice.
+
+@up UP link: UP's Budget for **2025-26** was about **Rs. 8.08 lakh crore**, the largest of any state. UP keeps its fiscal deficit within the **3% of GSDP** limit (plus extra room for power reforms) under its own **FRBM Act, 2004**.
+
+@trap
+**Fiscal policy = Finance Ministry**; monetary policy = RBI. Long-Term Fiscal Policy = **V.P. Singh (1985)**. Economic Survey = **Finance Ministry**. **Primary deficit = fiscal deficit − interest.** Order: **fiscal > revenue > primary.** **Effective revenue deficit = revenue deficit − capital-asset grants.** **FRBM 2003.** Deficit financing → more money → **inflation**. **Interest** is the largest revenue expenditure. **ZBB and performance budget: USA.** **2017-18**: Budget on 1 February, rail budget merged, plan/non-plan ended.
+@end
+
+@heatmap
+
+@pattern
+Older papers asked deficit definitions and FRBM; the **2017-2024** papers turned to **specific Budgets** (themes, allocations, cesses, outlay shares) and the **Economic Survey**. Expect at least one "current Budget" statement question.
+@end
+
+@next
+Likely next angles: **Budget 2026-27** figures (capex, fiscal deficit 4.3%), the **debt-to-GDP anchor**, the **16th Finance Commission** grants, the **new Income-tax Act 2025**, interest-free capex loans to states, and **UP's** Budget size and fiscal deficit.
+@end

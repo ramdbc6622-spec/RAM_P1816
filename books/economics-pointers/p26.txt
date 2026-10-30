@@ -1,0 +1,120 @@
+@chapter 26 | Urbanisation II: Cities, Migration and Urban Missions
+@meta Built from 53 UPPSC questions (1993–2021). Focus: town classes, million-plus cities and megacities, UP's million cities, migration terms, slums, JNNURM and the Smart Cities Mission.
+
+@hot
+- **Million-plus cities**: **35 (2001)**, **53 (2011)**; they hold **42.6%** of urban people {2006, 2013, 2017, 2017, 2019}
+- **UP million cities**: **6** (2001, most of any state), **7** (2011) {2004, 2005, 2005, 2015}
+- **Town classes**: **6** classes; small towns = **Class IV, V, VI**; Class I grows fastest and holds over 60% {2000, 2007, 2008, 2010, 2019}
+- **Largest cities**: **Greater Mumbai, Delhi, Kolkata**; first million city (1901) = **Kolkata** {1993, 2002, 2004, 2016}
+- **JNNURM** = named after **Nehru**; for **urban infrastructure**, not electrification; Smart Cities fund water and sewerage from **property tax** {2004, 2010, 2010, 2013, 2015}
+@end
+
+@section 26.1 | Classes of Towns
+- Classes of urban centres: **6** {2008}
+- Small towns: **Class IV, V and VI** {2007}
+- Fastest population growth: **Class I** towns {2000}
+- Class I share of urban population (2001): **62.32%** {2010}
+- Over 60% of urban people in Class I cities; **53** million-plus UAs in 2011 (both) {2019}
+
+@table
+Town class | Population
+Class I | 1,00,000 and above
+Class II | 50,000-99,999
+Class III | 20,000-49,999
+Class IV | 10,000-19,999
+Class V | 5,000-9,999
+Class VI | Below 5,000
+@end
+
+@section 26.2 | Million-Plus Cities and Megacities
+- Million cities (2011): **53** {2013, 2017}
+- Million cities (2001): **35**, not in options (*) {2006}
+- Metropolitan share of urban people (2011): **42.61%** {2017}
+- Million cities' share (2001): about **38%** {2006}
+- Megacities grow at different rates; India had **six**, not four, in 2001 (A true, R false) {2010}
+- Not a megacity (2001): **Ahmedabad** {2005}
+- Order (2001): **Greater Mumbai, Delhi, Kolkata, Bengaluru** {2004}
+- Most populous pair (2011): **Greater Mumbai and Delhi** {2016}
+- Order (1991): **Bombay, Calcutta, Delhi, Madras** {1993}
+- Most million cities (2001): **Uttar Pradesh** {2005}
+- No million-plus UA (2011): **Odisha**; no million city: **Odisha and Assam** {2016, ?}
+- Not a million city in MP: **Gwalior** {2008}
+- UP's share of the 35 million cities (2001): **6** {2004}
+- UP's million cities (2011): **7** {2015}
+- Ascending: **Allahabad, Meerut, Agra, Lucknow** {2010}
+- Order: **Ghaziabad, Agra, Varanasi, Meerut** {2015}
+- Last-ranked million city (2011): **Kota** {2016}
+- Smallest million city (then): **Rajkot** {2007}
+- State with a million city (2001): **Jharkhand** {2006}
+- First million city (1901): **Kolkata** {2002}
+- Metro with highest sex ratio: **Chennai** {2002, 2003}
+- UP's fastest urban growth: **1971-81** {2009}
+- Densest UP city (2011): **Ghaziabad** {2012}
+- Not true: UP has **only 5** million cities {2005}
+
+@table
+UP million-plus cities (2011) | Note
+Kanpur, Lucknow | About 2.9 million each
+Ghaziabad | Densest UP city
+Agra, Varanasi | -
+Meerut, Prayagraj | Smallest of the seven
+@end
+
+@section 26.3 | Migration and Urban Society
+- Correct: northern cities' skewed sex ratio, scattered eastern cities, fewer rural migrants in western cities (1, 2, 4) {2010}
+- Correct: 1, 2 and 3; urbanisation = rural-to-urban migration; the **Indus Project** was India-**USA**, not Canada {2013}
+- Rural-to-urban migration: **population implosion** (Philip M. Hauser) {2003}
+- Migration theory: **Lee** (Everett Lee, push-pull) {2017}
+- Cities expand as village-city flow rises (A and R true, R explains A) {1998}
+- Largest stream is **rural to rural**, not rural to urban; it is mostly women (A false, R true) {2017}
+- **Urban corridors**: **expanding urban functions** {2009}
+
+@section 26.4 | Urban Problems
+- Crime rose with urbanisation and industry; family breakdown explains it (A and R true, R explains A) {2002}
+- Rapid urbanisation brings **slums, crowding, falling services** (1, 2, 3); not fast infrastructure {2001}
+- Correct: concrete coasts, a big city between Mumbai and Ahmedabad, slums and pollution (2, 3, 4); Maharashtra is not the most urbanised {2008}
+- Urban poverty is rooted in rural areas with low literacy (A and R true, R explains A) {2010}
+- Largest slum population among options: **Delhi** {2011}
+- Slum population order: **Maharashtra, AP, West Bengal, UP** {2009}
+- Most slum-reporting cities: **Tamil Nadu** {2007}
+
+@section 26.5 | Urban Missions
+- **India Urban Observatory**: **New Delhi** {2021}
+- Not urban infrastructure: **housing** {2004}
+- Not an urban infrastructure scheme: **Digital India** {2016}
+- National Urban Renewal Mission named after **Jawaharlal Nehru** {2004}
+- Not a JNNURM aim: **urban electrification** {2010}
+- Not true of JNNURM: a **10-year** programme (it was 7 years) {2013}
+- JNNURM improves **urban infrastructure** {2010}
+- Smart Cities: water and sewerage funded by **property tax** {2015}
+- Not a smart-city aim: **stabilising** quality of life (it aims to improve it) {2017}
+
+@flow Urban missions in order
+JNNURM | December 2005; 7 years; infrastructure and slum services
+Smart Cities, AMRUT, HRIDAY | 2015; 100 smart cities; 500 AMRUT cities
+PMAY-Urban | 2015; housing for all
+India Urban Observatory | 2019; New Delhi
+AMRUT 2.0, SBM-U 2.0 | 2021
+@end
+
+@trap
+- Small towns = **Class IV-VI**; Class I = 1 lakh+.
+- Megacities 2001 = **6** (no Ahmedabad); million cities 35 (2001), **53** (2011).
+- Largest migration stream = **rural to rural** (women, marriage).
+- JNNURM = **7** years, not 10; no electrification.
+@end
+
+@up UP link: UP had **7 million-plus cities** in 2011 (Kanpur, Lucknow, Ghaziabad, Agra, Varanasi, Meerut, Prayagraj); **10 UP cities** were picked for the Smart Cities Mission (Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Aligarh, Bareilly, Moradabad, Saharanpur, Jhansi), and **Ghaziabad** is the densest UP city.
+
+@last
+- **6** town classes; small = Class IV-VI
+- Class I = **62.3%** of urban people (2001), fastest growing
+- Million cities **35 (2001), 53 (2011)**; 42.6% of urban people
+- 6 megacities in 2001; **Ahmedabad** not one
+- Mumbai > Delhi > Kolkata; Kolkata first million city
+- UP: **6** (2001), **7** (2011) million cities; Ghaziabad densest
+- Kota last (2011); Rajkot smallest (2001); Odisha none
+- **Hauser** = population implosion; **Lee** = migration
+- Most slums: Maharashtra; most slum towns: Tamil Nadu
+- JNNURM = Nehru, 7 years; Smart Cities = property tax
+@end

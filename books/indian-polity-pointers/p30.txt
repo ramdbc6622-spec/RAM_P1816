@@ -1,0 +1,69 @@
+@chapter 30 | The Finance Commission
+@meta Built from 15 UPPSC questions (1993–2023). Focus: tax sharing, Art 280, five-year cycle, chairman plus four members, chairmen of the 13th and 14th, State Finance Commissions.
+
+@hot
+- **Finance Commission** shares taxes between Centre and States {1993, 2002, 2006, 2008, 2010, 2013, 2023}
+- Constituted **every 5 years** under **Art 280** by the **President** {2008, 2010, 2011, 2021}
+- **Chairman + 4 members**; reports to the **President** {2008, 2023}
+- **State Finance Commission** is a **constitutional** body {2015, 2015, 2016}
+@end
+
+@section 30.1 | Functions
+- Distributes taxes between Centre and States; finances shared on its advice {2023, 2008, 2010, 2013}
+- Determines the States' share of taxes and grants {1993, 2002}
+- Advises the **President** on dividing net tax proceeds {2006}
+
+@section 30.2 | Constitution (Art 280)
+- Every **5 years** {2008, 2010, 2011}
+- Appointed under **Art 280** {2021}
+- Chairman and six members; reports to NITI Aayog: **neither** true {2023}
+- Chairman and **four** other members {2008}
+- Qualifications set by **Parliament** (1951 Act), not the President (A false, R true) {2021}
+
+@flow How a Finance Commission award works
+Art 280 | President appoints chairman + 4
+Finance Commission (Misc. Provisions) Act 1951 | Qualifications
+Report | To President; laid in Parliament
+Vertical + horizontal shares | Union decides on acceptance
+@end
+
+@section 30.3 | Classification
+- "Statutory" body (per key; strictly **constitutional**) {2023}
+
+@section 30.4 | Chairmen
+- 13th FC: **Vijay Kelkar** {2012}
+- 14th FC: **Y.V. Reddy** (42% share) {2016}
+
+@table
+FC | Chairman | States' share
+1st (1951) | K.C. Neogy | -
+13th | Vijay Kelkar | 32%
+14th | Y.V. Reddy | 42%
+15th | N.K. Singh | 41%
+16th (2026-31) | Arvind Panagariya | 41%
+@end
+
+@section 30.5 | State Finance Commissions
+- SFC is constitutional (true); Union FC **can** recommend aid to Panchayats (R false) {2015}
+- SFC is a **constitutional** body (Arts 243I, 243Y) {2015, 2016}
+
+@trap
+- Report goes to the **President**, not NITI Aayog or Parliament directly.
+- President appoints; **Parliament** fixes qualifications.
+- FC is **constitutional**; Planning Commission and NITI are **executive** bodies.
+@end
+
+@up UP is the largest gainer from FC awards: about **17.6%** of the States' pool under the 15th and 16th FCs. The **UP State Finance Commission** (Art 243I) shares State taxes with Panchayats and urban bodies.
+
+@last
+- FC: **Art 280**; every **5 years**
+- Chairman + **4** members; President appoints
+- Qualifications: **1951 Act** of Parliament
+- Report to **President**
+- Shares taxes and grants
+- 13th **Kelkar**; 14th **Y.V. Reddy** (42%)
+- 15th N.K. Singh; 16th **Panagariya** (41%)
+- First FC: **K.C. Neogy**
+- SFC: **Arts 243I, 243Y**; constitutional
+- UP: largest share
+@end

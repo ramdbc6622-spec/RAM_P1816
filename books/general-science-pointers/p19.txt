@@ -1,0 +1,119 @@
+@chapter 19 | Food Chemistry, Fertilisers and Chemistry Miscellany
+@meta Built from 65 UPPSC questions (1992–2021). Focus: food preservatives, urea and DAP, pesticides and rat poison, silver iodide for artificial rain, chemical-use matching, phosphorus in matches, battery acid.
+
+@hot
+- **Preservatives**: **sodium benzoate**, benzoic acid; chips packed in **nitrogen** {1992, 1996, 2010, 2013, 2016, ?}
+- **Silver iodide** makes **artificial rain** {2008, 2013, 2020, ?}
+- **Zinc phosphide** = **rat poison** {2011, 2012, 2019, 2020}
+- **Chemical-use matching**: **acetone-nail polish remover, CCl4-fire extinguisher, freon-refrigerant, TEL-anti-knock, BHC-insecticide, eosin-red ink, blue vitriol-fungicide** {2010, 2011, 2013, 2013, 2014, 2020}
+- **Urea**: about **46% nitrogen** (amide form); best for **foliar spray**; 2.2 kg gives 1 kg N {2015, 2017, 2017, 2019, ?, ?}
+@end
+
+@section 19.1 | Food Preservation
+- Preservative: **sodium benzoate** (fruit juice) {2010, 2013, ?}
+- Preservative: **benzoic acid** {1992, 1996}
+- Potato chips packed in **nitrogen** {2016}
+- Refrigeration **slows biochemical reactions** {2011, 2013}
+- Decolouring raw sugar: **animal charcoal** {1998}
+
+@section 19.2 | Sugars and Foods
+- Main sugar in honey: **fructose** {2002}
+- Invert sugar is sweeter than sucrose; it comes from hydrolysing sucrose (A and R true, R does not explain A) {2020}
+- Best fruit for jelly: **guava** (rich in pectin) {2013}
+- Organic food: grown **without artificial fertilisers and pesticides** {2014}
+
+@section 19.3 | Chemicals in Medicine and Daily Use
+- Sedative: **potassium bromide** {2010}
+- Irreversible complex with haemoglobin: **carbon monoxide** {1996}
+- Clove oil extract: **eugenol** {2010}
+- Detergents clean well, but they **lower** surface tension (A true, R false) {1997}
+
+@section 19.4 | Fertilisers
+- Plants need chemical fertilisers for phosphorus; manure gives little (A and R true, R explains A) {1998}
+- Element not supplied by fertilisers: **hydrogen** {2007}
+- Leaves most acidity in soil: **ammonium sulphate** {1996}
+- **Urea**: a nitrogen-containing **organic** compound {2017}
+- Urea nitrogen: about **46-47%**, in **amide** form {?, ?}
+- Most soluble at 20 °C among options: **urea** {2017}
+- Urea for 1 kg nitrogen: **2.2 kg** {2019}
+- **DAP**: **18% N, 46% P2O5** {2008}
+- Commonest foliar fertiliser: **urea** {2015}
+
+@table
+Fertiliser | Nutrient content
+Urea | 46% N (amide)
+DAP | 18% N, 46% P2O5
+Ammonium sulphate | 21% N; makes soil acidic
+SSP | 16% P2O5
+MOP | 60% K2O
+Gypsum | Reclaims alkaline soil
+@end
+
+@section 19.5 | Pesticides and Agricultural Chemicals
+- Fire alarm: **photocell** {2020}
+- Fireproof clothing: **aluminium sulphate** (per key) {2015}
+- Mosquito repellent: **pyrethrum** {2009}
+- Pyrethrin comes from a **seed plant** (chrysanthemum) {2005}
+- Rat poison: **zinc phosphide** {2012}
+- Aluminium phosphide: a grain **fumigant** (several right uses, *) {2008}
+- Herbicide: **sodium chlorate** {2019}
+- Correct: **ECG-heart, nicotine-tobacco** (2 and 4) {2002}
+- Alkaline soil reclaimed by **calcium sulphate** (gypsum) {2008}
+- Soil-related: **edaphic** {2015}
+- **Humus**: an **organic colloid** {2014}
+
+@section 19.6 | Uses of Chemicals
+- Artificial clouds and rain: **silver iodide** {2008, 2013, ?}
+- **Blue vitriol-fungicide, eosin-red ink, silver iodide-artificial rain, zinc phosphide-rodenticide** {2020}
+- **Philosopher's wool**: **zinc oxide** {2007}
+- Correct pair: **zinc phosphide-rat poison** {2011}
+- **Iron-haemoglobin, lead-storage battery, silver-photography, copper-lightning conductor** {2010}
+- **Morphine-analgesic, sodium-kerosene, boric acid-antiseptic, German silver-alloy** {2011}
+- "Metal of the future": **titanium** {2010}
+- Wrong pair: **silver-electric bulb** (bulbs use tungsten) {2002}
+- Red ink: **eosin** {2014}
+- Sodium chromate gives **red** (per key; it is yellow) {2016}
+- **Acetone-nail polish remover, CCl4-fire extinguisher, H2O2-wound dressing, liquid ammonia-refrigerant** {2013}
+- **Freon-refrigerant, TEL-anti-knock, BHC-insecticide, CCl4-fire extinguisher** {2013}
+- **Kevlar-synthetic fibre, Taxol-anticancer, zinc phosphide-rodenticide, nitrocellulose-explosive** {2019}
+
+@section 19.7 | Glass, Batteries and Matches
+- Glass that cuts UV: **Crookes glass** {2021}
+- Wrong pair: **HCl-accumulator** (car batteries use **sulphuric acid**) {1998}
+- Safety matches: **red phosphorus** {2016, ?}
+- Glows in air and darkness: **white phosphorus** {2016}
+- Dry cell cannot be recharged; its reaction is **irreversible** (A true, R false) {2004}
+- Car battery acid: **sulphuric acid** {2015, 2016}
+
+@section 19.8 | Miscellany
+- Ozone kills microbes; it is not radioactive (A and R true, R does not explain A) {2013}
+- **Radioactive dating**: age of **rocks** {2008}
+- Age of the Earth: **uranium** method {1992}
+- Desalination plant: **Lakshadweep** (Kavaratti) and Chennai {2007}
+- **Mustard gas**: **chemical warfare** {2008}
+- Smoke screens: **titanium oxide** particles {2009}
+- Incorrect: **nuclear splitting is fusion** {2004, 2010}
+- Correct pair: **ozone depletion-skin cancer** {2015}
+- **Technology Day 11 May, Photography Day 19 August, Sports Day 29 August, Nagasaki Day 9 August** {2003}
+
+@trap
+- Car battery = **sulphuric acid**; dry cell cannot be recharged.
+- Safety matches = **red** phosphorus; white phosphorus glows and is stored in water.
+- Zinc phosphide = rat poison; aluminium phosphide = grain fumigant.
+- Gypsum fixes **alkaline** soil; lime fixes **acidic** soil.
+@end
+
+@up UP link: UP is the largest user of **urea**; plants at **Phulpur** (IFFCO), **Gorakhpur** (HURL, restarted 2021), **Babrala**, **Aonla** and **Shahjahanpur** make it; IIT Kanpur ran **cloud-seeding** (silver iodide) trials in 2023.
+
+@last
+- Sodium benzoate = preservative; chips in **nitrogen**
+- Honey = fructose; guava = jelly; eugenol = clove oil
+- CO binds haemoglobin; KBr = sedative
+- Urea 46% N; DAP 18-46; ammonium sulphate = acidity
+- Pyrethrum = mosquito coil; zinc phosphide = rat poison
+- Silver iodide = artificial rain; eosin = red ink
+- Philosopher's wool = **ZnO**; titanium = metal of future
+- Freon = refrigerant; CCl4 = fire extinguisher; acetone = nail polish remover
+- Red phosphorus = safety matches; H2SO4 = car battery
+- Technology Day 11 May; Sports Day 29 August
+@end

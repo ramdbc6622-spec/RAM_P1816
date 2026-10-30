@@ -1,0 +1,70 @@
+@chapter 37 | Official Language
+@meta Built from 13 UPPSC questions (1990–2025). Focus: English for 15 years, Kher Commission, Art 350A, Eighth Schedule languages, State official languages.
+
+@hot
+- **22** languages in the **Eighth Schedule**; Bhojpuri and Rajasthani are **not** {1993, 2010, 2025}
+- English allowed for **15 years** after 1950 (Art 343) {2023}
+- **Art 350A**: primary education in the **mother tongue** {2002, 2003}
+- First Official Language Commission: **1955**, **B.G. Kher** {1998}
+@end
+
+@section 37.1 | Union Language
+- English permitted for all official purposes for **15 years** {2023}
+- Amending language provisions: special majority (Art 368) for Articles; simple majority for laws under Art 343(3) (*) {2005, 2018}
+
+@flow Hindi as official language
+14 Sept 1949 | Assembly adopts Hindi in Devanagari (Hindi Day)
+Art 343 | Hindi official; English for 15 years
+1955 | Kher Commission (Art 344)
+1963 | Official Languages Act; English continues
+@end
+
+@section 37.2 | Commission (Art 344)
+- First Commission: **1955**, chaired by **B.G. Kher** {1998}
+
+@section 37.3 | No National Language
+- Correct: **Bodo** is in the Eighth Schedule {2016}
+- Mother-tongue instruction at primary level: **Art 350A** {2002, 2003}
+
+@section 37.4 | Eighth Schedule
+- Not included: **Bhojpuri** (Nepali, Dogri, Bodo are in) {2025}
+- In 1993 none of Bodo, Dogri, Maithili, Santhali was in (all added 2003) (*) {2021}
+- Added by amendment: **Sindhi** (1967) and **Konkani** (1992) {1990}
+- Not included: **Rajasthani** {1993}
+- Number: **22** {2010}
+
+@table
+Amendment | Languages added
+21st (1967) | Sindhi
+71st (1992) | Konkani, Manipuri, Nepali
+92nd (2003) | Bodo, Dogri, Maithili, Santhali
+Total now | 22 (original 14)
+@end
+
+@section 37.5 | State Languages (Art 345)
+- Sanskrit as second official language: **Uttarakhand** (2010) {2011}
+
+@section 37.6 | Speakers
+- Most spoken Scheduled language (after Hindi): **Bengali** {1998}
+- Order (2011 Census): **Bengali, Marathi, Telugu, Tamil** {2001}
+
+@trap
+- India has **no national language**; Hindi is the official language of the **Union**.
+- Union numerals are **international** form (1, 2, 3), not Devanagari.
+- **Pali and Prakrit** are classical languages but **not** Scheduled.
+@end
+
+@up UP's official language is **Hindi** with **Urdu** as the second official language (1989). Bhojpuri and Awadhi, widely spoken in UP, are **not** in the Eighth Schedule.
+
+@last
+- Union language: **Hindi in Devanagari** (Art 343)
+- English for **15 years**; continued by 1963 Act
+- **Kher** Commission 1955 (Art 344)
+- Hindi Day **14 September**
+- **Art 350A** mother tongue; **350B** linguistic minorities officer
+- **22** Scheduled languages
+- Not Scheduled: **Bhojpuri, Rajasthani**
+- 92nd (2003): Bodo, Dogri, Maithili, Santhali
+- **Uttarakhand**: Sanskrit second language
+- Bengali second most spoken
+@end

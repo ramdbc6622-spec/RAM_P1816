@@ -1,0 +1,109 @@
+@chapter 40 | Miscellaneous
+@meta Built from 46 UPPSC questions (1990–2025). Focus: UN facts, world leaders, India's foreign policy, mixed constitutional statements, press, security bodies.
+
+@hot
+- **UN**: ICJ at **The Hague**; Hindi is **not** a UN official language; Amnesty is **not** a UN body {1994, 2002, 2003, 2004}
+- India's foreign policy: **Non-Alignment** by **Nehru**; Commonwealth "free will" link {2014, 2017}
+- **Press Council** = statutory quasi-judicial body; press = **Fourth Estate** {1995, 2004}
+- Security bodies: **BHARATPOL (CBI)**, **Five Eyes**, **Djibouti Code** (piracy) {2021, 2023, 2025}
+@end
+
+@section 40.1 | United Nations
+- Not a UN body: **Amnesty International** {2004}
+- ICJ: **The Hague** {1994}
+- Not a UN language: **Hindi** {2002, 2003}
+- Non-member in 1996: **Switzerland** (joined 2002) (*) {1996}
+- Newest country: **South Sudan** (2011) {2013}
+- Not elected to UNSC for 2021-22: **Canada** {2020}
+
+@section 40.2 | World Politics
+- Wrong pair: **Bahasa-Thailand** (it is Indonesia/Malaysia; Thai in Thailand) {2021}
+- Pakistan more ethnically diverse (true); Punjabi official language (false; Urdu and English) {2016}
+- "**Pivot to Asia**": **USA** {2015}
+- First woman PM: **Sirimavo Bandaranaike** (Sri Lanka, 1960) {2013}
+- Countries with compulsory voting: no fixed count (*) {2016}
+
+@section 40.3 | India's Foreign Policy
+- Non-Alignment: **Nehru** {2014}
+- "Agreement by free will, ended by free will": **Commonwealth** {2017}
+- First PM to visit Afghanistan: **Nehru** {2005}
+- Six-point formula for South Asia: **Vajpayee** {2021}
+- Order: **Tashkent (1966), Indo-Soviet Treaty (1971), Shimla (1972), Farakka (1977)** {2002}
+- Not in the India-Sri Lanka Accord: **complete freedom** {1990}
+- First Festival of India abroad: **Britain, 1982** {1991}
+- Pravasi Bharatiya Divas began **2003** (9 January) {2014}
+
+@flow India's key accords
+Tashkent 1966 | After 1965 war
+Indo-Soviet Treaty 1971 | Peace and friendship
+Shimla 1972 | After 1971 war
+Farakka 1977 | Ganga water with Bangladesh
+India-Sri Lanka 1987 | IPKF
+@end
+
+@section 40.4 | Mixed Constitutional Statements
+- HC judges to 62, national party in four States, Speaker certifies Money Bill, cognizable arrest without warrant: **all true** {2002}
+- Art 21 not suspended, VP removal by RS + LS (only 1 and 2 now; Jaitley was RS LoP in 2010) {2010}
+- Wrong: **Madam Cama** first woman INC president (it was **Annie Besant**) {2013}
+- Two wrong: Eighth Schedule has 22; 1858 Proclamation = Magna Carta (*) {2013}
+- Extra-constitutional: power **not in accordance with** the Constitution {2002, 2002}
+- **21-Panchayat member, 25-MLA, 30-MLC, 35-President** {2021}
+- Wrong: Constitution Day 27 Jan (it is **26 Nov**); Human Rights Day 29 Jan (it is **10 Dec**) {2025}
+
+@table
+Minimum age | Office
+18 | Voter
+21 | Panchayat, municipality member
+25 | MP (LS), MLA
+30 | MP (RS), MLC
+35 | President, VP, Governor
+@end
+
+@section 40.5 | Press
+- Press Council: **statutory quasi-judicial** body {2004}
+- Chairman in 2010: **G.N. Ray** (none of options) (*) {2010}
+- Fourth Estate: **Press** {1995}
+- "Bahujan Hitaya Bahujan Sukhaya": **All India Radio** {2002}
+
+@section 40.6 | Political History
+- Most coalition governments 1967-71: **Bihar** {2013}
+- Causes of regionalism: **all** listed {2008}
+- OBC status to Gurkhas (2003): **Uttarakhand** {2010}
+- Wrong: **Silent Valley-Baba Amte** (Amte = Narmada; Silent Valley = Kerala movement) {2009}
+- Anti-war organisation chairman (1988): **Narayan Desai** {1994}
+
+@section 40.7 | Security
+- **ULFA**: **Assam** {1993}
+- Lashkar-e-Taiba founder: **Hafiz Saeed** {2004}
+- LTTE banned by **India, Sri Lanka** (USA, later EU) {1998}
+- BHARATPOL: built by the **CBI** {2025}
+- Five Eyes alliance (true); Stone Ghost network (true, R not the explanation) {2023}
+- **Djibouti Code**: anti-**piracy** maritime grouping {2021}
+- Internal Security Academy: **Mount Abu** {2016}
+
+@section 40.8 | Ministries and Agencies
+- **Adi Karmayogi** (June 2025): **Ministry of Tribal Affairs** {2025}
+- Not an HRD department (2006): **Women and Child Development** {2006}
+- National Water Development Agency: **1982** {1999}
+- First national law university: **NLSIU Bengaluru, 1986** (*) {1990}
+
+@trap
+- **ICJ** (UN organ) vs **ICC** (Rome Statute), both at The Hague.
+- 26 Nov = Constitution Day; 25 Jan = Voters' Day; 26 Jan = Republic Day.
+- "At present" statements about office-holders change with time.
+@end
+
+@up UP links: the **Sarnath** Lion Capital (emblem), **Pravasi Bharatiya Divas** 2019 held in **Varanasi**, and **Annie Besant** (first woman INC president, 1917) worked at Varanasi's Central Hindu College.
+
+@last
+- ICJ = **The Hague**; Hindi not a UN language
+- Switzerland joined UN **2002**; South Sudan **2011**
+- First woman PM = **Sirimavo Bandaranaike**
+- NAM = **Nehru**; six-point SAARC formula = **Vajpayee**
+- Tashkent, Indo-Soviet, Shimla, Farakka
+- PBD from **2003**, 9 January
+- Ages: 21 Panchayat, 25 MLA, 30 MLC, 35 President
+- Press Council: statutory, quasi-judicial
+- BHARATPOL = **CBI**; Djibouti = piracy
+- Internal Security Academy = **Mount Abu**
+@end

@@ -1,0 +1,682 @@
+@chapter 25 | Urbanization I: Concepts and Levels
+
+@intro
+This chapter covers what makes a place **urban** (Census definitions, statutory and census towns), the **causes and effects of urbanization**, India's **level of urbanization** over time, and the most and least urbanized **states and UTs**, with rural-urban contrasts. Data are from **Census 2011** unless stated. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 25.1 | Village, Town and Urban Growth
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+A city is different from a village :
+1. In terms of social values
+2. In terms of household composition
+3. In terms of way of living
+4. In terms of economic activities
+Select the correct answer using the code given below:
+Code :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Urban growth is indicative of :
+1. Rise in the total urban population
+2. Rise in the number of urban centres
+3. Rise in the total population of a country
+4. Rise in the income from urban areas
+Select the correct answer using the codes given below:
+Codes :
+(a) 1 and 2
+(b) 2 and 3
+(c) 1, 2 and 3
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following is NOT an element of rural community?
+(a) We-feeling
+(b) Cultural diversity
+(c) Territory
+(d) Self-sufficiency
+@ans (b)
+@end
+
+@pyq U. P. R.O./A.R.O. (Mains) 2014
+T.K. Oommen distinguished urban families through :
+(a) mode of earning and changing value pattern
+(b) structure of authority
+(c) urban social milieu and social ecology
+(d) all of the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015; U.P. Lower Sub. (Pre) 2015
+Consider the following in relation to causes of urbanization and select the correct answer from the codes given below :
+1. High rate of migration from rural to urban areas. 2. Increasing number of educational institutions in cities.
+3. High rate of industrialization.
+4. High standard of living in rural areas.
+Codes :
+(a) 1, 2 and 3 are correct
+(b) 2, 3 and 4 are correct
+(c) 1, 2 and 4 are correct
+(d) 1, 3 and 4 are correct
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following segments of population is not included in the scheme of inclusive development?
+(a) Marginal farmers
+(b) Landless agricultural labourers
+(c) Scheduled Castes/Scheduled Tribes
+(d) Persons living in semi-urban areas
+@ans (d)
+@end
+
+
+Cities differ from villages in **values, household composition, way of life and economic activity**. Urban growth shows up as a rise in the **urban population, the number of towns**, total population and urban income. A rural community is marked by **we-feeling, territory and self-sufficiency**, not cultural diversity. Causes of urbanization are **rural-urban migration, industrialisation and city facilities** (schools, jobs); a high rural standard of living would slow it.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+At current rate of growth, the urban population of India by the year 2030 will reach :
+(a) 575 million
+(b) 675 million
+(c) 750 million
+(d) 900 million
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+In terms of Urbanization India is a :
+(a) Moderately-low urbanized country
+(b) Very-low urbanized country
+(c) Highly urbanized country
+(d) None of the above
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Consider the following statements and select the correct answer from the codes given below :
+Assertion (A) : India is a case of an over-urbanized country.
+Reason (R) : Most of the large cities in India do not have adequate infrastructure.
+Choose the correct answer from the codes given below:
+(a) Both (A) and (R) are correct and (R) explains (A)
+(b) Both (A) and (R) are correct, but (R) does not explain (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Assertion (A) : India’s level of urbanization is much lower than that of China.
+Reason (R) : Indian cities are poorly planned.
+Select the correct answer from the codes given below:
+Codes :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (b)
+@end
+
+
+@table
+Urbanization level | Figure
+1901 | 10.8%
+1951 | 17.3%
+2001 | **27.8%** (28.6 crore people)
+**2011** | **31.16%** (**37.7 crore**; 31.2% rounded)
+2030 projection | About **40%**, about **60 crore** people (the source keys 575 million)
+India's class | **Moderately low** urbanization; **not over-urbanized**, though cities lack infrastructure
+China | Above **65%**, far higher than India
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002; U.P. Lower Sub. (Pre) 2003
+Which of the following statements is correct according to the Census 2001? I. Total urban population of India is 285 million. II. Contribution of urban population in the total population of India is 27.78 percent. III. Urban population of India is more than the total population of USA. IV. Indian urbanization is basically self-reliant urbanization.
+Select the correct answer from the codes given below:
+Codes :
+(a) I And II
+(b) II and III
+(c) I, II and IV
+(d) All
+@ans (d)
+@end
+
+
+@one U.P.P.C.S. (Pre) 2000
+Assertion (A): The urban population of India is more than that of the U.S.A. Reason (R) : The level of urbanization in the U.S.A. is higher than that in India.
+@ans Both A and R are true but R is not the correct explanation of A.
+@end
+
+@one U.P.P.C.S. (Pre) 2002
+Assertion (A) : India's urban population exceeds the total population of USA. Reason (R): India has made a spectacular growth in urbanization. Select the correct answer from the codes given below:
+@ans Both A and R are true and R is the correct explanation of A.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+The expansion of Urban India is a platform for :
+(a) Industrial growth
+(b) Modern service sector growth
+(c) Creation of improved income opportunities
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Consider the following statements:
+Assertion (A) : Urbanization in India has increased rapidly after 2001.
+Reason (R) : A revolution in mobile communication has been taking place in India.
+Select the correct answer from the code given below :
+(a) Both (A) and (R) are true and (R) truly explains (A)
+(b) Both (A) and (R) are true, but (R) does not explain (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which of the following statements regarding urbanization in India is not true ?
+(a) With a few exceptions, the urban growth rate in India has been always increasing.
+(b) The concentration of urban population in India has increased in relatively big cities.
+(c) Urbanization of all regions in India has taken place in uniform manner.
+(d) Employment, housing, pollution and energy are the main urban problems in India.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+With reference to 'birth rate' which of the following statement(s) is/are correct?
+1. Urbanization helps in reducing the birth rate.
+2. High literacy rate is directly related to low birth rate.
+Select the correct answer using the codes given below.
+Codes :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+Urbanization in India has :
+(a) reduced both birth rate and death rate
+(b) reduced the birth rate only, not the death rate
+(c) increased birth rate and death rate both
+(d) no effect on both birth rate and death rate
+@ans (a)
+@end
+
+
+Urbanization **lowers both birth and death rates** (better health care, later marriage, more literacy). It has **not been uniform** across regions; big cities have grown fastest.
+
+@section 25.2 | Phases and Definitions
+
+@pyq U.P.P.C.S. (Mains) 2003
+Which one of the following periods is characterized by the stage of moderate urbanization in India?
+(a) 1881-1901
+(b) 1901-1931
+(c) 1931-1961
+(d) 1961-2001
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2001, 2003, 2007; U.P.P.C.S. (Mains) 2009
+In India, the largest percentage of decadal growth of urbanization has been witnessed during :
+(a) 1961-71
+(b) 1971-81
+(c) 1981-91
+(d) 1991-2001
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which of the following criteria is not accepted to define any domicile in India as an urban center?
+(a) Physical expansion
+(b) Population size
+(c) Population density
+(d) Occupational structure
+@ans (a)
+@end
+
+
+@one U.P.P.C.S. (Pre) 2009
+Which of the following conditions determine an area as urban as given in the Census Report of 2001? 1. Its minimum population will have to be 5,000. 2. The minimum percentage of its working male population, engaged in non-agricultural work, will have to be 75. 3. The density of its population will have to be at least 400 persons per sq. km. 4. It will have to have a minimum area of 10 sq. km.
+@ans 1, 2 and 3
+@end
+
+@table
+Urban definition (Census) | Detail
+**Statutory town** | Any place with a **municipality, corporation, cantonment board** or notified town area
+**Census town** | Population **5,000+**, **75%+ of male workers** in non-farm work, density **400+ per sq km**
+Census 2011 | **4,041 statutory towns** and **3,894 census towns** (7,935 towns in all)
+Phases | 1901-31 slow; **1931-61 moderate**; 1961 onwards rapid
+Fastest urban growth decade | **1971-81** (46%)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+According to 2011 Census, the total number of Census Towns in India is :
+(a) 3894
+(b) 4041
+(c) 5161
+(d) 7935
+@ans (a)
+@end
+
+@pyq U. P. R.O./A.R.O. (Pre) 2017, 2014, 2023; U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010; U.P.P.C.S. (Pre) 2008, 2009; U.P.P.C.S. (Mains) 2002
+As per 2011 Census, the percentage of urban population to total population in India was :
+(a) 30.7
+(b) 31.2
+(c) 31.8
+(d) None of the above
+@ans (d)
+@note The 2011 figure is **31.16%** (provisional 31.16%; often rounded to 31.2), which the source treats as not matching the printed options, so it keys **(d) None of the above**.
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Which religious group in India has its highest urban population?
+(a) Bauddh
+(b) Jain
+(c) Hindu
+(d) Christian
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following states recorded the maximum decadal growth of urban population during the period 2001-2011?
+(a) Maharashtra
+(b) Nagaland
+(c) Kerala
+(d) Sikkim
+@ans (d)
+@end
+
+
+@one U.P.P.S.C. (R.I.) 2014
+According to the Census 2011, the number of people living in cities in India is approximately
+@ans 37 crore
+@end
+
+
+**Jains** are the most urbanized religious group (about 80% urban). **Sikkim** had the fastest urban growth in 2001-11 (about 153%, mainly from new towns).
+
+@section 25.3 | Urbanization by State
+
+@pyq U.P.P.C.S. (Spl.) (Pre) 2008; U.P. Lower Sub. (Pre) 2004
+More than one-fourth of India’s urban population lives in the two States of :
+(a) Andhra Pradesh and West Bengal
+(b) Maharashtra and Gujarat
+(c) Uttar Pradesh and Tamil Nadu
+(d) Maharashtra and Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+According to 2001 Census, three States housing maximum urban population of the country are :
+(a) Tamil Nadu, Gujarat, Karnataka
+(b) Maharashtra, Andhra Pradesh, Tamil Nadu
+(c) Uttar Pradesh, Tamil Nadu, West Bengal
+(d) Maharashtra, Uttar Pradesh, Tamil Nadu
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Arrange the following States of India in descending order of their urban population (2011) and select the correct answer from the codes given below :
+1. Maharashtra
+2. Tamil Nadu
+3. Uttar Pradesh
+4. West Bengal
+Codes :
+(a) 1, 3, 2, 4
+(b) 1, 2, 3, 4
+(c) 4, 3, 2, 1
+(d) 2, 1, 4, 3
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Arrange the following States of India in ascending order of their urban population (2011) and select the correct answer from the codes given below :
+1. Arunachal Pradesh
+2. Mizoram
+3. Nagaland
+4. Sikkim
+Codes :
+(a) 1, 4, 2, 3
+(b) 4, 1, 3, 2
+(c) 4, 1, 2, 3
+(d) 4, 3, 1, 2
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2005
+Which one of the following is the correct ascending order of the States in terms of urban population as per 2001 Census?
+@ans West Bengal, Tamil Nadu, Uttar Pradesh and Maharashtra
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which of the following statements is correct ?
+(a) Maharashtra is the most urbanized State of India.
+(b) Himachal Pradesh is the least urbanized State of India.
+(c) Uttar Pradesh has the highest concentration of urban population in India.
+(d) Nagaland has the lowest concentration of urban population in India.
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2009; U.P.P.C.S. (Mains) 2016; U.P. Lower Sub. (Pre) 2013
+Match List - I with List - II and select the correct answer by using the codes given below the lists :
+@match
+List-I | List-II
+A. Most urbanized State | 1. Delhi
+B. State having largest urban population | 2. Arunachal Pradesh
+C. Most densely populated State | 3. Maharashtra
+D. Least densely populated State | 4. Tamil Nadu
+@endmatch
+Codes : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 2 1 4
+(d) 4 3 1 2
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which one of the following states was most urbanised as per Census 2011 ?
+(a) Gujarat
+(b) Goa
+(c) Tamil Nadu
+(d) Maharashtra
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006; U.P.P.C.S. (Pre) 1998, 2005; U.P.P.C.S. (Mains) 2012; U.P.P.S.C. (GIC) 2010; U.P.P.C.S. (Mains) 2006
+The most urbanized State of India is :
+(a) Gujarat
+(b) Maharashtra
+(c) Tamil Nadu
+(d) West Bengal
+@ans (c)
+@end
+
+
+@one U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which State of India has the highest percentage of urban population, according to the Census 2011?
+@ans Goa
+@end
+
+@one U.P.P.C.S. (Spl.) (Pre) 2008
+The two most urbanized States in India are
+@ans Goa and Mizoram
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001; U.P. Lower Sub. (Pre) 2003, 2004
+The three most urbanized States of India in correct descending sequence are:
+(a) Maharashtra, Tamil Nadu, Gujarat
+(b) Maharashtra, Gujarat, Karnataka
+(c) Gujarat, Maharashtra, Tamil Nadu
+(d) Maharashtra, Karnataka, Gujarat
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2007
+Arrange the following Indian States in the descending order from the urbanization point of view.
+1. West Bengal
+2. Tamil Nadu
+3. Maharashtra
+4. Gujarat
+Select the correct answer using the codes given below.
+Codes :
+(a) 1, 2, 3, 4
+(b) 2, 3, 4, 1
+(c) 3, 4, 2, 1
+(d) 4, 3, 2, 1
+@ans (b)
+@note **Tamil Nadu (48.4%) > Maharashtra (45.2%) > Gujarat (42.6%) > West Bengal (31.9%)** in 2011, the same order as in 2001.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+In which of the following land-locked States of India, the percentage of urban population is highest as per 2011 Census?
+(a) Haryana
+(b) Jammu and Kashmir
+(c) Punjab
+(d) Madhya Pradesh
+@ans (c)
+@note **Punjab (37.5%)** > Haryana (34.9%) > MP (27.6%) > J&K (27.4%).
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Arrange the following States in descending order of urbanization as per Census 2011 and select the correct answer from the codes given below :
+1. Gujarat
+2. Andhra Pradesh
+3. Maharashtra
+4. West Bengal
+Codes :
+(a) 4, 2, 3, 1
+(b) 3, 4, 2, 1
+(c) 2, 3, 1, 4
+(d) 1, 2, 4, 3
+@ans (b)
+@note The key fits the **size of the urban population** (Maharashtra 5.08 crore > West Bengal 2.91 > Andhra 2.82 > Gujarat 2.57). By **percentage** the order is Maharashtra > Gujarat > Andhra > West Bengal, which matches no code.
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+According to 2011 Census among the following States, which one has the lowest level of urbanization?
+(a) Andhra Pradesh
+(b) Haryana
+(c) Mizoram
+(d) West Bengal
+@ans (d)
+@note **West Bengal 31.9%** < Andhra 33.4% < Haryana 34.9% < Mizoram 52.1%.
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Arrange the following States in descending order of the percentage of urban population, as per provisional 2011 Census data released in July 2011, and select the correct answer from the codes given below :
+1. Gujarat
+2. Kerala
+3. Maharashtra
+4. Tamil Nadu
+Codes :
+(a) 4, 2, 3, 1
+(b) 2, 4, 1, 3
+(c) 3, 1, 2, 4
+(d) 1, 3, 4, 2
+@ans (a)
+@note **Tamil Nadu (48.4%) > Kerala (47.7%) > Maharashtra (45.2%) > Gujarat (42.6%)**.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P. Lower Sub. (Pre) 2013
+Which one of the following States of India has the highest urban density?
+(a) Maharashtra
+(b) Punjab
+(c) Tamil Nadu
+(d) West Bengal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+In which of the following States the level of urbanization (% of urban population) is the lowest as per 2011 Census?
+(a) Arunachal Pradesh
+(b) Sikkim
+(c) Bihar
+(d) Nagaland
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per Census 2011, which among the following States recorded lowest percentage of urban population?
+(a) Tripura
+(b) Sikkim
+(c) Arunachal Pradesh
+(d) Himachal Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012; U.P. R.O./A.R.O. (Pre) 2021
+According to Population Census 2011, which of the following States of India has lowest percentage of Urban population to its total population ?
+(a) Himachal Pradesh
+(b) Odisha
+(c) Jharkhand
+(d) Rajasthan
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2017
+Among the following Union Territories which one is least urbanized?
+(a) Lakshadweep
+(b) Andaman and Nicobar Islands
+(c) Dadra and Nagar Haveli
+(d) Puducherry
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2004
+As per the Census 2001, the least urbanized State of India is
+@ans Himachal Pradesh
+@end
+
+@one U.P. U.D.A./L.D.A. (Mains) 2010
+Arrange the following UTs of India in descending order of their level of urbanization (2011): 1. Chandigarh 2. Daman and Diu 3. Delhi 4. Lakshadweep
+@ans 3, 1, 4, 2
+@end
+
+@table
+Urbanization (2011) | States / UTs
+**Most urbanized state** | **Goa (62.2%)**, **Mizoram (52.1%)**, **Tamil Nadu (48.4%)** (largest big state), Kerala (47.7%), Maharashtra (45.2%)
+**Least urbanized** | **Himachal Pradesh (10.0%)**, **Bihar (11.3%)**, Assam (14.1%), Odisha (16.7%)
+**Largest urban population** | **Maharashtra (5.08 crore)**, **UP (4.45 crore)**, Tamil Nadu (3.49 crore)
+Highest urban density | **West Bengal** among the options
+Most urbanized UT | **Delhi (97.5%)**, Chandigarh (97.3%), Lakshadweep (78.1%), Daman and Diu (75.2%)
+Least urbanized UT | **Andaman and Nicobar (37.7%)**
+Fewest villages (UT) | **Daman and Diu** (25)
+@end
+
+@section 25.4 | Rural India
+
+@pyq U.P.P.C.S. (Mains) 2014
+Which of the following Union Territories has the lowest number of villages as per 2011 Census?
+(a) Dadra and Nagar Haveli
+(b) Daman and Diu
+(c) Lakshadweep
+(d) Puducherry
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which of the following statements are correct ? Use the code given below to select the correct answer :
+1. For the first time since Independence, the overall increase in population has been more in urban areas than in rural areas.
+2. Rural population in India is 67.84% and urban population is 32.16% (2011).
+3. The level of urbanization was 27.81% in 2001.
+4. The percentage of rural population was 71.19% in 2001.
+Code :
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 3 and 4 only
+(d) 1 and 3 only
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+According to 2001 Census report, the percentage of rural population in India is:
+(a) 72.2
+(b) 76.7
+(c) 74.3
+(d) 80.1
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+According to 2011 Census, which State has the highest proportion of rural population?
+(a) Bihar
+(b) Kerala
+(c) Madhya Pradesh
+(d) Himachal Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+According to 2011 Census which of the following States has the largest rural population?
+(a) Madhya Pradesh
+(b) Maharashtra
+(c) Punjab
+(d) Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+As per Census of India (2011) which of the following States has the lowest percentage share of child population in rural areas ?
+(a) Jammu & Kashmir
+(b) Kerala
+(c) Punjab
+(d) Haryana
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+According to 2011 Census, which of the following States has the lowest child sex-ratio both in Rural and Urban areas?
+(a) Uttar Pradesh
+(b) Kerala
+(c) Haryana
+(d) Jammu and Kashmir
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2008
+According to Census 2001, the highest percentage of rural population living in pucca houses is found in :
+(a) Goa
+(b) Himachal Pradesh
+(c) Kerala
+(d) Punjab
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Given below are two statements :
+Assertion (A) : The dividing line between village and town begins to be passed with the presence of traders and manufacturers.
+Reason (R) : The traders and manufacturers wholly depend on village resources. In the context of the above, which one of the following is correct?
+(a) Both A and R are true and R is the correct explanation of A.
+(b) Both A and R are true, but R is not the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which of the following refers to occupational structure of population?
+(a) Number of persons living in the country
+(b) Size of working population
+(c) Distribution of working population among different occupations
+(d) Nature of different occupations
+@ans (c)
+@end
+
+
+@table
+Rural fact (2011) | Figure
+Rural share | **68.84%** (72.2% in 2001); 2001-11 was the **first decade urban numbers rose more than rural**
+Highest rural share | **Himachal Pradesh (90%)**
+Largest rural population | **Uttar Pradesh** (15.5 crore)
+Lowest rural child share | **Kerala**
+Lowest child sex ratio, rural and urban | **Haryana**
+Most rural pucca houses (2001) | **Punjab**
+@end
+
+**Occupational structure** means how workers are spread across occupations. Traders and manufacturers mark the change from village to town, but they do not depend wholly on village resources.
+
+@up UP link: UP has India's **largest rural population** and the **second-largest urban population** (4.45 crore), but its urbanization level is only **22.3%** (2011). Its urban growth was fastest in **1971-81**.
+
+@trap
+**India urban 31.16% (2011), 27.8% (2001).** **Census town = 5,000+, 75% male non-farm workers, 400/sq km.** **3,894 census towns.** **Moderate phase 1931-61; fastest urban growth 1971-81.** **Jains most urban.** **Goa most urbanized, Himachal least; Tamil Nadu most urbanized big state.** **Maharashtra largest urban population, UP second.** **Delhi most urbanized UT; Andaman least.** **UP largest rural population.**
+@end
+
+@heatmap
+
+@pattern
+State urbanization orders are among the most repeated questions (asked about 25 times). The **2016-2023** papers kept to Census 2011 rank and percentage questions; watch for the trap between **urban population size** and **urban percentage**.
+@end
+
+@next
+Likely next angles: **Census 2027** urban data, the World Bank and UN estimates (India about **36-37%** urban), **census towns** and the urban definition debate, and UP's urbanization plans.
+@end

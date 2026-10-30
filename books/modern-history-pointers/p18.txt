@@ -1,0 +1,48 @@
+@chapter 18 | Muslim League and Communal Representation
+@meta Built from 8 UPPSC questions (1994–2024). Focus: the founding at Dacca, early sessions, the 1909 Act and separate electorates, the Justice Party.
+
+@hot
+- **Morley-Minto Act (1909)** gave **communal representation** (separate electorates) {1994, 1996}
+- Muslim League founder: **Nawab Salimullah**; first president: **Aga Khan** {1997, 2006, 2007}
+- Seed of the division of India: **separate electorates for Muslims** {2001, 2004}
+@end
+
+@section 18.1 | The League
+- Founder of the All India Muslim League (Dacca, 1906): **Nawab Salimullah Khan** {2006, 2007}
+- First president: **Aga Khan** {1997}
+- 1907 annual session: **Karachi** {2008}
+- League rejected Congress claims (A true); "only the League had the right" (R false) {2002, 2003}
+
+@section 18.2 | Separate Electorates
+- Morley-Minto Reform passed in **1909** {1994}
+- 1909 Act provided **communal representation** {1996}
+- Seeds of discord: **reservation of seats and separate electorates for Muslims** {2001, 2004}
+- Justice Party: called the Congress Brahmin-dominated, and claimed communal representation for non-Brahmins; **both correct** {2024}
+
+@table
+Act | Keyword
+1909 (Morley-Minto) | Separate electorates for Muslims
+1919 (Montagu-Chelmsford) | Dyarchy in provinces
+1935 | Federation, provincial autonomy
+@end
+
+@trap
+- Three firsts: founder **Salimullah**; chaired the Dacca meeting **Viqar-ul-Mulk**; first president **Aga Khan**.
+- The Congress **accepted** separate electorates in the Lucknow Pact (1916).
+- Simla Deputation (1906) was led by the **Aga Khan** to Minto.
+@end
+
+@up UP link: The **Aligarh** group (Mohsin-ul-Mulk, Viqar-ul-Mulk) organised the Simla Deputation; the League's 1916 session met at **Lucknow** alongside the Congress.
+
+@last
+- League = Dacca 1906
+- Salimullah = founder
+- Aga Khan = first president
+- 1907 session = Karachi
+- 1909 = communal representation
+- Separate electorates = seed of partition
+- Lucknow Pact accepted separate electorates
+- Justice Party = non-Brahmin, Madras
+- Simla Deputation = Aga Khan to Minto
+- Viqar-ul-Mulk chaired Dacca meet
+@end

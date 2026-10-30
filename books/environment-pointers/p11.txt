@@ -1,0 +1,97 @@
+@chapter 11 | National Parks
+@meta Built from 41 UPPSC questions (1996–2024). Focus: park-state matching, park-animal matching, first parks, marine parks.
+
+@hot
+- **Park-state matching**: **Bandipur-Karnataka, Similipal-Odisha, Pin Valley and Rohla-Himachal, Indravati-Chhattisgarh, Dachigam-J&K, Intanki-Nagaland, Betla-Jharkhand, Guindy-TN** {1998, 2002, 2002, 2002, 2010, 2015, 2016, 2016, 2017, 2018, 2020, 2024}
+- **Corbett** = first national park (1936); fed by the **Ramganga** {2006, 2017}
+- Animals: **Kaziranga-rhino, Gir-lion, Sundarbans-tiger, Periyar-elephant, Dachigam-hangul** {2006, 2014, 2018, 2022}
+- **Dudhwa** (UP) = rhino rehabilitation {2004, 2022}
+- Marine park: **Gulf of Kutch** (first), **Gulf of Mannar** {2013, 2015, 2016}
+@end
+
+@section 11.1 | First Parks
+- First national park: **Jim Corbett**; water from **Ramganga** {2017, 2006}
+- **Yellowstone**: **USA** {2004, 2010, 2011}
+- Order: **Corbett, Kanha, Kaziranga, Silent Valley** {2016}
+- Genetic diversity in parks: **in-situ** conservation {2023}
+- Most national parks: **Madhya Pradesh** {2004, 2008}
+- Most parks in MP; most sanctuaries in A&N (both) {2021}
+
+@section 11.2 | Park and State
+- **Rajiv Gandhi NP** (Nagarhole): **Karnataka** {2002}
+- **Keibul Lamjao**: on **Loktak** lake {2022}
+- Wrong: **Pin Valley-J&K** (Himachal) {2016, 2024}
+- Wrong: **Similipal-MP** (Odisha) {2018}
+- Wrong: **Bandipur-Tamil Nadu** (Karnataka) {2010}
+- True: Similipal in Odisha; Siam = Thailand (1 and 2) {2002}
+- **Bandhavgarh-MP, Bandipur-Karnataka, Rohla-Himachal, Gir-Gujarat** {2002}
+- **Uttarakhand-Rajaji, Assam-Manas, Odisha-Similipal, Karnataka-Bandipur** {1998}
+- **Dachigam-J&K, Papikonda-AP, Sariska-Rajasthan, Bandipur-Karnataka** {2015}
+- **Assam-Kaziranga, Gujarat-Gir, MP-Kanha, Uttarakhand-Corbett** {2002}
+- **Indravati**: **Chhattisgarh**; in **Bastar** {2016, 2015}
+- **Intanki-Nagaland, Betla-Jharkhand, Shiroi-Manipur, Guindy-Tamil Nadu** {2017}
+- **Indravati-Chhattisgarh, Mollem-Goa, Kalesar-Haryana, Betla-Jharkhand** {2020}
+- Correct: **Keoladeo-Bharatpur** {2009}
+- **Kaziranga-Golaghat, Kudremukh-Chikmagalur, Silent Valley-Palghat, Pench-Nagpur** {2013}
+- **Dhoopgarh** peak: **Satpura NP** {2021}
+
+@section 11.3 | Parks and Animals
+- Wrong: **Ghana (Keoladeo)-lion** (birds) {2009}
+- **Kaziranga-rhino, Gir-lion, Sundarbans-tiger, Periyar-elephant** {2006}
+- Wrong: **Periyar-hangul** {2014}
+- **Dachigam**: **hangul** (Kashmir stag); hangul in **J&K** {2018, 2022}
+- Rhino rehabilitation: **Dudhwa** {2004, 2022}
+- Siberian crane habitat: **Rajasthan** (Keoladeo) {1996, 2010}
+- Nilgiri "cloud goats" (tahr): **Eravikulam** {2005}
+
+@table
+Park | Animal
+Kaziranga | One-horned rhino
+Gir | Asiatic lion
+Sundarbans | Tiger
+Periyar | Elephant
+Dachigam | Hangul
+Eravikulam | Nilgiri tahr
+Keibul Lamjao | Sangai deer
+Keoladeo | Birds
+Dudhwa | Swamp deer, rhino
+@end
+
+@section 11.4 | Marine Parks and Miscellany
+- Marine park: **Gulf of Mannar** {2015}
+- Oceanic (first marine) park: **Kutch** {2013, 2016}
+- Rani Jhansi Marine NP (A&N): **1996** {2017}
+- UNESCO site July 2016: **Khangchendzonga** {2016}
+- National Biological Garden: **New Delhi** {2014}
+- Project Elephant: **1992** (no option, *) {2007}
+- Garden of Five Senses: near **Mehrauli** {2009}
+- Over 30% under national parks: **Bhutan** {2015}
+
+@flow Park-state traps
+Pin Valley | Himachal, not J&K
+Bandipur | Karnataka, not Tamil Nadu
+Similipal | Odisha, not MP
+Indravati | Chhattisgarh (Bastar)
+Rajiv Gandhi NP | Nagarhole, Karnataka
+@end
+
+@trap
+- **Keoladeo** = birds, not lions; **Periyar** = elephants, not hangul.
+- First **marine** park = Gulf of **Kutch**.
+- Most national parks = **MP**; most sanctuaries = **A&N**.
+@end
+
+@up **Dudhwa National Park** (Lakhimpur Kheri) is UP's only national park: swamp deer (barasingha), tiger, and **rhino rehabilitation** since 1984. UP's other big reserves are **Pilibhit, Amangarh, Ranipur** (tiger reserves) and **Katarniaghat** (sanctuary).
+
+@last
+- Corbett = first NP (1936), Ramganga
+- MP = most national parks
+- Kaziranga = rhino; Gir = lion
+- Dachigam = hangul; Eravikulam = Nilgiri tahr
+- **Dudhwa (UP)** = rhino rehabilitation, swamp deer
+- Keoladeo = birds, Siberian crane (Bharatpur)
+- Pin Valley = Himachal; Bandipur = Karnataka
+- Similipal = Odisha; Indravati = Chhattisgarh
+- Keibul Lamjao = Loktak, floating
+- Gulf of Kutch = first marine park
+@end

@@ -1,0 +1,110 @@
+@chapter 5 | Parts and Articles of the Constitution
+@meta Built from 37 UPPSC questions (2002–2025). Focus: Part-to-subject pairs and Article-number matching.
+
+@hot
+- **Part matching**: III FRs, IV DPSP, **IV-A Duties**, V Union, VI States, **VIII UTs**, **IX Panchayats**, **IX-A Municipalities**, **XIV-A Tribunals**, XV Elections, XVIII Emergency {2004, 2007, 2009, 2013, 2016, 2016, 2016, 2020, 2023, 2025}
+- **Article matching**: 14 equality, 36 DPSP, 54 President's election, 74 CoM, 75 PM, 76 AG, 148 CAG, 155 Governor, 280 FC, 312 AIS, 323A tribunals, 324 EC, 352 Emergency, 360 financial emergency, 368 amendment {2002, 2005, 2010, 2011, 2015, 2015, 2016, 2016, 2020, 2023, 2024}
+- **Article 312** = All India Services {2012, 2014, 2016}
+- Constitution "divided into" **22 Parts** (numbering; 25 by count now) {2008, 2012}
+@end
+
+@section 5.1 | Number of Parts
+- Divided into **22 Parts** (original numbering; now 25 by count) {2008, 2012}
+
+@section 5.2 | Parts I to V
+- **Fundamental Duties-Part VI-A** is wrong; it is **Part IV-A**; IV-A = Duties is correct {2004, 2007}
+- Order: **Union and territory (I), Citizenship (II), DPSP (IV), Duties (IV-A)** {2022}
+- Match: **FRs-Part III, Duties-Part IV-A, Union-Part V, Emergency-Part XVIII** {2013}
+- **Attorney General-Part XIII** is wrong (AG is in **Part V**, Art 76) {2020}
+
+@section 5.3 | Parts VI to IX-B
+- **UTs-Part VII** is wrong; UTs = **Part VIII** (Part VII repealed in 1956) {2016}
+- Match: **IX-Panchayats, VIII-UTs, IV-A-Duties, IX-A-Municipalities** {2009}
+- Three-tier Panchayats and Panchayati Raj: **Part IX** {2013, 2016, 2020}
+- Wrong: **Part XI-Municipalities** (it is IX-A) {2025}
+- **Tribunals-Part X** is wrong (Tribunals = **XIV-A**) {2016, 2016}
+
+@section 5.4 | Parts X to XIV-A
+- Union-State **legislative** relations: **Part XI, Chapter I** {2012}
+- **Tribunals-Part XI** is wrong {2023}
+
+@section 5.5 | Parts XV to XVIII
+- Elections: **Part XV** {2023}
+- Match: **XV-Elections, XVI-special provisions for certain classes, XVII-Official Language, XVIII-Emergency** {2013}
+- Part XVI: **special provisions for certain classes** (SC, ST, Anglo-Indians) {2017}
+
+@table
+Part | Subject
+I / II / III | Union and territory / Citizenship / FRs
+IV / IV-A | DPSP / Fundamental Duties
+V / VI | Union / States
+VIII | Union Territories
+IX / IX-A / IX-B | Panchayats / Municipalities / Co-operatives
+X | Scheduled and Tribal Areas
+XI / XII | Centre-State relations / Finance
+XIV / XIV-A | Services / Tribunals
+XV / XVI / XVII / XVIII | Elections / Special classes / Language / Emergency
+XX / XXI | Amendment / Temporary provisions
+@end
+
+@section 5.6 | Articles I: Territory, Rights, DPSP
+- **New states-Art 3, Citizenship-Part II, FRs-Part III, Admin Tribunals-Art 323A** {2015}
+- **Admit new state-Art 2, equality-Art 14, arrest and detention-Art 22, assent to bills-Art 111** {2016}
+- **Art 352-National Emergency** is correct {2002, 2002}
+- **Art 14-equality, Art 36-DPSP, Art 74-CoM, Art 368-amendment** {2010}
+- **Art 48-separation of judiciary** is wrong (that is **Art 50**; 48 = agriculture, animal husbandry) {2013}
+- **Equality-14, right to work-41, humane conditions of work-42, education-45** (key *; since 2002 education 6-14 = **Art 21A**, Art 45 = under-6 care) {2015}
+
+@section 5.7 | Articles II: Executive and Parliament
+- **President's election-54, PM-75, Governor-155, CM-164** {2002, 2005, 2011}
+- **CAG-148, SC jurisdiction-131, AG-76, Union Ministers-75(1)** {2015}
+- **Impeachment of President-61, removal of VP-67(b), Deputy Chairman-90, Speaker-94** {2020}
+- Financial Bills: **Art 117** {2010}
+- **Religious affairs-26, village panchayats-40, Parliament secretariat-98, UT administration-239** {2023}
+- High Courts for UTs: **Art 241** {2016}
+
+@section 5.8 | Articles III: Bodies and Finance
+- **Consolidated Fund-266, Finance Commission-280, Financial Emergency-360, CAG-148** {2024}
+- **Amendment-368, FC-280, Financial Emergency-360, AIS-312** {2016}
+- **All India Services: Art 312** {2012, 2014}
+- **CAG-148, FC-280, Admin Tribunal-323A, UPSC-315** {2016}
+- All four pairs correct (official key wrong, *) {2020}
+- **Tribunals-323A, Election-324, SC/ST seats in LS-330, PSC functions-320** {2015}
+- **EC-324, PSC-315, FC-280, NCSC-338** {2023}
+- None correct (*): NCBC is **Art 338B**; Art 340 = backward-classes commission {2024}
+
+@table
+Article | Subject
+14 / 17 / 21A | Equality / Untouchability / Education (6-14)
+32 / 36-51 / 51A | Writs / DPSP / Duties
+52, 54, 61 | President, election, impeachment
+63, 67(b) | Vice-President, removal
+74, 75, 76 | CoM, PM and ministers, AG
+110, 112, 117 | Money Bill, Budget, Financial Bills
+123 / 213 | Ordinance (President / Governor)
+148 / 280 / 312 / 315 | CAG / FC / AIS / PSC
+324 / 330 / 338 / 338B | EC / SC-ST seats / NCSC / NCBC
+352 / 356 / 360 / 368 | Emergency / President's Rule / Financial Emergency / Amendment
+@end
+
+@trap
+- Duties = **IV-A** (not VI-A); UTs = **VIII** (VII repealed); Municipalities = **IX-A**; Tribunals = **XIV-A**.
+- **Art 50** = separation of judiciary; **Art 48** = agriculture and cows.
+- RS Chairman (VP) removed under **67(b)**; Deputy Chairman under **90**.
+- Education: **21A** now; Art 45 = under-6 care.
+@end
+
+@up **Art 243-243ZT** (Parts IX, IX-A) are the base of UP's 3-tier Panchayats and urban bodies. UP's Advocate General (Art 165) sits at Prayagraj; Art 213 lets the UP Governor issue ordinances.
+
+@last
+- 22 Parts by number, 25 by count
+- Duties **IV-A**; UTs **VIII**; Panchayats **IX**; Municipalities **IX-A**
+- Tribunals **XIV-A** (Art 323A); Elections **XV**; Emergency **XVIII**
+- Art **312** = AIS; **315** = PSC; **324** = EC
+- Art **148** = CAG; **280** = FC; **76** = AG
+- Art **54** President's election; **61** impeachment
+- Art **75** PM; **155** Governor; **164** CM
+- Art **50** separation of judiciary
+- Art **117** Financial Bills; **266** Consolidated Fund
+- NCBC = **338B**
+@end

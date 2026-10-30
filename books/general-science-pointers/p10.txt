@@ -1,0 +1,129 @@
+@chapter 10 | Computer and Information Technology
+@unit UNIT II · SCIENCE AND TECHNOLOGY
+@meta Built from 81 UPPSC questions (1993–2024). Focus: computer generations and chips, Indian supercomputers, memory and bits, operating systems and languages, the internet, modem and full forms.
+
+@hot
+- IC chips are made of **silicon** {2002, 2004, 2006, 2010, 2014}
+- **Modem** sends data over telephone lines {2002, 2007, 2013, 2015, ?, ?}
+- **RAM** = Random Access Memory, **volatile**; **ROM** = permanent {2002, 2003, 2012, 2013, 2024, ?}
+- Indian supercomputers: **PARAM** (first, C-DAC), **Anupam** (BARC); PARAM is not a missile {1999, 2004, 2004, 2006, 2009}
+- **1 byte = 8 bits**; bit = **binary digit**; 1 KB = 1,024 bytes {2006, 2006, 2010, 2013, ?, ?}
+@end
+
+@section 10.1 | History and Supercomputers
+- First computer, father of the computer: **Charles Babbage** {2007, ?}
+- First mouse body (about 40 years back): **wood** {2010}
+- Third-generation computers: **integrated circuits** {2016}
+- Miniaturisation: **IC chips** {2007}
+- IC chip material: **silicon** {2002, 2004, 2006, 2010, 2014}
+- ICs are classed by the **number of transistors** {2015}
+- First Indian supercomputer: **PARAM** {2004}
+- Wrong pair: **PARAM 10,000-missile** (it is a supercomputer) {1999, 2006, 2009}
+- BARC supercomputer: **Anupam** {2004}
+- World's fastest (Dec 1996): **10^{12} operations a second** (teraflop) {1998}
+- Fastest computer (2008): none of the options (*); **El Capitan** (USA) leads now {2008}
+- **Magic Cube** supercomputer: **China** {2015}
+- Smallest, fastest brain-like computer: **quantum computer** {2000}
+- **Y2K**: problem when a year's last two digits become **00** {2000}
+
+@flow Computer generations
+1st | Vacuum tubes (ENIAC)
+2nd | Transistors
+3rd | Integrated circuits
+4th | Microprocessors (VLSI)
+5th | Artificial intelligence, parallel processing
+@end
+
+@section 10.2 | Hardware and Memory
+- Most important part: **CPU** {2012}
+- Intel Core i9: a **processor** {2023}
+- After a double click, information goes to the **CPU** {2013}
+- Only input devices: **mouse, keyboard, scanner** {2024}
+- Word document, video or MP3: a **file** {2013}
+- CPU = **Central Processing Unit** {?}
+- Memory and word length are measured in **bits** {2006, 2010}
+- **1 byte = 8 bits** {2006}
+- **1 GB = 1,024 MB**; **1 KB = 1,024 bytes** {?, ?}
+- **Bit** = **binary digit** {2013}
+- MAC address: **48 bits** {2023}
+- Self-complementing code: **5211** {2013}
+- Permanent, non-volatile memory: **ROM** {2012, 2024}
+- **RAM** = Random Access Memory; loses data when power goes {2002, 2003, 2013, ?}
+- Fastest memory: **cache** {2013}
+- Not true of flash memory: **cheaper than disk drives** {2004}
+- Large-storage hardware: **both** options {1999}
+- **Index hole**: **floppy disk**; **IRQ 6**: floppy drive controller {2013, 2015}
+- Keyboard cable port: **USB** {2015}
+- Laser printers use a **semiconductor laser** {2009}
+- Daisy wheel printer: **impact** printer {2013}
+
+@table
+Memory | Fact
+Cache | Fastest; between CPU and RAM
+RAM | Working memory; volatile
+ROM | Permanent; holds boot program
+Flash | Non-volatile; pen drives, SSD (costlier per GB than hard disks)
+Hard disk | Large, cheap, slower
+@end
+
+@section 10.3 | Software and Languages
+- Controls basic functions: **operating system** {2013}
+- Not an OS: **Microsoft Office** {2023}
+- Running many apps at once: **multitasking** {2015}
+- Scientific language: **FORTRAN** {2002, 2003}
+- BASIC: a **procedural** language {2013}
+- **Assembler**: assembly to **machine language** {2005}
+- Computer virus: a **software program** {1993, 2010}
+- Error in a program: **bug** {2010}
+- **Stuxnet**: malware that sabotaged Iran's **nuclear centrifuges** {2010}
+- **Talaash**: C-DAC's Devanagari **OCR** and portal {2004}
+- C-DAC anti-cyber-theft software: **NAYAN** {2008, 2009}
+
+@section 10.4 | Internet and Networks
+- Worldwide linked computers: **Internet** {2004}
+- Internet topology: **tree** (per key) {2013}
+- Internet works on **packet switching** {2015}
+- Between physical and network layers: **data link layer** {2013}
+- Rules for data exchange: **protocols** {2015}
+- Not IT terms: **optical storage** (per key), **Pinaka** (a rocket) {2001, 2002}
+- IT terms: **all of the above** {2011}
+- Finds a user's e-mail address: **Finger** {2010}
+- **WWW** = **World Wide Web**; inventor **Tim Berners-Lee** {2010, 2015, ?}
+- **Modem**: data over telephone lines {2002, 2007, 2013, 2015, ?, ?}
+- **Bluetooth**: wireless link between devices {2011}
+- First station with Google free Wi-Fi: **Mumbai Central** {2015}
+- Not true of Li-Fi: uses optical fibre; India's trial by the I&B Ministry (it was **MeitY**) {2017}
+- E-mail can attach **all** file types {2013, ?}
+- **SkyDrive** (OneDrive): **Microsoft** {2013}
+
+@section 10.5 | Full Forms and IT in Governance
+- **SIM** = Subscriber Identity Module {2012}
+- **ICT** = Information and Communications Technology {2015}
+- **ATM** = Automated Teller Machine {2014}
+- **UPS** = Uninterrupted Power Supply {2015}
+- **Bibliometry**: an information management tool {2019}
+- World Computer Literacy Day: **2 December** {2016}
+- **Vidya Vahini**: **computer education** in schools {2013}
+- e-Governance **cuts cost** and **raises citizens' input** (2 and 3) {2024}
+
+@trap
+- **RAM** is volatile; **ROM** is not; **cache** is fastest.
+- **IC** = 3rd generation; **microprocessor** = 4th.
+- MS Office is an application, not an OS; FORTRAN = scientific, COBOL = business.
+- Li-Fi uses **LED light**, not fibre.
+@end
+
+@up UP link: **C-DAC Noida** works on language computing and cyber security; **IIT Kanpur** hosts the **PARAM Sanganak** supercomputer (National Supercomputing Mission, 2020) and the C3iHub cyber security centre.
+
+@last
+- **Charles Babbage** = father of the computer
+- IC = 3rd generation; chips = **silicon**
+- **PARAM** = first Indian supercomputer (C-DAC); Anupam = BARC
+- 1 byte = **8 bits**; 1 KB = **1,024** bytes; MAC = 48 bits
+- RAM volatile; ROM permanent; cache fastest
+- OS controls the computer; MS Office is not an OS
+- FORTRAN = scientific; assembler = assembly to machine
+- Internet = packet switching; modem = phone-line data
+- WWW = **Tim Berners-Lee**; SkyDrive = Microsoft
+- Stuxnet = Iran centrifuges; NAYAN, Talaash = C-DAC
+@end

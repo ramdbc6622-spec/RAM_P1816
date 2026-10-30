@@ -1,0 +1,127 @@
+@chapter 10 | Money, Inflation and the Reserve Bank of India
+@meta Built from 68 UPPSC questions (1990–2021). Focus: money measures, currency facts, inflation types and indices, RBI functions and history, CRR, SLR, repo, OMO.
+
+@hot
+- **RBI** = banker's bank, government's adviser, forex keeper, credit controller; HQ **Mumbai** {2001, 2009, 2010, 2010, 2010, 2012, 2017}
+- **Monetary policy** = **RBI**; complements fiscal policy {2002, 2006, 2010, 2016, 2017}
+- **Repo** = RBI lends to banks; **reverse repo** = banks lend to RBI; **bank rate** = RBI rediscount rate {2008, 2008, 2008, 2009, 2011}
+- **CRR** rise cuts liquidity and credit {2004, 2010, 2013}
+- Headline inflation measured by **CPI (Combined)** {2004, 2008, 2012, 2021}
+- **Decimal coinage**: **1957** {1995, 2005, 2010}
+@end
+
+@section 10.1 | Money and Currency
+- Broad money (M3): **currency, demand deposits, time deposits** (all) {2008}
+- Money multiplier: **broad money ÷ reserve money** {2008, 2009}
+- **Black money**: illegal income on which tax is unpaid {2002, 2003}
+- Not a demonetisation aim: **raising GDP growth** {2017}
+- Paper currency began: **1862** (per key; Act 1861) {2011}
+- Decimal coinage: **1957** {1995, 2005, 2010}
+- RBI can print notes up to **Rs. 10,000** {2014}
+- Minimum gold stock: **Rs. 115 crore** {2008}
+- Note issue: **minimum reserve system** {2004, 2007, 2010}
+- Coins issued by the **Ministry of Finance** {2010}
+- Mints: **Mumbai, Kolkata, Hyderabad** (and Noida) {2008}
+
+@table
+Measure | Includes
+M0 | Currency + bank deposits with RBI
+M1 | Currency with public + demand deposits
+M2 | M1 + post office savings
+M3 | M1 + time deposits (broad money)
+@end
+
+@section 10.2 | Inflation
+- Fall in inflation rate: prices rise **more slowly** (II only) {2017}
+- Inflation benefits **debtors** {1995, 2016}
+- Bottleneck inflation from supply gaps (R explains A) {2021}
+- **Core inflation**: headline minus **food and fuel** {2017}
+- Common measure: **CPI** (WPI earlier) {2004, 2008, 2012}
+- Headline inflation: **CPI (Combined)** {2021}
+- CPI: covers goods and services; used by RBI (1 and 3); not compiled by OEA {2019}
+- CPI-IW base shifted from 1982 to **2001**; earlier 1960 to **1982** {2008, 1990}
+- Central employees' wages compensated by **CPI-IW**; DA based on **CPI** {2001, 2008}
+- WPI published by the **Ministry of Commerce and Industry** {2021}
+- WPI's largest weight: **manufactured products** {2008}
+- WPI 2004-05 series released **14 September 2010** {2009}
+- **PPI**: average change in producers' prices {2017}
+- Not an anti-inflation step: **cutting interest rates** {1996}
+- WPI revision group (2004): **Abhijit Sen** {2004}
+
+@flow Price indices
+CPI (Combined) | NSO; headline; RBI target
+CPI-IW | Labour Bureau; DA (base 2016)
+WPI | Commerce Ministry (OEA); goods only (base 2011-12)
+Core | Headline − food − fuel
+@end
+
+@section 10.3 | The RBI
+- RBI: apex bank, regulates money, oversees NABARD (I, II, IV); not loans to businesses {2001}
+- Government's financial agent and adviser: **RBI** {2017}
+- Treasury bills sold by the **RBI** {2009}
+- J&K banking (then) not done by RBI (*) {2014}
+- Not correct: RBI was **established in 1949** (it was **1935**; nationalised 1949) {2011}
+- HQ: **Mumbai** {2010}
+- Bankers' bank: **RBI** {2010}
+- Forex reserves kept by the **RBI** {2012}
+- Credit creation controlled by the **RBI** {2010}
+- Not correct: RBI issues **all** notes (Re. 1 note by Government) {2007}
+- Re. 1 note: **Finance Secretary's** signature {2004}
+- Governors in order: **I.G. Patel, Manmohan Singh, C. Rangarajan, D. Subbarao** {2021}
+- Never RBI Governor: **Raja J. Chelliah** {2005}
+- RBI financial year: **April-March** (from 2020-21; earlier July-June) {2013}
+
+@section 10.4 | Monetary Tools
+- Not an RBI function: **credit creation** (commercial banks do it) {2008}
+- Monetary policy **complements** fiscal policy {2016}
+- Not a monetary aim: **equitable distribution of income** {2011}
+- Monetary policy by the **RBI**; money and credit controlled by the RBI {2006, 2010}
+- Not quantitative control: **credit rationing** {2017}
+- **OMO**: trading in securities; a **quantitative** tool {2008, 2010, 2017}
+- **Operation Twist**: sell short-term, buy long-term to boost long-term investment (R explains A) {2016}
+- Anti-inflation steps: **raise bank rate, CRR, SLR** (1, 2, 3); not buying securities {2016}
+- Cash and liquid assets ratio: **SLR** {2007}
+- Not set by the RBI: **PLR** {2008}
+- Since reforms **both SLR and CRR reduced** {1999}
+- Deposits kept with RBI: **CRR** {2013}
+- CRR rise: **less liquidity**; **less credit creation** {2010, 2004}
+- Repo rate: **monetary policy** {2017}
+- "Repurchase option" (key): **none of the above** {1998}
+- RBI's short-term lending rate: **repo** {2008}
+- Banks lend to RBI at **reverse repo** {2008}
+- **Bank rate**: RBI's rediscount rate; charged by RBI {2008, 2009, 2011}
+- Repo-reverse repo gap (2010-11): **1%** {2010}
+- 5 Dec 2019: repo **5.15%**, reverse repo **4.9%** {2014, 2019}
+- Repo regulated by the **RBI** {2002}
+
+@table
+Tool | Meaning
+CRR | Cash kept with RBI
+SLR | Cash, gold, G-secs kept by banks
+Repo | RBI lends to banks
+Reverse repo / SDF | Banks park money with RBI
+Bank rate | RBI rediscounts bills
+OMO | Buy or sell G-secs
+@end
+
+@trap
+- **RBI 1935**, nationalised **1949**.
+- Coins and Re. 1 note = **Government**.
+- **Credit creation** is done by commercial banks, not RBI.
+- Disinflation ≠ deflation.
+@end
+
+@up UP link: India's fourth mint is at **Noida** (1988); UP's government employees' DA follows **CPI-IW** like the Centre's.
+
+@last
+- M3 = M1 + time deposits; multiplier = M3/M0
+- Decimal coins **1957**; minimum reserve, Rs. 115 cr gold
+- Coins, Re. 1 note = Govt (Finance Secretary)
+- Core = headline − food − fuel; debtors gain from inflation
+- CPI = headline (NSO); WPI = Commerce Ministry; DA = CPI-IW
+- RBI **1935**, Mumbai; nationalised 1949
+- RBI year April-March from 2020-21
+- Repo: RBI lends; reverse repo: RBI borrows
+- CRR up means liquidity down; OMO = securities
+- Operation Twist: buy long, sell short
+@end

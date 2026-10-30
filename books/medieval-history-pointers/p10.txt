@@ -1,0 +1,54 @@
+@chapter 10 | Delhi Sultanate: Miscellaneous
+@meta Built from 12 UPPSC questions (1997–2021). Focus: Turkish court life, crops, ruler-measure matching, the order of travellers and rulers, battles and their dates.
+
+@hot
+- **Ruler-measure matching**: **Firuz-canals, Balban-Nauroz, Alauddin-Diwan-i-Riyasat, Jahangir-Thomas Roe; Akbar-Ain-i-Dahsala, MBT-token currency, Iltutmish-Chahalgani, Sher Shah-Sarak-i-Azam** {1997, 1997}
+- **Battle-year matching**: **Chandawar 1194, Timur 1398, Ghaghra 1529, Talikota 1565; Kalinga 261 BCE, Tarain 1192, Haldighati 1576, Plassey 1757** {2002, 2003, 2017}
+@end
+
+@section 10.1 | Court, Society and Crops
+- **Polo** introduced by the **Turks** {2001}
+- **Dastar-bandan**: the **ulema** {2014}
+- Hindu gods worshipped in the palace: **Nasiruddin Khusrau Shah** {2021}
+- Not grown in the 13th-14th centuries: **maize** (a New World crop) {2008, 2011}
+
+@section 10.2 | Matching and Order
+- **Firuz-canals, Balban-Nauroz, Alauddin-Diwan-i-Riyasat, Jahangir-Thomas Roe** {1997}
+- **Akbar-Ain-i-Dahsala, MBT-token currency, Iltutmish-Chahalgani, Sher Shah-Sarak-i-Azam** {1997}
+- Wrong pair: **Abdur Razzaq-Turkey** (he was **Persian**) {2017}
+- Order: **Al-Biruni, Ibn Battuta, Tavernier, Manucci** {1997, 2002}
+- Order: **Razia, Alauddin, Sher Shah, Akbar** {2010}
+- Order: **Second Tarain, murder of Jalaluddin, Afghanpur conspiracy, capital transfer** {2017}
+- **Chandawar-1194, Timur-1398, Talikota-1565, Ghaghra-1529** {2017}
+- **Plassey-1757, Kalinga-261 BCE, Haldighati-1576, Tarain-1192** {2002, 2003}
+
+@flow Key dates of the period
+1192 | Second Tarain
+1194 | Chandawar
+1296 | Jalaluddin Khalji murdered at Kara
+1325 | Afghanpur pavilion collapse; MBT Sultan
+1398 | Timur sacks Delhi
+1526, 1529 | Panipat, Ghaghra (Babur)
+1565 | Talikota
+@end
+
+@trap
+- Maize, tobacco, potato, chillies came from the Americas after 1500.
+- Abdur Razzaq was Persian (from Herat), not Turkish.
+- "Tarain" with no number means the **second** battle, 1192.
+@end
+
+@up UP link: the **Battle of Ghaghra** (1529), where Babur beat the Afghans and the Bengal Sultan, was fought on the Ghaghra in eastern UP (Ballia region); **Chandawar** (1194) is near Firozabad.
+
+@last
+- Turks brought polo
+- Dastar-bandan = ulema
+- Khusrau Shah allowed Hindu worship in the palace
+- No maize before 1500
+- Balban = Nauroz; Firuz = canals
+- Iltutmish = Chahalgani; Sher Shah = Sarak-i-Azam
+- Al-Biruni, Ibn Battuta, Tavernier, Manucci
+- Chandawar 1194; Timur 1398
+- Ghaghra 1529; Talikota 1565
+- Haldighati 1576; Plassey 1757
+@end

@@ -1,0 +1,335 @@
+@chapter 10 | Forest and Wildlife Conservation Efforts
+
+@intro
+This chapter covers India's **policies and laws** for forests and wildlife: the **National Forest Policy** (1952 and 1988, with the one-third target), the **Wildlife (Protection) Act 1972**, the **Forest (Conservation) Act 1980** and the other pollution Acts in date order. It also covers projects and schemes (**Project Tiger, Project Elephant, MISHTI, Operation Olivia**), institutions (**FRI Dehradun, NBPGR**) and a few wildlife facts (WWF's panda, pugmarks, the whale shark). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 10.1 | National Forest Policy
+
+@pyq U.P.P.C.S. (Pre) 2014
+To maintain ecological balance, the area under forest should be –
+(a) 10%
+(b) 23%
+(c) 33%
+(d) 53%
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2002
+The national forest policy aims at maintaining how much of the total geographical area under forests:
+@ans One-third
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which of the following has not been categorized as forest under the National Forest Policy (1952)?
+(a) National Forests
+(b) National Park
+(c) Protected Forests
+(d) Village Forests
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+What were the main objectives of the National Forest Policy? Choose the correct answer by using codes given below
+1. To ensure ecological balance.
+2. To promote social forestry.
+3. One-third of the country's total land to be forested.
+4. Encouraging public community participation in forest management.
+Codes :
+(a) 1 and 2
+(b) 1 and 3
+(c) 1 and 4
+(d) 2 and 3
+@ans (c)
+@end
+
+@table
+Forest policy | Key points
+1894 (colonial) | Commercial timber; forests for revenue
+**1952** | Classified forests as **protected, national, village** forests and tree lands; target of one-third under forest
+**1988** | **Ecological balance** first; **33%** of area under forest (**two-thirds in hills**); **people's participation**, which led to **Joint Forest Management** (1990)
+@end
+
+@section 10.2 | Forest and Wildlife Laws
+
+@pyq U.P.P.C.S. (Pre) 2015
+Wildlife Protection Act was passed in which year?
+(a) 1965
+(b) 1970
+(c) 1972
+(d) 1975
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017; U.P. Lower Sub. (Pre) 2013
+When was the Forest (Conservation) Act enacted?
+(a) 1976
+(b) 1980
+(c) 1983
+(d) 1988
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+Match List-I (Acts) with List-II (Year) and select the correct answer using codes given below:
+@match
+List - I (Act) | List-II (Year)
+A. Forest conservation act | 1. 1980
+B. Environment protection act | 2. 1986
+C. Air (Prevention and Control of Pollution) act | 3. 1981
+D. Water (Prevention and control of Pollution) act | 4. 1974
+@endmatch
+Code : A B C D
+(a) 3 1 4 2
+(b) 1 4 2 3
+(c) 4 3 2 1
+(d) 1 2 3 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019, 2020
+Arrange the following events in chronological order of their commencement and select correct answer from the codes given below
+I. Wildlife (Protection) Act
+II. Biological Diversity Act
+III. Project Tiger
+IV. Project Elephant
+(a) I, II, III, IV
+(b) I, III, IV, II
+(c) II, III, IV, I
+(d) II, III, I, IV
+@ans (b)
+@end
+
+@pyq UP R.O./A.R.O. (Pre) 2023
+With reference to Preservation of Wildlife in India, which of the following statement/s is/are correct?
+1. The Wildlife (Protection) Act, 1972 provides legal framework for the protection of wild animals only.
+2. Project Elephant aims to conserve wild Asian elephants only.
+(a) Both 1 and 2
+(b) Only 1
+(c) Only 2
+(d) Neither 1 nor 2
+@ans (d)
+@end
+
+The **Wildlife (Protection) Act 1972** protects **plants as well as animals**, both wild and captive. It created protected areas and Schedules of species. The **2022 amendment** cut the Schedules from six to **four** and added CITES provisions. **Project Elephant** (1992) protects elephants **and their habitats and corridors**, and also deals with human-elephant conflict and captive elephants, so statement 2 is too narrow.
+
+@table
+Wildlife milestone | Year
+Wildlife (Protection) Act | **1972**
+**Project Tiger** | **1973** (9 reserves at the start; now 58)
+Crocodile Conservation Project | 1975
+Forest (Conservation) Act | 1980 (amended and renamed in 2023)
+**Project Elephant** | **1992**
+Biological Diversity Act | **2002**
+National Tiger Conservation Authority | 2006
+Project Dolphin / Project Lion / Project Cheetah | 2020 / 2020 / 2022
+@end
+
+@section 10.3 | Schemes and Operations
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is / are correct ?
+1. It was initiated in 2019.
+2. It aims to restore Mangrove forests.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (a)
+@end
+
+**MISHTI** was announced in the **2023-24 Budget** and launched on **World Environment Day, 5 June 2023**. It aims to restore about **540 sq km** of mangroves across 9 states and 4 UTs.
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Operation Olivia', which of the following statements is/are correct?
+1. It is an initiative of Indian coast Guards to protect Olive Ridley turtles along the coast of Odisha.
+2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (d)
+@end
+
+**Operation Olivia** is run by the **Indian Coast Guard** every year from about **November to May**, covering the olive ridley **mass nesting** (*arribada*) season of roughly **January to March**. The main nesting sites are **Gahirmatha**, **Rushikulya** and the **Devi** river mouth in Odisha.
+
+@pyq U.P.P.C.S.(Pre) 2012
+Which among the following States has launched 'Apna Van Apna Dhan' scheme?
+(a) Uttar Pradesh
+(b) Madhya Pradesh
+(c) Himachal Pradesh
+(d) Arunachal Pradesh
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which of the following city of India is specialized in the plantation?
+(a) Vijayawada
+(b) Chandigarh
+(c) Shillong
+(d) Valparai
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Mains) 2011
+As a part of wildlife conservation efforts in Nepal and India, a new association by the name 'SAVE' was launched recently. The objective of SAVE is to conserve
+(a) Vultures
+(b) Tigers
+(c) Parrots
+(d) Elephants
+@ans (a)
+@end
+
+**SAVE** stands for **Saving Asia's Vultures from Extinction** (2011), a consortium that works for the diclofenac ban and runs vulture safe zones.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+As part of the New Forest Inventory Design implemented in 2016, the revisit time has been reduced to
+(a) 5 years
+(b) 2 years
+(c) 6 months
+(d) 10 years
+@ans (a)
+@end
+
+@section 10.4 | Institutions and Awards
+
+@pyq U.P.R.O./A.R.O. (Re-Exam) (Pre) 2016; U.P.P.C.S. (Spl) (Mains) 2008
+Forest Research Institute is located in :
+(a) Dehradun
+(b) Bhopal
+(c) New Delhi
+(d) Nagpur
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2013
+National Bureau of Plant Genetic Resources is situated at–
+(a) New Delhi
+(b) Kolkata
+(c) Mumbai
+(d) Chennai
+@ans (a)
+@end
+
+@table
+Institution | Location
+Forest Research Institute (1906), Forest Survey of India, **Wildlife Institute of India**, ICFRE | **Dehradun**
+Indian Institute of Forest Management | Bhopal
+National Bureau of Plant Genetic Resources | **New Delhi** (Pusa)
+Botanical Survey of India / Zoological Survey of India | Kolkata
+National Biodiversity Authority | Chennai
+Salim Ali Centre for Ornithology and Natural History (SACON) | Coimbatore
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Rajiv Gandhi Wildlife Conservation Award is given to:
+(a) Educational and Research Institutions
+(b) Forest and wildlife officers
+(c) Wildlife conservationists
+(d) All the above
+@ans (d)
+@end
+
+@section 10.5 | Wildlife Facts
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+In world wildlife, India accounts for:
+(a) 5 percent
+(b) 2 percent
+(c) 6 percent
+(d) 4 percent
+@ans (*)
+@note According to the **Zoological Survey of India**, India has about **6.5-7.5%** of the world's recorded animal species (more than 1 lakh species) on only 2.4% of its land. The figure depends on the source and year, so no option is clearly right and the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Spl) (Pre) 2008
+India's largest fish is:
+(a) Stonefish
+(b) Whale shark
+(c) Marlin
+(d) Hilsa
+@ans (b)
+@end
+
+The **whale shark** (up to about 18 m) is the world's largest fish. It is protected under **Schedule I** of the Wildlife Act, and **Gujarat**'s Saurashtra coast is a key area for it.
+
+@pyq U.P.P.C.S. (Pre) 2020
+Which of the following is not a major cause of Wildlife Extinction?
+(a) Loss of natural habitat
+(b) To make fire in the forest
+(c) Illegal commercial trade of wildlife
+(d) Fast pace of population growth
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The pugmark technique is used –
+(a) For bird watching in forests
+(b) For breeding rare wildlife in captivity
+(c) For estimation of population of various wild animals
+(d) For tattooing wildlife to distinguish one species from the other
+@ans (c)
+@end
+
+**Pugmarks** (footprints) were the old way of counting tigers. Since 2006 the **All-India Tiger Estimation** has used **camera traps** with stripe-pattern recognition. The 2022 count found **3,682 tigers** (central estimate; range 3,167-3,925), about **75%** of the world's wild tigers.
+
+@pyq U.P.P.C.S.(Pre) 2001; U.P. Lower Sub. (Spl) (Pre) 2002, 2003
+Which animal is the symbol of the World Wildlife Fund:
+(a) Tiger
+(b) Giant Panda
+(c) Hornbill
+(d) White Bear
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Consider the following statements :
+1. The Worldwide Fund for Nature was established in 1961.
+2. The death of 13 lions in Nandan Forest Sanctuary of Odisha in July, 2000 was due to trypanosomiasis disease.
+3. The tree eucalyptus is named as eco-friend.
+4. The biggest aquarium in India is situated in Kolkata.
+Of these statements:
+(a) 1, 2 and 3 are correct
+(b) 2, 3 and 4 are correct
+(c) 1, 2 and 4 are correct
+(d) 1 and 2 are correct
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which country has the largest percentage of its total area under forests?
+(a) Japan
+(b) Indonesia
+(c) Suriname
+(d) Guyana
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which country has the highest percentage of its geographical area under forest?
+(a) China
+(b) India
+(c) Indonesia
+(d) Japan
+@ans (d)
+@end
+
+**Suriname** has about **93%** forest cover, the highest of any country, followed by Guyana, Gabon and Micronesia. Among large economies, **Japan** (about 68%) is the most forested.
+
+@trap
+The **1952 Forest Policy** classes were protected, national and village forests; **national parks** are a Wildlife Act category, not one of them. **Forest Conservation Act = 1980** and **Environment Protection Act = 1986**. **MISHTI = 2023**, not 2019. Olive ridley nesting is **January-March**, not August. The **Wildlife Act protects plants** too.
+@end
+
+@heatmap
+
+@pattern
+Law-and-year questions (Wildlife Act 1972, Forest Act 1980, the pollution Acts, chronology with Project Tiger and Project Elephant) are the backbone of this chapter, asked in 2015, 2017, 2019, 2020, 2021 and 2023. The 2025 paper switched to **scheme statements** (MISHTI, Operation Olivia), so expect more questions on current schemes.
+@end
+
+@next
+Likely next angles: the **Van (Sanrakshan Evam Samvardhan) Adhiniyam 2023** and the Supreme Court's "deemed forest" order, the **Wildlife (Protection) Amendment 2022** (four Schedules), **Project Cheetah** (Kuno, Gandhi Sagar), the **Green Credit Programme** (tree plantation credits), **Nagar Van Yojana**, and the **Ek Ped Maa Ke Naam** campaign (2024).
+@end

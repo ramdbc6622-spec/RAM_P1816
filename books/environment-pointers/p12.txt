@@ -1,0 +1,103 @@
+@chapter 12 | Biosphere Reserves, Wildlife Sanctuaries and Project Tiger
+@meta Built from 47 UPPSC questions (1994–2025). Focus: biosphere reserve-state matching, UNESCO MAB, sanctuaries, Project Tiger, tiger reserve-state matching.
+
+@hot
+- Biosphere reserves: **Nokrek-Meghalaya (Garo Hills), Manas-Assam, Similipal-Odisha, Agasthyamalai-Kerala, Dihang-Dibang-Arunachal, Pachmarhi-MP, Nanda Devi-Uttarakhand, Cold Desert-Himachal** {2007, 2010, 2013, 2013, 2014, 2019, 2021, 2022, 2024, 2025, ?}
+- Tiger reserves: **Bandipur-Karnataka, Melghat-Maharashtra, Buxa-West Bengal, Pakke and Namdapha-Arunachal, Dampa-Mizoram, Sariska-Rajasthan; Amangarh is UP** {2003, 2006, 2008, 2010, 2012, 2012, 2021}
+- **Project Tiger** = **1973**; Tiger Day **29 July** {1994, 2002, 2014, 2018}
+- **Periyar** (Kerala) = wild elephants {2011, 2015}
+@end
+
+@section 12.1 | Biosphere Reserves
+- Preserve **genetic diversity** {2004}
+- Correct: **biosphere-Edward Suess** (coined "biosphere") {2013}
+- Not in UNESCO network (then): **Rann of Kutch** {2009}
+- Largest UNESCO-listed: **Gulf of Mannar** {2013}
+- **Nilgiri-1986, Nanda Devi-1988, Sundarbans-1989, Kanchenjunga-2000** {2012}
+- **Nokrek-Meghalaya, Manas-Assam, Dihang-Dibang-Arunachal, Agasthyamalai-Kerala** {2013}
+- **Similipal-Odisha, Nokrek-Meghalaya, Agasthyamalai-Kerala, Manas-Assam** {2019, 2024}
+- Correct: **Nokrek-Meghalaya**; wrong: **Nokrek-Manipur** {2007, 2025}
+- **Similipal-Odisha, Dihang-Dibang-Arunachal, Nokrek-Meghalaya, Cold Desert-Himachal** {?}
+- **Similipal-Odisha, Pachmarhi-MP, Nanda Devi-Uttarakhand, Nokrek-Meghalaya** {2021}
+- Wrong: **Manas-Meghalaya** (Assam) {2013}
+- **Manas-Assam, Sundarbans-West Bengal, Nanda Devi-UP (then), Pachmarhi-MP** {2022}
+- Spread over Garo Hills: **Nokrek** {2014}
+- 16th reserve, Cold Desert: **Himachal Pradesh** {2010}
+- World Heritage site: **Nanda Devi** {2005, 2008}
+- **Bhitarkanika**: **Odisha** (Ramsar; only on UNESCO tentative list) {2008}
+
+@table
+Biosphere reserve | State
+Nilgiri (first, 1986) | TN, Kerala, Karnataka
+Nanda Devi | Uttarakhand
+Nokrek | Meghalaya
+Gulf of Mannar | Tamil Nadu
+Sundarbans | West Bengal
+Manas | Assam
+Similipal | Odisha
+Dihang-Dibang | Arunachal Pradesh
+Pachmarhi, Panna | Madhya Pradesh
+Agasthyamalai | Kerala, TN
+Kachchh (largest) | Gujarat
+Cold Desert | Himachal Pradesh
+@end
+
+@section 12.2 | Sanctuaries
+- **Periyar**: **wild elephants**; in **Kerala** {2011, 2015}
+- **Chinnar** sanctuary: **Kerala** {2005}
+- Wild ass sanctuary: **Gujarat** (Little Rann) {2010}
+- **Kaziranga**: **rhinoceros** {2012}
+- **Garampani-Assam, Namdapha-Arunachal, Pakhal-Andhra, Sariska-Rajasthan** {2003}
+- **Namdapha-Arunachal, Bandipur-Karnataka, Periyar-Kerala, Lamjao-Manipur** {2015}
+- **Dachigam-J&K, Keoladeo-Rajasthan, Kanha-MP, Periyar-Kerala** {2014}
+- Wrong: **Similipal-MP** (Odisha) {2009}
+- Tamil Nadu bird sanctuary: **Karikili** {2008}
+- **National Chambal Sanctuary** is not in **Haryana** (it is MP, Rajasthan, UP) {2020}
+- UP sanctuary of 1975: **Katarniaghat** (dates differ, *) {2022}
+- **Shuklaphanta**: **Nepal** {2016}
+- Largest botanical garden: **Kew** (England) {2015}
+
+@section 12.3 | Project Tiger
+- Aim: **save the Indian tiger** from extinction {1994}
+- Started: **1973** {2002, 2018}
+- International Tiger Day: **29 July** {2014}
+- World Tiger Summit 2010: **St. Petersburg** {2011}
+- Tiger census 2018: India has **70%** of world tigers; about **30%** outside reserves (both) {2020}
+- Largest tiger habitat: **Andhra Pradesh** (Nagarjunsagar-Srisailam) {2011}
+- **Bandipur-Karnataka, Melghat-Maharashtra, Buxa-West Bengal, Pakke-Arunachal** {2008}
+- **Bandipur-Karnataka, Manas-Assam, Namdapha-Arunachal, Similipal-Odisha** {2006}
+- Mizoram's tiger reserve: **Dampa** {2012}
+- Wrong: **Buxa-Bihar** (West Bengal); Buxa = **West Bengal** {2010, 2003}
+- Lies in two States: **Pench** (MP, Maharashtra) {2008}
+- **Sariska**: **Rajasthan** {2012}
+- Not in MP: **Amangarh** (UP) {2021}
+- Newly declared (2015): **Rajaji** {2015}
+- First to use drones: **Bandipur** {2014}
+
+@flow Tiger census (central estimate)
+2006 | 1,411
+2014 | 2,226
+2018 | 2,967 (about 70% of world)
+2022 | 3,682 (about 75%); MP leads
+@end
+
+@trap
+- **Buxa** = West Bengal; **Dampa** = Mizoram; **Amangarh** = UP.
+- **Nokrek** = Meghalaya; **Manas** = Assam.
+- **Chinnar** = Kerala, not Kashmir.
+@end
+
+@up UP's tiger reserves: **Dudhwa, Pilibhit** (won TX2 award 2020 for doubling tigers), **Amangarh** (Bijnor) and **Ranipur** (Chitrakoot, 2022). The **National Chambal Sanctuary** covers UP, MP and Rajasthan; **Katarniaghat** guards gharials.
+
+@last
+- Nilgiri = first biosphere reserve (1986)
+- Nokrek = Meghalaya (Garo Hills); Manas = Assam
+- Cold Desert = Himachal; Dihang-Dibang = Arunachal
+- Gulf of Mannar = largest UNESCO-listed
+- Project Tiger **1973**; Tiger Day **29 July**
+- 2022 census **3,682**, ~75% of world
+- Nagarjunsagar-Srisailam = largest reserve
+- Buxa = WB; Dampa = Mizoram; Pakke = Arunachal
+- Pench = MP + Maharashtra; Amangarh = UP
+- Chambal sanctuary: MP, Rajasthan, UP
+@end

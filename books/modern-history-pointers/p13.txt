@@ -1,0 +1,56 @@
+@chapter 13 | Moderates and Extremists in Congress
+@meta Built from 17 UPPSC questions (1995–2016). Focus: telling the two camps apart, Naoroji and swaraj, the Extremist critique, Tilak's methods, trials and titles.
+
+@hot
+- **Tilak** called the Moderates' politics "**prayer, petition and protest**"; Chirol called Tilak "**father of Indian unrest**" {2001, 2002, 2002, 2002, 2004, 2005, 2013, 2013}
+- Not a Moderate: **Tilak, Lajpat Rai**; not an Extremist: **Gokhale** {1995, 2011, 2014, 2016}
+- **Tilak** made the **Ganapati festival** political and founded lathi clubs {2007, ?}
+@end
+
+@section 13.1 | The Two Camps
+- Not a Moderate: **Tilak** {1995}
+- Not with the Moderates: **Lala Lajpat Rai** {2011}
+- Not an Extremist: **Gokhale** {2014, 2016}
+- An Extremist: **Bipin Chandra Pal** {2013}
+- Self-rule demanded from 1904: **Dadabhai Naoroji** {2016}
+- "Prayer, petition and protest": **Tilak** {2002, 2002, 2002, 2005}
+- Congress a "begging institute": **B.C. Pal** {2008}
+- Supporter of swadeshi: **Aurobindo Ghosh** {2009}
+- Lajpat Rai's political guru: **Mazzini** {2013}
+
+@table
+Moderates | Extremists
+Dadabhai Naoroji, Pherozeshah Mehta | Bal Gangadhar Tilak
+G.K. Gokhale, Surendranath Banerjee | Lala Lajpat Rai, Bipin Chandra Pal
+Methods: petitions, constitutional reform | Methods: swadeshi, boycott, mass action
+@end
+
+@section 13.2 | Tilak
+- Tilak was **not** communal, though he used religious festivals (A false, R true) {2001}
+- **Lathi club**: **Tilak** {?}
+- Ganapati festival made national: **Tilak** {2007}
+- "Father of Indian unrest": **Tilak**, so called by **Valentine Chirol** {2001, 2004, 2013, 2013}
+- Title "Lokmanya": linked (per key) with the **revolutionary movement** period (disputed) {2012}
+- Pleaded as "a Sanskrit scholar": **Max Muller** {2014}
+- Carried Tilak's bier with Gandhi: **Shaukat Ali** {2014}
+
+@trap
+- Swaraj was first demanded by a **Moderate**, Naoroji (Calcutta 1906).
+- Lal-Bal-Pal = Lajpat Rai (Punjab), Tilak (Maharashtra), Pal (Bengal).
+- "Begging institute" = **Pal**; "prayer, petition, protest" = **Tilak**.
+@end
+
+@up UP link: **Madan Mohan Malaviya** of Allahabad stood with the Moderates; the 1916 **Lucknow** session reunited Moderates and Extremists after the Surat split.
+
+@last
+- Tilak, Lajpat Rai, Pal, Aurobindo = Extremists
+- Gokhale, Mehta, Naoroji, Surendranath = Moderates
+- Naoroji = swaraj from 1904-06
+- Tilak = prayer, petition, protest
+- Pal = begging institute
+- Mazzini = Lajpat Rai's guru
+- Tilak = Ganapati festival, lathi club
+- Chirol = father of Indian unrest
+- Max Muller pleaded for Tilak
+- Shaukat Ali carried Tilak's bier
+@end

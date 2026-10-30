@@ -1,0 +1,139 @@
+@chapter 14 | Pollution: Air, Acid Rain, Water, Sound and Soil
+@meta Built from 75 UPPSC questions (2000–2025). Focus: biodegradable pollutants, primary and secondary pollutants, CO, lichens, acid rain, arsenic and fluoride, BOD, decibels, Bhopal.
+
+@hot
+- **Bhopal gas**: **methyl isocyanate** (MIC), 1984 {2001, 2002, 2008, 2014, 2017, 2022}
+- **Lichens** = bio-indicators of air pollution {2010, 2012, 2013, 2015, 2019, 2021, 2025}
+- **Acid rain**: **SO2 and nitrogen oxides**; Norway and Canada hit hardest {2000, 2001, 2001, 2002, 2003, 2007, 2010, 2011, 2013, 2024}
+- **Carbon monoxide** binds haemoglobin; most dangerous {2006, 2013, 2014, 2016}
+- **Fly ash** comes from **burning coal** {2004, 2004, 2021}
+- **BOD** measures water pollution; high BOD = sewage {2007, 2011, 2021, 2023}
+@end
+
+@section 14.1 | Basic Ideas
+- Human-made pollutants: **anthropogenic**; human-modified environment: anthropogenic {2005, 2019}
+- Biodegradable: **sewage**; **rubber** (of options) {2014, 2016, 2014}
+- **DDT**: **non-biodegradable** {2022}
+- Not biodegradable: **pesticide** {2023}
+- Polythene lasts because it is a **polymer** {2007}
+- Takes longest to decay: **plastic bag** {2008}
+
+@section 14.2 | Air Pollution
+- Burning coal, petrol, diesel: **air pollution** {2011}
+- Fossil-fuel air pollutant: **SO2** {2011}
+- Not a water pollutant: **SO2** {2011}
+- Not secondary: **SO2** (primary) {2014}
+- Secondary pollutant: **smog** {2018}
+- Eye irritant in smoke: **PAN** (peroxyacetyl nitrate) {2018}
+- Photochemical smog always has **ozone** {2022}
+- Common atmospheric pollutant: **CO** {2006}
+- Affects blood, can kill: **CO**; binds haemoglobin faster than O2; most dangerous {2013, 2016, 2014}
+- Fly ash: **burning coal** {2004, 2004, 2021}
+- Lichens: good indicators (true); grow well in pollution (false) (only 1) {2025}
+- Air-pollution indicator: **lichen**; bio-indicator {2010, 2013, 2021, 2012, 2015, 2019}
+- Most polluted city (then): **Ankleshwar** {2009}
+- Greenpeace 2020 most polluted: **Jharia** {2019}
+- Cleans polluted air: **rain** {2013}
+- Delhi winter pollution peaks (true); more vehicle combustion in winter (false) {2004}
+- Cigarette smoke: **CO and benzene** (per key) {2015}
+- Not an air-pollution control device: **cyclone divider** {2013}
+- Bio-decomposer: free to farmers; made of fungi (both) {2025}
+- **NCAP**: launched **2019** {2020}
+- **PRANA** portal: monitors **NCAP** {2023}
+
+@table
+Primary | Secondary
+SO2, CO, NOx | Ground-level ozone
+Hydrocarbons | PAN
+Particulates, lead | Photochemical smog, acid rain
+@end
+
+@section 14.3 | Acid Rain
+- CO2, SO2, NO2 dissolve in rain; polluted air (R explains A) {2024}
+- Acid rain: **nitrogen oxides and SO2**; clouds react with SO2 {2001, 2007, 2010, 2013, 2001}
+- Main gas: **SO2** {2002, 2003}
+- Suffer acid rain: **Canada and Norway** {2011}
+- Most acid rain: **Norway** {2000}
+
+@section 14.4 | Water Pollution
+- Non-biotic groundwater pollutant: **arsenic** {2012}
+- Arsenic highest in **Kolkata**; **West Bengal**; natural arsenic in **Bangladesh** {2005, 2015, 2022}
+- **Knock-knee**: **fluoride** {2016}
+- Ground Water Quality Report 2024: **Central Ground Water Board** (only 3) {2025}
+- Worst chemical effluents: **leather** industry {2005}
+- Not air pollution: **eutrophication** {2013}
+- Eutrophication: nutrient enrichment; depletes oxygen (both) {2019}
+- High BOD: **sewage** contamination {2007}
+- River pollution measured by **dissolved oxygen** {2011, 2021}
+- BOD: **pollution assay** of water {2023}
+- Ganga BOD highest: **Kanpur to Allahabad** {2008}
+- "Biological desert": **Damodar** {2012}
+- UP's "biological disaster" river: **Yamuna** {2018}
+- Largest solid waste per head: **Mumbai** {2010}
+
+@section 14.5 | Noise and Soil
+- Noise unit: **decibel** {2017}
+- Loudest: **jet flight** {2003}
+- Rustling leaves: **20 dB** {2018}
+- **Green muffler**: **noise pollution** (tree belts) {2014, 2017}
+- Overuse of fertilisers causes **all** listed harms {2016}
+- Soil pollution worse; fertilisers enter the food chain (R explains A) {2010}
+- Crop rotation helps in **all** listed ways {2016}
+
+@section 14.6 | Pollutants and Diseases
+- Bhopal (1984): **methyl isocyanate** {2001, 2002, 2008, 2014, 2017, 2022}
+- Wrong: **fluoride-indigestion** (fluorosis) {2017}
+- Most toxic metal in exhaust: **lead** {2006, 2009}
+- **Asbestos-lung, lead-brain, mercury-stomach, CO-bloodstream** {2012}
+- **CO-liver and kidney, NOx-cancer, soil particles-breathing, lead-nervous system** (per key) {2008}
+- **Acid rain-SO2, smog-unsaturated hydrocarbons, haemoglobin-CO, ozone depletion-CFCs** {2019}
+- Radiation: **heredity change, blood circulation, cancer** (1, 3, 4) {2009}
+- RSPM size: **less than 5 µm** (per key; PM10 and PM2.5 today) {2017}
+
+@table
+Pollutant | Disease
+Mercury | Minamata
+Cadmium | Itai-itai
+Nitrate | Blue baby
+Fluoride | Fluorosis, knock-knee
+Arsenic | Black-foot, skin cancer
+Asbestos | Asbestosis
+Silica | Silicosis
+CO | Blocks haemoglobin
+@end
+
+@section 14.7 | Vehicle Norms and Miscellany
+- Euro norms cover **all** listed gases {2013}
+- Euro-II diesel sulphur: **0.05% or less** {2013}
+- Cold wave of January 2012: **La Nina** {2010}
+- Mustard seed adulterant: **argemone** seed {2010}
+- **Incinerators**: **burning waste** {2018}
+
+@flow Reading water pollution
+Sewage enters | Microbes multiply
+BOD rises | Oxygen used up
+DO falls | Fish die
+Nutrients pile up | Eutrophication, algal bloom
+@end
+
+@trap
+- **SO2 is primary**; smog, ozone, PAN are secondary.
+- High **BOD**, low **DO** = polluted.
+- **Eutrophication** is water pollution.
+- Lichens **vanish** where air is dirty.
+@end
+
+@up UP links: **Kanpur** tanneries push Ganga BOD highest between **Kanpur and Prayagraj**; the **Yamuna** is called a "biological disaster"; UP cities (**Ghaziabad, Noida, Lucknow**) are NCAP non-attainment cities; Sonbhadra's **Singrauli** belt has fly-ash and mercury problems.
+
+@last
+- Bhopal 1984 = **MIC**
+- Lichens = air-pollution indicator
+- Acid rain = SO2 + NOx; Norway, Canada
+- CO binds haemoglobin
+- Fly ash = coal; SO2 = primary pollutant
+- PAN = eye irritant; smog has ozone
+- Arsenic = West Bengal, Bangladesh; fluoride = knock-knee
+- BOD high = sewage; Damodar = biological desert
+- Noise in **decibels**; leaves 20 dB; green muffler
+- NCAP **2019**; PRANA portal
+@end

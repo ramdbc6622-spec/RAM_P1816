@@ -1,0 +1,102 @@
+@chapter 17 | Organic Chemistry, Polymers, Acids and Explosives
+@meta Built from 42 UPPSC questions (1992–2025). Focus: fruit-ripening chemicals, natural and synthetic polymers, bullet-proof polymers, Teflon and Bakelite, natural acids and their sources, explosives.
+
+@hot
+- **Lactic acid**: muscle fatigue, sour milk, curd {1992, 2004, 2008, 2010, ?}
+- Not an explosive: **nitrochloroform**; RDX (cyclonite) is one {2001, 2002, 2003, 2014, 2015, ?, ?}
+- **Bullet-proof**: **Kevlar (polyamide)** vests, **Lexan (polycarbonate)** windows {2005, 2010, 2014, 2015, 2017}
+- **Fruit ripening**: **ethylene, ethephon, calcium carbide** {2005, 2010, 2011, 2014}
+- **Acid-source matching**: **acetic-vinegar/pickle, tartaric-grapes/tamarind, lactic-curd, malic-apple, carbonic-soda, methanoic-nettle sting** {2003, 2008, 2009, 2015, 2017, 2023, 2025}
+@end
+
+@section 17.1 | Basic Organic Compounds
+- Basis of all organic compounds: **carbon** {2001, 2015}
+- Methane source: **paddy fields** {2014}
+- Ripening chemicals: **ethephon**, **calcium carbide** (banned), **ethylene** {2005, 2010, 2011, 2014}
+- **Wood spirit**: **methyl alcohol** {2015}
+- Fermented germinated barley: **beer** {2016}
+
+@section 17.2 | Polymers
+- Natural rubber: polymer of **isoprene** {1992}
+- Not a natural polymer: **nylon** {2001, 2015}
+- Natural silk contains **nitrogen** (a protein) {2023}
+- Natural polymer: **silk** {?}
+- Not a natural polymer: **ghee** (a fat) {2009}
+- Not synthetic: **fibroin** (silk protein) {2020}
+- Polythene from **ethylene** {2021}
+- Not a thermoplastic: **neoprene** (an elastomer) {2020}
+- Bullet-proof vests: **polyamides** (Kevlar) {2005, 2010, 2014}
+- Bullet-proof windows: **polycarbonates** {2015}
+- Bullet-proof materials: **Kevlar and Lexan** (I and III) {2017}
+- Teflon, Dacron are polymers; neoprene is synthetic rubber; polythene is polyethylene (1, 2, 3); natural rubber is **isoprene** {2002, 2003}
+- Non-stick pans: **Teflon** {2015, ?}
+- Pottery glazing: **zinc oxide** (per key) {2015}
+- Phenol makes **Bakelite** {2010}
+- Not biodegradable: **PVC** {2017}
+
+@table
+Polymer | Made from / use
+Natural rubber | Isoprene
+Neoprene | Chloroprene; synthetic rubber
+Polythene | Ethylene
+PVC | Vinyl chloride; pipes; not biodegradable
+Teflon | Tetrafluoroethylene; non-stick pans
+Bakelite | Phenol + formaldehyde; switches
+Nylon | Polyamide; first synthetic fibre
+Kevlar | Aramid (polyamide); bullet-proof vests
+Lexan | Polycarbonate; bullet-proof glass
+Dacron / terylene | Polyester fibre
+@end
+
+@section 17.3 | Organic Acids in Nature
+- Muscle fatigue: **lactic acid** {1992, 2008, 2010}
+- Milk turns sour: **lactic acid** {2004, ?}
+- Wrong pair: **acetic acid-curd** (curd has lactic acid) {2015}
+- Wrong pair: **acetic acid-potato** (only 3) {2025}
+- **Pickle-acetic, sour milk-lactic, apple-malic, soda water-carbonic** {2003}
+- **Vinegar-acetic, tamarind-tartaric, curd-lactic, nettle sting-methanoic (formic)** {2023}
+- In grapes, tamarind, banana: **tartaric acid** {2008, 2017}
+- Photography acid: **oxalic acid** {2003}
+- Baking powder: **tartaric acid** {2012}
+- Vinegar: **acetic acid** {2009}
+
+@table
+Acid | Found in
+Acetic | Vinegar, pickles
+Citric | Lemon, orange
+Tartaric | Grapes, tamarind; baking powder
+Lactic | Curd, sour milk, tired muscles
+Malic | Apple
+Oxalic | Tomato, spinach
+Formic (methanoic) | Ant and nettle sting
+Carbonic | Soda water, cold drinks
+@end
+
+@section 17.4 | Explosives
+- Not an explosive: **nitrochloroform** {2001, 2002, 2003, 2014, 2015}
+- **RDX** invented by **Henning** (1898); RDX = **cyclonite**, an explosive {2016, ?, ?}
+- No nitroglycerine: **amatol** (TNT + ammonium nitrate) {2010}
+- Explosives made from **glycerol** (nitroglycerine) {2016}
+- "Nobel oil": **TNG** (nitroglycerine) {?}
+
+@trap
+- Curd = **lactic** acid, not acetic; vinegar = **acetic**.
+- Natural rubber = **isoprene**; neoprene = **chloroprene**.
+- Bullet-proof vest = **Kevlar**; window = **polycarbonate**.
+- **Calcium carbide** ripening is banned in India (it gives acetylene and arsenic traces).
+@end
+
+@up UP link: **mango** ripening with banned **calcium carbide** is a recurring FSDA (UP food safety) target in Lucknow, Malihabad and Saharanpur mandis; ethephon and ethylene chambers are the approved methods.
+
+@last
+- Carbon = basis of organic compounds; paddy = methane
+- Ethylene, ethephon ripen fruit; carbide banned
+- Wood spirit = methyl alcohol; barley = beer
+- Natural rubber = isoprene; nylon not natural
+- Kevlar vests; Lexan windows; Teflon non-stick
+- Phenol = Bakelite; PVC not biodegradable
+- Lactic = curd, fatigue; tartaric = grapes, tamarind, baking powder
+- Acetic = vinegar; formic = nettle, ant; carbonic = soda
+- RDX = cyclonite (Henning); TNG = Nobel oil
+- Nitrochloroform is not an explosive
+@end

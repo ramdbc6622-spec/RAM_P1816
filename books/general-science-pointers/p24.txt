@@ -1,0 +1,94 @@
+@chapter 24 | Plant Physiology
+@meta Built from 38 UPPSC questions (1996–2023). Focus: photosynthesis inputs and outputs, xylem and phloem, plant nutrients, plant hormones and their roles, crop practices and hydroponics.
+
+@hot
+- **Ethylene** ripens fruit (ethrel releases it) {1996, 2007, 2008, 2017, 2023, ?}
+- **Chlorophyll** has **magnesium**; photosynthesis needs **CO2**, releases O2 **from water** {2011, 2012, 2013, 2014, ?}
+- **Xylem** carries **water**; **phloem** carries **food** {2012, 2015, 2015, 2023}
+- **Plant hormones**: **auxin-apical dominance, gibberellin-elongation, cytokinin-cell division, abscisic acid-drought and dormancy**; insulin is not one {2011, 2013, 2015, 2016, 2016, 2021}
+- **Hydroponics** = growing plants **without soil** {2009, 2023}
+@end
+
+@section 24.1 | Photosynthesis
+- Element in chlorophyll: **magnesium** {2012, 2013}
+- Plants make food by **photosynthesis** {2013}
+- Sunlight becomes chemical energy; glucose turns into starch (A and R true, R explains A) {?}
+- Essential gas: **CO2**; **oxygen** is not needed {2011, ?}
+- Oxygen released comes from **water** {2014}
+- Most of Earth's oxygen: **algae** (phytoplankton) {2015}
+- Most effective light: **red** {2014}
+- Artificial light **can** drive photosynthesis {2008}
+- Best solar-to-chemical converter: **Chlorella** {2014}
+- Does not add CO2 to the carbon cycle: **photosynthesis** {2012, 2013}
+
+@flow Photosynthesis in one line
+Inputs | CO2 + water + sunlight
+Pigment | Chlorophyll (magnesium); absorbs red and blue
+Light reaction | Water split; oxygen released
+Dark reaction | CO2 fixed into glucose, then starch
+@end
+
+@section 24.2 | Transport in Plants
+- **Phloem**: transports **food** (organic nutrients) {2012, 2015}
+- **Xylem**: transports **water** {2015, 2023}
+
+@section 24.3 | Mineral Nutrition
+- Not a micronutrient: **magnesium** (a macronutrient) {2019}
+- Plants take nitrogen as **nitrate** {2016, 2021}
+- Yellowing and poor growth: lack of **nitrogen** {2023}
+- More oil in mustard: **sulphur** {2021}
+- Nodule formation in legumes: **boron** (per key) {2019}
+- **Cuscuta** (amarbel) is a parasite; it feeds on the host's **stem** via haustoria, not leaves (A true, R false) {2016}
+- **Crop logging**: plant analysis to judge **nutrient needs** {2006}
+
+@table
+Nutrient | Role / deficiency
+Nitrogen | Leaf growth; lack = yellowing (chlorosis)
+Phosphorus | Roots, flowering
+Potassium | Disease resistance, quality
+Sulphur | Oil content (mustard)
+Magnesium | Chlorophyll centre
+Zinc | Khaira disease of rice
+Boron | Flowering, nodules
+@end
+
+@section 24.4 | Plant Hormones
+- A plant hormone: **cytokinin** {2015, 2016, 2021}
+- Not a plant hormone: **insulin** {2011}
+- **Auxin-apical dominance, gibberellin-cell elongation, cytokinin-cell division, abscisic acid-growth inhibition** {2016}
+- Drought tolerance: **abscisic acid** {2013}
+- Correct (per key): weeping jelly from excess acid; **cytokinin** breaks dormancy (1 and 4) {2013}
+- Ripening gas: **ethylene** (the key prints "ethane") {1996, 2007, 2008, ?}
+- Hastens ripening: **ethrel** {2023}
+- **Ripening-ethylene, baking soda-sodium bicarbonate, soft drink-CO2, quartz-sodium silicate** (per key) {2017}
+
+@section 24.5 | Crop Practices
+- **Gootee**: **vegetative propagation** (air layering) {2021}
+- Seed changed every year: **hybrid seed** {2010}
+- Crop rotation: a legume should be followed by a **non-legume** (only 2) {2021}
+- Censer (pepper-pot) seed dispersal: **poppy** {2010}
+- Clonal selection: **potato** {2009}
+- Not correctly matched: key says **maize-tasseling** (*) {2021}
+- **Hydroponics**: plants **without soil** {2009, 2023}
+
+@trap
+- Oxygen from photosynthesis comes from **water**, not CO2.
+- Magnesium is a **macro**nutrient; boron and zinc are micro.
+- Abscisic acid = stress and dormancy; **gibberellin** is the main dormancy breaker.
+- Fruit ripening gas is ethyl**ene**, not ethane.
+@end
+
+@up UP link: **CIMAP** (Lucknow) and **NBRI** study medicinal and aromatic plant physiology; UP's **mustard** belt (Agra, Mathura, Etawah) is advised to use **sulphur** for higher oil content.
+
+@last
+- Chlorophyll = **magnesium**; red light most effective
+- O2 from **water**; algae make most O2
+- Chlorella = best solar converter
+- Xylem = water; phloem = food
+- Nitrate form of N; N lack = yellowing
+- Sulphur = mustard oil; boron = nodules
+- Cuscuta = parasite (amarbel)
+- Auxin = apical dominance; cytokinin = division; ABA = drought
+- Ethylene / ethrel = ripening
+- Hydroponics = no soil; gootee = air layering
+@end

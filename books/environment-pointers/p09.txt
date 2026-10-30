@@ -1,0 +1,70 @@
+@chapter 9 | India State of Forest Report (ISFR)
+@meta Built from 20 UPPSC questions (1991–2022). Focus: national forest percentages by report year, state rankings by area and percentage, very dense forest, UP.
+
+@hot
+- Highest forest **percentage**: **Mizoram** {2002, 2008, 2010, 2012, 2016}
+- Largest forest **area**: **Madhya Pradesh** {2000}
+- Most **very dense** forest: **Arunachal Pradesh** {2004, 2008, 2011}
+- National cover by report: **21.54%** forest (2017); **24.16%** forest + tree (2015) {2016, 2018}
+@end
+
+@section 9.1 | National Figures
+- Forest share (1991 key): **22%** {1991}
+- ISFR 2017: **21.54%** under forest {2018}
+- ISFR 2015: **24.16%** forest and tree cover {2016}
+- Dense forest share: about **12%** {2008}
+
+@table
+ISFR 2023 | Figure
+Forest cover | 21.76%
+Forest + tree cover | 25.17%
+Mangroves | ~4,992 sq km
+Target (Forest Policy 1988) | 33%
+@end
+
+@section 9.2 | State Rankings
+- Largest forest percentage: **Mizoram**; among States/UTs: **Mizoram** {2002, 2010, 2012, 2016, 2008}
+- Most forest of HP, Arunachal, Meghalaya, Sikkim: **Arunachal** {2004}
+- Over 75% forest group: none fits now (*) {1995}
+- Over 80% forest (then): **Arunachal**; now **Mizoram** {2008}
+- Over 33% forest (ISFR 2021): **17** states/UTs {2021}
+- Largest forested area: **Madhya Pradesh** {2000}
+- Largest very dense forest: **Arunachal Pradesh** {2011}
+- Not correct: **Nagaland** is the most forested State {2010}
+- Most forest gain (ISFR 2021): **Andhra Pradesh** {2022}
+- Second largest mangroves: **Gujarat** {2008}
+- Tree cover maximum (key): **East Deccan** {2009}
+- Descending cover: **Manipur, Odisha, Maharashtra, Haryana** {2002}
+- Forest area order: Arunachal, Chhattisgarh, Odisha, AP (no code, *) {2011}
+- Most tribal districts (ISFR 2019 options): **Manipur** {2021}
+
+@flow Three different "firsts"
+Largest area | Madhya Pradesh
+Highest percentage | Mizoram (Lakshadweep among UTs)
+Most very dense forest | Arunachal Pradesh
+Lowest percentage | Haryana
+@end
+
+@section 9.3 | Uttar Pradesh
+- UP's recorded forest area (2011): about **7%** of its area {2012}
+
+@trap
+- **Area** (MP) vs **percentage** (Mizoram) vs **very dense** (Arunachal).
+- "Recorded forest area" (legal) differs from "forest cover" (satellite).
+- Answers change by report year; check the ISFR edition.
+@end
+
+@up UP has only about **6%** forest cover in recent ISFRs, far below the 33% goal; the State's mass plantation drives (crores of saplings each July) aim to raise green cover.
+
+@last
+- ISFR by **Forest Survey of India** (Dehradun), every 2 years
+- 2023: forest **21.76%**; forest + tree **25.17%**
+- Target **33%** (two-thirds in hills)
+- Mizoram = highest %; MP = largest area
+- Arunachal = most very dense forest
+- Haryana = lowest %
+- West Bengal, Gujarat = top mangroves
+- 17 States/UTs over 33% (2021)
+- Andhra gained most (2021)
+- UP ~7% recorded forest
+@end

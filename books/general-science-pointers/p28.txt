@@ -1,0 +1,85 @@
+@chapter 28 | Genetic Engineering and Biotechnology
+@meta Built from 31 UPPSC questions (1999–2017). Focus: cloned animals, plasmids and phages, the Human Genome Project, stem cells, Bt cotton, golden rice and terminator seeds, DNA fingerprinting.
+
+@hot
+- **Dolly** the **sheep** (1996) = first cloned mammal {2002, ?}
+- **DNA fingerprinting**: paternity tests and crime; samples from blood, bone, hair, saliva {2002, 2004, 2006, 2008, 2010}
+- **Golden rice** = transgenic rice rich in **beta-carotene** (vitamin A) {2000, 2012, ?, ?}
+- **Terminator technology**: seeds whose next generation is **sterile** {1999, ?}
+- **Bt cotton** carries a gene from a **bacterium** (Bacillus thuringiensis) {2010}
+@end
+
+@section 28.1 | Cloning
+- First cloned organism: **Dolly**, a **sheep** {2002, ?}
+- **Garima II**: a **cloned buffalo** (NDRI Karnal) {2009}
+- First all-green glowing transgenic pigs: **Taiwan** {2010}
+- **Injaz**: first cloned **camel** {2008}
+- Tried with some success: **disease resistance, growth promotion, animal cloning** (1, 2, 3); not human cloning {2001, 2003}
+- Genetic engineering vector: **plasmid** {2015}
+- **Bacteriophages** infect bacteria and are used in genetic engineering (both) {2017}
+
+@table
+Clone | Animal | Where / year
+Dolly | Sheep | Scotland, 1996
+Samrupa, Garima | Buffalo | NDRI Karnal, 2009-10
+Injaz | Camel | Dubai, 2009
+Noori | Pashmina goat | Kashmir, 2012
+@end
+
+@section 28.2 | Genomes and Stem Cells
+- **Human Genome Project**: identifying and **mapping human genes** and their sequence {2001}
+- Cells that become any cell type: **stem cells** {2006}
+- Non-controversial stem cells: **bone marrow** stem cells {2008}
+- **Plant Field Gene Bank, Banthara** (Lucknow): looks after **all the above** {2001, 2003}
+
+@section 28.3 | Transgenic Crops
+- Bt cotton: gene from a **bacterium** {2010}
+- **Terminator technology**: seeds that give **sterile** next-generation seed {1999, ?}
+- **Orobanche** weed: **tobacco** fields {2014}
+- Transgenic plant: **golden rice** {2012}
+- Golden rice helps consumers and farmers; its yellow comes from **beta-carotene** (A and R true, R explains A) {2000, ?, ?}
+- **Super rice**: **G.S. Khush** {2007}
+
+@flow How a transgenic crop is made
+Pick a gene | e.g. Bt toxin gene from Bacillus thuringiensis
+Vector | Plasmid (Agrobacterium) carries the gene
+Insert | Gene enters plant cells
+Grow | Transgenic plant with new trait
+Examples | Bt cotton (2002, India), golden rice, Bt brinjal (Bangladesh)
+@end
+
+@section 28.4 | Diagnosis and DNA Fingerprinting
+- **Amniocentesis**: used to find **foetal sex** (now banned for that in India) {2011}
+- **Genico** technology: advance **information on genetic diseases** {1999}
+- DNA samples for crime: **blood, bone, hair, saliva** (all) {2008}
+- **Biochip**: **RNA, DNA and protein** {2008}
+- Paternity: **DNA fingerprinting** {2002, 2010}
+- First crime solved by DNA (England): **1983** per key (the Pitchfork case, solved 1987-88) {2006}
+- DNA fingerprinting used in **all** the areas {2004}
+- Fingerprints on multi-coloured surfaces: **fluorescent powder** {2013}
+
+@section 28.5 | Transgenics and Gene Therapy
+- Not achieved by transgenics: **cloned animals** {2000}
+- Gene therapy: several ways work (*) {2004}
+
+@trap
+- Dolly = **sheep**; Injaz = camel; Garima = buffalo.
+- Golden rice = **vitamin A** (beta-carotene), not iron.
+- Bt gene comes from a **bacterium**, not a virus or fungus.
+- Cloning is not a transgenic technique.
+@end
+
+@up UP link: NBRI's **Plant Field Gene Bank** at **Banthara** (Lucknow) conserves plant genetic resources; the **National Bureau of Fish Genetic Resources** is also in **Lucknow**, and **IVRI Izatnagar** (Bareilly) works on animal biotechnology.
+
+@last
+- Dolly = first cloned mammal (sheep, 1996)
+- Garima II = buffalo; Injaz = camel; glowing pigs = Taiwan
+- Plasmid = vector; phages infect bacteria
+- Human Genome Project = gene mapping
+- Bone marrow = non-controversial stem cells
+- Bt cotton = bacterial gene
+- Terminator = sterile next-generation seed
+- Golden rice = beta-carotene; super rice = G.S. Khush
+- DNA fingerprinting = paternity, crime
+- Banthara = Plant Field Gene Bank (Lucknow)
+@end

@@ -1,0 +1,81 @@
+@chapter 14 | Fundamental Duties
+@meta Built from 18 UPPSC questions (1993–2022). Focus: Swaran Singh Committee, 42nd Amendment, Part IV-A/Art 51A, 11 duties, spot-the-non-duty.
+
+@hot
+- **Swaran Singh Committee** recommended; **42nd Amendment** (1976) added 10 duties {1993, 2002, 2008, 2012}
+- **Part IV-A, Article 51A** {2006, 2010, 2011, 2012, 2015}
+- **11** duties now (11th by the 86th Amendment, 2002) {2014, 2014}
+- **Not** duties: voting, paying taxes, respecting parents, abolishing untouchability, protecting monuments, organising panchayats {2007, 2008, 2014, 2015, 2019, 2021, 2022}
+@end
+
+@section 14.1 | Origin
+- Recommended by the **Swaran Singh Committee** {2008, 2012}
+- Added as **Art 51A** by the 42nd Amendment {2015}
+- In **Part IV-A** {2006, 2010, 2011, 2012}
+- Ten duties added by the **42nd** {1993, 2002}
+- **Part V-Fundamental Duties** is wrong {2009}
+- Incorrect: Duties are part of FRs {2009}
+
+@section 14.2 | Eleven Duties
+- Number: **eleven** {2014, 2014}
+
+@flow Duties timeline
+Swaran Singh Committee | 1976; suggested 8 duties
+42nd Amendment | 1976; 10 duties, Part IV-A
+86th Amendment | 2002; 11th duty: parents educate children 6-14
+Verma Committee | 1999; ways to make duties work
+@end
+
+@section 14.3 | Nature
+- Not true: duties **can be enforced by mandamus** {2000, 2003}
+
+@section 14.4 | Spot the Non-Duty
+- Not a duty: **voting** {2021}
+- Not a duty: **abolition of untouchability** (Art 17) {2008}
+- Not a duty: **organising village panchayats** (Art 40) {2015}
+- Duties: **defend the country, composite culture, public property**; not paying income tax {2019}
+- Not in Part IV-A: **respect parents and teachers** {2014}
+
+@section 14.5 | Monuments vs Culture
+- Not a duty: **protect monuments** (that is Art 49, DPSP) {2007, 2022}
+
+@section 14.6 | Environment
+- Protecting **wildlife** is a duty {2008}
+- "Duty of every citizen to protect the environment": **Art 51A** {1998}
+
+@section 14.7 | Cross-Part Matching
+- **Respect international law-Art 51(c), compassion for living creatures-51A(g), scientific temper-51A(h), separate judiciary-Art 50** {2019}
+
+@table
+51A clause | Duty
+(a) | Abide by Constitution; respect Flag and Anthem
+(b), (c), (d) | Freedom struggle ideals; sovereignty; defend country
+(e) | Brotherhood; renounce practices against women
+(f) | Composite culture heritage
+(g) | Environment, compassion for living creatures
+(h) | Scientific temper, inquiry, reform
+(i) | Public property; abjure violence
+(j) | Strive for excellence
+(k) | Parents educate children 6-14 (86th)
+@end
+
+@trap
+- "Duty of every citizen" = **51A(g)**; "State shall endeavour" = **48A**.
+- **Composite culture** = duty (51A(f)); **monuments** = DPSP (Art 49).
+- Duties are **non-justiciable**; no writ.
+@end
+
+@up No UP-specific question. UP schools observe **Samvidhan Divas** (26 Nov) with duty pledges, a likely current-affairs link.
+
+@last
+- **Swaran Singh** Committee, 1976
+- **42nd** Amendment: 10 duties
+- **Part IV-A, Art 51A**; from **USSR**
+- **11** duties; 11th by **86th** (2002)
+- Not enforceable by writ
+- Not duties: vote, tax, respect parents
+- Not duties: untouchability (17), panchayats (40), monuments (49)
+- Environment and wildlife = **51A(g)**
+- Scientific temper = **51A(h)**
+- Parents educate = **51A(k)**
+@end

@@ -1,0 +1,88 @@
+@chapter 3 | Coastal Regions and Islands
+@meta Built from 21 UPPSC questions (2001–2016). Focus: longest coastline, named coasts, island channels, Barren and Lakshadweep.
+
+@hot
+- **Gujarat** has the **longest coastline** {2006, 2007, 2016, 2018}
+- **Ten Degree Channel** separates the **Andaman** group from the **Nicobar** group {2005, ?}
+- **Barren Island** (Andaman Sea, Bay of Bengal) is India's only **active volcano** {2010, ?}
+@end
+
+@section 3.1 | Sea Level and Maritime Zones
+- India's **mean sea level** is measured at **Chennai** {2013}
+- **Territorial waters**: **12 nautical miles** from the coast {2005}
+- Longest coastline: **Gujarat** (about 2,340 km) {2006, 2007, 2016, 2018}
+- Coastal states: **9** (plus 4 coastal UTs) {?}
+
+@flow Maritime zones, from the coast outward
+Territorial sea | 12 nautical miles; full sovereignty
+Contiguous zone | 24 nm; customs, immigration
+Exclusive Economic Zone | 200 nm; fishing, mining, drilling
+Continental shelf | To the margin edge (up to 350 nm)
+@end
+
+@trap
+- Coastline length changed: old figure **7,516.6 km**, new count **11,098.81 km**. Read the options. **Goa** has the shortest state coastline.
+@end
+
+@section 3.2 | Named Coasts and Coastal Towns
+- **Coromandel** coast: **Krishna delta to Cape Comorin** {2015}
+- Northern part of the western coastal plain: **Konkan** {2016}
+- West-coast towns north to south: **Janjira, Sindhudurg, Kannur, Nagercoil** {2001}
+- West-coast towns among the options: **Janjira, Udupi** (Auroville and Tuticorin are on the east coast) {2002}
+- Beaches: **Digha-WB, Gopalpur-Odisha, Calangute-Goa, Marina-Tamil Nadu** {2008}
+
+@flow West coast, north to south
+Kathiawar coast | Gujarat: gulfs of Kutch, Khambhat
+Konkan | Daman to Goa; Mumbai
+Kannada coast | Goa to Mangaluru
+Malabar | Mangaluru to Kanyakumari; backwaters (kayals)
+@end
+
+@flow East coast, north to south
+Utkal coast | Odisha; Chilika lake
+Northern Circars | Mahanadi to Krishna
+Coromandel | Krishna delta to Kanyakumari; Pulicat
+@end
+
+@section 3.3 | Andaman and Nicobar Islands
+- Highest peak: **Saddle Peak** (North Andaman) {2009}
+- **Ten Degree Channel**: **Andaman** from **Nicobar** {2005, ?}
+- **Barren Island** is in the **Bay of Bengal** (Andaman Sea); India's **volcanic** island {2010, ?}
+
+@table
+Channel | Separates
+Ten Degree | Andaman group from Nicobar group
+Duncan Passage | South Andaman from Little Andaman
+Coco Channel | North Andaman from Coco Is. (Myanmar)
+Nine Degree | Minicoy from main Lakshadweep
+Eight Degree | Minicoy from the Maldives
+Palk Strait | Tamil Nadu from Sri Lanka
+@end
+
+@section 3.4 | Lakshadweep and Other Islands
+- **Lakshadweep** is a **coral** island group {2013}
+- **Minicoy** is one of the remotest islands from the Indian coast {2013}
+- **Rameswaram** lies between India and Sri Lanka {2006}
+- **Adam's Bridge** begins at **Dhanushkodi** {2010}
+- Most populous island: **Salsette** (Mumbai) {2016}
+- Match: **Viyant Syodhar-Gulf of Kutch, Piram-Gulf of Khambhat, Dwarka-Arabian Sea coast, Diu-Kathiawar coast** {2010}
+- **Kori Creek** is in the **Rann of Kutch** {2008, 2011}
+
+@trap
+- **Ten Degree** = Andaman-Nicobar. **Nine and Eight Degree** belong to the Lakshadweep side. Barren is **active**; Narcondam is **dormant**.
+@end
+
+@up UP is landlocked, but UPPSC asks island and coast facts as standard map knowledge. Remember **Salsette** (Mumbai), **Majuli** (largest river island) and **Sriharikota** (ISRO launch site).
+
+@last
+- **Gujarat**: longest coastline; **Goa**: shortest
+- Mean sea level measured at **Chennai**
+- Territorial sea **12 nm**; EEZ **200 nm**
+- **Konkan** = north of the west coast; **Coromandel** = Krishna to Kanyakumari
+- Janjira, Sindhudurg, Kannur, Nagercoil (north to south)
+- **Saddle Peak** = highest in Andaman and Nicobar
+- **Ten Degree Channel** = Andaman | Nicobar
+- **Barren** = active volcano; **Lakshadweep** = coral
+- **Salsette** = most populous island; **Minicoy** = remotest
+- Adam's Bridge from **Dhanushkodi**; **Kori Creek** in Kutch
+@end

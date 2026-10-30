@@ -1,0 +1,609 @@
+@chapter 12 | Defence Technology
+
+@intro
+Defence questions are about **India's missiles** (Prithvi, Agni, Akash, Trishul, Nag, BrahMos, Astra, Nirbhay, Shaurya, Rudram), **aircraft and drones** (Tejas, Hansa, Netra, FWD-200B), **ships and submarines** (Arihant, Vikramaditya, Scorpene class, Coast Guard vessels), **foreign partners** (Israel's Phalcon, Barak-8 and Iron Dome; Russia's BrahMos) and **joint exercises**. Recent papers ask about tests and exercises from the past year. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 12.1 | The Integrated Guided Missile Programme
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Match List-I with List-II and select the correct answer using the codes given below.
+@match
+List-I | List- II
+A. Prithvi | 1. Multi-barrel rocket launcher
+B. Trishul | 2. A remote operated battlefield inspection vehicle
+C. Pinaka | 3. Surface-to-surface missile
+D. Nishant | 4. Surface to Air Missile
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 3 4 1 2
+(c) 3 4 2 1
+(d) 2 3 4 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012; U.P. U.D.A./L.D.A. (Pre) 2013
+Which one of the following is correctly matched?
+(a) Trishul – Surface to surface missile
+(b) Prithvi – Surface to air missile
+(c) NAG – Anti-tank missile
+(d) Pinaka – Light combat aircraft
+@ans (c)
+@end
+
+@one
+Which Indian defence missile is a surface-to-surface missile?
+@ans Prithvi
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2001; U.P.U.D.A./L.D.A. (Pre) 2007
+Match List I with List II and select the correct answer using the code given below the lists :
+@match
+List I | List II
+A. Trishul | 1. Anti tank missile
+B. Prithvi | 2. Intermediate range ballistic system
+C. Agni | 3. Short range surface to air missile
+D. NAG | 4. Surface to surface missile
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 2 1
+(d) 2 1 4 3
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+India’s short-range missile is –
+(a) Agni
+(b) Arjun
+(c) Nag
+(d) Prithvi
+@ans (c)
+@end
+
+
+@table
+Missile | Type | Note
+**Prithvi** | Surface-to-surface, short range (150-350 km) | First IGMDP missile (1988); **Dhanush** is its naval version (350 km)
+**Agni** series | Surface-to-surface **ballistic**: Agni-I 700-900 km, II 2,000+ km, III 3,000+ km, IV 4,000 km, **V over 5,000 km** (ICBM class), **Agni-Prime** 1,000-2,000 km | Agni-V tested with **MIRV** (several warheads) in **Mission Divyastra**, March 2024
+**Akash** | Surface-to-air, medium range (25-45 km) | Exported to Armenia
+**Trishul** | Surface-to-air, short range | Programme closed (2008)
+**Nag** | **Anti-tank**, fire-and-forget | Helina / Dhruvastra helicopter versions
+**Astra** | **Air-to-air**, beyond visual range | First flight test May 2003; on Su-30MKI and Tejas
+**BrahMos** | **Supersonic cruise** (Mach 2.8-3) | **India-Russia** joint venture (Brahmaputra + Moskva)
+**Nirbhay** | **Subsonic** long-range cruise (1,000 km) | Land-attack
+**Shaurya** | Hypersonic surface-to-surface (about 700-750 km) | Canister-launched, land version of K-15
+**Rudram** | **Air-to-surface anti-radiation** (destroys enemy radars) | Rudram-II tested from a Su-30MKI in May 2024
+**Pralay** | Quasi-ballistic surface-to-surface (150-500 km) | Conventional warhead
+**K-4 / K-15 (Sagarika)** | Submarine-launched ballistic missiles | For the Arihant class
+@end
+
+The **IGMDP** began in **1983** under **A.P.J. Abdul Kalam** ("Missile Man") with five missiles: Prithvi, Agni, Akash, Trishul and Nag. Tests are held from the **Integrated Test Range at Chandipur** and **Abdul Kalam Island** (formerly Wheeler Island), Odisha.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following statements is not correct about Astra missile ?
+(a) It is an air-to-air ballistic missile.
+(b) It has been indigenously built by The DRDO
+(c) It was successfully test-fired on 20 May, 2011 from Chandipur
+(d) It has the capacity to destroy the enemy plane up to a distance of 90 km.
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The name of successfully tested air-to-air missile in Balasore, in May 2003 is :
+(a) Astra
+(b) Akash
+(c) Tejas
+(d) Vajra
+@ans (a)
+@end
+
+
+@one
+Missile 'Astra' is
+@ans an air-to-air missile
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+The effective range of Agni-I missile test-fired in July 2004, is –
+(a) Above 700 km but less than 2000 km
+(b) 300 km
+(c) 400 km
+(d) 2500 km
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+An indigenously manufactured missile with a range of 700 km was successfully tested by India in March, 2010. How is it known ?
+(a) Prithvi - I
+(b) Prithvi - II
+(c) Agni - I
+(d) Agni - II
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+What is the range of ‘Dhanush’ missile tested successfully by India in March, 2010 ?
+(a) 250 km
+(b) 300 km
+(c) 350 km
+(d) 400 km
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006, 2011
+The ICBM developed by India, with a strike range of more than 2000 km, is given the name :
+(a) Prithvi
+(b) Trishul
+(c) Akash
+(d) Agni-II
+@ans (d)
+@note Agni-II (2,000-3,500 km) is really an **intermediate-range** ballistic missile, not an ICBM (above 5,500 km); among the options it is the only long-range missile, which is the point of the question.
+@end
+
+
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002
+Consider the following statements in context to Agni (II) missile which was launched in space on January 25, 2002.
+1. It is a surface-to-surface missile with a range of 700 km.
+2. It was launched at 8:45 am in space from Wheeler's Island, Orissa.
+3. It is a two-stage missile whose first phase has a liquid propellant rocket motor and in second, has a solid propellant rocket motor.
+(a) Only 1
+(b) 1 and 2
+(c) 2 and 3
+(d) 1 and 3
+@ans (*)
+@note The missile fired on **25 January 2002** was the new short-range **Agni-I** (about 700 km, single-stage **solid** fuel), not Agni-II, and Agni-II's two stages are both solid. The mixed-up statements leave no clean answer, so the source marks it (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Agni-II missile was launched from :
+(a) Sriharikota
+(b) Chandipur
+(c) Thumba
+(d) Pokharan
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following facts about Agni-5 missile is not correct ?
+(a) It can be fired from any place.
+(b) It has a firing range of up to 5000 km.
+(c) It cannot be captured by Radar of enemies.
+(d) It is not exclusively indigenous.
+@ans (d)
+@end
+
+
+@pyq U.P.P.S.C. (GIC) 2017
+Which of the following statements are true about 'Nirbhay' Missile, which was successfully flight-tested on 7th November, 2017?
+1. It can deliver nuclear warheads to a strike range of 1000 km.
+2. It is a land-attack cruise missile.
+3. It is an effective counter to Pakistan's 'Babur' missile.
+4. It is a supersonic missile.
+Select the correct answer from the codes given below :
+(a) Only 1 and 2
+(b) Only 1, 2 and 3
+(c) Only 2, 3 and 4
+(d) All 1, 2, 3 and 4
+@ans (b)
+@end
+
+
+@pyq U.P. P.C.S. (Pre)1995; U.P. U.D.A. /L.D.A. (Pre) 2006
+Name the missile tested by Indian scientists and defence personnel on 27.1.96 at Chandipur :
+(a) Prithvi- I
+(b) Prithvi-II
+(c) Akash
+(d) PSLVD-2
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+Which one of the following statement is not correct about ‘Shaurya’ ?
+(a) It is a Hypersonic Missile
+(b) It is a Surface to Surface Missile
+(c) It has a Striking Range of 900 km
+(d) It was Successfully Test Fired on 24 September 2011
+@ans (c)
+@end
+
+@one
+‘Shaurya’, which was successfully tested by the Defence Research and Development Organisation on 12 November 2008, is a
+@ans surface-to-surface missile
+@end
+
+
+@section 12.2 | BrahMos
+
+@pyq U.P.P.C.S. (Pre) 2003, 2018; U.P.P.C.S. (Mains) 2004
+Missile 'BrahMos' was developed jointly by :
+(a) India and U.S.A.
+(b) India and Russia
+(c) India and Israel
+(d) India and Great Britain
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+On 18th October 2020, India successfully test fired which of the following missiles?
+(a) BrahMos Supersonic Cruise missile, Airforce version
+(b) BrahMos Supersonic Cruise missile, Naval version
+(c) BrahMos Subsonic missile suitable for all three forces
+(d) BrahMos Supersonic Cruise missile, Army version
+@ans (b)
+@end
+
+
+
+@one
+With which country has India jointly developed technology like the modern BrahMos supersonic missile?
+@ans Russia
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008; U.P.P.C.S. (Mains) 2009
+Which one of the following statements about BrahMos is not correct ?
+(a) It is a supersonic cruise missile.
+(b) It has been built in India in collaboration with Russia.
+(c) It was successfully test fired from Bay of Bengal on 22 March, 2010.
+(d) Its flight range is 400 km.
+@ans (c) & (d)
+@note The source gives **(c) & (d)**. The basic BrahMos range was **290 km** (the old Missile Technology Control Regime limit); extended versions now reach 450-500 km and more.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+In March, 2009 the `BrahMos Missile' was tested at
+(a) Pokharan
+(b) Chandipur
+(c) Cape Canaveral
+(d) Shri Harikota
+@ans (a)
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): In April 2024, India delivered the BrahMos Supersonic Cruise Missile to Philippines.
+Reason (R): The Missile has a range of 490 kilometres.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (d)
+@end
+
+The **Philippines** became BrahMos's first export customer (a USD 375 million deal, 2022; first batteries delivered **19 April 2024**); the export version has a range of about **290 km**. BrahMos was used in **Operation Sindoor** (May 2025), India's strikes on terror bases in Pakistan and Pakistan-occupied Kashmir after the Pahalgam attack.
+
+@up UP link: A **BrahMos integration and testing facility** at **Lucknow** (opened 2025) is part of the **UP Defence Industrial Corridor**, which has six nodes: **Agra, Aligarh, Chitrakoot, Jhansi, Kanpur and Lucknow**. **AK-203** rifles are made at **Korwa, Amethi** with Russia, and **HAL Kanpur** builds the Dornier-228.
+
+@section 12.3 | Air Defence and Foreign Partners
+
+@pyq U.P.P.C.S. (Pre) 2025
+Iron dome missile defence system belongs to which of the following countries?
+1. France
+2. United States of America
+3. Israel
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to RudraM-II Missile, which of the following statements is/are correct?
+1. It is an air-to-air missile.
+2. It was tested in Rajasthan in May 2024.
+Select the correct answer using the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+From which country of the world will India obtain 'Phalcon Radar' system?
+(a) United States of America
+(b) Israel
+(c) France
+(d) Russia
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2016
+Barak-8 Missile (next generation) has been developed by India in collaboration with which of the following countries?
+(a) Russia
+(b) U.S.A.
+(c) Israel
+(d) France
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+With the co-operation of which one of the following countries, a pilotless helicopter is being developed for Indian Navy ?
+(a) China
+(b) France
+(c) Israel
+(d) U.S.A.
+@ans (c)
+@end
+
+
+@table
+System | Origin | Role
+**Iron Dome** | **Israel** (Rafael) | Intercepts short-range rockets and shells
+**Phalcon** AWACS | **Israel**, on Russian Il-76 aircraft | Airborne early warning and control
+**Barak-8** (MR-SAM / LR-SAM) | **India-Israel** (DRDO + IAI) | Surface-to-air for ships and land
+**S-400 Triumf** ("Sudarshan Chakra") | Russia | Long-range air defence; used in May 2025
+**Heron**, Searcher | Israel | Drones
+**Rafale** | France | Fighter jet (36 for the IAF, more ordered for the Navy)
+@end
+
+@section 12.4 | Aircraft and Drones
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is named ‘Hansa-2’?
+(a) A Satellite
+(b) A Trainer Aircraft
+(c) A Submarine
+(d) Surface to Surface Missile
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+Tejas, developed with indigenous technologies is –
+(a) A submarine
+(b) A medium-range missile
+(c) A light-combat aircraft
+(d) An aircraft carrier
+@ans (c)
+@end
+
+@one
+Which of the following is India’s indigenously built light combat aircraft?
+@ans Tejas
+@end
+
+
+@pyq U.P.Lower Sub. (Pre) 2003, 2004
+'INDRA' is –
+(a) Missile
+(b) Unmanned aircraft
+(c) Radar
+(d) Tank
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to “FWD 200B”, which of the following statements is/are correct?
+1. This is India's first indigenous bomber "UAV" aircraft.
+2. Its payload capacity is 100 kgs.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following statements is true about Technology device called 'NETRA' ?
+(a) It is a device which permits a blind man to read.
+(b) It is a device which allows the army to undertake a right reconnaissance.
+(c) It is an unmanned aerial vehicle which can travel up to 300 metres high.
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2002
+Which of the following statements is not true with regard to the F-18 Super Hornet?
+(a) It is a fighter plane, which is built by U.S. aerospace company.
+(b) It can be used during both night and day.
+(c) Worldwide eight countries are using it in Air Force.
+(d) It is built by HAL with the help of Boeing company.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following is not an aircraft ?
+(a) Jaguar
+(b) Dornier-228
+(c) Sarath (BMP-II)
+(d) MIG-27M
+@ans (c)
+@end
+
+
+@table
+Aircraft / drone | Note
+**Tejas** | **Light Combat Aircraft** built by HAL; named by PM Vajpayee (2003); Mk1A variant on order
+**Hansa** | Two-seat **trainer** aircraft (NAL)
+**Saras** | Light transport aircraft (NAL)
+**Dhruv** | Advanced Light Helicopter (HAL); **Prachand** light combat helicopter
+**Nishant**, **Rustom**, **TAPAS** | DRDO drones (UAVs)
+**Netra** | Small quadcopter UAV for surveillance (DRDO + ideaForge); also the name of the AEW&C aircraft
+**FWD-200B** | Bengaluru start-up Flying Wedge Defence's bomber UAV (2024), 100 kg payload
+**INDRA** | DRDO's 2D surveillance **radar** series
+**Jaguar, MiG-27, Dornier-228** | Aircraft; **Sarath** is the Indian name of the **BMP-II** infantry vehicle
+@end
+
+@section 12.5 | Ships and Submarines
+
+@pyq U.P.P.C.S (Pre) 2010
+Match List-I with List-II and select the correct answer using the code given below the list :
+@match
+List-I | List-II
+A. Arihant | 1. American Cryogenic Rocket
+B. Awacs | 2. Anti-tank missile
+C. Atlas Centaur | 3. Israel developed Falcon for Air Force
+D. Nag | 4. Atomic submarine
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 4 3 1 2
+(c) 3 4 1 2
+(d) 3 4 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+Admiral Gorshkov :
+(a) Russian Navy Chief
+(b) Naval aircraft carrier ship
+(c) Air Force headquarter
+(d) Naval Organization
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following Scorpene Submarines was commissioned into Indian Navy in January, 2023?
+(a) INS Karanj
+(b) INS Vela
+(c) INS Vagir
+(d) INS Kalvari
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+'Sarthak' launched in August 2020 by Ministry of Defence, Government of India relates to which of the following?
+(a) Smart Bomb
+(b) Rocket Launcher
+(c) Offshore Patrol Vessel
+(d) Light Combat Aircraft
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+On March, 2010 an offshore patrol vessel has been included into the Coast Guard group. It's name is
+(a) Eagle
+(b) Vishwast
+(c) Jatayu
+(d) Ashwast
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+INS-Shakti is India's first indigenously built
+(a) Warship
+(b) Submarine
+(c) Destroyer
+(d) Rocket launcher
+@ans (*)
+@note **INS Shakti** (commissioned 2011) is a **fleet tanker** that refuels ships at sea, built by **Fincantieri in Italy**, so it is neither indigenous nor any of the listed types; the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following statements is incorrect ?
+(a) INFACT-82 is Indian Naval Fast Attack Craft.
+(b) A virus cannot reduce environmental pollution.
+(c) Typha is a computer virus.
+(d) BrahMos is a supersonic cruise missile.
+@ans (b)
+@end
+
+
+@table
+Vessel | Note
+**INS Arihant** (2016) | First indigenous **nuclear-powered ballistic missile submarine** (SSBN); **INS Arighaat** (2024) is the second
+**INS Vikramaditya** | Former Soviet **Admiral Gorshkov**, refitted aircraft carrier (2013)
+**INS Vikrant** | First **indigenous aircraft carrier**, built at Cochin Shipyard (2 September 2022)
+**Kalvari class** (Scorpene) | Six French-designed submarines built at **Mazagon Dock**: Kalvari, Khanderi, Karanj, Vela, **Vagir** (January 2023), **Vagsheer** (January 2025)
+Coast Guard OPVs | Vishwast (2010), **Sarthak** (2020) and others
+@end
+
+@section 12.6 | Exercises and Operations
+
+@pyq U.P.P.C.S. (Mains) 2011
+What is SLINEX II ?
+(a) An atomic submarine
+(b) Joint Naval Exercise Conducted by India and Sri Lanka
+(c) A battleship indigenously built in India
+(d) A most Modern Army Tank
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+‘Operation Pawan’ is connected with –
+(a) Establishing peace in Punjab
+(b) Creating more air services in India
+(c) Cleansing environmental pollutions in Indian cities
+(d) Operation of IPKF in Jaffna of Sri Lanka
+@ans (d)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2025
+Joint special forces exercise 'KHANJAR - XII' was held in March 2025 between India and which of the following Countries ?
+1. Russia
+2. Turkmenistan
+3. Kyrgyzstan
+4. Mongolia
+Select the correct answer from the code given below :
+Code :
+(a) 2 and 3
+(b) 3 and 4
+(c) Only 3
+(d) Only 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Joint Exercise) | List-II (Dates)
+A. India-Uzbekistan Joint Military Exercise, "DUSTLIK" | 1. February 19-27, 2024
+B. India-France Joint Military Exercise, "SHAKTI" | 2. May 13-26, 2024
+C. Harbour phase of Indo-US Joint Exercise, Tiger Triumph, 2024 | 3. April 15-28, 2024
+D. MILAN, 2024 | 4. March 18-25, 2024
+@endmatch
+Codes: A B C D
+(a) 3 4 1 2
+(b) 3 2 4 1
+(c) 4 2 1 3
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@table
+Exercise | Partner
+**SLINEX** | Sri Lanka (navy)
+**Khanjar** | **Kyrgyzstan** (special forces)
+**Dustlik** | Uzbekistan
+**Shakti** | France (army); **Varuna** with France (navy)
+**Yudh Abhyas** | USA (army); **Tiger Triumph** with USA (tri-service); **Malabar** (USA, Japan, Australia)
+**Nomadic Elephant** | Mongolia
+**Mitra Shakti** | Sri Lanka (army)
+**Sampriti** | Bangladesh
+**Surya Kiran** | Nepal
+**Indra** | Russia
+**MILAN** | Multilateral naval exercise hosted by India (Visakhapatnam)
+@end
+
+**Operation Pawan** (1987) was the IPKF operation against the LTTE in **Jaffna**, Sri Lanka. Other named operations: **Vijay** (Goa 1961; Kargil 1999), **Meghdoot** (Siachen, 1984), **Blue Star** (1984), **Shakti** (Pokhran-II, 1998), **Ganga** (evacuation from Ukraine, 2022), **Kaveri** (Sudan, 2023), **Ajay** (Israel, 2023) and **Sindoor** (May 2025).
+
+@trap
+**Prithvi = surface-to-surface, Trishul and Akash = surface-to-air, Nag = anti-tank, Astra = air-to-air, Rudram = air-to-surface.** **BrahMos = India + Russia**, supersonic; **Nirbhay is subsonic**. **Iron Dome, Phalcon and Barak = Israel.** **Tejas** is a fighter, **Hansa** a trainer. **INS Vikramaditya = ex-Admiral Gorshkov.** **Khanjar = Kyrgyzstan.** Agni-II is **not** an ICBM.
+@end
+
+@heatmap
+
+@pattern
+Defence questions have two layers: a **permanent** layer of missile types and partners (Prithvi, Agni, Nag, BrahMos, Israel's systems) asked since the 1990s, and a **current** layer of tests, deliveries and exercises from the year before the exam (2023-2025: Vagir, Rudram-II, FWD-200B, BrahMos to the Philippines, Khanjar-XII, Iron Dome).
+@end
+
+@next
+Likely next angles: **Operation Sindoor** and the systems used (S-400, Akash, BrahMos, loitering munitions), **Agni-V MIRV**, the **long-range hypersonic missile** (November 2024), **INS Arighaat**, the **Tejas Mk1A** and **AMCA** stealth fighter, **Project Kusha** air defence, **Sudarshan Chakra Mission**, the **Defence Industrial Corridors** of UP and Tamil Nadu, and defence exports.
+@end

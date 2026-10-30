@@ -1,0 +1,168 @@
+@chapter 20 | International Organisations and Global Rankings
+@meta Built from 73 UPPSC questions (1996–2025). Focus: who publishes which report, IMF and World Bank, WTO boxes and TRIPS, WEF and ILO, and membership of regional groups.
+
+@hot
+- **Report-publisher matching**: WEO and GFSR = **IMF**; WDR = **World Bank**; HDR = **UNDP**; WIR = **UNCTAD**; Emissions Gap = **UNEP**; TTCI = **WEF**; Wage and Social Protection = **ILO** {2004, 2016, 2020, 2023, 2024, 2025, 2025}
+- **WTO**: **1995**, Geneva, from **GATT** (Uruguay Round, **Arthur Dunkel**); Doha = **Qatar** {1996, 2002, 2006, 2008, 2008, 2010, 2017, 2017}
+- **IMF**: India a member from **1945**; lends for **temporary BoP deficits**; **SDR** = "paper gold" {2002, 2004, 2004, 2015, 2016}
+- **Membership traps**: not in SAARC **Cambodia**; not in BIMSTEC **Indonesia**; not in GCC **Iran, Iraq**; not in ASEAN **India**; not in OPEC **China** {1999, 2003, 2010, 2013, 2025, 2025}
+- **SCO**: India full member at **Astana, 2017**; BRICS bank = **New Development Bank** (first head **K.V. Kamath**) {2015, 2017, 2017}
+@end
+
+@section 20.1 | G-20 and Global Reports
+- India's G-20 logo: **lotus with 7 petals** for **7 continents** (both) {2023}
+- G-20 2023 wrong pair: **Brazil-Joko Widodo** (Widodo led Indonesia; Brazil = Lula) {2023}
+- First World Summit for Social Development: **Copenhagen** (1995) {2017}
+- **HDR-UNDP, WEO-IMF, WIR-UNCTAD, Emissions Gap-UNEP** {2024}
+- **Global Financial Stability Report**: **IMF** only {2025}
+- **World Development Report**: **IBRD** (World Bank) {2004}
+- Highest per capita income (WDR 2000): **Luxembourg** {2001, 2003}
+- Ease of Doing Business 2017: India **100th** {2017}
+- EoDB: **77th** (2019), **63rd** (2020) (both); the report was dropped in 2021 {2020}
+
+@table
+Report | Publisher
+World Economic Outlook, Global Financial Stability | IMF
+World Development Report, Global Economic Prospects | World Bank
+Human Development Report, Gender Social Norms Index | UNDP
+World Investment Report | UNCTAD
+Emissions Gap Report | UNEP
+Gender Gap, Travel and Tourism, Global Talent | World Economic Forum
+Global Wage, World Social Protection | ILO
+@end
+
+@section 20.2 | The World's Largest Economies
+- Second largest economy: **China** now (Japan in 2005) {2005}
+- PPP top four then: USA, China, Japan, India (*); India is **third** by PPP now {2005, 2009}
+- 2019: GDP Rs 209 lakh crore, **5th largest**, passed **UK and France** (1, 2, 3) {2016}
+- WDR 2008 order: **USA > China > UK > India** {2008, 2009}
+- **US$ 5 trillion** economy target: **2024** (2024-25) {2019, 2020}
+- Third largest economy then: **Germany** (Japan earlier) {2007}
+
+@table
+Rank (nominal GDP, IMF 2025) | Country
+1 | USA
+2 | China
+3 | Germany
+4 | Japan
+5 | India (about US$ 4.1 trillion)
+By PPP | China, USA, India
+@end
+
+@section 20.3 | IMF and World Bank
+- Loans and grants for state infrastructure: **World Bank** {2002}
+- ICAR's National Agricultural Innovation Project (World Bank): **four** components {2009}
+- **Green Index**: **World Bank** {2014}
+- Not correct: heads from **Italy and Germany** (custom: IMF head European, World Bank head American); both are Bretton Woods bodies (only 2) {2025}
+- World Bank HQ: **Washington** {2007}
+- IMF loans: for **temporary BoP deficits** {2016}
+- India joined the IMF: **1945** (founder member) {2004, 2015}
+- **Paper gold** = **SDRs** of the IMF {2002, 2004}
+
+@section 20.4 | WTO, GATT and TRIPS
+- Guard of world trade: **WTO** {2017}
+- WTO: set up by the members of **GATT** {2008}
+- WTO set up: **1995** {1996}
+- **Doha** Ministerial (2001): **Qatar** {2002}
+- Pascal Lamy was followed by **Roberto Azevedo** {2014}
+- Not a WTO member: **Serbia** {2016}
+- Not an Agreement on Agriculture pillar: **anti-dumping duties** {2010}
+- MSP-market price gap paid directly: **blue box** (per key) {2016}
+- Farm subsidy statements: **1 and 4** correct per key; WTO does not ban indirect subsidies {2022}
+- Subsidy cuts are needed under WTO; India is developing (A false, R true) {1998}
+- **GATT** = General Agreement on Tariffs and Trade; **Arthur Dunkel** = GATT; **Uruguay Round** = GATT {2008, 2010, 2017}
+- **TRIPS** covers **trademarks, industrial designs, GIs**; not labour standards {2001}
+- Not in TRIPS protection: **plant breeding** (left to sui generis law) {2010}
+- National IPR Policy: backs Doha and TRIPS; nodal body **DIPP** (both) {2024}
+
+@flow From GATT to WTO
+GATT 1947 | General Agreement on Tariffs and Trade
+Uruguay Round 1986-94 | Arthur Dunkel draft; added services, TRIPS, farm trade
+WTO 1 January 1995 | Geneva; now 166 members
+Doha 2001 | Doha Development Agenda (Qatar)
+@end
+
+@table
+WTO box | Meaning
+Amber box | Trade-distorting support (MSP, input subsidies); capped at 10% for developing nations
+Blue box | Payments tied to production limits
+Green box | Non-distorting support (research, income support)
+@end
+
+@section 20.5 | WEF, ILO and ADB
+- WEF founder: **Klaus Schwab** {2008}
+- Global Talent Index 2020 wrong pair: **USA-4** (USA was 3rd) {2019}
+- Not a Gender Gap parameter: **leisure** {2017}
+- First **Gender Social Norms Index**: **UNDP** {2016}
+- **Travel and Tourism Competitiveness Index**: **WEF** {2020}
+- ADB's India Resident Mission: **New Delhi** {2010}
+- 100th ILO conference (2011): **domestic workers** {2010}
+- **World Social Protection Report**: **ILO** {2023}
+- **Global Wage Report 2024-25**: **ILO** only {2025}
+- **WTO-no quantitative curbs, IMF-BoP finance, SAARC-South Asian cooperation, IDA-soft loans** {2015}
+- Correct HQ: **WTO-Geneva** {2006}
+
+@table
+Body | HQ / fact
+World Economic Forum | 1971, Klaus Schwab; Geneva (Davos meet)
+ILO | 1919, Geneva
+ADB | 1966, Manila; India mission in New Delhi
+IMF, World Bank | Washington, D.C.
+WTO | Geneva
+FAO | Rome
+@end
+
+@section 20.6 | Regional Groupings
+- Not in **APTA**: **Myanmar** {2010}
+- Not in **OPEC**: **China** (Indonesia also left) {1999}
+- Not in **SAARC**: **Cambodia** {2010, 2013}
+- Not in **BIMSTEC**: **Indonesia** (only 4) {2025}
+- Odd one out: **SAARC** {2015}
+- 9th BRICS Summit host: **China** (Xiamen) {2016}
+- BRICS bank in China: **New Development Bank** (Shanghai); first president **K.V. Kamath** {2015, 2017}
+- Highest per capita income in BRICS: **Russia** {2010}
+- India a full SCO member at **Astana** (2017) {2017}
+- Not in the **Shanghai Five**: **Vietnam** {2001}
+- Not in SCO in 2010: India (then an observer) (*) {2010}
+- **Varanasi**: first SCO **tourism and cultural capital** (Samarkand, 2022) {2023}
+- Not in **Mekong-Ganga** cooperation: **Bangladesh** {2001}
+- **Benelux** = **Belgium, Netherlands, Luxembourg** {2004}
+- 37th G-8 Summit (2011): **Deauville** {2010}
+- Voice of Global South: India held the 3rd in 2024; Global South = developing nations (neither) {2024}
+- India-China-Brazil WTO bloc: **G-77** (per key; the farm bloc is G-20) {2008}
+- Not in ASEAN: **India**; **Brunei** is a member {1996, 2003}
+- Not in GCC: **Iran and Iraq** {2025}
+- **Ind-Aus ECTA**: first-of-its-kind; attended by Commerce Secretary Sunil Barthwal (both) {2024}
+- India-Australia MATES: bilateral; graduates aged **18-30** work up to **two years** (both) {2024}
+
+@table
+Group | Fact
+SAARC | 1985; HQ Kathmandu; 8 members
+BIMSTEC | 1997; 7 members; not Indonesia
+ASEAN | 1967; 10 members incl. Brunei; Timor-Leste 11th (2025)
+BRICS | New Development Bank, Shanghai; K.V. Kamath first head
+SCO | 2001 from Shanghai Five; India full member 2017
+GCC | Saudi, UAE, Qatar, Kuwait, Bahrain, Oman
+@end
+
+@trap
+- IMF and World Bank are both in **Washington**; WTO, ILO, WEF in **Geneva**; ADB in **Manila**.
+- **WEO** is IMF, not World Bank; **WIR** is UNCTAD, not UNDP.
+- India joined the IMF in **1945** (founder), not 1947.
+- Indonesia is in ASEAN, not BIMSTEC; Iran and Iraq are not in the GCC.
+@end
+
+@up UP link: **Varanasi** was named the SCO's first **Tourism and Cultural Capital** (2022-23); Varanasi also hosted a **G-20** development ministers' meeting (2023), and Lucknow, Agra and Greater Noida hosted other G-20 meetings.
+
+@last
+- WEO, GFSR = **IMF**; WDR = World Bank; HDR = **UNDP**; WIR = **UNCTAD**
+- TTCI, Gender Gap = **WEF** (Klaus Schwab); Wage, Social Protection = **ILO**
+- G-20 logo: lotus, **7 petals = 7 continents**
+- India in IMF **1945**; SDR = **paper gold**
+- WTO **1995**, Geneva; Doha = **Qatar**; Azevedo after Lamy
+- TRIPS: trademarks, designs, GIs; not labour or plant breeding
+- NDB = BRICS bank; **K.V. Kamath**
+- SCO full member **Astana 2017**; **Varanasi** = SCO cultural capital
+- Not SAARC: Cambodia; not BIMSTEC: **Indonesia**; not GCC: Iran, Iraq
+- Benelux = Belgium, Netherlands, Luxembourg
+@end

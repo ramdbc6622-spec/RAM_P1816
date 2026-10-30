@@ -1,0 +1,250 @@
+@chapter 14 | Cyclones, Tornadoes and Local Winds
+
+@intro
+This chapter has two halves. **Storms**: the regional names of tropical cyclones (hurricane, typhoon, willy-willy, baguio), tornadoes and "Tornado Alley", the scales (Fujita, Saffir-Simpson), and cyclones in the news. **Local winds**: the hot and cold winds of the Alps, the Mediterranean, the deserts and the Rockies (Foehn, Chinook, Sirocco, Mistral, Bora, Khamsin, Harmattan, Brickfielder, Shamal). Both halves are almost always tested as **match-the-pair** questions. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 14.1 | Tropical Cyclones and Tornadoes
+
+@pyq U.P.P.C.S. (Mains) 2005
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I | List-II
+A. Australia | 1. Hurricanes
+B. China | 2. Willy-Willy
+C. India | 3. Typhoons
+D. U.S.A. | 4. Cyclones
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 3 4 1
+(c) 3 2 1 4
+(d) 4 3 2 1
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014, 2019, 2020
+Match List – I with List – II and select the correct answer from the codes given below :
+@match
+List – I | List – II
+A. Willy-Willy | 1. U.S.A.
+B. Hurricanes | 2. Australia
+C. Typhoons | 3. Philippines
+D. Baguio | 4. China
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 2 1 4 3
+(c) 1 2 4 3
+(d) 2 1 3 4
+@ans (b)
+@end
+
+@one U.P.U.D.A./L.D.A. (Pre) 2001
+Willy-Willy is
+@ans A tropical cyclone of the north-west Australia
+@end
+
+@table
+Region | Name of the tropical cyclone
+North Atlantic, Caribbean, NE Pacific (USA, Mexico) | **Hurricane**
+NW Pacific (China, Japan, Taiwan) | **Typhoon** (Taifu in Japan)
+Philippines | **Baguio**
+NW Australia | **Willy-willy**
+North Indian Ocean (India, Bangladesh), South Indian Ocean | **Cyclone**
+@end
+
+A tropical cyclone needs sea water warmer than about **26.5-27 °C**, enough **Coriolis force** (so not within about 5° of the Equator), low wind shear and an existing disturbance. It turns **anticlockwise** in the Northern Hemisphere and **clockwise** in the Southern. Its calm centre is the **eye**.
+
+@pyq U.P.P.C.S. (Pre) 1996
+The Tornadoes are very strong tropical cyclones originating in:
+(a) Caribbean Sea
+(b) China Sea
+(c) Arabian Sea
+(d) Black Sea
+@ans (a)
+@end
+
+@one U.P. Lower (Spl) (Pre) 2009
+What would you generally associate with Tornadoes?
+@ans U.S.A.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following regions of the U.S.A. is known as "Tornado Alley"?
+(a) Atlantic Seaboard
+(b) Pacific Coast
+(c) Mississippi Plains
+(d) Alaska
+@ans (c)
+@end
+
+A **tornado** is a small (tens to hundreds of metres wide), violent spinning column of air hanging from a thunderstorm. Strictly, it is not a tropical cyclone. The **USA** has the most tornadoes in the world, in "Tornado Alley" across **Texas, Oklahoma, Kansas and Nebraska**, where cold, dry Canadian air meets warm, moist air from the Gulf of Mexico. Over water a tornado becomes a **waterspout**.
+
+@pyq U.P. Lower Sub. (Pre) 2009
+To measure the intensity of Tornadoes we use
+(a) Mercalli scale
+(b) Fujita Scale
+(c) Saffir-Simpson scale
+(d) Richter scale
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following scales is used to measure the damage by a hurricane?
+(a) Saffir-Simpson Scale
+(b) Mercalli Scale
+(c) Fujita Scale
+(d) Richter scale
+@ans (a)
+@end
+
+@table
+Scale | Measures
+Fujita / Enhanced Fujita (EF0-EF5) | **Tornado** intensity, judged from damage
+Saffir-Simpson (Category 1-5) | **Hurricane** wind speed and expected damage
+IMD scale (Depression to Super Cyclonic Storm) | Cyclones in the North Indian Ocean
+Richter / moment magnitude | Earthquake **magnitude**
+Modified Mercalli (I-XII) | Earthquake **intensity**
+Beaufort (0-12) | Wind force at sea and on land
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+Which of the following cyclones did not affect India?
+(a) Aila
+(b) Nargis
+(c) Thane
+(d) Neelam
+@ans (b)
+@end
+
+**Nargis** (2008) devastated **Myanmar**'s Irrawaddy delta. **Aila** (2009) hit West Bengal and Bangladesh, **Thane** (2011) and **Neelam** (2012) hit Tamil Nadu. Cyclone names in the North Indian Ocean come from a list contributed by **13 countries** (WMO/ESCAP Panel). Recent storms include Amphan (2020), Biparjoy (2023), Michaung (2023), Remal (2024), Dana (2024) and Fengal (2024).
+
+@pyq U.P.P.C.S (Pre) 2018
+As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
+(a) Cyclones only
+(b) Storms only
+(c) Hurricanes only
+(d) All of the above
+@ans (d)
+@end
+
+@section 14.2 | Planetary and Local Winds
+
+@pyq U.P.P.C.S. (Pre) 1992
+The winds flowing from high-pressure area toward the Mediterranean sea are
+(a) Westerly
+(b) Trade wind
+(c) Monsoonal wind
+(d) Sea wind
+@ans (*)
+@note The Mediterranean lies at the shifting edge of the subtropical high. **Westerlies** bring its **winter** rain and **trade winds** (offshore) bring its dry **summer**, so both (a) and (b) fit depending on the season. The source marks the question (*). The commonly expected answer is (a) westerlies, which explain the winter rain.
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2010
+'Foehn' is a local wind of –
+(a) China
+(b) Korea
+(c) Japan
+(d) Switzerland
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which one of the following pairs is not correctly matched?
+(a) Foehn - Alps Mountain
+(b) Bora - Poland
+(c) Mistral - Rhine Valley
+(d) Khamsin - Egypt
+@ans (b)
+@note The **Bora** blows down to the **Adriatic** coast (Croatia, Slovenia, NE Italy), not Poland, which makes (b) the key. Note that the **Mistral** actually funnels down the **Rhone** valley of southern France. "Rhine" in option (c) is a slip, so (c) is also strictly wrong.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not correctly matched?
+(a) Chinook-U.S.A.
+(b) Sirocco-Sicily
+(c) Blizzard-Chile
+(d) Norwesters-India
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 1998
+Which one of the following locations has "Blood Rain".
+(a) Italy
+(b) France
+(c) Canada
+(d) Spain
+@ans (a)
+@end
+
+@pyq U.P.PC.S. (Mains) 2013
+Consider the following pairs :
+(Name of the local Winds) - (Related country)
+1. Sirocco - France
+2. Bora - Italy
+3. Blizzard - Canada
+Which one of the above pairs is not correctly matched ?
+(a) 1 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 3 only
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which of the following is not correctly matched ?
+(Wind) - (Country)
+(a) Santa Ana - California
+(b) Haboob - Sudan
+(c) Yamo - Japan
+(d) Mistral - Australia
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following pairs is NOT correctly matched?
+(Name of local winds) - (Places)
+(a) Leveche - Spain
+(b) Brickfielder - Australia
+(c) Black roller - North America
+(d) Shamal - Austria
+@ans (d)
+@end
+
+@table
+Local wind | Type | Region
+Foehn | Warm, dry, descending | North slopes of the **Alps** (Switzerland, Austria); melts snow
+Chinook ("snow eater") | Warm, dry, descending | East of the **Rockies** (USA, Canada)
+Santa Ana | Hot, dry | **Southern California**; fans wildfires
+Sirocco | Hot, dusty, from the Sahara | **Libya to Italy, Sicily, Malta**; picks up moisture and gives red "**blood rain**"
+Khamsin | Hot, dry, dusty | **Egypt**
+Leveche | Hot, dry | **Spain**
+Harmattan ("the doctor") | Dry, dusty north-easterly | West Africa (Guinea coast)
+Haboob | Violent dust storm | **Sudan** (and Arizona)
+Simoom | Hot, suffocating desert wind | Arabia, Sahara
+Shamal | Hot, dry north-westerly | **Iraq, Iran, Arabian Peninsula** (Persian Gulf)
+Brickfielder | Hot, dusty | **South-east Australia** (Victoria)
+Mistral | Cold, northerly | **Rhone valley**, France
+Bora | Cold, dry, gusty | **Adriatic** coast (Croatia, Italy)
+Blizzard | Cold, snowy storm | **Canada, USA**, Siberia (buran)
+Black roller | Dusty squall | Great Plains of **North America**
+Yamo | Hot, dry | **Japan**
+Purga / Buran | Snow blizzard | Siberia (Russia)
+Norwesters (Kalbaisakhi) | Thunderstorm squalls | **West Bengal, Assam, Odisha**, Bangladesh (pre-monsoon)
+Loo | Hot, dry | **North India** plains (May-June)
+@end
+
+@trap
+**Mistral = France (Rhone)**, not Australia or the Rhine. **Shamal = Iraq and the Gulf**, not Austria. **Bora = Adriatic**, not Poland. **Blizzard = Canada and USA**, not Chile. **Sirocco** blows **from** the Sahara **to** Italy and Sicily, so "Sirocco-France" is the wrong pair. **Chinook and Foehn** are both warm, descending **"snow eaters"**, one in North America and the other in the Alps.
+@end
+
+@heatmap
+
+@pattern
+**Local-wind matching** is the most repeated question type in this chapter (seven PYQs since 2005, including in 2016, 2019 and 2021). Cyclone-name matching (willy-willy, typhoon, baguio, hurricane) appears in 2014, 2019 and 2020. Learn the local-wind table by type (hot vs cold) and region.
+@end
+
+@next
+Likely next angles: **cyclone naming** (the new IMD list), **rapid intensification** of Arabian Sea cyclones, **Hurricane** records (Milton and Helene, 2024), **marine heatwaves**, **Santa Ana** winds behind the 2025 Los Angeles fires, and **dust storms** (haboob, shamal) in Gulf cities.
+@end

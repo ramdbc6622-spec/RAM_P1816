@@ -1,0 +1,58 @@
+@chapter 7 | Delhi Sultanate: Administration
+@meta Built from 15 UPPSC questions (1991–2025). Focus: the Turkish nobility, the wazir and zawabit, khalisa and iqta, departments set up by individual Sultans, tanka and jital.
+
+@hot
+- **Iqta** system introduced by **Iltutmish**; iqta revenue was **not** paid straight to the Sultan {2010, 2019, 2023}
+- **Diwan-i-Amir-Kohi** = **agriculture** department of **Muhammad bin Tughluq** {1997, 2004, 2017, 2017}
+- **Tanka** (silver) and **jital** (copper) = main Sultanate coins; started by **Iltutmish** {2001, 2008, 2013}
+@end
+
+@section 7.1 | Nobility, Ministries and Law
+- Most Sultans and amirs were **Turkish** {1991}
+- **Wizarat** peaked under the **Tughluqs** {1997}
+- **Zawabit**: **state laws** {1997}
+- **Kharitadar**: **dispatcher of royal decrees** {2023}
+
+@section 7.2 | Land and Departments
+- Land was **khalisa** and iqta (jagir); khalisa, not jagir, was state land (A true, R false) {2025}
+- Not an iqta feature: revenue paid **straight to the Sultan** {2019}
+- **Iqta** system: **Iltutmish** {2010}
+- **Iqta-land revenue, Mahrusa-protected town, Khalisa-state land, Shiq-a portion** {2023}
+- Wrong pair: **Diwan-i-Riyasat-Balban** (it was Alauddin's market department) {2008}
+- **Diwan-i-Amir-Kohi**: **Muhammad bin Tughluq**; **agriculture** {1997, 2004, 2017, 2017}
+
+@table
+Department | Work | Founder
+Diwan-i-Arz | Army | Balban
+Diwan-i-Riyasat | Markets | Alauddin Khalji
+Diwan-i-Mustakhraj | Arrears of revenue | Alauddin Khalji
+Diwan-i-Amir-Kohi | Agriculture | Muhammad bin Tughluq
+Diwan-i-Khairat | Charity | Firuz Tughluq
+Diwan-i-Bandagan | Slaves | Firuz Tughluq
+@end
+
+@section 7.3 | Coinage
+- Main coins: **jital and tanka** (2 and 4) {2001}
+- Silver **tanka** started by **Iltutmish** {2008, 2013}
+- Last Baghdad Caliph's name first on coins of **Alauddin Masud Shah** {2012}
+
+@trap
+- Mansabdari is **Mughal**; the Sultanate used **iqta**.
+- Diwan-i-Amir-Kohi = agriculture, not hills or forests.
+- Diwan-i-Riyasat = **Alauddin**, not Balban.
+@end
+
+@up UP link: **Awadh, Kara, Badaun** and **Sambhal** were major iqtas of the Sultanate in present UP; Iltutmish himself held **Badaun** before becoming Sultan.
+
+@last
+- Sultans and nobles mostly Turkish
+- Wizarat peaked under the Tughluqs
+- Zawabit = state laws; Kharitadar = royal dispatches
+- Khalisa = crown land; iqta = assigned revenue
+- Iltutmish = iqta system, tanka
+- Diwan-i-Arz = Balban; Diwan-i-Riyasat = Alauddin
+- Diwan-i-Amir-Kohi = MBT, agriculture
+- Tanka silver; jital copper
+- Mahrusa = protected town; shiq = portion
+- Masud Shah = last Caliph's name on coins
+@end

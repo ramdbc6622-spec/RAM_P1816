@@ -1,0 +1,344 @@
+@chapter 19 | Industrial Cities and Regions of the World
+
+@intro
+World-industry questions are **city-to-industry** and **region-to-country** matches. The same names recur: Pittsburgh, Detroit, Hamilton, Birmingham, Sheffield, Essen, Anshan, Magnitogorsk, Osaka, Nagoya, Yokohama, Glasgow and Dundee. The other topic is **location theory**: raw-material, market and footloose industries, and why Japan's steel mills sit on the coast. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 19.1 | Iron and Steel Centres
+
+@pyq U.P.P.C.S (Pre) 2011
+Match List-I and List-II and select the correct answer using the code given below the lists :
+@match
+List-I (Iron-steel Centre) | List-II (Country)
+A. Hamilton | 1. China
+B. Birmingham | 2. Canada
+C. Essen | 3. U.K.
+D. Anshan | 4. Germany
+@endmatch
+Code: A B C D
+(a) 4 3 1 2
+(b) 2 1 4 3
+(c) 2 3 4 1
+(d) 3 4 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which of the following is not correctly matched ?
+(a) Detroit - Automobiles
+(b) Magnitogorsk - Iron and Steel
+(c) Johannesburg - Gold Mining
+(d) Birmingham - Shipbuilding
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the given is not correctly matched ?
+(a) Anshan - Iron and Steel
+(b) Detroit - Automobile
+(c) Chelyabinsk - Shipbuilding industry
+(d) Milan - Silk textile industry
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not correctly matched?
+(a) Anshan – Iron and Steel
+(b) Detroit - Automobiles
+(c) Moscow – Shipbuilding
+(d) Osaka - Textiles
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following pairs is not correctly matched?
+(a) Cleveland - Iron and Steel
+(b) Detroit - Motor Vehicle
+(c) Mesabi Range - Coal field
+(d) Philadelphia – Ship Building
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Pre) 2010; U.P.U.D.A./L.D.A. (Pre) 2013
+Which country has market-based locations of iron and steel industries ?
+(a) China
+(b) India
+(c) Japan
+(d) U.K.
+@ans (c)
+@end
+
+**Japan** has almost no iron ore or coking coal, so it imports both. Its steel mills stand at **coastal ports** near the big markets (Tokyo-Yokohama, Osaka-Kobe, Nagoya, Kitakyushu). This is the classic **market- and port-based** location. India's older plants (Jamshedpur, Bhilai, Rourkela) are **raw-material based**, built near the iron ore and coal.
+
+@section 19.2 | Textiles, Automobiles and Shipbuilding
+
+@pyq U.P.P.C.S. (Mains) 2005; U.P.P.C.S. (Pre) 2005
+Match List-I with List-II and select the correct answer using the codes given below the lists :
+@match
+List-I (Centre) | List-II (Industry)
+A. Pittsburg | 1. Shipbuilding
+B. Shanghai | 2. Iron & Steel
+C. Dundee | 3. Cotton Textile
+D. Leningrad | 4. Jute Textile
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 2 3 4 1
+(d) 4 3 1 2
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Match List I with List II and select the correct answer using the code given below the lists :
+@match
+List I (Centres) | List II (Industries)
+A. Nagoya | 1. Iron and Steel
+B. Salem | 2. Aircraft
+C. Los-Angeles | 3. Cotton Textiles
+D. Abadan | 4. Oil Refinery
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 4 2 3 1
+(c) 1 4 2 3
+(d) 3 1 2 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Match List - I with List- II and select the correct answer from the code given below the lists.
+@match
+List - I (Centre) | List - II (Industry)
+A. Osaka | 1. Cigar
+B. Detroit | 2. Ship building
+C. Cuba | 3. Cotton textile
+D. St. Petersburg | 4. Automobile
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 4 1 2
+(c) 2 1 4 3
+(d) 1 2 3 4
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002
+Match list-I with list-II and select correct answer using the codes given below :
+@match
+List-I (Cities) | List-II (Industry)
+A. Anshan | 1. Cotton Textile
+B. Detroit | 2. Cigar
+C. Hawana | 3. Automobile
+D. Nagoya | 4. Iron and steel
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 2 4 1 3
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Pre) 1990
+Which city is an important centre for the cotton textile industry?
+@ans Osaka
+@end
+
+@one U.P.P.C.S. (Pre) 1996
+Which one of the following is not matched properly?
+@ans Venice - Shipbuilding
+@end
+
+@one U.P.P.C.S. (Mains) 2005
+Match List-I (Centre): A. Anshan, B. Glasgow, C. Ottawa, D. Sheffield with List-II (Industry): 1. Cutlery, 2. Paper, 3. Shipbuilding, 4. Iron and Steel.
+@ans A-4, B-3, C-2, D-1
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which one of the following is not correctly matched?
+(a) Osaka - Textile Industry
+(b) Yokohama - Shipbuilding
+(c) Pittsburgh - Iron and Steel
+(d) Houston - Automobile
+@ans (d)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2016
+Which one of the follwoing is not correctly matched?
+Shipbuilding Centre - State (U.S.A.)
+(a) Houston - Texas
+(b) Sparrows Point - Maryland
+(c) New Orleans - Louisiana
+(d) Camden - Florida
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) (Re-Exam) 2015
+Which one of the following is not correctly matched?
+Industry : Location
+(a) Paper : Ontario
+(b) Cotton Textiles : Detroit
+(c) Chemical : Texas
+(d) Motor Car : Nagoya
+@ans (b)
+@end
+
+@table
+City | Industry | Country
+Pittsburgh ("Steel City"), Cleveland, Gary | Iron and steel | USA
+**Detroit** ("Motor City") | Automobiles | USA
+Houston | Petroleum, petrochemicals, space (NASA) | USA
+Los Angeles, Seattle | Aircraft | USA
+Philadelphia, Camden (New Jersey), Sparrows Point | Shipbuilding | USA
+Hamilton | Iron and steel | Canada
+Birmingham, Sheffield ("cutlery") | Iron and steel | UK
+Glasgow (Clydeside), Belfast | Shipbuilding | UK
+Manchester | Cotton textiles | UK
+Dundee | Jute | UK (Scotland)
+Bradford, Leeds | Woollens | UK
+Essen, Duisburg, Dortmund (Ruhr) | Iron and steel | Germany
+Wuppertal | Woollens, textiles | Germany
+Milan / Lyon | Silk | Italy / France
+Prato | Woollens | Italy
+Magnitogorsk, Chelyabinsk | Iron and steel | Russia (Urals)
+St. Petersburg (Leningrad) | Shipbuilding | Russia
+Anshan | Iron and steel | China
+Shanghai | Cotton textiles, steel, shipbuilding | China
+**Osaka** ("Manchester of Japan") | Cotton textiles | Japan
+Nagoya | Automobiles (Toyota), textiles | Japan
+Yokohama, Nagasaki | Shipbuilding | Japan
+Abadan | Oil refinery | Iran
+Havana | Cigars | Cuba
+Johannesburg | Gold mining | South Africa
+@end
+
+@section 19.3 | Industrial Regions
+
+@pyq U.P.P.C.S. (Pre) 2016
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List -I (Industrial Region) | List-II (Country)
+A. Kinki | 1. China
+B. Canton | 2. Japan
+C. Lorraine | 3. Brazil
+D. Belo Horizonte | 4. France
+@endmatch
+Code : A B C D
+(a) 2 1 4 3
+(b) 2 1 3 4
+(c) 3 2 1 4
+(d) 4 3 2 1
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which one of the following is correctly matched?
+(a) Lorren Industrial Region - Italy
+(b) Ruhr Industrial Region - Germany
+(c) Bristol Industrial Region - France
+(d) Saxony Industrial Region - United Kingdom
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following pairs is not correct ?
+(a) Ruhr Industrial Region – Germany
+(b) Flanders Industrial Region – Belgium and France
+(c) Scotland Industrial Region – Sweden
+(d) New England Industrial Region – U.S.A.
+@ans (c)
+@end
+
+@table
+Industrial region | Country
+Ruhr, Saxony, Rhine-Main | Germany
+Lorraine, Paris basin | France
+Flanders | Belgium-France
+Midlands, Lancashire, Scottish Lowlands (Clydeside) | UK
+New England, Great Lakes ("Manufacturing Belt"), Gulf Coast | USA
+Kanto (Tokyo-Yokohama), **Kinki / Kansai** (Osaka-Kobe-Kyoto), Chukyo (Nagoya), Kitakyushu | Japan
+Canton (Guangzhou)-Pearl River Delta, Yangtze Delta (Shanghai), Liaoning (Anshan) | China
+Sao Paulo, Belo Horizonte (Minas Gerais) | Brazil
+Urals, Kuzbas, Moscow | Russia
+@end
+
+@section 19.4 | Textiles and Industrial Location
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one is the biggest wool-producing country in the world?
+(a) China
+(b) U.S.A.
+(c) Australia
+(d) U.K.
+@ans (a)
+@end
+
+**China** leads in total greasy wool, followed by **Australia** and New Zealand. Australia leads in **fine Merino wool** and in **wool exports**.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of following wool producing centre belongs to Germany ?
+(a) Saint Petersburg
+(b) Wuppertal
+(c) Bradford
+(d) Prato
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The leading producer of cotton textiles in the world is
+(a) China
+(b) India
+(c) U.S.A.
+(d) Russia
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following is an example of 'Footloose' industry?
+(a) Oil Refinery
+(b) Sugar
+(c) Software
+(d) Aluminium
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+For the location of which one of the following industries, the availability of raw material is not the primary consideration?
+(a) Iron and Steel
+(b) Sugar
+(c) Electronics
+(d) Cement
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2008
+Japan is one of the leading industrial country in the world because –
+(a) Japan does have abundant minerals.
+(b) It has abundant bioenergy resources.
+(c) Industrial revolution was started here.
+(d) Japan has high technology.
+@ans (d)
+@end
+
+@table
+Location type | Pulled towards | Examples
+Raw-material oriented (weight-losing) | Source of bulky raw material | Iron and steel (old plants), sugar, cement, pulp
+Market oriented (weight-gaining or perishable) | Big cities and ports | Bread, soft drinks, Japanese steel, refineries near cities
+Power oriented | Cheap electricity | Aluminium smelters (Renukoot, Norway, Canada)
+**Footloose** | Skilled labour, good communications | **Software, electronics**, diamond cutting, watches
+@end
+
+@trap
+**Birmingham is steel**, not shipbuilding; **Glasgow** and **Belfast** build ships. **Detroit is automobiles**, not cotton. **Houston is oil and space**, not automobiles. **Moscow and Chelyabinsk** are inland and build no ships, while **St. Petersburg** does. **Camden** is in **New Jersey**, not Florida. **Mesabi is iron ore**, not coal.
+@end
+
+@heatmap
+
+@pattern
+Nearly every question here is a **city-industry** match, and the US, UK, Japanese and Soviet centres listed above account for almost all of them. The papers from 2015 onwards add **industrial-region** matching (Kinki, Canton, Belo Horizonte, Flanders) and **location theory** (footloose, market-based).
+@end
+
+@next
+Likely next angles: **semiconductor** hubs (Taiwan's Hsinchu, Arizona fabs, India's Dholera), **EV and battery** clusters (Shenzhen, Nevada), **shipbuilding** shifting to China and South Korea, Detroit's revival, **"China plus one"** relocation to Vietnam and India, and the **Rust Belt**.
+@end

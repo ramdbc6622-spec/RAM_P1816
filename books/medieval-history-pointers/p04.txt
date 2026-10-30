@@ -1,0 +1,72 @@
+@chapter 4 | Tughluq Dynasty
+@meta Built from 20 UPPSC questions (1991–2017). Focus: Ghiyasuddin, Muhammad bin Tughluq's projects and Ibn Battuta, Firuz Shah's welfare state and taxes, the Ashokan pillars, Timur's invasion.
+
+@hot
+- **Muhammad bin Tughluq**: capital to **Daulatabad**, first **token currency**, the most learned Sultan; **Ibn Battuta** came in his reign {1991, 1994, 2002, 2004, 2004, 2004, 2006, 2011, 2012, 2017}
+- **Firuz Shah Tughluq**: employment bureau, public works, translation, Hajj, **Dar-ul-Shifa** {1998, 2000, 2004, 2006, 2010, 2010, ?}
+- **Haq-i-sharb** (irrigation tax) and **jizya on Brahmins**: **Firuz** {1996, 2008, 2010, 2011}
+- Firuz brought **Ashokan pillars** from **Topra and Meerut** to Delhi {1996, 2009}
+@end
+
+@section 4.1 | Ghiyasuddin and Muhammad bin Tughluq
+- Founder: **Ghazi Malik** (Ghiyasuddin Tughluq) {1999}
+- First 14th-century canal builder: **Ghiyasuddin Tughluq** {2017}
+- Longest-ruling Sultanate dynasty: **Tughluqs** {2008}
+- Most learned Sultan: **Muhammad bin Tughluq** {2012}
+- Capital moved to **Daulatabad** {2002, 2004}
+- First **token currency**: **Muhammad bin Tughluq** {2004, 2004, 2017}
+- Token currency failed: he could not control minting (A and R true, R explains A) {2006}
+- **Ibn Battuta** came under **Muhammad bin Tughluq** {1991, 1994, 2011}
+- Postal system described by **Ibn Battuta** {2000}
+- "The king was freed from his people...": Badauni on **Muhammad bin Tughluq's** death {2008}
+
+@flow Muhammad bin Tughluq's projects
+Doab tax rise | During famine; revolt
+Capital shift | Delhi to Daulatabad (Devagiri), then back
+Token currency | Bronze/copper coins at silver value; forgery
+Khurasan and Qarachil | Planned/failed expeditions
+Agriculture | Diwan-i-Kohi; state farms
+@end
+
+@section 4.2 | Firuz Shah Tughluq
+- Employment exchange: **Firuz Shah** {2010, 2010}
+- Public Works Department: **Firuz Shah** {2000, 2006}
+- Translation department: **Firuz Shah** {2004}
+- First state-funded Hajj (key): **Firuz Tughluq** {1998}
+- **Dar-ul-Shifa**: a **free hospital** {2013}
+- First **haq-i-sharb** (irrigation tax): **Firuz** {2008, 2010}
+- **Sharb**: a tax on **irrigation** {1996}
+- Jizya on Brahmins: **Firuz** {2011}
+- Ashokan pillars from **Topra and Meerut**: **Firuz** {1996, 2009}
+- Timur came in **1398** under **Nasiruddin Mahmud**; no option correct (*) {2002}
+
+@table
+Firuz's department | Work
+Diwan-i-Khairat | Charity
+Diwan-i-Bandagan | Slaves
+Dar-ul-Shifa | Free hospital
+Employment bureau | Jobs for the unemployed
+Public works | Canals, towns (Jaunpur, Hisar, Firozabad)
+@end
+
+@trap
+- Token currency = Muhammad bin Tughluq; it failed because of **forgery**, not a copper shortage.
+- Irrigation tax = **Firuz**; house tax = **Alauddin**.
+- Ashokan pillars moved by **Firuz**; the iron pillar is Gupta.
+- Timur came in **1398**, after Firuz's death (1388).
+@end
+
+@up UP link: **Jaunpur** was founded by **Firuz Shah Tughluq** (named after Muhammad bin Tughluq, Jauna Khan); the **Meerut** Ashokan pillar he moved now stands in Delhi.
+
+@last
+- Ghazi Malik = Ghiyasuddin; first canals
+- Tughluqs ruled longest
+- MBT: Daulatabad, token currency, most learned
+- Ibn Battuta under MBT; described the post
+- Firuz: employment, PWD, translation, Dar-ul-Shifa
+- Haq-i-sharb (irrigation) = Firuz
+- Jizya on Brahmins = Firuz
+- Topra and Meerut pillars to Delhi = Firuz
+- Firuz founded Jaunpur, Hisar, Firozabad
+- Timur 1398 (Nasiruddin Mahmud)
+@end

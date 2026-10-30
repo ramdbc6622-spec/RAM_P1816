@@ -1,0 +1,71 @@
+@chapter 11 | Political Organisations Established Before Congress
+@unit UNIT IV · EARLY NATIONALISM AND THE REVOLUTIONARIES
+@meta Built from 16 UPPSC questions (2006–2024). Focus: the first Bengal associations, London bodies, the Indian Association and Indian National Conference, the presidency associations, the United Indian Patriotic Association.
+
+@hot
+- **Indian Association** (1876): **Surendranath Banerjee** (with Anand Mohan Bose); its **Indian National Conference** merged into the Congress (1886) {2007, 2008, 2017}
+- **East India Association** (London, 1866): **Dadabhai Naoroji** {2021, 2024}
+- **Bombay Presidency Association** (1885): **Pherozeshah Mehta** (with Telang, Tyabji) {2016}
+@end
+
+@section 11.1 | Bengal and London
+- Order: **Bangabhasha Prakashika Sabha, Landholders' Society, Bengal British India Society, Indian League** {2016}
+- Bengal British India Society (1843) {2023}
+- Founding-year pairs: two wrong (*) {2015}
+- East India Association: **Dadabhai Naoroji**, London, 1866 {2021}
+- "Poverty and Un-British Rule": **Dadabhai Naoroji** {2016}
+- Order: **East India Association, National Indian Association, Indian Society, Indian Association** {2024}
+- Wrong pairs: **East India Association-Calcutta** (it was London) {2008}
+- Founder matching for the Landholders' Society, British India Society and others {2014}
+
+@flow Pre-Congress bodies
+1836 | Bangabhasha Prakashika Sabha (first political body)
+1838 | Landholders' Society (Dwarkanath Tagore)
+1843 | Bengal British India Society
+1851 | British Indian Association (Calcutta)
+1866 | East India Association (London, Naoroji)
+1876 | Indian Association (Surendranath, Anand Mohan Bose)
+1883, 1885 | Indian National Conference; Bombay Presidency Association
+@end
+
+@section 11.2 | Indian Association and Others
+- Indian Association: **S.N. Banerjee** {2008}
+- Merged with the Congress in 1886: **Indian National Conference** {2007}
+- Not pre-Congress (key): **The Indian Association** (*) {2017}
+- **India League-Shishir Kumar Ghosh, Indian Association-Anand Mohan Bose, Liberal Federation-Surendranath, United Patriotic Association-Syed Ahmad Khan** {2008}
+- Bombay Presidency Association founder: **Pherozeshah Mehta** {2016}
+- Founder matching: **Ananda Charlu (Madras Mahajan Sabha), Surendranath, Ranade (Poona Sarvajanik Sabha), Mehta** {2016}
+- United Indian Patriotic Association with Syed Ahmad: **Raja Shivaprasad** {2016}
+- Pre-Congress master match (British Indian Association and others) {2006}
+
+@table
+Body | Year | Founder
+Landholders' Society | 1838 | Dwarkanath Tagore
+British Indian Association | 1851 | Radhakant Deb, Debendranath
+East India Association | 1866 | Dadabhai Naoroji
+Poona Sarvajanik Sabha | 1870 | M.G. Ranade
+Indian League | 1875 | Shishir Kumar Ghosh
+Indian Association | 1876 | Surendranath, Anand Mohan Bose
+Madras Mahajan Sabha | 1884 | Ananda Charlu, Raghavachari
+Bombay Presidency Association | 1885 | Mehta, Telang, Tyabji
+@end
+
+@trap
+- British India Society (London, 1839), Bengal British India Society (1843), British Indian Association (1851) are three bodies.
+- The Indian Association continued; the **Conference** merged into the Congress.
+@end
+
+@up UP link: **Raja Shivaprasad Sitara-e-Hind** of **Banaras** and **Syed Ahmad Khan** of **Aligarh** set up the **United Indian Patriotic Association** (1888) against the Congress.
+
+@last
+- Bangabhasha Prakashika Sabha 1836 = first
+- Landholders' Society 1838
+- East India Association 1866 = Naoroji (London)
+- Indian League 1875 = Shishir Ghosh
+- Indian Association 1876 = Surendranath, Anand Mohan Bose
+- Indian National Conference merged in 1886
+- Poona Sarvajanik Sabha = Ranade
+- Bombay Presidency Association 1885 = Mehta
+- United Patriotic Association = Syed Ahmad, Shivaprasad
+- Liberal Federation 1918 = Surendranath
+@end

@@ -1,0 +1,82 @@
+@chapter 15 | Akbar
+@meta Built from 32 UPPSC questions (1990–2024). Focus: Bairam Khan, conquests, Rajput policy and Haldighati, religious policy, social reforms, mansabdari and revenue, court scholars and translations, Fatehpur Sikri.
+
+@hot
+- **Todar Mal**: **land revenue**; the link between Sher Shah and Akbar {1992, 2007, 2012}
+- **Religious order**: **jizya abolished (1564), Ibadat Khana (1575), Mahzar (1579), Din-i-Ilahi (1582)** {2003, 2006}
+- First Rajput marriage alliance: **Kachhwahas** of Amber; **Mewar** never submitted {2004, 2004, 2016}
+- **Haldighati (1576)**: Pratap's commander **Hakim Sur** {2016, 2016, ?}
+- **Badauni** translated the **Mahabharata** (Razmnama) and the Ramayana {2013, 2015, 2016, 2016}
+@end
+
+@section 15.1 | Accession and Conquests
+- Akbar gave Bairam Khan the title **Khan-i-Khanan** (only 1) {2024}
+- Killed personally by Akbar: **Adham Khan** {2010}
+- Order: **Malwa invasion, Amber marriage, Karrani conquest of Orissa, Tukaroi** {2021}
+- First Rajput marriage: **Kachhwahas** (Amber) {2004, 2016}
+- Did not accept Akbar willingly: **Mewar** {2004}
+- Pratap's other commander at Haldighati: **Hakim Sur** {2016, 2016}
+- **Haldighati**: **1576** {?}
+
+@section 15.2 | Religion and Society
+- Akbar visited **Muinuddin Chishti's** dargah {2012}
+- Order: **jizya abolished, Ibadat Khana, Mahzar, Din-i-Ilahi** {2003, 2006}
+- A fatwa against Akbar came from **Jaunpur** {2011}
+- **Sulh-i-kul**: result of **all the above** influences {1998}
+- Historian calling Din-i-Ilahi a religion: **none** of them {2000}
+- Jain scholar honoured by Akbar: **Hiravijaya Suri** {2002, 2012}
+- Akbar's popularity: **mansabdari, religious policy, revenue, social reform** (all) {1990}
+- One wife unless the first was barren: **Akbar** {2002}
+- Akbar tried to fix marriage age and let girls choose (both) {2020}
+
+@flow Akbar's religious path
+1563-64 | Pilgrim tax and jizya abolished
+1575 | Ibadat Khana at Fatehpur Sikri
+1579 | Mahzar ("infallibility decree")
+1582 | Din-i-Ilahi (Tauhid-i-Ilahi)
+Ideal | Sulh-i-kul (peace with all)
+@end
+
+@section 15.3 | Administration and Culture
+- Military system: **mansabdari** {1992}
+- First proper diwan: **Muzaffar Khan Turbati** {2002, 2003}
+- **Todar Mal**: **land revenue** (dahsala); link between Sher Shah and Akbar {1992, 2007, 2012}
+- Order: **Sheikh Mubarak's death, Faizi's death, Abul Fazl's murder, Daniyal's death** {2024}
+- **Mahabharata** into Persian (**Razmnama**): **Badauni** {2015, 2016, 2016}
+- **Ramayana** into Persian: **Badauni** {2013}
+- "**Zarrin Qalam**": **Muhammad Husain** (calligrapher) {1995}
+- Buland Darwaza was built for the **Gujarat** victory, not Jahangir's birth (A true, R false) {1998}
+- Akbar built the **Buland Darwaza** and **Panch Mahal** {1993, 2004}
+- Not Akbar's fort: **Red Fort, Delhi** (Shah Jahan) {2015}
+- Contemporary of Elizabeth I: **Akbar**; an "**enlightened despot**" {2002, 2009}
+
+@table
+Akbar's reform | Detail
+Mansabdari | Zat and sawar ranks (from 1573-77)
+Dahsala (Zabti) | Todar Mal; 10-year average (1580)
+Ain-i-Dahsala | Revenue on average produce and prices
+Translation bureau | Maktab Khana; Razmnama, Ramayana
+Fatehpur Sikri | Buland Darwaza, Panch Mahal, Diwan-i-Khas
+@end
+
+@trap
+- Jizya was abolished in **1564**, eleven years **before** the Ibadat Khana.
+- First diwan = **Muzaffar Khan Turbati**, not Todar Mal.
+- Zarrin Qalam = Muhammad Husain; Shirin Qalam = Abdus Samad.
+- Buland Darwaza celebrates **Gujarat** (1573), not Salim's birth.
+@end
+
+@up UP link: **Fatehpur Sikri** (Agra) has the Buland Darwaza, Panch Mahal, Ibadat Khana and Salim Chishti's tomb; Akbar's tomb is at **Sikandra**, and the **Agra fort** and **Allahabad fort** are his; a fatwa against him came from **Jaunpur**.
+
+@last
+- Bairam Khan = Khan-i-Khanan; Adham Khan killed by Akbar
+- Kachhwahas first Rajput alliance; Mewar resisted
+- Haldighati 1576; Hakim Sur
+- Jizya 1564; Ibadat Khana 1575; Mahzar 1579; Din-i-Ilahi 1582
+- Hiravijaya Suri = Jain scholar at court
+- Mansabdari; Muzaffar Khan Turbati first diwan
+- Todar Mal = land revenue (dahsala)
+- Badauni = Razmnama, Ramayana in Persian
+- Buland Darwaza = Gujarat victory; Panch Mahal
+- Akbar = Elizabeth I's contemporary
+@end

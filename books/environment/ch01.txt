@@ -1,0 +1,521 @@
+@chapter 1 | Environment, Sustainable Development and Ecology
+@unit UNIT I · ECOLOGY AND ECOSYSTEMS
+
+@intro
+This chapter lays the foundation for the whole subject. It covers what the **environment** is, the idea of **sustainable development** (Brundtland 1987, Rio 1992, Agenda 21), the classic environmental books (Silent Spring, The Population Bomb, The Limits to Growth), India's **Environment (Protection) Act 1986** and **Ecomark**, and then core **ecology**: ecosystem structure, levels of organisation, biogeochemical cycles, **ecological succession** and the **niche**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 1.1 | Environment
+
+@pyq U.P.P.C.S. (Pre) 2006
+Environment refers to:
+(a) The natural world of land, water, air, plants and animals that exist around it.
+(b) The sum total of conditions which surround human beings at a given point of time.
+(c) The interacting system of physical, biological and cultural elements which are interlinked.
+(d) All the above
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+Generally, environment can be classified as following categories. Which among the following is NOT a part of such category?
+(a) Operational Environment
+(b) Physical Environment
+(c) Cultural Environment
+(d) Biological Environment
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2006
+Environmental degradation means
+(a) Overall lowering of environmental qualities.
+(b) Adverse change brought in by human activities.
+(c) Ecological imbalance
+(d) All of the above
+@ans (d)
+@end
+
+@pyq U.P. UDA/LDA (Pre) 2013
+Which one of the following is not related to environmental protection ?
+(a) Sustainable Development
+(b) Poverty Alleviation
+(c) Air conditioning
+(d) Use of Paper Bags
+@ans (b)
+@note The key (b) follows the source. **Air conditioning** (refrigerant gases, high energy use) is the option most clearly working against environmental protection, and poverty alleviation is now seen as part of sustainable development (SDG 1). Take (c) if the question is asked again with modern framing.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Urbanization and industrialisation are harmful
+(a) for balanced development
+(b) for environment and ecology
+(c) Biodiversity
+(d) All of the above.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2020
+During the mid 80's decade of twentieth century, the negative aspects of development were discussed at large. Which one among the following was NOT such important?
+(a) Degradation of natural resources
+(b) Environment pollution
+(c) Politics and Development
+(d) Displacement and Rehabilitation of masses
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2009
+Plachimada which has been in the news for immense damage to its environment lies in –
+(a) Karnataka
+(b) Konkan
+(c) Kerala
+(d) Tamil Nadu
+@ans (c)
+@end
+
+**Plachimada** (Palakkad, Kerala) became famous for a long villagers' struggle (2002 onwards) against the **Coca-Cola** bottling plant, which they blamed for using up and polluting groundwater. The plant closed in 2004.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Greenwash refers to
+(a) Promoting Jhum agriculture
+(b) Cleaning of river water
+(c) Removing greenery
+(d) Making false promises of protecting the environment
+@ans (d)
+@end
+
+@section 1.2 | Sustainable Development
+
+@pyq U.P.P.C.S. (Pre) 2019
+Given below are two statements, one labelled as Assertion (A) and other as the Reason (R).
+Assertion (A) : Sustainable development is important for well being of human society.
+Reason (R) : Sustainable development is a kind of development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 2020
+The discussion on 'Sustainable Development' was started after submitting a report on environment to the United Nations in 1987. That report was
+@ans Our Common Future
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : Sustainable development should take place without damaging the environment and development in the present time should not compromise with the needs of the future generations.
+Reason (R) : Agenda 21 was signed by world leaders in 1995.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (c)
+@end
+
+**Agenda 21** was adopted at the **Rio Earth Summit in 1992**, not 1995.
+
+@pyq U.P. P.C.S. (Pre) 2020
+Arrange the following events in chronological order and select the correct answer from the codes given below:
+I. Rio Earth Summit
+II. Publication of Brundtland Commission Report
+III. Enforcement of Montreal Protocol
+IV. Publication of 'The Limit to Growth' Report
+Codes:
+(a) I, IV, III, II
+(b) IV, II, III, I
+(c) IV, III, II, I
+(d) IV, I, III, II
+@ans (b)
+@end
+
+@table
+Year | Milestone
+1962 | *Silent Spring* (Rachel Carson): DDT and pesticides
+1968 | *The Population Bomb* (Paul R. Ehrlich)
+1972 | *The Limits to Growth* (Club of Rome); **Stockholm Conference**; **UNEP** set up (Nairobi); 5 June = World Environment Day
+1987 | **Brundtland Report**, *Our Common Future*: defines sustainable development
+1989 | **Montreal Protocol** comes into force
+1992 | **Rio Earth Summit** (UNCED): Agenda 21, UNFCCC, CBD, UNCCD opened, Rio Principles
+2002 | Rio+10, Johannesburg (World Summit on Sustainable Development)
+2012 | Rio+20 (*The Future We Want*)
+2015 | **Agenda 2030**: 17 **Sustainable Development Goals**; **Paris Agreement**
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Sustainable development is a matter of inter-generational sensibility in respect of the use of?
+(a) Natural resources
+(b) Material resources
+(c) Industrial resources
+(d) Social resources
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2004
+What is important for Sustainable Development?
+(a) Conservation of biological diversity
+(b) Prevention and Control of Pollution
+(c) Decreasing poverty
+(d) All of these.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
+1. The rate of resource extraction should remain above the rate of resource generation.
+2. Generation of waste should remain within the absorption capacity of environment.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (a)
+@end
+
+**Carrying capacity** is the largest population or level of use that an environment can support indefinitely. For it to hold, resources must be used **no faster** than they renew (so statement 1 is reversed), and waste must stay within the environment's capacity to absorb it.
+
+@pyq U.P.P.C.S.(Pre) 2001
+Sustainable agriculture means:
+(a) Self-sufficiency
+(b) To be able to export and import under WTO norms
+(c) To utilize land so that its quality remains intact
+(d) To utilize Wasteland for agricultural purposes
+@ans (c)
+@end
+
+@section 1.3 | Books, Laws and Labels
+
+@pyq U.P.P.C.S. (Pre) 2020
+The book 'Silent Spring' published in 1962 which set the tone for an environmental movement in the world, was written by:
+(a) Carolyn Merchant
+(b) Karl Marx
+(c) Rachel Carson
+(d) Rajgopalan
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Who is the author of the book "The Population Bomb"?
+(a) Malthus
+(b) Paul R. Ehrlich
+(c) Thompson
+(d) Donald Bogue
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+The author of 'Green Development' is –
+(a) M.J. Bradshaw
+(b) M. Nicholson
+(c) R.H. Whittaker
+(d) W.M. Adams
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+When the Environment (Protection) Act for the protection and preservation of environment was passed by the Government of India?
+(a) 1974
+(b) 1986
+(c) 1971
+(d) 1981
+@ans (b)
+@end
+
+@table
+Indian environmental law | Year
+Wildlife (Protection) Act | 1972 (amended 2022)
+Water (Prevention and Control of Pollution) Act | 1974; set up the **CPCB**
+Forest (Conservation) Act | 1980 (renamed **Van (Sanrakshan Evam Samvardhan) Adhiniyam** in 2023)
+Air (Prevention and Control of Pollution) Act | 1981
+**Environment (Protection) Act** | **1986**, an "umbrella" law passed after the **Bhopal gas tragedy** (1984)
+Public Liability Insurance Act | 1991
+Biological Diversity Act | 2002 (amended 2023)
+Forest Rights Act | 2006
+National Green Tribunal Act | 2010
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2004
+Which of the following is related to Protection of Ecological Balance?
+1. Forest Policy
+2. Environment (Protection) Act, 1986
+3. Industrial Policy
+4. Educational Policy
+Select the correct answer using the codes given below:
+(a) 1 & 2
+(b) 2 & 3
+(c) 1, 2 & 3
+(d) All the above
+@ans (d)
+@end
+
+@pyq UPPCS (Pre) 2012, 2021
+The symbol 'ECOMARC' is related to which of the following?
+(a) Goods of best quality
+(b) Safe goods for environment
+(c) Exported goods
+(d) Imported goods
+@ans (b)
+@end
+
+@one U.P.P.C.S. (Spl) (Mains) 2004
+To label environment-friendly consumer products, the Government has introduced
+@ans Eco mark
+@end
+
+**Ecomark** (1991) is awarded by the **Bureau of Indian Standards** to consumer products that meet environmental standards. Its logo is an **earthen pot (matka)**. The **Ecomark Scheme** was relaunched under the Environment (Protection) Act in **2024**, alongside the **Green Credit Programme** (2023).
+
+@section 1.4 | Ecology and the Ecosystem
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+'Ecology' is the study of the relationship between–
+(a) Organism and environment
+(b) Man and forest
+(c) Soil and water
+(d) Husband and wife
+@ans (a)
+@end
+
+**Ernst Haeckel** coined the word "ecology" (1866), from the Greek *oikos* (house). **A.G. Tansley** coined "**ecosystem**" (1935).
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002
+Consider the following statements relating to the ecosystem:
+1. The term 'Ecosystem' was first used by A.G. Tansley.
+2. Those organisms which produce their food themselves are termed as autotrophs.
+3. Consumers consume their food through the process of photosynthesis.
+4. Decomposers convert inorganic matter into organic matter.
+Which of the above statements are correct:
+Code:
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 4
+(d) 3 and 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P.P.C.S. (Pre) (Re. Exam) 2015
+Which of the following is not true about the ecosystem?
+(a) It represents all living organisms and the physical environment in any given space-time unit.
+(b) It is a functional unit.
+(c) It has own productivity.
+(d) It is a closed-system.
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Given below are two statements, one labelled as Assertion (A) and other as the Reason (R).
+Assertion (A) : The biosphere is an example of an open system.
+Reason (R) : There cannot be reinvestment of new substances in the biosphere but there is no restriction on the investment and exit of energy.
+Select the correct answer using the codes below:
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false
+(d) (A) is false but (R) is true
+@ans (c)
+@end
+
+An ecosystem is **open** for **energy**: sunlight comes in and heat goes out, so energy flows **one way**. **Nutrients**, however, are **recycled** again and again. The Reason is wrong because new matter does enter and leave the biosphere, for example through volcanic gases and sediments.
+
+@pyq U.P.P.C.S. (Pre) 2017
+Which one of the following is the correct order of biological organization ranging from organism to biosphere?
+(a) Population- Ecosystem- Community - Landscape
+(b) Landscape- Community-Ecosystem-Population
+(c) Population - Community- Ecosystem- Landscape
+(d) Population- Landscape- Community- Ecosystem
+@ans (c)
+@end
+
+Levels of organisation: **Organism, Population** (one species), **Community** (all species), **Ecosystem** (community plus the physical environment), **Landscape**, **Biome** and finally the **Biosphere**.
+
+@pyq U.P.P.C.S. (Pre) 2019
+What is true about ecosystem?
+(a) Primary consumers are least dependent upon producer
+(b) Primary consumers are out-number producers
+(c) Producers are more than primary consumers
+(d) Secondary consumers are the largest and most powerful
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Given below are two statements, one is labelled as Assertion (A) and other as Reason (R)
+Assertion (A) : Various components of an ecosystem are not interdependent.
+Reason (R) : Human activities have the impacts on the environment.
+Select the correct answer using the codes given below
+Codes :
+(a) Both (A) and (R) are true and (R) is correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014; U.P. Lower Sub. (Spl.) (Pre) 2003
+Which one of the following is the largest ecosystem in the world?
+(a) Ocean
+(b) Grasslands
+(c) Forest
+(d) Mountain
+@ans (a)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2013, 2018
+Which is the most stable ecosystem?
+(a) Marine (ocean)
+(b) Forest
+(c) Mountain
+(d) Desert
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2016
+Which of the following is an artificial ecosystem?
+(a) Rice field
+(b) Forest
+(c) Grassland
+(d) Lake
+@ans (a)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2021, 2020
+The cycling of elements in an ecosystem is called:
+(a) Chemical cycles
+(b) Biogeochemical cycles
+(c) Geological cycles
+(d) Geochemical cycles
+@ans (b)
+@end
+
+**Biogeochemical cycles** move elements through living things (bio), rocks and soil (geo) and chemical reactions. **Gaseous** cycles (carbon, nitrogen, oxygen) have their main store in the air. **Sedimentary** cycles (phosphorus, sulphur) have it in rocks.
+
+@section 1.5 | Ecological Balance
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following does not help to maintain ecological balance?
+(a) Deforestation
+(b) Afforestation
+(c) Rainwater Management
+(d) Biosphere Reserves
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which of the following is an act that disturbs the ecological balance?
+(a) Deforestation
+(b) Social forestry
+(c) Vanamahotsav
+(d) Afforestation
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which one of the following is not related to ecological balance?
+(a) Water management
+(b) Afforestation
+(c) Industrial Management
+(d) Wildlife protection
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Given below are two statements –
+Assertion (A) : Natural vegetation is the true index of climate.
+Reason (R) : Water-loving plants are found in a moist climate.
+In the context of the above, which one of the following is correct?
+Codes :
+(a) Both statements are true and (R) is the correct explanation of (A).
+(b) Both statements are true but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@section 1.6 | Succession and Niche
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which one of the following is the correct sequence of the phases of biotic succession?
+(a) Nudation, Migration, Ecesis, Reaction, Stabilization
+(b) Migration, Nudation, Ecesis, Reaction, Stabilization
+(c) Ecesis, Migration, Nudation, Reaction, Stabilization
+(d) Stabilization, Reaction, Nudation, Migration, Ecesis
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following is the correct sequence of phases of Biotic succession?
+(a) Ecesis - Migration - Reaction – Stabilisation
+(b) Ecesis - Migration - Stabilisation – Reaction
+(c) Migration-Reaction - Stabilisation - Ecesis
+(d) Migration-Ecesis- Reaction - Stabilisation
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+The entire sequence of communities that successively change in a particular area are called:
+(a) Ecological succession
+(b) Sere
+(c) Community dynamics
+(d) Pyramid of biomass
+@ans (b)
+@end
+
+@table
+Succession term | Meaning
+**Nudation** | A bare area is created (lava, landslide, abandoned field)
+**Migration (invasion)** | Seeds and spores arrive
+**Ecesis** | The arrivals germinate and establish themselves
+Aggregation / competition | Numbers build up and species compete
+**Reaction** | The organisms change the site (soil, shade, moisture)
+**Stabilisation** | A stable **climax community** is reached
+**Sere** | The whole sequence of communities; each stage is a **seral stage**
+Pioneer species | The first colonisers, e.g. **lichens** on bare rock
+Primary / secondary succession | On a site never vegetated before / on a disturbed site that still has soil
+Hydrosere / xerosere | Succession starting in water / on a dry surface
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+The concept of 'Ecological Transition' was first used by:
+(a) Elton
+(b) Bennett
+(c) Berkeley
+(d) Ratzel
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+With reference to ecological niche, which of the following statements is/are correct?
+1. It represents the range of conditions that it can tolerate the resources it utilizes and its functional role in ecological system.
+2. Each species has a distinct niche.
+Select the correct answer from the code given below:
+Code :
+(a) Both 1 and 2
+(b) Only 1
+(c) Neither 1 nor 2
+(d) Only 2
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Which of the following statements is not true about "ecological niche"?
+(a) Dominant species occupy extensive and broader ecological niche.
+(b) Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
+(c) Number of species becomes small in ecological niche, if resources are sufficient.
+(d) Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
+@ans (c)
+@end
+
+A **niche** is a species' role or "profession": the conditions it tolerates, the food and resources it uses, and when and where it is active. A **habitat** is its "address". By **Gause's competitive exclusion principle**, no two species can occupy exactly the same niche for long.
+
+@trap
+**Agenda 21 = 1992**, not 1995. **Brundtland = 1987**, *Our Common Future*. **Ecosystems are open** for energy, so "closed system" is the wrong option. Succession **starts with nudation**; if nudation is not among the options, it starts with migration. **Sere** is the whole sequence of communities, while "ecological succession" is the process.
+@end
+
+@heatmap
+
+@pattern
+This chapter is heavy on recent papers (about half the PYQs are from 2017-2025). Expect **assertion-reason** and **"which statement is correct"** questions on sustainable development, the ecosystem as an open system, succession and the niche. Book and author questions (Carson, Ehrlich, Adams) and the date order of environmental milestones also come up frequently.
+@end
+
+@next
+Likely next angles: **SDG India Index**, **LiFE** (Lifestyle for Environment) mission, **Green Credit Programme** and the relaunched **Ecomark**, the **Van (Sanrakshan Evam Samvardhan) Adhiniyam 2023**, Stockholm+50, the **Brundtland** definition reworded, and carrying capacity in **Himalayan towns** (Joshimath).
+@end

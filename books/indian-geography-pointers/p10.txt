@@ -1,0 +1,78 @@
+@chapter 10 | Natural Disasters
+@meta Built from 15 UPPSC questions (2000–2021). Focus: tsunami and cyclones, seismic zones, flood-prone areas, disaster bodies.
+
+@hot
+- **East coast** has more cyclones than the west, but **not** because of the NE trade winds (R not the explanation) {2003}
+- **Bihar** is the most flood-prone state; in UP the **eastern** region floods most {2000, 2012}
+- India has **4 seismic zones** (II to V); zone **V** is the most dangerous {2006, 2013, 2014}
+@end
+
+@section 10.1 | Tsunamis and Cyclones
+- Worst hit by the 2004 tsunami: **Coromandel coast** (Tamil Nadu) {2014}
+- Tsunami Warning Centre: **Hyderabad** (INCOIS) {2012}
+- **IMD** headquarters: **New Delhi** (est. 1875) {2012}
+- **East coast** is more cyclone-prone (A true; R true but not the reason) {2003}
+- Cyclone **Tauktae** formed in the **Arabian Sea** {2021}
+
+@table
+Cyclone | Year | Sea | Landfall
+Fani | 2019 | Bay of Bengal | Odisha
+Amphan | 2020 | Bay of Bengal | West Bengal
+Tauktae | 2021 | Arabian Sea | Gujarat
+Yaas | 2021 | Bay of Bengal | Odisha
+Biparjoy | 2023 | Arabian Sea | Kutch
+Michaung | 2023 | Bay of Bengal | Andhra Pradesh
+Remal | 2024 | Bay of Bengal | West Bengal
+Fengal | 2024 | Bay of Bengal | Puducherry
+@end
+
+@section 10.2 | Earthquakes and Seismic Zones
+- **Karnataka plateau** is **not** a high-seismic zone {2006}
+- India has **4 seismic zones** {2013}
+- City-zone pairs: Bhuj V, Srinagar V, Chennai III, Hyderabad II (three pairs wrong, *) {2014}
+- **Koyna** is becoming quake-prone because the dam sits on an **old fault** (reservoir-induced) {2001}
+
+@flow Seismic zones, highest risk to lowest
+Zone V (very high) | North-east, J&K, Himachal, Uttarakhand, Kutch, north Bihar, Andamans
+Zone IV (high) | Delhi, Himalayan foothills, most of the Ganga plain and western UP
+Zone III (moderate) | Kerala, Goa, Mumbai, Chennai, central India
+Zone II (low) | Most of the Peninsula: Karnataka, Hyderabad
+@end
+
+@trap
+- **Zone I no longer exists**; zone II is the lowest. A Peninsular city like Hyderabad is never zone IV or V.
+@end
+
+@section 10.3 | Landslides and Floods
+- Himalayan **landslides** have increased because of **large-scale mining** (R explains A) {2003}
+- Most flood-prone state: **Bihar** {2000}
+- Most flood-hit part of UP: the **eastern** region {2012}
+- State facing the most natural disasters among the options: **Odisha** {2002}
+- True: damage is worst in **developing** countries; **Bhopal** gas tragedy was man-made; **mangroves** reduce cyclone damage (not "India is disaster-free") {2018}
+
+@section 10.4 | Disaster Management Bodies
+- India's first disaster management training institute: **Latur** (Maharashtra) {2004}
+
+@table
+Body | Year | Role
+NDMA | 2005 | Policy; chaired by the PM
+NDRF | 2006 | Rescue battalions
+NIDM | 1995 | Training, New Delhi
+INCOIS | 2007 | Tsunami warning, Hyderabad
+IMD | 1875 | Weather and cyclone warning
+@end
+
+@up **Eastern UP** (Gorakhpur, Bahraich, Basti, Kushinagar) floods most, from the **Ghaghara, Rapti and Gandak** rising in Nepal. Western UP and **Delhi-NCR** lie in seismic **zone IV**; the Tarai belt near Nepal is high-risk too.
+
+@last
+- 2004 tsunami: **Coromandel coast**
+- Tsunami warning: **Hyderabad (INCOIS)**; IMD: **New Delhi**
+- East coast = more cyclones; **Tauktae** = Arabian Sea
+- **4 zones** (II-V); V most dangerous; Karnataka plateau is low
+- **Koyna** quakes: reservoir on an old fault
+- Himalayan landslides: **mining**
+- **Bihar** most flood-prone; **eastern UP** floods most
+- **Odisha** faces most disasters
+- Mangroves cut cyclone damage
+- First DM training institute: **Latur**
+@end

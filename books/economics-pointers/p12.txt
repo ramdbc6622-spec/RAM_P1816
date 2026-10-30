@@ -1,0 +1,105 @@
+@chapter 12 | Capital Market, Insurance and Market Basics
+@meta Built from 48 UPPSC questions (1996–2025). Focus: IRDAI and insurance, SEBI and mutual funds, Sensex and indices, market terms, credit rating agencies, market basics.
+
+@hot
+- **Sensex** = **30** companies; **Greenex** = **25** {2005, 2014, 2015, 2021}
+- **Gilt-edged** = government securities market {2002, 2004, 2008}
+- **Insider trading** = share market offence {2007, 2009, 2017}
+- **Broker** is not a speculator {2004, 2017}
+- **IRDAI** regulates insurance; **SEBI** regulates mutual funds {2002, 2005, 2007, 2013}
+@end
+
+@section 12.1 | Insurance and Savings
+- Order: **LIC (1956), UTI (1964), IDBI (1964), SEBI (1988/92)** (no exact code, *) {2004}
+- Insurance regulator: **IRDA**; IRDAI regulates **insurance companies** {2002, 2005, 2007}
+- **Actuaries**: **insurance** {2008}
+- Indemnity does not apply to **life insurance** {2009}
+- Provident fund: **contractual savings** {1998}
+- Lost most importance: **pension funds** (per key) {2010}
+
+@section 12.2 | SEBI and Exchanges
+- Mutual funds regulated by **SEBI** {2013}
+- **SEBI Act**: **1992** {2016}
+- Private mutual funds: **1993** {2011}
+- UTI's aims: **all** listed {2004}
+- NSE promoters: **all** listed (IDBI, SBI, LIC, GIC) {2013}
+- Sensex: **30** blue-chip companies {2005, 2021}
+- **BSE Greenex**: **25** companies {2014, 2015}
+
+@table
+Index | Market
+Sensex (30) | BSE, Mumbai
+Nifty 50 | NSE
+Nikkei | Tokyo
+Dow Jones, Nasdaq | New York
+FTSE | London
+Hang Seng | Hong Kong
+Brent | Crude oil price
+@end
+
+@section 12.3 | Market Terms
+- **Dalal Street**: **Mumbai** {2012}
+- **Bull and bear**: **share market** {2002}
+- Not a speculator: **broker** {2004, 2017}
+- **Insider trading**: share market {2007, 2009, 2017}
+- Capital market: **share market** {2008}
+- Not a money-market participant (key): **RBI** {1999}
+- Commercial paper: credit for **corporates** {2004}
+- **Blue chip**: shares with steady high returns {2008}
+- **Gilt-edged**: **government securities** {2002, 2004, 2008}
+- Irrelevant to share market: **SAPs** {2005}
+- **Nikkei**: **Tokyo** share index {2008}
+- **Brent**: **crude oil prices** {2021}
+- Market cap above GDP (2007): India; varies now (*) {2009}
+- Dividend declared on **subscribed capital** (per key) {1996}
+- Different ownership: **debenture** (a loan, not ownership) {2011}
+
+@section 12.4 | Credit Rating
+- Indian rating agencies: **all** listed {2008}
+- Order: **CRISIL (1987), ICRA (1991), CARE (1993)** {2019}
+- CRISIL: rates **company creditworthiness** {2008}
+
+@flow Market players
+Bull | Expects rise; buys
+Bear | Expects fall; sells
+Stag | Buys IPOs to sell at a premium
+Broker | Agent; not a speculator
+@end
+
+@section 12.5 | Market Basics
+- Market tendency leads to **consumerism** {2013}
+- **Buyer's market**: supply exceeds demand {2010}
+- Vegetables: **very short-term** market {2013}
+- Total product constant means marginal product **zero** {2013}
+- Fixed demand, more supply: price **falls** {2016}
+- Businessmen profit from price rise; buyers cut needs (both true, R not the explanation) {2002, 2003}
+- Profit-volume ratio improved by **all** listed means {2017}
+- **Shadow prices** for public goods: **J. Tinbergen** {2010}
+- Can bargain below MRP (true); MRP must be charged (false) {2025}
+- Trade covers **demand and supply** (only 1) {2021}
+- **Merchandise turnover-COGS/average stock, current ratio-CA/CL, acid test-liquid assets/CL, capital employed ratio-NPBIT/total assets** {2023}
+- A condition is essential (true); breach gives only damages (false, it allows repudiation) {2023}
+- Commerce removes exchange hurdles and delivers goods (both) {2021}
+- Accounting is the language of business; gives all needed information (R explains A) {2023}
+
+@trap
+- Life insurance has **no indemnity**.
+- **Sensex 30**; Greenex **25**; Nifty **50**.
+- Order: **CRISIL, ICRA, CARE**.
+- **Buyer's market** = supply > demand.
+@end
+
+@up UP links: SEBI-registered investors are growing fastest in UP; **LIC** (1956) and the **UP State** insurance schemes like the **Mukhyamantri Krishak Durghatna Kalyan Yojana** sit alongside IRDAI rules.
+
+@last
+- LIC 1956; UTI 1964; SEBI 1988 (Act 1992)
+- IRDAI = insurance (Hyderabad)
+- No indemnity in life insurance
+- SEBI = mutual funds; private MFs 1993
+- Sensex 30; Greenex 25; Nikkei Tokyo; Brent oil
+- Bull buys; bear sells; broker not speculator
+- Gilt-edged = govt securities; CP = corporates
+- CRISIL 1987, ICRA 1991, CARE 1993
+- Buyer's market: supply > demand
+- Shadow prices: Tinbergen
+@end

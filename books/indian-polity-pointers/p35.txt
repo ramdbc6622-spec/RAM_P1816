@@ -1,0 +1,80 @@
+@chapter 35 | Political Parties
+@meta Built from 21 UPPSC questions (1997–2023). Focus: national and state party recognition, founding years, trade-union links, anti-defection law.
+
+@hot
+- **Anti-defection** (52nd Amendment, Tenth Schedule): passed **15 February 1985**; parties first got constitutional recognition in **1985** {2008, 2010, 2010}
+- **National party**: recognised as a State party in **four** States {2000}
+- State party: **8%** votes alone, or 6% with seats {2014}
+- **CPI** lost national status in **2023** (now a State party) {2008, 2009}
+@end
+
+@section 35.1 | Recognition
+- National party: State party in at least **four** States {2000}
+- State party: **8%** vote alone (key's 6% needs seats) {2014}
+- Regional party: **Akali Dal** (CPI also now) {2008}
+- Not a national party: **TDP** (and CPI now) {2009}
+
+@flow Becoming a National Party (any one)
+Recognised State party | In four or more States
+LS seats | 2% of LS seats from three States
+Vote + seats | 6% votes in four States + 4 LS seats
+@end
+
+@section 35.2 | Founding
+- "National" in INC reflected **reaction against British rule** {2009}
+- **Independent Labour Party**: **B.R. Ambedkar** (1936) {2009}
+- Order: **TDP (1982), BSP (1984), SP (1992), TMC (1998)** {2022}
+- **CPI-1920 (Tashkent), CPM-1964, AIADMK-1972, TDP-1982** {2011}
+
+@section 35.3 | Trade Unions
+- **BMS-BJP, INTUC-Congress, AITUC-CPI**; UTUC is RSP's (CITU is CPI(M)'s) (*) {2022}
+
+@table
+Union | Party
+INTUC | Congress
+AITUC | CPI
+CITU | CPI(M)
+BMS | BJP (Sangh Parivar)
+HMS | Socialists
+UTUC | RSP
+@end
+
+@section 35.4 | Elections
+- 1999 seats: **TDP-30** wrong (29) {2000}
+- Lok Sabha 2024: **7 phases** {2023}
+
+@section 35.5 | Party History
+- First communist government: **Kerala, 1957** (E.M.S. Namboodiripad) {2014, ?}
+- **Kamaraj Plan** (1963): **revitalise the Congress** {1997}
+
+@section 35.6 | Party System
+- Coalition agenda gives guidance; but not in detail (both true, R not the explanation) {1998}
+- No fixed party system; many parties (both true, R not the explanation) {2000, 2004, 2004}
+- Written Constitution; regional parties show aspirations (both true, R not the explanation) {2015}
+- Inner-party democracy: **periodic internal elections** {2004}
+
+@section 35.7 | Anti-Defection
+- Bill passed: **15 February 1985** {2008}
+- Not covered: **large defections in spells** {2010}
+- Parties got constitutional recognition: **1985** {2010}
+
+@trap
+- **CITU** = CPI(M); **UTUC** = RSP.
+- 6% vote alone never gives State party status.
+- **Kihoto Hollohan** (1992) struck down only Para 7; Speaker's decision is reviewable.
+@end
+
+@up UP-born parties: **Samajwadi Party** (Mulayam Singh Yadav, 1992) and **BSP** (Kanshi Ram, 1984; national party). CPI was founded at **Kanpur** in 1925.
+
+@last
+- National party: State party in **4** States
+- State party: **8%** votes, or 6% + seats
+- CPI lost national status **2023**
+- Independent Labour Party: **Ambedkar**
+- CPI 1920 (Tashkent)/1925 (Kanpur); CPM **1964**
+- TDP 1982, BSP 1984, SP 1992, TMC 1998
+- First communist govt: **Kerala 1957**
+- Kamaraj Plan **1963**: revive Congress
+- Anti-defection: **15 Feb 1985**, 52nd
+- CITU = CPI(M); AITUC = CPI
+@end

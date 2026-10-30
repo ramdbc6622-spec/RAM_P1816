@@ -1,0 +1,636 @@
+@chapter 23 | Population II: Density and Literacy
+
+@intro
+The second demography chapter covers **population density** (national, state and UT patterns, highest and lowest) and **literacy** (effective literacy, decadal rise, leading and lagging states, districts and UTs, male-female gaps, and UP's figures). All data are from **Census 2011** unless another census is named. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 23.1 | Population Density
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following two statements and select the correct answer from the code given below :
+Assertion (A) : Kerala has a very high population density.
+Reason (R) : Kerala has a very high rate of literacy.
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2014
+Population density in India :
+(a) has steadily increased
+(b) has remained almost constant
+(c) has decreased slightly
+(d) first increased and then decreased after 1991
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per Census 2011 of India, which among the following States recorded highest density of population?
+(a) Uttar Pradesh
+(b) Bihar
+(c) Punjab
+(d) Tamil Nadu
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+Which of the following states of India has the highest density of population ?
+(a) Uttar Pradesh
+(b) Bihar
+(c) Madhya Pradesh
+(d) Punjab
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2021
+Which one of the following State has the lowest density of population as per the Census of 2011?
+(a) Himachal Pradesh
+(b) Arunachal Pradesh
+(c) West Bengal
+(d) Mizoram
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2012, 2016; U.P.P.C.S. (Pre) 2016; U.P. R.O./A.R.O. (Mains) 2014
+According to Census 2011, the State having the highest density of population is
+@ans Bihar
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019; U.P.P.C.S. (Mains) 2009, 2010; U.P. R.O./A.R.O. (Pre) 2023
+Which one of the following is arranged in correct descending order in terms of population density as per 2011 Census?
+(a) West Bengal, Bihar, Kerala, Uttar Pradesh
+(b) Bihar, Uttar Pradesh, West Bengal, Kerala
+(c) West Bengal, Uttar Pradesh, Bihar, Kerala
+(d) Bihar, West Bengal, Kerala, Uttar Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2000
+Among the BIMARU States of India, the most densely populated state is :
+(a) Bihar
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Arrange the following States in the ascending order of their population density :
+1. Punjab
+2. Odisha
+3. Tripura
+4. Andhra Pradesh
+Select the correct answer from the codes given below:
+(a) 2, 4, 3, 1
+(b) 4, 2, 3, 1
+(c) 4, 1, 3, 2
+(d) 2, 3, 4, 1
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2006
+According to the 2001 Census, the correct ascending order of States with minimum population density of India is:
+(a) Arunachal Pradesh, Mizoram, Nagaland and Sikkim
+(b) Arunachal Pradesh, Nagaland, Mizoram and Sikkim
+(c) Arunachal Pradesh, Mizoram, Sikkim and Nagaland
+(d) Mizoram, Arunachal Pradesh, Sikkim and Nagaland
+@ans (c)
+@end
+
+
+@one U.P.P.C.S. (Spl.) (Mains) 2004
+Which one is the most densely populated State?
+@ans Bihar
+@end
+
+@one U.P.P.C.S.(Pre) 2001
+Which one of the State of India is the least densely populated
+@ans Arunachal Pradesh
+@end
+
+@pyq U.P.P.C.S. (Pre) 1991
+The most sparse State in India in terms of population density is :
+(a) Kerala
+(b) Bihar
+(c) Rajasthan
+(d) Jammu and Kashmir
+@ans (d)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+In which of the following States, the density of population is less than 100 according to the provisional data of 2011 Census ?
+(a) Nagaland
+(b) Meghalaya
+(c) Mizoram
+(d) Manipur
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which of the following Union Territories of India has the highest population density as per the Census of 2011?
+(a) Puducherry
+(b) Lakshadweep
+(c) Daman and Diu
+(d) Dadra and Nagar Haveli
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2017
+According to Census 2011, which Union Territory had the lowest population density?
+(a) Andaman and Nicobar Islands
+(b) Lakshadweep
+(c) Daman and Diu
+(d) Dadra and Nagar Haveli
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which of the following States has lowest population density in 2011 ?
+(a) Rajasthan
+(b) Madhya Pradesh
+(c) Gujarat
+(d) Karnataka
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Mains) 2010
+The correct ascending order in relation to the population density of following States according to the Census 2011 is :
+(a) Assam, Haryana, Gujarat, Karnataka
+(b) Assam, Gujarat, Karnataka, Haryana
+(c) Haryana, Assam, Gujarat, Karnataka
+(d) Gujarat, Karnataka, Assam, Haryana
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following statements is true ?
+(a) As per 2001 Census the population density of India is 354 persons/Km2.
+(b) Bihar is the most densely populated State of India.
+(c) Uttar Pradesh has more than twice the population density of India.
+(d) Sikkim is the least densely populated State of the country.
+@ans (c)
+@end
+
+
+@table
+Density (persons per sq km, 2011) | Figure
+**India** | **382** (325 in 2001; 117 in 1951); it has **risen every census**
+**Highest state** | **Bihar (1,106)**, **West Bengal (1,028)**, **Kerala (860)**, **UP (829)**
+**Lowest state** | **Arunachal Pradesh (17)**, Mizoram (52), Sikkim (86); Mizoram is the only one of Mizoram-Nagaland-Meghalaya-Manipur below 100
+Highest UT | **Delhi (11,320)**, **Chandigarh (9,258)**; among the smaller UTs **Puducherry** (2,547)
+Lowest UT | **Andaman and Nicobar (46)**
+Big-state lows | **Rajasthan (200)**, MP (236), Gujarat (308), Karnataka (319)
+1991 (Q60 options) | **Jammu and Kashmir** was sparsest among Kerala, Bihar, Rajasthan and J&K (no census was held in J&K in 1991; figures were projected)
+@end
+
+**Kerala** is dense because of its fertile coastal plain and long settlement, not because of literacy, so the Reason does not explain the Assertion. UP's density is more than **twice** India's average.
+
+@section 23.2 | Literacy in India
+
+@pyq U.P. R.O./A.R.O. (Pre) 2014
+Effective literacy rate in India is calculated :
+(a) From the total population
+(b) From the population of children
+(c) From the population of adults
+(d) From the population above the age of 7
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+The highest percentage increase in India's literacy has been observed during :
+(a) 1961-71
+(b) 1971-81
+(c) 1981-91
+(d) 1991-2001
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004, 2012
+As per the provisional data of Census 2011, the literacy rate in India is :
+(a) 82.14 %
+(b) 74.04 %
+(c) 65.46 %
+(d) 75.14 %
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+According to the provisional data of Census 2011 the district having the highest literacy rate in India is:
+(a) Aizawl (Mizoram)
+(b) Bidar (Karnataka)
+(c) Malappuram (Kerala)
+(d) Serchhip (Mizoram)
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2008
+The first fully literate district, outside the State of Kerala, is :
+(a) Chengalpattu, Tamil Nadu
+(b) Mandya, Karnataka
+(c) Nasik, Maharashtra
+(d) Bardhaman, West Bengal
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011; U.P.P.C.S (Mains) 2016
+Which one of the following States of India has recorded the maximum increase in literacy rate during 20012011?
+(a) Bihar
+(b) Gujarat
+(c) Rajasthan
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per Census 2011, which among the following States recorded highest literacy?
+(a) Manipur
+(b) Punjab
+(c) Assam
+(d) Madhya Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+The State which ranks next to Kerala in terms of female literacy in India according to Census 2011 :
+(a) Tripura
+(b) Goa
+(c) Mizoram
+(d) Meghalaya
+@ans (c)
+@end
+
+
+@table
+Literacy fact (2011) | Figure
+Effective literacy | Counted for people **aged 7 and above**
+**India** | **74.04%** (male **82.14%**, female **65.46%**); gap **16.68** points
+Biggest decadal rise | **1991-2001** (12.6 points)
+**Highest state** | **Kerala (94.0%)**, **Mizoram (91.3%)**, Goa (88.7%), Tripura (87.2%), Himachal (82.8%)
+**Lowest state** | **Bihar (61.8%)**, Arunachal (65.4%), Rajasthan (66.1%), Jharkhand (66.4%)
+Biggest rise 2001-11 | **Bihar** (about 14.8 points)
+Highest district | **Serchhip (Mizoram)** (provisional); Aizawl also very high
+First fully literate district outside Kerala | **Bardhaman** (West Bengal)
+Highest UT | **Lakshadweep (91.8%)**; lowest UT **Dadra and Nagar Haveli (76.2%)**
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017; U.P.P.C.S. (Mains) 2017
+As per Census 2011, which of the following States is second in India in its literacy rate and the level of urbanization?
+(a) Mizoram
+(b) Maharashtra
+(c) Tamil Nadu
+(d) Tripura
+@ans (a)
+@note **Mizoram** is second in **literacy (91.3%)** after Kerala and second in **urbanisation (52.1%)** after Goa (62.2%).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2008; U.P.P.C.S. (Mains) 2006
+According to Census 2001, which one of the following States has the highest literacy?
+(a) Mizoram
+(b) Andhra Pradesh
+(c) Punjab
+(d) West Bengal
+@ans (a)
+@note In both 2001 and 2011 **Mizoram** had the highest literacy after Kerala.
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2004
+Which one among the North-East States named below ranked highest by literacy rate in the 2001 Census?
+@ans Mizoram
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Arrange the following States in the descending order of literacy as per Census Report of 2001 and select the correct answer from the codes given at the end:
+1. Kerala
+2. Manipur
+3. Tamil Nadu
+4. Himachal Pradesh
+Codes:
+(a) 1, 4, 3, 2
+(b) 4, 1, 3, 2
+(c) 2, 4, 1, 3
+(d) 1, 2, 4, 3
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Arrange the following States of India in the descending order of their literacy and select the correct answer using the codes given below :
+1. Goa
+2. Kerala
+3. Maharashtra
+4. Mizoram
+Codes :
+(a) 1, 2, 4, 3
+(b) 2, 4, 1, 3
+(c) 4, 3, 1, 2
+(d) 2, 4, 3, 1
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+Based on the provisional data of Census 2011 the correct ascending order of the four States of India having the lowest literacy rate is :
+(a) Bihar, Rajasthan, Arunachal Pradesh, Jharkhand
+(b) Arunachal Pradesh, Bihar, Jharkhand, Rajasthan
+(c) Bihar, Arunachal Pradesh, Rajasthan, Jharkhand
+(d) Rajasthan, Bihar, Jharkhand, Arunachal Pradesh
+@ans (c)
+@note **Bihar (61.8%) < Arunachal Pradesh (65.4%) < Rajasthan (66.1%) < Jharkhand (66.4%)**, the same in provisional and final data.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+As per the 2001 Census, the correct ascending order of the following States in terms of literacy is :
+(a) Bihar, U.P., Rajasthan, M.P.
+(b) U.P., Bihar, M.P., Rajasthan
+(c) Rajasthan, M.P., Bihar, U.P.
+(d) M.P., Bihar, Rajasthan, U.P.
+@ans (a)
+@note In 2001: **Bihar (47.0%) < UP (56.3%) < Rajasthan (60.4%) < MP (63.7%)**.
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2013
+According to the Census 2001, which of the following Union Territories of India had the highest literacy rate?
+(a) Delhi
+(b) Chandigarh
+(c) Lakshadweep
+(d) Pondicherry
+@ans (c)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+Arrange the following States in descending order in terms of literacy percentage as per the provisional data of 2011 Census and select the correct answer from the codes given below :
+1. Nagaland
+2. Himachal Pradesh
+3. Sikkim
+4. Tripura
+Codes :
+(a) 1, 2, 3, 4
+(b) 4, 3, 2, 1
+(c) 4, 2, 3, 1
+(d) 2, 4, 1, 3
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+According to the provisional data of Census 2011 the gap between male literacy rate and female literacy rate in India is that of :
+(a) 16.38 percent
+(b) 16.68 percent
+(c) 17.37 percent
+(d) 17.68 percent
+@ans (b)
+@note Male literacy **82.14%** minus female literacy **65.46%** = **16.68** percentage points (21.59 in 2001).
+@end
+
+@one U.P.P.C.S. (Mains) 2011
+As per the provisional data of Census 2011 female literacy in the country is about
+@ans 65.5%
+@end
+
+@section 23.3 | Female Literacy and Gaps
+
+@pyq U.P.P.C.S. (Mains) 2016; U.P. R.O./A.R.O. (Mains) 2013
+Which among the following States has the smallest gap in percentage rates between male and female literacy as per 2011 Census?
+(a) Mizoram
+(b) Kerala
+(c) Meghalaya
+(d) Nagaland
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following States has the highest difference between literacy rates of male and female according to the Census 2011?
+(a) Kerala
+(b) Uttar Pradesh
+(c) Mizoram
+(d) Gujarat
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which of the following statements, according to 2011 Census Provisional Data, are correct ? Use the code given below to select the correct answer :
+1. The highest literacy rate among males in the UTs is in Lakshadweep.
+2. The highest literacy rate among the males in the States is in Mizoram.
+3. The credit for highest literacy rate in the females goes to Lakshadweep among UTs.
+4. The State having highest literacy rate among females is Kerala.
+Code :
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) All the four
+@ans (*)
+@note Statements **1, 3 and 4** are correct (Lakshadweep leads UTs for both sexes; Kerala leads states for both), but statement 2 is wrong because **Kerala**, not Mizoram, has the highest male literacy. No code gives 1, 3 and 4, so the source marks it (*).
+@end
+
+
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one among the following States has the highest female literacy rate as per the Census 2001?
+(a) Chhattisgarh
+(b) Madhya Pradesh
+(c) Odisha
+(d) Rajasthan
+@ans (a)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Spl.) (Pre) 2010
+The States which have the highest and the lowest female literacy rate as per the provisional data of 2011 Census are respectively :
+(a) Kerala and Bihar
+(b) Kerala and Jharkhand
+(c) Kerala and Rajasthan
+(d) Kerala and Uttar Pradesh
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2013
+Which of the following States had the highest female literacy rate in the year 2001?
+(a) Tamil Nadu
+(b) Maharashtra
+(c) Mizoram
+(d) Chandigarh
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2002, 2003
+As per Census 2001, which of the following States has the lowest female literacy?
+(a) Bihar
+(b) Jharkhand
+(c) Chhattisgarh
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+As per Census 2011, which among the following Indian States recorded lowest female literacy?
+(a) Uttar Pradesh
+(b) Rajasthan
+(c) Kerala
+(d) Andhra Pradesh
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following States has the lowest female literacy rate, as per the Census 2011 provisional data?
+(a) Rajasthan
+(b) Bihar
+(c) Tamil Nadu
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2013
+Among the following Union Territories the female literacy is highest according to Census 2011 :
+(a) Puducherry
+(b) Chandigarh
+(c) Daman and Diu
+(d) Lakshadweep
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+According to the provisional data of Census 2011, which one of the following States has the highest literacy rate :
+(a) Andhra Pradesh
+(b) Madhya Pradesh
+(c) Uttarakhand
+(d) Uttar Pradesh
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010; U.P.P.C.S. (Pre) 2015
+Which of the following States of India has lowest literacy rate, as per provisional data of Census 2011?
+(a) Arunachal Pradesh
+(b) Bihar
+(c) Rajasthan
+(d) Jharkhand
+@ans (b)
+@end
+
+@pyq U.P.R.D./A.R.O. (Pre) (Re-Exam) 2023
+According to Census 2011, among the following Union Territories of India, where was literacy the highest?
+(a) Andaman and Nicobar Islands
+(b) Chandigarh
+(c) Daman and Diu
+(d) Lakshadweep
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2017
+Which Union Territory of India has the lowest literacy rate as per the Census of 2011?
+(a) Chandigarh
+(b) Dadra and Nagar Haveli
+(c) Daman and Diu
+(d) Lakshadweep
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2010
+Which one of the following States of India has the highest rural literacy rate?
+(a) Maharashtra
+(b) Manipur
+(c) Goa
+(d) Gujarat
+@ans (c)
+@end
+
+
+@table
+Female literacy (2011) | Figure
+**Highest state** | **Kerala (92.1%)**, **Mizoram (89.3%)**, Goa (84.7%)
+**Lowest state** | **Rajasthan (52.1%)**, Bihar (51.5% final; Rajasthan lowest in provisional data)
+Highest UT | **Lakshadweep**
+Smallest male-female gap | **Meghalaya** (3.1 points), Mizoram, Kerala
+Largest gap among options | **Rajasthan** (27.1), then UP (20.1)
+2001 | Highest **Kerala**, then **Mizoram**; lowest **Bihar** (33.1%)
+Highest rural literacy (2001) | **Goa** among the options (Kerala overall)
+@end
+
+@section 23.4 | Literacy in Uttar Pradesh
+
+@pyq U.P.P.C.S. (Pre) (Re-Exam) 2015
+As per Census 2011, the literacy rate of Uttar Pradesh is :
+(a) 74.01%
+(b) 72.60%
+(c) 69.72%
+(d) 70.60%
+@ans (*)
+@note UP's literacy in 2011 was **67.7%** (male 77.3%, female 57.2%; provisional 69.72%). Since the final figure is not among the options, the source marks it (*).
+@end
+
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+According to 2001 Census, what is the rank of Uttar Pradesh among the States/ Union Territories in literacy rate?
+(a) 29
+(b) 30
+(c) 31
+(d) 32
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012, 2017
+According to Census 2011, the average literacy rate of the following four districts in correct descending order is :
+(a) Gautam Buddha Nagar, Kanpur Nagar, Auraiya, Ghaziabad
+(b) Gautam Buddha Nagar, Kanpur Nagar, Auraiya, Etawah
+(c) Ghaziabad, Gautam Buddha Nagar, Auraiya, Kanpur Nagar
+(d) Ghaziabad, Kanpur Nagar, Auraiya, Gautam Buddha Nagar
+@ans (b)
+@end
+
+
+@one U.P.P.C.S. (Mains) 2012
+As per Census 2011, the most literate district of U.P. is
+@ans Gautam Buddha Nagar
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+According to 2011 Census data, which among the following districts in Uttar Pradesh has the lowest female literacy ?
+(a) Ballia
+(b) Deoria
+(c) Gorakhpur
+(d) Rampur
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+According to Census 2011, which of the following statements about Uttar Pradesh are correct ?
+1. The district having lowest literacy rate is Shravasti.
+2. The district having the highest sex-ratio is Deoria.
+3. The district having the lowest density of population is Lalitpur.
+4. On the basis of Nagar Nigam area population, the most populous city in the State is Kanpur.
+Select the correct answer using the code given below:
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 4
+(d) 3 and 4
+@ans (b)
+@end
+
+
+@table
+UP literacy (2011) | Figure
+State | **67.7%** (31st of 35 states and UTs in 2001)
+Highest district | **Gautam Buddha Nagar (80.1%)**, Kanpur Nagar, Auraiya, Etawah
+Lowest district | **Shravasti (46.7%)**
+Lowest female literacy | **Shravasti** overall; **Rampur** among Ballia, Deoria, Gorakhpur and Rampur
+Highest sex ratio | **Jaunpur** (1,024), not Deoria
+Lowest density | **Lalitpur** (242)
+Most populous city (municipal) | **Lucknow**, not Kanpur
+@end
+
+@up UP link: UP's density (**829**) is over twice the national figure, and **Ghaziabad** (3,971) and **Varanasi** are its densest districts, with **Lalitpur** the sparsest. Literacy rose from 56.3% (2001) to 67.7% (2011), but the **20-point gender gap** remains one of India's widest.
+
+@trap
+**India's density 382 (2011); rose every census.** **Bihar densest, Arunachal sparsest; Delhi densest UT, Andaman sparsest.** **Literacy counted from age 7.** **India 74.04% (M 82.14, F 65.46; gap 16.68).** **Kerala > Mizoram.** **Bihar lowest; Lakshadweep top UT.** **Biggest literacy jump 1991-2001.** **Meghalaya smallest gender gap.** **UP 67.7%; best G.B. Nagar, worst Shravasti.** **Jaunpur highest UP sex ratio; Lalitpur lowest density.**
+@end
+
+@heatmap
+
+@pattern
+Density and literacy orders are asked almost every year from 2001 to 2023. Most are **Census 2011 rank questions** in "arrange in order" or "highest/lowest" form, plus UP district facts in the Mains-style papers.
+@end
+
+@next
+Likely next angles: **Census 2027** literacy and density results, **PLFS literacy** estimates (about 80%), the **ULLAS** adult literacy campaign (Mizoram, Goa, Tripura declared fully literate in 2024-25), and UP's district rankings.
+@end

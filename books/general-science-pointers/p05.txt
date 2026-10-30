@@ -1,0 +1,118 @@
+@chapter 5 | Light and Optics
+@meta Built from 60 UPPSC questions (1990–2023). Focus: total internal reflection, scattering and red signals, mirrors in vehicles, myopia and hypermetropia, the eye's sensitivity and the speed of light.
+
+@hot
+- **Total internal reflection**: **mirage, diamond's sparkle, optical fibre** {1995, 1996, 2008, 2010, 2012, 2012, 2013, 2014, 2015, 2017, ?}
+- **Scattering**: blue sky, red sunset; **red** for danger as it scatters **least** {2007, 2013, ?, ?, ?, ?}
+- **Convex mirror** for rear view; **concave mirror** for searchlights and headlights {1991, 2009, 2010, 2011, 2015, 2023}
+- **Myopia** is corrected with a **concave lens**; hypermetropia with a **convex** lens {2002, 2008, 2010, 2011, 2013}
+- Air bubble in water = **concave lens**; parallel mirrors give **infinite** images {1994, 2002, 2008, 2010, 2013, 2013, 2015}
+@end
+
+@section 5.1 | Nature and Speed of Light
+- Visible light: about **390-780 nm** {2005}
+- Eye most sensitive at **5500 Å** (yellow-green) {2008, 2014}
+- Not correct: eye is most sensitive to **red** {2021}
+- Light seems to go straight: its **wavelength is very small** {2014}
+- Highest velocity: **light**; light is faster than sound {2002, 2018}
+- Light is fastest in a **vacuum** {2014}
+- Sunlight reaches Earth in about **8 minutes** (8 min 20 s) {2006}
+- Not luminous: **Moon** (it reflects sunlight) {2023}
+
+@section 5.2 | Refraction and Total Internal Reflection
+- Unchanged when light changes medium: **frequency** {2003}
+- Pool looks shallower: **refraction** {2023}
+- Sun and Moon look oval near the horizon: **refraction** {2008}
+- Optical fibre: **total internal reflection** {2008, 2010, ?}
+- Optical fibre: high capacity, low power, **no radio interference** (1, 2, 3) {2001, 2002, 2003}
+- **Mirage**: **total internal reflection** {1995, 2012, 2013, 2014}
+- Diamond shines: **total internal reflection** {1996, 2012, 2015, 2017}
+- 3-D pictures: **holography** {1990, 2008}
+
+@table
+Phenomenon | Cause
+Mirage, diamond sparkle, optical fibre | Total internal reflection
+Shallow-looking pool, bent stick, twinkling stars | Refraction
+Rainbow, prism spectrum | Dispersion (with refraction and reflection)
+Blue sky, red sunset | Scattering
+Colours of soap film and oil | Interference
+@end
+
+@section 5.3 | Colour, Scattering and Dispersion
+- Eclipse retinal burn: key says **ultraviolet** (visible blue light and infrared also harm) {2003}
+- A star's colour shows its **temperature** {2003, 2005, 2008}
+- Photosynthesis with invisible light: some **bacteria** {2013}
+- Photosynthesis: **light to chemical** energy {1998}
+- Diffusion of light in air: **dust particles** {2021}
+- Colour is set by **wavelength** {2012, 2014}
+- Shortest wavelength in the visible spectrum: **violet** {?}
+- Least deviated by a prism: **red** {2016}
+- Red traffic signals: **longest wavelength** {2013}
+- Red for danger: it **scatters least** (A and R true, R explains A) {2007, ?}
+- Blue sky and red sunset: **scattering** (short wavelengths scatter more) {?, ?, ?}
+- Sky seen by an astronaut or from great height: **black** {2005, ?}
+- Colours in sunlight: **7** {2015}
+- Grass looks green: it **reflects green** light {2017}
+- Expanding universe: **Doppler effect** (red shift) {2010}
+- Black hole unseen: light cannot escape its gravity (A and R true, R explains A) {2001}
+- Middle colour of a rainbow: **green**; extremes: **violet and red** {2012, ?}
+
+@flow VIBGYOR: wavelength and scattering
+Violet | Shortest wavelength; deviates and scatters most
+Blue, indigo | Scattered most in air: blue sky
+Green | Middle of the rainbow
+Yellow-green | Eye most sensitive (555 nm)
+Red | Longest wavelength; scatters least: danger signals
+@end
+
+@section 5.4 | Mirrors and Lenses
+- Air bubble in water acts as a **concave lens** {2002, 2008, 2010, 2013}
+- Images between two parallel mirrors: **infinite** {1994, 2013, 2015}
+- Mirror to see your full image: **half your height**; for 1.50 m, **0.75 m** {2010, 2011, 2014, 2014}
+- Radius of curvature of a plane mirror: **infinity** {2015}
+- Not correct: doctors use a **convex** mirror for ENT checks (they use **concave**) {2010}
+- Searchlight and car headlight: **concave mirror** {2009, 2023}
+- Rear-view mirror: **convex mirror** {1991, 2010, 2011, 2015}
+- Power of sunglasses: **0 dioptre** {1995}
+- Astronomical telescope image: **virtual and magnified** {2013}
+- Equal convex and concave lenses together: a **plane glass sheet** {2017}
+
+@table
+Mirror / lens | Use
+Concave mirror | Searchlight, headlight, shaving, dentist and ENT, solar cooker
+Convex mirror | Rear view, street-corner safety
+Plane mirror | Periscope, kaleidoscope
+Concave lens | Myopia
+Convex lens | Hypermetropia, magnifier, camera
+Cylindrical lens | Astigmatism
+@end
+
+@section 5.5 | The Human Eye
+- Image on the retina: **smaller and inverted** (real) {1995, 2004}
+- Retina is like a camera's **film** {2011}
+- Eye focuses by **changing the lens's convexity** (accommodation) {2014}
+- Least distance of distinct vision: **25 cm** {2008}
+- Not true of hypermetropia: corrected by a **concave** lens (it needs convex) {2010}
+- Myopia corrected by a **concave lens** {2002, 2008, 2011, 2013}
+
+@trap
+- Mirage is **total internal reflection** (per keys), not simple reflection.
+- Frequency never changes in refraction; speed and wavelength do.
+- **Convex** = rear view; **concave** = headlight; ENT doctors use **concave**.
+- Myopia = **concave**; hypermetropia and old-age presbyopia = **convex**.
+@end
+
+@up UP link: the **Aryabhatta Research Institute of Observational Sciences (ARIES)** is in Nainital (Uttarakhand, carved from UP), and the **Indian Institute of Astrophysics** runs telescopes elsewhere; in UP, **IIT Kanpur** and **BHU** run optics and photonics labs (soft detail).
+
+@last
+- Visible light **390-780 nm**; eye most sensitive at **555 nm** (yellow-green)
+- Light fastest in vacuum; Sun to Earth **8 min 20 s**
+- Frequency unchanged in refraction
+- Mirage, diamond, optical fibre = **TIR**
+- Blue sky = scattering; red signal = least scattered
+- Sky black from space; 7 colours; green in middle
+- Air bubble in water = **concave lens**
+- Full-length mirror = **half your height**; parallel mirrors = infinite images
+- Convex mirror = rear view; concave = headlight
+- Myopia = **concave lens**; near point 25 cm
+@end

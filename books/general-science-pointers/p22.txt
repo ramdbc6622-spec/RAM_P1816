@@ -1,0 +1,151 @@
+@chapter 22 | Human Body Systems
+@meta Built from 90 UPPSC questions (1991–2025). Focus: bones and body make-up, digestion and enzymes, heart and blood, haemoglobin and blood groups, kidneys, brain parts, hormones and glands.
+
+@hot
+- **Adrenaline** = "**fight or flight**" hormone {2001, 2002, 2003, 2004, 2010}
+- **Haemoglobin**: has **iron**, makes blood **red**, carries **oxygen**; gives no immunity {2001, 2004, 2005, 2016, 2019, ?}
+- **O** group = **universal donor** (O negative in emergencies); blood groups found by **Landsteiner** {2003, 2006, 2016, ?}
+- **Enzymes are proteins**; protein digestion starts in the **stomach** (pepsin) {1996, 2004, 2013, 2020, 2025}
+- **206** bones; smallest = **stapes** (ear) {2004, 2008, 2010, ?}
+@end
+
+@section 22.1 | Composition and Skeleton
+- Water in an adult body: about **65%** {2007}
+- Most abundant element: **oxygen** {2013, 2014}
+- Increasing amount in a 70 kg body: **copper, iron, sodium, potassium** {?}
+- Bones in an adult: **206** {2004}
+- Smallest bone: **stapes**, in the **ear** {2008, 2010, ?}
+- Head-neck joint: **pivot** joint {2024}
+- Main salt in bones: **calcium phosphate** {2015}
+- **Arthroplasty**: **hip-joint replacement** {2001, 2002}
+- Bones joined by **ligaments** {2008}
+- Dental plaque: **food, saliva, acids and bacteria** {2004}
+- Bones and teeth need **calcium and phosphorus** {2011}
+- Not needed for bones and teeth: **iodine** {2015}
+- Strongest muscle: **jaw** (masseter) {2008}
+
+@section 22.2 | Digestion
+- Most digestion: **small intestine** {1991}
+- Enzymes are **proteins** {1996, 2004, 2013}
+- Fat digestion needs **bile and lipase** (1 and 2) {2016}
+- Protein digestion begins in the **stomach** {2020}
+- Protein-digesting enzyme: **trypsin** (among options) {2010}
+- Released in the stomach: **pepsin** only (only 3) {2025}
+- Humans cannot digest cellulose; diastase digests starch (A and R true, R does not explain A) {2017}
+- Extra glucose stored as **glycogen** in the **liver** {2004}
+- Fasting over 10 days: liver **glucose falls** {2021}
+- **Bile** is made in the **liver** {1999}
+- Gallstones affect **fat** digestion {2017}
+- Proteins to amino acids: **pepsin** (per key) {2017}
+- **Vitamin-carotene, enzyme-pepsin, hormone-testosterone, protein-keratin** {1998, 2021}
+
+@table
+Enzyme | Where | Acts on
+Salivary amylase (ptyalin) | Mouth | Starch
+Pepsin | Stomach | Proteins
+Trypsin | Pancreas (small intestine) | Proteins
+Lipase | Pancreas | Fats (with bile)
+Bile (not an enzyme) | Liver | Emulsifies fats
+@end
+
+@section 22.3 | Respiration
+- Gas exchange in the lungs: **alveoli** {2021}
+- Less oxygen in blood: breathing **increases** {2000}
+- Most energy: **ATP to ADP** {2015}
+- Energy is stored as **ATP** {2016}
+
+@section 22.4 | Heart and Blood
+- Human heart: **four** chambers {2023}
+- Only vein with oxygenated blood: **pulmonary vein** {2024}
+- Heart rests **between two beats** {2004, 2008}
+- Wrist pulse beats **at the heart's rate** {2008, 2010}
+- Blood in a 70 kg adult: about **5-5.6 litres** (*) {2017}
+- Blood: plasma and cells; **haemoglobin** makes it red (both) {2025, ?}
+- Blood is a **connective tissue** {2023}
+- Not correct of haemoglobin: "**slightly acidic**" (per key) {2019}
+- Haemoglobin: **iron, red colour, oxygen carrier** (1, 2, 4) {2001, 2004, 2005, 2016}
+- Contains iron: **myoglobin** {2020}
+- Average BP: **120/80** mm Hg; **Hg = mercury** {1991, 1993, 2015}
+- Universal donor: **O** {2003, 2016}
+- Emergency transfusion: **O negative** {2006}
+- Blood groups: **Karl Landsteiner** {?}
+- Blood pH: **7.35-7.45** {2007}
+- RBCs destroyed (and some WBCs formed) in the **spleen** {2008}
+- Blood sugar in **mg per decilitre** {2021}
+- **Thrombin**: **blood clotting** {2011}
+- Alum stops bleeding: Al ions coagulate colloidal blood (A and R true, R explains A) {2010}
+- "Plastic blood": developed in **Britain** {2006}
+
+@table
+Blood group | Can give to | Can receive from
+O negative | All (universal donor) | O negative only
+AB positive | AB positive only | All (universal recipient)
+A | A, AB | A, O
+B | B, AB | B, O
+@end
+
+@section 22.5 | Excretion
+- Detoxifies alcohol: **liver** {2010}
+- Urine a day: about **1.5 litres** {2004}
+- Correct: **all the blood** is filtered through the kidneys {1994}
+- Urea removed from blood in the **kidney** {2002}
+- **Dialyser**: does the **kidney's** work {2002}
+- Not a kidney job: **blood sugar regulation** {2011}
+- Kidney stones: **calcium oxalate** crystals {2015, 2023}
+
+@section 22.6 | Nervous System
+- Brain controls **all three** (heart rate, balance, thought) {2016, ?}
+- "Little brain": **cerebellum** {2023}
+- Feels no pain from a needle: **brain** tissue {2017}
+- Body temperature **stays the same** in winter and summer {2015}
+- Hunger and thirst centres: **hypothalamus** {2010}
+- Normal temperature: **98.6 °F (37 °C)** {?}
+
+@flow Parts of the brain
+Cerebrum | Thinking, memory, senses; largest part
+Cerebellum | Balance, coordination ("little brain")
+Hypothalamus | Hunger, thirst, temperature
+Medulla oblongata | Heartbeat, breathing, reflexes
+@end
+
+@section 22.7 | Endocrine Glands and Hormones
+- Urine volume: **ADH** (vasopressin) {2010}
+- **Progesterone-ovaries, testosterone-testes, thyroxine-thyroid, insulin-pancreas** {2010}
+- Both endocrine and exocrine: **pancreas** {2019}
+- Second-largest gland, alkaline complete digestive juice: **pancreas** {2008}
+- Stimulates pancreatic juice: **secretin** {1996}
+- **Insulin**: a **protein**; from **beta cells** of the islets of Langerhans {1993, 2015, ?}
+- Wrong pair: **gastrin-blood pressure** (gastrin makes stomach acid) {2017}
+- Mother's hug and kiss release **oxytocin**; it also induces milk letdown in cattle {2002, 2003, ?}
+- Not a protein (per key): **oxytocin** (a peptide) {2008}
+- **Thyroxine** and **estrogen** are **hormones** {2000, 2003, 2004}
+- **Fight or flight**: **adrenaline** {2001, 2002, 2003, 2004, 2010}
+- Iodine deficiency: **goitre** {?}
+- After menopause: **progesterone** stops; no option exact (*) {2014}
+- Female sex hormone: **estrone** {2017}
+- **Hormone-testosterone, enzyme-lipase, phospholipid-lecithin, polymer-polythene** {1997}
+- Bright light is bad for sleep: light **lowers** melatonin (A true, R false) {2014}
+- Smallest endocrine gland: **pituitary** per key (pineal is smaller) {1996}
+- Sperm stay fertile for **one to two days** {2010}
+
+@trap
+- **Pulmonary vein** carries oxygenated blood; pulmonary artery carries deoxygenated.
+- Bile is made in the **liver**, stored in the gall bladder; it is not an enzyme.
+- Melatonin rises in **darkness**, not light.
+- **O** = universal donor; **AB** = universal recipient.
+@end
+
+@up UP link: **SGPGIMS** and **KGMU** (Lucknow) run UP's major kidney transplant and dialysis units; the **PM National Dialysis Programme** gives free dialysis at district hospitals across UP.
+
+@last
+- Body water **65%**; oxygen = most abundant element
+- **206** bones; stapes smallest; jaw = strongest muscle
+- Enzymes = proteins; pepsin in the stomach
+- Bile from the liver; gallstones hit fat digestion
+- Alveoli = gas exchange; ATP = energy currency
+- Pulmonary vein = oxygenated; BP 120/80
+- O = universal donor; Landsteiner = blood groups; pH 7.35-7.45
+- Spleen = RBC graveyard; kidney stones = calcium oxalate
+- Cerebellum = balance; hypothalamus = hunger, thirst
+- Adrenaline = fight or flight; ADH = urine; oxytocin = milk letdown
+@end

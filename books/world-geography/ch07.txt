@@ -1,0 +1,539 @@
+@chapter 7 | Countries and their Borders
+@unit UNIT III · THE POLITICAL WORLD
+
+@intro
+This is a **map-work** chapter. UPPSC asks about country size and order, coastlines, who borders whom (Israel, Gaza, Afghanistan, Zambia, Indonesia), regional groupings (Arabian Peninsula, Middle East, Horn of Africa, Scandinavia, Central America), **landlocked** countries, dependent territories and famous **boundary lines** (Radcliffe, Durand, McMahon, Maginot, 38th parallel). Several keys here are marked (*) because more than one option, or none, is correct. Check the notes. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 7.1 | Size and Coastline
+
+@pyq U.P.P.C.S. (Pre) 1996
+The largest country in the world is :
+(a) Brazil
+(b) Australia
+(c) China
+(d) U.S.A.
+@ans (*)
+@note By area the largest country is **Russia** (about 17.1 million sq km), which is not among the options. Of the options, the **USA** and **China** are roughly the same size (about 9.5-9.8 million sq km, depending on how water and disputed areas are counted). So the source marks the question (*). By population, **India** overtook China in **2023**.
+@end
+
+@table
+Rank by area | Country | Area (million sq km, approx.)
+1 | Russia | 17.1
+2 | Canada | 10.0
+3 | USA | 9.8 (total incl. water)
+4 | China | 9.6
+5 | Brazil | 8.5
+6 | Australia | 7.7
+7 | **India** | **3.29**
+8 | Argentina | 2.78
+9 | Kazakhstan | 2.72 (largest landlocked country)
+10 | Algeria | 2.38 (largest in Africa)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2012
+The correct ascending order of the following countries in terms of area is :
+(a) Brazil, Argentina, Australia, India
+(b) Australia, Brazil, India, Argentina
+(c) Argentina, India, Australia, Brazil
+(d) India, Brazil, Argentina, Australia
+@ans (c)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of the following countries is not larger than India in terms of Area?
+(a) Russia
+(b) Brazil
+(c) Canada
+(d) France
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2015
+Which one of the following countries has the longest coastalline?
+(a) India
+(b) Canada
+(c) Australia
+(d) Brazil
+@ans (b)
+@end
+
+**Canada** has the world's longest coastline (about 2.02 lakh km, because of its Arctic islands), followed by Indonesia, Norway (fjords) and Russia. India's coastline is about **11,098 km**, according to the 2023-24 recount, which included islands.
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which of these countries forms the longest territorial border with India?
+(a) China
+(b) Pakistan
+(c) Bangladesh
+(d) Nepal
+@ans (c)
+@end
+
+@table
+India's neighbour | Land border (km, approx.) | Line / note
+Bangladesh | 4,096.7 | Longest; Radcliffe Line; Land Boundary Agreement 2015
+China | 3,488 | LAC; McMahon Line in the east
+Pakistan | 3,323 | Radcliffe Line, LoC in J&K
+Nepal | 1,751 | Open border
+Myanmar | 1,643 | Free Movement Regime (scrapped in 2024)
+Bhutan | 699 | -
+Afghanistan | 106 | Through PoK (Wakhan); Durand Line is Afghanistan-Pakistan
+@end
+
+@section 7.2 | Regions and Neighbours
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which of the following country/countries is not part of the Arabian Peninsula?
+1. Oman
+2. Iraq
+3. Kuwait
+4. Syria
+Select the correct answer from the code given below :
+Code :
+(a) Only 4
+(b) Only 1
+(c) 2 and 3 both
+(d) 2 and 4 both
+@ans (a)
+@end
+
+The **Arabian Peninsula** proper covers **Saudi Arabia, Yemen, Oman, UAE, Qatar, Bahrain and Kuwait**, and the southern fringes of Iraq and Jordan. **Syria** lies wholly to the north.
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which of the following is not a part of the Middle East?
+(a) Jordan and Israel
+(b) Lebanon and Israel
+(c) Syria and Lebanon
+(d) Jordan and Turkiye
+@ans (*)
+@note All five countries are usually counted as part of the Middle East. **Turkiye** straddles Europe and Asia (East Thrace lies in Europe), so (d) is the "least wrong" choice, but strictly no option is correct. The source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Israel has common borders with:
+(a) Lebanon, Syria, Jordan and Egypt
+(b) Lebanon, Syria, Turkiye and Jordan
+(c) Cyprus, Turkiye, Jordan and Egypt
+(d) Turkiye, Syria, Iraq and Yemen
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+With reference to the Gaza Strip, which of the following statement/s is/are correct?
+1. It is bordered by Egypt.
+2. It is bordered by Israel.
+Select the correct answer using the code given below:
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+The **Gaza Strip** (about 365 sq km) lies on the Mediterranean between **Israel** and **Egypt** (crossing at **Rafah**). The **West Bank** lies between Israel and **Jordan**. Together they are the Palestinian territories. The Israel-Hamas war since October 2023 has made them a frequent topic.
+
+@pyq U.P.P.C.S. (Pre) 1999
+'Horn of Africa' consists of –
+(a) Algeria, Morocco and West Sahara
+(b) Libya, Sudan and Egypt
+(c) Somalia, Ethiopia and Djibouti
+(d) Zimbabwe, Botswana and Angola
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Mains) 2009
+The Horn of Africa does not include
+@ans Sudan
+@end
+
+@table
+Regional grouping | Countries
+Horn of Africa | Somalia, Ethiopia, Eritrea, Djibouti
+Maghreb | Morocco, Algeria, Tunisia (with Libya and Mauritania)
+Sahel | Senegal, Mauritania, Mali, Burkina Faso, Niger, Chad, Sudan
+Scandinavia | Norway, Sweden, Denmark (Nordic countries add Finland and Iceland)
+Baltic states | Estonia, Latvia, Lithuania
+Benelux | Belgium, Netherlands, Luxembourg
+Central America | Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, Panama
+Levant | Syria, Lebanon, Israel, Palestine, Jordan
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Which of the following is not included in the group of Scandinavian countries?
+(a) Denmark
+(b) Finland
+(c) Norway
+(d) Sweden
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following countries is not situated along the coast of Baltic Sea?
+(a) Latvia and Poland
+(b) Latvia and Russia
+(c) Sweden and Russia
+(d) Sweden and Norway
+@ans (d)
+@end
+
+Nine countries border the **Baltic Sea**: Sweden, Finland, Russia, Estonia, Latvia, Lithuania, Poland, Germany and Denmark. **Norway** faces the North Sea and the Norwegian Sea instead.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2014
+Which of the following countries is not located in Central America?
+(a) Panama
+(b) Sierra Leone
+(c) Honduras
+(d) Guatemala
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which of the following countries is not located in the continent of Africa :
+(a) Gabon
+(b) Guinea
+(c) Guinea Bissau
+(d) Guyana
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re-Exam) 2016
+Which among the following countries NOT located on the western coast of Africa?
+(a) Gabon
+(b) Botswana
+(c) Liberia
+(d) Angola
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Zambia does not have a common border with –
+(a) Namibia
+(b) Tanzania
+(c) Angola
+(d) Botswana
+@ans (*)
+@note **Zambia borders all four**: Tanzania (north-east), Angola (west), Namibia (along the Caprivi Strip) and **Botswana**, where the border is only about **150 m** long at **Kazungula** on the Zambezi, now crossed by the Kazungula Bridge (2021). No option is correct, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012; U.P. Lower Sub. (Pre) 2002
+Afghanistan does not have a common border with
+(a) Tajikistan
+(b) Turkmenistan
+(c) Uzbekistan
+(d) Russia
+@ans (d)
+@end
+
+**Afghanistan** borders **Iran, Turkmenistan, Uzbekistan, Tajikistan, China** (the Wakhan corridor) and **Pakistan** (the **Durand Line**, 1893). India counts a 106 km border through PoK.
+
+@section 7.3 | South-East Asia and Islands
+
+@pyq U.P.R.O./A.R.O. (Pre) 2021
+Indonesia does not share its land boundary with which one of the following countries?
+(a) Brunei
+(b) Timor-Leste
+(c) Malaysia
+(d) Papua New Guinea
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to 'Indonesia', which of the following statements is / are correct?
+(1) It comprises of over 15,000 islands.
+(2) It has over 150 active volcanoes.
+Select the correct answer using the code given below:
+Code:
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (d)
+@note Indonesia has about **17,000** islands, so statement 1 ("over 15,000") is literally true and (a) is the factually better answer. It has about **127-130** active volcanoes, so statement 2 is false. The Commission's key is (d), and it is kept here. Indonesia is moving its capital from Jakarta to **Nusantara** in East Kalimantan (Borneo).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+With reference to Borneo Island, located in South East Asia, which of the following statements is / are true?
+1. It is divided among three countries.
+2. It has been formed due to volcano deposition.
+Select the correct answer from the code given below.
+Code :
+(a) Both 1 and 2
+(b) Only 1
+(c) Neither 1 nor 2
+(d) Only 2
+@ans (a)
+@note The Commission's key is (a). **Borneo**, the world's third-largest island, is shared by **Indonesia** (Kalimantan), **Malaysia** (Sabah, Sarawak) and **Brunei**, so statement 1 is true. The island is mostly **folded and uplifted** rock, not volcanic deposits, so on the facts the answer would be **(b) Only 1**, as the source's own explanation also says.
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+With reference to the 'Galapagos Islands' situated in the Pacific Ocean, which of the following statements is/are correct?
+(1) They are formed due to volcanic activity.
+(2) They are part of South American nation Peru.
+Select the correct answer using the code given below:
+Code :
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+The **Galapagos** belong to **Ecuador**. They are volcanic, hotspot islands, and their wildlife inspired **Darwin**'s theory of evolution (1835 visit).
+
+@pyq U.P. P.C.S. (Pre) 2000
+Match List-I and List-II and choose the correct answer form the codes given below
+@match
+List-I (Country) | List-II (Dependent Territory)
+A. Australia | 1. Martinique
+B. Denmark | 2. Santa Cruz
+C. France | 3. Greenland
+D. Spain | 4. Christmas Island
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 1 3 2 4
+(d) 2 1 4 3
+@ans (*)
+@note The correct pairs are Australia-**Christmas Island** (4), Denmark-**Greenland** (3), France-**Martinique** (1) and Spain-**Santa Cruz** (2, Santa Cruz de Tenerife in the Canary Islands). That gives **4 3 1 2**, which is not among the codes. Option (b) swaps C and D, so the source marks the question (*).
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following Country is geographically located in America but politically is a part of Europe?
+(a) Iceland
+(b) Canary Iceland
+(c) Greenland
+(d) Cuba
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Match List-I with List-II and select the correct answer from the codes given below:
+@match
+List - I (World Islands) | List – II (Owner Country)
+A. Aleutian Islands | 1. Russia
+B. Bear Islands | 2. Denmark
+C. Greenland | 3. Norway
+D. Franz Josef Island | 4. U.S.A.
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 1 2 3 4
+(c) 3 1 4 2
+(d) 2 4 1 3
+@ans (a)
+@end
+
+**Greenland**, the world's largest island, is an autonomous territory of **Denmark**, though geographically part of North America. US interest in buying it (2019, 2025) keeps it in the news. The **Aleutians** belong to Alaska (USA), **Bear Island** to Norway (Svalbard) and **Franz Josef Land** to Russia.
+
+@section 7.4 | Landlocked and Transcontinental Countries
+
+@pyq U.P.P.C.S. (Pre) 2005
+Which of the following countries is not a landlocked country?
+(a) Afghanistan
+(b) Liberia
+(c) Laos
+(d) Luxembourg
+@ans (b)
+@end
+
+@pyq U.P. U.D.A./L.D.A. (Mains) 2010
+Which one of the following is a landlocked country in Africa ?
+(a) Angola
+(b) Chad
+(c) Kenya
+(d) Senegal
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015; U.P.U.D.A./L.D.A. (Pre) 2001
+The only landlocked Country in Southeast Asia is
+(a) Cambodia
+(b) Laos
+(c) Malaysia
+(d) Thailand
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which one of the following is a landlocked country?
+(a) Surinam
+(b) Bolivia
+(c) Uruguay
+(d) Peru
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Which one of the following continents has no landlocked country?
+(a) Africa
+(b) Asia
+(c) Europe
+(d) North America
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009
+Which of the following Countries is a land-locked country?
+1. Afghanistan
+2. Hungary
+3. Malaysia
+4. Switzerland
+Choose the correct answer from the codes given below
+Code :
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 2, 3 and 4
+(d) 1, 2 and 4
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+Which one of the following is not a landlocked country?
+(a) Uzbekistan
+(b) Kyrgyzstan
+(c) Tajikistan
+(d) Azerbaijan
+@ans (d)
+@note The Caspian Sea is a closed inland sea, so strictly **all four** have no access to the open ocean. **Azerbaijan** at least has a coast on the Caspian, which is why it is the key. **Uzbekistan** is one of only two **doubly landlocked** countries, the other being **Liechtenstein**.
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which of the following countries are landlocked?
+1. Armenia
+2. Montenegro
+3. Botswana
+4. Ethiopia
+Choose the correct answer from the code given below:
+Code :
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 2 and 4 only
+(d) 1, 2 and 3 only
+@ans (*)
+@note **Armenia, Botswana and Ethiopia** are landlocked. Ethiopia lost its coast when **Eritrea** became independent in 1993. **Montenegro** has an Adriatic coast. The correct set "1, 3 and 4" is not among the codes, so the source marks the question (*).
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Mains) 2010
+Which of the following statements is true about South Sudan?
+Use the codes given below for the correct answer:
+I. It is a landlocked country.
+II. Its capital is located in Akoba.
+III. Its main river is the White Nile.
+IV. Its main religion is Islam.
+Code :
+(a) I and II only
+(b) II and III only
+(c) I and III only
+(d) II and IV only
+@ans (c)
+@end
+
+@table
+Continent | Landlocked countries (examples)
+Africa (16, the most) | Ethiopia, South Sudan, Chad, Niger, Mali, Burkina Faso, CAR, Uganda, Rwanda, Burundi, Zambia, Zimbabwe, Malawi, Botswana, Lesotho, Eswatini
+Asia | Afghanistan, Nepal, Bhutan, Laos, Mongolia, Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, Armenia, Azerbaijan
+Europe | Switzerland, Austria, Hungary, Czechia, Slovakia, Serbia, North Macedonia, Luxembourg, Liechtenstein, Andorra, San Marino, Vatican, Belarus, Moldova
+South America | **Bolivia**, **Paraguay**
+North America / Australia | None
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following countries is trans-Continental?
+1. Laos
+2. Georgia
+3. Turkey
+4. Tunisia
+Select the correct answer from the codes given below:
+(a) 1 and 2
+(b) 2 and 3
+(c) 1 and 4
+(d) 3 and 4
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Zimbabwe was earlier known as –
+(a) Southern Rhodesia
+(b) Gold Coast
+(c) Ivory Coast
+(d) Belgian Congo
+@ans (a)
+@end
+
+Old and new names: **Gold Coast = Ghana**, **Belgian Congo (Zaire) = DR Congo**, **Northern Rhodesia = Zambia**, **Southern Rhodesia = Zimbabwe**, **Ivory Coast = Cote d'Ivoire**, **Siam = Thailand**, **Burma = Myanmar**, **Ceylon = Sri Lanka**, **Turkey = Turkiye** (2022), **Swaziland = Eswatini**.
+
+@section 7.5 | Boundary Lines
+
+@pyq U.P. P.C.S. (Mains) 2015
+Which one of the following is not correctly matched?
+(a) Radcliffe Line - India and Pakistan
+(b) Maginot Line - France and Germany
+(c) Durand Line - Bangladesh and India
+(d) Hindenburg Line - Belgium and Germany
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2014
+Radcliffe line defines the boundary between
+@ans India and Pakistan
+@end
+
+@one U.P.P.C.S. (Pre) 1994
+The Maginot line was
+@ans The border between France and Germany.
+@end
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2002, 2003
+Which of the following rivers forms international border?
+(a) Indus
+(b) Nile
+(c) Rio Grande
+(d) Rhine
+@ans (*)
+@note Both the **Rio Grande** (USA-Mexico) and the **Upper Rhine** (France-Germany, and Switzerland-Germany) form international borders, so the question has two correct options and the source marks it (*).
+@end
+
+@one U.P.P.C.S. (Spl) (Mains) 2008
+Rio Grande river makes boundary between
+@ans Mexico and USA
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The International boundary between North Korea and South Korea runs along –
+(a) 25o N, Lat.
+(b) 33o N, Lat.
+(c) 38o N, Lat.
+(d) 48o N, Lat.
+@ans (c)
+@end
+
+@table
+Line | Between | Note
+Radcliffe Line | India-Pakistan, India-Bangladesh | 1947, Cyril Radcliffe
+Durand Line | Afghanistan-Pakistan | 1893, Mortimer Durand
+McMahon Line | India (Arunachal)-China (Tibet) | 1914 Simla Convention
+Maginot Line | France-Germany | French defensive fortifications (1930s)
+Siegfried / Hindenburg Line | Germany's defences (WWII / WWI) | Facing France and Belgium
+Mannerheim Line | Finland-Russia (USSR) | Finnish defences (1939)
+Oder-Neisse Line | Germany-Poland | Post-1945
+38th Parallel | North-South Korea | 1945; the 1953 DMZ roughly follows it
+49th Parallel | USA-Canada | Western section
+17th Parallel | Old North-South Vietnam | 1954 Geneva
+24th Parallel | Pakistan's claim in the Rann of Kutch | Sir Creek dispute
+@end
+
+@trap
+**Durand = Afghanistan-Pakistan**, not India-Bangladesh. **Guyana is in South America**, while **Guinea** and **Guinea-Bissau** are in Africa. **Finland is Nordic but not Scandinavian.** **Norway has no Baltic coast.** **North America has no landlocked country**, and in South America only **Bolivia and Paraguay** are landlocked.
+@end
+
+@heatmap
+
+@pattern
+This is one of the most heavily asked political chapters, and the focus has shifted to **2021-2023 R.O./A.R.O. papers** with current-affairs angles (Gaza, Israel's neighbours, Indonesia, Borneo, the Middle East). Expect **border-pair** and **landlocked** questions every year. Several keys are disputed, so read the notes. When a "which is not" question looks too easy, check for a tiny border such as Zambia-Botswana.
+@end
+
+@next
+Likely next angles: **Gaza and Rafah**, the **Red Sea / Houthi** crisis (Yemen, Bab-el-Mandeb), the **Ukraine-Russia** front (Donbas, Crimea, Kursk), the **Sahel juntas** (Mali, Burkina Faso, Niger forming the AES), **Greenland**, **Nusantara**, the **Armenia-Azerbaijan** settlement (Nagorno-Karabakh, 2023) and the **Durand Line** tensions.
+@end

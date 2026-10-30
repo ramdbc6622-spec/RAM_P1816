@@ -1,0 +1,469 @@
+@chapter 19 | Exchange Rate, FDI and External Debt
+
+@intro
+This chapter covers the **exchange rate** (flexible rates, rupee **convertibility**, **devaluation**), **remittances**, **foreign direct and portfolio investment** (sectors, sources, caps, participatory notes), **external debt** and **ECBs**, **foreign exchange reserves**, the **euro**, and the move from **FERA to FEMA**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 19.1 | Exchange Rate and Convertibility
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): The value of national currency determined by demand and supply of foreign currency is called flexible exchange rate.
+Reason (R): Demand and supply of the foreign currency is being determined by the Central Bank.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Convertibility of the Rupee as it exists at present means:
+(a) Rupee is convertible into foreign currencies for all types of transactions
+(b) Rupee is convertible into foreign currencies for trade transactions only
+(c) Rupee is convertible into foreign currencies for all current transactions only
+(d) Rupee is convertible into foreign currencies for capital transactions only
+@ans (c)
+@end
+
+@one U.P.R.O./A.R.O. (Mains) 2017
+The Indian Rupee was made fully convertible on current account in
+@ans 1994
+@end
+
+@pyq U.P.P.C.S. (Pre) 2007
+The question of full capital account convertibility of India was examined by the Committee known as :
+(a) Vaghul Committee
+(b) Rangarajan Committee
+(c) Tarapore Committee
+(d) Hashim Committee
+@ans (c)
+@end
+
+
+@table
+Convertibility step | Year
+Partial convertibility (LERMS) | 1992-93
+**Current account convertibility** | **August 1994** (IMF Article VIII)
+**Capital account convertibility** committees | **Tarapore I (1997)**, **Tarapore II (2006)**; not yet full
+Exchange rate regime | **Market-determined** (managed float) since **March 1993**
+@end
+
+A **flexible (floating) rate** is set by the **market's** demand for and supply of foreign currency, not by the central bank, though the RBI steps in to smooth swings.
+
+@pyq U.P.P.C.S. (Pre) 1998
+Devaluation of a currency means :
+(a) Reduction in the value of a currency vis-a-vis major internationally traded currencies
+(b) Permitting the currency to seek its worth in the international market
+(c) Fixing the value of the currency in conjunction with the movement in the value of a basket of predetermined currencies
+(d) Fixing the value of a currency in multilateral consultation with the IMF, the World Bank and major trading partners
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 1991, 1994
+The Devaluation means
+@ans Decline in the value of currency with respect to other
+@end
+
+@one U.P.P.C.S. (Spl.) (Pre) 2008
+In which year the rupee was devalued for the first time in India?
+@ans 1949
+@end
+
+@one U.P.P.C.S. (Mains) 2012
+In which of the following financial years the devaluation of rupee in India took place twice?
+@ans 1991-92
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following statements and select the correct answer from the code given below :
+Assertion (A) : Devaluation of a currency may promote export.
+Reason (R) : Price of the country's products in the international market may fall due to devaluation.
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true, but R is not a correct explanation of A
+(c) A is true, but R is false
+(d) A is false, but R is true
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Spl.) (Mains) 2008
+When a country devalues its currency, its effect would be
+@ans imports become costly and exports become cheaper
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+A country resorts to devaluation of its currency to :
+(a) Fix the balance of trade
+(b) Reduce the cost of imported goods and services
+(c) Curb inflationary trends in the country
+(d) All of the above
+@ans (a)
+@end
+
+
+@one U.P. Lower Sub. (Pre) 2004
+Statement (A) : Devaluation of currency is done for increasing exports. Reason (R) : Domestic items become cheaper in the foreign market.
+@ans (A) and (R) both are correct and (R) is the correct explanation of (A).
+@end
+
+@table
+Devaluation fact | Detail
+Meaning | Official **cut in a currency's value** against foreign currencies
+Effect | **Exports cheaper**, **imports costlier**; aims to correct the **balance of trade**
+India's devaluations | **1949** (first), **1966** (June, 36.5%), **1991** (twice, **1 and 3 July 1991**: about 18-19%)
+Depreciation vs devaluation | Market-driven fall vs government decision
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+List-I contains the names of countries, whereas List-II shows the Rank as remittances received in the year 2022. Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Country) | List-II (Rank)
+A. Mexico | 1. First
+B. China | 2. Second
+C. India | 3. Third
+D. Philippines | 4. Fourth
+@endmatch
+Codes: A B C D
+(a) 4 1 2 3
+(b) 2 3 1 4
+(c) 3 4 2 1
+(d) 1 2 3 4
+@ans (b)
+@end
+
+**India is the world's top receiver of remittances**: about **US$ 111 billion** in 2022, **US$ 129 billion** in 2024 (World Bank). Mexico is second.
+
+@section 19.2 | Foreign Investment
+
+@pyq U.P.P.C.S. (Main) 2006; U.P.P.C.S. (Pre) 2006*
+In the last one decade, which one among the following sectors has attracted the highest Foreign Direct Investment inflows into India?
+(a) Chemicals other than fertilizers
+(b) Services sector
+(c) Food Processing
+(d) Telecommunication
+@ans (b)
+@note When asked (2006), **telecommunications** (d) was taken as the answer. The source keys the present answer, **(b) services**, the top FDI sector from April 2000 to March 2025 (about 16%), followed by computer software and hardware.
+@end
+
+@pyq U.P.P.C.S. (Pre) 2009*
+India in recent past has succeeded in attracting large foreign investment in :
+1. Life Insurance Business 2. Banking Sector
+3. Automobiles Sector
+4. Film making
+5. Medical Tourism
+Select the correct answer from the codes given below:
+(a) 1, 2 and 3
+(b) 1, 3 and 4
+(c) 2, 3 and 4
+(d) 2, 3, 4 and 5
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2008
+The opportunities available in the Indian market for foreign exchange earnings are in the fields of :
+1. Tourism
+2. Medical care
+3. Garments
+4. Leather goods
+Select the correct answer from the codes given below:
+(a) 1 and 2
+(b) 1, 2 and 3
+(c) 2, 3 and 4
+(d) All the four
+@ans (d)
+@end
+
+
+
+@pyq U.P.S.C. (Pre) 2019
+Registered Foreign Portfolio Investors issue which of the following to those foreign investors who want to participate in the Indian stock market without registering themselves directly?
+(a) Deposit certificate
+(b) Commercial paper
+(c) Promissory note
+(d) Participatory note
+@ans (d)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2020
+Limit of investment for outstanding corporate bond for Foreign Portfolio Investment in Union Budget 2020-21 has been extended upto :
+(a) 9%
+(b) 10%
+(c) 12%
+(d) 15%
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010*
+India receives largest inflow of foreign capital in equity investment from :
+(a) USA
+(b) Singapore
+(c) Switzerland
+(d) Mauritius
+@ans (b)
+@note **Mauritius** (d) was the largest source when asked (2010). The source keys the present answer, **(b) Singapore**, the top source for the last seven years.
+@end
+
+@one U.P.P.C.S. (Mains) 2006
+Which country has the highest share in cumulative FDI inflows into India?
+@ans Mauritius
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2024
+Given below are two statements, one is labelled as
+Assertion (A) and the other as Reason (R).
+Assertion (A): During 2023-24, Singapore emerged as the largest source of FDI to India.
+Reason (R): The India Mauritius Tax Treaty amendment has brought a major shift in countries as major sources of FDI to India.
+Select the correct answer from the codes given below:
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(d) (A) is true, but (R) is false.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Most recently, FDI has now opened in which of the following sectors in India?
+(a) Gambling and betting for profit
+(b) Lottery business
+(c) Chit fund and Nidhi
+(d) Retail trade
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+On October 4, 2012, the Government of India has proposed to change the limits of FDI in Insurance Sector. It is proposed to :
+(a) raise the FDI limit from 26% to 49%
+(b) raise the FDI limit from 49% to 74%
+(c) raise the FDI limit from 26% to 51%
+(d) decrease the FDI limit from 74% to 49%
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Foreign equity holding allowed in small scale sector in 1995-96 is :
+(a) 35%
+(b) 24%
+(c) 49%
+(d) 51%
+@ans (b)
+@end
+
+
+@table
+FDI fact | Detail
+Largest source (2024-25) | **Singapore** (about US$ 15 billion), then **Mauritius**, USA, Netherlands, UAE
+Why Singapore | The **2016 India-Mauritius tax treaty** amendment ended Mauritius's capital-gains benefit
+Top sectors (2000-2025) | **Services**, computer software and hardware, trading, telecom, automobiles
+Not allowed | **Lottery, gambling and betting, chit funds, Nidhi companies**, real estate business, tobacco products, atomic energy
+**Insurance** | 26% → 49% (2015) → 74% (2021) → **100%** (announced Budget 2025-26)
+Multi-brand retail | 51% (2012, with conditions); single-brand **100%**
+**Participatory notes** | Issued by registered **FPIs** to foreign investors who invest without registering with SEBI
+FPI limit in corporate bonds | Raised from 9% to **15%** (Budget 2020-21)
+Small-scale units (1990s) | Foreign equity up to **24%**
+@end
+
+@section 19.3 | External Debt
+
+@pyq U.P.P.C.S. (Mains) 2010*
+At the end of 2010, India's external debt had cross the mark of :
+(a) US $ 100 Billion
+(b) US $ 300 Billion
+(c) US $ 500 Billion
+(d) US $ 1000 Billion
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2017
+Which of the following continued to be the major component of India’s external credit till 2017?
+(a) NRI deposits
+(b) Short term debt
+(c) Trade Credit
+(d) Commercial borrowing
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which among the following institutions regulates the external commercial borrowings ?
+(a) SEBI
+(b) Ministry of Finance
+(c) Ministry of Commerce
+(d) Reserve Bank of India
+@ans (d)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+According to the World Bank’s Global Development Finance Report 2010, the correct descending order of the world’s five most indebted countries is :
+(a) Russia, Brazil, China, Turkey, India
+(b) Russia, China, Turkey, Brazil, India
+(c) Russia, China, Brazil, India, Turkey
+(d) Russia, Brazil, India, China, Turkey
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+On the basis of size and composition of external debt, World Bank has classified India as :
+(a) A moderately indebted country
+(b) A less indebted country
+(c) A heavily indebted country
+(d) A critically indebted country
+@ans (b)
+@end
+
+
+@table
+External debt fact | Detail
+Size | About **US$ 746 billion** (end-September 2025); was over **US$ 300 billion** in 2010
+Largest component | **Commercial borrowings** (about 35%), then currency and deposits (NRI deposits)
+**ECBs** | Regulated by the **RBI** (under FEMA)
+World Bank class | **Less indebted** country
+Debt-GDP | About **19-20%** of GDP
+Most indebted EMDEs (2024) | **China, Brazil, India**, Mexico, Turkiye
+@end
+
+@pyq U.P. R.O./A.R.O. (Re-Exam) (Pre) 2016
+Which of the following statement about green bonds is NOT true?
+(a) Green bond investment is only for climate friendly projects.
+(b) Green bonds were first introduced by European Investment Fund in 2007
+(c) Green bonds are Financial Market Innovation
+(d) Green bonds are fixed interest loan with short date maturities
+@ans (d)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+Closure of Oil-Pool account effected from :
+(a) 30-3-2002
+(b) 1-4-2002
+(c) 30-3-2003
+(d) 1-4-2003
+@ans (b)
+@end
+
+
+**Green bonds** fund climate-friendly projects; the first was issued by the **European Investment Bank** (2007), and they are long-term, not short-dated. India issued **sovereign green bonds** in 2023. The **Oil Pool Account** was closed on **1 April 2002**, when petroleum prices began to be freed.
+
+@section 19.4 | Forex Reserves, the Euro and FEMA
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2001
+Which of the following statements is not true in the context of foreign exchange reserves of India?
+(a) Gold and Foreign currency assets present with Reserve Bank of India are included in it
+(b) It is maintained by the Reserve Bank of India
+(c) Special Drawing Rights are not included in this
+(d) Current state of Foreign exchange is satisfactory in India
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Which among the following has largest share in the foreign exchange reserves of India?
+(a) Securities of international institutions
+(b) Gold reserves
+(c) Foreign currency assets
+(d) NRI deposits
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+How much were India’s foreign exchange reserves at the end of December 2024 ?
+(a) USD 653.97 Billion
+(b) USD 629 Billion
+(c) USD 640.3 Billion
+(d) USD 578 Billion
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+According to new RBI Governor, which among the following factors determines the exchange value of money?
+1. High inflation rate
+2. High fiscal deficit
+3. High crude oil prices
+Choose the correct answer from the code below :
+Code :
+(a) All the three above factors
+(b) Only 1 and 2
+(c) Only 3
+(d) Only 1
+@ans (a)
+@end
+
+
+@table
+Forex reserves | Detail
+Components | **Foreign currency assets** (largest), **gold**, **SDRs**, **reserve tranche** with the IMF
+Kept by | **RBI**
+End-December 2024 | **US$ 640.3 billion**
+End-December 2025 | About **US$ 697 billion**; the record is over **US$ 700 billion** (September 2024)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+What is the name of New Single European Currency?
+(a) Peso
+(b) Euro
+(c) Pound
+(d) Sterling
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Which one of the following is not true for ‘Euro’ in 1999 :
+(a) It is an unit of account
+(b) It is means of deferred payments
+(c) It is a mode of payment
+(d) It is in circulation
+@ans (d)
+@end
+
+
+@one U.P.U.D.A./L.D.A. (Pre) 2001
+Euro is the national currency of
+@ans 20 States of European Union
+@end
+
+The **euro** was launched on **1 January 1999** as a book (electronic) currency; notes and coins came on **1 January 2002**. **Bulgaria** adopted it on **1 January 2026** as the **21st** member of the eurozone. The ECB is in **Frankfurt**.
+
+@pyq U.P.P.C.S. (Mains) 2007
+The Government of India has replaced FERA by :
+(a) The Competition Act
+(b) The FEMA
+(c) The Monopolies Act
+(d) The MRTP Act
+@ans (b)
+@note **FERA** (1973) treated forex offences as criminal; **FEMA** (passed **1999**, in force **1 June 2000**) made them civil and aims to **manage**, not control, foreign exchange. FEMA was "finally implemented" when FERA's sunset period ended in **2002**.
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+FEMA (Foreign Exchange Management Act) was finally implemented in the year :
+(a) 1991
+(b) 1997
+(c) 2002
+(d) 2007
+@ans (c)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+Which of the following authority sanctions foreign exchange for import of goods?
+(a) Any Nationalized Bank
+(b) Exchange Bank
+(c) Reserve Bank of India
+(d) Ministry of Finance
+@ans (b)
+@end
+
+
+@up UP link: Much of UP's FDI goes to **Noida and Greater Noida**: electronics (Samsung's phone factory, the world's largest), data centres and semiconductors (HCL-Foxconn unit at Jewar). Remittances flow largely to **eastern UP** (Gorakhpur, Azamgarh, Jaunpur) from the Gulf.
+
+@trap
+**Flexible rate = market, not central bank.** **Current account convertibility 1994; Tarapore = capital account.** **Devaluation: 1949, 1966, 1991 (twice).** **India = top remittance receiver.** **Singapore = top FDI source now (Mauritius earlier).** **Services = top FDI sector.** **P-notes = FPIs.** **No FDI in lottery, gambling, chit funds.** **ECB = RBI.** **Largest debt part = commercial borrowing.** **Forex reserves: FCA > gold > SDR > IMF tranche.** **FERA → FEMA (1999/2000).** **Euro 1999; notes 2002.**
+@end
+
+@heatmap
+
+@pattern
+Devaluation and convertibility were asked in the 1990s-2000s; the **2019-2024** papers turned to **current figures** (forex reserves, FDI sources, remittance ranks, FPI limits). Expect one current-data question each year.
+@end
+
+@next
+Likely next angles: **forex reserves** near US$ 700 billion, the **rupee** at record lows (about Rs. 88-90 per dollar in 2025), **remittances** records, **Singapore and Mauritius** FDI, **rupee internationalisation** (SRVA), **100% FDI in insurance**, and external debt ratios.
+@end

@@ -1,0 +1,129 @@
+@chapter 8 | Taxation, GST and the Finance Commission
+@meta Built from 67 UPPSC questions (1991–2025). Focus: GST, direct vs indirect taxes, who levies what, VAT and excise, Finance Commissions and chairmen, tax committees.
+
+@hot
+- **Finance Commission** shares taxes between Centre and States {2003, 2007, 2017, 2021}
+- **Income tax** = direct and progressive; not State-collected {1991, 1993, 2004, 2010}
+- FC chairmen: **1st Neogy, 9th Salve, 10th Pant, 11th Khusro, 12th Rangarajan, 13th Kelkar, 14th Y.V. Reddy, 16th Panagariya** {2007, 2021, 2023, 2025}
+- **Kelkar** committee = tax reform; ended Section 88 rebates {2004, 2004, 2008, 2016}
+- **GST** = indirect tax; **101st Amendment** {2017, 2021}
+- **CENVAT/MODVAT** = central excise {2004, 2008, 2011}
+@end
+
+@section 8.1 | GST
+- GST is an **indirect tax** {2017}
+- Enabled by the **101st Amendment** {2021}
+- GST creates one market and ends cascading (both) {2017}
+- GST Council: State finance ministers as members; decides rates and thresholds (1 and 2); States cannot keep VAT {2016}
+- GST in October 2020: **over Rs. 1 lakh crore** {2016}
+- ITC is input-tax credit (true); available on non-taxable supplies (false) (only 1) {2023}
+- **Revenue Neutral Rate**: **GST** {2016}
+- **Project Saksham**: **indirect tax IT network** {2017}
+
+@flow GST at a glance
+101st Amendment 2016 | Art 246A, 269A, 279A
+1 July 2017 | GST in force
+GST Council | Union FM chairs; 3/4 weighted vote
+22 Sept 2025 | GST 2.0: 5% and 18% (+40%)
+@end
+
+@section 8.2 | Direct and Indirect
+- Direct Tax Code: **income tax** {2018}
+- Expenditure tax suggested by **Kaldor** {2010}
+- Direct taxes' GNP share then about 5% (*) {2004}
+- Tax-GDP ratio: depends on year (*) {2004}
+- Indirect taxes regressive: **same rate for all incomes** {2019}
+- Income tax: **progressive and direct** (I and II) {2004, 2010}
+- Income tax introduced by **James Wilson** (1860) {2014}
+- Does not raise the buyer's price: **income tax** {1995}
+- Tax on imports and exports: **customs duty** {2006}
+- Direct: **income tax**; **wealth tax** {1991, 2014}
+- Not indirect: **income tax**; not direct: **sales tax** {1993, 1993}
+
+@section 8.3 | Who Levies What
+- 15% surcharge (2016-17): income **above Rs. 1 crore** {2016}
+- "Very senior citizens": **80 years and above** {2010}
+- Central Sales Tax: (i) and (ii) correct; not in SEZs {2010}
+- Two largest Central taxes then: excise and customs; income tax now (*) {1995}
+- 2020-21 revenue: **corporate tax 18%, income tax 17%, excise 7%, customs 4%** {2016}
+- Top Central tax 2009-10: **corporation tax** {2008, 2009}
+- Not a Central levy: **road tax** {2013}
+- Union-only: **customs and corporation tax** {2005}
+- Largest Central tax (then): excise (*) {2004}
+- Not from corporate income: **capital gains tax** {2005}
+- Not a Union tax: **entertainment tax** {1992}
+- Not a State tax: **corporation tax** {2008}
+- Liquor excise: **State Governments** {2014}
+
+@table
+Union | States | Local bodies
+Income tax, corporation tax | Agricultural income tax, land revenue | Property tax
+Customs, central excise | Liquor excise, stamp duty | Tax on fairs
+CGST, IGST | SGST, road tax | Water charges
+@end
+
+@section 8.4 | Excise, VAT, Service Tax
+- **Capital gains-sale of property, excise-factory produce, customs-imports, corporate tax-income** {2016}
+- **MODVAT**: **excise duty** {2011}
+- **CENVAT**: **central excise** {2004, 2008}
+- VAT: on **all stages** from production to sale {2006, 2012}
+- Not on VAT (2005): **Chhattisgarh and UP** {2005}
+- VAT nationwide: **2005** {2015}
+- Service tax: **indirect**, from **1994-95** (2 and 3) {2013}
+
+@section 8.5 | Finance Commission
+- FC fixes States' share of taxes and grants; primary duty: tax distribution {2003, 2007, 2017, 2021}
+- Not correct: PC and FC advice **binding** {2009}
+- Not shared with UP: **agricultural income tax** {2000}
+- 16th FC: chaired by **Arvind Panagariya** (true); set up 31 Dec 2024 (false; **2023**) (only II) {2023}
+- Not correct of 15th FC: covers only 2020-25 (it is 2020-26) {2019}
+- 13th FC's top weight: **fiscal capacity distance** {2011}
+- First FC chairman: **K.C. Neogy** {2021}
+- **11th-Khusro, 12th-Rangarajan, 13th-Kelkar, 14th-Y.V. Reddy** {2025}
+- **9th-Salve, 10th-Pant, 11th-Khusro, 12th-Rangarajan** {2007}
+- 10th FC share: **29%** {1995, 1997}
+
+@table
+FC | Chairman | States' share
+1st | K.C. Neogy | -
+10th | K.C. Pant | 29%
+13th | Vijay Kelkar | 32%
+14th | Y.V. Reddy | 42%
+15th | N.K. Singh | 41%
+16th | Arvind Panagariya | 41% (2026-31)
+@end
+
+@section 8.6 | Reforms and Local Finance
+- **Kelkar Task Force**: **taxes**; latest tax committee then {2004, 2004}
+- Abolish Section 88 rebates: **Kelkar** {2008, 2016}
+- Early-1990s tax reform: **R.J. Chelliah** {1995}
+- Different for tax relief: **Indira Vikas Patra** {1997}
+- No tax rebate: **Kisan Vikas Patra** {2008}
+- PAN 4th letter **P** = **individual** {2014}
+- PAN not valid as **proof of address** {2007}
+- AGR includes interest, dividend, forex gain (all) {2016}
+- Gratuity ceiling: Rs. 10 lakh then; now Rs. 20-25 lakh (*) {2014}
+- Panchayat funds: **FC grants, cooperative banks, CSS allocations, SFC** (1, 2, 3, 5) {2007}
+- Gram Panchayat tax: **tax on local fairs** {2018}
+- NHAI's main fund: **cess** {2011}
+
+@trap
+- **16th FC** set up **31 Dec 2023**; covers 2026-31.
+- Liquor excise and agricultural income tax = **States**.
+- **VAT 2005** (UP 2008); **service tax 1994-95**.
+@end
+
+@up UP got the largest share (about **17.9%** under the 15th FC, about 17.6% under the 16th) of devolved taxes; UP joined **VAT** only on **1 January 2008**; UP Gram Panchayats can tax **local fairs**.
+
+@last
+- GST: indirect; **101st**; 1 July 2017; Art 279A
+- Income tax: direct, progressive; James Wilson 1860
+- Kaldor = expenditure tax
+- Union: customs, corporation tax; States: liquor, farm income
+- MODVAT 1986; CENVAT 2000; VAT 2005
+- Service tax 1994-95; indirect
+- First FC **Neogy**; 13th **Kelkar**; 14th **Y.V. Reddy** (42%)
+- 16th FC **Panagariya**, 41%, 2026-31
+- Kelkar = Section 88; Chelliah = 1991 reform
+- PAN "P" = individual
+@end

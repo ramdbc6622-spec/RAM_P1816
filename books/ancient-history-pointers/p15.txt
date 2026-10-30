@@ -1,0 +1,100 @@
+@chapter 15 | Ancient Literature and Litterateurs
+@meta Built from 39 UPPSC questions (1992–2025). Focus: author-book matching for grammar, drama, poetry, history, law, medicine, mathematics and music; Kalidasa, Harsha, Kalhana, Jayadeva, Aryabhata and Bhaskara.
+
+@hot
+- **Author-book matching**: **Panini-Ashtadhyayi, Patanjali-Mahabhashya, Yaska-Nirukta, Katyayana-Varttika, Vatsyayana-Kamasutra, Chanakya-Arthashastra, Kalhana-Rajatarangini** {1992, 2010, 2017}
+- **Harsha** wrote **Priyadarshika, Nagananda, Ratnavali**; Karpuramanjari is **Rajashekhara's** {2006, 2012, 2014}
+- **Kalidasa**: Meghaduta, Raghuvamsha, **Malavikagnimitra** (hero **Agnimitra**); not Shringarashataka {1998, 2025}
+- **Kalhana's Rajatarangini**: **eight** tarangas; continued by **Jonaraja and Srivara** {2000, 2010, 2015}
+- **Bhaskara II**: algebra, **Lilavati**; **Aryabhata**: place value; zero by **Indians** {2002, 2002, 2014, 2015, 2017}
+@end
+
+@section 15.1 | Epics, Grammar and Classics
+- Vishnu Purana on the Mauryas; Vayu Purana on the Guptas (both) {2023}
+- "Thy right is to work only...": **Gita** {1992}
+- "What is here is found elsewhere...": **Mahabharata** {1992}
+- **Panini-Ashtadhyayi, Vatsyayana-Kamasutra, Chanakya-Arthashastra, Kalhana-Rajatarangini** {1992}
+- **Ashtadhyayi**: **Panini** {2010}
+- **Ashtadhyayi-Panini, Mahabhashya-Patanjali, Nirukta-Yaska, Varttika-Katyayana** {2017}
+- Gupta-age works: **Amarakosha, Kamasutra, Meghaduta, Mudrarakshasa** (all, per key) {2009}
+- Not by Kalidasa: **Shringarashataka** (Bhartrihari) {2025}
+- Hero of Malavikagnimitra: **Agnimitra** {1998}
+
+@section 15.2 | Dramatists and Prose Writers
+- Harsha's works: **Priyadarshika, Nagananda, Ratnavali** (1, 2, 4) {2014}
+- Wrong pair: **Karpuramanjari-Harsha** {2012}
+- **Bharavi-Kiratarjuniya, Harsha-Nagananda, Kalidasa-Malavikagnimitra, Rajashekhara-Karpuramanjari** {2006}
+- **Mudrarakshasa**: **Vishakhadatta** {1992}
+- Wrong pair: **Subandhu-Kadambari** (Kadambari = Bana) {2006}
+- **Dashakumaracharita**: **Dandin** {2005, 2008}
+- **Mattavilasa Prahasana**: **Mahendravarman** (Pallava) {2010}
+- **Amir Khusrau-Alauddin, Kalidasa-Chandragupta II, Harishena-Samudragupta, Banabhatta-Harsha** {2002}
+- **Jayadeva** (Gita Govinda) at **Lakshmana Sena's** court {1999, 2010}
+
+@table
+Work | Author
+Mudrarakshasa | Vishakhadatta
+Mrichchhakatika | Shudraka
+Kadambari, Harshacharita | Banabhatta
+Vasavadatta | Subandhu
+Dashakumaracharita | Dandin
+Kiratarjuniya | Bharavi
+Karpuramanjari | Rajashekhara
+Gita Govinda | Jayadeva
+@end
+
+@section 15.3 | History, Stories and Law
+- Kalhana's contemporary king: **Jayasimha** (Kashmir) {2010}
+- Rajatarangini: **eight** tarangas {2015}
+- Continued by **Jonaraja and Srivara** {2000}
+- **Trivikrama Bhatta-Nala Champu, Somadeva-Kathasaritsagara, Jayadeva-Gita Govinda, Kshemendra-Brihatkathamanjari** {2025}
+- **Manusmriti**: mainly the **social system** {2007}
+- First law-giver: **Manu** {2004, 2008}
+- **Sarvavarma-Katantra, Shudraka-Mrichchhakatika, Vijnaneshvara-Mitakshara, Kalhana-Rajatarangini** {2002, 2003}
+- **Devana Bhatta-Smriti Chandrika, Hemadri-Chaturvarga Chintamani, Madhavacharya-Parashara Madhaviya, Ballala Sena-Dana Sagara** {2024}
+
+@section 15.4 | Medicine, Mathematics, Foreign Accounts and Music
+- **Charaka Samhita**: **120 chapters, 8 sections** {2023}
+- **Ashtanga Sangraha-medicine, Dasharupaka-drama, Lilavati-maths, Mahabhashya-grammar** {2002}
+- **Zero**: invented by **Indians** {2015}
+- Decimal place value: **Aryabhata** (key) {2014}
+- Algebra: **Bhaskara** {2002, 2002}
+- **Lilavati**: **Bhaskaracharya** {2017}
+- **Panchasiddhantika** (Varahamihira): based on **Greek astronomy** (in part) {2014}
+- **Milindapanha**: a **Pali** text {1996}
+- Wrong pair: **Natural History-Ptolemy** (it is **Pliny**) {2015}
+- "Bible" of North Indian music: **Natyashastra** {2019}
+- Oldest instrument among options: **veena** {2010}
+- **Ragamala-Pundarik Vitthal, Rasakaumudi-Srikantha, Ragavibodha-Somanatha, Chaturdandi Prakashika-Venkatamakhi** {2022}
+
+@table
+Scientist | Work
+Aryabhata | Aryabhatiya (499 CE); place value, earth's rotation
+Varahamihira | Panchasiddhantika, Brihat Samhita
+Brahmagupta | Brahmasphutasiddhanta; rules of zero
+Bhaskara II | Lilavati, Bijaganita
+Charaka | Charaka Samhita (medicine)
+Sushruta | Sushruta Samhita (surgery)
+@end
+
+@trap
+- Harsha wrote three plays; **Harshacharita** is Bana's and **Karpuramanjari** is Rajashekhara's.
+- **Katyayana** wrote the Varttika; **Patanjali** the Mahabhashya.
+- Kadambari = **Bana**; Vasavadatta = **Subandhu**.
+- Natural History = **Pliny**; Geography = **Ptolemy**.
+@end
+
+@up UP link: **Banabhatta** wrote the Harshacharita at Harsha's court in **Kannauj**; **Varanasi** remained the chief seat of Sanskrit learning, and **Ayodhya** and **Naimisharanya** are the settings of epic and Puranic narration.
+
+@last
+- Panini = Ashtadhyayi; Patanjali = Mahabhashya; Yaska = Nirukta
+- Vatsyayana = Kamasutra; Kalhana = Rajatarangini (8 tarangas)
+- Kalidasa = Malavikagnimitra (Agnimitra), Meghaduta
+- Harsha = Priyadarshika, Nagananda, Ratnavali
+- Vishakhadatta = Mudrarakshasa; Dandin = Dashakumaracharita
+- Mahendravarman = Mattavilasa Prahasana
+- Jayadeva = Gita Govinda (Lakshmana Sena)
+- Vijnaneshvara = Mitakshara; Manu = first law-giver
+- Bhaskara = Lilavati, algebra; Aryabhata = place value
+- Natyashastra = bible of music; Pliny = Natural History
+@end

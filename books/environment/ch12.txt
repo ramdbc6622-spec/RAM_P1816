@@ -1,0 +1,577 @@
+@chapter 12 | Biosphere Reserves, Wildlife Sanctuaries and Project Tiger
+
+@intro
+This chapter completes India's protected-area network. It covers India's **18 biosphere reserves** (13 in UNESCO's network) and their states, the best-known **wildlife sanctuaries** (Periyar, Namdapha, the Wild Ass Sanctuary, National Chambal) and **Project Tiger** (1973): tiger reserves by state, the largest reserve, tiger censuses and Tiger Day. UP's own reserves (**Dudhwa, Pilibhit, Amangarh, Ranipur**) appear in UP-link notes. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 12.1 | Biosphere Reserves
+
+@pyq U.P. Lower Sub. (Spl) (Pre) 2004
+Biosphere reserves are areas to preserve –
+(a) Grasslands
+(b) Agricultural produce
+(c) Atmospheric balance
+(d) Genetic diversity
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2013
+Which one of the following pairs is correctly matched?
+(a) Biosphere reserves - Edward Suess
+(b) Ecosystem - A.P. de Candolle
+(c) Ecology - A.G. Tansley
+(d) Biodiversity - Reiter
+@ans (a)
+@end
+
+The word "**biosphere**" was coined by **Eduard Suess** (1875). A **biosphere reserve**, under UNESCO's **Man and the Biosphere (MAB)** programme (1971), has three zones: a strictly protected **core**, a **buffer** where research and limited use are allowed, and an outer **transition** zone where people live and farm.
+
+@pyq U.P.P.C.S. (Mains) 2009
+Which one of the following does not find a place in the UNESCO network of biosphere reserve?
+(a) Sunderban
+(b) Gulf of Mannar
+(c) Rann of Kutch
+(d) Nilgiri
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Which one of the following is (regarding area) the largest UNESCO approved biosphere reserve of India?
+(a) Nilgiri
+(b) Nanda Devi
+(c) Sunderban
+(d) Gulf of Mannar
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (Biosphere sites) | List-II (Year of setting up)
+A. Nilgiri | 1. 2000
+B. Nanda Devi | 2. 1989
+C. Sunderban | 3. 1988
+D. Kanchenjunga | 4. 1986
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 2 3 1 4
+@ans (b)
+@end
+
+@table
+Biosphere reserve | State | Year | In UNESCO MAB?
+**Nilgiri** (India's first) | TN, Kerala, Karnataka | **1986** | Yes (2000)
+**Nanda Devi** | Uttarakhand | 1988 | Yes
+**Nokrek** | Meghalaya (**Garo Hills**) | 1988 | Yes
+**Gulf of Mannar** | Tamil Nadu | 1989 | Yes (largest UNESCO-listed in India)
+**Sundarbans** | West Bengal | 1989 | Yes
+Manas | Assam | 1989 | No
+Great Nicobar | Andaman and Nicobar | 1989 | Yes
+**Similipal** | Odisha | 1994 | Yes
+Dibru-Saikhowa | Assam | 1997 | No
+**Dihang-Dibang** | **Arunachal Pradesh** | 1998 | No
+**Pachmarhi** | Madhya Pradesh | 1999 | Yes
+**Khangchendzonga** | Sikkim | 2000 | Yes
+**Agasthyamalai** | Kerala, Tamil Nadu | 2001 | Yes
+**Achanakmar-Amarkantak** | MP, Chhattisgarh | 2005 | Yes
+**Kachchh** (largest overall) | Gujarat | 2008 | No
+**Cold Desert** (16th) | **Himachal Pradesh** | 2009 | Yes (2025)
+Seshachalam | Andhra Pradesh | 2010 | No
+**Panna** | Madhya Pradesh | 2011 | Yes (2020)
+@end
+
+India now has **18 biosphere reserves**, of which **13** are in UNESCO's World Network.
+
+@pyq U.P.P.C.S.(Pre) 2013
+Match List-I with List-II and select the correct answer by using codes given below the lists:
+@match
+List-I (Biosphere Reserve) | List-II (Location)
+A. Nokrek | 1. Kerala
+B. Manas | 2. Assam
+C. Dehang Debang | 3. Meghalaya
+D. Agasthyamalai | 4. Arunachal Pradesh
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 3 2 4 1
+(c) 4 1 3 2
+(d) 1 4 2 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024; U.P.B.E.O. (Pre) 2019
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+@match
+List-I (Biosphere Reserve) | List-II (State)
+A. Simlipal | 1. Kerala
+B. Nokrek | 2. Odisha
+C. Agasthyamalai | 3. Assam
+D. Manas | 4. Meghalaya
+@endmatch
+Codes : A B C D
+(a) 1 2 4 3
+(b) 3 1 4 2
+(c) 2 4 3 1
+(d) 2 4 1 3
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2007
+Which of the following pairs is correctly matched?
+(a) Similipal – Assam
+(b) Nokrek – Meghalaya
+(c) Dihang-Dibang – Sikkim
+(d) Agasthyamalai – Karnataka
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following pair/pairs is/are not correctly matched?
+(Biosphere Reserve) - (State)
+1. Nokrek – Manipur
+2. Manas – Assam
+3. Agasthyamalai – Kerala
+Choose the correct answer using the code given below:
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (d)
+@end
+
+@one
+Match List-I (Biosphere Reserve) with List-II (State): A. Similipal, B. Dihang-Dibang, C. Nokrek, D. Cold Desert with 1. Himachal Pradesh, 2. Uttarakhand, 3. Arunachal Pradesh, 4. Odisha, 5. Meghalaya.
+@ans A–4, B–3, C–5, D–1
+@end
+
+@one U.P.P.C.S. (Pre) 2021
+Match List-I (Biosphere): A. Similipal, B. Pachmarhi, C. Nandadevi, D. Nokrek with List-II (Location): 1. Uttarakhand, 2. Meghalaya, 3. Madhya Pradesh, 4. Odisha.
+@ans A-4, B-3, C-1, D-2
+@end
+
+@pyq U.P. P.C.S. (Mains) 2013
+Which of the following pairs is not correctly matched?
+Biosphere Reserve - Location
+(a) Manas – Meghalaya
+(b) Nanda Devi – Uttarakhand
+(c) Khangchendzonga – Sikkim
+(d) Agasthyamalai – Kerala
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List – I (Bio-reserve Sector) | List – II (State)
+A. Manas | 1. Madhya Pradesh
+B. Sundarbans | 2. Uttar Pradesh
+C. Nanda Devi | 3. Assam
+D. Pachmarhi | 4. West Bengal
+@endmatch
+Code : A B C D
+(a) 4 3 2 1
+(b) 3 4 2 1
+(c) 2 1 3 4
+(d) 1 2 3 4
+@ans (*)
+@note Code (b) gives Manas-Assam, Sundarbans-West Bengal and Pachmarhi-MP correctly, but it pairs **Nanda Devi** with **Uttar Pradesh**. Nanda Devi is in **Uttarakhand**, which was part of UP until 2000. Because of this the source marks the question (*). The intended answer is (b).
+@end
+
+@pyq U.P.P.S.C. (R.I.) 2014
+Which of the following biosphere reserves of India is spread over Garo Hills?
+(a) Nokrek
+(b) Agasthyamalai
+(c) Dehang Debang
+(d) Nanda Devi
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+The 16th Biosphere Reserve of India' Cold Desert, lies in –
+(a) Arunachal Pradesh
+(b) Himachal Pradesh
+(c) Jammu and Kashmir
+(d) Uttarakhand
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005; U.P.P.C.S. (Pre) 2008
+Which one of the following is a 'World Heritage' site?
+(a) Nanda Devi Biosphere Reserve
+(b) Corbett National Park
+(c) Rajaji National Park
+(d) Gir Forest
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Spl) (Mains) 2008
+"Bhitarkanika" which has recently been included in the list of 'World Heritage Sites' is situated in –
+(a) Andhra Pradesh
+(b) Chhattisgarh
+(c) Odisha
+(d) West Bengal
+@ans (c)
+@note **Bhitarkanika** (Odisha) was placed on UNESCO's **Tentative List** in 2009. It has not been inscribed as a World Heritage Site, but it is a **Ramsar site** (2002).
+@end
+
+@section 12.2 | Wildlife Sanctuaries
+
+@pyq U.P.P.C.S (Pre) 2011
+The Periyar Game Sanctuary is famous for –
+(a) Lions
+(b) Spotted deer
+(c) Tigers
+(d) Wild Elephants
+@ans (d)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+In which state Periyar Wildlife Sanctuary is located
+(a) Kerala
+(b) Tamil Nadu
+(c) Karnataka
+(d) Telangana
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+The Chinar Wildlife Sanctuary is located in –
+(a) Jammu and Kashmir
+(b) Kerala
+(c) Sikkim
+(d) Tamil Nadu
+@ans (b)
+@end
+
+**Chinnar** (Idukki, Kerala) lies in the rain shadow of the Western Ghats. It is home to the **grizzled giant squirrel**. The name has nothing to do with the chinar tree of Kashmir, which is the trap in this question.
+
+@pyq U.P.P.C.S (Pre) 2010
+Where is the wild ass sanctuary?
+(a) U.P.
+(b) Assam
+(c) Gujarat
+(d) Rajasthan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2012
+Kaziranga is known for –
+(a) Rhinoceros
+(b) Tiger
+(c) Birds
+(d) Lion
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (Sanctuary) | List-II (State)
+A. Garmpani | 1. Andhra Pradesh
+B. Nam Dafa | 2. Arunachal Pradesh
+C. Pakhal | 3. Assam
+D. Sariska | 4. Rajasthan
+@endmatch
+Codes : A B C D
+(a) 2 3 1 4
+(b) 4 3 1 2
+(c) 1 2 4 3
+(d) 3 2 1 4
+@ans (*)
+@note Code (d) fitted at the time: Garampani in Assam, Namdapha in Arunachal Pradesh, Pakhal in (undivided) Andhra Pradesh and Sariska in Rajasthan. **Pakhal** is now in **Telangana** (since 2014), so the source marks the question (*).
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Match List-I with List-II and select the correct answer from codes given below the lists :
+@match
+List-I (Wild Life Sanctuary) | List-II (State)
+A. Namdapha | 1. Karnataka
+B. Bandipur | 2. Arunachal Pradesh
+C. Periyar | 3. Manipur
+D. Lamjao | 4. Kerala
+@endmatch
+Codes : A B C D
+(a) 2 1 4 3
+(b) 4 3 2 1
+(c) 4 2 1 3
+(d) 2 4 3 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2014
+Match List – I with List – II and select the correct answer from codes given below:
+@match
+List – I (Park/Sanctuary) | List – II (State)
+A. Dochigam Wildlife Sanctuary | 1. Madhya Pradesh
+B. Keoladeo Ghana Bird Sanctuary | 2. Rajasthan
+C. Kanha National Park | 3. Kerala
+D. Periyar Wildlife Sanctuary | 4. Jammu and Kashmir
+@endmatch
+Codes : A B C D
+(a) 4 2 1 3
+(b) 1 3 2 4
+(c) 2 1 4 3
+(d) 3 4 2 1
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which of the following is not correctly matched?
+(a) Bandipur National Park Karnataka
+(b) Manas Wildlife Sanctuary Assam
+(c) Periyar Wildlife Sanctuary Kerala
+(d) Simlipal National Park Madhya Pradesh
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+The bird sanctuary of Tamil Nadu is located in –
+(a) Karikili
+(b) Kalakadu
+(c) Kunthakulum
+(d) Mudumalai
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2020
+The National Chambal Sanctuary does NOT fall in which of the following states?
+(a) Uttar Pradesh
+(b) Madhya Pradesh
+(c) Haryana
+(d) Rajasthan
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Which of the following Wildlife Sanctuaries of U.P. was established in 1975?
+(a) Katarniaghat
+(b) Kishanpur
+(c) Chambal
+(d) Raipur
+@ans (*)
+@note Official UP records give different years. **Katarniaghat** is usually dated **1975** (notified 1976), **Kishanpur** 1972 and **National Chambal** 1979, so (a) is the intended answer. The source marks the question (*) because the UP Forest Statistics Book lists dates that do not match any single option cleanly.
+@end
+
+@up UP link: UP's main protected areas are **Dudhwa NP** (Lakhimpur Kheri), and the sanctuaries **Kishanpur**, **Katarniaghat** (gharial, Gangetic dolphin), **National Chambal** (gharial, dolphin, a tri-state UP-MP-Rajasthan sanctuary), **Chandraprabha** (Chandauli, 1957; Asiatic lions were introduced here in 1958 but did not survive), **Ranipur** (Chitrakoot), **Sohagibarwa** (Maharajganj), **Hastinapur** (Meerut-Bijnor), **Okhla** bird sanctuary and the **Nawabganj, Sandi, Samaspur, Lakh Bahosi** bird sanctuaries.
+
+@pyq U.P.P.C.S. (Mains) 2016
+Shuklaphanta Wildlife Reserve is located in
+(a) Nepal
+(b) Myanmar
+(c) Bhutan
+(d) Sri Lanka
+@ans (a)
+@end
+
+**Shuklaphanta** (far-west Nepal) borders UP's **Pilibhit-Kishanpur** area and is part of the cross-border **Terai Arc Landscape** for tigers, swamp deer and elephants.
+
+@pyq U.P.P.C.S. (Pre) 2015
+The largest Botanical garden of the world is at –
+(a) Kew (England)
+(b) Paris (France)
+(c) Howrah (India)
+(d) Tokyo (Japan)
+@ans (a)
+@end
+
+@section 12.3 | Project Tiger and Tiger Reserves
+
+@pyq U.P.P.C.S. (Pre) 1994
+'Project Tiger' of the Government envisages:
+(a) To observe the habits of the tiger
+(b) Collect vital information about different species
+(c) To save the Indian tiger from extinction
+(d) None of these
+@ans (c)
+@end
+
+@one U.P.P.C.S. (Pre) 2002; U.P. P.C.S. (Pre) 2018
+'Project Tiger' in India was started in
+@ans 1973
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+International 'Tiger Day' is observed on –
+(a) 24th July
+(b) 29th July
+(c) 20th July
+(d) 25th July
+@ans (b)
+@end
+
+@pyq U.P.P.C.S (Pre) 2011
+The World Tiger Summit, 2010 was held at –
+(a) Bangkok
+(b) Nairobi
+(c) New Delhi
+(d) Petersburg
+@ans (d)
+@end
+
+**Project Tiger** began on **1 April 1973** at **Corbett** with **9 reserves**. It is now run by the **National Tiger Conservation Authority** (2006). The **St. Petersburg Tiger Summit (2010)** set the **TX2** goal of doubling wild tigers by 2022, which India met early, and declared **29 July** as **International Tiger Day**.
+
+@pyq U.P.P.S.C. (Pre) 2020
+With reference to the detailed report of Tiger Census 2018 released by Government of India in July 2020, which of the following Statement(s) is/are correct?
+1. India has 70% of total global tiger's population.
+2. Nearly 30% of India's tigers live outside tiger reserves.
+Select the correct answer from the codes given below.
+Codes :
+(a) 1 only
+(b) 2 only
+(c) 1 and 2 both
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+@table
+Tiger census | Count (central estimate)
+2006 | 1,411
+2010 | 1,706
+2014 | 2,226
+2018 | 2,967 (about 70% of the world's tigers)
+**2022** | **3,682** (about 75% of the world's); most in **MP** (785), then Karnataka, Uttarakhand, Maharashtra
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The largest Tiger Habitat in India is in –
+(a) Andhra Pradesh
+(b) Karnataka
+(c) Madhya Pradesh
+(d) Uttar Pradesh
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Match List-I and List-II and select the correct answer using codes given below the Lists :
+@match
+List-I (Tiger Reserve) | List-II (State)
+A. Bandipur | 1. West Bengal
+B. Melghat | 2. Karnataka
+C. Buxa | 3. Arunachal Pradesh
+D. Pakke | 4. Maharashtra
+@endmatch
+Codes : A B C D
+(a) 3 4 2 1
+(b) 2 4 1 3
+(c) 2 3 1 4
+(d) 1 2 4 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2006
+Match List-I with List-II and select the correct answer using codes given below the Lists :
+@match
+List-I (Tiger Reserve) | List-II (State)
+A. Bandipur | 1. Assam
+B. Manas | 2. Arunachal Pradesh
+C. Namdapha | 3. Karnataka
+D. Simlipal | 4. Odisha
+@endmatch
+Codes : A B C D
+(a) 3 1 2 4
+(b) 1 2 3 4
+(c) 3 1 4 2
+(d) 4 3 2 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following Tiger reserves of India is located in Mizoram?
+(a) Melghat
+(b) Buxa
+(c) Dampha
+(d) Bhadra
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following pairs is not correctly matched?
+Tiger Reserve - State
+(a) Buxa - Bihar
+(b) Dampa - Mizoram
+(c) Nameri - Assam
+(d) Namdapha - Arunachal Pradesh
+@ans (a)
+@end
+
+@one U.P.P.C.S. (Pre) 2003
+Buxa Tiger Reserve is located in which State of India?
+@ans West Bengal
+@end
+
+@pyq U.P.P.C.S. (Mains) Spl. 2008
+Which of the following tiger reserve lies in two States ?
+(a) Kanha
+(b) Manas
+(c) Pench
+(d) Sariska
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+The famous Tiger Reserve 'Sariska' is situated in which of the following States?
+(a) Uttar Pradesh
+(b) Rajasthan
+(c) Uttarakhand
+(d) Madhya Pradesh
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2021
+Which of the following Tiger Reserves is not situated in Madhya Pradesh?
+(a) Amangarh
+(b) Bandhavgarh
+(c) Kanha
+(d) Sanjay-Dubri
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following has been recently declared as 'Tiger Reserve'?
+(a) Balpakram National Park
+(b) Rajaji National Park
+(c) Betala National Park
+(d) Kaziranga National Park
+@ans (b)
+@end
+
+@pyq U.P.R.O/A.R.O. (Pre) 2014
+Which of the following National Parks has started to use a drone or unmanned aerial vehicle for wildlife management?
+(a) Bandipur Tiger Reserve
+(b) Corbett Tiger Reserve
+(c) Ranthambore Tiger Reserve
+(d) Periyar Tiger Reserve
+@ans (a)
+@end
+
+@table
+Tiger reserve fact | Detail
+Number of reserves | **58** (2025)
+Largest | **Nagarjunsagar-Srisailam** (Andhra Pradesh)
+State with most reserves | **Madhya Pradesh** (9) and Maharashtra
+Smallest | Bor (Maharashtra)
+Two-state reserve | **Pench**: Pench MP (Seoni-Chhindwara) and Pench Maharashtra (Nagpur) are separate reserves of the same forest
+Mizoram | **Dampa**
+West Bengal | **Buxa**, Sundarbans
+Arunachal Pradesh | Namdapha, **Pakke**, Kamlang
+@end
+
+@up UP link: UP has **four tiger reserves**: **Dudhwa** (1987, with Kishanpur and Katarniaghat), **Pilibhit** (2014, which won the first global **TX2 award** in 2020 for doubling its tigers), **Amangarh** (Bijnor, the buffer of Corbett) and **Ranipur** (Chitrakoot, 2022, UP's 4th). UP had about **205 tigers** in the 2022 count.
+
+@trap
+**Buxa = West Bengal**, not Bihar. **Dampa = Mizoram.** **Pakke = Arunachal.** **Amangarh = UP**, not MP. **Manas = Assam**, not Meghalaya. **Nokrek = Meghalaya (Garo Hills)**, not Manipur. **Cold Desert = Himachal.** **Chinnar = Kerala**, not Kashmir. **Tiger Day = 29 July.**
+@end
+
+@heatmap
+
+@pattern
+These are three heavily tested protected-area lists. **Biosphere reserve-state matches** were asked eight times, including 2019, 2021, 2022, 2024 and 2025 (Nokrek, Manas and Agasthyamalai keep recurring). **Tiger reserve-state matches** come next (Buxa, Dampa, Pakke, Amangarh). Recent papers add **census statements** (2018, 2022). Learn the three tables in this chapter.
+@end
+
+@next
+Likely next angles: India's **58th tiger reserve** (Madhav, 2025) and the newest reserves (Guru Ghasidas-Tamor Pingla, Dholpur-Karauli, Veerangana Durgavati), **Cold Desert** joining UNESCO's MAB network (2025), the **2026 tiger estimation**, **Ranipur TR**, the cheetah project at **Kuno-Gandhi Sagar**, and the **International Big Cat Alliance** (2023, headquarters in India).
+@end

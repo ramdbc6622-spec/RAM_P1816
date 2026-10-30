@@ -1,0 +1,641 @@
+@chapter 16 | Non-Metals, Gases, Acids, Bases and Salts
+
+@intro
+This chapter starts with **carbon** and its forms (diamond, graphite, fullerene, **graphene**, dry ice, coal), then **hydrogen** (heavy water, hydrogenation of oils), the **noble gases** and **nitrogen** compounds (laughing gas, aircraft tyres, balloons), and ends with **acids, bases and salts**: the pH scale, **aqua regia**, and the common names of chemicals (washing soda, baking soda, bleaching powder, hypo, plaster of Paris, silver bromide). It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 16.1 | Carbon and Its Allotropes
+
+@pyq U.P. P.C.S. (Mains) 2016
+Which one of the following elements forms the maximum number of compounds?
+(a) Hydrogen
+(b) Carbon
+(c) Nitrogen
+(d) Oxygen
+@ans (b)
+@end
+
+
+Carbon forms more compounds than any other element (millions) because of **catenation**: its atoms bond to each other in long chains and rings, and it has a valency of four. This is the basis of organic chemistry.
+
+@pyq U.P. P.C.S. (Pre) 2022
+Thermodynamically the most stable form of carbon is :
+(a) Fullerenes
+(b) Diamond
+(c) Coal
+(d) Graphite
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which of the following is made up of Carbon only?
+(a) Kevlar
+(b) Lexan
+(c) Graphene
+(d) Spider silk
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Graphene is
+(a) An alloy of carbon
+(b) Nano structure of carbon
+(c) Isotope of carbon
+(d) None of the above
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following materials is strongest?
+(a) German Silver
+(b) Brass
+(c) Steel
+(d) Graphene
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which of these is not an additional form of Carbon?
+(a) Diamond
+(b) Graphite
+(c) Oxocarbon
+(d) Fullerenes
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1995
+Which of the following is a fundamental element :
+(a) Sand
+(b) Diamond
+(c) Marble
+(d) Sugar
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) (Re. Exam) 2016
+Which of the following is a naturally occurring hardest substance on the Earth?
+(a) Graphite
+(b) Wurtzite boron nitride
+(c) Iron
+(d) Diamond
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994; U.P.P.C.S. (Mains) 2006
+Pencil lead is :
+(a) Graphite
+(b) Charcoal
+(c) Lamp black
+(d) Coal
+@ans (a)
+@end
+
+
+@table
+Form of carbon | Structure | Properties and uses
+**Diamond** | Each atom bonded to 4 others in 3-D | **Hardest natural substance**; poor conductor; cutting, jewellery; weight in **carats (1 carat = 200 mg)**
+**Graphite** | Flat layers of hexagons | **Thermodynamically most stable**; soft, slippery, **conducts electricity**; **pencil "lead"**, lubricant, electrodes, moderator
+**Fullerene** (C_{60}, buckyball) | Football-like cage of 60 atoms (pentagons and hexagons) | Discovered **1985** by **Kroto, Curl and Smalley** (Nobel Chemistry **1996**)
+**Graphene** | **Single layer** of graphite, one atom thick | **Strongest material** known, excellent conductor; isolated in **2004** (Geim and Novoselov, Nobel Physics 2010)
+Carbon nanotubes | Rolled graphene sheets | Very strong, light
+Amorphous forms | Coal, charcoal, coke, lamp black | Fuels, filters, pigments
+@end
+
+Diamond is the pure element carbon; sand (SiO_{2}), marble (CaCO_{3}) and sugar are compounds. **Oxocarbons** are compounds of carbon and oxygen (CO, CO_{2}), not allotropes.
+
+@pyq U.P.P.C.S. (Pre) 2009
+Third allotrope of Carbon was discovered by three scientists, who were awarded the Nobel Prize for Chemistry. Find out who was not on that team–
+(a) H.W. Kroto
+(b) R.F. Curl
+(c) R.E. Smalley
+(d) Faimen
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Buckminsterfullerene is –
+(a) A form of carbon compound of clusters of 60 carbon atoms bond together in polyhedral structure composed of pentagons or hexagons
+(b) A polymer of fluorine
+(c) An isotope of carbon heavier than C14
+(d) None of these
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2001, 2003; U.P.U.D.A./L.D.A. (Pre) 2001; U.P. Lower Sub. (Pre) 2002, 2003
+Which one of the following pairs is not correctly matched?
+(a) Fullerene Organic compounds containing fluorine
+(b) Dry Ice Solid carbon dioxide
+(c) Keratin Protein found in the outer layer of human skin
+(d) Mustard gas Poisonous liquid used is chemical warfare
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006; U.P. P.C.S. (Mains) 2017
+Which one of the following pairs is not correctly matched?
+(a) Dry ice : Solid carbon dioxide
+(b) Sevin : Insecticide
+(c) Teflon : Polymer containing fluorine
+(d) Fullerene : Organic compound containing fluorine
+@ans (d)
+@end
+
+
+Fullerenes contain **only carbon**, not fluorine; **Teflon** is the fluorine polymer. **Keratin** is the protein of skin, hair and nails, and **mustard gas** is a blistering chemical weapon.
+
+@pyq U.P.P.C.S. (Pre) 2019
+Arrange the following substances in chronological order of their first synthesis in lab :
+1. Black gold
+2. Fullerene
+3. Graphene
+4. Kevlar
+Select correct answer from the codes given below :
+Codes :
+(a) 1 2 3 4
+(b) 4 2 3 1
+(c) 2 4 3 1
+(d) 4 1 2 3
+@ans (b)
+@end
+
+**Kevlar** (Stephanie Kwolek, DuPont, 1965) → **fullerene** (1985) → **graphene** (2004) → "**black gold**" (gold nanoparticles that absorb light for capturing CO_{2}, reported by TIFR Mumbai in 2019).
+
+@pyq U.P. Lower Sub. (Mains) 2013
+Which of the following do not contain carbon ?
+(a) Diamond
+(b) Graphite
+(c) Coal
+(d) Sand
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1993
+Which of these consists carbon?
+(a) Lignite
+(b) Tin
+(c) Silver
+(d) Iron
+@ans (a)
+@end
+
+@one
+Among the following types of coal, which one has the highest percentage of carbon?
+@ans Anthracite
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2014
+The highest amount of Carbon is in –
+(a) Pig Iron
+(b) Wrought Iron
+(c) Steel
+(d) Alloy Steel
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+For the sale of diamonds, the unit of weight is carat. One carat is equal to –
+(a) 100 mg
+(b) 200 mg
+(c) 300 mg
+(d) 400 mg
+@ans (b)
+@end
+
+
+@table
+Coal | Carbon content
+Peat | About 50-60% (first stage)
+**Lignite** (brown coal) | About 60-70%
+Bituminous | About 70-85% (most common, coking coal)
+**Anthracite** | **About 90-95%** (best quality, Jammu and Kashmir)
+@end
+
+**Pig (cast) iron** has the most carbon (about 3-4.5%), steel 0.1-1.5%, and **wrought iron** the least (below 0.1%).
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001
+Consider the following statements and select the correct answer from the codes given below
+(1) Water becomes harder due to the presence of Calcium Sulphate and it is not usable.
+(2) Diamond is harder than copper and iron.
+(3) Oxygen is the main component of air.
+(4) Nitrogen is used in the manufacture of vegetable ghee.
+Code :
+(a) 1 and 2
+(b) 3 and 4
+(c) 1 and 3
+(d) 2 and 4
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009, 2014; U.P.U.D.A./L.D.A. (Pre) 2013
+Which one of the following is called ‘dry ice’?
+(a) Dehydrated ice
+(b) Solid hydrogen peroxide
+(c) Solid water
+(d) Solid carbon dioxide
+@ans (d)
+@end
+
+
+**Dry ice** is solid CO_{2} at -78.5°C; it **sublimes** directly into gas and is used to keep things cold in transport and for stage fog. **Nitrogen** (78%) is the main component of air, and **hydrogen** is used to make vanaspati ghee.
+
+@section 16.2 | Hydrogen and Water
+
+@pyq U.P.P.C.S. (Pre) 2007
+Which of the following is the most common element in the Universe?
+(a) Hydrogen
+(b) Oxygen
+(c) Nitrogen
+(d) Carbon
+@ans (a)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Which one of the following fuels causes minimum air pollution?
+(a) Kerosene oil
+(b) Hydrogen
+(c) Coal
+(d) Diesel
+@ans (b)
+@end
+
+
+**Hydrogen** makes up about **three-quarters of the ordinary matter** of the universe by mass; **helium** comes second. Burned, it gives only water, so it is the **cleanest fuel** (India's **National Green Hydrogen Mission**, 2023).
+
+@pyq U.P.P.C.S. (Mains) 2007; U.P.P.C.S. (Pre) 1993, 2016
+Heavy water –
+(a) Contains more dissolved air
+(b) Contains deuterium in place of Hydrogen
+(c) Contains more dissolved minerals and salts
+(d) Contains organic impurities
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Mains) 2015
+Heavy water has molecular weight :
+(a) 18
+(b) 20
+(c) 36
+(d) 54
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2013
+The process used for transforming salty water into pure water is called –
+(a) Deliquescence
+(b) Efflorescence
+(c) Electric separation
+(d) Reverse osmosis
+@ans (d)
+@end
+
+
+**Heavy water** (D_{2}O, deuterium oxide) has a molecular mass of about **20** (ordinary water 18). It is used as a **moderator and coolant** in nuclear reactors. **Reverse osmosis** turns salt water into drinking water.
+
+@pyq U.P.P.C.S. (Mains) 2013
+The gas used in the manufacture of Vanaspati Ghee from Vanaspati Oil is –
+(a) Hydrogen
+(b) Oxygen
+(c) Nitrogen
+(d) Carbon dioxide
+@ans (a)
+@end
+
+
+
+**Hydrogenation**: hydrogen gas is passed through vegetable oil at about 150-200°C with finely divided **nickel** as a catalyst, turning unsaturated liquid oils into **semi-solid vanaspati**. It creates **trans fats**, which raise heart-disease risk; FSSAI limits trans fat to **2%** of oils and fats.
+
+@section 16.3 | Noble Gases and Nitrogen
+
+@pyq U.P. P.C.S. (Pre) 2023
+Which of the following elements is not a Noble gas?
+(a) Argon
+(b) Krypton
+(c) Actinium
+(d) Radon
+@ans (c)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016; U.P. P.C.S. (Mains) 2014; U.P. Lower Sub. (Pre) 2004
+Which of the following pair of gases is used for the respiratory activities of divers?
+(a) Oxygen and Nitrogen
+(b) Oxygen and Helium
+(c) Oxygen and Argon
+(d) Oxygen and Neon
+@ans (b)
+@note The source prints the option labels out of order; the intended answer, as its explanation says, is **oxygen and helium**.
+@end
+
+Deep-sea divers breathe **heliox** (helium + oxygen) because helium, unlike nitrogen, dissolves little in blood under pressure, which avoids **nitrogen narcosis** and the **bends** (decompression sickness).
+
+@pyq U.P.P.C.S. (Pre) 1993
+Easily soluble in water –
+(a) Carbon
+(b) Nitrogen
+(c) Ammonia
+(d) Iodine
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011; U.P.U.D.A./L.D.A. (Mains) 2010
+Which is used as Laughing gas –
+(a) Nitrous oxide
+(b) Nitrogen dioxide
+(c) Nitrogen trioxide
+(d) Nitrogen tetra oxide
+@ans (a)
+@end
+
+@one
+Which of the following is known as the gas that causes laughter?
+@ans Nitrous oxide
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following is not correct?
+(a) Bordeaux mixture is a mixture of copper (II) sulphate and calcium hydroxide in water and is used as a fungicide.
+(b) Boric acid is used in pharmaceutical industry and also as a food preservative.
+(c) Dry ice is solid carbon dioxide
+(d) Nitric oxide is laughing gas.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2008
+Discharge of nitrogen causes –
+(a) Increase in the amount of atmospheric nitrogen
+(b) Increase in the amount of nitrogen in lithosphere
+(c) The amount of nitrogen in lithosphere and in atmosphere unchanged
+(d) Destruction of nitrifying bacteria
+@ans (c)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+The gas used to inflate the tyres of an aircraft is –
+(a) Hydrogen
+(b) Nitrogen
+(c) Helium
+(d) Neon
+@ans (b)
+@end
+
+
+@table
+Gas | Use / fact
+**Helium** | Balloons and airships (light and **non-flammable**), diving gas, cooling MRI magnets (liquid helium)
+**Neon** | Red-orange advertising signs
+**Argon** | Filling electric bulbs and tube lights; welding shield
+Krypton, xenon | Special lamps, camera flashes
+**Radon** | Radioactive; cancer therapy; seeps from soil
+**Nitrous oxide** (N_{2}O) | **Laughing gas**, anaesthetic; also a greenhouse gas
+Nitric oxide (NO) | Pollutant; a signalling molecule in the body
+**Nitrogen** | **Aircraft tyres** (dry, inert, steady pressure), packaging chips, preserving food; liquid N_{2} (-196°C) for freezing
+**Ammonia** | Extremely **soluble in water**; fertilisers, refrigeration
+@end
+
+**Actinium** is a radioactive metal (an actinide), not a noble gas. **Bordeaux mixture** (copper sulphate + lime) is a fungicide, and **boric acid** is an antiseptic. Nitrogen fixation and denitrification balance each other in the **nitrogen cycle**, so total nitrogen in air and land stays about the same.
+
+@pyq U.P.P.C.S (Pre) 2011
+Helium is preferred to Hydrogen in air balloons because it –
+(a) Is cheaper
+(b) Is less dense
+(c) Has greater lifting power
+(d) Does not form an explosive mixture with air
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Which of the following gasses is/are lighter than air ?
+1. Hydrogen chloride
+2. Sulfur dioxide
+3. Helium
+Select the correct answer from the code given below :
+Code :
+(a) 1 and 2
+(b) Only 3
+(c) 2 and 3
+(d) Only 1
+@ans (b)
+@end
+
+A gas is lighter than air if its molar mass is **below about 29**: hydrogen (2), **helium (4)**, methane (16), ammonia (17) and neon (20) are lighter; HCl (36.5), SO_{2} (64), CO_{2} (44) and chlorine (71) are heavier.
+
+@pyq U.P. P.C.S. (Mains) 2017
+Which one of the following elements exist in liquid state at room temperature?
+(a) Hydrogen
+(b) Oxygen
+(c) Bromine
+(d) Iodine
+@ans (c)
+@end
+
+
+**Bromine** is the only **non-metal liquid** at room temperature; **mercury** is the only liquid metal.
+
+@section 16.4 | Acids, Bases and pH
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'acid and bases', which of the following statements is/are correct?
+1. Acidic solutions have pH more than 7.
+2. Basic solutions have pH less than 7.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (b)
+@end
+
+@table
+pH | Substance
+0-1 | Battery acid, HCl in the **stomach (about 1.5-2)**
+2-3 | Lemon juice, vinegar
+4.5-5.5 | **Acid rain** (below 5.6), black coffee
+About 6.5 | Milk, saliva (6.5-7.5)
+**7** | **Pure water** (neutral, at 25°C)
+**7.35-7.45** | **Human blood** (slightly basic)
+About 8 | Sea water, baking soda solution
+10-11 | Milk of magnesia, soap
+12-14 | Lime water, **caustic soda**
+@end
+
+pH below 7 is **acidic** and above 7 is **basic**; both statements in the 2025 question are reversed.
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+‘Aqua regia’ is a mixture of which of the following?
+(a) HCl and HF
+(b) Concentrated HCl and concentrated HNO3
+(c) HCl and HBr
+(d) Concentrated HCl and concentrated H2SO4
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014
+Goldsmiths uses aqua regia, which is prepared by mixing–
+(a) Nitric acid and Sulphuric acid
+(b) Nitric acid and Hydrochloric acid
+(c) Sulphuric acid and Hydrochloric acid
+(d) Citric acid and Benzoic acid
+@ans (b)
+@end
+
+
+**Aqua regia** ("royal water") is **3 parts concentrated HCl + 1 part concentrated HNO_{3}**; it dissolves **gold and platinum**, which no single acid can.
+
+@section 16.5 | Common Salts and Their Uses
+
+@pyq U.P. Lower Sub. (Pre) 2002
+Match the following lists by using codes given below. Select the correct answer?
+@match
+List-I | List - II
+A. Washing soda | 1. Sodium Hydroxide
+B. Caustic soda | 2. Copper Sulphate
+C. Neela thotha | 3. Sodium Thiosulphate
+D. Hypo | 4. Sodium Carbonate
+@endmatch
+Code : A B C D
+(a) 1 3 4 2
+(b) 4 1 2 3
+(c) 4 2 3 1
+(d) 3 2 1 4
+@ans (b)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016, 2021
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I | List-II
+A. Bleaching powder | 1. Sodium bicarbonate
+B. Baking soda | 2. Sodium carbonate
+C. Washing powder | 3. Calcium oxychloride
+D. Plaster of Paris | 4. Calcium sulphate hemihydrate
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 2 3 4 1
+(c) 3 1 2 4
+(d) 4 3 1 2
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to Baking Soda, which of the following statements is/are correct?
+1. It is Sodium hydrogen carbonate.
+2. It is used in fire extinguishers.
+Select the correct answer from the code given below:
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2024
+The formula of baking soda is:
+(a) KHCO_{3}
+(b) Na_{2}CO_{3}
+(c) K_{2}CO_{3}
+(d) NaHCO_{3}
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl.) (Mains) 2010
+Which chemical compound is present in Bleaching Powder?
+(a) Calcium Hydroxide
+(b) Calcium Oxychloride
+(c) Calcium Carbonate
+(d) Ammonium Chloride
+@ans (b)
+@end
+
+
+@table
+Common name | Chemical | Use
+**Baking soda** | Sodium bicarbonate, **NaHCO_{3}** | Baking (releases CO_{2}), antacid, **soda-acid fire extinguishers**
+**Washing soda** | Sodium carbonate, Na_{2}CO_{3}·10H_{2}O | Washing, removing hardness of water, glass
+**Caustic soda** | Sodium hydroxide, NaOH | Soap, paper
+**Bleaching powder** | **Calcium oxychloride** (calcium hypochlorite), CaOCl_{2} | Disinfecting water, bleaching
+**Plaster of Paris** | CaSO_{4}·½H_{2}O | Casts, statues
+**Neela thotha** (blue vitriol) | Copper sulphate, CuSO_{4}·5H_{2}O | Fungicide (Bordeaux mixture)
+Green vitriol | Ferrous sulphate | Ink, iron tablets
+**Hypo** | **Sodium thiosulphate**, Na_{2}S_{2}O_{3} | Photographic **fixer**, antichlor
+**Milk of magnesia** | Magnesium hydroxide | **Antacid**
+Laughing gas | Nitrous oxide | Anaesthesia
+**Silver iodide** | AgI | **Cloud seeding** (artificial rain)
+**Silver bromide** | AgBr | Photographic film
+Lithium carbonate | Li_{2}CO_{3} | Bipolar disorder (mood stabiliser)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+Which one of the following salts should not be used as dining table salt?
+(a) Iodized salt
+(b) Sea salt
+(c) Rock salt
+(d) Processed common salt
+@ans (*)
+@note All four can be eaten, and all can be iodised, so the source marks the question (*). India requires **iodised salt** for direct consumption to prevent goitre and other iodine-deficiency disorders.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following substances is used in photography and also as an antichlor ?
+(a) Chrome red
+(b) Sodium thiosulphate
+(c) Hydrogen peroxide
+(d) Calomel
+@ans (b)
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) 2014
+The chemical used as fixer in the photography is –
+(a) Sodium thiosulphate
+(b) Borax
+(c) Sodium tetrathionate
+(d) Ammonium molybdate
+@ans (a)
+@end
+
+@one
+The hypo solution used in photography is an aqueous solution of
+@ans sodium thiosulfate
+@end
+
+@pyq U.P.P.C.S. (Mains) 2015
+Which one of the following is coated on the photographic plate?
+(a) Silver oxide
+(b) Silver bromide
+(c) Silver chloride
+(d) Silver iodide
+@ans (b)
+@end
+
+@one
+The substance useful in photography is
+@ans silver bromide
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Which one of the following is NOT correctly matched? (Substance) (Use)
+(a) Silver bromide Artificial Photosynthesis
+(b) Silver iodide Artificial rain
+(c) Lithium bicarbonate Treatment of rheumatism
+(d) Milk of magnesia Antacid
+@ans (a)
+@end
+
+
+Black-and-white film carries **silver bromide**; light reduces it, and **hypo** (sodium thiosulphate) dissolves the unexposed salt to "fix" the image. **Lithium** salts (the question's "lithium bicarbonate") are used for **bipolar disorder**, and older texts mention them for rheumatism.
+
+@trap
+**Graphite**, not diamond, is the most stable form of carbon. **Graphene = single carbon layer.** **Fullerene has no fluorine.** **Anthracite** has the most carbon; **pig iron** has the most carbon among irons. Heavy water's molecular mass is **20**. **Vanaspati = hydrogenation** with a nickel catalyst. **Laughing gas = nitrous oxide (N_{2}O)**, not nitric oxide. **Divers: helium + oxygen.** Acids have pH **below** 7. **Aqua regia = HCl + HNO_{3} (3 : 1).** **Baking soda = NaHCO_{3}**, washing soda = Na_{2}CO_{3}. **Bleaching powder = calcium oxychloride.** **Hypo = sodium thiosulphate.**
+@end
+
+@heatmap
+
+@pattern
+The **2023-2025** papers asked several basic chemistry questions each year in statement form (pH, baking soda, gases lighter than air, noble gases). Common names and uses of salts are the most repeated sub-topic across all years, followed by allotropes of carbon.
+@end
+
+@next
+Likely next angles: **green hydrogen** production and electrolysers, **carbon capture**, **graphene** applications, **trans-fat** rules, **ozone** (O_{3}) as an allotrope of oxygen, the **pH of soil** and its correction with lime or gypsum, **chlorination** and fluoride in drinking water, and **helium-3** on the Moon.
+@end

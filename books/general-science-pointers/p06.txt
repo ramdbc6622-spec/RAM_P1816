@@ -1,0 +1,97 @@
+@chapter 6 | Heat and Thermodynamics
+@meta Built from 40 UPPSC questions (1993–2025). Focus: latent heat, Celsius-Fahrenheit conversion, boiling point and pressure, pressure cookers, evaporative cooling, humidity, light clothes and cloudy nights.
+
+@hot
+- **-40** is the same on Celsius and Fahrenheit; **F = (9/5)C + 32** {2003, 2015, 2015, 2016, 2019, 2024}
+- **Pressure cooker**: higher pressure raises the **boiling point** {1995, 2007, 2015}
+- Water boils **below 100 °C** on hills: **lower air pressure** {1994, 2023}
+- **Light/white clothes** in summer: they **reflect** heat and absorb little {1993, 2007, 2016}
+- **Earthen pitcher** cools by **evaporation**; sweat cools the body {2012, 2019, 2025}
+@end
+
+@section 6.1 | Latent Heat and Temperature Scales
+- Steam burns more than boiling water: steam carries **latent heat** {1993}
+- **F = (9/5)C + 32** {2024}
+- Celsius and Fahrenheit read the same at **-40** {2003, 2015}
+- 98.4 °F = **36.89 °C** {2015}
+- 200 °F = **93.3 °C** {2019}
+- Averages follow the same rule: **F_{av} = (9/5)C_{av} + 32** {2016}
+- Alcohol thermometers in cold countries: **lower freezing point** {1997}
+- Antifreeze in car engines: **ethylene glycol** {2008, 2010}
+
+@table
+Point | Celsius | Fahrenheit | Kelvin
+Absolute zero | -273.15 | -459.67 | 0
+Same reading | -40 | -40 | 233
+Water freezes | 0 | 32 | 273
+Body temperature | 37 | 98.6 | 310
+Water boils (sea level) | 100 | 212 | 373
+@end
+
+@section 6.2 | Expansion and Cooling Devices
+- Heating expands a body and **lowers its density** {2006}
+- Glass rod in steam: width also **increases** {1994}
+- Ice melting: volume **decreases** {2012}
+- **Thermostat**: keeps **temperature** steady automatically {1993, 1996, ?}
+- Safest fridge temperature for food: **4 °C** {2007}
+- Soggy biscuits turn crisp in a fridge: **low humidity** inside {2009}
+- Ice cools a drink by taking **latent heat** (A and R true, R explains A) {2009}
+- Ice in the freezer cuts cooling: ice is a **poor conductor** (A and R true, R explains A) {2010}
+- Not true: AC and cooler **both keep humidity** (a cooler adds it, an AC removes it) {2007}
+
+@section 6.3 | Humidity and Evaporation
+- Relative humidity falls as temperature rises; evaporation raises absolute humidity (A and R true, R does not explain A) {2024}
+- Clothes dry fastest at **20% RH and 60 °C** {2008}
+- Earthen pitcher keeps water cold by **evaporation** {2012}
+- Sweating depends on **temperature and humidity** both {2019}
+- Sweat evaporation removes heat; humidity adds discomfort (A and R true, R does not explain A) {2025}
+- Humid heat felt in **humid weather** {2003}
+- **Xeric** condition: **low humidity** {2014}
+
+@section 6.4 | Pressure and Boiling Point
+- We do not feel air pressure: **blood pressure** slightly exceeds it {2010}
+- Water boils below 100 °C at height: **air pressure falls** {1994}
+- Boiling point falls with height; pressure **decreases** with height (A true, R false) {2023}
+- Pressure cooker cooks fast: water boils at a **higher temperature** {2007, 2015}
+- Cooker's top temperature depends on the **vent area and weight** {1995}
+- Salt in water: boiling point **rises**, freezing point **falls** {2006}
+- Bottle bursts on freezing: water **expands** as it freezes {1995}
+
+@flow Pressure and boiling point
+Hill station | Low pressure: water boils below 100 °C; food cooks slowly
+Sea level | 1 atm: water boils at 100 °C
+Pressure cooker | About 2 atm: boils near 120 °C; cooks fast
+Salt added | Boiling point up, freezing point down
+@end
+
+@section 6.5 | Conduction, Convection and Radiation
+- Thermos flask: no heat loss by **conduction and convection** (both; silvered walls stop radiation) {2019}
+- Best umbrella: **white on top, black below** {1993}
+- White clothes in summer: they **reflect** heat {2007}
+- Light clothes in summer: light colours absorb little heat (A and R true, R explains A) {2016}
+- Cloudy nights are warmer: clouds **stop heat radiating** away {2008}
+- Reflects most sunlight: **fresh snow** (highest albedo) {2021}
+- Cold storage lengthens fruit life: **lower respiration** {2021}
+- Wool keeps us warm, but it works by **trapping air**; the protein reason is false (A true, R false) {2001}
+
+@trap
+- Steam burns more because of **latent heat**, not higher temperature alone.
+- On hills water boils **below** 100 °C; in a cooker **above** 100 °C.
+- Salt raises boiling point but **lowers** freezing point.
+- Ice melting **shrinks** in volume; water freezing **expands**.
+@end
+
+@up UP link: Kanpur, Lucknow and Prayagraj often cross **45 °C** in May-June, and the dry **loo** wind lowers relative humidity, which is why earthen pots (matkas) from **Khurja** and Nizamabad keep water cool by evaporation.
+
+@last
+- Steam burns more = latent heat
+- **F = (9/5)C + 32**; equal at **-40**
+- Antifreeze = ethylene glycol; alcohol thermometer for cold lands
+- Fridge food at **4 °C**; ice melting reduces volume
+- Matka cools by **evaporation**; clothes dry at low RH, high temp
+- Water boils below 100 °C on hills (low pressure)
+- Pressure cooker = higher boiling point
+- Salt: BP up, FP down
+- White clothes, white-top umbrella reflect heat
+- Cloudy nights warmer; fresh snow reflects most
+@end

@@ -1,0 +1,46 @@
+@chapter 38 | Cabinet Mission Plan (1946)
+@meta Built from 10 UPPSC questions (1994–2024). Focus: the C.R. Formula, the order of events in 1946, the three ministers, the three-tier plan, the Congress and League responses.
+
+@hot
+- **Three-tier polity** proposed by the **Cabinet Mission** {1994, 2002, 2010, 2015}
+- Led by **Pethick-Lawrence** (with Cripps and A.V. Alexander) {2015, 2015, 2016}
+@end
+
+@section 38.1 | Before and During the Mission
+- C.R. Formula: **C. Rajagopalachari** {2019}
+- Order: **UK Parliamentary Delegation, RIN revolt, Cabinet Mission announced, Interim Government** {2024}
+- Arrived in India in 1946: **Cabinet Mission** {2004}
+- Led by **Sir Pethick-Lawrence** {2015, 2015}
+- Not a member: **John Simon** {2016}
+- Three-tier polity: **Cabinet Mission** {1994, 2002, 2010, 2015}
+- Congress president during the visit: **Maulana Azad** {2008}
+- Fully in favour of the Plan (per key): **Sardar Patel** {2001}
+- League withdrew its acceptance (A true); League joined the interim government (R true, not the reason) {2018}
+
+@table
+Tier | Content
+Union | Defence, foreign affairs, communications
+Groups of provinces | A (Hindu majority), B (north-west), C (Bengal, Assam)
+Provinces and states | All other subjects
+@end
+
+@trap
+- **Cripps** led the 1942 mission; in 1946 he was only a **member**.
+- C.R. Formula = **Rajagopalachari**, not C.R. Das.
+- Mission **announced** 19 February, **arrived** 24 March 1946.
+@end
+
+@up UP link: **Acharya Kripalani** became Congress president at the **Meerut** session (November 1946), after Azad and Nehru in the same year.
+
+@last
+- C.R. Formula = Rajaji, 1944
+- Cabinet Mission = 1946
+- Pethick-Lawrence = leader
+- Cripps, A.V. Alexander = members
+- John Simon not a member
+- Three-tier plan = Cabinet Mission
+- Azad = Congress president then
+- Patel = favoured Plan (key)
+- League withdrew acceptance
+- Plan date = 16 May 1946
+@end

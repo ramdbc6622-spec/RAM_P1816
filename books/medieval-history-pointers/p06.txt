@@ -1,0 +1,61 @@
+@chapter 6 | Vijayanagara Empire
+@unit UNIT II · SULTANATE STATE, CULTURE AND REGIONAL KINGDOMS
+@meta Built from 11 UPPSC questions (1993–2016). Focus: Sayana and the Sangamas, Ganga Devi, Krishnadeva Raya and the Ashtadiggajas, foreign travellers, Talikota and Hampi.
+
+@hot
+- **Krishnadeva Raya**: golden age of **Telugu**; **Ashtadiggajas** = eight Telugu poets; founded **Nagalapura** {2001, 2006, 2008, 2016}
+- **Talikota (1565)**: Vijayanagara vs **Bijapur, Ahmadnagar, Golconda** (and Bidar) {1993, 2014}
+- **Hampi** = ruins of the capital {2007, 2008}
+@end
+
+@section 6.1 | Foundation and Literature
+- **Sayana** (Vedic commentator): patronised by **Vijayanagara** rulers {2008}
+- **Madhura Vijayam** (husband's victories): **Ganga Devi** {2000}
+- **Ashtadiggajas**: **eight Telugu poets** of Krishnadeva Raya {2001}
+- Krishnadeva Raya's age: golden age of **Telugu** {2006}
+- Enthroned about 500 years before 2008: **Krishnadeva Raya** (1509) {2008}
+- City founded by Krishnadeva Raya: **Nagalapura** {2016}
+- Telugu translators: **Nannaya and Tikkana** (3 and 4) {2012}
+
+@section 6.2 | Travellers, Talikota and Hampi
+- **Abdur Razzaq** came under **Deva Raya II** {2010}
+- **Talikota**: Vijayanagara vs **Bijapur, Ahmadnagar, Golconda** {2014}
+- Talikota fought in **1565** {1993}
+- Old capital ruins: **Hampi** {2007, 2008}
+
+@table
+Traveller | Ruler | Origin
+Nicolo Conti | Deva Raya I | Italy
+Abdur Razzaq | Deva Raya II | Persia
+Domingo Paes | Krishnadeva Raya | Portugal
+Fernao Nuniz | Achyuta Raya | Portugal
+Athanasius Nikitin | Bahmani kingdom | Russia
+@end
+
+@flow Four dynasties of Vijayanagara
+Sangama (1336) | Harihara I and Bukka; Vidyaranya, Sayana
+Saluva | Saluva Narasimha
+Tuluva | Krishnadeva Raya (1509-29); Achyuta Raya
+Aravidu | After Talikota (1565); Penukonda, Chandragiri
+@end
+
+@trap
+- Ashtadiggajas = **poets**; Ashtapradhan = Shivaji's **ministers**.
+- Abdur Razzaq = **Deva Raya II**; Paes = Krishnadeva Raya.
+- Talikota was against the **Deccan sultanates**, not the Bahmanis (already split).
+@end
+
+@up UP link: **Harihara and Bukka** had served Muhammad bin Tughluq of Delhi before founding Vijayanagara in 1336, during the same revolts that hit the Doab and Awadh.
+
+@last
+- Founded 1336 by Harihara and Bukka
+- Sayana = Vijayanagara patronage
+- Ganga Devi = Madhura Vijayam
+- Krishnadeva Raya = Telugu golden age
+- Ashtadiggajas = eight Telugu poets
+- Nagalapura founded by Krishnadeva Raya
+- Abdur Razzaq = Deva Raya II
+- Paes = Krishnadeva; Nuniz = Achyuta
+- Talikota 1565 vs Deccan sultanates
+- Hampi = capital ruins
+@end

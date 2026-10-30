@@ -1,0 +1,99 @@
+@chapter 10 | States and the Union Territories
+@meta Built from 32 UPPSC questions (1990–2025). Focus: Articles 1-4, Parliament's power to redraw states, state-formation order, Sikkim, Delhi, linguistic reorganisation.
+
+@hot
+- **Parliament** alone can create states and alter boundaries (Art 2-4), by **simple majority** {1990, 2008, 2013, 2014, 2015, 2016}
+- **State-formation order** questions every few years {2006, 2008, 2009, 2010, 2013, 2013, 2014, 2021, 2025}
+- India = "**Union of States**" (Art 1); no right to secede {2008, 2008, 2019}
+- **Sikkim**: 35th Amendment (associate) and **36th (full State, 1975)** {2005, 2013}
+- First linguistic state: **Andhra (1953)** {2009, 2018}
+@end
+
+@section 10.1 | Article 1
+- India is a **Union of States** {2008}
+- States **cannot secede**; advocacy of secession is not protected speech (only 1) {2019}
+
+@section 10.2 | Articles 2 to 4
+- Power to carve a new state: **Parliament**; alter boundaries: **Parliament** {1990, 2008, 2013, 2014, 2015}
+- Not under **Art 3**: **admission of new states** (that is Art 2) {2020}
+- Wrong: such a law is **not** deemed an amendment of the Constitution (Art 4) {2011}
+- New-state Bill: **simple majority** {2016}
+- Not a provision: "a State may include a UT" (*; Parliament can merge UT areas under Art 3) {2013}
+- Wrong pair: **altering a State's name-State Legislature** (it is Parliament) {2006, 2024}
+
+@section 10.3 | Article 3 Procedure
+- President refers the Bill to the State for views in a set time; views **not binding** (both true, R not the explanation) {2023}
+- "India is not a Union" false; Parliament can alter states without consent true {1999}
+
+@flow Article 3 procedure
+President's recommendation | Bill introduced only on it
+Reference to State Legislature | Views within a set time
+Views not binding | Parliament may ignore them
+Simple majority | Not an Art 368 amendment
+@end
+
+@section 10.4 | Counting States and UTs
+- 2002: 28 States and 7 UTs; now **28 and 8** (key "none") {2002}
+- After Telangana: 29 (2014); key 28 = after J&K became a UT in 2019 {2013}
+- Not a UT: **Goa** {2013}
+
+@section 10.5 | Delhi and Sikkim
+- Delhi made **National Capital Territory**: **69th Amendment** (1991) {2014}
+- Sikkim: **35th** (associate state, 1974) per key; full state by **36th** (1975) {2005, 2013}
+
+@section 10.6 | Formation Order
+- **Haryana, Goa, Jharkhand, Telangana** {2021}
+- **Sikkim, Arunachal, Chhattisgarh, Jharkhand** {2006, 2009}
+- Uttarakhand created **2000** {2014}
+- **Nagaland, Haryana, Meghalaya, Sikkim** {2008, 2010}
+- **Andhra Pradesh, Haryana, Himachal Pradesh, Sikkim** {2014}
+- **Nagaland, Meghalaya, Sikkim, Arunachal Pradesh** {2013}
+- Descending: **Haryana, Maharashtra, Rajasthan** {2013}
+- **Nagaland, Punjab (1966 form), Sikkim, Arunachal** (key) {2025}
+
+@table
+State | Year
+Andhra (first linguistic) | 1953
+Maharashtra, Gujarat | 1960
+Nagaland | 1963
+Haryana, Punjab (present) | 1966
+Himachal Pradesh | 1971
+Meghalaya, Manipur, Tripura | 1972
+Sikkim | 1975
+Arunachal, Mizoram, Goa | 1987
+Chhattisgarh, Uttarakhand, Jharkhand | 2000 (Nov 1, 9, 15)
+Telangana | 2014
+J&K to UT | 2019
+@end
+
+@section 10.7 | Act Year vs Statehood
+- **Jharkhand-2000, Telangana-2014, Sikkim-1975**; Nagaland 1963 (Act 1962) (*) {2017}
+- Formed in 1948: none as State (*; Himachal became a province in 1948) {2013}
+
+@section 10.8 | Linguistic Reorganisation
+- SRC (Fazal Ali) set up **1953**, reported 1955 (*) {1990}
+- Fazal Ali members: **K.M. Panikkar, H.N. Kunzru** {2025}
+- Union of States (no secession), Dhar favoured administrative convenience, JVP against language basis: all true {2008}
+- First linguistic state: **Andhra Pradesh**; created **1953** {2018, 2009}
+
+@trap
+- **Art 2** = admit new states; **Art 3** = form and alter existing states.
+- Art 3 laws are **not** Art 368 amendments; simple majority.
+- 1953 = Andhra State (linguistic); 1956 = Andhra Pradesh, SR Act.
+- 2000 order: **Chhattisgarh, Uttarakhand, Jharkhand**.
+@end
+
+@up **Uttarakhand** was carved out of UP on **9 November 2000** under Art 3 (UP Reorganisation Act, 2000). Parts of UP (Noida, Ghaziabad, Meerut) are in the **NCR**, a planning region, not the constitutional NCT.
+
+@last
+- Art 1 = **Union of States**; no secession
+- Art 2 admit; Art 3 form/alter; Art 4 not an amendment
+- **Parliament**, simple majority; State's views not binding
+- 69th = Delhi **NCT**
+- Sikkim: 35th associate, **36th** full state (1975)
+- Andhra **1953** first linguistic state
+- SRC 1953: Fazal Ali, **Panikkar, Kunzru**
+- 2000: Chhattisgarh, Uttarakhand, Jharkhand
+- Telangana **2014**; now 28 States, 8 UTs
+- Goa is a State (1987)
+@end

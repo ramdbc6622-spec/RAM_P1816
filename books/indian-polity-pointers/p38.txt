@@ -1,0 +1,159 @@
+@chapter 38 | Panchayati Raj and Community Development
+@meta Built from 83 UPPSC questions (1991–2025). Focus: Balwant Rai Mehta and Nagaur, later committees, 73rd and 74th Amendments, Gram Sabha, reservation, State Election and Finance Commissions, UP bodies.
+
+@hot
+- **Balwant Rai Mehta** (1957) = architect; **three-tier** system {2006, 2010, 2012, 2013, 2015, 2016, 2017}
+- First State: **Rajasthan**; launched at **Nagaur**, **2 October 1959** by Nehru {1991, 1994, 2003, 2010, 2012, 2015}
+- **73rd Amendment** = constitutional status; in force **1993** (24 April) {2004, 2012, 2015, 2019, 2020, 2022, 2024}
+- **State Election Commission** conducts Panchayat polls; appointed by the **Governor** {2008, 2013, 2015, 2020, 2023, 2023}
+- Women: at least **one-third** seats (Art 243D) {2010, 2012, 2016, 2017, 2025}
+- Committees order: **B.R. Mehta, Ashok Mehta, G.V.K. Rao, L.M. Singhvi** {2015, 2017, 2021}
+@end
+
+@section 38.1 | Art 40 and Community Development
+- Art 40: **organise village panchayats** {2015}
+- First community programme (among options): **National Extension Service** (1953); CDP itself began 1952 {2013}
+
+@section 38.2 | The Idea
+- Grassroots democracy: **Panchayati Raj** {2013}
+- PRI: local self-government, three tiers, decentralisation (1, 2, 3) {1998}
+- Adopted to **decentralise** power {2016}
+- Purpose: people's **participation in development** {2004}
+- Not an attribute of local government: **central control** {2008}
+- Name "Panchayati Raj" suggested by **Nehru** {2017}
+
+@section 38.3 | Balwant Rai Mehta and Nagaur
+- Architect: **B.R. Mehta**; recommended three tiers {2015, 2016, 2017}
+- Chaired the committee on **democratic decentralisation** {2012, 2013}
+- Recommended Panchayati Raj in its **1957** report {2006, 2010}
+- Not a B.R. Mehta tier: **Nyaya Panchayat** {2024}
+- First State: **Rajasthan** {2003, 2010, 2012, 2015}
+- Inaugurated **2 October 1959** at **Nagaur** {1991, 1994}
+
+@section 38.4 | Later Committees
+- Ashok Mehta: **two-tier**; replace three tiers with two (true); block as first point (false; it said **district**) {2009, 2023}
+- Constitutional status suggested by **L.M. Singhvi** {2008}
+- **B.R. Mehta-three-tier, Ashok Mehta-two-tier, Singhvi-constitutional local self-government, G.V.K. Rao-improving rural administration** {2013}
+- Order: **B.R. Mehta, Ashok Mehta, G.V.K. Rao, Singhvi** {2015, 2017, 2021}
+- Committee match: code A-4, B-3, C-1, D-2 (key) {2017, 2022}
+- Not on Panchayati Raj: **P.V.N. Rao Committee**; **V.K.R.V. Rao** {2014, 2008}
+- Wrong: **G.V.K. Rao-block-level planning** (that was **Dantwala**) {2024}
+
+@flow Panchayati Raj committees
+Balwant Rai Mehta 1957 | Three tiers; Nagaur 1959
+Ashok Mehta 1977-78 | Two tiers; district first
+G.V.K. Rao 1985 | District as key unit
+L.M. Singhvi 1986 | Constitutional status
+64th Amendment Bill 1989 | Failed in Rajya Sabha
+73rd Amendment 1992 | In force 24 April 1993
+@end
+
+@section 38.5 | 73rd and 74th Amendments
+- Constitutional status: **73rd**; 73rd = Panchayati Raj {2015, 2004}
+- Local government: **73rd and 74th** {2024}
+- Third tier added: **1993** {2020, ?}
+- 73rd a watershed because it gave constitutional status (R explains A) {2022}
+- Less political interference; 73rd revived PRIs (R explains A) {1998}
+- 73rd recognised **Panchayats only** (only 1) {2017}
+- Part IX-A: **urban** areas only {2021}
+- Wrong: 73rd in force **15 August 1993** (it was **24 April 1993**) {2012}
+- National Panchayati Raj Day: **24 April** {2019}
+
+@section 38.6 | Part IX Architecture
+- Three tiers: **Part IX** {2013}
+- Composition fixed by the **State Legislature** {2016}
+- Not correct: every State must have all three tiers {2013, 2019}
+- Intermediate tier optional below **20 lakh** population {2017}
+- 73rd covers **Zila, Kshetra, Gram Panchayat** (not Nagar Panchayat) {2010, 2013}
+- Functions in the **Eleventh Schedule**; **29** subjects {2006, 2009}
+
+@section 38.7 | Gram Sabha
+- Gram Sabha: persons on the **electoral roll** of the village {2015}
+- Not true: its powers set by the **Central Government** (State law does) {2023}
+
+@section 38.8 | Duration
+- Five years from its **first meeting** {2013}
+- Election after early dissolution: within **6 months** {?}
+- Not on Panchayats: the **74th Amendment** {2010}
+
+@section 38.9 | Reservation
+- Women's one-third: **Art 243D** {2010}
+- 243D(3) is true; not tied to Art 334 (only 1) {2017}
+- "30%" in no amendment; 73rd gives one-third (*) {2016}
+- UP women's seats: **one-third** {2012}
+- 5-year tenure (true); 1/4 for SC/ST women (false) (only 1) {2025}
+- Reservation brought change (true); long demand (false) {2002, 2003}
+- No SC reservation in Panchayats: **Arunachal Pradesh** {2016}
+
+@section 38.10 | State Election Commission
+- Control of Panchayat polls: **State Election Commission**; conducts them {2020, 2023}
+- SEC appointed by the **Governor** {2013}
+- Decides to hold polls: **SEC** {2008}
+- Panchayati Raj is in the **State List** {2015, 2016}
+- SEC constitutional (true); ECI runs rural polls (false) {2015}
+- Correct statement: Panchayat polls under State law and SEC {2023}
+
+@section 38.11 | Finances
+- State Finance Commission constituted by the **Governor** {2015}
+- Revenue sharing with local bodies: **State Finance Commission** {2013}
+- Union FC has **no** role (false); local government a State subject (true) {2011}
+- Constitutional: **SEC, SFC, District Panchayat** (1, 2, 3) {2012, 2012}
+
+@section 38.12 | Exempted Areas
+- No PRIs: **Nagaland** {2005, 2011}
+- **PESA**: **1996** {2022}
+- Nyaya Panchayats imprisonment: Bihar intended; none now (*) {2005}
+
+@section 38.13 | UP Bodies
+- Panchayat Samiti members **directly elected** {2013}
+- Panchayat Samiti at **block** level {2015}
+- UP Zila Panchayat chairman elected **by members from among themselves** {2010}
+
+@table
+UP tier | Level | Head
+Gram Panchayat | Village | Pradhan (direct)
+Kshetra Panchayat | Block | Pramukh (indirect)
+Zila Panchayat | District | Adhyaksh (indirect)
+Nagar Nigam | Big city | Mayor (direct, 5 years)
+Nagar Palika Parishad | Smaller city | Chairman (direct)
+Nagar Panchayat | Transitional area | Chairman (direct)
+@end
+
+@section 38.14 | 74th Amendment
+- Municipalities: **Part IX-A** {2015}
+- Constitutional status: **74th Amendment, 1992** {2013}
+- 74th: new Schedule, restructures municipalities, women's reservation (1, 2, 3) {2019}
+- Municipal area notified by the **Governor** {2015}
+- Member age 21 (25 false); one-third seats for women (only 2) {2025}
+
+@section 38.15 | UP Urban Bodies
+- UP municipal chairman: elected by **voters on the list**, from **ward electors** (2 and 4) {2010}
+- Mayor's term: **5 years** {1992}
+- Wrong: **Ghaziabad-Nagar Palika Parishad** (it is a **Nagar Nigam**) {2010}
+- Census urban test: **75%** male main workers non-farm, not 60% {2010}
+
+@section 38.16 | District Planning
+- 73rd/74th created **SEC, DPC, SFC** (1, 2, 3) {2010}
+- UP district plan includes **Nagar, Gram, Kshetra Panchayats** {2016}
+
+@trap
+- Gandhi = idea; **B.R. Mehta** = architect; **Nehru** = name and Nagaur launch.
+- 2 Oct **1952** = CDP; 2 Oct **1959** = Nagaur.
+- Acts are of **1992**; in force **1993** (73rd: 24 April; 74th: 1 June).
+- **State Election Commission** (243K) runs local polls, not the ECI.
+@end
+
+@up UP follows a 3-tier system under the **UP Panchayat Raj Act 1947** and **Kshettra and Zila Panchayat Act 1961**: Gram Panchayat (Pradhan), Kshetra Panchayat (Pramukh), Zila Panchayat (Adhyaksh). **Ghaziabad** is a Nagar Nigam; UP Mayors are directly elected for 5 years.
+
+@last
+- Art **40**; CDP 1952; NES 1953
+- **B.R. Mehta** 1957: three tiers; Nagaur **2 Oct 1959**
+- Ashok Mehta: two tiers; **Singhvi**: constitutional status
+- **73rd**: Part IX, 11th Schedule (**29**); 24 April 1993
+- **74th**: Part IX-A, 12th Schedule (18); 1 June 1993
+- Women **1/3** (243D); intermediate tier optional below **20 lakh**
+- **SEC** (243K) by Governor; **SFC** (243I)
+- PESA **1996**; Nagaland no PRIs
+- Panchayati Raj Day **24 April**
+- Gram Sabha = village electors
+@end

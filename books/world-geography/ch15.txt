@@ -1,0 +1,474 @@
+@chapter 15 | World Climate and Forests
+
+@intro
+This chapter links **climate types** with the **forests** they support. UPPSC tests the Amazon **Selva**, the **Taiga**, monsoon, Mediterranean and coniferous trees, the Mediterranean shrublands (maquis, chaparral, fynbos, matorral), and the climate regions themselves. The **Mediterranean** climate alone accounts for five PYQs, with its winter rain explained by the shifting westerlies. The chapter closes with records (wettest, coldest), **El Nino** and **Koppen**. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 15.1 | Forests of the World
+
+@pyq U.P. U.D.A./L.D.A. (Spl) (Pre) 2010
+Which country has the highest percentage of its geographical area under forests?
+(a) China
+(b) India
+(c) Indonesia
+(d) Japan
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following countries has a constitutional provision for maintaining 60% of its geographical area under forest?
+(a) Maldives
+(b) Nepal
+(c) Bhutan
+(d) Afghanistan
+@ans (c)
+@end
+
+**Bhutan**'s Constitution (2008) requires at least **60%** forest cover, and actual cover is about 70%. Bhutan is the world's first **carbon-negative** country. **Japan** (about 68%) is among the most forested large economies. India's forest and tree cover is about **25%** of its area (ISFR 2023), against the national target of 33%.
+
+@pyq U.P. Lower Sub. (Pre) 2004
+The world's largest and most dense forests are in
+(a) India
+(b) Tanzania
+(c) Brazil
+(d) Canada
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1996
+Which one of the following is noted for extensive tropical rain forests?
+(a) Congo Basin
+(b) Ganga Basin
+(c) Hwang Ho Basin
+(d) Murray- Darling Basin
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+In which of the following countries of Africa, dense, hot and humid forest are found?
+(a) Ivory Coast
+(b) Kenya
+(c) Zimbabwe
+(d) South Africa
+@ans (a)
+@end
+
+@pyq U.P. B.E.O. (Pre) 2019
+Selva forests are characterized by :
+(a) Broad leaf evergreen
+(b) Broad leaf deciduous
+(c) Coniferous evergreen
+(d) Coniferous deciduous
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+With reference to 'Brazil' which of the following statements is/are correct?
+1. The equatorial rainforests of Brazil are called 'Selvas'.
+2. The dark black colour fertile land here is called 'Terra Roxa'.
+Select the correct answer from the code given below :
+Code :
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Both 1 and 2
+(d) Only 1
+@ans (c)
+@note The Commission accepted (c). **Terra roxa** ("purple earth") is the deep, fertile **dark reddish-purple** soil of the Parana plateau, formed from basalt. It is the heart of Brazil's **coffee** country, much like India's black regur soil, also from basalt.
+@end
+
+@pyq U.P. P.C.S. (Pre) 1998
+Soil erosion is a major problem in
+(a) In tropical rain forest
+(b) In African Savana
+(c) In the Mediterranean regins
+(d) In Australian Downs
+@ans (a)
+@end
+
+Under rainforests the problem is really **leaching**. Heavy rain washes nutrients out of the thin soil, so the rich forest grows on poor ground. Once the trees are cleared, the soil is quickly eroded and exhausted, which is why shifting cultivation moves on every few years.
+
+@pyq U.P.P.C.S. (Mains) 2016
+Taiga forests are characteristics of –
+(a) Equatorial region
+(b) Tropical region
+(c) Sub-tropical region
+(d) Temperate region
+@ans (d)
+@end
+
+@pyq U.P.P.C.S.(Pre) 2001
+The coniferous forests are not found in:
+(a) Amazonia
+(b) Scandinavia
+(c) Canada
+(d) Finland
+@ans (a)
+@end
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+Match List-I with List-II and choose the correct answer from the codes given below the lists –
+@match
+List-I | List-II
+A. Monsoon Forest | 1. Plum and Olive
+B. Equatorial Forest | 2. Pine and Spruce
+C. Mediterranean Forest | 3. Teak and Sal
+D. Coniferous Forest | 4. Mahogany and Rosewood
+@endmatch
+Code : A B C D
+(a) 3 4 1 2
+(b) 2 3 4 1
+(c) 4 2 3 1
+(d) 1 3 2 4
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Which one of the following tree is not found in the Mediterranean forest?
+(a) Teak
+(b) Oak
+(c) Chestnut
+(d) Olive
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Match List- I with List- II and select the correct answer using the code given below the lists :
+@match
+List- I (Vegetation Type) | List- II (Region)
+A. Maquis | 1. California
+B. Fynbos | 2. Mediterranean Sea Coastal Region
+C. Chaparral | 3. Southern Africa
+D. Matorral | 4. Chile
+@endmatch
+Code : A B C D
+(a) 2 3 1 4
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 4 2 3 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Match List- I with List- II and select the correct answer using the code given below the lists :
+@match
+List- I (Natural Vegetation) | List- II (Region)
+A. Epiphytes | 1. Mediterranean
+B. Acacia | 2. Equatorial
+C. Baobab | 3. Sahara
+D. Cedars | 4. Savanna
+@endmatch
+Code : A B C D
+(a) 2 3 4 1
+(b) 2 3 1 4
+(c) 2 4 3 1
+(d) 2 4 1 3
+@ans (a)
+@end
+
+@table
+Forest / vegetation | Climate | Typical trees and plants
+Equatorial rainforest (**Selva** in the Amazon) | Hot and wet all year | Mahogany, rosewood, ebony, rubber; **epiphytes**, lianas; layered canopy
+Tropical monsoon (deciduous) | Wet summer, dry winter | **Teak, sal**, bamboo, shisham
+Savanna | Tropical wet-dry | Tall grass with scattered **acacia** and **baobab**
+Hot desert | Very dry | Cacti, date palm, thorny scrub, acacia
+Mediterranean | Dry summer, wet winter | **Olive, cork oak, chestnut, cedar**, citrus; shrubland called **maquis** (Mediterranean), **chaparral** (California), **fynbos** (South Africa), **matorral** (Chile), **mallee** (Australia)
+Temperate deciduous | Cool, rain all year | Oak, beech, maple, elm
+**Taiga** (boreal coniferous) | Long cold winters | **Pine, spruce, fir, larch**; Canada, Scandinavia, Finland, Siberia
+Tundra | Arctic | Mosses, lichens; **hekistotherms** (cold-tolerant plants)
+@end
+
+@section 15.2 | Climate Types
+
+@pyq U.P.P.S.C. (GIC) 2010
+The main factor which determines the climate of any area is
+(a) Altitude
+(b) Latitude
+(c) Types of vegetation
+(d) proximity to the sea
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2017
+Amount of rain depends upon
+(a) Air Pressure
+(b) Humidity in Atmosphere
+(c) Water Cycle
+(d) Temperature
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+By which of the following is the maximum percentage of Earth covered ?
+(a) Arid Region
+(b) Semi-arid Region
+(c) Sub-humid land
+(d) Humid Region
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2016
+Which of the following continents has all types of climatic zones?
+(a) South America
+(b) North America
+(c) Australia
+(d) Asia
+@ans (d)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2013
+Which among the following countries doesn't come under the category of equatorial climate ?
+(a) Congo
+(b) Ethiopia
+(c) Gabon
+(d) Zaire
+@ans (b)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Spl) (Mains) 2010
+Assertion (A) : The environment of the equatorial regions is conducive for plants not for humans.
+Reason (R) : The average annual temperature difference is very low in equatorial regions.
+By using the code given below, select the correct answer:
+(a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999
+Match List -I with List- II and select the correct answer using the codes given below :
+@match
+List-I (Region) | List-II (Type of Climate)
+A. California | 1. Mediterranean
+B. West Australia | 2. Tropical Monsoon
+C. Bangladesh | 3. Cold Temperate
+D. Siberia | 4. Hot Desert
+@endmatch
+Code : A B C D
+(a) 1 2 3 4
+(b) 1 4 2 3
+(c) 2 3 4 1
+(d) 2 4 1 3
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2003; U.P.U.D.A./L.D.A. (Pre) 2002
+Match List-I with List-II and select the correct answer from the codes given below :
+@match
+List-I (Type of climate) | List-II (Region)
+A. Equatorial | 1. California
+B. Mediterranean | 2. Bangladesh
+C. Monsoon | 3. Sudan
+D. Savannah | 4. Congo
+@endmatch
+Code : A B C D
+(a) 4 1 2 3
+(b) 2 3 1 4
+(c) 1 2 3 4
+(d) 4 3 2 1
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2025
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): The interior part of Australia is desert and semi-desert.
+Reason (R): Northern Australia is situated in the temperate zone.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(b) (A) is false, but (R) is true.
+(c) (A) is true, but (R) is false.
+(d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+@ans (c)
+@end
+
+About **70%** of Australia is arid or semi-arid. **Northern Australia** lies in the **tropics** (savanna, monsoon), not the temperate zone. The **Tropic of Capricorn** crosses the middle of the continent.
+
+@pyq U.P.P.C.S. (Mains) 2010
+Which one of the following climates are associated with the shifting of the pressure belts ?
+Select the correct answer from the code given below :
+1. Equatorial climate
+2. Mediterranean climate
+3. Monsoon climate
+4. Western European climate
+Code :
+(a) 1 and 2
+(b) 1 and 3
+(c) 2 and 3
+(d) 2 and 4
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2002
+Which one of the following is the correct sequence of the climatic regions while going from Zaire to the Netherlands?
+1. Equatorial climate
+2. Mediterranean climate
+3. Hot desert climate
+4. West European climate
+Code :
+(a) 1, 3, 2, 4
+(b) 1, 4, 2, 3
+(c) 2, 3, 4, 1
+(d) 3, 2, 1, 4
+@ans (a)
+@end
+
+@section 15.3 | Mediterranean and West European Climates
+
+@pyq U.P.P.C.S. (Mains) 2004
+Which one of the following is correctly matched ?
+(a) Wet winter dry summer Italy
+(b) Wet throughout the year Sudan
+(c) Wet summer dry winter Iran
+(d) Dry throughout the year Chile
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Assertion (A) : The Mediterranean regions have rainy winters
+Reason (R) : During winter they lie in the belt of the Westerlies.
+Select the correct answer from the code given below :
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true, but (R) is false
+(d) (A) is false, but (R) is true
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2022
+Two statements are given below, one is labeled as Assertion (A) and the other as Reason (R).
+Assertion (A): In Mediterranean climate regions, rainfall occurs in winter.
+Reason (R): In summer, these regions remain under the influence of dry continental trade winds.
+Select the correct answer from the code given below—
+(a) (A) is true, but (R) is false.
+(b) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+(c) (A) is false, but (R) is true.
+(d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements with reference to Mediterranean climate:
+1. It receives rainfall in winter season.
+2. Due to winter solstice, air pressure belts shift to the South.
+Which of the above statements is/are correct?
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+**Why the Mediterranean has winter rain**: around the **winter solstice** the Sun, and with it all the pressure and wind belts, shifts **south**. The 30-40° latitudes then come under the rain-bearing **westerlies**. In summer the belts shift north and these coasts fall under the dry **subtropical high and offshore trade winds**. Because winter rain is caused by the westerlies, not by summer dryness, the 2004 A-R pair is (a) and the 2022 pair is (d).
+
+@table
+Mediterranean-type region | Where (west coasts, 30-40°)
+Mediterranean basin | Southern Europe, North Africa, Levant
+California | USA
+Central Chile | Around Santiago
+Cape Province | South Africa (Cape Town)
+South-west and south Australia | Perth, Adelaide
+@end
+
+@pyq U.P.P.C.S. (Mains) 2002
+Assertion (A) : The ports of north west Europe are open throughout the year.
+Reason (R) : The south-westerly winds blow over north-west Europe throughout the year.
+Select the correct answer using the code given below.
+Code :
+(a) Both (A) and (R) are true, and (R) is the correct the explanation of (A)
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+(c) (A) is true but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (b)
+@end
+
+The ports stay **ice-free** mainly because of the warm **North Atlantic Drift**, an extension of the Gulf Stream. The westerlies carry its warmth inland, but they are not the direct reason.
+
+@pyq U.P.P.C.S. (Pre) 2024
+Consider the following statements with respect to the climate of Western Europe:
+1. Western Europe receives rainfall in all months.
+2. Western Europe is located in the belt of Westerlies.
+Which of the above statements is/are correct?
+(a) Both 1 and 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Only 2
+@ans (a)
+@end
+
+@section 15.4 | Records, El Nino and Classification
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2001; U.P.P.C.S. (Pre) 1997
+The world's wettest place is :
+(a) Cherrapunji
+(b) Mawsynram
+(c) Singapore
+(d) Waialeale
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1999; U.P. Lower Sub. (Pre) 2004; U.P. Lower Sub. (Spl) (Pre) 2004
+The coldest place on the earth is :
+(a) Halifax
+(b) Chicago
+(c) Siachin
+(d) Verkhoyansk
+@ans (d)
+@end
+
+**Mawsynram** (Meghalaya) averages about **11,870 mm** of rain a year. **Verkhoyansk** and **Oymyakon** (Siberia) are the coldest inhabited places, at about -68 °C. The coldest temperature ever measured was **-89.2 °C** at **Vostok** station, Antarctica (1983). The hottest air temperature recorded is **56.7 °C** in Death Valley, USA.
+
+@pyq U.P.P.C.S. (Mains) 2015
+El-Nino develops in the
+(a) Pacific Ocean
+(b) Indian Ocean
+(c) Mediterranean Ocean
+(d) Atlantic Ocean
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2023
+With reference to the "El-Nino", which of the following statement/s is/are correct?
+(1) El Nino involves appearance of warm current of the coast of Peru in eastern pacific.
+(2) This warm current increase the temperature of water on the Peruvian coast by 10°C there by increasing the amount of Plankton in the sea.
+Select the correct answer using the code given below
+Code :
+(a) Only 1
+(b) Both 1 and 2
+(c) Only 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+In an **El Nino** the cold Humboldt upwelling off Peru is replaced by warm water. **Plankton and fish (anchovy) collapse**, so statement 2 is wrong. El Nino usually **weakens the Indian monsoon**, while **La Nina** strengthens it. The Indian Ocean has its own see-saw, the **Indian Ocean Dipole (IOD)**.
+
+@pyq U.P. Lower Sub. (Pre) 2013
+Hekistotherms are plants growing in –
+(a) bright light
+(b) high temperature
+(c) very low temperature
+(d) very low light
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+'Vegetation is the true index of climate'. This statement is associated with :
+(a) Thornthwaite
+(b) Koppen
+(c) Trewartha
+(d) Stamp
+@ans (b)
+@end
+
+**Wladimir Koppen** (1884, revised 1918-36) based his climate classes on **vegetation zones**, with letter codes: **A** tropical, **B** dry, **C** warm temperate, **D** cold (snow), **E** polar, plus **H** highland. India's monsoon climate is **Amw/Aw/Cwg**.
+
+@heatmap
+
+@pattern
+**Mediterranean climate** is UPPSC's favourite climate topic (2004, 2022 and twice in 2024): winter rain, the westerlies and the shifting of pressure belts. **Forest-tree matching** (teak-monsoon, pine-taiga, olive-Mediterranean) and the newer **shrubland names** (maquis, chaparral, fynbos, matorral, 2019) come next. Expect El Nino and climate records in current-affairs form.
+@end
+
+@next
+Likely next angles: **El Nino 2023-24** and the record-hot years, **La Nina** forecasts for the monsoon, the **IOD**, **Amazon** deforestation and drought, the **EU Deforestation Regulation**, **Bhutan**'s carbon-negative status, **India State of Forest Report 2023**, and the **Tropical Forest Forever Facility** launched at COP30 (Belem, 2025).
+@end

@@ -1,0 +1,88 @@
+@chapter 9 | Development of Press in Modern India
+@meta Built from 46 UPPSC questions (1990–2023). Focus: the first newspapers, Rammohan Roy's papers, press laws, the nationalist press, Tilak, the militant and revolutionary press, Besant and Gandhi, founders of papers, the press in UP.
+
+@hot
+- **Paper-founder matching**: **Kesari-Tilak, Sudharak-Gokhale, Bengalee-Surendranath, Bombay Chronicle-Pherozeshah Mehta, Leader-Malaviya, Independent-Motilal Nehru, Al-Hilal-Azad, New India and Commonweal-Besant, Young India-Gandhi** {1990, 1992, 2002, 2003, 2004, 2008, 2008, 2012, 2014, 2017, 2017}
+- First newspaper: **Hicky's Bengal Gazette** (1780); first Indian-owned English paper: **Hindoo Patriot** {2004, 2006, 2010}
+- **Vernacular Press Act** (1878): **Lytton**; repealed by **Ripon** {2007, 2009}
+- **Annie Besant**: **Commonweal** and **New India** {2001, 2002, 2004, 2004, 2013}
+@end
+
+@section 9.1 | Early Papers and Press Laws
+- First newspaper: **(Hicky's) Bengal Gazette** {2004, 2010}
+- First Indian English paper: **Hindoo Patriot**; its editor **Harish Chandra Mukherjee** backed the indigo ryots {1998, 2006, 2010}
+- Rammohan Roy was not formally the editor of Sambad Kaumudi (A false, R true) {2023}
+- Wrong pair: **Tahzeeb-ul-Akhlaq-Jinnah** (it was **Syed Ahmad Khan's**) {2019}
+- **Mirat-ul-Akhbar** (Persian): **Rammohan Roy** {2000}
+- **Samachar Darpan-J.C. Marshman, Mirat-ul-Akhbar-Rammohan Roy, Kesari-Tilak, Young India-Gandhi** {2017}
+- **Udant Martand** (first Hindi paper, 1826): from **Kolkata** {2016}
+- Press censorship first: **Wellesley** {2001}
+- **Vernacular Press Act**: **Lytton**; repealed under **Ripon** {2007, 2009}
+
+@flow Press laws
+1799 | Censorship of the Press Act (Wellesley)
+1823 | Licensing Regulation (John Adam)
+1835 | Metcalfe frees the press ("liberator of the press")
+1878 | Vernacular Press Act (Lytton); "gagging act"
+1882 | Repealed by Ripon
+1908, 1910 | Newspapers Act; Indian Press Act (Minto II)
+@end
+
+@section 9.2 | The Nationalist Press
+- **Indian Mirror** (1880s): **Calcutta** {2007}
+- **Bengalee-Surendranath, Bangabasi-Jogendra Nath Bose, Vande Mataram-Aurobindo, Amrita Bazar Patrika-Motilal Ghosh** {2018}
+- **Hindu-G. Subramania Iyer, Sudharak-Gokhale, Voice of India-Dadabhai Naoroji, Bengalee-Surendranath** {2002, 2003}
+- **Kal-S.M. Paranjape, Bengalee-Surendranath, Sudharak-Gokhale, Somaprakash-Dwarkanath** {2017}
+- Wrong pair: **Bombay Chronicle-Gokhale** (it was **Pherozeshah Mehta's**) {2017}
+- Tilak's paper: **Kesari** {1990, 1992}
+- First Indian journalist jailed (key): **Tilak** (Surendranath in 1883 by some accounts) {1997}
+- Revolutionary magazines criticised the Congress: **all of the above** {2011}
+- Advocated revolutionary terror: **Sandhya, Yugantar, Kal** (all) {2008}
+- **Vande Mataram** (English): **Aurobindo Ghosh** {1996}
+- **Swadeshabhimani**: **K. Ramakrishna Pillai** {2005}
+- First **Ghadar** issue: **Urdu**; a **weekly** {2007, 2013}
+- Paris Vande Mataram editor: none of the options (*) {2015}
+
+@section 9.3 | Besant, Gandhi and Founders
+- Besant's papers: **Commonweal and New India** {2002, 2004, 2013}
+- Correct pair: **Annie Besant-Commonweal** {2001, 2004}
+- First editor of **Indian Opinion**: **Mansukhlal Nazar** {2014}
+- Indian Opinion was **not** published in **Urdu** {2005}
+- **Young India** began as a weekly of the **Home Rule party** {2003}
+- Gandhi had nothing to do with **Yugantar** {2017}
+- **Harijan** first issue (1933): **Poona** {2013}
+- **Bombay Chronicle-Mehta, Commonweal-Besant, Leader-Malaviya, Searchlight-Sachchidananda Sinha** {2002, 2004}
+- **Leader-Malaviya, Bombay Chronicle-Mehta, Independent-Motilal Nehru, Justice-T.M. Nair** {2014}
+- **Independent**: **Motilal Nehru** {2012}
+- Wrong pair: **Ambedkar-Independent** {2008}
+- **Azad-Al-Hilal, Mehta-Bombay Chronicle, Besant-New India, Gandhi-Young India** {2008}
+
+@section 9.4 | Press in UP and Language Matching
+- **Aaj-Shiv Prasad Gupta, Leader-Malaviya, National Herald-Nehru, Pioneer-George Allen** {2010}
+- **Swadesh-Gorakhpur, Bharat Bandhu-Hathras, Satyawadi-Agra, Shakti-Almora** {2022}
+- **Qaumi Awaz**: **Jawaharlal Nehru**; wrong pair: Qaumi Awaz-Azad {2013, 2013, 2013}
+- **Bahishkrit Bharat** (Marathi): **Ambedkar** {1991, 2004}
+- Urdu paper of Lajpat Rai (Lahore, 1920): **Vande Mataram** {2008}
+- **Bharat Mitra-Hindi, Rashtramata-Marathi, Prajamitra-Gujarati, Nayak-Bengali** {2012, 2013}
+
+@trap
+- Bombay Chronicle = **Mehta**; Sudharak = **Gokhale**.
+- **Young India** (Gandhi) vs **New India** (Besant).
+- Udant Martand and Bharat Mitra were Hindi papers from **Calcutta**, not UP.
+- Three Bande Mataram papers: Calcutta (Aurobindo), Paris (Cama), Lahore (Lajpat Rai).
+@end
+
+@up UP link: UP's major papers were **The Leader** (Allahabad, Malaviya), **The Pioneer** (Allahabad, then Lucknow), **Aaj** (Varanasi, Shiv Prasad Gupta), **National Herald** and **Qaumi Awaz** (Lucknow, Nehru), and **Swadesh** (Gorakhpur).
+
+@last
+- Hicky's Bengal Gazette 1780 = first paper
+- Hindoo Patriot = first Indian English paper (Harish Mukherjee)
+- Mirat-ul-Akhbar = Rammohan Roy; Udant Martand = Kolkata 1826
+- Wellesley = censorship; Lytton = VPA 1878; Ripon repealed it
+- Kesari = Tilak; Sudharak = Gokhale; Bengalee = Surendranath
+- Bombay Chronicle = Mehta; Leader = Malaviya; Independent = Motilal
+- Al-Hilal = Azad; Commonweal, New India = Besant
+- Young India, Harijan = Gandhi; Harijan from Poona
+- Aaj = Shiv Prasad Gupta; Pioneer = George Allen
+- Bahishkrit Bharat = Ambedkar
+@end

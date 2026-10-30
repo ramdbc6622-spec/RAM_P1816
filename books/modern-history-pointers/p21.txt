@@ -1,0 +1,42 @@
+@chapter 21 | Home Rule League Movement
+@meta Built from 6 UPPSC questions (1991–2010). Focus: Tilak's and Besant's leagues, the movement's timing, who was not in it.
+
+@hot
+- First Home Rule League movement launched by **Annie Besant** (per key) {1991, 1993}
+- Two leagues (1915-16): **Tilak and Annie Besant**; popular during **World War I** {2001, 2008}
+@end
+
+@section 21.1 | The Leagues
+- Launched the first Home Rule movement: **Annie Besant** {1991, 1993}
+- Annie Besant mostly linked with the **Home Rule Movement** {2010}
+- Two leagues led by **Tilak and Annie Besant** {2001}
+- Popular during World War I: **Home Rule Movement** {2008}
+- Not associated: **C.R. Das** {2010}
+- "Not correct" statement on the leagues: question marked (*) {2004}
+
+@table
+League | Founder | Founded | Area
+Indian Home Rule League | Tilak | April 1916, Belgaum | Maharashtra (not Bombay city), Karnataka, CP, Berar
+All India Home Rule League | Annie Besant | September 1916, Madras | Rest of India
+@end
+
+@trap
+- Besant **planned** first (1915); Tilak **founded** first (April 1916).
+- Besant's papers: **New India** and **Commonweal**.
+- The **August Declaration** (1917) promised responsible government by stages, not swaraj.
+@end
+
+@up UP link: **Motilal Nehru, Jawaharlal Nehru and Tej Bahadur Sapru** joined Besant's league at **Allahabad**.
+
+@last
+- Tilak = Belgaum, April 1916
+- Besant = Madras, September 1916
+- Besant = launched first (key)
+- Home Rule = World War I period
+- C.R. Das not in it
+- New India, Commonweal = Besant
+- Kesari, Maratha = Tilak
+- August Declaration = 1917
+- Montagu = Secretary of State
+- 1920: Besant's league renamed Swarajya Sabha
+@end

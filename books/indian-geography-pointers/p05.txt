@@ -1,0 +1,112 @@
+@chapter 5 | Tribes of India
+@meta Built from 35 UPPSC questions (1991–2022). Focus: tribe-state matching, the Tharu and Bhotia, Toda polyandry, Andaman tribes.
+
+@hot
+- **Tribe-state matching** is asked almost every year: **Toda = Tamil Nadu (Nilgiris), Lepcha = Sikkim, Birhor/Santhal = Jharkhand, Gaddi = Himachal, Jarawa = Andaman** {2002, 2002, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2022}
+- **Tharu** live in **Uttarakhand and UP**; largest ST of Uttarakhand; **Diwali is mourning** for them {1991, 2005, 2005, 2015, 2017, ?}
+- **Toda** (Nilgiri hills) and **Jaunsari** practise **polyandry** {1993, 2005, 2006, 2009, 2013}
+- **Gaddi** = tribe of the **Dhauladhar** range (Himachal) {2001, 2002, 2003}
+- **Jarawa** live in the **Andaman and Nicobar Islands** {2013, 2016, ?}
+@end
+
+@section 5.1 | Racial Groups and Identity
+- North-east hill tribes are **Mongoloid** {2003}
+- **Santhal** are **Proto-Australoid** {2002}
+- Tribes are identified by **distinct culture and separate habitat** {1992}
+
+@table
+Racial group | Example tribes
+Negrito | Onge, Jarawa, Sentinelese, Great Andamanese
+Proto-Australoid | Santhal, Munda, Ho, Oraon, Bhil
+Mongoloid | Naga, Khasi, Garo, Lepcha, Bhutia
+@end
+
+@section 5.2 | Tribes of UP and Uttarakhand
+- **Tharu**: **Uttarakhand and Uttar Pradesh** {1991, 2017}
+- **Diwali** is a festival of **mourning** for the **Tharu** {2005, 2015, ?}
+- Largest ST of Uttarakhand: **Tharu** {2005}
+- **Transhumance** is practised by the **Bhotia** {1997}
+- "Bhotia-UP" pairs have **no wrong option** (Bhotia are notified in UP too), so the source marks them (*) {2004, 2010}
+
+@trap
+- **Bhotia** (UP, Uttarakhand) and **Bhutia** (Sikkim) are **different** tribes. A "Bhutia" option in a Sikkim pair is correct; a "Bhotia-UP" pair is also correct.
+@end
+
+@section 5.3 | Customs and Festivals
+- **Polyandry**: **Toda**; **Jaunsari and Toda** (not Gond or Naga) {2005, 2006, 2009}
+- **Jhum** (shifting cultivation) is practised by the **Khasi** {2010}
+- **Sarhul** (sal-blossom festival): **Oraon, Munda, Santhal** of Jharkhand {2005}
+- **Lohasur** (iron god) is worshipped by the **Agaria** (iron smelters) {2016}
+- **Onam-Andhra Pradesh** is wrong; Onam is **Kerala's** {2005}
+- **Sikkim-Tibetan** is wrong as the main language; it is **Nepali** {2006}
+- **Khasi and Garo** speakers live in **Meghalaya** {2002}
+
+@table
+Shifting cultivation name | Region
+Jhum | North-east
+Podu | Andhra Pradesh
+Bewar, Dahiya | Madhya Pradesh
+Penda, Dippa | Chhattisgarh (Bastar)
+Kumari | Western Ghats
+Milpa / Ladang | Mexico / Indonesia
+@end
+
+@section 5.4 | Tribes and their States
+- Largest tribe of India: **Bhil** {2009}
+- **Jarawa-Andaman, Kuki-Manipur, Tharu-UP, Gond-MP** {2019}
+- Correct pairs: **Keria-Odisha, Paliyan-Tamil Nadu** (not Kuki-UP, Yanadi-Rajasthan) {2022}
+- **Bhil-Rajasthan, Santhal-Jharkhand, Raji-Uttarakhand, Lepcha-Sikkim** {2002}
+- **Jaunsari-Uttarakhand, Santhal-Jharkhand, Bhil-MP, Lepcha-Sikkim** {2002}
+- **Birhor-Jharkhand, Bhutia-Sikkim, Toda-Tamil Nadu, Sentinelese-Andaman** {2013, 2014}
+- **Toda-Tamil Nadu, Lepcha-Sikkim, Birhor-Jharkhand, Garo-Meghalaya** {2015}
+- **Gaddi-Himachal, Toda-Tamil Nadu, Khasi-Meghalaya, Naga-Manipur** {2017}
+- **Bhil-Rajasthan, Gond-Chhattisgarh, Limboo-Sikkim, Konyak-Nagaland** {2016}
+- **Khas-Arunachal** is wrong; Khas live in the **western Himalaya** {2020}
+- **Toda** live in the **Nilgiri hills** {1993, 2013}
+- **Gaddi**: **Dhauladhar** range {2001, 2002, 2003}
+- **Tamaria**: **Jharkhand** {2021}
+- None of Chenchu, Lepcha, Dafla, Dafar is a Kerala tribe (marked *) {2013}
+
+@table
+Tribe | State
+Toda, Kota, Badaga, Paliyan | Tamil Nadu
+Chenchu, Yanadi | Andhra Pradesh
+Gaddi | Himachal Pradesh
+Jaunsari, Tharu, Bhotia, Raji | Uttarakhand
+Lepcha, Bhutia, Limboo | Sikkim
+Konyak, Ao, Angami, Rengma | Nagaland
+Khasi, Garo, Jaintia | Meghalaya
+Apatani, Adi, Nyishi (Dafla) | Arunachal
+Kuki | Manipur
+Santhal, Munda, Ho, Birhor | Jharkhand
+Bhil | Rajasthan, MP, Gujarat
+Gond, Baiga, Agaria | MP, Chhattisgarh
+@end
+
+@section 5.5 | Andaman and Nicobar Tribes
+- **Jarawa** live in the **Andaman and Nicobar Islands**; called India's **most primitive** tribe {2013, 2016, ?}
+- **Rengma** is a **Naga** tribe, not native to the islands {2020}
+
+@flow Island tribes, north to south
+Great Andamanese | Strait Island (Negrito)
+Jarawa | South and Middle Andaman (Negrito)
+Sentinelese | North Sentinel (Negrito; no contact)
+Onge | Little Andaman (Negrito)
+Nicobarese | Car Nicobar (Mongoloid; largest)
+Shompen | Great Nicobar (Mongoloid)
+@end
+
+@up UP's main tribes are the **Tharu** (Tarai: Lakhimpur Kheri, Bahraich, Balrampur), **Buksa** and **Bhotia**. The Tharu mourn on **Diwali**. **Sonbhadra** has Gond, Kharwar and Cheru communities.
+
+@last
+- **Bhil** = largest tribe
+- **Toda** = Nilgiris, polyandry; **Jaunsari** = polyandry
+- **Tharu** = UP and Uttarakhand; Diwali mourning
+- **Bhotia** = transhumance; not the same as Bhutia (Sikkim)
+- **Gaddi** = Dhauladhar (HP)
+- **Lepcha** = Sikkim; **Birhor, Santhal** = Jharkhand
+- **Khasi, Garo** = Meghalaya; Khasi practise jhum
+- **Sarhul** = Oraon, Munda; **Agaria** worship Lohasur
+- **Jarawa, Onge, Sentinelese** = Andaman (Negrito)
+- **Rengma** = Naga, not Andaman
+@end

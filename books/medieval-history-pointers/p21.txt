@@ -1,0 +1,72 @@
+@chapter 21 | Mughal Literature
+@meta Built from 20 UPPSC questions (1994–2023). Focus: the Baburnama, Gulbadan Begum and Maham Anaga, Persian at court and the Akbarnama, chronicler-book matching, Persian translations, Hindi Bhakti poets and Sufi premakhyans.
+
+@hot
+- **Gulbadan Begum** (Babur's daughter) wrote the **Humayun-nama** {1994, 1998, 2002, 2004, 2004, 2004}
+- **Ain-i-Akbari** = third volume of the **Akbarnama**; court language = **Persian** {2012, 2014, 2023}
+- **Chronicler matching**: **Hasan Nizami-Taj-ul-Maasir, Khwandamir-Humayun-nama, Muhammad Kazim-Alamgirnama, Bhimsen-Nuskha-i-Dilkusha, Sujan Rai-Khulasat-ut-Tawarikh, Chandrabhan-Chahar Chaman** {2003, 2017}
+- **Maham Anaga** built the **Madrasa-i-Begum** and **Khair-ul-Manazil** mosque {2012, 2018}
+@end
+
+@section 21.1 | Memoirs and Women Writers
+- Baburnama into English: **Leyden and Erskine** {2017}
+- Correct pair: **Babur-Tuzuk-i-Baburi** {2009}
+- **Gulbadan Begum**: daughter of **Babur**; wrote the **Humayun-nama** {1994, 1998, 2002, 2004, 2004, 2004}
+- **Madrasa-i-Begum** and **Khair-ul-Manazil** (opposite Purana Qila): **Maham Anaga** {2012, 2018}
+
+@section 21.2 | Persian Histories and Translations
+- Court language: **Persian** {2012}
+- Akbarnama finished in **seven years** (per key) {2014}
+- Third volume of the Akbarnama: **Ain-i-Akbari** {2023}
+- Wrong pair: **Tughlaqnama-Ibn Battuta** (it is **Amir Khusrau's**) {2019}
+- **Hasan Nizami-Taj-ul-Maasir, Khwandamir-Humayun-nama, Muhammad Kazim-Alamgirnama, Bhimsen-Nuskha-i-Dilkusha** {2003}
+- **Bhimsen-Nuskha-i-Dilkusha, Chandrabhan-Chahar Chaman, Ishwardas Nagar-Futuhat-i-Alamgiri, Sujan Rai Bhandari-Khulasat-ut-Tawarikh** {2017}
+- **Hitopadesha** into Persian: **Taj-ul-Mali** {2013}
+- **Anwar-i-Suhaili**: translation of the **Panchatantra** {1999}
+
+@table
+Persian work | Author | Subject
+Akbarnama, Ain-i-Akbari | Abul Fazl | Akbar
+Muntakhab-ut-Tawarikh | Badauni | Akbar (critical)
+Tabaqat-i-Akbari | Nizamuddin Ahmad | Akbar
+Padshahnama | Abdul Hamid Lahori | Shah Jahan
+Alamgirnama | Muhammad Kazim | Aurangzeb
+Muntakhab-ul-Lubab | Khafi Khan | Later Mughals
+@end
+
+@section 21.3 | Hindi Poets and Premakhyans
+- **Ramchandrika** and **Rasikpriya**: **Keshavdas** {2008}
+- Krishna verses as "**Nagari Das**": **Raja Sawant Singh** (Kishangarh) {2004, 2010}
+- **Ras Panchadhyayi-Nand Das, Chaitanya Bhagavata-Vrindavan Das, Chaitanya Mangal-Jayananda, Bhakti Ratnakar-Narahari Chakravarti** {2021}
+- Wrong pair: **Gangabai-Ganesh Dev Leela** {2023}
+- Written first: **Mrigavati** (Qutban, 1503) {2014}
+
+@flow Sufi premakhyans in Hindi
+Chandayan | Mulla Daud, 1379
+Mrigavati | Qutban, 1503
+Padmavat | Malik Muhammad Jayasi, 1540
+Madhumalati | Manjhan, 1545
+Indravati | Nur Muhammad, 18th century
+@end
+
+@trap
+- Only **Babur** and **Jahangir** wrote their own memoirs.
+- Two Humayun-namas: **Gulbadan** (memoir), **Khwandamir** (Qanun-i-Humayuni).
+- Tughlaqnama = **Amir Khusrau**, not Ibn Battuta (Rihla).
+- Mrigavati is older than Padmavat.
+@end
+
+@up UP link: **Malik Muhammad Jayasi** wrote the **Padmavat** (1540) at **Jais** (Amethi); **Qutban's Mrigavati** came from the Jaunpur region, and **Tulsidas** and **Surdas** wrote in Awadhi and Braj in UP.
+
+@last
+- Leyden and Erskine = Baburnama in English
+- Gulbadan Begum = Humayun-nama
+- Maham Anaga = Madrasa-i-Begum, Khair-ul-Manazil
+- Persian = court language
+- Ain-i-Akbari = third volume of the Akbarnama
+- Kazim = Alamgirnama; Bhimsen = Nuskha-i-Dilkusha
+- Sujan Rai = Khulasat-ut-Tawarikh
+- Anwar-i-Suhaili = Panchatantra
+- Keshavdas = Rasikpriya, Ramchandrika
+- Mrigavati before Padmavat
+@end

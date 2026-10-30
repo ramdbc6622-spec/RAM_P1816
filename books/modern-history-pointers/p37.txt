@@ -1,0 +1,66 @@
+@chapter 37 | Subhas Chandra Bose and Azad Hind Fauj
+@meta Built from 22 UPPSC questions (1990–2023). Focus: Bose's early life and titles, the Forward Bloc, the first INA, Rash Behari Bose, the Provisional Government, the Rani Jhansi Regiment, the Red Fort trials.
+
+@hot
+- INA officers defended at the **Red Fort (1945)**: **Bhulabhai Desai** led; **T.B. Sapru** pleaded; **Patel** did not {2004, 2008, 2010, 2010, 2010, 2013, 2019}
+- First INA (1942): idea and first commander **Mohan Singh** {1997, 2003, 2005}
+- Provisional Government of Free India: **21 October 1943** {2013}
+- Women's unit: **Rani Jhansi Regiment**, raised by **Bose** {2015, 2023}
+@end
+
+@section 37.1 | Bose before the INA
+- Born at **Cuttack** {2006}
+- Political guru: **C.R. Das** {2017}
+- "Desh Nayak": **Tagore** {2006, 2009}
+- Forward Bloc founded in **1939** {2008, 2016}
+
+@section 37.2 | The INA and Azad Hind
+- INA brainchild (per key): **Gyani Pritam Singh and Major Fujiwara** {2001}
+- INA founded in **1942** {2003}
+- Suggested the INA: **Mohan Singh** {1997}
+- First commander: **Mohan Singh** {2005}
+- Helped Subhas Bose set up the Azad Hind Fauj: **Rash Behari Bose** {2002}
+- Provisional Government announced on **21 October 1943** {2013}
+- Did not recognise Azad Hind: **Indonesia** {2023}
+- Women's regiment: **Rani Jhansi Regiment** {2023}
+- Founded the Rani Laxmibai Regiment: **Subhas Bose** {2015}
+- "Jai Hind" slogan: **S.C. Bose** {1990}
+
+@section 37.3 | Red Fort Trials
+- Not linked with the INA: **B.C. Dutt** (RIN mutiny, 1946) {2016}
+- Sentenced to seven years: **Rashid Ali** {2008}
+- Led the defence lawyers: **Bhulabhai Desai** {2010}
+- Pleaded for the INA officers: **Sir T.B. Sapru** {2008, 2010, 2013}
+- Not a defence lawyer: **Vallabhbhai Patel** {2004}
+- Trials held in **1945** {2010}
+- Held at the **Red Fort, Delhi** {2019}
+- INA Day: **12 November 1945** {2013}
+
+@flow INA Timeline
+Mohan Singh raises the first INA | 1942
+Rash Behari Bose hands over the League and INA | July 1943
+Provisional Government at Singapore | 21 October 1943
+Imphal-Kohima campaign; "Give me blood" | 1944
+Red Fort trials of Shah Nawaz, Sahgal, Dhillon | November 1945
+@end
+
+@trap
+- **Rash Behari Bose** (Indian Independence League) helped **Subhas Chandra Bose**.
+- **B.C. Dutt** = navy revolt 1946; **B.K. Dutt** = Assembly bomb 1929. Neither was INA.
+- "Delhi Chalo" = Singapore 1943; "Give me blood" = Burma 1944.
+@end
+
+@up UP link: The **Red Fort** defence team included **Jawaharlal Nehru**, **T.B. Sapru** and **Kailash Nath Katju**, all lawyers from **Allahabad**.
+
+@last
+- Bose born at Cuttack
+- C.R. Das = guru
+- Tagore = "Desh Nayak"
+- Forward Bloc = 1939
+- Mohan Singh = first INA, 1942
+- Rash Behari Bose = handed over INA
+- Azad Hind = 21 October 1943
+- Rani Jhansi Regiment = women
+- Bhulabhai Desai = led defence
+- INA Day = 12 November 1945
+@end

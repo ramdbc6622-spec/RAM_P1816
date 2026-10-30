@@ -1,0 +1,960 @@
+@chapter 11 | Space Technology
+
+@intro
+Space is the most current-affairs-driven topic in the science paper. Older questions ask about **India's first satellites** (Aryabhata, IRS-1A, INSAT, EDUSAT, Kalpana-1), launch vehicles (**SLV → ASLV → PSLV → GSLV**) and ISRO's centres. Newer ones follow the missions: **Chandrayaan-3, Aditya-L1, Mangalyaan, NISAR, LUPEX, INSAT-3DS, RLV-LEX** and astronauts such as **Sunita Williams**. Physics of satellites, rockets and cryogenic engines completes the chapter. It contains **{pyqs} PYQs and {ones} one-liners**.
+@end
+
+@section 11.1 | India's Early Satellites and Programmes
+
+@pyq U.P.P.C.S. (Mains) 2006; U.P. Lower Sub. (Pre) 2009
+The First Satellite of India sent to space, was :
+(a) Bhaskar
+(b) Rohini
+(c) Aryabhatta
+(d) Apple
+@ans (c)
+@end
+
+
+@table
+Satellite | Year | Launched from / by | Note
+**Aryabhata** | 19 April 1975 | Kapustin Yar, USSR (Soviet rocket) | **India's first satellite**
+Bhaskara-I | 1979 | USSR | Earth observation (experimental)
+**Rohini RS-1** | 1980 | **SLV-3, Sriharikota** | First satellite on an Indian rocket
+**APPLE** | 1981 | Ariane (Kourou) | First Indian communication satellite (experimental)
+INSAT-1A | 1982 | USA | First of the INSAT series
+**IRS-1A** | 17 March 1988 | **Baikonur** (Soviet Vostok rocket) | First Indian **remote-sensing** satellite
+**Kalpana-1** (METSAT) | 12 September 2002 | PSLV-C4 | First dedicated **weather** satellite, renamed after Kalpana Chawla
+**EDUSAT** (GSAT-3) | 20 September 2004 | GSLV-F01 | First satellite only for **education**
+@end
+
+@pyq U.P.P.C.S. (Pre) 1998
+Which is the correct chronological order of the following space programmes?
+A. APPLE
+B. IGMD
+C. STEP
+D. SITE
+Code :
+(a) B, C, D, A
+(b) D, C, A, B
+(c) C, A, D, B
+(d) A, C, D, B
+@ans (b)
+@end
+
+**SITE** (Satellite Instructional Television Experiment, 1975-76) beamed educational TV to 2,400 villages using NASA's ATS-6; **STEP** (1977-79) tested satellite telecommunication; **APPLE** (1981) was the first Indian communication satellite; the **IGMDP** (Integrated Guided Missile Development Programme, 1983) is a missile programme.
+
+@pyq U.P.P.C.S. (Pre) 1990
+Assertion (A) : India's telecommunication has been linked to a satellite.
+Reason (R) : India is preparing for starwar.
+(a) Both (A) and (R) are true, but (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, and (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 1994
+India’s first remote sensing satellite (I.R.S.-IA) was launched from :
+(a) Baikonur
+(b) Cape Kennedy
+(c) French Guiana
+(d) Sri Harikota
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2004
+Kalpana-I is the new name given to one of the following :
+(a) Insat-1A
+(b) METSAT
+(c) Insat-2B
+(d) Agni-III
+@ans (b)
+@end
+
+@one
+In September 2002, India launched—
+@ans METSAT
+@end
+
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004; U.P.P.S.C. (GIC) 2010
+Which one of the following is not a space satellite?
+(a) SLV-3
+(b) RS-D1
+(c) IRS-1D
+(d) INSAT-2D
+@ans (a)
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Pre) 2001
+GSLV-D2 which has been recently launched into the orbit is
+(a) Defence Satellite
+(b) Exploration Satellite
+(c) Communication Satellite
+(d) Traffic Satellite
+@ans (*)
+@note **GSLV-D2** (May 2003) is a **launch vehicle**, not a satellite; on that flight it carried **GSAT-2**, an experimental **communication** satellite. Because the question calls the rocket itself a satellite, the source marks it (*); (c) is the intended answer.
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+India became the first country to send Educational Services Satellite in space, Edusat. When was the satellite launched ?
+(a) 20th September, 2003
+(b) 20th September, 2004
+(c) 4th July, 2004
+(d) 20th December, 2003
+@ans (b)
+@end
+
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+Consider the following statements and find the correct answer from the codes given below :
+1. RISAT-2 Satellite was put in orbit by PSLV-C12 in April 2009 from Sriharikota.
+2. Another satellite ANUSAT was also put in orbit by the PSLV-C12. This was built by Anna University, Chennai.
+3. ANUSAT is an experimental communication satellite.
+4. RISAT-2 is surveillance satellite and can keep a watch on country’s borders.
+Code :
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 3 and 4 only
+(d) 1, 2, 3, and 4 all
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004
+Which Satellite was successfully launched by ISRO on December 22, 2005 ?
+(a) INSAT - 2A
+(b) INSAT - 2B
+(c) INSAT - 4A
+(d) INSAT - 4B
+@ans (c)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2002
+INSAT-3C was launched from
+(a) Hassan
+(b) Kourou
+(c) Sriharikota
+(d) Thumba
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2005
+Heaviest Indian Satellite, INSAT-4C, which failed to go into orbit recently weighted ?
+(a) 1568 kg
+(b) 2168 kg
+(c) 2568 kg
+(d) 3068 kg
+@ans (b)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2010
+India’s advanced communication satellite GSAT-8 was launched on May 21, 2011 from
+(a) Hassan
+(b) Kourou
+(c) Sriharikota
+(d) Thiruvananthapuram
+@ans (b)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2012
+Which one of the following satellites was successfully launched by India on 29th September, 2012 ?
+(a) GSAT-6
+(b) GSAT-9
+(c) GSAT-10
+(d) GSAT-12
+@ans (c)
+@end
+
+
+The heavier INSAT and GSAT communication satellites were long launched on Europe's **Ariane** rockets from **Kourou** (French Guiana) because India's own GSLV could not lift them; **LVM3** (GSLV Mk III) now launches about 4 tonnes to geosynchronous transfer orbit from Sriharikota. **INSAT-4C** (2,168 kg) was lost when GSLV-F02 failed in July 2006. **RISAT-2** (2009, Israeli-built radar imager) watches borders day and night; **ANUSAT** was Anna University's student satellite.
+
+@pyq U.P.P.C.S. (Mains) 2004
+India developed the Satellite launch vehicles over a period of few decades. Which is the correct chronological order of development of the following vehicles A, B, C and D ?
+A. PSLV
+B. ASLV
+C. SLV
+D. GSLV
+Select correct answer from Code below :
+Code :
+(a) A, B, C, D
+(b) B, C, D, A
+(c) D, C, A, B
+(d) C, B, A, D
+@ans (d)
+@end
+
+@table
+Launch vehicle | First flight | Note
+**SLV-3** | 1979 (first success 1980) | Project director **A.P.J. Abdul Kalam**
+**ASLV** | 1987 | Augmented SLV
+**PSLV** | 1993 (first success 1994) | ISRO's workhorse; Chandrayaan-1 (2008), Mangalyaan (2013), **104 satellites in one launch** (2017), Aditya-L1 (2023)
+**GSLV** | 2001 | Uses a **cryogenic upper stage** (indigenous from 2014)
+**LVM3** (GSLV Mk III) | 2014 / 2017 | Heaviest: Chandrayaan-2 and 3, OneWeb, human-rated for **Gaganyaan**
+**SSLV** | 2022 | Small satellites at short notice
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2008
+In the context of space technology, what is 'BHUVAN', which is recently in the news ?
+(a) The name of the space vehicle proposed to be sent to the moon to probe possible human habitation there.
+(b) A satellite launched by ISRO for promoting distant education in India.
+(c) A space telescope developed by India.
+(d) A geoportal of ISRO with 3-D imaging capabilities.
+@ans (d)
+@end
+
+
+**Bhuvan** (2009) is ISRO's web **geoportal** for viewing Indian imagery and maps, like an Indian Google Earth.
+
+@section 11.2 | ISRO and Its Centres
+
+@pyq U.P.P.S.C. (GIC) 2010
+ISRO’s Master Control Facility is at Hassan, which is located in :
+(a) Andhra Pradesh
+(b) Gujarat
+(c) Orissa
+(d) Karnataka
+@ans (d)
+@end
+
+@pyq U.P.U.D.A/L.D.A. (Pre) 2006
+The Indian Institute of Remote Sensing (IIRS) is situated at :
+(a) Ahmedabad
+(b) Dehradun
+(c) Lucknow
+(d) None of the above
+@ans (b)
+@end
+
+
+@pyq U.P. U.D.A./L.D.A. (Pre) 2010
+Match List- I with List- II and select the correct answer from the code given below the Lists :
+@match
+List- I (Organisations) | List- II (Location)
+A. ISRO | 1. Thiruvananthapuram
+B. IUCA | 2. Pune
+C. IUAC | 3. Bengaluru
+D. VSSC | 4. New Delhi
+@endmatch
+Code : A B C D
+(a) 3 2 4 1
+(b) 1 2 3 4
+(c) 2 4 1 3
+(d) 3 1 2 4
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A (Spl.) (Mains) 2010
+Which of the following is not correctly matched?
+(a) Space Application Centre – Ahmedabad
+(b) National Remote Sensing Centre – Hyderabad
+(c) Indian Space Research Organisation Satellite Centre – Sriharikota
+(d) Vikram Sarabhai Space Centre – Thiruvananthapuram
+@ans (c)
+@end
+
+@pyq U.P.P.C.S.(Pre) 1998
+Which one of the following pairs are correctly matched:
+(a) Vikram Sarabhai Space Centre - Sriharikota
+(b) ISRO Satellite Centre - Thumba
+(c) SHAR Centre - Bangalore
+(d) Space Application Centre - Ahmedabad
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Thumba known as rocket launching station is situated in :
+(a) Uttar Pradesh
+(b) Bihar
+(c) Jharkhand
+(d) Kerala
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2003
+Sriharikota Island lies near :
+(a) Chika lake
+(b) Pulicat lake
+(c) Mahanadi
+(d) Godavari Mouth
+@ans (b)
+@end
+
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Match List-I with List-II and select the correct answer from the code given below the lists.
+@match
+List-I (Place) | List-II (Function)
+A. Kakrapar | 1. Atom bomb blast site
+B. Pokhran | 2. Rocket launching centre
+C. Thumba | 3. Nuclear power plant
+D. Sriharikota | 4. Satellite launching station
+@endmatch
+Code : A B C D
+(a) 3 2 1 4
+(b) 3 2 4 1
+(c) 3 1 2 4
+(d) 4 3 2 1
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+The Vikram Sarabhai Space Centre at Trivandrum is mainly concerned with –
+1. Research in propellants for launching rockets.
+2. To launched sounding rockets to investigate problems of meteorology.
+3. Design and fabrication of spacecraft.
+4. Development of satellite launch.
+Select the answer from the code given below :
+Code :
+(a) 1 and 4 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+(d) 1 only
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to "PraVaHa" software developed by ISRO, which of the following statements is/are correct?
+1. It is a path-breaking feat by Vikram Sarabhai Space Centre.
+2. Initial aerodynamic design of space vehicles requires evaluation of large number of configurations.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (d)
+@end
+
+
+@table
+Centre | Place | Work
+**ISRO HQ**, Antariksh Bhavan | **Bengaluru** | Founded 1969 (Vikram Sarabhai); under the Department of Space (1972)
+**Vikram Sarabhai Space Centre** (VSSC) | **Thiruvananthapuram** | **Launch vehicles** and propellants; **Thumba** (TERLS, first rocket 1963, on the magnetic equator)
+**U R Rao Satellite Centre** (former ISRO Satellite Centre) | **Bengaluru** | Satellite design and building
+**Satish Dhawan Space Centre** (SHAR) | **Sriharikota**, Andhra Pradesh | Launch port, between the Bay of Bengal and **Pulicat lake**; 100th launch in January 2025
+**Space Applications Centre** | **Ahmedabad** | Payloads and applications
+**National Remote Sensing Centre** | **Hyderabad** | Remote-sensing data
+**Master Control Facility** | **Hassan** (Karnataka) and Bhopal | Controls geostationary satellites
+**Liquid Propulsion Systems Centre** | Thiruvananthapuram and Bengaluru | Liquid and cryogenic engines
+**ISRO Propulsion Complex** | Mahendragiri (Tamil Nadu) | Engine testing
+**Physical Research Laboratory** | Ahmedabad | Space science
+**Indian Institute of Remote Sensing** | **Dehradun** | Training
+New SSLV spaceport | **Kulasekarapattinam** (Tamil Nadu) | Under construction
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2021
+Who among the following was appointed as the tenth Chairman of the Indian Space Research Organisation (ISRO) in January 2022?
+(a) P.L.N. Raju
+(b) V. Hari Prasad
+(c) C. Jagannathan
+(d) S.Somanath
+@ans (d)
+@end
+
+
+**S. Somanath** (10th chairman, January 2022) led Chandrayaan-3 and Aditya-L1; **V. Narayanan** became the 11th chairman in **January 2025**. Earlier chiefs include Vikram Sarabhai (first), Satish Dhawan, U.R. Rao, K. Kasturirangan, G. Madhavan Nair and K. Sivan. **PraVaHa** is VSSC's computational fluid dynamics software for aerodynamic design.
+
+@section 11.3 | Moon, Mars and Sun Missions
+
+@pyq U.P.P.C.S. (Pre) 2025
+Match List-I with List-II and choose the correct answer using the code given below the lists :
+@match
+List-I (Mission) | List-II (Launch Date)
+A. Chandrayaan-3 | 1. 02 September, 2023
+B. Aditya-L1 | 2. 17 February, 2024
+C. INSAT-3DS | 3. 14 July, 2023
+D. RLV-LEX-01 | 4. 02 April, 2023
+@endmatch
+Code : A B C D
+(a) 1 3 4 2
+(b) 3 1 2 4
+(c) 3 1 4 2
+(d) 1 3 2 4
+@ans (b)
+@end
+
+@pyq U.P.P.S.C. (GIC) 2010
+The Project Director of Chandrayaan-2 is :
+(a) C. Rangarajan
+(b) A.P.J. Kalam
+(c) P. Chidambaram
+(d) Dr. M. Annadurai
+@ans (d)
+@end
+
+@one
+Which geosynchronous satellite launch vehicle was used by ISRO to launch the Chandrayaan-2 spacecraft?
+@ans GSLV-Mk III-M1
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+India’s Chandrayaan-3 made a soft landing on the moon, making India the _________ country to do so.
+(a) Second
+(b) Third
+(c) Fourth
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Which one of the following payloads was used in Chandrayaan-3 Mission to determine the elemental composition (Mg, Al, Si, K, Ca, Ti, Fe) of lunar soil and rocks around the lunar landing site?
+(a) ILSA
+(b) LRA
+(c) APXS
+(d) None of the above
+@ans (c)
+@end
+
+
+@table
+Mission | Launch | Highlight
+**Chandrayaan-1** | 22 Oct 2008, PSLV-C11 | Found **water molecules** on the Moon (NASA's M3 instrument); Moon Impact Probe
+**Mangalyaan** (Mars Orbiter Mission) | **5 Nov 2013**, PSLV-C25 | India first to reach Mars orbit **on the first attempt** (24 Sept 2014); Asia's first
+**Chandrayaan-2** | 22 July 2019, **GSLV Mk III-M1** | Orbiter still working; Vikram lander crashed
+**Chandrayaan-3** | **14 July 2023**, LVM3-M4 | Soft landing **23 August 2023** near the **south pole** ("Shiv Shakti point"); India the **4th** country to soft-land (after USSR, USA, China) and the first near the south pole; 23 August is **National Space Day**
+**Aditya-L1** | **2 Sept 2023**, PSLV-C57 | First Indian solar observatory, in halo orbit around **Lagrange point L1** (1.5 million km) from **6 Jan 2024**
+**SpaDeX** | 30 Dec 2024 | First Indian **docking** in space (16 Jan 2025); India the 4th country to dock
+**NISAR** | **30 July 2025**, GSLV-F16 | **NASA-ISRO** synthetic aperture radar, dual-frequency (L and S band) Earth observation
+Upcoming | - | **Gaganyaan** (crewed flight), **Chandrayaan-4** (sample return), **LUPEX / Chandrayaan-5** (with Japan), **Venus Orbiter Mission**, **Bharatiya Antariksh Station** (by 2035)
+@end
+
+Chandrayaan-3's **Pragyan** rover carried **APXS** (Alpha Particle X-ray Spectrometer) and **LIBS** (laser-induced breakdown spectroscope), which confirmed **sulphur** near the south pole; the **Vikram** lander carried ILSA (a seismometer) and NASA's laser retroreflector (LRA).
+
+@pyq U.P.P.C.S. (Pre) 2024
+With reference to “Lunar Polar Exploration Mission” (LUPEX), which of the following statements is/are correct?
+1. This is an India - Japan partnership for their joint moon mission which shall be launched in the future.
+2. JAXA is responsible for developing the lander for the mission, while ISRO is handling the rover and launch vehicle.
+Select the correct answer from the codes given below:
+(a) Only 2
+(b) Neither 1 nor 2
+(c) Only 1
+(d) Both 1 and 2
+@ans (c)
+@end
+
+
+**LUPEX** is an **India-Japan** polar Moon mission: **JAXA** provides the **rover** and the H3 launch rocket, and **ISRO** the **lander**, so statement 2 has the roles reversed.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+Given below are two statements, in which one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A) : Roscosmos's Luna-25 mission to moon was aimed at ensuring guaranteed access to moon.
+Reason (R) : Russia and China together are leading International Lunar Research Station (ILRS) against U.S. led Artemis Accord.
+Select the correct answer from the code given below :
+Code :
+(a) (A) is true but (R) is false.
+(b) Both (A) and (R) are true and (R) is correct explanation of (A).
+(c) (A) is false but (R) is true.
+(d) Both (A) and (R) are true but (R) is not correct explanation of (A).
+@ans (b)
+@end
+
+Russia's **Luna-25** (August 2023), its first Moon mission in 47 years, **crashed** days before Chandrayaan-3 landed. The **Artemis Accords** (US-led, 2020) set rules for lunar exploration; **India signed them in June 2023**. Russia and China lead the rival International Lunar Research Station.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2023
+In reference to Mangalyaan launched by ISRO, consider the following statements :
+(I) It is also called as the Mars Orbiter Mission.
+(II) It was launched in November 2013.
+Select the correct answer using the code given below :
+Code :
+(a) Neither (I) nor (II)
+(b) Only (II)
+(c) Only (I)
+(d) Both (I) and (II)
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2009
+According to NASA, the evidence for the presence of life on Mars found till today include –
+(a) Water alone
+(b) Water and gypsum
+(c) Water, gypsum and methane
+(d) None of the above
+@ans (c)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2018
+Which of the following planets may be suitable for existence of life?
+(a) Mars
+(b) Mercury
+(c) Venus
+(d) Jupiter
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2010; U.P. P.C.S. (Mains) 2016
+Methane is present in the atmosphere of :
+(a) Moon
+(b) Sun
+(c) Mars
+(d) Jupiter
+@ans (c) & (d)
+@note The source gives **(c) & (d)**: **Mars** has traces of methane (seen by Curiosity and Mars Express), and **Jupiter**'s atmosphere has about 0.3% methane along with hydrogen and helium.
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+The atmosphere of Saturn contains which one of the following gas in large quantity?
+(a) Carbon monoxide
+(b) Nitrogen
+(c) Sulphur dioxide
+(d) Methane
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Mains) 2016
+Which spacecraft of NASA has confirmed the presence of water on the Moon?
+(a) ORION
+(b) GEMINI
+(c) SOFIA
+(d) MERCURY
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2018
+As per report released by U.S. Journal 'SCIENCE' on 26th July, 2018, a massive underground lake has been detected on which planet?
+(a) Jupiter
+(b) Saturn
+(c) Venus
+(d) Mars
+@ans (d)
+@end
+
+
+
+**Methane** colours **Uranus and Neptune** blue-green; the giant planets are mostly hydrogen and helium. NASA's airborne telescope **SOFIA** confirmed water molecules on the sunlit Moon (2020). In 2018 Italian scientists using radar on ESA's Mars Express reported a **lake of liquid water under the Martian south polar ice**.
+
+@pyq U.P. R.O./A.R.O. (Pre) 2021
+'DAVINCI+' and 'VERITAS' – two new mission announced by NASA, are related to :
+(a) Moon
+(b) Venus
+(c) Mars
+(d) Jupiter
+@ans (b)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2023
+The 'NISAR satellite' is jointly developed by which of the following organizations?
+(a) ESA and ISRO
+(b) ROSCOSMOS and CNSA
+(c) ISRO and NASA
+(d) ESA and NASA
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2008
+NASA-U.S. space agency, has launched a telescope named Kepler to find :
+(a) Distant stars
+(b) Distant planets
+(c) Distant satellites
+(d) Earth-like planets
+@ans (d)
+@end
+
+
+NASA's **Kepler** telescope (2009-2018) found thousands of **exoplanets** by watching stars dim as planets crossed them; its successor is **TESS**. **DAVINCI+** and **VERITAS** are NASA's planned **Venus** missions; ESA's EnVision and India's **Venus Orbiter Mission** (approved 2024) also target Venus.
+
+@section 11.4 | Astronauts and Human Spaceflight
+
+@pyq U.P. Lower Sub. (Spl.) (Pre) 2004; U.P.P.C.S. (Pre) 2001
+Who among the following is world’s first woman cosmonaut :
+(a) Bachendri Pal
+(b) Junko Tabei
+(c) Valentina Tereshkova
+(d) Sally Ride
+@ans (c)
+@end
+
+
+@pyq U.P.P.S.C. (GIC) 2010
+“I am a citizen of milky way.” The above statement is attributed by –
+(a) Archana Sharma
+(b) Kalpana Chawla
+(c) Satish Dhawan
+(d) Vikram Sarabhai
+@ans (b)
+@end
+
+
+@table
+Astronaut | First / record
+**Yuri Gagarin** (USSR) | First human in space, Vostok-1, **12 April 1961**
+**Valentina Tereshkova** (USSR) | First woman in space, Vostok-6, 1963
+Neil Armstrong (USA) | First on the Moon, Apollo-11, 20 July 1969
+**Rakesh Sharma** | First Indian in space, Soyuz T-11, **April 1984**
+**Kalpana Chawla** | First Indian-born woman in space (1997); died in the **Columbia** disaster (2003)
+**Sunita Williams** | Indian-origin; 2024-25 stay of 286 days after Boeing Starliner trouble, returned on **SpaceX Crew Dragon** (18 March 2025)
+**Shubhanshu Shukla** | First Indian on the **ISS** (Axiom-4, June-July 2025); second Indian in space
+**Frank Rubio** (NASA) | Longest single flight by a US astronaut: **371 days** (2022-23)
+Valeri Polyakov (Russia) | Longest single flight overall: 437 days (1994-95)
+@end
+
+@pyq U.P. P.C.S. (Pre) 2022
+Who is the record holder for single longest space flight by a 'NASA' astronaut abroad the International Space Station?
+(a) Pyotr Dubrov
+(b) Mark Vande Hei
+(c) Anton Shkaplerov
+(d) None of the above
+@ans (d)
+@note When asked (2022), **Mark Vande Hei** held the US record with 355 days. **Frank Rubio** broke it in 2023 with 371 days, so the source now gives (d).
+@end
+
+@pyq U.P.R.O./A.R.O. (Pre) (Re-Exam) 2023
+In March 2025, NASA astronauts Butch Wilmore and Sunita Williams returned to Earth on board SpaceX’s spacecraft named :
+(a) Challenger
+(b) Dragon
+(c) Columbia
+(d) Discovery
+@ans (b)
+@end
+
+@pyq U.P. Lower Sub. (Pre) 2015
+Tim Peake is known as which of the following?
+(a) Writer
+(b) Physicist
+(c) Astronaut
+(d) Politician
+@ans (c)
+@end
+
+
+
+@pyq U.P. Lower Sub. (Pre) 2009
+Which one of the following is NASA's last Space Shuttle?
+(a) Atlantis
+(b) Columbia
+(c) Discovery
+(d) Endeavor
+@ans (a)
+@end
+
+
+The US **Space Shuttle** flew 1981-2011: **Columbia** (first, lost in 2003), Challenger (lost in 1986), Discovery, **Atlantis** (**last flight, July 2011**) and Endeavour. **Tim Peake** is a British ESA astronaut.
+
+@pyq U.P.P.C.S. (Pre) 2008
+Which of the following statements is not correct about Chinese space shuttle 'Shenzhou-7'?
+(a) It was manned by four astronauts.
+(b) It was launched by Long March 2F rocket.
+(c) For the first time, the Chinese astronauts performed a spacewalk.
+(d) The astronauts returned safely to Earth.
+@ans (a)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+In August 2016, China developed a system nicknamed 'Micius' which is :
+(a) An ancient Chinese musical system
+(b) A quantum satellite communication system
+(c) A computer game
+(d) None of the above
+@ans (b)
+@end
+
+
+**Shenzhou-7** (2008) carried **three** astronauts and made China's first spacewalk. China now runs its own space station, **Tiangong** (2021-). **Micius** (2016) was the world's first **quantum communication satellite**.
+
+@pyq U.P.P.C.S. (Pre) 2009
+Scientists of Britain have built 'Gravity Tractor'. Identify the same from the following.
+(a) A double storeyed 'Jugaad' type tractor trolley to be used in public transport.
+(b) A tractor with a mechanism to sweep public roads and is economical to run.
+(c) A bullet train runs on the Principle of Earth's 'gravity' with the help of powerful magnets.
+(d) A spacecraft with a mechanism which would check asteroids from hitting the Earth.
+@ans (d)
+@end
+
+
+A **gravity tractor** is a proposed spacecraft that would hover near an asteroid and nudge it off course by its own small gravity. NASA's **DART** mission actually deflected the asteroid moonlet Dimorphos by impact in 2022.
+
+@pyq U.P.P.C.S. (Pre) 1999
+Apollo-8 was launched for space exploration on :
+(a) January 6 , 1998
+(b) Feb 7, 1998
+(c) March 8, 1998
+(d) April 9, 1998
+@ans (*)
+@note **Apollo 8** was launched on **21 December 1968** and was the first crewed flight to orbit the Moon. None of the dates is correct, so the source marks the question (*).
+@end
+
+@section 11.5 | Satellites, Black Holes and Comets
+
+@pyq U.P.P.C.S. (Mains) 2005
+What is the geostatic position ?
+(a) When the Earth would stop moving around the Sun.
+(b) When an object lies in between the Moon and the Earth
+(c) When the object moves around the Earth with the velocity commensurate with the velocity of the Earth such that it maintain a fixed position in relation to some place on the Earth.
+(d) When an object occupies a fixed distance from the Earth.
+@ans (c)
+@end
+
+@one
+The time period of a geostationary artificial satellite is
+@ans 24 hours
+@end
+
+
+@pyq U.P. P.C.S. (Pre) 2017
+An artificial satellite can be accurately tracked from the Earth by—
+(a) Doppler effect
+(b) Radar
+(c) Sonar
+(d) Pulsar
+@ans (a)
+@end
+
+@pyq U.P.U.D.A./L.D.A. (Pre) 2002; U.P.P.C.S. (Pre) 2003
+Assertion (A): A space shuttle loses radio contact with ground station for a while during landing on the Earth.
+Reason (R) : As a space shuttle enters Earth’s atmosphere, the shuttle’s surface temperature increases which ionize the surrounding air. In the context of the above statements, which of the following is correct :
+(a) Both (A) and (R) are true, but (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, and (R) is not the correct explanation of (A).
+(c) (A) is true, but (R) is false.
+(d) (A) is false, but (R) is true.
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+In which atmospheric layer, the communication satellites are located ?
+(a) Stratosphere
+(b) Ionosphere
+(c) Troposphere
+(d) Exosphere
+@ans (d)
+@end
+
+
+A **geostationary** satellite orbits about **35,786 km** above the equator, eastward, with a period of **24 hours**, so it stays over one spot (communication, weather: INSAT, GSAT). **Polar sun-synchronous** satellites (about 500-900 km) pass over every place at the same local time (remote sensing: IRS, Cartosat). Satellites are tracked using the **Doppler shift** of their radio signals. During re-entry, intense heat **ionises** the air around a capsule and causes a radio **blackout**.
+
+@pyq U.P.P.C.S. (Pre) 2014, 2006, 2000
+What is the source of electrical energy in an artificial satellite ?
+(a) Solar cells
+(b) Mini nuclear reactor
+(c) Dynamo
+(d) Thermopile
+@ans (a)
+@end
+
+
+@pyq U.P.P.C.S. (Pre) 2009
+Given below are two statementsAssertion (A) : Lighting a candle in space does not produce a flame.
+Reason (R) : A flame exists due to the pull of gravity. In the context of above, which one of the following is correct?
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true but (R) is not the correct explanation.
+(c) (A) is true but (R) is false.
+(d) (A) is false but (R) is true.
+@ans (a)
+@end
+
+
+In **microgravity** there is no buoyant convection, so hot gases do not rise; a candle burns as a faint, **spherical blue flame** that may go out. The source accepts that flame shape depends on gravity.
+
+@pyq U.P.P.C.S (Pre) 2011
+The principle of ‘Black hole’ was enunciated by :
+(a) C.V Raman
+(b) H.J. Bhabha
+(c) S. Chandrashekhar
+(d) H. Khurana
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2019
+Black-hole is :
+(a) a flight recorder in aeroplane
+(b) a spot on the sun
+(c) a place in Antarctica
+(d) a collapsed star
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2011
+The tail of a comet always points –
+(a) Away from the Sun
+(b) Towards the Sun
+(c) Towards North-East
+(d) Towards South-East
+@ans (a)
+@end
+
+
+**Subrahmanyan Chandrasekhar** showed (1930) that a star more massive than about 1.4 Suns (the **Chandrasekhar limit**) cannot end as a white dwarf and collapses further, into a neutron star or **black hole**; he won the Nobel Prize in 1983. A comet's tail always points **away from the Sun**, pushed by sunlight and the solar wind.
+
+@section 11.6 | Rockets, Jets and Cryogenics
+
+@pyq U.P.P.C.S. (Mains) 2007; U.P.P.C.S. (Pre) 2009
+Consider the following statements in respect of a jet engine and a rocket :
+1. A jet engine uses the surrounding air for its oxygen supply and so is unsuitable for motion in space.
+2. A rocket carries its own supply of oxygen in the gas form and fuel.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (a)
+@end
+
+A rocket carries its oxidiser, but as a **liquid or solid**, not as gas, so statement 2 is wrong.
+
+@pyq U.P.R.O./A.R.O. (Mains) 2013
+On which principle, a Jet Engine works?
+(a) Conservation of linear momentum
+(b) Conservation of angular momentum
+(c) Conservation of energy
+(d) Conservation of mass
+@ans (a)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2014; U.P. R.O./A.R.O. (Mains) 2021; U.P. R.O./A.R.O. (Pre) 2023
+Rocket works on the principle of the following :
+(a) Bernoulli’s theorem
+(b) Energy conservation
+(c) Conservation of Momentum
+(d) Avogadro’s concept
+@ans (c)
+@end
+
+
+Both rockets and jets work on **Newton's third law** and the **conservation of linear momentum**: gases thrown backward push the vehicle forward. A rocket works even in vacuum; a jet engine needs air.
+
+@pyq U.P.P.C.S. (Mains) 2013
+The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation?
+1. There are no clouds or water-vapour in the lower stratosphere.
+2. There are no vertical winds in the lower stratosphere.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+@ans (c)
+@end
+
+
+@pyq U.P.P.C.S. (Mains) 2013
+Consider the following Assertion (A) and Reason (R) and choose your answer from the given code :
+Assertion (A) : The upper surface of the wings of an aeroplane is made convex and the lower surface is made concave.
+Reason (R) : The air current at the top has less velocity and thus less pressure at the bottom than at the top.
+Code :
+(a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+(b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+(c) (A) is false and (R) is true.
+(d) (A) is true and (R) is false.
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Spl.) (Mains) 2004; U.P.P.C.S. (Mains) 2009; U.P.P.C.S. (Pre) 1996
+The 'Black Box' of an aeroplane is of :
+(a) White colour
+(b) Red colour
+(c) Black colour
+(d) Orange colour
+@ans (d)
+@end
+
+@pyq U.P. R.O./A.R.O. (Pre) 2016
+Stratellite is the :
+(a) Uppermost band of stratosphere
+(b) Lowermost band of stratosphere
+(c) High altitude airship positioned in the stratosphere
+(d) Natural satellite of Saturn
+@ans (c)
+@end
+
+
+An aeroplane wing (aerofoil) is **curved on top**, so air flows **faster over it**; by **Bernoulli's principle** faster air has **lower pressure**, and the higher pressure below gives **lift**. The Reason in the question has the velocities reversed, so it is false. The **"black box"** (flight data and cockpit voice recorders) is painted bright **orange** to be found easily.
+
+@pyq U.P.P.S.C. (GIC) 2010
+Liquid Oxygen or liquid Hydrogen is used technology in obtaining the industrial level called
+(a) Pyrotechnics
+(b) Pyrometry
+(c) Hydroponics
+(d) Cryogenics
+@ans (d)
+@end
+
+@pyq U.P.P.C.S. (Pre) 2006
+The Cryogenic engine is used in :
+(a) submarine engines
+(b) frost-free refrigerators
+(c) rocket technology
+(d) research related to superconductivity
+@ans (c)
+@end
+
+@pyq U.P.P.C.S. (Mains) 2004
+Cryogenic engines use :
+(a) Liquid chlorine as the oxidizer and liquid hydrogen as the fuel.
+(b) Liquid oxygen as the oxidizer and liquid hydrogen as the fuel.
+(c) Liquid fluorine as the oxidizer and liquid hydrogen as the fuel.
+(d) Liquid sulphur dioxide as the oxidizer and liquid hydrogen as the fuel.
+@ans (b)
+@end
+
+@one
+Cryogenic engines are used in
+@ans space shuttles
+@end
+
+
+@pyq U.P.P.S.C. (GIC) 2010
+Which of the following is not used as rocket propellant –
+(a) Liquid hydrogen
+(b) Liquid oxygen
+(c) Liquid hydrazine
+(d) Kerosene oil
+@ans (*)
+@note All four are used as rocket propellants: **liquid hydrogen** (cryogenic fuel), **liquid oxygen** (oxidiser), **hydrazine** (storable fuel, in ISRO's Vikas engines as UDMH) and **kerosene** (RP-1, in SpaceX's Falcon and ISRO's coming semi-cryogenic engine). With no correct option, the source marks it (*).
+@end
+
+
+
+@pyq U.P.P.C.S. (Pre) 2006
+The fuel tanks of the spacecraft ‘Discovery’ that was launched into space on July 4, 2006 was filled with
+(a) Liquid hydrogen only
+(b) Liquid oxygen only
+(c) Mixture of liquid hydrogen and liquid oxygen
+(d) Mixture of liquid hydrogen, liquid oxygen, and liquid helium
+@ans (c)
+@end
+
+
+@table
+Engine / fuel | Fuel + oxidiser | Example
+Solid | Composite (HTPB + ammonium perchlorate) | PSLV first stage, boosters
+Earth-storable liquid | **UDMH / hydrazine + N_{2}O_{4}** | Vikas engine (PSLV, GSLV)
+**Cryogenic** | **Liquid hydrogen (-253°C) + liquid oxygen (-183°C)** | GSLV upper stage (CE-7.5), LVM3 (CE-20), Space Shuttle
+Semi-cryogenic | Refined kerosene + liquid oxygen | ISRO's SCE-200 (under development)
+@end
+
+**Cryogenics** is the science of very low temperatures (below about -150°C). India's **indigenous cryogenic stage** first flew on GSLV-D5 in January 2014.
+
+@pyq U.P.P.C.S.(Pre) 2013; U.P.U.D.A./L.D.A. (Pre) 2013
+Match List-I with List-II and select the correct answer by using the codes given below the lists :
+@match
+List-I | List-II
+A. Curiosity Rover | 1. Tablet
+B. Messenger | 2. Unmanned Aerial vehicle of DRDO
+C. Rustam-1 | 3. Mars probe space vehicle of U.S.A.
+D. Akash-2 | 4. Mercury probe space vehicle of NASA
+@endmatch
+Code : A B C D
+(a) 3 4 2 1
+(b) 4 3 2 1
+(c) 3 4 1 2
+(d) 1 2 3 4
+@ans (a)
+@end
+
+**Curiosity** (2011) is NASA's Mars rover; **MESSENGER** (2004-2015) orbited **Mercury**; **Rustom-1** is a DRDO drone; **Aakash-2** was India's low-cost tablet for students (2012).
+
+@trap
+**Aryabhata (1975)** was launched from the USSR, **IRS-1A** from **Baikonur**. Order: **SLV → ASLV → PSLV → GSLV**; **SITE → STEP → APPLE → IGMDP**. **ISRO Satellite Centre is in Bengaluru**, not Sriharikota. Chandrayaan-3 made India the **4th** to soft-land. In **LUPEX** India builds the **lander**, Japan the rover. Cryogenic = **liquid H_{2} + liquid O_{2}**. A rocket carries **liquid** oxygen. The black box is **orange**.
+@end
+
+@heatmap
+
+@pattern
+Space is the fastest-growing topic: the **2023, 2024 and 2025** papers each had two or three questions on recent missions (Chandrayaan-3 date and payloads, Aditya-L1, NISAR, LUPEX, PraVaHa, Luna-25, Sunita Williams). Older papers asked about first satellites and centres. Expect at least one current mission match every year.
+@end
+
+@next
+Likely next angles: **Gaganyaan** test flights and astronauts (Group Captains Prasanth Nair, Ajit Krishnan, Angad Pratap, Shubhanshu Shukla), the **Bharatiya Antariksh Station**, **SpaDeX** docking, **Chandrayaan-4** and **5**, **NISAR** data, **NavIC** satellites (NVS-02), **IN-SPACe** and private rockets (Skyroot's Vikram-S, Agnikul), **Artemis II**, and space debris.
+@end

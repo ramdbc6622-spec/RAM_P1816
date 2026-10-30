@@ -1,0 +1,96 @@
+@chapter 9 | Climate and the Monsoon
+@meta Built from 25 UPPSC questions (1993–2025). Focus: monsoon branches, winter rain, rainfall extremes, local storms.
+
+@hot
+- **Winter rain**: north-west India from **western disturbances**; **Tamil Nadu** from the **north-east monsoon** {1993, 2008, 2009, 2012, 2019, 2021, ?}
+- **Leh** gets the **least rainfall** among the options {2008, 2009, 2010}
+- India is a **monsoon** land; the **Himalaya** gives it climatic distinctiveness {1996, 1998}
+- **Tamil Nadu** coast stays **dry** in the south-west monsoon (parallel to the Bay branch, rain shadow of the Arabian branch) {2023}
+@end
+
+@section 9.1 | Monsoon Land and the Himalaya
+- India is **monsoonal** because of the **Himalaya** (A and R true, R explains A) {1996, 1998}
+- Himalayan vegetation varies because **climate changes with altitude** {2025}
+- **Southern** Himalayan slopes are **wetter and greener**; the claim that northern slopes are greener is false {2023}
+- **Agra** (16°C) is warmer than **Darjeeling** (4°C) in January because temperature **falls with altitude** {2022}
+
+@section 9.2 | Arrival and Branches of the Monsoon
+- Monsoon reaches **Kerala** first on the mainland (Andaman and Nicobar earliest overall) {2006}
+- The Indian monsoon comes from the **south-west winds** {2016}
+- **Tamil Nadu** coast is **dry** in June-September (A and R true, R explains A) {2023}
+
+@flow How the south-west monsoon spreads
+Andaman and Nicobar | About 20 May
+Kerala (onset) | About 1 June
+Arabian Sea branch | Western Ghats: heavy rain; Deccan in rain shadow
+Bay of Bengal branch | North-east hills: Mawsynram, Cherrapunji
+Turned west by the Himalaya | Ganga plain: rain falls from east to west
+Whole country | By about 8 July
+@end
+
+@section 9.3 | Rainfall
+- Highest average annual rainfall among the options: **Sikkim** {2016}
+- Humid places among the options: **Kochi and Tezpur** {2010}
+- Least rainfall: **Leh** {2008, 2009, 2010}
+- "200 mm average" had no correct group (probably meant 200 cm) (*) {1994}
+- India is a "thirsty land" despite heavy rain for **all the reasons given** (seasonal, uneven, run-off) {1994}
+- Cost-effective water strategy: **rainwater harvesting** {2011}
+- Inland waterways are weak because rain falls in **only four months** (R explains A) {2008}
+
+@table
+Annual rainfall | Regions
+Over 200 cm | West coast, north-east, Andaman and Nicobar
+100-200 cm | East India, middle Ganga plain
+50-100 cm | West UP, Punjab, Haryana, inner Deccan
+Below 50 cm | West Rajasthan, Kutch, Ladakh
+@end
+
+@section 9.4 | Winter Weather
+- Winter is **dry** for most of India; NE trade winds (source key: R true but not the explanation) {2023}
+- Most **north-east monsoon** rain: **Tamil Nadu**; Tamil Nadu's winter rain comes from it {2009, 2008}
+- Winter rain in the **northern plains**: **western disturbances** {1993, 2021}
+- Western-disturbance rain **decreases from west to east** {2019}
+- Area with winter rain: the **north-west** {2012}
+- Northern plains get winter rain, but **not because of the NE monsoon** (R not the explanation) {?}
+
+@trap
+- **North-west** winter rain = **western disturbance**. **South-east** (Tamil Nadu) winter rain = **north-east (retreating) monsoon**. Never mix them.
+@end
+
+@section 9.5 | Local Storms and Seasons
+- Match: **Mango shower-Kerala, Blossom shower-coastal Karnataka, Kal Baisakhi-West Bengal, Loo-Punjab to Bihar** {2024}
+- Local storm of **Bengal and Assam**, good for tea and rice: **Norwesters (Kal Baisakhi)** {2023}
+- Hindu seasons in order: **Vasanta (spring), Grishma (summer), Varsha (rain), Sharad (autumn)** {2021}
+
+@table
+Local wind | Region | Effect
+Loo | Punjab to Bihar | Hot, dry, May-June
+Kal Baisakhi | West Bengal, Assam | Thunder squalls; tea, jute, rice
+Mango shower | Kerala, coastal Karnataka | Ripens mangoes
+Blossom shower | Kerala, Karnataka | Coffee flowers
+Western disturbance | North-west | Winter rain and snow
+@end
+
+@flow Six Hindu seasons (ritu)
+Vasanta | Spring: March-May
+Grishma | Summer: May-July
+Varsha | Rains: July-September
+Sharad | Autumn: September-November
+Hemanta | Pre-winter: November-January
+Shishira | Winter: January-March
+@end
+
+@up UP's rainfall falls from **east to west**: eastern UP gets about 100-150 cm, western UP about 60-80 cm, because the Bay of Bengal branch weakens as it moves up the Ganga plain. The **Loo** blows across UP in May-June; western UP gets **western-disturbance** rain in winter.
+
+@last
+- **Himalaya** makes India a monsoon land
+- Monsoon reaches **Kerala** first (Andamans earliest)
+- Monsoon = **south-west** winds
+- **Tamil Nadu** dry in the SW monsoon; wet from the **NE monsoon**
+- North-west winter rain = **western disturbance**, decreasing west to east
+- **Leh** = least rain; **Mawsynram** = most
+- **Loo** = Punjab to Bihar; **Kal Baisakhi** = Bengal-Assam
+- **Mango shower** = Kerala; **blossom shower** = coffee
+- Temperature falls with **altitude** (Agra vs Darjeeling)
+- Seasons: Vasanta, Grishma, Varsha, Sharad, Hemanta, Shishira
+@end

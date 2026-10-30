@@ -1,0 +1,90 @@
+@chapter 25 | Economic Importance of Plants
+@meta Built from 35 UPPSC questions (2000–2023). Focus: improved crop varieties, biodiesel plants (Jatropha, Pongamia), caffeine and iodine, plant products and their parts, quinine and opium.
+
+@hot
+- **Jatropha** = **biodiesel** plant; **Pongamia** (karanj) = leguminous petro-plant {2004, 2010, 2021, 2021}
+- **Quinine** from **cinchona bark**; replaced by synthetic **chloroquine** {2000, 2016, 2017, ?}
+- **Opium**: **latex of the unripe poppy fruit**; main constituent **morphine**; heroin and noscapine also from poppy {2005, 2011, 2012, 2014, 2016}
+- **Seaweeds** are a major source of **iodine** {2015, 2017, 2023}
+- **Caffeine** is in **tea and coffee** {2016, 2017}
+@end
+
+@section 25.1 | Improved Varieties
+- **Kanchan**: an improved variety of **amla** (Indian gooseberry) {2015}
+- **Kashi Lalima**: red **okra** (IIVR, Varanasi) {2021}
+- **Co 1148**: **sugarcane** {2017}
+- First dwarf rice of India: **Jaya** {2010}
+- Wrong pair: **linseed-Surya** {2017}
+
+@section 25.2 | Oils, Biofuels and Industrial Products
+- Green-synthesised nanoparticles for cancer research: **Parthenium** extract {2004}
+- Peppermint oil is highest in the **leaf** {2009}
+- **Litmus**: from **lichens** {2010}
+- Biodiesel plant: **Jatropha** {2004, 2021, 2021}
+- Leguminous petro-plant: **Pongam** (Pongamia) {2010}
+- Petro-crops are rich in **hydrocarbons and lipids** (2 and 4) {2009}
+- First biodiesel plant: **Andhra Pradesh** {2004}
+- **Chilgoza**: seed of the **pine** {2009}
+- Caffeine: **tea and coffee** both; tea's main stimulant {2016, 2017}
+- Seaweeds: **iodine** {2015, 2017, 2023}
+
+@section 25.3 | Spices and Plant Parts
+- **Opium-fruit, hing-root, rubber-stem, quinine-bark** {2017}
+- **Asafoetida (hing)**: resin from the **stem base and roots** of Ferula {2016, ?}
+- Main mosquito repellent plant: **neem** {2004}
+- Tulsi's medicinal value: **phenols and flavonoids** {2019, 2021}
+- Wrong pair: **rayon-modified starch** (rayon is regenerated **cellulose**) {2019, 2022}
+- **Tapa cloth**: bark of plants of the **Moraceae** (mulberry) family {2021}
+- **Beet-sugar, honey-glucose and fructose, cotton-cellulose, milk-lactose** (all four) {2021}
+
+@table
+Product | Plant part
+Opium | Latex of unripe poppy fruit
+Hing (asafoetida) | Resin from root and stem base
+Rubber | Latex from stem (bark)
+Quinine | Cinchona bark
+Clove | Flower bud
+Saffron | Stigma
+Cinnamon | Bark
+Chilgoza | Pine seed
+@end
+
+@section 25.4 | Medicinal and Drug Plants
+- **Quinine**: **cinchona bark** {2016, ?}
+- **Arteether** (antimalarial): from a **seed plant** (Artemisia annua) {2005}
+- Synthetic drug that replaced quinine: **chloroquine** {2000}
+- Hydroxychloroquine is fully **synthetic**; no plant fits (*) {2016}
+- **Noscapine**: from **poppy** {2012}
+- **Heroin**: from **opium poppy** {2005}
+- Opium: **latex of the unripe fruit** {2011, 2014}
+- Chief constituent of opium: **morphine** {2016}
+
+@flow From poppy to drugs
+Poppy capsule | Unripe fruit is cut
+Latex | Dries into raw opium
+Morphine | Main alkaloid; painkiller
+Heroin | Made from morphine (diacetylmorphine)
+Noscapine, codeine | Cough medicines
+@end
+
+@trap
+- Opium comes from the **fruit**, not the seed or flower.
+- Rayon is made from **cellulose**, not starch.
+- Hing is a **resin** from roots and stem base, not a seed.
+- Litmus = lichen; caffeine = tea **and** coffee.
+@end
+
+@up UP link: **Kashi Lalima** (red okra) comes from **IIVR, Varanasi**; **Kanchan** amla was bred at **Narendra Deva Agricultural University** (Kumarganj, Ayodhya); **Barabanki** and **Ghazipur** are licensed **opium** poppy areas, and the **Government Opium Factory** is at **Ghazipur**.
+
+@last
+- Kanchan = amla; Kashi Lalima = okra; Co 1148 = sugarcane
+- Jaya = first dwarf rice
+- Jatropha = biodiesel; Pongamia = leguminous petro-plant
+- Litmus = lichen; chilgoza = pine seed
+- Caffeine = tea and coffee; seaweed = iodine
+- Hing = root/stem resin; neem = mosquito repellent
+- Rayon = cellulose; tapa cloth = Moraceae
+- Quinine = cinchona bark; chloroquine replaced it
+- Arteether = Artemisia; HCQ = synthetic
+- Opium = unripe fruit latex; morphine main; heroin from it
+@end

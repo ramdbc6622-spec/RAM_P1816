@@ -1,0 +1,80 @@
+@chapter 13 | Non-Conventional Energy
+@unit UNIT V · ENERGY, POLLUTION AND INSTITUTIONS
+@meta Built from 23 UPPSC questions (2000–2025). Focus: solar energy, India's energy mix, solar firsts, ISA, biofuels, hydrogen.
+
+@hot
+- **Solar** = most eco-friendly, no air pollution, greatest renewable potential in India {2004, 2006, 2011, 2015, 2018}
+- **Hydrogen** = least polluting fuel {2010, 2013, 2015, 2017}
+- Solar firsts: **Cochin** airport; **Diu** first 100% solar UT {2017, 2017, 2019}
+- **Jatropha** = biodiesel crop {2015}
+@end
+
+@section 13.1 | Sources
+- Solar radiation's main role: **water cycle** {2000, 2004}
+- Ultimate source of fossil-fuel energy: **Sun** {2016}
+- Non-renewable: **petroleum** {2021}
+- **Minerals-exhaustible, solar-inexhaustible, biogas-methane and CO2, deforestation-rainfall** {2015}
+- Not biomass energy: **nuclear** {2022}
+- Used most in organic form: **solar energy** (via plants) {2004}
+
+@section 13.2 | India's Mix and Solar
+- Second source after fossil fuels: **solar** {2021}
+- Greatest renewable potential: **solar** {2011}
+- Best for sustainable power (key): **hydro-electricity** {2012}
+- Most eco-friendly: **solar cell** {2004, 2006, 2015}
+- No air pollution: **solar** {2018}
+- First fully solar airport: **Kochi** {2017}
+- First 100% solar UT: **Diu** {2017, 2019}
+
+@table
+Installed power (2025) | Share
+Fossil | ~48-50%
+Solar | ~26%
+Hydro | ~11%
+Wind | ~11%
+Nuclear | ~1.7%
+Target 2030 | 500 GW non-fossil
+@end
+
+@section 13.3 | International
+- Decade of Sustainable Energy for All: **United Nations** {2017}
+- ISA: World Solar Bank and OSOWOG under it (true); 38 members (false; over 100) (only 2) {2025}
+- Largest offshore wind farm (2024): disputed (*) (UK's Hornsea 2 is largest) {2023}
+
+@section 13.4 | Biofuels and Others
+- Not correct: biofuel is **cost-effective** {2014}
+- Biodiesel crop: **jatropha** {2015}
+- Green fuel source: karanja/ethanol (*) {2010}
+- Least polluting fuel: **hydrogen** {2010, 2013, 2015, 2017}
+- First 100% organic state: **Sikkim** {2019}
+- Nuclear projects must study **all** listed effects {2013}
+- No geothermal sources: **Ganga delta** {2016}
+
+@flow India's clean-fuel missions
+E20 ethanol | 20% blend nationwide (2025)
+SATAT / GOBARdhan | Compressed biogas
+Green Hydrogen Mission (2023) | 5 Mt/year by 2030
+PM Surya Ghar | Rooftop solar
+PM-KUSUM | Solar pumps for farmers
+@end
+
+@trap
+- **Diu** = first solar UT; **Cochin** = first solar airport.
+- **ISA** has 100+ members; HQ Gurugram.
+- **Hydrogen** burns to water; least polluting.
+@end
+
+@up UP's solar push: **Bundelkhand** solar parks (Jhansi, Lalitpur, Jalaun), **Ayodhya** as a model solar city, and UP Solar Policy 2022 targeting 22 GW; **Rampura** (2010) is the first solar village.
+
+@last
+- Sun = ultimate energy source
+- Solar = most eco-friendly, top potential
+- Solar is 2nd after fossil fuels
+- Kochi = first solar airport; Diu = first solar UT
+- Hydrogen = least polluting
+- Jatropha, karanja = biodiesel
+- Sikkim = first organic state
+- ISA: Gurugram; World Solar Bank, OSOWOG
+- Ganga delta: no geothermal
+- Nuclear energy is not biomass
+@end

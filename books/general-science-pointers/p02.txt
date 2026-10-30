@@ -1,0 +1,96 @@
+@chapter 2 | Measuring Instruments and Scales
+@meta Built from 31 UPPSC questions (1990–2021). Focus: instrument-use matching, weather instruments, pyrometer and pyrheliometer, Richter scale and seismograph, SONAR and RADAR.
+
+@hot
+- **Instrument matching**: **anemometer-wind, barometer-pressure, hygrometer-humidity, ammeter-current, seismograph-earthquake** {1992, 2001, 2008, 2012, 2015}
+- **Radar**: finds objects with **radio waves**; **SONAR**: finds submerged objects with **ultrasonic** waves {1996, 2000, 2001, 2004, 2008, 2016, ?}
+- **Pyrometer** = very **high temperature** {1998, 2004, 2008, ?, ?, ?}
+- **Hygrometer** = **relative humidity** {1995, 1996, 2014}
+- **Richter scale** and **seismograph** = earthquakes {1990, 2004, 2014, 2015, ?, ?}
+@end
+
+@section 2.1 | Navigation and Detection
+- Locating submerged objects: **SONAR** {2000, 2016}
+- SONAR uses **ultrasonic waves** {?}
+- **Radar**: presence and location of objects with **radio waves** {1996, 2001, 2004, 2008}
+
+@section 2.2 | Weather Instruments
+- Wind velocity: **anemometer** {2016}
+- Wrong pair: **tacheometer-pressure difference** (it is for surveying) {1997}
+- **Pyrometer**: **high temperature** {1998, 2004, 2008, ?}
+- Pyrometer is a **radiation thermometer**; for 2000 °C: **total radiation pyrometer** {?, ?}
+- **Pyrheliometer**: **solar radiation** {2015}
+- **Manometer**: **gas pressure** {1990}
+- **Ammeter-current, hygrometer-humidity, spring balance-weight, barometer-pressure** {2001}
+- Wrong pair: **ammeter-electric power** (ammeter measures current) {2015}
+- Atmospheric pressure: **barometer** {2010}
+- Relative humidity: **hygrometer** {1995, 1996, 2014}
+- **Ringelmann scale**: density of **smoke** {2021}
+- **Stethoscope-heart sound, sphygmomanometer-blood pressure, caratometer-gold purity, luxmeter-light** {2008}
+- Blood pressure: **sphygmomanometer** {?}
+
+@table
+Instrument | Measures
+Anemometer | Wind speed
+Barometer | Atmospheric pressure
+Hygrometer | Relative humidity
+Hydrometer | Density of liquids
+Lactometer | Purity of milk
+Pyrometer | Very high temperature
+Pyrheliometer | Solar radiation
+Manometer | Gas pressure
+Altimeter | Height
+Tacheometer | Survey distance and elevation
+@end
+
+@section 2.3 | Temperature and Light
+- No negative values: **Kelvin** scale {2017}
+- Correct pair: **thermoresistor-electronic thermometer** {2016}
+- Intensity of light: **luxmeter** {2004}
+
+@section 2.4 | Earthquakes, Radiation and Others
+- Earthquake intensity: **Richter scale** {2004, 2015}
+- Richter scale: amplitude of waves, i.e. **magnitude** {?}
+- Seismometer device: **seismograph** {1990, 2014, ?}
+- **Earthquake-seismograph, height-altimeter, current-ammeter, resistance-ohm** {1992}
+- **Anemometer-wind, seismograph-earthquakes, barograph-pressure, hygrometer-humidity** {2012}
+- Wrong pair: **seismometer-curvature of surface** {1999, 2010}
+- Radioactivity: **Geiger counter** {2010}
+- **Phonometer**: sound intensity, not in the options (*) {2014}
+- Lie detector: **polygraph** {2013}
+
+@table
+Instrument | Use
+Geiger-Muller counter | Radioactivity
+Seismograph | Records earthquake waves
+Crescograph | Plant growth (J.C. Bose)
+Kymograph | Muscle movement, pulse (graph)
+Polygraph | Lie detection
+Sphygmomanometer | Blood pressure
+Audiometer | Hearing
+Luxmeter | Light intensity
+Caratometer | Purity of gold
+Odometer | Distance travelled by a vehicle
+@end
+
+@trap
+- **Hygrometer** = humidity; **hydrometer** = liquid density.
+- **Pyrometer** = high temperature; **pyrheliometer** = solar radiation.
+- **Barometer** = air pressure; **manometer** = gas pressure; **ammeter** = current, not power.
+- Kelvin has no negative values; SONAR = sound, RADAR = radio waves.
+@end
+
+@up UP link: IMD's **Meteorological Centre, Lucknow** runs the UP network of rain gauges, automatic weather stations and a **Doppler weather radar** (soft detail); the **seismograph** network covers UP because its Terai belt lies in seismic zone IV.
+
+@last
+- Anemometer = wind; barometer = air pressure
+- Hygrometer = humidity; hydrometer = liquid density
+- Pyrometer = high temperature; pyrheliometer = solar radiation
+- Manometer = gas pressure; ammeter = current
+- SONAR = ultrasonic, submerged objects; RADAR = radio waves
+- Richter = magnitude; seismograph records quakes
+- Geiger counter = radioactivity; polygraph = lie detector
+- Sphygmomanometer = BP; caratometer = gold
+- Luxmeter = light; Ringelmann = smoke
+- Kelvin scale has no negative values
+@end

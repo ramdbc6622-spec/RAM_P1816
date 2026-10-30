@@ -1,0 +1,49 @@
+@chapter 30 | Lahore Session of Congress: Proposal of Complete Independence
+@meta Built from 10 UPPSC questions (1993–2023). Focus: Purna Swaraj at Lahore 1929, Nehru's first presidency, the resolutions and who moved them, the flag on the Ravi.
+
+@hot
+- **Purna Swaraj** resolution passed at **Lahore, 1929** {1993, 1999, 2004, 2008, 2010, 2011, 2023}
+- President: **Jawaharlal Nehru** (his first presidency) {2004, 2006, 2009, 2010, 2013}
+- Tricolour hoisted on the Ravi at midnight, **31 December 1929**, by **Nehru** {2004, 2014}
+@end
+
+@section 30.1 | The Session
+- Purna Swaraj passed in **1929** {1993, 1999, 2004}
+- Passed at the **Lahore session** {2023}
+- Declared the goal at **Lahore, 1929** {2008, 2010, 2011}
+- Nehru's first presidency: **Lahore, 1929** {2013}
+- Lahore president: **Jawaharlal Nehru** {2004, 2010}
+- Congress president when Purna Swaraj passed: **Nehru** {2006, 2009}
+- Not in the Lahore resolutions: **abolition of untouchability** {2010}
+- Resolution moved by **Gandhi** (some keys give Nehru) {2009}
+- Flag hoisted at midnight, 31 December 1929: **Nehru** {2004}
+- New tricolour first hoisted: **31 December 1929** {2014}
+
+@flow Road to Purna Swaraj
+Madras session names independence as goal | 1927
+Nehru Report asks for dominion status | 1928
+Calcutta session gives a one-year ultimatum | 1928
+Lahore session declares Purna Swaraj | December 1929
+Independence Day observed | 26 January 1930
+@end
+
+@trap
+- **Presided** = Nehru; **moved** the resolution = Gandhi.
+- Motilal at **Calcutta 1928**; Jawaharlal at **Lahore 1929**.
+- Lahore 1929 = Purna Swaraj; Lahore **1940** = Muslim League's Pakistan resolution.
+@end
+
+@up UP link: **Jawaharlal Nehru** of Allahabad became Congress president at 40; 26 January was later chosen for the Constitution to come into force (1950).
+
+@last
+- Lahore 1929 = Purna Swaraj
+- Nehru = president, first time
+- Gandhi = moved resolution
+- Flag on the Ravi = 31 December 1929
+- 26 January 1930 = Independence Day
+- Calcutta 1928 = one-year ultimatum
+- Motilal = Calcutta 1928
+- Untouchability not in Lahore resolutions
+- Civil Disobedience authorised at Lahore
+- Republic Day = 26 January 1950
+@end

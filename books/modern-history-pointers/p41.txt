@@ -1,0 +1,80 @@
+@chapter 41 | Constitutional Development of India
+@unit UNIT IX · CONSTITUTIONAL DEVELOPMENT AND MISCELLANY
+@meta Built from 28 UPPSC questions (1990–2023). Focus: the Regulating and Pitt's Acts, Charter Acts, the Agra Presidency, 1858 to 1909, dyarchy in 1919, simultaneous ICS examination, the 1935 Act and Indian verdicts.
+
+@hot
+- **Regulating Act (1773)**: first Governor-General of Bengal and the first Supreme Court (Calcutta) {1998, 2013}
+- **Indian Councils Act (1861)**: ordinance power, portfolio system; High Courts in **1861** {1997, 2001, 2010, 2013, 2021}
+- **Dyarchy** in the provinces: **Act of 1919** {1998, 2004, 2005}
+- **Simon Commission** report was the base of the **1935 Act**; Nehru called it a "**charter of slavery**" and "a car with brakes but no engine" {2007, 2010, 2010, 2015}
+@end
+
+@section 41.1 | Company Rule
+- First Governor-General of Bengal: **Regulating Act, 1773** {2013}
+- First Supreme Court: **Regulating Act, 1773** {1998}
+- Board of Control: **Pitt's India Act, 1784** {2015}
+- Governor-General may overrule his council: **Act of 1786** {1990}
+- Charter Act 1813 important: **money set aside for Indian education** {2016}
+- Company lost its tea monopoly: **Charter Act, 1833** {2015}
+- First functioning Legislative Council: **Charter Act, 1853** {2016}
+- Most of present UP put under the **Agra Presidency**: **1834** {2021}
+
+@section 41.2 | Crown Rule to 1919
+- Rule passed from the Company to the Crown: **Government of India Act, 1858** {2007, 2010}
+- Ordinance power to the Governor-General: **Indian Councils Act, 1861** {1997, 2001}
+- Portfolio system replacing collective working: **Indian Councils Act, 1861** {2021}
+- High Courts at Bombay, Madras, Calcutta: **1861** (Act; opened 1862) {2010, 2013}
+- First indirect elections: **1892** {2016}
+- Dyarchy divided administration (A); aimed at responsible government in provinces (R): **both true, R explains A** {1998}
+- Dyarchy introduced in the provinces by the **1919** Act {2004, 2005}
+- 1919 kept the structure unitary (A); much authority went to provinces (R): both true, R not the explanation (keys differ) {1998}
+- Chamber of Princes (120 members): **Act of 1919** {2023}
+- Simultaneous ICS examination recommended by the **Montagu-Chelmsford Report** {2010}
+- Simultaneous ICS examination finally agreed in **1922** {2014}
+
+@section 41.3 | The 1935 Act and After
+- Main elements: **federation and provincial autonomy** (not provincial dyarchy) {1998}
+- Council of India abolished by the **1935 Act** {2016}
+- Basis of the 1935 Act: **Simon Commission** {2010, 2015}
+- 1909 **Morley-Minto**, 1919 **Montagu-Chelmsford**, 1935 **Simon Report and JSC**, 1947 **Mountbatten Plan** {2009}
+- Congress rejected the 1935 Act at **Lucknow, 1936** {2013}
+- "Charter of slavery": **Nehru** {2010}
+- "A car with brakes but no engine": **Nehru** {2007}
+- "No need to beg pardon" for borrowing from the 1935 Act: **Ambedkar** {2015}
+- "One free country with separate electorates?": **Sardar Patel** {2021}
+
+@table
+Act | Key change
+Regulating Act 1773 | Governor-General of Bengal, Supreme Court at Calcutta
+Pitt's India Act 1784 | Board of Control
+Charter Act 1813 | End of trade monopoly (not tea, China); Rs 1 lakh for education
+Charter Act 1833 | Governor-General of India; tea monopoly ends
+Charter Act 1853 | Separate legislative council; open ICS competition
+Act of 1858 | Crown rule; Secretary of State
+Councils Act 1861 | Portfolios, ordinances
+Councils Act 1892 | Indirect election
+Councils Act 1909 | Separate electorates
+Act of 1919 | Provincial dyarchy, bicameral centre
+Act of 1935 | Federation, provincial autonomy, Federal Court
+@end
+
+@trap
+- First **indirect** election 1892; first **separate** electorate 1909; first **direct** election 1919.
+- 1935 brought dyarchy to the **centre** (never worked) and **ended** it in the provinces.
+- Aitchison Commission **opposed** simultaneous ICS examinations.
+@end
+
+@up UP link: The **Agra Presidency** (1834) and the North-Western Provinces became the base of today's UP; the **Queen's Proclamation** was read at **Allahabad** (1 November 1858).
+
+@last
+- 1773 = Governor-General of Bengal, Supreme Court
+- 1784 = Board of Control
+- 1813 = education money
+- 1833 = tea monopoly lost
+- 1853 = Legislative Council
+- 1858 = Crown rule
+- 1861 = ordinances, portfolios, High Courts
+- 1892 = indirect election
+- 1919 = dyarchy, Chamber of Princes
+- 1935 = federation, provincial autonomy
+@end

@@ -1,0 +1,68 @@
+@chapter 27 | Non-Cooperation Movement
+@meta Built from 27 UPPSC questions (1990–2023). Focus: causes and launch, swaraj in a year, Nagpur 1920, titles and boycotts, Tagore's critique, national institutions, Chauri Chaura and the withdrawal.
+
+@hot
+- **Chauri Chaura** (Gorakhpur), **4 February 1922**; Gandhi withdrew the movement because of the violence {1990, 2002, 2006, 2006, 2008, 2013}
+- Burning foreign cloth "a ruthless waste": **Tagore** {2002, 2003, 2004, 2010, 2013}
+- "Swaraj in a year": aim of **Non-Cooperation** (1920), Gandhi's first mass movement {2007, 2008, 2010, 2012}
+@end
+
+@section 27.1 | Launch and Programme
+- Not a cause of Non-Cooperation: **Salt Law** {2017}
+- Gandhi's first mass movement: **Non-Cooperation** {2007}
+- Started in **1920** {2008}
+- "Swaraj in a year": during **Non-Cooperation** {2012}
+- "Swaraj in a year" was its aim {2010}
+- Congress sought swaraj after the 1919 reforms under **Gandhi** {2017}
+- Moved the resolution at Nagpur (1920): **C.R. Das** {2011}
+- Supported it but did not live to see it: **Tilak** (died 1 August 1920) {2010}
+- Title Gandhi gave up: **Kaiser-i-Hind** {2004}
+- Gave up legal practice: **C.R. Das** {1999}
+- Not correct: "**Jinnah supported it**" {2013}
+- "A ruthless waste": **Tagore** {2002, 2003, 2004, 2010}
+- Opposed burning foreign cloth: **Tagore** {2013}
+- Founded during the movement: **Kashi Vidyapeeth, Gujarat Vidyapeeth, Jamia Millia** (not BHU) {2005}
+
+@section 27.2 | Chauri Chaura and After
+- Chauri Chaura: **4 February 1922** {2002, 2006}
+- District: **Gorakhpur** {2008, 2013}
+- Suspended because of **violence at Chauri Chaura** {1990, 2006}
+- Gandhi was at **Bardoli** at the time {2011}
+- Order: **Chauri Chaura, Bardoli resolutions, suspension** {2001}
+- Ended in **1922** {1990}
+- Censure vote against Gandhi (AICC, Delhi, 24 February 1922): **Dr. Moonje** {2002}
+- Gandhi postponed it (A true); C.R. Das and Motilal opposed (R true, not the reason) {2010}
+- Main outcome: **Hindu-Muslim unity** {2005}
+- E.V. Ramasamy joined Non-Cooperation and left the Congress in 1925: **both correct** {2023}
+- Wrong pair: **1930, Non-Cooperation** {1996}
+- Right pair: **1931, execution of Rajguru** {2004}
+
+@flow Non-Cooperation, 1920 to 1922
+Special session at Calcutta approves the programme | September 1920
+Nagpur session confirms; C.R. Das moves it | December 1920
+Boycott of titles, courts, schools, councils, cloth | 1921
+Chauri Chaura, 22 policemen killed | 4 February 1922
+Bardoli resolutions; movement withdrawn | 12 February 1922
+Gandhi arrested, six years' sentence | March 1922
+@end
+
+@trap
+- **Salt Law** belongs to Civil Disobedience (1930), not Non-Cooperation.
+- Jamia Millia began at **Aligarh** (1920) and moved to Delhi later; **BHU** (1916) predates the movement.
+- Bardoli 1922 = withdrawal; Bardoli 1928 = Patel's satyagraha.
+@end
+
+@up UP link: **Chauri Chaura** is in **Gorakhpur** district; **Kashi Vidyapeeth** (Varanasi) and **Jamia Millia** (Aligarh) were born in the movement.
+
+@last
+- Non-Cooperation = 1920, first mass movement
+- C.R. Das = moved Nagpur resolution
+- Tilak died 1 August 1920
+- Gandhi returned Kaiser-i-Hind
+- Tagore = "ruthless waste"
+- Kashi, Gujarat Vidyapeeth, Jamia = new institutions
+- Chauri Chaura = 4 February 1922, Gorakhpur
+- Gandhi at Bardoli then
+- Moonje = censure vote
+- Outcome = Hindu-Muslim unity
+@end

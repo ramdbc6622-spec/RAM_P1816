@@ -1,0 +1,75 @@
+@chapter 1 | Muslim Invasion of India
+@unit UNIT I · THE DELHI SULTANATE: DYNASTIES
+@meta Built from 22 UPPSC questions (1990–2024). Focus: the Prophet and the Arabs in Sindh, Mahmud of Ghazni and his court scholars, Muhammad Ghori's battles, Bakhtiyar Khalji, and why the Turks won.
+
+@hot
+- **First Muslim invaders**: the **Arabs**; **Muhammad bin Qasim** (an Arab) took Sindh in **712 CE** {1991, 1992, 2002, 2015}
+- **Muhammad Ghori**: beaten first by **Mularaja II** (Kasahrada, 1178); won **Second Tarain (1192)**; beat **Jayachandra at Chandawar (1194)** {1990, 1995, 2004, 2008, 2016}
+- **Mahmud's court**: historian **Utbi**; **Al-Biruni** first Muslim to study the Puranas (came in the 11th century) {1991, 2002, 2010, 2014}
+- **Bakhtiyar Khalji** conquered **Bihar and Bengal** for Ghori {1991, 2018}
+- Turks won because North India had **no political unity** (A and R true, R explains A) {2018, 2024}
+@end
+
+@section 1.1 | The Arabs in Sindh
+- Prophet Muhammad born: **570 CE** (Hijra 622) {1996}
+- First Muslim invaders: **Arabs** {2015}
+- Muhammad bin Qasim conquered Sindh: **712 CE** {1991}
+- First Muslim invader: **Muhammad bin Qasim**, an **Arab** {1992, 2002}
+
+@section 1.2 | Mahmud of Ghazni
+- Ghaznavid founder: **Alptigin** (Sabuktigin in many books) {2015}
+- Mahmud raided **17 times**, but for **wealth**, not empire (A true, R false) {2004}
+- Chandela king not defeated by Mahmud (key): **Vidyadhara** {1991}
+- Silver coins with a Sanskrit legend: **Mahmud of Ghazni** {2000}
+- Court historian: **Utbi** {1991}
+- Shahnama author is **Firdausi** (Mahmud's court); the question named Firishta (*) {2013}
+- First Muslim to study the Puranas: **Al-Biruni** {2002}
+- Al-Biruni came in the **11th century** {2010}
+- Not correct of Al-Biruni: a "**secular author**" {2014}
+
+@table
+Scholar | Work
+Al-Biruni | Kitab-ul-Hind (Tahqiq-i-Hind)
+Utbi | Tarikh-i-Yamini
+Firdausi | Shahnama
+@end
+
+@section 1.3 | Muhammad Ghori
+- Conquered North India in 1192: **Shihabuddin Muhammad Ghori** {2004}
+- Battle that founded Muslim rule: **Second Battle of Tarain** {1995}
+- First defeated Ghori: **Mularaja II** (Kasahrada, 1178) {1990}
+- **Chandawar (1194)**: Ghori beat **Jayachandra** {2008, 2016}
+- Bihar and Bengal conquered by **Bakhtiyar Khalji** {1991, 2018}
+- Order: **Mahmud, Ghori, Genghis Khan, Timur** {2008}
+- Turkish success: North India lacked **political unity** (A and R true, R explains A) {2018, 2024}
+
+@flow Invasions from the north-west
+712 | Muhammad bin Qasim takes Sindh
+1000-1027 | Mahmud's 17 raids (Somnath, 1025)
+1178 | Ghori beaten at Kasahrada by Mularaja II
+1191, 1192 | Tarain I (Prithviraj wins), Tarain II (Ghori wins)
+1194 | Chandawar: Jayachandra killed
+1206 | Ghori dies; Aibak founds the Sultanate
+@end
+
+@trap
+- Hijra = **622**; Prophet's birth = **570**.
+- Ghori's first defeat was by **Mularaja II**, not Prithviraj.
+- Chandawar (1194) is not the Battle of Kannauj (1540, Sher Shah vs Humayun).
+- Shahnama = **Firdausi**, not Firishta.
+@end
+
+@up UP link: **Chandawar** (Firozabad, on the Yamuna) saw Ghori defeat **Jayachandra Gahadavala** of **Kannauj** in 1194; Mahmud raided **Mathura** and **Kannauj** (1018).
+
+@last
+- Prophet born 570; Hijra 622
+- Arabs first; Muhammad bin Qasim 712 (Sindh)
+- Alptigin founded the Ghaznavids
+- Mahmud: 17 raids for wealth
+- Utbi = court historian; Firdausi = Shahnama
+- Al-Biruni = Puranas, 11th century
+- Mularaja II beat Ghori first (1178)
+- Second Tarain 1192 = foundation of Muslim rule
+- Chandawar 1194 = Jayachandra
+- Bakhtiyar Khalji = Bihar and Bengal
+@end

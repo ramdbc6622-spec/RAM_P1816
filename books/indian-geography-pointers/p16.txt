@@ -1,0 +1,100 @@
+@chapter 16 | Major Crops I: Crop Seasons, Wheat and Rice
+@meta Built from 44 UPPSC questions (2001–2024). Focus: kharif and rabi crops, wheat varieties and diseases, rice area, yield and production.
+
+@hot
+- **Wheat varieties**: Kalyan Sona, Sonalika, Raj 3077, Pusa Sindhu Ganga, UP-308 are **wheat** {2005, 2015, 2016, 2016}
+- **Rice**: largest **area** = **UP**; highest **yield** = **Punjab**; production leader = West Bengal (UP in 2024-25) {2006, 2007, 2015, 2017}
+- **Rabi** crops: wheat, **mustard**, **gram**; **kharif**: rice, **soybean** {2004, 2011, 2012, 2016}
+- **Rice varieties**: Jaya, Padma, Krishna, Pusa Sugandha-5, Mahi Sugandha, Barani Deep, Pusa RH-10 {2006, 2006, 2013, 2015, 2015}
+- Wheat diseases: **rust**, **Karnal bunt** {2003, 2004, 2015}
+@end
+
+@section 16.1 | Crop Seasons
+- **Mustard** is a **rabi** crop; not kharif {2016, 2012}
+- **Soybean** is a **kharif** crop {2004}
+- **Gram** is **not** a kharif crop (it is rabi) {2011}
+- **Zaid** crops in irrigated areas: **moong and urad** {2011}
+- Rabi crops lead in Punjab-Haryana, but winter rain there comes from **western disturbances**, not cyclones (A true, R false) {2023}
+- **Rice** is a **transplanted** crop {2017}
+
+@table
+Season | Sown | Harvested | Crops
+Kharif | June-July | Sept-Oct | Rice, maize, bajra, arhar, cotton, soybean, groundnut
+Rabi | Oct-Nov | March-April | Wheat, barley, gram, mustard, pea, potato
+Zaid | March | June | Melons, cucumber, moong, urad
+@end
+
+@section 16.2 | Wheat: States and Output
+- Top three wheat states: **UP, Punjab, Haryana** (then; MP now second) {2006}
+- Largest wheat producer (2015-16): **Uttar Pradesh** {2016}
+- UP ranks first in **wheat and sugarcane** (and rice since 2024-25) (*) {2008}
+- UP's biggest cropping pattern is **rice-wheat**; wheat's most critical irrigation is **crown root initiation**, not flowering {2013}
+- Wheat output **increased** from 2006-07 to 2009-10 {2009}
+
+@section 16.3 | Wheat Varieties and Diseases
+- Induced mutation: **Sonora-64** in the key (strictly **Sharbati Sonora**, from Sonora-64) {2015}
+- Dwarfing gene in wheat: **Norin-10** {2013}
+- **Kalyan Sona**, **Raj 3077**, **Pusa Sindhu Ganga**, **UP-308** are **wheat** {2005, 2015, 2016, 2016}
+- **Macaroni (durum)** wheat suits **unirrigated** conditions {2004}
+- **Triticale** = **wheat × rye** {2014}
+- Wheat disease: **rust**; **Karnal bunt** {2003, 2004, 2015}
+- Arhar for double cropping with wheat: **UPAS-120** {2010}
+
+@table
+Disease | Crop
+Rust, Karnal bunt, loose smut | Wheat
+Blast; Khaira (zinc lack) | Rice
+Tikka | Groundnut
+Red rot | Sugarcane
+Wilt | Arhar, gram
+@end
+
+@section 16.4 | Rice: Area and Production
+- Rice originated in **South-East Asia** {2015}
+- Chief food crop of India: **rice** {2004}
+- Largest crop area: **rice** {2011}
+- Rice needs over **100 cm** of rain {2007}
+- Largest rice **area**: **UP**; largest producer (then): UP per the key {2007, 2006}
+- Wrong pair: Bihar's share of rice output is **not 15.7%** {2024}
+- **Aman** paddy is sown in **June-July** (harvested in winter) {2011}
+- More than half of rice output: the leading states named in the key (*) {2004, 2009}
+- Four main rice producers (then): **WB, Punjab, UP, AP** (*) {2004}
+- Ascending order: **Tamil Nadu, Punjab, Andhra Pradesh, West Bengal** {2003}
+- Highest rice **yield**: **Punjab** {2015, 2017}
+- Punjab **exports** rice, but it does **not** lead in production (A true, R false) {2001}
+
+@flow Rice: three different "largest" answers
+Largest area | Uttar Pradesh
+Highest yield per hectare | Punjab
+Largest production | West Bengal (most years); UP in 2024-25
+Largest exporter (world) | India
+@end
+
+@section 16.5 | Rice Varieties
+- **Jaya, Padma, Krishna**: **rice** {2006}
+- **Pusa Sugandha-5**: aromatic **rice** {2006}
+- **Mahi Sugandha**: **rice** {2015}
+- **Barani Deep**: **paddy** {2013}
+- Hybrid basmati: **Pusa RH-10** {2015}
+- Seed rate for transplanted basmati: **15-20 kg/ha** {2014}
+- Largest area under **hybrid rice**: **Uttar Pradesh** {2014}
+
+@trap
+- **Gram and mustard are rabi**; **soybean is kharif**. **Moong and urad** can be kharif or zaid.
+- **Norin-10** = wheat dwarfing gene; **Dee-geo-woo-gen** = rice.
+@end
+
+@up UP is India's **largest wheat producer**, has the **largest rice area** and the largest **hybrid rice** area, and became the top **rice producer** in 2024-25. Its main cropping pattern is **rice-wheat**. Wheat variety **UP-308** and arhar **UPAS-120** come from UP-Pantnagar breeding.
+
+@last
+- Rabi: **wheat, mustard, gram**; kharif: **rice, soybean**
+- Zaid: **moong, urad**, melons
+- **Norin-10** = wheat dwarfing gene; **triticale** = wheat × rye
+- Kalyan Sona, Raj 3077, UP-308 = wheat
+- Jaya, Padma, Pusa Sugandha = rice
+- **Rust, Karnal bunt** = wheat
+- Rice: **UP** area, **Punjab** yield, **WB** production (UP 2024-25)
+- Rice needs **100 cm+** rain; originated in SE Asia
+- **Aman** paddy sown June-July
+- UP = largest wheat producer; rice-wheat pattern
+@end

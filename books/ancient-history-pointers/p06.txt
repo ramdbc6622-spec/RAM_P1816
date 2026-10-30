@@ -1,0 +1,68 @@
+@chapter 6 | Shaiva and Bhagavata Religion
+@meta Built from 16 UPPSC questions (1997–2022). Focus: iconography, Alvars and Nayanars, Heliodorus and the Bhagavatas, avatars of Vishnu, astika and nastika, the Gita and sacred geography.
+
+@hot
+- **Nayanars** = **Shaiva** saints; **Alvars** = Vaishnava {2006, 2013, 2014}
+- **Heliodorus** pillar (**Besnagar**) = earliest evidence of Bhagavatism; Heliodorus came from **Taxila** {1997, 2008, 2010}
+- **Gita** gives equal weight to **jnana, karma, bhakti**; the Bhagavata Purana is **not** in the Prasthanatrayi {1997, 2005}
+@end
+
+@section 6.1 | Iconography and Shaivism
+- **Shiva-trident, Vishnu-chakra, Ganesha-noose, Saraswati-veena** {2022}
+- **Ardhanarishvara**: union of god with his **Shakti** {1997}
+
+@section 6.2 | Tamil Bhakti
+- **Nayanars**: **Shaiva** saints {2006, 2014}
+- Not an Alvar: **Tirugyan** (Tirujnana Sambandar is a Nayanar) {2013}
+
+@table
+Group | God | Famous names
+Alvars (12) | Vishnu | Andal (woman), Nammalvar, Periyalvar
+Nayanars (63) | Shiva | Appar, Sambandar, Sundarar, Manikkavachakar
+@end
+
+@section 6.3 | Bhagavatism and Vishnu
+- First worshippers of Vasudeva Krishna: **Bhagavatas** {1997}
+- Earliest record of Bhagavatism: **Heliodorus' Besnagar inscription** {2008}
+- Heliodorus was from **Taxila** {2010}
+- Deity holding a plough: **Balarama** {2007}
+- Avatar that saved the Earth from the sea: **Varaha** {2010}
+- Forms of bhakti (Bhagavata): **9** {2010}
+
+@flow Ten avatars of Vishnu
+Matsya, Kurma | Fish (flood), tortoise (churning)
+Varaha, Narasimha | Boar (raises Earth), man-lion
+Vamana, Parashurama | Dwarf, axe-bearer
+Rama, Krishna | Epic heroes
+Buddha, Kalki | Buddha (some lists Balarama); future avatar
+@end
+
+@section 6.4 | Philosophy, Epics and Sacred Places
+- Astika vs nastika: belief in the **Vedas' authority** {2005}
+- Equal place to jnana, karma, bhakti: **Bhagavad Gita** {2005}
+- Not in the Prasthanatrayi: **Bhagavata** (it is Upanishads, Gita, Brahma Sutra) {1997}
+- Mahabharata told to 60,000 hermits at **Naimisharanya** {2006}
+- Rama meets Hanuman in the **Kishkindha Kanda** {2004}
+- Nashik Kumbh: on the **Godavari** {2003}
+
+@trap
+- Alvars = Vishnu; Nayanars = Shiva.
+- Heliodorus was an Indo-Greek envoy from **Taxila** (of Antialkidas), not Megasthenes.
+- Gita is in the Prasthanatrayi; the Bhagavata Purana is not.
+- Varaha raises the Earth; Matsya saves Manu in the flood.
+@end
+
+@up UP link: **Naimisharanya** (Sitapur) is where the Mahabharata and Puranas were recited; **Mathura** is the centre of Bhagavata worship of Vasudeva Krishna, and **Prayagraj** hosts the Kumbh at the Sangam.
+
+@last
+- Shiva = trident; Vishnu = chakra; Saraswati = veena
+- Ardhanarishvara = god + Shakti
+- Nayanars = Shaiva; Alvars = Vaishnava
+- Bhagavatas first worshipped Vasudeva Krishna
+- Heliodorus (Taxila) = Besnagar pillar
+- Balarama holds the plough; Varaha saves the Earth
+- Nine forms of bhakti
+- Astika = accepts the Vedas
+- Gita = jnana, karma, bhakti
+- Naimisharanya = Mahabharata recital; Nashik Kumbh = Godavari
+@end

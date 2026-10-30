@@ -1,0 +1,46 @@
+@chapter 39 | Formation of Interim Government (1946)
+@meta Built from 7 UPPSC questions (2004–2015). Focus: Direct Action Day, formation date, members and portfolios, the League's entry.
+
+@hot
+- **Direct Action Day**: **16 August 1946** {2007, 2008, 2010}
+- Interim Government under Nehru formed in **September 1946** {2006, 2015}
+@end
+
+@section 39.1 | The Government
+- Direct Action Day: **16 August 1946** {2007, 2008, 2010}
+- Formed under Nehru: **September 1946** (2 September) {2006, 2015}
+- Not ministers on 2 September 1946: **Liaquat Ali Khan and Maulana Azad** {2013}
+- Not in the interim cabinet: **B.R. Ambedkar** {2004}
+- Railways: **Asaf Ali** {2008}
+- Finance Minister: **Liaquat Ali Khan** (League joined on 26 October 1946) {2014}
+
+@table
+Member | Portfolio
+Jawaharlal Nehru | External Affairs, Commonwealth Relations
+Vallabhbhai Patel | Home, Information and Broadcasting
+Baldev Singh | Defence
+Rajendra Prasad | Food and Agriculture
+Asaf Ali | Railways
+Liaquat Ali Khan (League) | Finance
+@end
+
+@trap
+- Announced **24 August**, formed **2 September 1946**.
+- Liaquat and the League joined only in **October 1946**.
+- Ambedkar was **not** in the interim government; he became Law Minister in 1947.
+@end
+
+@up UP link: **Jawaharlal Nehru** of Allahabad headed the interim government as Vice-President of the Executive Council.
+
+@last
+- Direct Action Day = 16 August 1946
+- Interim Government = 2 September 1946
+- Nehru = Vice-President of Council
+- Patel = Home
+- Baldev Singh = Defence
+- Asaf Ali = Railways
+- Liaquat = Finance
+- League joined October 1946
+- Ambedkar not a member
+- Azad joined later (Education)
+@end
