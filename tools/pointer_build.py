@@ -1,6 +1,9 @@
 """Build a TATTVA SERIES Fast Revision Pointers PDF from pointer files.
 
-Usage: python3 tools/pointer_build.py books/indian-geography-pointers out.pdf
+Usage: python3 tools/pointer_build.py books/indian-geography-pointers out.pdf [--start N] [--no-howto]
+
+--start N numbers the first page N (for binding several books with continuous page numbers);
+--no-howto leaves out the "How to Use This Book" page.
 
 The folder holds book.txt ("title: ...") and pNN.txt pointer files:
   @chapter N | Title
@@ -25,7 +28,7 @@ from reportlab.lib import colors  # noqa: E402
 from reportlab.lib.enums import TA_CENTER  # noqa: E402
 from reportlab.lib.styles import ParagraphStyle  # noqa: E402
 from reportlab.platypus import (BaseDocTemplate, Flowable, Frame, KeepTogether,  # noqa: E402
-                                NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer, Table)
+                                CondPageBreak, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer, Table)
 from reportlab.pdfbase.pdfmetrics import stringWidth  # noqa: E402
 
 RIVER = colors.HexColor("#2f6f9f")
@@ -70,37 +73,46 @@ class FlowChart(Flowable):
         self.title = title
         self.rows = [[x.strip() for x in r.split("|", 1)] + [""] for r in rows if r.strip()]
 
+    LAB, NOTE, LL, NL = 9.9, 8.6, 12.2, 10.6
+
     def wrap(self, aw, ah):
         self.width = aw
         self.box_w = aw - 30
-        self.heights = []
+        self.lines = []
         for lab, note, *_ in self.rows:
-            n = len(_fit(note, "Cal", 7.6, self.box_w - 12)) if note else 0
-            self.heights.append(15 + 9.4 * n)
+            labs = _fit(lab, "Cal-B", self.LAB, self.box_w - 12)
+            notes = _fit(note, "Cal", self.NOTE, self.box_w - 12) if note else []
+            self.lines.append((labs, notes))
+        self.heights = [8 + self.LL * len(a) + self.NL * len(b) for a, b in self.lines]
         self.gap = 13
-        self.height = 18 + sum(self.heights) + self.gap * (len(self.rows) - 1) + 4
+        self.height = 19 + sum(self.heights) + self.gap * (len(self.rows) - 1) + 4
         return aw, self.height
 
     def draw(self):
         c = self.canv
         y = self.height
-        c.setFont("Helvetica-Bold", 6.8)
+        c.setFont("Helvetica-Bold", 7.4)
         c.setFillColor(tb.MUTED)
         c.drawString(0, y - 8, self.title.upper())
-        y -= 18
+        y -= 19
         x = 15
-        for k, ((lab, note, *_), h) in enumerate(zip(self.rows, self.heights)):
+        for k, ((labs, notes), h) in enumerate(zip(self.lines, self.heights)):
             c.setFillColor(NODE_BG)
             c.setStrokeColor(tb.GOLD)
             c.setLineWidth(0.7)
             c.roundRect(x, y - h, self.box_w, h, 4, stroke=1, fill=1)
+            ty = y - 4 - self.LAB
             c.setFillColor(tb.NAVY)
-            c.setFont("Cal-B", 9)
-            c.drawCentredString(x + self.box_w / 2, y - 11, lab)
+            c.setFont("Cal-B", self.LAB)
+            for line in labs:
+                c.drawCentredString(x + self.box_w / 2, ty, line)
+                ty -= self.LL
             c.setFillColor(tb.INK)
-            c.setFont("Cal", 7.6)
-            for j, line in enumerate(_fit(note, "Cal", 7.6, self.box_w - 12) if note else []):
-                c.drawCentredString(x + self.box_w / 2, y - 20.5 - 9.4 * j, line)
+            c.setFont("Cal", self.NOTE)
+            ty += self.LL - self.NL
+            for line in notes:
+                c.drawCentredString(x + self.box_w / 2, ty, line)
+                ty -= self.NL
             y -= h
             if k < len(self.rows) - 1:
                 _arrow(c, x + self.box_w / 2, y - 1, x + self.box_w / 2, y - self.gap + 1, tb.GOLD_DEEP)
@@ -163,15 +175,37 @@ class Confluence(Flowable):
 
 S, inline = tb.S, tb.inline
 HOT = colors.HexColor("#b03a2e")
-tb.style("pt", fontSize=9.3, leading=12.6, leftIndent=10, bulletIndent=0, spaceAfter=3.2)
-tb.style("ptbox", fontSize=9.0, leading=12.2, leftIndent=10, bulletIndent=0, spaceAfter=2.6)
-tb.style("meta", fontName="Cal-I", fontSize=9.4, leading=13, textColor=tb.MUTED, spaceAfter=8)
-tb.style("legend", fontSize=7.8, leading=10.4, textColor=tb.MUTED)
-tb.style("num", fontSize=9.0, leading=12.2, leftIndent=14, bulletIndent=0, spaceAfter=2.6,
+# Print sizes for A4 (body 11.4 pt); these override the Masterbook defaults for this builder only.
+tb.style("pt", fontSize=11.4, leading=15.2, leftIndent=11, bulletIndent=0, spaceAfter=3.6)
+tb.style("ptbox", fontSize=11.2, leading=14.8, leftIndent=11, bulletIndent=0, spaceAfter=3)
+tb.style("meta", fontName="Cal-I", fontSize=11.2, leading=14.8, textColor=tb.MUTED, spaceAfter=8)
+tb.style("legend", fontSize=9.2, leading=12, textColor=tb.MUTED)
+tb.style("num", fontSize=11.2, leading=14.8, leftIndent=16, bulletIndent=0, spaceAfter=3,
          bulletFontName="Cal-B", bulletColor=tb.NAVY)
+tb.style("section", fontName="Cal-B", fontSize=13.9, leading=17.2, textColor=tb.GOLD_DEEP, spaceBefore=10,
+         spaceAfter=5)
+tb.style("boxlabel", fontName="Helvetica-Bold", fontSize=8.3, leading=10.8, textColor=tb.MUTED, spaceAfter=2)
+tb.style("boxtext", fontSize=11.2, leading=15)
+tb.style("cell", fontSize=10.1, leading=12.8)
+tb.style("cellh", fontName="Cal-B", fontSize=10.1, leading=12.8, textColor=colors.white)
 for base in ("pt", "ptbox"):
-    tb.style(base + "_hot", parent=S[base], bulletFontName="Sym", bulletFontSize=6.5, bulletColor=HOT)
-    tb.style(base + "_n", parent=S[base], bulletFontName="Cal-B", bulletColor=tb.GOLD_DEEP)
+    # tb.style resets size and leading to its defaults, so carry the parent's over explicitly
+    keep = dict(fontSize=S[base].fontSize, leading=S[base].leading)
+    tb.style(base + "_hot", parent=S[base], bulletFontName="Sym", bulletFontSize=7.9, bulletColor=HOT, **keep)
+    tb.style(base + "_n", parent=S[base], bulletFontName="Cal-B", bulletColor=tb.GOLD_DEEP, **keep)
+
+
+class ChapterRule(Flowable):
+    """Gold rule that separates one chapter from the next on the same page."""
+
+    def wrap(self, aw, ah):
+        self.w = aw
+        return aw, 16
+
+    def draw(self):
+        self.canv.setStrokeColor(tb.GOLD_DEEP)
+        self.canv.setLineWidth(1.4)
+        self.canv.line(0, 8, self.w, 8)
 
 
 def years_tag(text):
@@ -184,8 +218,8 @@ def years_tag(text):
     n = len(years)
     years = ["one-liner" if y == "?" else y for y in years]
     col = "#b03a2e" if n >= 3 else "#8b6914"
-    tag = (f' <font name="Cal-B" size="7.6" color="{col}">{n}×</font>'
-           f' <font size="7.2" color="#5b6475">{", ".join(years)}</font>')
+    tag = (f' <font name="Cal-B" size="9.3" color="{col}">{n}×</font>'
+           f' <font size="9" color="#5b6475">{", ".join(years)}</font>')
     return body + tag, n
 
 
@@ -243,7 +277,9 @@ def parse(path):
 
 
 def chapter_flowables(ch, pages):
-    out = [NextPageTemplate("cols"), PageBreak(), tb.Marker(f"ch{ch['no']}", pages),
+    # only the first chapter opens a page; later ones follow on, unless too little room is left
+    brk = [NextPageTemplate("cols"), PageBreak()] if ch.get("first") else [CondPageBreak(240), ChapterRule()]
+    out = brk + [tb.Marker(f"ch{ch['no']}", pages),
            Paragraph(f"Chapter {ch['no']}", S["chapno"]),
            Paragraph(inline(ch["title"]), S["chaptitle"])]
     legend = ('<font name="Sym" color="#b03a2e">■</font> asked 3 or more times &nbsp;&nbsp; '
@@ -318,7 +354,7 @@ def cover(title, chapters):
                                                                          textColor=tb.MUTED))]
 
 
-def build(folder, out_path):
+def build(folder, out_path, start=1, howto=True):
     title = "Indian Geography"
     for l in open(os.path.join(folder, "book.txt"), encoding="utf-8"):
         if l.startswith("title:"):
@@ -343,7 +379,7 @@ def build(folder, out_path):
         c.line(tb.MARGIN_X, H - 40, W - tb.MARGIN_X, H - 40)
         c.setFont("Cal", 8)
         c.setFillColor(tb.MUTED)
-        c.drawCentredString(W / 2, 24, str(c.getPageNumber()))
+        c.drawCentredString(W / 2, 24, str(c.getPageNumber() + start - 1))
         c.restoreState()
 
     def cover_page(c, d):
@@ -367,9 +403,11 @@ def build(folder, out_path):
     def story():
         st = cover(title, chapters)
         if len(chapters) > 1:
-            st += [NextPageTemplate("full"), PageBreak()] + contents(title, chapters, pages)
-        st += [NextPageTemplate("full"), PageBreak()] + how_to_use()
-        for ch in chapters:
+            st += [NextPageTemplate("full"), PageBreak()] + contents(title, chapters, pages, start - 1)
+        if howto:
+            st += [NextPageTemplate("full"), PageBreak()] + how_to_use()
+        for k, ch in enumerate(chapters):
+            ch["first"] = k == 0
             st += chapter_flowables(ch, pages)
         return st
 
@@ -381,7 +419,7 @@ def build(folder, out_path):
     print(f"{out_path}: {len(chapters)} chapter(s), {sum(c['points'] for c in chapters)} pointers")
 
 
-def contents(title, chapters, pages):
+def contents(title, chapters, pages, offset=0):
     hdr = ParagraphStyle("cth", fontName="Helvetica", fontSize=6.5, leading=8, textColor=tb.MUTED)
     num = ParagraphStyle("ctn", fontName="Cal-B", fontSize=11, leading=13, textColor=tb.GOLD_DEEP)
     ttl = ParagraphStyle("ctx", fontName="Cal", fontSize=10, leading=12.5, textColor=tb.INK)
@@ -397,7 +435,7 @@ def contents(title, chapters, pages):
             units.append(len(data))
             data.append([Paragraph(inline(ch["unit"]), unit), "", "", ""])
         data.append([Paragraph(f"{ch['no']:02d}", num), Paragraph(inline(ch["title"]), ttl),
-                     Paragraph(str(ch["points"]), rt), Paragraph(str(pages.get(f"ch{ch['no']}", "")), pge)])
+                     Paragraph(str(ch["points"]), rt), Paragraph(str(pages[f"ch{ch['no']}"] + offset) if f"ch{ch['no']}" in pages else "", pge)])
     W = tb.FULL_W
     t = Table(data, colWidths=[40, W - 40 - 60 - 45, 60, 45], repeatRows=1)
     cmds = [("LINEBELOW", (0, 0), (-1, 0), 0.9, tb.GOLD), ("LINEBELOW", (0, 1), (-1, -1), 0.4, tb.HAIR),
@@ -436,4 +474,6 @@ def how_to_use():
 
 
 if __name__ == "__main__":
-    build(sys.argv[1], sys.argv[2])
+    args = sys.argv[1:]
+    start = int(args[args.index("--start") + 1]) if "--start" in args else 1
+    build(args[0], args[1], start=start, howto="--no-howto" not in args)

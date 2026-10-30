@@ -259,10 +259,11 @@ def auto_widths(rows, width):
     for c in range(n):
         words = [w for r in rows for w in re.sub(r"\*\*", "", r[c]).split()] or [""]
         font = lambda k: "Cal-B" if k == 0 else "Cal"
-        mw = max(stringWidth(w, "Cal-B", 8.3) for w in words) + 9
-        full = max(stringWidth(re.sub(r"\*\*", "", r[c]), "Cal-B" if k == 0 else "Cal", 8.3)
+        fs = S["cell"].fontSize
+        mw = max(stringWidth(w, "Cal-B", fs) for w in words) + 9
+        full = max(stringWidth(re.sub(r"\*\*", "", r[c]), "Cal-B" if k == 0 else "Cal", fs)
                    for k, r in enumerate(rows)) + 9
-        avg = sum(stringWidth(r[c], "Cal", 8.3) for r in rows) / len(rows) + 9
+        avg = sum(stringWidth(r[c], "Cal", fs) for r in rows) / len(rows) + 9
         minw.append(mw)
         need.append(max(mw, min(full, 0.6 * avg + 0.4 * full)))
     if sum(need) <= width:
@@ -576,7 +577,8 @@ CP_GREY, CP_LABEL, CP_RED = colors.HexColor("#555555"), colors.HexColor("#6b85a8
 CP_PINK, CT_UNIT, CT_SEP = colors.HexColor("#fdecec"), colors.HexColor("#f6f0e2"), colors.HexColor("#e6dfcf")
 
 
-def copyright_page(book, y0, y1):
+def copyright_page(book, y0, y1, line="UPPSC PRELIMS | PYQ MASTERBOOK", title=None, source=None):
+    """The copyright page. line, title and source let other TATTVA books reuse it with their own wording."""
     blue = ParagraphStyle("cpb", fontName="Cal", fontSize=8.6, leading=12.6, textColor=CP_BLUE)
     grey = ParagraphStyle("cpg", fontName="Cal", fontSize=8.4, leading=12.2, textColor=CP_GREY, alignment=TA_JUSTIFY)
     red = ParagraphStyle("cpr", fontName="Cal-B", fontSize=8.6, leading=12.4, textColor=CP_RED)
@@ -590,7 +592,7 @@ def copyright_page(book, y0, y1):
                               ("LEFTPADDING", (1, 0), (1, 0), 10), ("RIGHTPADDING", (1, 0), (1, 0), 10),
                               ("TOPPADDING", (0, 0), (-1, -1), 10), ("BOTTOMPADDING", (0, 0), (-1, -1), 10)]))
     out = [Tracked("TATTVA SERIES", "Cal-B", 17, CP_NAVY, 2.2, after=6),
-           Tracked("UPPSC PRELIMS | PYQ MASTERBOOK", "Cal-B", 8.5, GOLD_DEEP, 1.4, after=3),
+           Tracked(line, "Cal-B", 8.5, GOLD_DEEP, 1.4, after=3),
            Paragraph("<i>Previous Year Questions | Topic-wise Analysis | Conceptual Linkages | Exam-Oriented "
                      "Revision</i>", ParagraphStyle("cpt", fontName="Cal-I", fontSize=9, leading=12,
                                                     textColor=colors.HexColor("#444444"))),
@@ -611,18 +613,19 @@ def copyright_page(book, y0, y1):
                      "and other dynamic information may change over time. Readers are advised to refer to official "
                      "sources wherever necessary. Facts in this edition are updated to 30 September 2026.", grey),
            Spacer(1, 8),
-           Paragraph(f"All questions in this book are original previous-year questions from UPPSC and other Uttar "
+           Paragraph(source or (
+                     f"All questions in this book are original previous-year questions from UPPSC and other Uttar "
                      f"Pradesh state-level examinations held between {y0} and {y1}, cited with their paper and year. "
                      "Where an answer key is marked (*), is disputed, or has been overtaken by later changes in law "
                      "or fact, the original key is retained and a Note explains the position at the time of the "
-                     "examination and today.", grey),
+                     "examination and today."), grey),
            Spacer(1, 8),
            Paragraph("This publication is not affiliated with, endorsed by, or sponsored by UPPSC, UPSC, or any "
                      "government institution.", grey),
            Spacer(1, 16), head("FOR ACADEMIC USE"), Spacer(1, 6)]
     val = ParagraphStyle("cpv", fontName="Cal-B", fontSize=8.6, leading=11, textColor=CP_LINK)
     rows = [["PUBLISHED BY", "Quantum IAS & PCS"], ["SERIES", "Tattva Series"],
-            ["TITLE", f"UPPSC Prelims PYQ Masterbook: {book['title']}"], ["EDITION", "1st Edition | 2026"],
+            ["TITLE", title or f"UPPSC Prelims PYQ Masterbook: {book['title']}"], ["EDITION", "1st Edition | 2026"],
             ["YEAR OF PUBLICATION", "2026"], ["CONNECT", "YouTube @QuantumPCSAcademy"]]
     t = Table([[Tracked(a, "Cal", 7.5, CP_LABEL, 0.96), Paragraph(inline(b), val)] for a, b in rows],
               colWidths=[142, CP_W - 142], rowHeights=19.3)
