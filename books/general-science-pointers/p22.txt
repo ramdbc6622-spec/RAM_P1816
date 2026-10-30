@@ -99,7 +99,7 @@ B | B, AB | B, O
 - Feels no pain from a needle: **brain** tissue {2017}
 - Body temperature **stays the same** in winter and summer {2015}
 - Hunger and thirst centres: **hypothalamus** {2010}
-- Normal temperature: **98.6 F (37 C)** {?}
+- Normal temperature: **98.6 °F (37 °C)** {?}
 
 @flow Parts of the brain
 Cerebrum | Thinking, memory, senses; largest part

@@ -42,7 +42,7 @@ Isotones | Neutron number | Protons | C-14, N-15
 
 @section 14.4 | Mixtures, Colloids and Solutions
 - Salt solution is homogeneous; a homogeneous mix has the **same** composition throughout (A true, R false) {2022}
-- Salt-ice mix goes below 0 C; salt **lowers**, not raises, the freezing point (A true, R false) {1998}
+- Salt-ice mix goes below 0 °C; salt **lowers**, not raises, the freezing point (A true, R false) {1998}
 - Milk: an **emulsion** {2024, ?}
 - Not a colloid: **honey** (a true solution) {2002}
 - Dissolving 100 g sugar in half a litre of water: **volume** stays the same (per key) {2017}

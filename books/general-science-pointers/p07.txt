@@ -40,7 +40,7 @@ Gamma rays | Highest energy; radioactive decay, cancer therapy
 
 @table
 Medium | Speed of sound (approx.)
-Air (20 C) | 343 m/s
+Air (20 °C) | 343 m/s
 Water | 1,480 m/s
 Steel | About 5,000-6,000 m/s
 Vacuum | Zero (no sound)

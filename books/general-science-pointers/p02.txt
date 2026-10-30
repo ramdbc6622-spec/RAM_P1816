@@ -18,7 +18,7 @@
 - Wind velocity: **anemometer** {2016}
 - Wrong pair: **tacheometer-pressure difference** (it is for surveying) {1997}
 - **Pyrometer**: **high temperature** {1998, 2004, 2008, ?}
-- Pyrometer is a **radiation thermometer**; for 2000 C: **total radiation pyrometer** {?, ?}
+- Pyrometer is a **radiation thermometer**; for 2000 °C: **total radiation pyrometer** {?, ?}
 - **Pyrheliometer**: **solar radiation** {2015}
 - **Manometer**: **gas pressure** {1990}
 - **Ammeter-current, hygrometer-humidity, spring balance-weight, barometer-pressure** {2001}

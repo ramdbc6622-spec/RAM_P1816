@@ -1,9 +1,9 @@
 @chapter 4 | Properties of Matter
-@meta Built from 23 UPPSC questions (1992–2023). Focus: surface tension, pressure in bubbles and at height, water's maximum density at 4 C, Archimedes' principle and flotation.
+@meta Built from 23 UPPSC questions (1992–2023). Focus: surface tension, pressure in bubbles and at height, water's maximum density at 4 °C, Archimedes' principle and flotation.
 
 @hot
 - **Surface tension**: spherical raindrops, floating needle, oil spreading on water {1994, 2005, 2010, 2012}
-- Water is **densest at 4 C** (277 K); fish survive under ice {1997, 2005, 2008, ?, ?}
+- Water is **densest at 4 °C** (277 K); fish survive under ice {1997, 2005, 2008, ?, ?}
 - A ship **rises a little** on entering the sea; sea water is denser {1992, 2002, 2004, ?}
 - Pressure inside a soap bubble is **more than** outside {1995, 2014}
 @end
@@ -21,17 +21,17 @@
 - Sudden fall in barometer reading: **stormy** weather {1996}
 - Streamlined flow in a pipe: **slowest near the walls, fastest along the axis** {2003}
 
-@section 4.3 | Density and Water at 4 C
+@section 4.3 | Density and Water at 4 °C
 - More of a substance does not change its **density** {1992}
-- Cooling water from 9 C to 3 C: volume **first decreases, then increases** {1997}
-- Maximum density of water: **4 C** (277 K) {2008, ?}
-- Aquatic life survives freezing: water is **densest at 4 C**, so liquid water stays below the ice {2005, ?}
+- Cooling water from 9 °C to 3 °C: volume **first decreases, then increases** {1997}
+- Maximum density of water: **4 °C** (277 K) {2008, ?}
+- Aquatic life survives freezing: water is **densest at 4 °C**, so liquid water stays below the ice {2005, ?}
 
 @flow Anomalous expansion of water
-Above 4 C | Cooling makes water contract
-At 4 C | Maximum density; sinks to the bottom
-0-4 C | Water expands on cooling
-0 C | Ice forms on top, less dense; floats
+Above 4 °C | Cooling makes water contract
+At 4 °C | Maximum density; sinks to the bottom
+0-4 °C | Water expands on cooling
+0 °C | Ice forms on top, less dense; floats
 Result | Lake bottom stays liquid; fish survive
 @end
 
@@ -54,7 +54,7 @@ Pascal's law | Hydraulic lift, brakes, press
 @end
 
 @trap
-- Water's density peak is **4 C**, not 0 C; ice is **less** dense and floats.
+- Water's density peak is **4 °C**, not 0 °C; ice is **less** dense and floats.
 - Soap bubble pressure is **higher** inside; oil spreads because its surface tension is **lower**.
 - Steel is **more** elastic (higher Young's modulus) than rubber.
 @end
@@ -68,7 +68,7 @@ Pascal's law | Hydraulic lift, brakes, press
 - Bubble pressure **more** inside
 - Pen leaks in a plane = low pressure
 - Barometer falls fast = storm
-- Water densest at **4 C** (277 K)
+- Water densest at **4 °C** (277 K)
 - 1/9 of an iceberg above water
 - Ship rises in the sea; sea swimming easier
 - Iron floats on mercury, sinks in water

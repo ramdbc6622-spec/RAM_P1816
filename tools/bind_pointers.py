@@ -4,6 +4,7 @@ Usage: python3 tools/bind_pointers.py out.pdf
 
 Order: copyright page, a one-page subject contents, then each subject book (its cover, its own
 chapter contents and its chapters). The "How to Use This Book" page appears once, in the first subject.
+Each subject starts on a right-hand (odd) page for double-sided printing; a blank page fills the gap.
 """
 import os
 import subprocess
@@ -87,6 +88,7 @@ def build_subjects(tmp, starts):
 def starts_for(counts):
     starts, page = [], FRONT + 1
     for n in counts:
+        page += page % 2 == 0  # leave a blank left-hand page so the subject opens on the right
         starts.append(page)
         page += n
     return starts
@@ -105,13 +107,15 @@ def bind(out_path):
         w.append(front)
         w.add_outline_item("Contents", 1)
         for k, ((_, name), start) in enumerate(zip(SUBJECTS, starts)):
+            while len(w.pages) < start - 1:
+                w.add_blank_page(tb.PAGE_W, tb.PAGE_H)
             w.append(os.path.join(tmp, f"{k:02d}.pdf"))
             w.add_outline_item(name, start - 1)
         w.add_metadata({"/Title": f"TATTVA SERIES · UPPSC Prelims Fast Revision Pointers: {TITLE}",
                         "/Author": "Quantum IAS & PCS"})
         with open(out_path, "wb") as fh:
             w.write(fh)
-    print(f"{out_path}: {FRONT + sum(counts)} pages")
+    print(f"{out_path}: {starts[-1] + counts[-1] - 1} pages ({starts[-1] + counts[-1] - 1 - FRONT - sum(counts)} blank)")
     for (_, name), start, n in zip(SUBJECTS, starts, counts):
         print(f"  p{start:>3}  {name} ({n} pages)")
 

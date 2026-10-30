@@ -34,7 +34,7 @@
 - Leaves most acidity in soil: **ammonium sulphate** {1996}
 - **Urea**: a nitrogen-containing **organic** compound {2017}
 - Urea nitrogen: about **46-47%**, in **amide** form {?, ?}
-- Most soluble at 20 C among options: **urea** {2017}
+- Most soluble at 20 °C among options: **urea** {2017}
 - Urea for 1 kg nitrogen: **2.2 kg** {2019}
 - **DAP**: **18% N, 46% P2O5** {2008}
 - Commonest foliar fertiliser: **urea** {2015}
